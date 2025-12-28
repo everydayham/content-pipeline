@@ -24,7 +24,7 @@ def load_config():
 def fetch_episodes(podcast_id, api_token):
     """Fetch all episodes from Buzzsprout"""
     url = f"https://www.buzzsprout.com/api/{podcast_id}/episodes.json"
-    headers = {"Authorization": f"Token token={api_token}"}
+      headers = {"Authorization": f"Token {api_token}"}
     
     response = requests.get(url, headers=headers)
     response.raise_for_status()

@@ -1,0 +1,49 @@
+{
+  "sources": [
+    {
+      "name": "ARRL",
+      "feed_url": "http://www.arrl.org/arrl.rss",
+      "category": "news",
+      "description": "American Radio Relay League - official amateur radio news"
+    },
+    {
+      "name": "QRZ Forums",
+      "feed_url": "https://forums.qrz.com/index.php?forums/-/index.rss",
+      "category": "community",
+      "description": "QRZ community discussions and announcements"
+    },
+    {
+      "name": "SWLing Post",
+      "feed_url": "https://swling.com/blog/feed/",
+      "category": "news",
+      "description": "Shortwave listening, broadcasting, and amateur radio content"
+    },
+    {
+      "name": "AR Newsline",
+      "feed_url": "https://www.arnewsline.org/feed/",
+      "category": "news",
+      "description": "Amateur Radio Newsline weekly news program"
+    },
+    {
+      "name": "OnAllBands",
+      "feed_url": "https://www.onallbands.com/feed/",
+      "category": "technical",
+      "description": "DX Engineering's amateur radio blog"
+    },
+    {
+      "name": "K0NR",
+      "feed_url": "https://www.k0nr.com/wordpress/feed/",
+      "category": "blog",
+      "description": "Bob Witte K0NR's amateur radio blog"
+    },
+    {
+      "name": "EtherHam",
+      "feed_url": "https://etherham.com/feed/",
+      "category": "blog",
+      "description": "Amateur radio and technology content"
+    }
+  ],
+  "settings": {
+    "max_items_per_source": 10
+  }
+}

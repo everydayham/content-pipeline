@@ -1,0 +1,47 @@
+{
+  "youtube": {
+    "channel_handle": "@EverydayHam",
+    "search_keywords": [
+      "ham radio",
+      "amateur radio",
+      "POTA",
+      "parks on the air",
+      "SOTA",
+      "summits on the air",
+      "HF radio",
+      "ham radio beginner",
+      "technician license",
+      "general license",
+      "amateur extra",
+      "FT8",
+      "digital modes",
+      "ham radio antenna",
+      "portable ham radio",
+      "QRP",
+      "field day",
+      "ham radio contest",
+      "IC-705",
+      "Yaesu FT-891",
+      "Xiegu G90",
+      "ham radio review"
+    ],
+    "competitor_channels": [
+      "@HamRadioCrashCourse",
+      "@HamRadio2.0",
+      "@K8MRD",
+      "@TechMinds",
+      "@KM4ACK",
+      "@DXCommander",
+      "@RadioRoamers"
+    ],
+    "trending_period_days": 7
+  },
+  "buzzsprout": {
+    "podcast_id": "2438895"
+  },
+  "schedule": {
+    "youtube_publish_day": "Thursday",
+    "podcast_record_day": "1st Tuesday",
+    "podcast_publish_day": "1st Thursday"
+  }
+}

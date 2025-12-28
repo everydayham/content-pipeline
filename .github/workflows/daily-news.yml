@@ -37,16 +37,3 @@ jobs:
             git commit -m "📻 Daily news update - $(date +'%Y-%m-%d')"
             git push
           fi
-```
-
-**Step 4:** Click **"Commit changes"**
-
----
-
-## Now Create the Second Workflow
-
-**Repeat the process** — Add file → Create new file
-
-**Filename:**
-```
-.github/workflows/weekly-analytics.yml

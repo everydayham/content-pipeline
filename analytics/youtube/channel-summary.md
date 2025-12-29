@@ -1,7 +1,7 @@
 # YouTube Analytics
 ## Everyday Ham
 
-*Last updated: 2025-12-29 00:52 UTC*
+*Last updated: 2025-12-29 00:56 UTC*
 
 ---
 
@@ -22,7 +22,7 @@
 | Ham Radio Repeaters: Will Activity Rebound by... | 2025-12-05 | 986 | 12 | 1 |
 | Best Ham Radio Backpack of 2025? #shorts | 2025-12-04 | 208 | 4 | 0 |
 | 2026 Ham Radio Predictions: New Rigs, Communi... | 2025-12-04 | 118 | 5 | 1 |
-| 2026 Ham Radio Predictions: New Rigs, Communi... | 2025-12-04 | 303 | 18 | 3 |
+| 2026 Ham Radio Predictions: New Rigs, Communi... | 2025-12-04 | 302 | 18 | 3 |
 | 2025 Ham Radio Favorites: Gear We Actually Us... | 2025-12-04 | 1,082 | 39 | 6 |
 | Are There Any Ham Deals for Black Friday 2025... | 2025-11-28 | 1,647 | 53 | 5 |
 | Can You Put Up An Antenna? The HOA Bill Fight... | 2025-11-27 | 33 | 2 | 0 |

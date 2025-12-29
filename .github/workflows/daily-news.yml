@@ -26,6 +26,9 @@ jobs:
       - name: Fetch RSS feeds
         run: python scripts/fetch_rss.py
       
+      - name: Fetch Reddit posts
+        run: python scripts/fetch_reddit.py
+      
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[ARRL Headquarters Closing for Christmas Holiday 2025](http://www.arrl.org/news/view/arrl-headquarters-closing-for-christmas-holiday-2025)** (ARRL)
-- **[AU7RS, Laccadive Dxpedition](https://forums.qrz.com/index.php?threads/au7rs-laccadive-dxpedition.973741/)** (QRZ Forums)
+- **[Duplicate entries](https://forums.qrz.com/index.php?threads/duplicate-entries.949275/)** (QRZ Forums)
 - **[January 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2025/12/january-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)** (SWLing Post)
-- **[Youth Ham Radio Insights: Getting Started on a Budget](https://www.onallbands.com/youth-ham-radio-insights-getting-started-on-a-budget/)** (OnAllBands)
+- **[It’s All in the Cards! QSL Cards from Lakshadweep](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-lakshadweep/)** (OnAllBands)
 - **[CQ Worked All Zones](https://www.k0nr.com/wordpress/2025/12/cq-worked-all-zones/)** (K0NR)
 
 ---
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[AU7RS, Laccadive Dxpedition](https://forums.qrz.com/index.php?threads/au7rs-laccadive-dxpedition.973741/)**
+**[Duplicate entries](https://forums.qrz.com/index.php?threads/duplicate-entries.949275/)**
 
-**[KH0/AJ6VJ Northern Mariana Islands](https://forums.qrz.com/index.php?threads/kh0-aj6vj-northern-mariana-islands.976586/)**
+**[No Confirmed Contacts Since getting my General/Extra Upgrade](https://forums.qrz.com/index.php?threads/no-confirmed-contacts-since-getting-my-general-extra-upgrade.976620/)**
 
-**[Hams are Panicking About AI… Here is What They are Missing](https://forums.qrz.com/index.php?threads/hams-are-panicking-about-ai%E2%80%A6-here-is-what-they-are-missing.968186/)**
+**[W6LG Jim Heath - SK 2025 12 22](https://forums.qrz.com/index.php?threads/w6lg-jim-heath-sk-2025-12-22.976139/)**
 
-**[AU7RS - Lakshadweep Islands DXpedition](https://forums.qrz.com/index.php?threads/au7rs-lakshadweep-islands-dxpedition.973735/)**
+**[F6BB Brigitte Bardot SK](https://forums.qrz.com/index.php?threads/f6bb-brigitte-bardot-sk.976601/)**
 
-**[Request to Add Callsign YG2BWD to QRZ Database](https://forums.qrz.com/index.php?threads/request-to-add-callsign-yg2bwd-to-qrz-database.976585/)**
+**[All set for SKN](https://forums.qrz.com/index.php?threads/all-set-for-skn.976368/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[It’s All in the Cards! QSL Cards from Lakshadweep](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-lakshadweep/)**
+> OnAllBands’ final QSL card post of 2025 takes us roughly 8,000 miles from DX Engineering headquarters in Tallmadge, Ohio, to Lakshadweep—an archipelago of 36 islands between the Arabian Sea and […] The post It’s All in the Cards! QSL Cards from Lakshadweep appeared first on OnAllBands.
+
 **[Youth Ham Radio Insights: Getting Started on a Budget](https://www.onallbands.com/youth-ham-radio-insights-getting-started-on-a-budget/)**
 > Amateur radio isn’t the easiest hobby for young people to pursue for a multitude of reasons, including the support needed to get one’s footing in the hobby. One of the […] The post Youth Ham Radio Insights: Getting Started on a Budget appeared first on OnAllBands.
 
@@ -82,9 +85,6 @@
 
 **[How to Make the Most of a Trip to Orlando HamCation as a Young Ham](https://www.onallbands.com/how-to-make-the-most-of-a-trip-to-orlando-hamcation-as-a-young-ham/)**
 > The 2026 event is coming soon! Make plans today. *** The second largest amateur radio convention in the United States, the Orlando HamCation, is coming up in just a few […] The post How to Make the Most of a Trip to Orlando HamCation as a Young Ham appeared first on OnAllBands.
-
-**[DX Engineering Invites Content Creators & Website Owners to Join Its New Affiliate Program](https://www.onallbands.com/dx-engineering-invites-content-creators-website-owners-to-join-its-new-affiliate-program/)**
-> Make money by driving traffic and sales to the most trusted name in amateur radio. *** If you’d like an easy way to generate more revenue from your online presence—whether […] The post DX Engineering Invites Content Creators & Website Owners to Join Its New Affiliate Program appeared first on...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2025-12-29 11:35 UTC*
+*Generated: 2025-12-29 17:04 UTC*

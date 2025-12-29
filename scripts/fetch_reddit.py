@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Fetch hot posts from ham radio subreddits.
+Fetch hot posts from ham radio subreddits via RSS.
 Runs daily via GitHub Actions.
 """
 import json
-import requests
+import feedparser
 from datetime import datetime
 from pathlib import Path
 
@@ -12,17 +12,17 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 OUTPUT_DIR = PROJECT_ROOT / "news-summaries"
 
-SUBREDDITS = ["amateurradio", "HamRadio"]
-USER_AGENT = "EverydayHam-ContentPipeline/1.0"
+SUBREDDITS = [
+    {"name": "amateurradio", "url": "https://www.reddit.com/r/amateurradio/.rss"},
+    {"name": "HamRadio", "url": "https://www.reddit.com/r/HamRadio/.rss"}
+]
 
-def fetch_reddit_posts(subreddit, sort="hot", limit=20):
-    """Fetch posts from subreddit"""
-    url = f"https://www.reddit.com/r/{subreddit}/{sort}.json?limit={limit}"
-    headers = {"User-Agent": USER_AGENT}
-    
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return response.json()
+def fetch_subreddit(subreddit):
+    """Fetch posts from subreddit RSS feed"""
+    feed = feedparser.parse(subreddit['url'])
+    if feed.bozo and not feed.entries:
+        return None
+    return feed.entries
 
 def generate_markdown(all_posts):
     """Generate markdown summary of Reddit posts"""
@@ -37,64 +37,48 @@ def generate_markdown(all_posts):
         ""
     ]
     
-    # Posts by subreddit
-    for subreddit, data in all_posts.items():
-        posts = data.get('data', {}).get('children', [])
-        
-        lines.append(f"## 🔥 r/{subreddit}")
+    all_entries = []
+    
+    for subreddit_name, posts in all_posts.items():
+        lines.append(f"## 🔥 r/{subreddit_name}")
         lines.append("")
         
         for i, post in enumerate(posts[:15], 1):
-            p = post.get('data', {})
-            title = p.get('title', 'No title')[:80]
-            if len(p.get('title', '')) > 80:
+            title = post.get('title', 'No title')[:80]
+            if len(post.get('title', '')) > 80:
                 title += "..."
-            score = p.get('score', 0)
-            num_comments = p.get('num_comments', 0)
-            permalink = f"https://reddit.com{p.get('permalink', '')}"
-            flair = p.get('link_flair_text', '')
+            link = post.get('link', '')
+            author = post.get('author', 'unknown')
             
-            flair_str = f" `{flair}`" if flair else ""
-            
-            lines.append(f"**{i}. [{title}]({permalink})**{flair_str}")
-            lines.append(f"⬆️ {score} | 💬 {num_comments} comments")
+            lines.append(f"**{i}. [{title}]({link})**")
+            lines.append(f"by u/{author.replace('/u/', '')}")
             lines.append("")
+            
+            all_entries.append({
+                'title': post.get('title', ''),
+                'link': link,
+                'subreddit': subreddit_name,
+                'author': author
+            })
         
         lines.append("---")
         lines.append("")
     
-    # Combined top discussions
     lines.extend([
-        "## 💡 Top Discussions (Combined)",
+        "## 💡 Recent Discussions",
         "",
-        "*Highest engagement posts across both subreddits:*",
+        "*Latest posts across both subreddits:*",
         ""
     ])
     
-    # Combine and sort by comments
-    combined = []
-    for subreddit, data in all_posts.items():
-        for post in data.get('data', {}).get('children', []):
-            post['data']['subreddit_name'] = subreddit
-            combined.append(post)
-    
-    top_engagement = sorted(combined, key=lambda x: x['data'].get('num_comments', 0), reverse=True)[:10]
-    
-    for post in top_engagement:
-        p = post.get('data', {})
-        title = p.get('title', 'No title')[:70]
-        if len(p.get('title', '')) > 70:
+    for entry in all_entries[:10]:
+        title = entry['title'][:70]
+        if len(entry['title']) > 70:
             title += "..."
-        comments = p.get('num_comments', 0)
-        score = p.get('score', 0)
-        sub = p.get('subreddit_name', '')
-        permalink = f"https://reddit.com{p.get('permalink', '')}"
-        
-        lines.append(f"- **[{title}]({permalink})** (r/{sub})")
-        lines.append(f"  ⬆️ {score} | 💬 {comments} comments")
-        lines.append("")
+        lines.append(f"- **[{title}]({entry['link']})** (r/{entry['subreddit']})")
     
     lines.extend([
+        "",
         "---",
         "",
         "*Sources: r/amateurradio, r/HamRadio*"
@@ -110,12 +94,14 @@ def main():
     all_posts = {}
     
     for subreddit in SUBREDDITS:
-        print(f"\nFetching r/{subreddit}...")
+        print(f"\nFetching r/{subreddit['name']}...")
         try:
-            data = fetch_reddit_posts(subreddit, "hot", 20)
-            posts = data.get('data', {}).get('children', [])
-            all_posts[subreddit] = data
-            print(f"  ✓ Found {len(posts)} posts")
+            posts = fetch_subreddit(subreddit)
+            if posts:
+                all_posts[subreddit['name']] = posts
+                print(f"  ✓ Found {len(posts)} posts")
+            else:
+                print(f"  ✗ No posts found")
         except Exception as e:
             print(f"  ✗ Error: {e}")
     
@@ -127,12 +113,13 @@ def main():
     
     # Save JSON
     json_file = OUTPUT_DIR / "reddit.json"
+    json_data = {
+        'updated': datetime.now().isoformat(),
+        'subreddits': [s['name'] for s in SUBREDDITS],
+        'posts': {name: [{'title': p.get('title'), 'link': p.get('link'), 'author': p.get('author')} for p in posts] for name, posts in all_posts.items()}
+    }
     with open(json_file, 'w') as f:
-        json.dump({
-            'updated': datetime.now().isoformat(),
-            'subreddits': SUBREDDITS,
-            'posts': all_posts
-        }, f, indent=2)
+        json.dump(json_data, f, indent=2)
     print(f"\n✓ Saved: {json_file}")
     
     # Save Markdown

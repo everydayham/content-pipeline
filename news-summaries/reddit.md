@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2025-12-29 17:06 UTC*
+*Last updated: 2025-12-30 11:39 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)**
 by u/ItsBail
 
-**3. [ICOM 7300](https://www.reddit.com/r/amateurradio/comments/1pykq5v/icom_7300/)**
+**3. [Was looking for a 2M for a simple mobile setup, sent out an email to the club an...](https://www.reddit.com/r/amateurradio/comments/1pz63g0/was_looking_for_a_2m_for_a_simple_mobile_setup/)**
+by u/adhdff
+
+**4. [Has ham radio seen a paradigm shift?](https://www.reddit.com/r/amateurradio/comments/1pzbgtz/has_ham_radio_seen_a_paradigm_shift/)**
+by u/ki4jgt
+
+**5. [good morning i need help deciding between antennas](https://www.reddit.com/r/amateurradio/comments/1pzflo6/good_morning_i_need_help_deciding_between_antennas/)**
+by u/Salt_Ladder8891
+
+**6. [Is it just me…](https://www.reddit.com/r/amateurradio/comments/1pz24aq/is_it_just_me/)**
+by u/algol51
+
+**7. [What's the best mount for my hatchback? Diamond K400? CP-5NMO ? Amazon knockoff?...](https://www.reddit.com/r/amateurradio/comments/1pz3w9p/whats_the_best_mount_for_my_hatchback_diamond/)**
+by u/adhdff
+
+**8. [ICOM 7300](https://www.reddit.com/r/amateurradio/comments/1pykq5v/icom_7300/)**
 by u/idiotswalkamongus
 
-**4. [FT8- am I doing it wrong?](https://www.reddit.com/r/amateurradio/comments/1pyl9el/ft8_am_i_doing_it_wrong/)**
+**9. [Loop antenna for balcony](https://www.reddit.com/r/amateurradio/comments/1pz6bbu/loop_antenna_for_balcony/)**
+by u/Striking-Rope-3929
+
+**10. [I'm skiing in Italy and I wanted to do SOTA but I found out that none of the mou...](https://www.reddit.com/r/amateurradio/comments/1pzdri8/im_skiing_in_italy_and_i_wanted_to_do_sota_but_i/)**
+by u/ViktorsakYT_alt
+
+**11. [Is it OK to (mostly) Rely on Decoder for First CW Contacts?](https://www.reddit.com/r/amateurradio/comments/1pyxpvk/is_it_ok_to_mostly_rely_on_decoder_for_first_cw/)**
+by u/Puzzleheaded_Tax8761
+
+**12. [Ferrite Rings or Clip Ons](https://www.reddit.com/r/amateurradio/comments/1pz0t86/ferrite_rings_or_clip_ons/)**
+by u/TheUnkown696
+
+**13. [Motivations for learning CW](https://www.reddit.com/r/amateurradio/comments/1pywysh/motivations_for_learning_cw/)**
+by u/Mundane-Charge-1900
+
+**14. [FT8- am I doing it wrong?](https://www.reddit.com/r/amateurradio/comments/1pyl9el/ft8_am_i_doing_it_wrong/)**
 by u/MKE1969
 
-**5. [Jim Heath - W6LG - Was my father](https://www.reddit.com/r/amateurradio/comments/1pxtnuc/jim_heath_w6lg_was_my_father/)**
-by u/bryan_heath
-
-**6. [Check out my new **Eed** fed half **wava** 🫩😭](https://www.reddit.com/r/amateurradio/comments/1py9i87/check_out_my_new_eed_fed_half_wava/)**
-by u/casualcatloaf
-
-**7. [I feel I gave an accurate example on where to focus in the hobby.](https://www.reddit.com/r/amateurradio/comments/1py9qp3/i_feel_i_gave_an_accurate_example_on_where_to/)**
-by u/t_shaped_interests
-
-**8. [Digital Voice poor quality](https://www.reddit.com/r/amateurradio/comments/1pyn9h0/digital_voice_poor_quality/)**
-by u/SwitchedOnNow
-
-**9. [FT8 is amazing 😍](https://www.reddit.com/r/amateurradio/comments/1pxz1mx/ft8_is_amazing/)**
-by u/Witty-Ad4757
-
-**10. [Why the awful behavior on 14.244 yesterday during W2T special event station?](https://www.reddit.com/r/amateurradio/comments/1pxuud4/why_the_awful_behavior_on_14244_yesterday_during/)**
-by u/D_Ranz_0399
-
-**11. [FT8 oddness](https://www.reddit.com/r/amateurradio/comments/1pyahfi/ft8_oddness/)**
-by u/Vastator69
-
-**12. [Help setting up a radio](https://www.reddit.com/r/amateurradio/comments/1pyrm2e/help_setting_up_a_radio/)**
-by u/Just_Consideration50
-
-**13. [Online Testing - Messy office](https://www.reddit.com/r/amateurradio/comments/1pyrl3w/online_testing_messy_office/)**
-by u/LosLocosKickYourAss
-
-**14. [Sky Beacon: Optical SETI Laser Transmitter](https://www.reddit.com/r/amateurradio/comments/1pyhm3m/sky_beacon_optical_seti_laser_transmitter/)**
-by u/Sagar_the_explorer
-
-**15. [considering an ICOM IC-7100. I am seeking recommendations for additional equipme...](https://www.reddit.com/r/amateurradio/comments/1pyp3rg/considering_an_icom_ic7100_i_am_seeking/)**
-by u/evedamnededen
+**15. [First radio and questions for tech wanting to do POTA CW.](https://www.reddit.com/r/amateurradio/comments/1pyv2mo/first_radio_and_questions_for_tech_wanting_to_do/)**
+by u/gamegeekky
 
 ---
 
@@ -66,41 +66,41 @@ by u/SharkSapphire
 **3. [Pirates on 40 meter band on 7.055LSB. Isn't that illegal?](https://www.reddit.com/r/HamRadio/comments/1pylb2g/pirates_on_40_meter_band_on_7055lsb_isnt_that/)**
 by u/softwaregorefan64
 
-**4. [Telescoping Antenna Mast Install Project](https://www.reddit.com/r/HamRadio/comments/1pydmvs/telescoping_antenna_mast_install_project/)**
-by u/Maximum_Power7878
+**4. [good morning i need help deciding between antennas](https://www.reddit.com/r/HamRadio/comments/1pzfkt5/good_morning_i_need_help_deciding_between_antennas/)**
+by u/Salt_Ladder8891
 
-**5. [Can't find (cheap) 18-40GHz Antennas. Especially for K- and KA Band.](https://www.reddit.com/r/HamRadio/comments/1pyqvvp/cant_find_cheap_1840ghz_antennas_especially_for_k/)**
+**5. [How to scan frequency for uv5r unlocked.](https://www.reddit.com/r/HamRadio/comments/1pzcanp/how_to_scan_frequency_for_uv5r_unlocked/)**
+by u/Strong-Citron210
+
+**6. [Starter dmr radio? Using my friends radio but I want my own. I love the set up b...](https://www.reddit.com/r/HamRadio/comments/1pz6teb/starter_dmr_radio_using_my_friends_radio_but_i/)**
+by u/FlyCurious8305
+
+**7. [Spectronics dd-1 or dd-1c schematic needed.](https://www.reddit.com/r/HamRadio/comments/1pz6r91/spectronics_dd1_or_dd1c_schematic_needed/)**
+by u/Diligent_Peak_1275
+
+**8. [Can't find (cheap) 18-40GHz Antennas. Especially for K- and KA Band.](https://www.reddit.com/r/HamRadio/comments/1pyqvvp/cant_find_cheap_1840ghz_antennas_especially_for_k/)**
 by u/bilzebub86
 
-**6. [The aluminum components I bought for my handmadeYagi antenna were cut a bit shor...](https://www.reddit.com/r/HamRadio/comments/1pypxy5/the_aluminum_components_i_bought_for_my/)**
-by u/Mr-TA3WOA
+**9. [From Cobb Island To The World: The Radio Transmission That Changed Everything](https://www.reddit.com/r/HamRadio/comments/1pyyx5q/from_cobb_island_to_the_world_the_radio/)**
+by u/SharkSapphire
 
-**7. [Ceramic awards for 9 Band RDA activators (I made)](https://www.reddit.com/r/HamRadio/comments/1pyjbhf/ceramic_awards_for_9_band_rda_activators_i_made/)**
+**10. [Telescoping Antenna Mast Install Project](https://www.reddit.com/r/HamRadio/comments/1pydmvs/telescoping_antenna_mast_install_project/)**
+by u/Maximum_Power7878
+
+**11. [Ceramic awards for 9 Band RDA activators (I made)](https://www.reddit.com/r/HamRadio/comments/1pyjbhf/ceramic_awards_for_9_band_rda_activators_i_made/)**
 by u/Masterslav
 
-**8. [Heel needed with building a Slim JIM antenna for 2m band with 22mm copper pipe.](https://www.reddit.com/r/HamRadio/comments/1pykdjt/heel_needed_with_building_a_slim_jim_antenna_for/)**
+**12. [The aluminum components I bought for my handmadeYagi antenna were cut a bit shor...](https://www.reddit.com/r/HamRadio/comments/1pypxy5/the_aluminum_components_i_bought_for_my/)**
+by u/Mr-TA3WOA
+
+**13. [Strong signal on xiegu g90 without antenna](https://www.reddit.com/r/HamRadio/comments/1pytasg/strong_signal_on_xiegu_g90_without_antenna/)**
+by u/Famous-Jeweler8543
+
+**14. [Heel needed with building a Slim JIM antenna for 2m band with 22mm copper pipe.](https://www.reddit.com/r/HamRadio/comments/1pykdjt/heel_needed_with_building_a_slim_jim_antenna_for/)**
 by u/SkipSingle
 
-**9. [Does this look like AM interferance/can I filter it?](https://www.reddit.com/r/HamRadio/comments/1py961j/does_this_look_like_am_interferancecan_i_filter_it/)**
+**15. [Does this look like AM interferance/can I filter it?](https://www.reddit.com/r/HamRadio/comments/1py961j/does_this_look_like_am_interferancecan_i_filter_it/)**
 by u/DarkJedi527
-
-**10. [What signal did I find on 20 thousand MHz in downtown Toronto?](https://www.reddit.com/r/HamRadio/comments/1pxtxya/what_signal_did_i_find_on_20_thousand_mhz_in/)**
-by u/DillonF275
-
-**11. [Diamond RH77CA Questions About Authenticity](https://www.reddit.com/r/HamRadio/comments/1pyb6u5/diamond_rh77ca_questions_about_authenticity/)**
-by u/Motor-Web4541
-
-**12. [Jim Heath W6LG Silent Key - Friend to all](https://www.reddit.com/r/HamRadio/comments/1pxipr7/jim_heath_w6lg_silent_key_friend_to_all/)**
-by u/Much-Specific3727
-
-**13. [Visualizing Real-Time SOTA Propagation with DXLook](https://www.reddit.com/r/HamRadio/comments/1pxt8am/visualizing_realtime_sota_propagation_with_dxlook/)**
-by u/LiveSpread2190
-
-**14. [ARRL Website SSL Certificates are Expired?](https://www.reddit.com/r/HamRadio/comments/1pxh0y1/arrl_website_ssl_certificates_are_expired/)**
-by u/green_warbler
-
-**15. [The Baofeng hate has to stop. Counterfeits, outdated comparisons, and supply-cha...](https://www.reddit.com/r/HamRadio/comments/1px3crk/the_baofeng_hate_has_to_stop_counterfeits/)**
-by u/SharkSapphire
 
 ---
 
@@ -110,14 +110,14 @@ by u/SharkSapphire
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1pyn0co/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)** (r/amateurradio)
+- **[Was looking for a 2M for a simple mobile setup, sent out an email to t...](https://www.reddit.com/r/amateurradio/comments/1pz63g0/was_looking_for_a_2m_for_a_simple_mobile_setup/)** (r/amateurradio)
+- **[Has ham radio seen a paradigm shift?](https://www.reddit.com/r/amateurradio/comments/1pzbgtz/has_ham_radio_seen_a_paradigm_shift/)** (r/amateurradio)
+- **[good morning i need help deciding between antennas](https://www.reddit.com/r/amateurradio/comments/1pzflo6/good_morning_i_need_help_deciding_between_antennas/)** (r/amateurradio)
+- **[Is it just me…](https://www.reddit.com/r/amateurradio/comments/1pz24aq/is_it_just_me/)** (r/amateurradio)
+- **[What's the best mount for my hatchback? Diamond K400? CP-5NMO ? Amazon...](https://www.reddit.com/r/amateurradio/comments/1pz3w9p/whats_the_best_mount_for_my_hatchback_diamond/)** (r/amateurradio)
 - **[ICOM 7300](https://www.reddit.com/r/amateurradio/comments/1pykq5v/icom_7300/)** (r/amateurradio)
-- **[FT8- am I doing it wrong?](https://www.reddit.com/r/amateurradio/comments/1pyl9el/ft8_am_i_doing_it_wrong/)** (r/amateurradio)
-- **[Jim Heath - W6LG - Was my father](https://www.reddit.com/r/amateurradio/comments/1pxtnuc/jim_heath_w6lg_was_my_father/)** (r/amateurradio)
-- **[Check out my new **Eed** fed half **wava** 🫩😭](https://www.reddit.com/r/amateurradio/comments/1py9i87/check_out_my_new_eed_fed_half_wava/)** (r/amateurradio)
-- **[I feel I gave an accurate example on where to focus in the hobby.](https://www.reddit.com/r/amateurradio/comments/1py9qp3/i_feel_i_gave_an_accurate_example_on_where_to/)** (r/amateurradio)
-- **[Digital Voice poor quality](https://www.reddit.com/r/amateurradio/comments/1pyn9h0/digital_voice_poor_quality/)** (r/amateurradio)
-- **[FT8 is amazing 😍](https://www.reddit.com/r/amateurradio/comments/1pxz1mx/ft8_is_amazing/)** (r/amateurradio)
-- **[Why the awful behavior on 14.244 yesterday during W2T special event st...](https://www.reddit.com/r/amateurradio/comments/1pxuud4/why_the_awful_behavior_on_14244_yesterday_during/)** (r/amateurradio)
+- **[Loop antenna for balcony](https://www.reddit.com/r/amateurradio/comments/1pz6bbu/loop_antenna_for_balcony/)** (r/amateurradio)
+- **[I'm skiing in Italy and I wanted to do SOTA but I found out that none ...](https://www.reddit.com/r/amateurradio/comments/1pzdri8/im_skiing_in_italy_and_i_wanted_to_do_sota_but_i/)** (r/amateurradio)
 
 ---
 

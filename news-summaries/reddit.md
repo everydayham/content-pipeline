@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2025-12-31 11:33 UTC*
+*Last updated: 2026-01-01 11:33 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)**
 by u/ItsBail
 
-**3. [World Wide Award](https://www.reddit.com/r/amateurradio/comments/1q0as6w/world_wide_award/)**
+**3. [Help, My loading coil melted](https://www.reddit.com/r/amateurradio/comments/1q0proz/help_my_loading_coil_melted/)**
+by u/Big-Tutor-3060
+
+**4. [Is there any way to get amateur radio license all online or do you have to go in...](https://www.reddit.com/r/amateurradio/comments/1q0sy3l/is_there_any_way_to_get_amateur_radio_license_all/)**
+by u/FlakyBoard217
+
+**5. [I designed an built an open-sourced HF amplifier using jelly-bean transistors](https://www.reddit.com/r/amateurradio/comments/1q0ba6d/i_designed_an_built_an_opensourced_hf_amplifier/)**
+by u/elpechos
+
+**6. [Welcome to r/novasdr — NovaSDR Beta Launch (Start Here)](https://www.reddit.com/r/amateurradio/comments/1q0xq34/welcome_to_rnovasdr_novasdr_beta_launch_start_here/)**
+by u/magicint1337
+
+**7. [Random Wire Vs End Fed Half Wave](https://www.reddit.com/r/amateurradio/comments/1q0odx4/random_wire_vs_end_fed_half_wave/)**
+by u/Puzzleheaded_Tax8761
+
+**8. [How to copy CW?](https://www.reddit.com/r/amateurradio/comments/1q0oigr/how_to_copy_cw/)**
+by u/psteckler
+
+**9. [QRP Labs QMX+ My first kit build](https://www.reddit.com/r/amateurradio/comments/1q0bdxu/qrp_labs_qmx_my_first_kit_build/)**
+by u/li_greeny
+
+**10. [I’ve made my zettelkasten, want to share](https://www.reddit.com/r/amateurradio/comments/1q0onmz/ive_made_my_zettelkasten_want_to_share/)**
+by u/proggga
+
+**11. [Looking for a Low-Cost Decent LPFM Transmitter and Antenna](https://www.reddit.com/r/amateurradio/comments/1q0zgbh/looking_for_a_lowcost_decent_lpfm_transmitter_and/)**
+by u/kilokahn
+
+**12. [World Wide Award](https://www.reddit.com/r/amateurradio/comments/1q0as6w/world_wide_award/)**
 by u/Mikeg4vss
 
-**4. [WNAM 1280 shutting down.](https://www.reddit.com/r/amateurradio/comments/1q056lg/wnam_1280_shutting_down/)**
-by u/RideWithMeSNV
+**13. [The Flatlander's 40-10m EFHW is amazing.](https://www.reddit.com/r/amateurradio/comments/1q0u3hs/the_flatlanders_4010m_efhw_is_amazing/)**
+by u/kooler_duck
 
-**5. [Icon 7300 for $900 or Yaesu FT-710 for $1,050 (both new)](https://www.reddit.com/r/amateurradio/comments/1pzxsbk/icon_7300_for_900_or_yaesu_ft710_for_1050_both_new/)**
-by u/Slow281
+**14. [Songs that use Morse Code](https://www.reddit.com/r/amateurradio/comments/1q0n4pi/songs_that_use_morse_code/)**
+by u/auxiliary-username
 
-**6. [Antenna ID](https://www.reddit.com/r/amateurradio/comments/1pztwd6/antenna_id/)**
-by u/squeky_clean
-
-**7. [Repurpose old dish for amateur radio applications?](https://www.reddit.com/r/amateurradio/comments/1pzluym/repurpose_old_dish_for_amateur_radio_applications/)**
-by u/kcsebby
-
-**8. [ICOM 7300 I Bought It](https://www.reddit.com/r/amateurradio/comments/1pzr1fz/icom_7300_i_bought_it/)**
-by u/idiotswalkamongus
-
-**9. [Problems setting up Winlink](https://www.reddit.com/r/amateurradio/comments/1q0aqb7/problems_setting_up_winlink/)**
-by u/Over-Comfortable-264
-
-**10. [Old copies of Ham radio magazine](https://www.reddit.com/r/amateurradio/comments/1pzvh2a/old_copies_of_ham_radio_magazine/)**
-by u/Saya_aurora
-
-**11. [Has ham radio seen a paradigm shift?](https://www.reddit.com/r/amateurradio/comments/1pzbgtz/has_ham_radio_seen_a_paradigm_shift/)**
-by u/ki4jgt
-
-**12. [Was looking for a 2M for a simple mobile setup, sent out an email to the club an...](https://www.reddit.com/r/amateurradio/comments/1pz63g0/was_looking_for_a_2m_for_a_simple_mobile_setup/)**
-by u/adhdff
-
-**13. [Can you identify this six element HF Yagi?](https://www.reddit.com/r/amateurradio/comments/1pzvlvy/can_you_identify_this_six_element_hf_yagi/)**
-by u/KJ7LNW
-
-**14. [First day on LCWO](https://www.reddit.com/r/amateurradio/comments/1pzt774/first_day_on_lcwo/)**
-by u/TurbulentSquirrel804
-
-**15. [Icom 4100A](https://www.reddit.com/r/amateurradio/comments/1pzrrk3/icom_4100a/)**
-by u/Fluid_Horror_6100
+**15. [Wish you knew if/when the ICOM 7610 would get a mkii](https://www.reddit.com/r/amateurradio/comments/1q0w0g6/wish_you_knew_ifwhen_the_icom_7610_would_get_a/)**
+by u/DukeDucati
 
 ---
 
@@ -63,44 +63,44 @@ by u/ham-quiz-app
 **2. [Exciting Update: Introducing User Flairs on r/HamRadio](https://www.reddit.com/r/HamRadio/comments/1n2p39j/exciting_update_introducing_user_flairs_on/)**
 by u/SharkSapphire
 
-**3. [Handi-Talky Commander - Voice, APRS, Winlink, Packet Software](https://www.reddit.com/r/HamRadio/comments/1q07vt8/handitalky_commander_voice_aprs_winlink_packet/)**
+**3. [What’s up with all the sad hams? You’d think they’d like new people in the hobby...](https://www.reddit.com/r/HamRadio/comments/1q0mauz/whats_up_with_all_the_sad_hams_youd_think_theyd/)**
+by u/MasonicHamExtra
+
+**4. [Morse code lovers and navy trainers persist with skill others deem a dying art](https://www.reddit.com/r/HamRadio/comments/1q0y2wv/morse_code_lovers_and_navy_trainers_persist_with/)**
+by u/SharkSapphire
+
+**5. [Wishing everyone in r/hamradio a warm close to the holiday season and a blessed ...](https://www.reddit.com/r/HamRadio/comments/1q0ru4w/wishing_everyone_in_rhamradio_a_warm_close_to_the/)**
+by u/SharkSapphire
+
+**6. [The ham license renewal fun continues.....](https://www.reddit.com/r/HamRadio/comments/1q0i7u7/the_ham_license_renewal_fun_continues/)**
+by u/CatDaddyTom
+
+**7. [Noob(sort of) question Loops ok? Need your experience please.](https://www.reddit.com/r/HamRadio/comments/1q0r5uf/noobsort_of_question_loops_ok_need_your/)**
+by u/MomusTheGreatest
+
+**8. [New to HAM, recommendations on decent handheld.](https://www.reddit.com/r/HamRadio/comments/1q0prxx/new_to_ham_recommendations_on_decent_handheld/)**
+by u/TrafficOwn7771
+
+**9. [Handi-Talky Commander - Voice, APRS, Winlink, Packet Software](https://www.reddit.com/r/HamRadio/comments/1q07vt8/handitalky_commander_voice_aprs_winlink_packet/)**
 by u/ylianst
 
-**4. [Is it frowned upon to call CQ on 75/80M ?](https://www.reddit.com/r/HamRadio/comments/1pzz6am/is_it_frowned_upon_to_call_cq_on_7580m/)**
+**10. [Ham Radio for Long Distance Communication (500+ miles)?](https://www.reddit.com/r/HamRadio/comments/1q0opxe/ham_radio_for_long_distance_communication_500/)**
+by u/weirdmammal
+
+**11. [Any hams in the Borders near Berwick-Upon Tweed?](https://www.reddit.com/r/HamRadio/comments/1q0gk1h/any_hams_in_the_borders_near_berwickupon_tweed/)**
+by u/documentally
+
+**12. [Plans For 13-Metre Radio Mast In Wroxall Spark Local Opposition](https://www.reddit.com/r/HamRadio/comments/1q0h8mp/plans_for_13metre_radio_mast_in_wroxall_spark/)**
+by u/SharkSapphire
+
+**13. [Is it frowned upon to call CQ on 75/80M ?](https://www.reddit.com/r/HamRadio/comments/1pzz6am/is_it_frowned_upon_to_call_cq_on_7580m/)**
 by u/Juggernaut2371
 
-**5. [Can I use this 55 amp power converter for a ham radio?](https://www.reddit.com/r/HamRadio/comments/1pzxw5g/can_i_use_this_55_amp_power_converter_for_a_ham/)**
+**14. [Planning satellite passes for amateur radio: a tool I built to make it easier](https://www.reddit.com/r/HamRadio/comments/1q0wi8j/planning_satellite_passes_for_amateur_radio_a/)**
+by u/Low-Cardiologist-741
+
+**15. [Can I use this 55 amp power converter for a ham radio?](https://www.reddit.com/r/HamRadio/comments/1pzxw5g/can_i_use_this_55_amp_power_converter_for_a_ham/)**
 by u/SMB-1988
-
-**6. [Anyone have any actual experience with this Xiegu G106 QRP transceiver?](https://www.reddit.com/r/HamRadio/comments/1pzwrhr/anyone_have_any_actual_experience_with_this_xiegu/)**
-by u/Bolt_EV
-
-**7. [Is automated weather report normal/ethical by DK0MC?](https://www.reddit.com/r/HamRadio/comments/1pzqunz/is_automated_weather_report_normalethical_by_dk0mc/)**
-by u/gogusamsung
-
-**8. [Coverage maps like mygmrs but for HAM 2m and 70cm?](https://www.reddit.com/r/HamRadio/comments/1q04pbe/coverage_maps_like_mygmrs_but_for_ham_2m_and_70cm/)**
-by u/rab127
-
-**9. [Hauling a repeater connex box to the top of a mountain](https://www.reddit.com/r/HamRadio/comments/1q06fbe/hauling_a_repeater_connex_box_to_the_top_of_a/)**
-by u/magichronx
-
-**10. [What to do with DMR radio I can't use? Unable to program from front panel](https://www.reddit.com/r/HamRadio/comments/1q05r1k/what_to_do_with_dmr_radio_i_cant_use_unable_to/)**
-by u/DistinguishedRedneck
-
-**11. [Bandwidth limits on amateur microwave bands](https://www.reddit.com/r/HamRadio/comments/1pzlsgs/bandwidth_limits_on_amateur_microwave_bands/)**
-by u/Soap_Box_Hero
-
-**12. [RT5 headphone adaptor for an idiot- not working as expected](https://www.reddit.com/r/HamRadio/comments/1pzwfew/rt5_headphone_adaptor_for_an_idiot_not_working_as/)**
-by u/TriXandApple
-
-**13. [Where to buy this radio on the internet at a decent price?](https://www.reddit.com/r/HamRadio/comments/1pzoj5i/where_to_buy_this_radio_on_the_internet_at_a/)**
-by u/Dark_Cisco
-
-**14. [How do I demodulate single sideband. And get a sharper filter.](https://www.reddit.com/r/HamRadio/comments/1pzsvrf/how_do_i_demodulate_single_sideband_and_get_a/)**
-by u/Certain_Height_2721
-
-**15. [RUFZXP issues, the <ENTER> key quit working, but only for entering the sent call...](https://www.reddit.com/r/HamRadio/comments/1pzrsud/rufzxp_issues_the_enter_key_quit_working_but_only/)**
-by u/Mark47n
 
 ---
 
@@ -110,14 +110,14 @@ by u/Mark47n
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1pyn0co/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)** (r/amateurradio)
-- **[World Wide Award](https://www.reddit.com/r/amateurradio/comments/1q0as6w/world_wide_award/)** (r/amateurradio)
-- **[WNAM 1280 shutting down.](https://www.reddit.com/r/amateurradio/comments/1q056lg/wnam_1280_shutting_down/)** (r/amateurradio)
-- **[Icon 7300 for $900 or Yaesu FT-710 for $1,050 (both new)](https://www.reddit.com/r/amateurradio/comments/1pzxsbk/icon_7300_for_900_or_yaesu_ft710_for_1050_both_new/)** (r/amateurradio)
-- **[Antenna ID](https://www.reddit.com/r/amateurradio/comments/1pztwd6/antenna_id/)** (r/amateurradio)
-- **[Repurpose old dish for amateur radio applications?](https://www.reddit.com/r/amateurradio/comments/1pzluym/repurpose_old_dish_for_amateur_radio_applications/)** (r/amateurradio)
-- **[ICOM 7300 I Bought It](https://www.reddit.com/r/amateurradio/comments/1pzr1fz/icom_7300_i_bought_it/)** (r/amateurradio)
-- **[Problems setting up Winlink](https://www.reddit.com/r/amateurradio/comments/1q0aqb7/problems_setting_up_winlink/)** (r/amateurradio)
-- **[Old copies of Ham radio magazine](https://www.reddit.com/r/amateurradio/comments/1pzvh2a/old_copies_of_ham_radio_magazine/)** (r/amateurradio)
+- **[Help, My loading coil melted](https://www.reddit.com/r/amateurradio/comments/1q0proz/help_my_loading_coil_melted/)** (r/amateurradio)
+- **[Is there any way to get amateur radio license all online or do you hav...](https://www.reddit.com/r/amateurradio/comments/1q0sy3l/is_there_any_way_to_get_amateur_radio_license_all/)** (r/amateurradio)
+- **[I designed an built an open-sourced HF amplifier using jelly-bean tran...](https://www.reddit.com/r/amateurradio/comments/1q0ba6d/i_designed_an_built_an_opensourced_hf_amplifier/)** (r/amateurradio)
+- **[Welcome to r/novasdr — NovaSDR Beta Launch (Start Here)](https://www.reddit.com/r/amateurradio/comments/1q0xq34/welcome_to_rnovasdr_novasdr_beta_launch_start_here/)** (r/amateurradio)
+- **[Random Wire Vs End Fed Half Wave](https://www.reddit.com/r/amateurradio/comments/1q0odx4/random_wire_vs_end_fed_half_wave/)** (r/amateurradio)
+- **[How to copy CW?](https://www.reddit.com/r/amateurradio/comments/1q0oigr/how_to_copy_cw/)** (r/amateurradio)
+- **[QRP Labs QMX+ My first kit build](https://www.reddit.com/r/amateurradio/comments/1q0bdxu/qrp_labs_qmx_my_first_kit_build/)** (r/amateurradio)
+- **[I’ve made my zettelkasten, want to share](https://www.reddit.com/r/amateurradio/comments/1q0onmz/ive_made_my_zettelkasten_want_to_share/)** (r/amateurradio)
 
 ---
 

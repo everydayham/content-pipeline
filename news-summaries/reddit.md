@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-02 11:32 UTC*
+*Last updated: 2026-01-03 11:36 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,93 +14,93 @@ by u/AutoModerator
 **2. [2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)**
 by u/ItsBail
 
-**3. [Kenwood TS-990S in a display case, right in the middle of the Tokyo Haneda airpo...](https://www.reddit.com/r/amateurradio/comments/1q1v7rc/kenwood_ts990s_in_a_display_case_right_in_the/)**
+**3. [I started a nonprofit radio observatory to make this NASA telescope available to...](https://www.reddit.com/r/amateurradio/comments/1q24cqf/i_started_a_nonprofit_radio_observatory_to_make/)**
+by u/Upset_Ant2834
+
+**4. [Thought I had a 5-pack POTA done today, until I read the rules.....](https://www.reddit.com/r/amateurradio/comments/1q2f7i1/thought_i_had_a_5pack_pota_done_today_until_i/)**
+by u/get_down_to_it
+
+**5. [Why are their ham radio looking antennas on 90% of the taxis in Cozumel?](https://www.reddit.com/r/amateurradio/comments/1q23w8f/why_are_their_ham_radio_looking_antennas_on_90_of/)**
+by u/just-a-guy-somewhere
+
+**6. [For a 2026 of more radios.](https://www.reddit.com/r/amateurradio/comments/1q2nykg/for_a_2026_of_more_radios/)**
+by u/Revolutionary_Gur297
+
+**7. [Just ordered my first HF radio - FT-710 - Very excited! I watched the tariff ind...](https://www.reddit.com/r/amateurradio/comments/1q2ou30/just_ordered_my_first_hf_radio_ft710_very_excited/)**
+by u/Slow281
+
+**8. [Made my own radio case](https://www.reddit.com/r/amateurradio/comments/1q211p8/made_my_own_radio_case/)**
+by u/S52_DiDah
+
+**9. [Military HFGCS active](https://www.reddit.com/r/amateurradio/comments/1q2p9ea/military_hfgcs_active/)**
+by u/hamthatlooksup
+
+**10. [Kenwood TS-990S in a display case, right in the middle of the Tokyo Haneda airpo...](https://www.reddit.com/r/amateurradio/comments/1q1v7rc/kenwood_ts990s_in_a_display_case_right_in_the/)**
 by u/the2belo
 
-**4. [The Off Center Fed dipole…](https://www.reddit.com/r/amateurradio/comments/1q1odtc/the_off_center_fed_dipole/)**
-by u/ki4clz
+**11. [Help with mounts/adapters](https://www.reddit.com/r/amateurradio/comments/1q2fui9/help_with_mountsadapters/)**
+by u/inkcoloredblack
 
-**5. [How do I overcome mic fright?](https://www.reddit.com/r/amateurradio/comments/1q1uzsn/how_do_i_overcome_mic_fright/)**
-by u/kooler_duck
+**12. [JPC-12s on 40m](https://www.reddit.com/r/amateurradio/comments/1q2nmfr/jpc12s_on_40m/)**
+by u/Rolfus_Tiddle
 
-**6. [Aaaaugh! Am I an outlaw now?](https://www.reddit.com/r/amateurradio/comments/1q171hv/aaaaugh_am_i_an_outlaw_now/)**
-by u/Horchaster
+**13. [CQ USA from US stations](https://www.reddit.com/r/amateurradio/comments/1q2aq9x/cq_usa_from_us_stations/)**
+by u/dfrap
 
-**7. [Dipole connection](https://www.reddit.com/r/amateurradio/comments/1q1iq4z/dipole_connection/)**
-by u/langdely
+**14. [Antenna tips for first timer?](https://www.reddit.com/r/amateurradio/comments/1q29rlr/antenna_tips_for_first_timer/)**
+by u/RideDeezNutz
 
-**8. [Shower thought.](https://www.reddit.com/r/amateurradio/comments/1q12tpq/shower_thought/)**
-by u/RedwoodsClimber
-
-**9. [I built a C++ library for fetching satellite data from N2YO (with Python binding...](https://www.reddit.com/r/amateurradio/comments/1q1eu1x/i_built_a_c_library_for_fetching_satellite_data/)**
-by u/staggerz94
-
-**10. [EFHW Help](https://www.reddit.com/r/amateurradio/comments/1q1eiil/efhw_help/)**
-by u/Significant-Meet946
-
-**11. [FTM-510 or wait for IC5200](https://www.reddit.com/r/amateurradio/comments/1q1jcxc/ftm510_or_wait_for_ic5200/)**
-by u/Mediocre_Fishing69
-
-**12. [Checking a unun](https://www.reddit.com/r/amateurradio/comments/1q1naiu/checking_a_unun/)**
-by u/cmccarter
-
-**13. [DX Antenna for apartment building?](https://www.reddit.com/r/amateurradio/comments/1q1uodw/dx_antenna_for_apartment_building/)**
-by u/Busy_Reporter4017
-
-**14. [Antenna for Ft-891 Mobile operations](https://www.reddit.com/r/amateurradio/comments/1q1kfx5/antenna_for_ft891_mobile_operations/)**
-by u/OG_Gr3G
-
-**15. [US FCC Technician operating in Spain under reciprocal agreement?](https://www.reddit.com/r/amateurradio/comments/1q1uea9/us_fcc_technician_operating_in_spain_under/)**
-by u/manclubx
+**15. [Can you send DTMF tones over HF using SSB voice?](https://www.reddit.com/r/amateurradio/comments/1q2b7wn/can_you_send_dtmf_tones_over_hf_using_ssb_voice/)**
+by u/RadioOperator73
 
 ---
 
 ## 🔥 r/HamRadio
 
-**1. [It’s User Flair Day! Comment your flair request below, and we’ll review and assi...](https://www.reddit.com/r/HamRadio/comments/1q1le7r/its_user_flair_day_comment_your_flair_request/)**
+**1. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
+**2. [Ham Radio Technician Quiz](https://www.reddit.com/r/HamRadio/comments/1n7m7po/ham_radio_technician_quiz/)**
+by u/ham-quiz-app
+
+**3. [The entrance to shack at my home. Recently completed.](https://www.reddit.com/r/HamRadio/comments/1q2k72b/the_entrance_to_shack_at_my_home_recently/)**
+by u/NodakTwoBravo
+
+**4. [Curbside jackpot! Snagged 200 ft of LMR-400 someone was throwing away](https://www.reddit.com/r/HamRadio/comments/1q24ees/curbside_jackpot_snagged_200_ft_of_lmr400_someone/)**
+by u/lxe
+
+**5. [I started a nonprofit radio observatory to allow anyone to use this NASA telesco...](https://www.reddit.com/r/HamRadio/comments/1q27tkq/i_started_a_nonprofit_radio_observatory_to_allow/)**
+by u/Upset_Ant2834
+
+**6. [Am I really a ham if I don't like to do voice?](https://www.reddit.com/r/HamRadio/comments/1q261vl/am_i_really_a_ham_if_i_dont_like_to_do_voice/)**
+by u/fox-four-gilwell
+
+**7. [Radio Communication in Worldbuilding - Skywaves and Relays](https://www.reddit.com/r/HamRadio/comments/1q22tpz/radio_communication_in_worldbuilding_skywaves_and/)**
+by u/Abiogenesis84
+
+**8. [TI5VMJ booming into the east coast us on 20m.](https://www.reddit.com/r/HamRadio/comments/1q2gpkw/ti5vmj_booming_into_the_east_coast_us_on_20m/)**
+by u/SwitchedOnNow
+
+**9. [Is it overkill to get into ham radio just because I wanted a high quality walkie...](https://www.reddit.com/r/HamRadio/comments/1q2boqw/is_it_overkill_to_get_into_ham_radio_just_because/)**
+by u/ElectricFlyZapper
+
+**10. [I wonder if this is why the swr shot up on my manpack jumper cable.](https://www.reddit.com/r/HamRadio/comments/1q2ji5m/i_wonder_if_this_is_why_the_swr_shot_up_on_my/)**
+by u/Ok_Hospital1399
+
+**11. [PRC-25 Modifications for amateur useage.](https://www.reddit.com/r/HamRadio/comments/1q2ltyu/prc25_modifications_for_amateur_useage/)**
+by u/usham
+
+**12. [Broadcast marks historic Rugby Radio Station's 100th year - BBC News](https://www.reddit.com/r/HamRadio/comments/1q299ih/broadcast_marks_historic_rugby_radio_stations/)**
 by u/SharkSapphire
 
-**3. [Hoe do you pick the frequencies to listen to?](https://www.reddit.com/r/HamRadio/comments/1q1oq62/hoe_do_you_pick_the_frequencies_to_listen_to/)**
-by u/AllInterestedAmateur
+**13. [I have a question about POTA and using a mast pole...](https://www.reddit.com/r/HamRadio/comments/1q20gx6/i_have_a_question_about_pota_and_using_a_mast_pole/)**
+by u/Murphys_law1978
 
-**4. [New to ham radio and don’t know how to start talking](https://www.reddit.com/r/HamRadio/comments/1q1e0l2/new_to_ham_radio_and_dont_know_how_to_start/)**
-by u/Lz3YaRiEl
+**14. [Seeking a few CW folks to beta test a new Morse code learning app (iOS/Android)](https://www.reddit.com/r/HamRadio/comments/1q259vc/seeking_a_few_cw_folks_to_beta_test_a_new_morse/)**
+by u/Jdmacdaddy06
 
-**5. [What to install for ham system during new home build?](https://www.reddit.com/r/HamRadio/comments/1q1j3l1/what_to_install_for_ham_system_during_new_home/)**
-by u/young_73
-
-**6. [What antenna is best for a 2M Kenwood 711?](https://www.reddit.com/r/HamRadio/comments/1q1ocbt/what_antenna_is_best_for_a_2m_kenwood_711/)**
-by u/TheDude50484
-
-**7. [What am I looking at here? It’s an antenna I have figured.](https://www.reddit.com/r/HamRadio/comments/1q17u5l/what_am_i_looking_at_here_its_an_antenna_i_have/)**
-by u/grem182
-
-**8. [Appreciate the support over my sad hams post yesterday.](https://www.reddit.com/r/HamRadio/comments/1q1jfzc/appreciate_the_support_over_my_sad_hams_post/)**
-by u/MasonicHamExtra
-
-**9. [Are NEC4 4 or NEC 5 worth the license cost?](https://www.reddit.com/r/HamRadio/comments/1q1u13x/are_nec4_4_or_nec_5_worth_the_license_cost/)**
-by u/hvontres
-
-**10. [I finally pulled the trigger on a big boy antenna and a new radio](https://www.reddit.com/r/HamRadio/comments/1q1ktsn/i_finally_pulled_the_trigger_on_a_big_boy_antenna/)**
-by u/HealzFault
-
-**11. [Why do some request payment for LOTW Confirmations?](https://www.reddit.com/r/HamRadio/comments/1q194cv/why_do_some_request_payment_for_lotw_confirmations/)**
-by u/craynerd
-
-**12. [Quick mobile QSO logging on your phone – check out QSL Buddy (new & in active de...](https://www.reddit.com/r/HamRadio/comments/1q1hm0y/quick_mobile_qso_logging_on_your_phone_check_out/)**
-by u/foobik
-
-**13. [Morse code lovers and navy trainers persist with skill others deem a dying art](https://www.reddit.com/r/HamRadio/comments/1q0y2wv/morse_code_lovers_and_navy_trainers_persist_with/)**
-by u/SharkSapphire
-
-**14. [Brand New Learner - Where do I start? Not sure!](https://www.reddit.com/r/HamRadio/comments/1q19wzz/brand_new_learner_where_do_i_start_not_sure/)**
-by u/jmuraszewski
-
-**15. [What’s up with all the sad hams? You’d think they’d like new people in the hobby...](https://www.reddit.com/r/HamRadio/comments/1q0mauz/whats_up_with_all_the_sad_hams_youd_think_theyd/)**
-by u/MasonicHamExtra
+**15. [Radioddity HF-009 Portable HF Antenna for Outdoor Operation?](https://www.reddit.com/r/HamRadio/comments/1q26jtn/radioddity_hf009_portable_hf_antenna_for_outdoor/)**
+by u/holds-mite-98
 
 ---
 
@@ -110,14 +110,14 @@ by u/MasonicHamExtra
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1pyn0co/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[2025 Amateur Radio Gift Guide](https://www.reddit.com/r/amateurradio/comments/1pbbr8g/2025_amateur_radio_gift_guide/)** (r/amateurradio)
+- **[I started a nonprofit radio observatory to make this NASA telescope av...](https://www.reddit.com/r/amateurradio/comments/1q24cqf/i_started_a_nonprofit_radio_observatory_to_make/)** (r/amateurradio)
+- **[Thought I had a 5-pack POTA done today, until I read the rules.....](https://www.reddit.com/r/amateurradio/comments/1q2f7i1/thought_i_had_a_5pack_pota_done_today_until_i/)** (r/amateurradio)
+- **[Why are their ham radio looking antennas on 90% of the taxis in Cozume...](https://www.reddit.com/r/amateurradio/comments/1q23w8f/why_are_their_ham_radio_looking_antennas_on_90_of/)** (r/amateurradio)
+- **[For a 2026 of more radios.](https://www.reddit.com/r/amateurradio/comments/1q2nykg/for_a_2026_of_more_radios/)** (r/amateurradio)
+- **[Just ordered my first HF radio - FT-710 - Very excited! I watched the ...](https://www.reddit.com/r/amateurradio/comments/1q2ou30/just_ordered_my_first_hf_radio_ft710_very_excited/)** (r/amateurradio)
+- **[Made my own radio case](https://www.reddit.com/r/amateurradio/comments/1q211p8/made_my_own_radio_case/)** (r/amateurradio)
+- **[Military HFGCS active](https://www.reddit.com/r/amateurradio/comments/1q2p9ea/military_hfgcs_active/)** (r/amateurradio)
 - **[Kenwood TS-990S in a display case, right in the middle of the Tokyo Ha...](https://www.reddit.com/r/amateurradio/comments/1q1v7rc/kenwood_ts990s_in_a_display_case_right_in_the/)** (r/amateurradio)
-- **[The Off Center Fed dipole…](https://www.reddit.com/r/amateurradio/comments/1q1odtc/the_off_center_fed_dipole/)** (r/amateurradio)
-- **[How do I overcome mic fright?](https://www.reddit.com/r/amateurradio/comments/1q1uzsn/how_do_i_overcome_mic_fright/)** (r/amateurradio)
-- **[Aaaaugh! Am I an outlaw now?](https://www.reddit.com/r/amateurradio/comments/1q171hv/aaaaugh_am_i_an_outlaw_now/)** (r/amateurradio)
-- **[Dipole connection](https://www.reddit.com/r/amateurradio/comments/1q1iq4z/dipole_connection/)** (r/amateurradio)
-- **[Shower thought.](https://www.reddit.com/r/amateurradio/comments/1q12tpq/shower_thought/)** (r/amateurradio)
-- **[I built a C++ library for fetching satellite data from N2YO (with Pyth...](https://www.reddit.com/r/amateurradio/comments/1q1eu1x/i_built_a_c_library_for_fetching_satellite_data/)** (r/amateurradio)
-- **[EFHW Help](https://www.reddit.com/r/amateurradio/comments/1q1eiil/efhw_help/)** (r/amateurradio)
 
 ---
 

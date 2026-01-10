@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-09 11:35 UTC*
+*Last updated: 2026-01-10 11:36 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Funding Opportunities with Amateur Radio Digital Communications (ARDC)](https://www.reddit.com/r/amateurradio/comments/1q7m8mo/funding_opportunities_with_amateur_radio_digital/)**
 by u/ARDC_73
 
-**3. [the STEM agenda](https://www.reddit.com/r/amateurradio/comments/1q7yzl9/the_stem_agenda/)**
+**3. [Dear people of Utah](https://www.reddit.com/r/amateurradio/comments/1q8q9tf/dear_people_of_utah/)**
+by u/RideWithMeSNV
+
+**4. [First FT8 QSO](https://www.reddit.com/r/amateurradio/comments/1q8h6k9/first_ft8_qso/)**
+by u/Witty-Ad4757
+
+**5. [JS8Call Android](https://www.reddit.com/r/amateurradio/comments/1q8o8jj/js8call_android/)**
+by u/Punk_Kaos
+
+**6. [2m and 70cm DX gang - input needed](https://www.reddit.com/r/amateurradio/comments/1q8xke0/2m_and_70cm_dx_gang_input_needed/)**
+by u/Cool-Office-9126
+
+**7. [Does anyone have experience with thru-the-glass mobile antennas?](https://www.reddit.com/r/amateurradio/comments/1q8ts2o/does_anyone_have_experience_with_thrutheglass/)**
+by u/My_Lucid_Dreams
+
+**8. [New addition to the camping load out](https://www.reddit.com/r/amateurradio/comments/1q8jeue/new_addition_to_the_camping_load_out/)**
+by u/Active_Emu_845
+
+**9. [the STEM agenda](https://www.reddit.com/r/amateurradio/comments/1q7yzl9/the_stem_agenda/)**
 by u/Impossible_Arrival21
 
-**4. [Metric or imperial?](https://www.reddit.com/r/amateurradio/comments/1q80ptu/metric_or_imperial/)**
-by u/Mickiboi007
+**10. [HF Mobile Antennas](https://www.reddit.com/r/amateurradio/comments/1q8x4y6/hf_mobile_antennas/)**
+by u/KingPe0n
 
-**5. [Wait, what?!](https://www.reddit.com/r/amateurradio/comments/1q7nu24/wait_what/)**
-by u/SwitchedOnNow
+**11. ['New' Radios](https://www.reddit.com/r/amateurradio/comments/1q8gne0/new_radios/)**
+by u/Comfortablymoist1
 
-**6. [What antenna connector could this be?](https://www.reddit.com/r/amateurradio/comments/1q84rxv/what_antenna_connector_could_this_be/)**
+**12. [Help building a 2m/70cm fox for a game with the nephews.](https://www.reddit.com/r/amateurradio/comments/1q8nwbv/help_building_a_2m70cm_fox_for_a_game_with_the/)**
+by u/Bn_scarpia
+
+**13. [Inundated](https://www.reddit.com/r/amateurradio/comments/1q8tswq/inundated/)**
+by u/Civil-Carpenter8569
+
+**14. [QMX PLUS CW HELP](https://www.reddit.com/r/amateurradio/comments/1q8o23s/qmx_plus_cw_help/)**
+by u/idiotswalkamongus
+
+**15. [What antenna connector could this be?](https://www.reddit.com/r/amateurradio/comments/1q84rxv/what_antenna_connector_could_this_be/)**
 by u/AsAsin18
-
-**7. [Morse strangeness](https://www.reddit.com/r/amateurradio/comments/1q7j89i/morse_strangeness/)**
-by u/Bryant_Misc
-
-**8. [HF Radio on A Budget](https://www.reddit.com/r/amateurradio/comments/1q7zd3k/hf_radio_on_a_budget/)**
-by u/crash_the_deerdog
-
-**9. [Finished this mobile antenna install recently. Comet K412 mount Tram 1180. 2018 ...](https://www.reddit.com/r/amateurradio/comments/1q7wx9y/finished_this_mobile_antenna_install_recently/)**
-by u/adhdff
-
-**10. [Weird signal](https://www.reddit.com/r/amateurradio/comments/1q83z64/weird_signal/)**
-by u/Complete-Detail9547
-
-**11. [Any alternatives to the kraken direction finder?](https://www.reddit.com/r/amateurradio/comments/1q7tr5i/any_alternatives_to_the_kraken_direction_finder/)**
-by u/batmansmotorcycle
-
-**12. [Begali Finger Pieces?](https://www.reddit.com/r/amateurradio/comments/1q7ot9c/begali_finger_pieces/)**
-by u/Puzzleheaded_Tax8761
-
-**13. [Help with repeater identification in San Diego area](https://www.reddit.com/r/amateurradio/comments/1q7q9xn/help_with_repeater_identification_in_san_diego/)**
-by u/Brave_Mycologist_381
-
-**14. [Any ham radio events during total solar eclipse 2026?](https://www.reddit.com/r/amateurradio/comments/1q7vd4h/any_ham_radio_events_during_total_solar_eclipse/)**
-by u/FreemanPL
-
-**15. [Do you have a favorite amateur radio movie?](https://www.reddit.com/r/amateurradio/comments/1q7dtbd/do_you_have_a_favorite_amateur_radio_movie/)**
-by u/CM_Shortwave
 
 ---
 
@@ -63,43 +63,43 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [the STEM agenda (post title length limit sucks)](https://www.reddit.com/r/HamRadio/comments/1q7yz6m/the_stem_agenda_post_title_length_limit_sucks/)**
-by u/Impossible_Arrival21
+**3. [I don't understand why people say 6 Meter HTs are impractical](https://www.reddit.com/r/HamRadio/comments/1q8nu06/i_dont_understand_why_people_say_6_meter_hts_are/)**
+by u/pcblah
 
-**4. [Need a few people to test my CW chat prototype](https://www.reddit.com/r/HamRadio/comments/1q7tov8/need_a_few_people_to_test_my_cw_chat_prototype/)**
+**4. [Financial Traders Seek Permanency for Shortwave Data](https://www.reddit.com/r/HamRadio/comments/1q8p541/financial_traders_seek_permanency_for_shortwave/)**
+by u/SharkSapphire
+
+**5. [JS8Call Android BETA now available to test.](https://www.reddit.com/r/HamRadio/comments/1q8p9cn/js8call_android_beta_now_available_to_test/)**
+by u/Punk_Kaos
+
+**6. [Resuming work on a cross-platform SSTV app](https://www.reddit.com/r/HamRadio/comments/1q8o1j3/resuming_work_on_a_crossplatform_sstv_app/)**
+by u/fox-four-gilwell
+
+**7. [Southwest Florida Regional Hamfest returning to Fort Myers Jan. 16-17](https://www.reddit.com/r/HamRadio/comments/1q8su4i/southwest_florida_regional_hamfest_returning_to/)**
+by u/SharkSapphire
+
+**8. [need id of this vintage hf ham antenna so that I can use it](https://www.reddit.com/r/HamRadio/comments/1q87zgh/need_id_of_this_vintage_hf_ham_antenna_so_that_i/)**
+by u/ApartmentSea8954
+
+**9. [Case Amateur Radio Club W8EDU receives DXCC Trident national award](https://www.reddit.com/r/HamRadio/comments/1q8f0y1/case_amateur_radio_club_w8edu_receives_dxcc/)**
+by u/SharkSapphire
+
+**10. [Need a few people to test my CW chat prototype](https://www.reddit.com/r/HamRadio/comments/1q7tov8/need_a_few_people_to_test_my_cw_chat_prototype/)**
 by u/vladIakimov
 
-**5. [Radio Accomplishments You Remember Fondly](https://www.reddit.com/r/HamRadio/comments/1q7wh2j/radio_accomplishments_you_remember_fondly/)**
+**11. [Radio Accomplishments You Remember Fondly](https://www.reddit.com/r/HamRadio/comments/1q7wh2j/radio_accomplishments_you_remember_fondly/)**
 by u/nbrpgnet
 
-**6. [HAM radio operators to honor noted WWII chaplain Fr. Metcalf at Belwin events](https://www.reddit.com/r/HamRadio/comments/1q7ufee/ham_radio_operators_to_honor_noted_wwii_chaplain/)**
+**12. [Looking for Laws (not rules) for operations of radio](https://www.reddit.com/r/HamRadio/comments/1q8u9a1/looking_for_laws_not_rules_for_operations_of_radio/)**
+by u/Ok_Swan_3053
+
+**13. [HAM radio operators to honor noted WWII chaplain Fr. Metcalf at Belwin events](https://www.reddit.com/r/HamRadio/comments/1q7ufee/ham_radio_operators_to_honor_noted_wwii_chaplain/)**
 by u/SharkSapphire
 
-**7. [Equipment to reach across the Atlantic ocean reliably?](https://www.reddit.com/r/HamRadio/comments/1q7liyu/equipment_to_reach_across_the_atlantic_ocean/)**
+**14. [Equipment to reach across the Atlantic ocean reliably?](https://www.reddit.com/r/HamRadio/comments/1q7liyu/equipment_to_reach_across_the_atlantic_ocean/)**
 by u/crypticsymbols
 
-**8. [Could ham radio help Taiwan survive wartime internet outage?](https://www.reddit.com/r/HamRadio/comments/1q7h07y/could_ham_radio_help_taiwan_survive_wartime/)**
-by u/SharkSapphire
-
-**9. [looking for Icom 52Ultra Antenna options? 2m/70cm.](https://www.reddit.com/r/HamRadio/comments/1q7zimw/looking_for_icom_52ultra_antenna_options_2m70cm/)**
-by u/Mattsmithdoctorrulez
-
-**10. [I put my antenna up with a 3D printed clamp today](https://www.reddit.com/r/HamRadio/comments/1q6znnp/i_put_my_antenna_up_with_a_3d_printed_clamp_today/)**
-by u/shootingcharlie8
-
-**11. [Ottawa area FREE 60 ft Delhi Antenna Tower](https://www.reddit.com/r/HamRadio/comments/1q7gmxq/ottawa_area_free_60_ft_delhi_antenna_tower/)**
-by u/This-Idea-7790
-
-**12. [A question about antennas that can be used for both 2m/70cm and GMRS](https://www.reddit.com/r/HamRadio/comments/1q7j3b5/a_question_about_antennas_that_can_be_used_for/)**
-by u/KF0QFQ
-
-**13. [Built a page for everything Pota (Work In progress helpful suggestions wanted)](https://www.reddit.com/r/HamRadio/comments/1q7nika/built_a_page_for_everything_pota_work_in_progress/)**
-by u/Smart-College-2680
-
-**14. [At what point did you guys move from HT in your car to Mobile?](https://www.reddit.com/r/HamRadio/comments/1q7boz8/at_what_point_did_you_guys_move_from_ht_in_your/)**
-by u/HeadlineINeed
-
-**15. [Clarksville Amateur Transmitting Society plans Winter Field Day event](https://www.reddit.com/r/HamRadio/comments/1q71ypt/clarksville_amateur_transmitting_society_plans/)**
+**15. [Could ham radio help Taiwan survive wartime internet outage?](https://www.reddit.com/r/HamRadio/comments/1q7h07y/could_ham_radio_help_taiwan_survive_wartime/)**
 by u/SharkSapphire
 
 ---
@@ -110,14 +110,14 @@ by u/SharkSapphire
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1q4mf2a/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Funding Opportunities with Amateur Radio Digital Communications (ARDC)](https://www.reddit.com/r/amateurradio/comments/1q7m8mo/funding_opportunities_with_amateur_radio_digital/)** (r/amateurradio)
+- **[Dear people of Utah](https://www.reddit.com/r/amateurradio/comments/1q8q9tf/dear_people_of_utah/)** (r/amateurradio)
+- **[First FT8 QSO](https://www.reddit.com/r/amateurradio/comments/1q8h6k9/first_ft8_qso/)** (r/amateurradio)
+- **[JS8Call Android](https://www.reddit.com/r/amateurradio/comments/1q8o8jj/js8call_android/)** (r/amateurradio)
+- **[2m and 70cm DX gang - input needed](https://www.reddit.com/r/amateurradio/comments/1q8xke0/2m_and_70cm_dx_gang_input_needed/)** (r/amateurradio)
+- **[Does anyone have experience with thru-the-glass mobile antennas?](https://www.reddit.com/r/amateurradio/comments/1q8ts2o/does_anyone_have_experience_with_thrutheglass/)** (r/amateurradio)
+- **[New addition to the camping load out](https://www.reddit.com/r/amateurradio/comments/1q8jeue/new_addition_to_the_camping_load_out/)** (r/amateurradio)
 - **[the STEM agenda](https://www.reddit.com/r/amateurradio/comments/1q7yzl9/the_stem_agenda/)** (r/amateurradio)
-- **[Metric or imperial?](https://www.reddit.com/r/amateurradio/comments/1q80ptu/metric_or_imperial/)** (r/amateurradio)
-- **[Wait, what?!](https://www.reddit.com/r/amateurradio/comments/1q7nu24/wait_what/)** (r/amateurradio)
-- **[What antenna connector could this be?](https://www.reddit.com/r/amateurradio/comments/1q84rxv/what_antenna_connector_could_this_be/)** (r/amateurradio)
-- **[Morse strangeness](https://www.reddit.com/r/amateurradio/comments/1q7j89i/morse_strangeness/)** (r/amateurradio)
-- **[HF Radio on A Budget](https://www.reddit.com/r/amateurradio/comments/1q7zd3k/hf_radio_on_a_budget/)** (r/amateurradio)
-- **[Finished this mobile antenna install recently. Comet K412 mount Tram 1...](https://www.reddit.com/r/amateurradio/comments/1q7wx9y/finished_this_mobile_antenna_install_recently/)** (r/amateurradio)
-- **[Weird signal](https://www.reddit.com/r/amateurradio/comments/1q83z64/weird_signal/)** (r/amateurradio)
+- **[HF Mobile Antennas](https://www.reddit.com/r/amateurradio/comments/1q8x4y6/hf_mobile_antennas/)** (r/amateurradio)
 
 ---
 

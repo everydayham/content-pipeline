@@ -1,6 +1,29 @@
 {
-  "updated": "2026-01-05T13:54:54.309858",
+  "updated": "2026-01-12T13:55:11.055027",
   "episodes": [
+    {
+      "id": 18470399,
+      "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/18470399-how-to-learn-cw-in-2026-two-paths-to-morse-code-success.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/aalrudf4cd8je5dfhf4m1v0tbgdw",
+      "description": "<p>Five watts, a tiny coil antenna on a travel tripod, and a camera-bag station that reaches across states\u2014CW isn't a relic, it's a practical advantage. In this episode, we invited Terry W8TMB to walk us through how he learned Morse code without drowning in drills, why CW pairs perfectly with POTA and QRP, and what actually works when your sending is solid but your copy lags behind.</p><p>We compare two popular learning paths: CW Academy and Long Island CW Club. CW Academy offers a free, semester-style program with fixed class times and steady accountability\u2014great if you thrive with structure. Long Island CW Club takes a different approach with flexible, year-round carousels, multiple time slots each week, and an emphasis on getting on the air early. Their $30/year (or $90 lifetime) membership includes about 170 classes per week, a powerful browser-based practice tool, and thoughtful accessibility options for autistic, visually impaired, and hearing-impaired hams.</p><p>From there we dig into practical tactics: stop counting dits and dahs\u2014train your ear to recognize full characters. Use Farnsworth spacing to create breathing room. Drill random call signs to break predictability. Send back what you copy immediately to lock it in. Ditch the decoders and cheat sheets; they slow your ear. Code-talk license plates on road trips, work short daily sessions, and aim your practice at real exchanges like POTA and simple contests.</p><p>Terry's field kit shows what's possible: a CFT-1 five-band QRP rig, a 3D-printed coil antenna from Ham Radio Duo, and a 16Wh battery that lasted two hours with 75% remaining. As bands shift with the solar cycle, CW keeps you in the game.</p><p>\ud83d\udd17 RESOURCES:</p><ul><li>CW Academy: <a href=\"https://cwops.org/cw-academy/\">https://cwops.org/cw-academy/</a></li><li>Long Island CW Club: <a href=\"https://longislandcwclub.org/\">https://longislandcwclub.org/</a></li><li>Morse Mania App: <a href=\"https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196\">https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196</a></li><li>LCWO: <a href=\"https://lcwo.net/\">https://lcwo.net/</a></li><li>V-Band: <a href=\"https://hamradio.solutions/vband/\">https://hamradio.solutions/vband/</a></li></ul><p>Don't miss an episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and subscribe to our YouTube channel.</p><p>\ud83c\udf99\ufe0f Hosts: James K8JKU, Jim N8JRD, Rory W8KNX Guest: Terry W8TMB</p><p>Website: <a href=\"https://www.everydayham.com\">https://www.everydayham.com</a> Instagram: <a href=\"https://www.instagram.com/everydayhampodcast/\">https://www.instagram.com/everydayhampodcast/</a></p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "CW, Morse code, learn CW, Long Island CW Club, CW Academy, ham radio, amateur radio, QRP, POTA, Parks on the Air, morse code tutorial, how to learn morse code, CW for beginners, ham radio CW, QRP CW, Farnsworth",
+      "published_at": "2026-01-08T10:00:00.000-05:00",
+      "duration": 3568,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-18470399",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": 13,
+      "season_number": 2,
+      "episode_type": "full",
+      "explicit": false,
+      "private": false,
+      "total_plays": 370
+    },
     {
       "id": 18296133,
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 705
+      "total_plays": 768
     },
     {
       "id": 18131359,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 620
+      "total_plays": 642
     },
     {
       "id": 17980624,
@@ -68,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 682
+      "total_plays": 698
     },
     {
       "id": 17915090,
@@ -91,7 +114,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 546
+      "total_plays": 554
     },
     {
       "id": 17760784,
@@ -114,7 +137,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 710
+      "total_plays": 714
     },
     {
       "id": 17726132,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 551
+      "total_plays": 556
     },
     {
       "id": 17625014,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 576
+      "total_plays": 582
     },
     {
       "id": 17571459,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 512
+      "total_plays": 518
     },
     {
       "id": 17441669,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 630
+      "total_plays": 639
     },
     {
       "id": 17282578,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 513
+      "total_plays": 517
     },
     {
       "id": 17198150,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 438
+      "total_plays": 444
     },
     {
       "id": 17122535,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 418
+      "total_plays": 425
     },
     {
       "id": 16912708,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 497
+      "total_plays": 506
     },
     {
       "id": 16745714,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 394
+      "total_plays": 409
     },
     {
       "id": 16574585,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 409
+      "total_plays": 419
     },
     {
       "id": 16408083,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 369
+      "total_plays": 382
     }
   ]
 }

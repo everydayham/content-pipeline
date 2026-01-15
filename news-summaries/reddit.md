@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-14 11:41 UTC*
+*Last updated: 2026-01-15 11:38 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Happy New Year! What are your 2026 Amateur Radio resolutions?](https://www.reddit.com/r/amateurradio/comments/1q4nfk0/happy_new_year_what_are_your_2026_amateur_radio/)**
 by u/ItsBail
 
-**3. [Was wondering about this one at Coyote Hills, Fremont, CA](https://www.reddit.com/r/amateurradio/comments/1qcj5gc/was_wondering_about_this_one_at_coyote_hills/)**
-by u/DeznRSI
+**3. [What the heck is going on with 3.927mhz tonight?](https://www.reddit.com/r/amateurradio/comments/1qd77zd/what_the_heck_is_going_on_with_3927mhz_tonight/)**
+by u/anselscamera
 
-**4. [Starlink Interrupted?](https://www.reddit.com/r/amateurradio/comments/1qc3f27/starlink_interrupted/)**
-by u/foolin_around
+**4. [5.8GHz satellite tracking](https://www.reddit.com/r/amateurradio/comments/1qd979l/58ghz_satellite_tracking/)**
+by u/Aggravating_Piano232
 
-**5. [Should I go for Foundations or Standard License?](https://www.reddit.com/r/amateurradio/comments/1qckb5a/should_i_go_for_foundations_or_standard_license/)**
-by u/Ok-Highway-3107
+**5. [Anyone else do amateur radio with friends in the shack?](https://www.reddit.com/r/amateurradio/comments/1qd1w92/anyone_else_do_amateur_radio_with_friends_in_the/)**
+by u/adhdff
 
-**6. [What is this sound](https://www.reddit.com/r/amateurradio/comments/1qbwr4m/what_is_this_sound/)**
-by u/NightbravoPMC
+**6. [Antenna choices for a school roof](https://www.reddit.com/r/amateurradio/comments/1qdb2z4/antenna_choices_for_a_school_roof/)**
+by u/resivopl
 
-**7. [Unmanned solar powered WSPR beacon](https://www.reddit.com/r/amateurradio/comments/1qby3km/unmanned_solar_powered_wspr_beacon/)**
-by u/Flat-Perception8975
+**7. [New to HF](https://www.reddit.com/r/amateurradio/comments/1qda3dg/new_to_hf/)**
+by u/Fit_Atmosphere_8030
 
-**8. [2026 GCARA Winter Field Day | Gold Coast Amateur Radio Association, Inc.](https://www.reddit.com/r/amateurradio/comments/1qbrnff/2026_gcara_winter_field_day_gold_coast_amateur/)**
-by u/Tom-Savoca
+**8. [Arrow antennas switching to silver element (bait)](https://www.reddit.com/r/amateurradio/comments/1qcr84z/arrow_antennas_switching_to_silver_element_bait/)**
+by u/MinorLatency
 
-**9. [Support from RigExpert](https://www.reddit.com/r/amateurradio/comments/1qchtjg/support_from_rigexpert/)**
-by u/DL2SBA
+**9. [Looking for a Headset, Not Sure if it Exists...](https://www.reddit.com/r/amateurradio/comments/1qdde4x/looking_for_a_headset_not_sure_if_it_exists/)**
+by u/Kuohaj
 
-**10. [EFHW Optimization](https://www.reddit.com/r/amateurradio/comments/1qc3nbu/efhw_optimization/)**
-by u/ClariceDarling
+**10. [Anyone else find that FT8 Contacts QSL Quickly and More Often Than SSB Contacts?](https://www.reddit.com/r/amateurradio/comments/1qcvrq0/anyone_else_find_that_ft8_contacts_qsl_quickly/)**
+by u/ThatChucklehead
 
-**11. [Amateur radio equipment for sale](https://www.reddit.com/r/amateurradio/comments/1qc23pv/amateur_radio_equipment_for_sale/)**
-by u/Character-Coat8293
+**11. [1975 code proficiency test criteria?](https://www.reddit.com/r/amateurradio/comments/1qda2u6/1975_code_proficiency_test_criteria/)**
+by u/rugwarriorpi
 
-**12. [Preparation for technician test: questions](https://www.reddit.com/r/amateurradio/comments/1qbqjws/preparation_for_technician_test_questions/)**
-by u/Active_Drop5570
+**12. [Spot yourself this weekend for the VHF contest.](https://www.reddit.com/r/amateurradio/comments/1qd8xm7/spot_yourself_this_weekend_for_the_vhf_contest/)**
+by u/camp185
 
-**13. [First Satellite QSO](https://www.reddit.com/r/amateurradio/comments/1qbl3x2/first_satellite_qso/)**
-by u/VapinMason
+**13. [Yaesu FC-80 Antenna Tuner Review by K8MRD](https://www.reddit.com/r/amateurradio/comments/1qd1qwu/yaesu_fc80_antenna_tuner_review_by_k8mrd/)**
+by u/Formatica
 
-**14. [Been running a Winlink RMS gateway for a couple months and I want to correct som...](https://www.reddit.com/r/amateurradio/comments/1qbf9n5/been_running_a_winlink_rms_gateway_for_a_couple/)**
-by u/SupremeVinegar
+**14. [Rybakov Radial/s](https://www.reddit.com/r/amateurradio/comments/1qd6qsn/rybakov_radials/)**
+by u/Ok_Praline3605
 
-**15. [Coaxial cable](https://www.reddit.com/r/amateurradio/comments/1qbtdge/coaxial_cable/)**
-by u/Stoner_guy_420-
+**15. [Trouble understanding this scenario](https://www.reddit.com/r/amateurradio/comments/1qda7we/trouble_understanding_this_scenario/)**
+by u/GiantsNerd1
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Spotted this antenna array at a local supermarket in the UK](https://www.reddit.com/r/HamRadio/comments/1qc6onn/spotted_this_antenna_array_at_a_local_supermarket/)**
-by u/documentally
+**3. [Keeping it alive always. Needed 40 characters.](https://www.reddit.com/r/HamRadio/comments/1qcpr41/keeping_it_alive_always_needed_40_characters/)**
+by u/emergmgmt
 
-**4. [New house help me identify cables please, unsure on use](https://www.reddit.com/r/HamRadio/comments/1qcego6/new_house_help_me_identify_cables_please_unsure/)**
+**4. [Found this in grandfather's shed](https://www.reddit.com/r/HamRadio/comments/1qd8hf2/found_this_in_grandfathers_shed/)**
+by u/tuo_skcehc_eman_resu
+
+**5. [Anyone in Calgary, AB - Scouts Learning Session](https://www.reddit.com/r/HamRadio/comments/1qd9bm3/anyone_in_calgary_ab_scouts_learning_session/)**
+by u/muchomundo22
+
+**6. [Using two repeater to communicate](https://www.reddit.com/r/HamRadio/comments/1qcyc5l/using_two_repeater_to_communicate/)**
+by u/Cynopolis_
+
+**7. [Follow up to previous post regarding new house and existing infrastructure](https://www.reddit.com/r/HamRadio/comments/1qd091e/follow_up_to_previous_post_regarding_new_house/)**
 by u/fastpacedsnarf
 
-**5. [For those unaware, Scott Adams collaborated with telecommunications engineers at...](https://www.reddit.com/r/HamRadio/comments/1qc398t/for_those_unaware_scott_adams_collaborated_with/)**
+**8. [Any operator at a Laredo Texas?](https://www.reddit.com/r/HamRadio/comments/1qd93ra/any_operator_at_a_laredo_texas/)**
+by u/UnaDrPepperPorfa
+
+**9. [EFHW for G90 or what do you recommend?](https://www.reddit.com/r/HamRadio/comments/1qd0mzv/efhw_for_g90_or_what_do_you_recommend/)**
+by u/CreativeAngler
+
+**10. [I need suggestions and recommendations for a homemade radio system.](https://www.reddit.com/r/HamRadio/comments/1qd5y6d/i_need_suggestions_and_recommendations_for_a/)**
+by u/Fragrant-Whole-2199
+
+**11. [Unmanned WSPR beacon outside with solarpanel](https://www.reddit.com/r/HamRadio/comments/1qcsic7/unmanned_wspr_beacon_outside_with_solarpanel/)**
+by u/Flat-Perception8975
+
+**12. [Spotted this antenna array at a local supermarket in the UK](https://www.reddit.com/r/HamRadio/comments/1qc6onn/spotted_this_antenna_array_at_a_local_supermarket/)**
+by u/documentally
+
+**13. [New house help me identify cables please, unsure on use](https://www.reddit.com/r/HamRadio/comments/1qcego6/new_house_help_me_identify_cables_please_unsure/)**
+by u/fastpacedsnarf
+
+**14. [HAM beginner, looking advice on good gear to get started](https://www.reddit.com/r/HamRadio/comments/1qcqiks/ham_beginner_looking_advice_on_good_gear_to_get/)**
+by u/Tmcgrath456
+
+**15. [NRSM 2026 Paper: Measurement of Anomalous Propagation Using Signals of Opportuni...](https://www.reddit.com/r/HamRadio/comments/1qcyg2y/nrsm_2026_paper_measurement_of_anomalous/)**
 by u/SharkSapphire
-
-**6. [New Hampshire House Bill 1354: Authorizing the division of motor vehicles to iss...](https://www.reddit.com/r/HamRadio/comments/1qcbb6t/new_hampshire_house_bill_1354_authorizing_the/)**
-by u/SharkSapphire
-
-**7. [Field Day! Maui Hawaii January 24th. Would anyone out there like to make contact...](https://www.reddit.com/r/HamRadio/comments/1qcc05w/field_day_maui_hawaii_january_24th_would_anyone/)**
-by u/mamabird808
-
-**8. [KernWi-Fi builds carrier-grade Yaesu IMRS network](https://www.reddit.com/r/HamRadio/comments/1qc8zbq/kernwifi_builds_carriergrade_yaesu_imrs_network/)**
-by u/SharkSapphire
-
-**9. [Ham Radio Presentation for a club meeting (?)](https://www.reddit.com/r/HamRadio/comments/1qc7ah6/ham_radio_presentation_for_a_club_meeting/)**
-by u/Simple-Hearing6982
-
-**10. [Analyzing Shortwave Propagation with a Remote Accessible Software-Defined Ham Ra...](https://www.reddit.com/r/HamRadio/comments/1qbxf5i/analyzing_shortwave_propagation_with_a_remote/)**
-by u/SharkSapphire
-
-**11. [Should I experiment with a TFD (terminated folded dipole) antenna?](https://www.reddit.com/r/HamRadio/comments/1qc24wp/should_i_experiment_with_a_tfd_terminated_folded/)**
-by u/thesoulless78
-
-**12. [Antenna help & suggestions, Jetstream JTB1B](https://www.reddit.com/r/HamRadio/comments/1qby4yb/antenna_help_suggestions_jetstream_jtb1b/)**
-by u/EmptyRefrigerator957
-
-**13. [Bonding antenna ground to house ground very far away](https://www.reddit.com/r/HamRadio/comments/1qc1qy5/bonding_antenna_ground_to_house_ground_very_far/)**
-by u/edinc90
-
-**14. [does anybody know if it would be possible to use a subwoofer amplifier to amplif...](https://www.reddit.com/r/HamRadio/comments/1qc6vo8/does_anybody_know_if_it_would_be_possible_to_use/)**
-by u/Odd_Exam1605
-
-**15. [need help identifing a military radio and ways to get it working](https://www.reddit.com/r/HamRadio/comments/1qb97w3/need_help_identifing_a_military_radio_and_ways_to/)**
-by u/SIR22z
 
 ---
 
@@ -110,14 +110,14 @@ by u/SIR22z
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qavn20/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Happy New Year! What are your 2026 Amateur Radio resolutions?](https://www.reddit.com/r/amateurradio/comments/1q4nfk0/happy_new_year_what_are_your_2026_amateur_radio/)** (r/amateurradio)
-- **[Was wondering about this one at Coyote Hills, Fremont, CA](https://www.reddit.com/r/amateurradio/comments/1qcj5gc/was_wondering_about_this_one_at_coyote_hills/)** (r/amateurradio)
-- **[Starlink Interrupted?](https://www.reddit.com/r/amateurradio/comments/1qc3f27/starlink_interrupted/)** (r/amateurradio)
-- **[Should I go for Foundations or Standard License?](https://www.reddit.com/r/amateurradio/comments/1qckb5a/should_i_go_for_foundations_or_standard_license/)** (r/amateurradio)
-- **[What is this sound](https://www.reddit.com/r/amateurradio/comments/1qbwr4m/what_is_this_sound/)** (r/amateurradio)
-- **[Unmanned solar powered WSPR beacon](https://www.reddit.com/r/amateurradio/comments/1qby3km/unmanned_solar_powered_wspr_beacon/)** (r/amateurradio)
-- **[2026 GCARA Winter Field Day | Gold Coast Amateur Radio Association, In...](https://www.reddit.com/r/amateurradio/comments/1qbrnff/2026_gcara_winter_field_day_gold_coast_amateur/)** (r/amateurradio)
-- **[Support from RigExpert](https://www.reddit.com/r/amateurradio/comments/1qchtjg/support_from_rigexpert/)** (r/amateurradio)
-- **[EFHW Optimization](https://www.reddit.com/r/amateurradio/comments/1qc3nbu/efhw_optimization/)** (r/amateurradio)
+- **[What the heck is going on with 3.927mhz tonight?](https://www.reddit.com/r/amateurradio/comments/1qd77zd/what_the_heck_is_going_on_with_3927mhz_tonight/)** (r/amateurradio)
+- **[5.8GHz satellite tracking](https://www.reddit.com/r/amateurradio/comments/1qd979l/58ghz_satellite_tracking/)** (r/amateurradio)
+- **[Anyone else do amateur radio with friends in the shack?](https://www.reddit.com/r/amateurradio/comments/1qd1w92/anyone_else_do_amateur_radio_with_friends_in_the/)** (r/amateurradio)
+- **[Antenna choices for a school roof](https://www.reddit.com/r/amateurradio/comments/1qdb2z4/antenna_choices_for_a_school_roof/)** (r/amateurradio)
+- **[New to HF](https://www.reddit.com/r/amateurradio/comments/1qda3dg/new_to_hf/)** (r/amateurradio)
+- **[Arrow antennas switching to silver element (bait)](https://www.reddit.com/r/amateurradio/comments/1qcr84z/arrow_antennas_switching_to_silver_element_bait/)** (r/amateurradio)
+- **[Looking for a Headset, Not Sure if it Exists...](https://www.reddit.com/r/amateurradio/comments/1qdde4x/looking_for_a_headset_not_sure_if_it_exists/)** (r/amateurradio)
+- **[Anyone else find that FT8 Contacts QSL Quickly and More Often Than SSB...](https://www.reddit.com/r/amateurradio/comments/1qcvrq0/anyone_else_find_that_ft8_contacts_qsl_quickly/)** (r/amateurradio)
 
 ---
 

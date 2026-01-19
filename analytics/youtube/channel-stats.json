@@ -1,8 +1,8 @@
 {
-  "updated": "2026-01-12T13:55:11.782368",
+  "updated": "2026-01-19T13:56:26.299678",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "E9qejMP_WRKpLJku_IzDsjvNR0k",
+    "etag": "dGvyrbiQnszqHDlKsfsDGeuNoBg",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,122 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "109257",
-      "subscriberCount": "1340",
+      "viewCount": "113088",
+      "subscriberCount": "1400",
       "hiddenSubscriberCount": false,
-      "videoCount": "95"
+      "videoCount": "97"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "pP7n_YbKKiMoF0T7IvIwdgt56tg",
+      "etag": "jUZR8ZcQZ9xIs7VrD7NO4TLV5mc",
+      "id": "surYSffn1tE",
+      "snippet": {
+        "publishedAt": "2026-01-18T16:25:06Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/surYSffn1tE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/surYSffn1tE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/surYSffn1tE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/surYSffn1tE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/surYSffn1tE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1414",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O3mphJIJdLQSaG0QrCghUfd8Z-I",
+      "id": "vXq5KRjkcw8",
+      "snippet": {
+        "publishedAt": "2026-01-17T22:08:58Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXq5KRjkcw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXq5KRjkcw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXq5KRjkcw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vXq5KRjkcw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vXq5KRjkcw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "985",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E56d1kcBtMdcvjvKlBWTY8G_mJY",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -109,15 +215,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1004",
-        "likeCount": "51",
+        "viewCount": "2191",
+        "likeCount": "97",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "piZzMsC35-iteJIaw9lZDNbV0U4",
+      "etag": "GUpJE5646xLcUJNIw0UGnSw9WJw",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -180,15 +286,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "38",
-        "likeCount": "0",
+        "viewCount": "66",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uxcRbOlv3emTr1o_uF-ptLiSGBY",
+      "etag": "zB6FZrUnfs2sSljT-cytNhsc23c",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -233,15 +339,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4356",
-        "likeCount": "31",
+        "viewCount": "4434",
+        "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OZC1egEx362qesFYheOlDiJyuzo",
+      "etag": "sDEAbu-iFOqlW-G7_5pgWX5QP8s",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -286,15 +392,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1057",
-        "likeCount": "34",
+        "viewCount": "1106",
+        "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "oBRW3Rn4MG_NE0vWPrxBdwIRlBM",
+      "etag": "VWMyQQ3S1l0qn6HZsHlS7jbnsmk",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -357,15 +463,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "665",
-        "likeCount": "34",
+        "viewCount": "736",
+        "likeCount": "37",
         "favoriteCount": "0",
-        "commentCount": "12"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ioyVTI5iesAWWm9nlmAlAjJg3ZA",
+      "etag": "zA2H3-a9b1zu4T8X-uZ59iC2E1w",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -423,15 +529,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "899",
-        "likeCount": "30",
+        "viewCount": "910",
+        "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AtvTw3m5-xA1w9DzGRGCFl7m6pY",
+      "etag": "RJ6aVVS74WfacT4qTPLCAVFSHr8",
       "id": "If9QQ4IMLtE",
       "snippet": {
         "publishedAt": "2025-12-25T03:48:17Z",
@@ -494,15 +600,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1434",
-        "likeCount": "21",
+        "viewCount": "1443",
+        "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QI14kGatEqiwD-5FHF5-7b6vCWo",
+      "etag": "xnVUYHf1cJE1me0k-YJD0LivX0o",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -565,7 +671,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "257",
+        "viewCount": "267",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -573,7 +679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2YyYnQSFBl96VxhbH_TP1dKkYbM",
+      "etag": "xdPvEmIReIew5FIrBkOiFIz5xH0",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -618,7 +724,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "996",
+        "viewCount": "1007",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -626,7 +732,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "O28pB9tkP4KMkzmnkV-Y7cfpWlw",
+      "etag": "wSuyGvH5UEHdd01z_1T9Z7hDp2I",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -671,15 +777,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "217",
-        "likeCount": "4",
+        "viewCount": "226",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Or7Oh3a9QUhFGwDVvhyduX_qhzQ",
+      "etag": "26R3R5rS-EtMWoZm-fq8y9_432A",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -747,7 +853,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "376",
+        "viewCount": "395",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -755,7 +861,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BmZ6i0d2MzF-NQQtE7CDhPuAKRc",
+      "etag": "BpI9GFPgVQeTE03WBoHZNOl4Puw",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -824,7 +930,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1165",
+        "viewCount": "1187",
         "likeCount": "44",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -832,7 +938,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Z93jsP43ZTDNHI2osdKoa7h1ywY",
+      "etag": "F7qx1_ivAhnBGW9nEIzAcNwDYvg",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
@@ -895,7 +1001,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "139",
+        "viewCount": "141",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -903,7 +1009,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jVTJw-R63v4PexAtB-tf5K6ENWo",
+      "etag": "hLI10AWWhq0KeHAWKjhzjjzzyPM",
       "id": "-OPz7HyW794",
       "snippet": {
         "publishedAt": "2025-11-28T16:30:57Z",
@@ -966,7 +1072,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1651",
+        "viewCount": "1652",
         "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -974,7 +1080,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vBPmTKnYkBYdt3qj-Q3XKg1XwTA",
+      "etag": "z8_e7aOHUuaf2gW8fVtIDoea81c",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -1019,7 +1125,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "778",
+        "viewCount": "785",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1027,7 +1133,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1YZKB_FUiUwgJKeJbCCQrZuY__Q",
+      "etag": "b6_SF6wk9ybGjM7zeu3woNobxhQ",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -1094,7 +1200,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "283",
+        "viewCount": "300",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1102,7 +1208,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tmv6QXmfXDJqXMtq8gemiqzySw8",
+      "etag": "1QjuC073L_Nx7WhvyGjrfiAoBAw",
       "id": "sAGV73vzm24",
       "snippet": {
         "publishedAt": "2025-11-17T01:31:25Z",
@@ -1164,7 +1270,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "924",
+        "viewCount": "933",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1172,7 +1278,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gyotiRITPnWtVPg64MemjnjgTas",
+      "etag": "or6Z0idnfa9DFd0S68laWBqmEN0",
       "id": "RxgcxKk969g",
       "snippet": {
         "publishedAt": "2025-11-14T00:34:53Z",
@@ -1242,7 +1348,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1557",
+        "viewCount": "1566",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1250,7 +1356,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "91KIVTAEZdj8yRTGtDpFoGYdnLY",
+      "etag": "zAHqjjKiqIDpIkazvdO0RZG3t6M",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -1320,7 +1426,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "136",
+        "viewCount": "137",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1328,7 +1434,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0ps9HQAjiAfsgeuRAwi2LAtzsc8",
+      "etag": "UcG1sjbkVDh9eokRlrjEUJekfBA",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -1373,7 +1479,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "914",
+        "viewCount": "920",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1381,7 +1487,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2iYKWvMtjqOZLyEpBasemd_bEEc",
+      "etag": "8LSoRuIj1dZC5j6q3wK0xihDYag",
       "id": "cAWtEZjwwRk",
       "snippet": {
         "publishedAt": "2025-11-07T22:37:56Z",
@@ -1446,7 +1552,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1427",
+        "viewCount": "1432",
         "likeCount": "44",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1454,7 +1560,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ECp9c4x9nvje6X-Ib9r-7jz65qg",
+      "etag": "8djQyeq0ipMiF2mV-CyoKfx9t7w",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -1531,7 +1637,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "707",
+        "viewCount": "723",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1539,7 +1645,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5IxXgyEegM0WHA8Edzd8UctIyfw",
+      "etag": "_6QL7lbNbL7jQ2ObwBKkF6azoOQ",
       "id": "eiH0dJwnhnU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:52Z",
@@ -1602,7 +1708,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "33",
+        "viewCount": "34",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1610,7 +1716,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jmC7bBKZeZT-V5msQwtmgRLwZ9I",
+      "etag": "zBPky5BlxQguzRwfAHf4XKNRVGw",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -1695,7 +1801,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "257",
+        "viewCount": "260",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1703,7 +1809,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "q9iRy_FVtjDgCVEGEVBTrbbGims",
+      "etag": "qKqzTHeA13dgtm-G0BifsgQBktQ",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -1748,7 +1854,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1315",
+        "viewCount": "1324",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1756,7 +1862,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yccERLIt-Q--Vi1Rf2l2fg_mv2s",
+      "etag": "yPkykQ_x-l-SsRvdqAWFemt-56M",
       "id": "aGU4pSCoJcY",
       "snippet": {
         "publishedAt": "2025-11-01T15:21:53Z",
@@ -1824,7 +1930,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1398",
+        "viewCount": "1404",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1832,7 +1938,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vB4aVoVm9FORTGcAOMS82UR-cVM",
+      "etag": "leJEThWl93ikbQ37dw_2ZcDIB54",
       "id": "JTFErg-neu8",
       "snippet": {
         "publishedAt": "2025-10-31T21:40:56Z",
@@ -1908,15 +2014,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3213",
-        "likeCount": "151",
+        "viewCount": "3266",
+        "likeCount": "154",
         "favoriteCount": "0",
         "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WXUcDa2o8R04-E8LEwwW5nsxQz4",
+      "etag": "vBKBGLA30bVLF54LgAzaXdbVI78",
       "id": "LRlec1zoNeI",
       "snippet": {
         "publishedAt": "2025-10-31T06:58:34Z",
@@ -1961,15 +2067,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "230",
-        "likeCount": "7",
+        "viewCount": "234",
+        "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2BMMGSeOKzsC1Vdf22ZNS8CIwiQ",
+      "etag": "HCd5yote4JSCGc0oSiq5tMSBpLo",
       "id": "Wnw0wmTqVvw",
       "snippet": {
         "publishedAt": "2025-10-25T14:52:50Z",
@@ -2014,15 +2120,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "6649",
-        "likeCount": "78",
+        "viewCount": "6866",
+        "likeCount": "86",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kzj7Qhwc7vP4q65M1Ih_24o1iKI",
+      "etag": "axlujWzaMCGiNgMx09Ku3zNt56Y",
       "id": "xW-nnl2RGIs",
       "snippet": {
         "publishedAt": "2025-10-23T15:01:45Z",
@@ -2099,7 +2205,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "996",
+        "viewCount": "997",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -2107,7 +2213,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-iAn3djWRE1GCkovY4LYjv1fx24",
+      "etag": "XHTsGJFSBlt44FOfdbozmz3LXvs",
       "id": "d-87MbN0IiM",
       "snippet": {
         "publishedAt": "2025-10-21T17:05:00Z",
@@ -2158,15 +2264,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1323",
-        "likeCount": "18",
+        "viewCount": "1326",
+        "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "9tjUFWLp94y18fI1ZHNYJ4PRMaE",
+      "etag": "VngAgkfDdwruAGtoZvbNtaOrDG0",
       "id": "G3jhDn-tr4Y",
       "snippet": {
         "publishedAt": "2025-10-16T13:07:00Z",
@@ -2246,15 +2352,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1589",
-        "likeCount": "94",
+        "viewCount": "1595",
+        "likeCount": "95",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uDAZb-9E12_PqeEybpDx77H30ds",
+      "etag": "D_nsnLzTJtA-W1K2HKG74vRuPKc",
       "id": "mSwSRFFpM5U",
       "snippet": {
         "publishedAt": "2025-10-15T02:59:32Z",
@@ -2336,7 +2442,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "183",
+        "viewCount": "186",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2344,7 +2450,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mDYmswrGU9fROQK7JSKhOr_3rq8",
+      "etag": "brsATwJcHaTgUHHYGwSnxqoEszQ",
       "id": "gQ6edfHIYF8",
       "snippet": {
         "publishedAt": "2025-10-10T16:07:28Z",
@@ -2389,15 +2495,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "221",
-        "likeCount": "10",
+        "viewCount": "224",
+        "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JsVtdBgOaKsHXCKLrpx_3vp6FpE",
+      "etag": "dG7cBZH_sXeMsBzKdX4_oWcJx_c",
       "id": "MLnk47KYJe4",
       "snippet": {
         "publishedAt": "2025-10-09T20:01:53Z",
@@ -2442,7 +2548,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "316",
+        "viewCount": "317",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2450,7 +2556,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KhOXHz89GNFolnwJ9yitwKCKb2Y",
+      "etag": "V2coi4z9nut3X8XHviPWSMNZc-Q",
       "id": "2W-dp4mJddU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:49Z",
@@ -2513,7 +2619,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "23",
+        "viewCount": "24",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2521,7 +2627,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b4KU2Xmj5uRikS49ujAxo0hE3E8",
+      "etag": "k72tlBIUv-kWHwnaZhikS7xYxBo",
       "id": "bFTukY-5v3g",
       "snippet": {
         "publishedAt": "2025-10-09T19:05:00Z",
@@ -2601,7 +2707,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "380",
+        "viewCount": "383",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -2609,7 +2715,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JwDUPbV2ksA3ScaZJvQnYpZ9-g0",
+      "etag": "OhK2dbft-BKzQjPbTpvAJwyG9Zg",
       "id": "rPImkJ2WbhY",
       "snippet": {
         "publishedAt": "2025-10-04T20:02:02Z",
@@ -2682,7 +2788,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "492",
+        "viewCount": "494",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2690,7 +2796,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UvK7vNT-w7Kjm_VVC5c-FiLoi2c",
+      "etag": "CWRHj_BMYrmQZT7bXzQrCEDcO7U",
       "id": "WA9HULjqK4Y",
       "snippet": {
         "publishedAt": "2025-09-28T03:22:21Z",
@@ -2735,7 +2841,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "807",
+        "viewCount": "809",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2743,7 +2849,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yFEqUe9CYQ9BHGBvxaN1HpKh2o0",
+      "etag": "vLauEZSK9cqqksddBIZb4lmZ8C4",
       "id": "lY7FFdDrnLQ",
       "snippet": {
         "publishedAt": "2025-09-27T22:03:13Z",
@@ -2821,7 +2927,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1019",
+        "viewCount": "1021",
         "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2829,7 +2935,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3jeef77vzA7fRmMp--4DIQ___2U",
+      "etag": "RT1q53_0rgxG1ROSrdvae86pc9g",
       "id": "5Bc42zqQBu4",
       "snippet": {
         "publishedAt": "2025-09-27T16:23:47Z",
@@ -2907,15 +3013,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1868",
-        "likeCount": "56",
+        "viewCount": "1919",
+        "likeCount": "58",
         "favoriteCount": "0",
-        "commentCount": "59"
+        "commentCount": "63"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vuJ-wtbeBOS3KqKOHJlpnVI4NbA",
+      "etag": "wi9aljJsPXlSTdAGKfHsBeBI3U8",
       "id": "aO252AkXtOk",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:47Z",
@@ -2978,7 +3084,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2986,7 +3092,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hWkEdvAWa1pnM99L2UpTVVlshdE",
+      "etag": "GiYNYdvhUrBAkcmdtafTzexsgZ8",
       "id": "v6Uuo7wKR5s",
       "snippet": {
         "publishedAt": "2025-09-23T00:36:49Z",
@@ -3031,15 +3137,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "787",
-        "likeCount": "16",
+        "viewCount": "850",
+        "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dlhd1xPLOvfe4W54k-J3NcCCKxQ",
+      "etag": "4XaaI6sRy1ORIAKpWcUNhrKgvJg",
       "id": "H5A6-CDjR70",
       "snippet": {
         "publishedAt": "2025-09-22T19:55:49Z",
@@ -3084,7 +3190,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "409",
+        "viewCount": "417",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3092,7 +3198,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1tCWYh2q3B32ROVnLyaRNDPva1w",
+      "etag": "IjwrEp5ymWemqi6sa3SBudZ651g",
       "id": "vs3a5be-Ot4",
       "snippet": {
         "publishedAt": "2025-09-21T18:38:19Z",
@@ -3158,7 +3264,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "440",
+        "viewCount": "444",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3166,7 +3272,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hGHKkcyFGVTrY9lxkq5Fw9jClPc",
+      "etag": "YO0VjboDEVNab5x-XbYWPLLy3cs",
       "id": "VM1qVCqiuvU",
       "snippet": {
         "publishedAt": "2025-09-20T03:43:10Z",
@@ -3211,7 +3317,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1140",
+        "viewCount": "1144",
         "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -3219,7 +3325,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y9WCBk79aJitHdMG2vSFkSJfCC0",
+      "etag": "LHCGZ11p6crMdpFV-nGOWC4yoHQ",
       "id": "7_N-1yp1-QI",
       "snippet": {
         "publishedAt": "2025-09-19T21:00:44Z",
@@ -3264,7 +3370,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "310",
+        "viewCount": "314",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3272,7 +3378,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "La2Jav7ATONhkzW7sw78bWzqx3k",
+      "etag": "_gDv0DV24oaCK883F3CbJ3-ZFDY",
       "id": "0ZYC7Exf_AQ",
       "snippet": {
         "publishedAt": "2025-09-19T12:23:26Z",
@@ -3350,165 +3456,10 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1157",
+        "viewCount": "1159",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "pMvHFCLqaP9_4FQqN5C4Dqfgg_g",
-      "id": "HcB6Dnm81Vo",
-      "snippet": {
-        "publishedAt": "2025-09-18T21:00:19Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "230 Mile POTA Rove Across Northern Michigan - 7 Parks",
-        "description": "Join James (K8JKU) on an incredible 230-mile POTA rove across Northern Michigan! What started as a trip to a family reunion turned into an epic ham radio adventure visiting 7 parks, including the future site of the 3rd Annual Michigan POTA Meetup.\n\n\ud83d\uddfa\ufe0f Parks Activated (7 total):\nUS-6737 Molasses River Flooding No 1 Wildlife Management Area (3'fer with US-6717 Lame Duck Area State Game Land & US-4774 Au Sable State Forest) - navigated tricky Michigan seasonal roads\nUS-7854 Molasses River Flooding No 2 Wildlife Management Area (3'fer with US-6717 Lame Duck Area State Game Land & US-4774 Au Sable State Forest) - more seasonal road adventures\nUS-1503 Hartwick Pines State Park - future site of 3rd Annual Michigan POTA Meetup\nUS-10088 Headquarters Lake Flooding State Wildlife Area (2'fer with US-4779 Pere Marquette State Forest) - went completely offroad for this one!\n\n0:00:25 Journey Begins - Heading to Molasses River WMA\n0:04:48 First Strike! - Molasses River Flooding No 1 WMA (3'fer)\n0:13:29 Double Down! - Molasses River Flooding No 2 WMA (3'fer)\n0:21:44 Jackpot Location - Hartwick Pines State Park (Future POTA Meetup Site!)\n0:24:01 Antenna Upgrade - Deploying the Chameleon Vertical\n0:27:15 POTA Gear Revealed - What's in My POTA-Bag?\n0:28:40 Power & Performance - Packtenna Setup & Mobile Charging Solutions\n0:31:52 Final Challenge - Headquarters Lake Flooding WMA (2'fer)\n0:34:08 Adventure Mode - Navigating the Rough Trail Exit\n0:35:45 Mission Complete - 7 Parks, 230 Miles, Epic Memories!\n\n\ud83d\udcfb Equipment Used:\nYaesu FT-891\nATAS-120A\nPacktenna End Fed Half Wave with 40m extension\nExplorer POTA20 Portable 20ft Carbon Fiber Mast\nHam2k Portable Logger\nChameleon Vertical CHA BV with 17' whip\n\nWatch as band conditions start promising but gradually deteriorate due to solar activity, making each contact more challenging as the day progresses. This rove shows the real-world challenges of POTA operations - from navigating unmarked seasonal roads to dealing with changing propagation.\nPerfect for POTA enthusiasts, rove planning, and anyone who loves scenic Michigan views! Whether you're planning your first POTA activation or your 100th, this video shows real-world portable operations in beautiful locations.\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more: https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @EverydayHampodcast\nWebsite: https://www.everydayham.com\n\n#HamRadio #POTA #AmateurRadio #EverydayHam #Michigan #POTARove #PortableOperations #HamRadioAdventure #FT891 #POTAActivation #NorthernMichigan #HamRadioTravel",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HcB6Dnm81Vo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HcB6Dnm81Vo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HcB6Dnm81Vo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HcB6Dnm81Vo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HcB6Dnm81Vo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "pota rove",
-          "michigan pota",
-          "portable operations",
-          "ham radio travel",
-          "northern michigan",
-          "ft-891",
-          "pota activation",
-          "ham radio adventure",
-          "state parks",
-          "wildlife management area",
-          "ham radio equipment",
-          "mobile ham radio",
-          "pota meetup",
-          "ham radio outdoors",
-          "multiple park activation"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "230 Mile POTA Rove Across Northern Michigan - 7 Parks",
-          "description": "Join James (K8JKU) on an incredible 230-mile POTA rove across Northern Michigan! What started as a trip to a family reunion turned into an epic ham radio adventure visiting 7 parks, including the future site of the 3rd Annual Michigan POTA Meetup.\n\n\ud83d\uddfa\ufe0f Parks Activated (7 total):\nUS-6737 Molasses River Flooding No 1 Wildlife Management Area (3'fer with US-6717 Lame Duck Area State Game Land & US-4774 Au Sable State Forest) - navigated tricky Michigan seasonal roads\nUS-7854 Molasses River Flooding No 2 Wildlife Management Area (3'fer with US-6717 Lame Duck Area State Game Land & US-4774 Au Sable State Forest) - more seasonal road adventures\nUS-1503 Hartwick Pines State Park - future site of 3rd Annual Michigan POTA Meetup\nUS-10088 Headquarters Lake Flooding State Wildlife Area (2'fer with US-4779 Pere Marquette State Forest) - went completely offroad for this one!\n\n0:00:25 Journey Begins - Heading to Molasses River WMA\n0:04:48 First Strike! - Molasses River Flooding No 1 WMA (3'fer)\n0:13:29 Double Down! - Molasses River Flooding No 2 WMA (3'fer)\n0:21:44 Jackpot Location - Hartwick Pines State Park (Future POTA Meetup Site!)\n0:24:01 Antenna Upgrade - Deploying the Chameleon Vertical\n0:27:15 POTA Gear Revealed - What's in My POTA-Bag?\n0:28:40 Power & Performance - Packtenna Setup & Mobile Charging Solutions\n0:31:52 Final Challenge - Headquarters Lake Flooding WMA (2'fer)\n0:34:08 Adventure Mode - Navigating the Rough Trail Exit\n0:35:45 Mission Complete - 7 Parks, 230 Miles, Epic Memories!\n\n\ud83d\udcfb Equipment Used:\nYaesu FT-891\nATAS-120A\nPacktenna End Fed Half Wave with 40m extension\nExplorer POTA20 Portable 20ft Carbon Fiber Mast\nHam2k Portable Logger\nChameleon Vertical CHA BV with 17' whip\n\nWatch as band conditions start promising but gradually deteriorate due to solar activity, making each contact more challenging as the day progresses. This rove shows the real-world challenges of POTA operations - from navigating unmarked seasonal roads to dealing with changing propagation.\nPerfect for POTA enthusiasts, rove planning, and anyone who loves scenic Michigan views! Whether you're planning your first POTA activation or your 100th, this video shows real-world portable operations in beautiful locations.\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more: https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @EverydayHampodcast\nWebsite: https://www.everydayham.com\n\n#HamRadio #POTA #AmateurRadio #EverydayHam #Michigan #POTARove #PortableOperations #HamRadioAdventure #FT891 #POTAActivation #NorthernMichigan #HamRadioTravel"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "258",
-        "likeCount": "22",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PXBq69Kp7BxAWgSqIGMyUnaK7vc",
-      "id": "CskulzdxXyc",
-      "snippet": {
-        "publishedAt": "2025-09-15T22:42:20Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-        "description": "Homebuilt Solar Node for Meshtasic!  Putting the SeedStudio Wio Tracker L1 board to work with a repurposed game-camera solar panel, an inexpensive weather tight box, a 5000mah battery pack, and a repurposed Cellular Modem antenna.\n\nDo you run Meshtastic at your QTH?  Have you installed any solar nodes?\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for future discussions on hamfests, POTA, DXing, contesting, and more!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @EverydayHampodcast\nWebsite: www.everydayham.com (Discord link)\n\n#seedstudio #meshtastic #solarnode #wiotrackerl1 #meshtasticnode #lora #lorawan #solar #diyprojects",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CskulzdxXyc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CskulzdxXyc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CskulzdxXyc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CskulzdxXyc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CskulzdxXyc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "meshtastic",
-          "ham radio",
-          "amateur radio",
-          "solar power",
-          "mesh networking",
-          "GPS tracker",
-          "OLED display",
-          "lithium battery",
-          "LoRa",
-          "N8JRD",
-          "everyday ham",
-          "DIY electronics",
-          "emergency communications",
-          "off grid radio"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-          "description": "Homebuilt Solar Node for Meshtasic!  Putting the SeedStudio Wio Tracker L1 board to work with a repurposed game-camera solar panel, an inexpensive weather tight box, a 5000mah battery pack, and a repurposed Cellular Modem antenna.\n\nDo you run Meshtastic at your QTH?  Have you installed any solar nodes?\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for future discussions on hamfests, POTA, DXing, contesting, and more!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @EverydayHampodcast\nWebsite: www.everydayham.com (Discord link)\n\n#seedstudio #meshtastic #solarnode #wiotrackerl1 #meshtasticnode #lora #lorawan #solar #diyprojects"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "6094",
-        "likeCount": "138",
-        "favoriteCount": "0",
-        "commentCount": "17"
       }
     }
   ]

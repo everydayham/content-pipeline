@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-21 11:45 UTC*
+*Last updated: 2026-01-22 11:44 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qh4wem/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [MAYDAY from Belarus: Licensed operators facing death penalty for QSL cards](https://www.reddit.com/r/amateurradio/comments/1qi1ic2/mayday_from_belarus_licensed_operators_facing/)**
-by u/SiarheiBesarab
+**2. [HAM Radio Operators in Belarus Arrested, Face the Death Penalty | "My local comm...](https://www.reddit.com/r/amateurradio/comments/1qjo6zr/ham_radio_operators_in_belarus_arrested_face_the/)**
+by u/Youarethebigbang
 
-**3. [The time has finally come](https://www.reddit.com/r/amateurradio/comments/1qies58/the_time_has_finally_come/)**
-by u/qbg
+**3. [Anyone know how this satellite TV works?](https://www.reddit.com/r/amateurradio/comments/1qj8mmk/anyone_know_how_this_satellite_tv_works/)**
+by u/Independent_Dot6161
 
-**4. [New radio day!](https://www.reddit.com/r/amateurradio/comments/1qidqsc/new_radio_day/)**
-by u/Sakiwest
+**4. [With Ameritron Gone There Is A Shortage Of Available HF Amps](https://www.reddit.com/r/amateurradio/comments/1qjkwl0/with_ameritron_gone_there_is_a_shortage_of/)**
+by u/Lumpy-Duty716
 
-**5. [Solar storm? What Solar storm?](https://www.reddit.com/r/amateurradio/comments/1qiljn1/solar_storm_what_solar_storm/)**
-by u/ravenratedr
+**5. [Why do a lot of radios work on 13.8 VDC? Do power supplies make too much noise i...](https://www.reddit.com/r/amateurradio/comments/1qjbo4a/why_do_a_lot_of_radios_work_on_138_vdc_do_power/)**
+by u/ShmazPro
 
-**6. [CW ace](https://www.reddit.com/r/amateurradio/comments/1qict9r/cw_ace/)**
-by u/Marillohed2112
+**6. [Where does an absolute radio noob start with DMR?](https://www.reddit.com/r/amateurradio/comments/1qjijmt/where_does_an_absolute_radio_noob_start_with_dmr/)**
+by u/AutomaticTree654
 
-**7. [The Surprising Flaws in 18650 Lithium-Ion Batteries](https://www.reddit.com/r/amateurradio/comments/1qimq9k/the_surprising_flaws_in_18650_lithiumion_batteries/)**
-by u/CoastalRadio
+**7. [Antenna Matching Unit presentation.](https://www.reddit.com/r/amateurradio/comments/1qjrsle/antenna_matching_unit_presentation/)**
+by u/M7EUP
 
-**8. [Why does everyone on 6m SSB sound like they're slightly off frequency?](https://www.reddit.com/r/amateurradio/comments/1qipcx4/why_does_everyone_on_6m_ssb_sound_like_theyre/)**
-by u/KhyberPasshole
+**8. [My noise floor just massively increased overnight. Could this be powerline noise...](https://www.reddit.com/r/amateurradio/comments/1qjgpms/my_noise_floor_just_massively_increased_overnight/)**
+by u/kc3zyt
 
-**9. [Diamond Antennas](https://www.reddit.com/r/amateurradio/comments/1qirk23/diamond_antennas/)**
-by u/Jbondage069
+**9. [Eyeballing FT8 CQs just from the waterfall](https://www.reddit.com/r/amateurradio/comments/1qiyjvw/eyeballing_ft8_cqs_just_from_the_waterfall/)**
+by u/Spiritual_Reaction85
 
-**10. [Winter Field Day is this Saturday, when the snow storm and cold temps hit much o...](https://www.reddit.com/r/amateurradio/comments/1qhzqtk/winter_field_day_is_this_saturday_when_the_snow/)**
-by u/Sawyer2025
+**10. [A plea to Icom and Yaesu for a replacement for the IC-7000 and FT-857.](https://www.reddit.com/r/amateurradio/comments/1qj73ou/a_plea_to_icom_and_yaesu_for_a_replacement_for/)**
+by u/slatsandflaps
 
-**11. [Advice / suggestions on new antenna setup?](https://www.reddit.com/r/amateurradio/comments/1qighzx/advice_suggestions_on_new_antenna_setup/)**
-by u/Original_Day_7727
+**11. [VHF/UHF Basestation for shack](https://www.reddit.com/r/amateurradio/comments/1qjrs37/vhfuhf_basestation_for_shack/)**
+by u/jschundpeter
 
-**12. [HT on POTA?](https://www.reddit.com/r/amateurradio/comments/1qim3rj/ht_on_pota/)**
-by u/Ham-Radio-Hats
+**12. [Yaesu radios and programming cable/software](https://www.reddit.com/r/amateurradio/comments/1qjn7bq/yaesu_radios_and_programming_cablesoftware/)**
+by u/jayaura
 
-**13. [Can someone explain how I can view MY specific FT8 signal using WebSDR?](https://www.reddit.com/r/amateurradio/comments/1qifcxu/can_someone_explain_how_i_can_view_my_specific/)**
-by u/Engineering_Simple
+**13. [APRS Packet Radio Comms with Direwolf on NixOS to contol Radio Transceiver via D...](https://www.reddit.com/r/amateurradio/comments/1qjpmvm/aprs_packet_radio_comms_with_direwolf_on_nixos_to/)**
+by u/ThinkTourist8076
 
-**14. [Major QRM Issue](https://www.reddit.com/r/amateurradio/comments/1qik3mw/major_qrm_issue/)**
-by u/jackmitch383
+**14. [DIY AM Radio Help](https://www.reddit.com/r/amateurradio/comments/1qj3wrj/diy_am_radio_help/)**
+by u/Lime_The_Dragon
 
-**15. [Who Watches The Watchers - P25 Government SDR To The Rescue!](https://www.reddit.com/r/amateurradio/comments/1qhr4jm/who_watches_the_watchers_p25_government_sdr_to/)**
-by u/DevinWatson
+**15. [help needed](https://www.reddit.com/r/amateurradio/comments/1qjot4b/help_needed/)**
+by u/Great_Magazine2012
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Turn an Android smartphone into a ham radio transceiver?](https://www.reddit.com/r/HamRadio/comments/1qilfzd/turn_an_android_smartphone_into_a_ham_radio/)**
+**3. [HAM Radio Operators in Belarus Arrested, Face the Death Penalty](https://www.reddit.com/r/HamRadio/comments/1qj1ejj/ham_radio_operators_in_belarus_arrested_face_the/)**
+by u/404mediaco
+
+**4. [Peoria area amateur radio operators set to test worldwide communications in wint...](https://www.reddit.com/r/HamRadio/comments/1qjfpfj/peoria_area_amateur_radio_operators_set_to_test/)**
+by u/SharkSapphire
+
+**5. [How practical is self-study for the Canadian basic exam?](https://www.reddit.com/r/HamRadio/comments/1qjmn4m/how_practical_is_selfstudy_for_the_canadian_basic/)**
+by u/CloverEyed
+
+**6. [Question for you all regarding a weird issue I’ve noticed.](https://www.reddit.com/r/HamRadio/comments/1qjhwio/question_for_you_all_regarding_a_weird_issue_ive/)**
+by u/RoweTheGreat
+
+**7. [Broken RJ45 retaining clip - how can I repair?](https://www.reddit.com/r/HamRadio/comments/1qjkdwr/broken_rj45_retaining_clip_how_can_i_repair/)**
+by u/Redpsyclone
+
+**8. [Is There Ham Frequencies to Listen to NASA Launches?](https://www.reddit.com/r/HamRadio/comments/1qj2vly/is_there_ham_frequencies_to_listen_to_nasa/)**
+by u/robolucasgaming
+
+**9. [TheQRPStore… are they still in business? Weird automated email in response to or...](https://www.reddit.com/r/HamRadio/comments/1qjhyfv/theqrpstore_are_they_still_in_business_weird/)**
+by u/Complete_Kiwi_9993
+
+**10. [Question on potential radio purchase](https://www.reddit.com/r/HamRadio/comments/1qjpxr5/question_on_potential_radio_purchase/)**
+by u/Dizziness-frequency
+
+**11. [Turn an Android smartphone into a ham radio transceiver?](https://www.reddit.com/r/HamRadio/comments/1qilfzd/turn_an_android_smartphone_into_a_ham_radio/)**
 by u/greenwoody2018
 
-**4. [Belarus threatens ham radio operators with death penalty for "espionage"](https://www.reddit.com/r/HamRadio/comments/1qia4bi/belarus_threatens_ham_radio_operators_with_death/)**
+**12. [Rare Hallicrafters 5t "Sky Buddy"](https://www.reddit.com/r/HamRadio/comments/1qj6hyk/rare_hallicrafters_5t_sky_buddy/)**
+by u/Bluezone323
+
+**13. [Belarus threatens ham radio operators with death penalty for "espionage"](https://www.reddit.com/r/HamRadio/comments/1qia4bi/belarus_threatens_ham_radio_operators_with_death/)**
 by u/SharkSapphire
 
-**5. [QSL Buddy Leveled Up: Desktop Dashboard, CAT Control, POTA/SOTA Spots & More](https://www.reddit.com/r/HamRadio/comments/1qierps/qsl_buddy_leveled_up_desktop_dashboard_cat/)**
-by u/foobik
+**14. [Does anyone have any info on QRZ this morning?](https://www.reddit.com/r/HamRadio/comments/1qj2g89/does_anyone_have_any_info_on_qrz_this_morning/)**
+by u/OliverDawgy
 
-**6. [What causes this????Thank you 🙏🏻](https://www.reddit.com/r/HamRadio/comments/1qia0u4/what_causes_thisthank_you/)**
-by u/idiotswalkamongus
-
-**7. [Retevis rt95 2 way radio question.](https://www.reddit.com/r/HamRadio/comments/1qikzjh/retevis_rt95_2_way_radio_question/)**
+**15. [Retevis rt95 2 way radio question.](https://www.reddit.com/r/HamRadio/comments/1qikzjh/retevis_rt95_2_way_radio_question/)**
 by u/gifferd
-
-**8. [FT8 on HF with a crappy diy antenna from an appartment](https://www.reddit.com/r/HamRadio/comments/1qifikf/ft8_on_hf_with_a_crappy_diy_antenna_from_an/)**
-by u/f00dot
-
-**9. [User reviews of Herda radio handhelds](https://www.reddit.com/r/HamRadio/comments/1qitfog/user_reviews_of_herda_radio_handhelds/)**
-by u/Derpy_Devil
-
-**10. [I passed! Definitely credit it HamStudy and the recommendation of Study mode fro...](https://www.reddit.com/r/HamRadio/comments/1qhojvo/i_passed_definitely_credit_it_hamstudy_and_the/)**
-by u/HeadlineINeed
-
-**11. [Amateur radio club field day open to the public](https://www.reddit.com/r/HamRadio/comments/1qilk12/amateur_radio_club_field_day_open_to_the_public/)**
-by u/SharkSapphire
-
-**12. [Passed my Technician exam!!!!!!](https://www.reddit.com/r/HamRadio/comments/1qhcnlj/passed_my_technician_exam/)**
-by u/FiveMileDammit
-
-**13. [Anytone 878 buzzing figured out](https://www.reddit.com/r/HamRadio/comments/1qih7hq/anytone_878_buzzing_figured_out/)**
-by u/Mehle90
-
-**14. [Winter Field Day to put Upper Burrell ham radio club to the test in winter weath...](https://www.reddit.com/r/HamRadio/comments/1qiastp/winter_field_day_to_put_upper_burrell_ham_radio/)**
-by u/SharkSapphire
-
-**15. [Please help, I am an unwilling participant in my neighbor's HAM radio hobby.](https://www.reddit.com/r/HamRadio/comments/1qhbnwq/please_help_i_am_an_unwilling_participant_in_my/)**
-by u/MobsterOO7
 
 ---
 
@@ -109,15 +109,15 @@ by u/MobsterOO7
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qh4wem/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[MAYDAY from Belarus: Licensed operators facing death penalty for QSL c...](https://www.reddit.com/r/amateurradio/comments/1qi1ic2/mayday_from_belarus_licensed_operators_facing/)** (r/amateurradio)
-- **[The time has finally come](https://www.reddit.com/r/amateurradio/comments/1qies58/the_time_has_finally_come/)** (r/amateurradio)
-- **[New radio day!](https://www.reddit.com/r/amateurradio/comments/1qidqsc/new_radio_day/)** (r/amateurradio)
-- **[Solar storm? What Solar storm?](https://www.reddit.com/r/amateurradio/comments/1qiljn1/solar_storm_what_solar_storm/)** (r/amateurradio)
-- **[CW ace](https://www.reddit.com/r/amateurradio/comments/1qict9r/cw_ace/)** (r/amateurradio)
-- **[The Surprising Flaws in 18650 Lithium-Ion Batteries](https://www.reddit.com/r/amateurradio/comments/1qimq9k/the_surprising_flaws_in_18650_lithiumion_batteries/)** (r/amateurradio)
-- **[Why does everyone on 6m SSB sound like they're slightly off frequency?](https://www.reddit.com/r/amateurradio/comments/1qipcx4/why_does_everyone_on_6m_ssb_sound_like_theyre/)** (r/amateurradio)
-- **[Diamond Antennas](https://www.reddit.com/r/amateurradio/comments/1qirk23/diamond_antennas/)** (r/amateurradio)
-- **[Winter Field Day is this Saturday, when the snow storm and cold temps ...](https://www.reddit.com/r/amateurradio/comments/1qhzqtk/winter_field_day_is_this_saturday_when_the_snow/)** (r/amateurradio)
+- **[HAM Radio Operators in Belarus Arrested, Face the Death Penalty | "My ...](https://www.reddit.com/r/amateurradio/comments/1qjo6zr/ham_radio_operators_in_belarus_arrested_face_the/)** (r/amateurradio)
+- **[Anyone know how this satellite TV works?](https://www.reddit.com/r/amateurradio/comments/1qj8mmk/anyone_know_how_this_satellite_tv_works/)** (r/amateurradio)
+- **[With Ameritron Gone There Is A Shortage Of Available HF Amps](https://www.reddit.com/r/amateurradio/comments/1qjkwl0/with_ameritron_gone_there_is_a_shortage_of/)** (r/amateurradio)
+- **[Why do a lot of radios work on 13.8 VDC? Do power supplies make too mu...](https://www.reddit.com/r/amateurradio/comments/1qjbo4a/why_do_a_lot_of_radios_work_on_138_vdc_do_power/)** (r/amateurradio)
+- **[Where does an absolute radio noob start with DMR?](https://www.reddit.com/r/amateurradio/comments/1qjijmt/where_does_an_absolute_radio_noob_start_with_dmr/)** (r/amateurradio)
+- **[Antenna Matching Unit presentation.](https://www.reddit.com/r/amateurradio/comments/1qjrsle/antenna_matching_unit_presentation/)** (r/amateurradio)
+- **[My noise floor just massively increased overnight. Could this be power...](https://www.reddit.com/r/amateurradio/comments/1qjgpms/my_noise_floor_just_massively_increased_overnight/)** (r/amateurradio)
+- **[Eyeballing FT8 CQs just from the waterfall](https://www.reddit.com/r/amateurradio/comments/1qiyjvw/eyeballing_ft8_cqs_just_from_the_waterfall/)** (r/amateurradio)
+- **[A plea to Icom and Yaesu for a replacement for the IC-7000 and FT-857.](https://www.reddit.com/r/amateurradio/comments/1qj73ou/a_plea_to_icom_and_yaesu_for_a_replacement_for/)** (r/amateurradio)
 
 ---
 

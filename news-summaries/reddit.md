@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-23 11:42 UTC*
+*Last updated: 2026-01-24 11:31 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qh4wem/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [My mini shack is taking over the sunroom](https://www.reddit.com/r/amateurradio/comments/1qkc8v3/my_mini_shack_is_taking_over_the_sunroom/)**
+**2. [Woot! AE](https://www.reddit.com/r/amateurradio/comments/1qky4gf/woot_ae/)**
+by u/electragician
+
+**3. [Winter Field Day tomorrow!](https://www.reddit.com/r/amateurradio/comments/1qlgfcx/winter_field_day_tomorrow/)**
+by u/covertkek
+
+**4. [SNOW STORM MEMORIES](https://www.reddit.com/r/amateurradio/comments/1qljyax/snow_storm_memories/)**
+by u/Own-Station726
+
+**5. [PSA: Do not put cheap LED zone displays near your HF rig](https://www.reddit.com/r/amateurradio/comments/1qlii3y/psa_do_not_put_cheap_led_zone_displays_near_your/)**
+by u/Crazy-Dealer112
+
+**6. [today I'm an excited nerd because a friend of mine gave me this old radio. I've ...](https://www.reddit.com/r/amateurradio/comments/1ql2wkw/today_im_an_excited_nerd_because_a_friend_of_mine/)**
+by u/Few-One6999
+
+**7. [Looking for documentation](https://www.reddit.com/r/amateurradio/comments/1ql3269/looking_for_documentation/)**
+by u/dajolly
+
+**8. [70 cm FM calling frequency/channel in Finland?](https://www.reddit.com/r/amateurradio/comments/1qlg6zt/70_cm_fm_calling_frequencychannel_in_finland/)**
+by u/alloydog
+
+**9. [My mini shack is taking over the sunroom](https://www.reddit.com/r/amateurradio/comments/1qkc8v3/my_mini_shack_is_taking_over_the_sunroom/)**
 by u/Active_Emu_845
 
-**3. [23cm gang - what do you all do up there?](https://www.reddit.com/r/amateurradio/comments/1qkkber/23cm_gang_what_do_you_all_do_up_there/)**
+**10. [(USA) rules and etiquette regarding remote control camera shutter?](https://www.reddit.com/r/amateurradio/comments/1qkzuzq/usa_rules_and_etiquette_regarding_remote_control/)**
+by u/ElectricFlyZapper
+
+**11. [Could i make a quarter wave ground plane antenna (for the airband) out of this t...](https://www.reddit.com/r/amateurradio/comments/1qkwsaq/could_i_make_a_quarter_wave_ground_plane_antenna/)**
+by u/AsAsin18
+
+**12. [23cm gang - what do you all do up there?](https://www.reddit.com/r/amateurradio/comments/1qkkber/23cm_gang_what_do_you_all_do_up_there/)**
 by u/Cool-Office-9126
 
-**4. [What to do with boxes full of old HTs?](https://www.reddit.com/r/amateurradio/comments/1qk9rax/what_to_do_with_boxes_full_of_old_hts/)**
+**13. [Is there an Android app that will allow me to remote control an Icom IC- 7300, w...](https://www.reddit.com/r/amateurradio/comments/1ql151u/is_there_an_android_app_that_will_allow_me_to/)**
+by u/LTguy
+
+**14. [Vanity Callsign - Release Timing](https://www.reddit.com/r/amateurradio/comments/1qkrix3/vanity_callsign_release_timing/)**
+by u/LosLocosKickYourAss
+
+**15. [What to do with boxes full of old HTs?](https://www.reddit.com/r/amateurradio/comments/1qk9rax/what_to_do_with_boxes_full_of_old_hts/)**
 by u/sysop420
-
-**5. [HAM Radio Operators in Belarus Arrested, Face the Death Penalty | "My local comm...](https://www.reddit.com/r/amateurradio/comments/1qjo6zr/ham_radio_operators_in_belarus_arrested_face_the/)**
-by u/Youarethebigbang
-
-**6. [Thinking about picking up a 40m-10m vertical antenna setup for POTA, what are my...](https://www.reddit.com/r/amateurradio/comments/1qkdgsm/thinking_about_picking_up_a_40m10m_vertical/)**
-by u/KhyberPasshole
-
-**7. [Reentering the Ham world](https://www.reddit.com/r/amateurradio/comments/1qkjnle/reentering_the_ham_world/)**
-by u/robbynpupperz
-
-**8. [Quansheng TK11 (8) Should I buy it?](https://www.reddit.com/r/amateurradio/comments/1qkmus4/quansheng_tk11_8_should_i_buy_it/)**
-by u/Wrongdoer-Equivalent
-
-**9. [Building the LARCSet v3.0: Real-World Problems and Proven Fixes from the BITX20 ...](https://www.reddit.com/r/amateurradio/comments/1qkmdba/building_the_larcset_v30_realworld_problems_and/)**
-by u/OldObjective3047
-
-**10. [SWR sweep of a 6, 4, 2m & 70cm's mobile antenna on a Sirio 6 inch mag-mount. Car...](https://www.reddit.com/r/amateurradio/comments/1qkocue/swr_sweep_of_a_6_4_2m_70cms_mobile_antenna_on_a/)**
-by u/ZeissSuperIkonta
-
-**11. [I read randomwire is more efficent than efhw because of less losses in a 9:1 unu...](https://www.reddit.com/r/amateurradio/comments/1qk2ruq/i_read_randomwire_is_more_efficent_than_efhw/)**
-by u/thehotshotpilot
-
-**12. [Newbie Question: HF/Ham Radios](https://www.reddit.com/r/amateurradio/comments/1qkmuse/newbie_question_hfham_radios/)**
-by u/EnvironmentalCow1990
-
-**13. [Trying to do right by a silent key’s station - Kenwood TS-930S, Heathkit Apache,...](https://www.reddit.com/r/amateurradio/comments/1qkckag/trying_to_do_right_by_a_silent_keys_station/)**
-by u/spoot85
-
-**14. [Pass the old CW extra test, get a fancy member number](https://www.reddit.com/r/amateurradio/comments/1qjxpks/pass_the_old_cw_extra_test_get_a_fancy_member/)**
-by u/jsvana
-
-**15. [Dumb question: ...What's the point of the Rx freq on FT8?](https://www.reddit.com/r/amateurradio/comments/1qka5oj/dumb_question_whats_the_point_of_the_rx_freq_on/)**
-by u/Engineering_Simple
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Couple Ham Guys Near Me. Any info on their setup?](https://www.reddit.com/r/HamRadio/comments/1qk7rg3/couple_ham_guys_near_me_any_info_on_their_setup/)**
-by u/gregwglenn
+**3. [What could we do to keep this hobby alive for future generations?](https://www.reddit.com/r/HamRadio/comments/1qlf15v/what_could_we_do_to_keep_this_hobby_alive_for/)**
+by u/thebstrd
 
-**4. [Stupid question; mobile radio people with antennas on their vehicles](https://www.reddit.com/r/HamRadio/comments/1qkc69k/stupid_question_mobile_radio_people_with_antennas/)**
+**4. [Passed the General Exam with Ham radio prep](https://www.reddit.com/r/HamRadio/comments/1qlbh6a/passed_the_general_exam_with_ham_radio_prep/)**
+by u/Royal-Pomegranate246
+
+**5. [New Amatuer Extra - what first radio?](https://www.reddit.com/r/HamRadio/comments/1qla447/new_amatuer_extra_what_first_radio/)**
+by u/HopefulQuiet3276
+
+**6. [Grounding an outdoor battery run radio](https://www.reddit.com/r/HamRadio/comments/1qlk2b9/grounding_an_outdoor_battery_run_radio/)**
+by u/No-Storage8158
+
+**7. [I’m wanting to get into ham radio](https://www.reddit.com/r/HamRadio/comments/1ql7o9r/im_wanting_to_get_into_ham_radio/)**
+by u/jbot42
+
+**8. [The excitement of seeing your radio being delivered only to find out you ordered...](https://www.reddit.com/r/HamRadio/comments/1qlb4b7/the_excitement_of_seeing_your_radio_being/)**
 by u/HeadlineINeed
 
-**5. [Is saying "This is..." really necessary? Just checking, seems very repetitive es...](https://www.reddit.com/r/HamRadio/comments/1qk6wet/is_saying_this_is_really_necessary_just_checking/)**
-by u/samalex01
+**9. [Low Transmission Power on Yaesu FT-767GX](https://www.reddit.com/r/HamRadio/comments/1qld8dd/low_transmission_power_on_yaesu_ft767gx/)**
+by u/Ok_Antelope2362
 
-**6. [Handheld DM32UV vs ships antenna](https://www.reddit.com/r/HamRadio/comments/1qjtxs3/handheld_dm32uv_vs_ships_antenna/)**
-by u/Usual_Tomorrow_7830
+**10. [Question about Radio application](https://www.reddit.com/r/HamRadio/comments/1qlkpj6/question_about_radio_application/)**
+by u/potage94
 
-**7. [Need help with Cargo trailer outlets](https://www.reddit.com/r/HamRadio/comments/1qk6fy9/need_help_with_cargo_trailer_outlets/)**
-by u/Acceptable-Airport12
+**11. [How To Build A High School Club](https://www.reddit.com/r/HamRadio/comments/1qlbwzk/how_to_build_a_high_school_club/)**
+by u/PNWGreeneggsandham
 
-**8. [Inexpensive base station transceiver](https://www.reddit.com/r/HamRadio/comments/1qkg9uh/inexpensive_base_station_transceiver/)**
-by u/mreddog
+**12. [Public All Star node in a small town..](https://www.reddit.com/r/HamRadio/comments/1qkx0lk/public_all_star_node_in_a_small_town/)**
+by u/Any_Lobster7280
 
-**9. [IC-705 issue disagreeing with swr](https://www.reddit.com/r/HamRadio/comments/1qkab5y/ic705_issue_disagreeing_with_swr/)**
-by u/Top_Performer1634
+**13. [Should I bring my AH-710 folded dipole down for wintery weather?](https://www.reddit.com/r/HamRadio/comments/1qkssh6/should_i_bring_my_ah710_folded_dipole_down_for/)**
+by u/djuggler
 
-**10. [[Houston, Texas] What stations should i keep my ears to during adverse events li...](https://www.reddit.com/r/HamRadio/comments/1qjy69g/houston_texas_what_stations_should_i_keep_my_ears/)**
-by u/TheEyeOfTheLigar
-
-**11. [Looking for people to translate a new ham radio callsign search app to other lan...](https://www.reddit.com/r/HamRadio/comments/1qk3doq/looking_for_people_to_translate_a_new_ham_radio/)**
-by u/Certain_Height_2721
-
-**12. [🎉 r/HamRadioMemes is back on the air! 📡](https://www.reddit.com/r/HamRadio/comments/1qk80my/rhamradiomemes_is_back_on_the_air/)**
+**14. [Northeast storm ahead: what technical station prep are you doing?](https://www.reddit.com/r/HamRadio/comments/1ql9bi5/northeast_storm_ahead_what_technical_station_prep/)**
 by u/SharkSapphire
 
-**13. [Question on potential radio purchase](https://www.reddit.com/r/HamRadio/comments/1qjpxr5/question_on_potential_radio_purchase/)**
-by u/Dizziness-frequency
-
-**14. [HAM Radio Operators in Belarus Arrested, Face the Death Penalty](https://www.reddit.com/r/HamRadio/comments/1qj1ejj/ham_radio_operators_in_belarus_arrested_face_the/)**
-by u/404mediaco
-
-**15. [Broken RJ45 retaining clip - how can I repair?](https://www.reddit.com/r/HamRadio/comments/1qjkdwr/broken_rj45_retaining_clip_how_can_i_repair/)**
-by u/Redpsyclone
+**15. [Couple Ham Guys Near Me. Any info on their setup?](https://www.reddit.com/r/HamRadio/comments/1qk7rg3/couple_ham_guys_near_me_any_info_on_their_setup/)**
+by u/gregwglenn
 
 ---
 
@@ -109,15 +109,15 @@ by u/Redpsyclone
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qh4wem/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Woot! AE](https://www.reddit.com/r/amateurradio/comments/1qky4gf/woot_ae/)** (r/amateurradio)
+- **[Winter Field Day tomorrow!](https://www.reddit.com/r/amateurradio/comments/1qlgfcx/winter_field_day_tomorrow/)** (r/amateurradio)
+- **[SNOW STORM MEMORIES](https://www.reddit.com/r/amateurradio/comments/1qljyax/snow_storm_memories/)** (r/amateurradio)
+- **[PSA: Do not put cheap LED zone displays near your HF rig](https://www.reddit.com/r/amateurradio/comments/1qlii3y/psa_do_not_put_cheap_led_zone_displays_near_your/)** (r/amateurradio)
+- **[today I'm an excited nerd because a friend of mine gave me this old ra...](https://www.reddit.com/r/amateurradio/comments/1ql2wkw/today_im_an_excited_nerd_because_a_friend_of_mine/)** (r/amateurradio)
+- **[Looking for documentation](https://www.reddit.com/r/amateurradio/comments/1ql3269/looking_for_documentation/)** (r/amateurradio)
+- **[70 cm FM calling frequency/channel in Finland?](https://www.reddit.com/r/amateurradio/comments/1qlg6zt/70_cm_fm_calling_frequencychannel_in_finland/)** (r/amateurradio)
 - **[My mini shack is taking over the sunroom](https://www.reddit.com/r/amateurradio/comments/1qkc8v3/my_mini_shack_is_taking_over_the_sunroom/)** (r/amateurradio)
-- **[23cm gang - what do you all do up there?](https://www.reddit.com/r/amateurradio/comments/1qkkber/23cm_gang_what_do_you_all_do_up_there/)** (r/amateurradio)
-- **[What to do with boxes full of old HTs?](https://www.reddit.com/r/amateurradio/comments/1qk9rax/what_to_do_with_boxes_full_of_old_hts/)** (r/amateurradio)
-- **[HAM Radio Operators in Belarus Arrested, Face the Death Penalty | "My ...](https://www.reddit.com/r/amateurradio/comments/1qjo6zr/ham_radio_operators_in_belarus_arrested_face_the/)** (r/amateurradio)
-- **[Thinking about picking up a 40m-10m vertical antenna setup for POTA, w...](https://www.reddit.com/r/amateurradio/comments/1qkdgsm/thinking_about_picking_up_a_40m10m_vertical/)** (r/amateurradio)
-- **[Reentering the Ham world](https://www.reddit.com/r/amateurradio/comments/1qkjnle/reentering_the_ham_world/)** (r/amateurradio)
-- **[Quansheng TK11 (8) Should I buy it?](https://www.reddit.com/r/amateurradio/comments/1qkmus4/quansheng_tk11_8_should_i_buy_it/)** (r/amateurradio)
-- **[Building the LARCSet v3.0: Real-World Problems and Proven Fixes from t...](https://www.reddit.com/r/amateurradio/comments/1qkmdba/building_the_larcset_v30_realworld_problems_and/)** (r/amateurradio)
-- **[SWR sweep of a 6, 4, 2m & 70cm's mobile antenna on a Sirio 6 inch mag-...](https://www.reddit.com/r/amateurradio/comments/1qkocue/swr_sweep_of_a_6_4_2m_70cms_mobile_antenna_on_a/)** (r/amateurradio)
+- **[(USA) rules and etiquette regarding remote control camera shutter?](https://www.reddit.com/r/amateurradio/comments/1qkzuzq/usa_rules_and_etiquette_regarding_remote_control/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-01-19 13:56 UTC*
+*Last updated: 2026-01-26 13:56 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Dadi pota aur dahej 💰 part -3 🔥 virat kohli ka kis... | Muffin9542 | 5,132,361 | 2026-01-15 |
-| Aaj Banaenge Special Mutton Curry And Pota Kaleji ... | R Rajesh Vlogs | 475,203 | 2026-01-17 |
-| Train every day! #hamradio #radiooperator #radio #... | Hobby Steve  | 408,763 | 2026-01-16 |
-| souchin with KP, 幼なじみ 🌹#BEFIRST#SOTA | NINA_BESTY | 327,281 | 2026-01-16 |
-| Sameer sota hua dek rha Rimjhim ko🥰❣️❣️❣️🥰🥰🥰#pyaar... | Serial Star | 232,147 | 2026-01-14 |
-| LIVE: Emergency Action Messages Alert! Ham Radio M... | The Global Crisis Wa | 182,859 | 2026-01-13 |
-| SOTAは貴重な宝物です 🌹⚰️,SOTA & RAN ,Stare in wonder #SOTA... | NINA_BESTY | 182,014 | 2026-01-16 |
-| chain se sota hu #funny #relatable #viral #shorts#... | chotipurr | 179,834 | 2026-01-13 |
-| 伸びそうな絵師さん見つけた＃5 | そーた の暇つぶし | 171,084 | 2026-01-18 |
-| #video | तोरा बहिन के सोटा मारो | #Ankush Raja | F... | Ankush Raja Official | 157,701 | 2026-01-18 |
-| Milagai killi pota sambar,senai kizhangu poriyal,p... | Mom And Daughter | 117,854 | 2026-01-18 |
-| fayas monisha editings 💙💖thavani pota theevali💙💖Ta... | Nrfm Fayas Monisha  | 115,342 | 2026-01-17 |
-| Special Mutton Curry & Pota Kaleji Aaj 😋 || Tamil ... | R Rajesh vlogs offic | 106,160 | 2026-01-17 |
-| Aaj Banaenge Special Mutton Curry Aur Pota Kaleji ... | R Rajesh vlogs offic | 100,784 | 2026-01-17 |
-| 【BE:FIRST】6人で前へ──LEOとSOTAが明かすBE:FIRST再構築の舞台裏   #sh... | ほっこり芸能エピソード | 100,120 | 2026-01-13 |
-| Apni Peedi Thale Sota Nahi Mardi #funny #comedyfil... | Mr & Mrs Dhesi USA ਢ | 95,962 | 2026-01-14 |
-| principal ka pota aaya school me ab kya hoga 🤑 #an... | arshan _khan  | 93,620 | 2026-01-15 |
-| PTT Guard for Baofeng #walkietalkie #radio #baofen... | TRIDOS.DESIGN | 91,748 | 2026-01-15 |
-| Pota Rare Id Hack 😂 - para SAMSUNG A3,A5,A6,A7,J2,... | sk bro vlogs | 89,878 | 2026-01-18 |
-| Dadi And Pota Poti   Indian Dadi in Winters   Gran... | Ut Huynh | 84,142 | 2026-01-16 |
-| Aaj Banaenge Special Mutton Curry And Pota Kaleji ... | R Rajesh vlogs offic | 82,687 | 2026-01-17 |
-| SOTAとRANのダンスジャンル4パターン講座だよー🕺カッコいい！ #MAZZEL_RAN #BEF... | chimaco.U | 82,261 | 2026-01-16 |
-| shoorveer Nahi Sota #chhaava #shivajimaharaj#shamb... | Kuldeep  | 81,948 | 2026-01-14 |
-| Can you copy? (pt.2) #hamradio #morsecode #practic... | Radio Roamers | 42,551 | 2026-01-15 |
-| 키보드 버리게 만드는 모스 부호 전송 속도 수준  #모스부호 #아마추어무선 #통신 #취미생... | 후아유 | 28,775 | 2026-01-13 |
+| For The Lore!  #chrisboden #comedy #engineering #h... | Chris Boden | 956,839 | 2026-01-21 |
+| Apne Pati ke sath kyon nahin sota jata hai jo kaha... | Chandani Tara Vlogs | 798,835 | 2026-01-22 |
+| Getting better daily! #radio #hamradio #morsecode ... | Hobby Steve  | 554,032 | 2026-01-25 |
+| Kaleji Pathri Recipe🤤| Pota Kaleji | #anishavlog #... | Anisha Sons Kitchen  | 466,252 | 2026-01-21 |
+| SOUCHIN ⚰️🌹,SOTAは最高に優しい人です#BEFIRST#HANA | NINA_BESTY | 423,082 | 2026-01-24 |
+| ₹1000 Rechargeable Walkie Talkie Range Test | BAOF... | DigiBott | 411,768 | 2026-01-19 |
+| SOTA & KONA,🌹⚰️今まで見た兄弟姉妹の最高のコラボレーション #BEFIRST#SOTA... | NINA_BESTY | 360,471 | 2026-01-22 |
+| SOTAは貴重な宝物です👑 ,すごくすごいから気が狂いそう ⚰️🌹????#BEFIRST#SOTA | NINA_BESTY | 343,573 | 2026-01-21 |
+| Legal ID  #chrisboden #comedy #engineering #radio ... | Chris Boden | 300,731 | 2026-01-23 |
+| SMS 🌹⚰️,SOTAは想像もできないレベルです。#SOTA#MANATO#SHOTA#BEFIR... | NINA_BESTY | 233,567 | 2026-01-24 |
+| Все будет хуже. Мы - пример, как не надо жить. Сан... | sotavision | 202,139 | 2026-01-22 |
+| Can you copy? (pt.3) #hamradio #morsecode #practic... | Radio Roamers | 181,315 | 2026-01-20 |
+| #HelloMyBESTY2 Focus Cam - #SOTA #BF_IWantYouBack ... | BE:FIRST Official | 162,625 | 2026-01-23 |
+| 💥Maa akhir maa hoti h💦vo rha tera pota maa😭😥| #vir... | Anjali Entertainment | 162,501 | 2026-01-23 |
+| #BEFIRST#BMSG 会社推しだけどやっぱり#BESTY#ビーファースト#grandchamp... | BE:HAPPY | 155,793 | 2026-01-22 |
+| SOTA Say 仲間 🌹⚰️,,  ああ、これは本当にかわいい #BEFIRST#SOTA | NINA_BESTY | 129,101 | 2026-01-20 |
+| CAP I POTA (Callos)🐮🔥 | Eric Lahuerta | 114,522 | 2026-01-20 |
+| Юлия Латынина отвечает за всё!  Запись прямого эфи... | SOTA | 67,407 | 2026-01-19 |
+| Se dice pota al calamar en Peru?? | Kim Mochilero | 62,704 | 2026-01-21 |
+| Upma vaa illa uppumaa vaa va??Edho vish pota mari ... | Lavanya Dheepan | 46,041 | 2026-01-20 |
+| CHICKEN KALEGI POTA | Kajal Rani Shorts | 41,477 | 2026-01-22 |
+| Principal ka Pota #shorts #storytime #funny #relat... | Katherine Creator | 37,311 | 2026-01-23 |
+| #principal# ka #pota #barish #mein #bhi #Patang #u... | Vi animal cat | 36,267 | 2026-01-24 |
+| How to cook Chicken 🐔🐔 gizzard/ चिकन पोटा रेसिपी/ ... | My kitchen 200 | 35,663 | 2026-01-24 |
+| HOA Tried to Silence My Ham Radio… So I Made Them ... | Karen Files | 32,019 | 2026-01-20 |
 
 ---
 
@@ -42,13 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (30 videos)
-- **License/Learning**: ████████████████████ (22 videos)
-- **HF Operating**: ██████████████████ (18 videos)
-- **Antennas**: ████████████████ (16 videos)
+- **POTA/Portable**: ████████████████████ (48 videos)
+- **HF Operating**: ████████████████████ (40 videos)
+- **License/Learning**: ████████████████████ (34 videos)
+- **Antennas**: ████████████████████ (27 videos)
+- **QRP**: ██████████████ (14 videos)
+- **Gear Reviews**: ████████ (8 videos)
 - **Digital Modes**: ███████ (7 videos)
-- **Gear Reviews**: ██████ (6 videos)
-- **QRP**: █████ (5 videos)
 - **Contests**: ███ (3 videos)
 
 ---

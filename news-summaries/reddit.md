@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-28 11:43 UTC*
+*Last updated: 2026-01-29 11:34 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [ARRL Board of Directors Shenanigans Afoot?](https://www.reddit.com/r/amateurradio/comments/1qoxirx/arrl_board_of_directors_shenanigans_afoot/)**
-by u/AF-IX
+**2. [W1AW this morning](https://www.reddit.com/r/amateurradio/comments/1qpshar/w1aw_this_morning/)**
+by u/Flat_Economist_8763
 
-**3. [Someone calling CQ over the bonehead broadcasting music](https://www.reddit.com/r/amateurradio/comments/1qoy3fb/someone_calling_cq_over_the_bonehead_broadcasting/)**
-by u/Roscoe90
+**3. [ARRL makes statement on K3RF removal](https://www.reddit.com/r/amateurradio/comments/1qpv42t/arrl_makes_statement_on_k3rf_removal/)**
+by u/rimsinni
 
-**4. [Hopefully this is not a trend with the 7.2 lads but forewarned is forearmed](https://www.reddit.com/r/amateurradio/comments/1qos8g8/hopefully_this_is_not_a_trend_with_the_72_lads/)**
-by u/GassyDragon
+**4. [My first ham event: Winter Field Day](https://www.reddit.com/r/amateurradio/comments/1qpfr15/my_first_ham_event_winter_field_day/)**
+by u/SmokinDeist
 
-**5. [Price for this Braun T1000 white dial](https://www.reddit.com/r/amateurradio/comments/1qp46xi/price_for_this_braun_t1000_white_dial/)**
-by u/Appropriate-Head7930
+**5. [HF Radio Consistent Contact](https://www.reddit.com/r/amateurradio/comments/1qpti63/hf_radio_consistent_contact/)**
+by u/Nick_Long1007
 
-**6. [If you had $1000 to spend to get started, what would you get?](https://www.reddit.com/r/amateurradio/comments/1qopxmw/if_you_had_1000_to_spend_to_get_started_what/)**
-by u/13Ostriches
+**6. [Spoiled at work](https://www.reddit.com/r/amateurradio/comments/1qpurrv/spoiled_at_work/)**
+by u/legoguy26
 
-**7. [Programming cable with USB-C adapter](https://www.reddit.com/r/amateurradio/comments/1qoy60t/programming_cable_with_usbc_adapter/)**
-by u/Yisrael30
+**7. [Hi all! New ham radio user](https://www.reddit.com/r/amateurradio/comments/1qq1fzd/hi_all_new_ham_radio_user/)**
+by u/RockinRiGuy
 
-**8. [What do your reckon the best setting is in which to implement these changes. ARE...](https://www.reddit.com/r/amateurradio/comments/1qo3qgs/what_do_your_reckon_the_best_setting_is_in_which/)**
-by u/NotThePopeProbably
+**8. [Radio recommendation for a Marathon](https://www.reddit.com/r/amateurradio/comments/1qpxr58/radio_recommendation_for_a_marathon/)**
+by u/AmSmolPotatBean
 
-**9. [Antenna Placement and Local Environmental Impacts](https://www.reddit.com/r/amateurradio/comments/1qoig9t/antenna_placement_and_local_environmental_impacts/)**
-by u/jcm8002204
+**9. [Illinois hams that want to qsl with Nevada](https://www.reddit.com/r/amateurradio/comments/1qq3ugd/illinois_hams_that_want_to_qsl_with_nevada/)**
+by u/wassup2190
 
-**10. [40 - 20M Noise floor and interference](https://www.reddit.com/r/amateurradio/comments/1qomw39/40_20m_noise_floor_and_interference/)**
-by u/Slow281
+**10. [USB on 7.242 MHz?](https://www.reddit.com/r/amateurradio/comments/1qpvpob/usb_on_7242_mhz/)**
+by u/Opinion-Former
 
-**11. [Loving my new Qwanwood UV-K1](https://www.reddit.com/r/amateurradio/comments/1qp1fqx/loving_my_new_qwanwood_uvk1/)**
-by u/DonutOne
+**11. [Health concerns for HF? Not pseudoscience.](https://www.reddit.com/r/amateurradio/comments/1qpgafe/health_concerns_for_hf_not_pseudoscience/)**
+by u/infopcgood
 
-**12. [Having a receiving issue, audio keeps cutting out when receiving](https://www.reddit.com/r/amateurradio/comments/1qost08/having_a_receiving_issue_audio_keeps_cutting_out/)**
-by u/HeadlineINeed
+**12. [Mac Ham radio software for digital and analog modes](https://www.reddit.com/r/amateurradio/comments/1qq3769/mac_ham_radio_software_for_digital_and_analog/)**
+by u/c-nadig
 
-**13. [Mastodon sur téléphone portable.](https://www.reddit.com/r/amateurradio/comments/1qp59nx/mastodon_sur_téléphone_portable/)**
-by u/F5NFB_QRP
+**13. [Just beginning with CW but not much luck](https://www.reddit.com/r/amateurradio/comments/1qpmvbd/just_beginning_with_cw_but_not_much_luck/)**
+by u/Big_Pack_1177
 
-**14. [Need help with antenna](https://www.reddit.com/r/amateurradio/comments/1qoqb84/need_help_with_antenna/)**
-by u/Active_Emu_845
+**14. [Weird sound at 4645.00 AM](https://www.reddit.com/r/amateurradio/comments/1qq3dsv/weird_sound_at_464500_am/)**
+by u/TheWalkingRaccoon
 
-**15. [T-Beam Supreme Antenna Upgrade](https://www.reddit.com/r/amateurradio/comments/1qp1f72/tbeam_supreme_antenna_upgrade/)**
-by u/Physical-Lobster-555
+**15. [Grounding problem](https://www.reddit.com/r/amateurradio/comments/1qptlgu/grounding_problem/)**
+by u/Gunit7542
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [ARRL Board of Directors Shenanigans Afoot?](https://www.reddit.com/r/HamRadio/comments/1qoxhez/arrl_board_of_directors_shenanigans_afoot/)**
-by u/AF-IX
+**3. [FCC Part 97: Spectral Purity Meme](https://www.reddit.com/r/HamRadio/comments/1qpluzu/fcc_part_97_spectral_purity_meme/)**
+by u/MSWinDOS
 
-**4. [(tr)uSDX not working unless I put pressure on it in a specific way](https://www.reddit.com/r/HamRadio/comments/1qoodru/trusdx_not_working_unless_i_put_pressure_on_it_in/)**
-by u/Certain_Height_2721
+**4. [Mac Ham radio software for digital and analog modes](https://www.reddit.com/r/HamRadio/comments/1qq36xv/mac_ham_radio_software_for_digital_and_analog/)**
+by u/c-nadig
 
-**5. [Help with programming realistic radio](https://www.reddit.com/r/HamRadio/comments/1qp0z06/help_with_programming_realistic_radio/)**
-by u/SplitHappy4408
-
-**6. [Ham Radio Equipment Question - Best place to sell](https://www.reddit.com/r/HamRadio/comments/1qohaic/ham_radio_equipment_question_best_place_to_sell/)**
-by u/llpii
-
-**7. [QSL Buddy Update: Real-Time WSJT-X/JTDX Sync, Voice Keyer, Yaesu/Xiegu CAT + Des...](https://www.reddit.com/r/HamRadio/comments/1qobze6/qsl_buddy_update_realtime_wsjtxjtdx_sync_voice/)**
-by u/foobik
-
-**8. [Web-based CPS for TIDRADIO H3 Plus (open source)](https://www.reddit.com/r/HamRadio/comments/1qog0ym/webbased_cps_for_tidradio_h3_plus_open_source/)**
-by u/Ok_Walk4817
-
-**9. [Looking for equipment to listen](https://www.reddit.com/r/HamRadio/comments/1qobwmr/looking_for_equipment_to_listen/)**
-by u/TheBigGuy1978
-
-**10. [Putting in the practice: Ham radio operators test skills during winter field day](https://www.reddit.com/r/HamRadio/comments/1qofip6/putting_in_the_practice_ham_radio_operators_test/)**
-by u/SharkSapphire
-
-**11. [34 Volunteers From Around the World Will Help NASA Track the Artemis 2 Mission -...](https://www.reddit.com/r/HamRadio/comments/1qo0imi/34_volunteers_from_around_the_world_will_help/)**
-by u/SharkSapphire
-
-**12. [Modern hamclock - what would you like to see](https://www.reddit.com/r/HamRadio/comments/1qnrsi3/modern_hamclock_what_would_you_like_to_see/)**
+**5. [HamClock Clone - Looking for a name](https://www.reddit.com/r/HamRadio/comments/1qptym6/hamclock_clone_looking_for_a_name/)**
 by u/pomtom44
 
-**13. [Hello I'm a radio newbie, do you guys suggest a HAM or GMRS system to comunicate...](https://www.reddit.com/r/HamRadio/comments/1qot0ry/hello_im_a_radio_newbie_do_you_guys_suggest_a_ham/)**
-by u/LorePi05
+**6. [Good temporary antenna for house second story window/roof?](https://www.reddit.com/r/HamRadio/comments/1qprlv1/good_temporary_antenna_for_house_second_story/)**
+by u/Puzzleheaded_Gap6638
 
-**14. [What to watch out for in 2nd hand equipment](https://www.reddit.com/r/HamRadio/comments/1qo7895/what_to_watch_out_for_in_2nd_hand_equipment/)**
-by u/CloverEyed
+**7. [HF radio -computer plug and play](https://www.reddit.com/r/HamRadio/comments/1qpppdq/hf_radio_computer_plug_and_play/)**
+by u/ISpentAllMyMoneyOnPi
 
-**15. [I’m green to ham radio and trying to learn. Bear with me.](https://www.reddit.com/r/HamRadio/comments/1qnm4f5/im_green_to_ham_radio_and_trying_to_learn_bear/)**
-by u/Calendar-Careless
+**8. [How difficult is your technician exam?](https://www.reddit.com/r/HamRadio/comments/1qpxonl/how_difficult_is_your_technician_exam/)**
+by u/Future_Trifle3238
+
+**9. [ARRL Board of Directors Shenanigans Afoot?](https://www.reddit.com/r/HamRadio/comments/1qoxhez/arrl_board_of_directors_shenanigans_afoot/)**
+by u/AF-IX
+
+**10. [Questions involving ARRL and QRZ](https://www.reddit.com/r/HamRadio/comments/1qpxddr/questions_involving_arrl_and_qrz/)**
+by u/OverDrawnRook68
+
+**11. [NYC Hams - Insight on picking up Marine and Air traffic frequencies](https://www.reddit.com/r/HamRadio/comments/1qptlpu/nyc_hams_insight_on_picking_up_marine_and_air/)**
+by u/Kind_Replacement2699
+
+**12. [QSL Card Strategy (DIY or Supplier)](https://www.reddit.com/r/HamRadio/comments/1qpfbxl/qsl_card_strategy_diy_or_supplier/)**
+by u/No-Storage8158
+
+**13. [Mobile HAM Radio Setup w/ 12v Car Port](https://www.reddit.com/r/HamRadio/comments/1qppiow/mobile_ham_radio_setup_w_12v_car_port/)**
+by u/TrafficOwn7771
+
+**14. [The Student Collaboration of the Interstellar Mapping And Acceleration Probe (IM...](https://www.reddit.com/r/HamRadio/comments/1qpmm2o/the_student_collaboration_of_the_interstellar/)**
+by u/SharkSapphire
+
+**15. [Help with programming realistic radio](https://www.reddit.com/r/HamRadio/comments/1qp0z06/help_with_programming_realistic_radio/)**
+by u/SplitHappy4408
 
 ---
 
@@ -109,15 +109,15 @@ by u/Calendar-Careless
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[ARRL Board of Directors Shenanigans Afoot?](https://www.reddit.com/r/amateurradio/comments/1qoxirx/arrl_board_of_directors_shenanigans_afoot/)** (r/amateurradio)
-- **[Someone calling CQ over the bonehead broadcasting music](https://www.reddit.com/r/amateurradio/comments/1qoy3fb/someone_calling_cq_over_the_bonehead_broadcasting/)** (r/amateurradio)
-- **[Hopefully this is not a trend with the 7.2 lads but forewarned is fore...](https://www.reddit.com/r/amateurradio/comments/1qos8g8/hopefully_this_is_not_a_trend_with_the_72_lads/)** (r/amateurradio)
-- **[Price for this Braun T1000 white dial](https://www.reddit.com/r/amateurradio/comments/1qp46xi/price_for_this_braun_t1000_white_dial/)** (r/amateurradio)
-- **[If you had $1000 to spend to get started, what would you get?](https://www.reddit.com/r/amateurradio/comments/1qopxmw/if_you_had_1000_to_spend_to_get_started_what/)** (r/amateurradio)
-- **[Programming cable with USB-C adapter](https://www.reddit.com/r/amateurradio/comments/1qoy60t/programming_cable_with_usbc_adapter/)** (r/amateurradio)
-- **[What do your reckon the best setting is in which to implement these ch...](https://www.reddit.com/r/amateurradio/comments/1qo3qgs/what_do_your_reckon_the_best_setting_is_in_which/)** (r/amateurradio)
-- **[Antenna Placement and Local Environmental Impacts](https://www.reddit.com/r/amateurradio/comments/1qoig9t/antenna_placement_and_local_environmental_impacts/)** (r/amateurradio)
-- **[40 - 20M Noise floor and interference](https://www.reddit.com/r/amateurradio/comments/1qomw39/40_20m_noise_floor_and_interference/)** (r/amateurradio)
+- **[W1AW this morning](https://www.reddit.com/r/amateurradio/comments/1qpshar/w1aw_this_morning/)** (r/amateurradio)
+- **[ARRL makes statement on K3RF removal](https://www.reddit.com/r/amateurradio/comments/1qpv42t/arrl_makes_statement_on_k3rf_removal/)** (r/amateurradio)
+- **[My first ham event: Winter Field Day](https://www.reddit.com/r/amateurradio/comments/1qpfr15/my_first_ham_event_winter_field_day/)** (r/amateurradio)
+- **[HF Radio Consistent Contact](https://www.reddit.com/r/amateurradio/comments/1qpti63/hf_radio_consistent_contact/)** (r/amateurradio)
+- **[Spoiled at work](https://www.reddit.com/r/amateurradio/comments/1qpurrv/spoiled_at_work/)** (r/amateurradio)
+- **[Hi all! New ham radio user](https://www.reddit.com/r/amateurradio/comments/1qq1fzd/hi_all_new_ham_radio_user/)** (r/amateurradio)
+- **[Radio recommendation for a Marathon](https://www.reddit.com/r/amateurradio/comments/1qpxr58/radio_recommendation_for_a_marathon/)** (r/amateurradio)
+- **[Illinois hams that want to qsl with Nevada](https://www.reddit.com/r/amateurradio/comments/1qq3ugd/illinois_hams_that_want_to_qsl_with_nevada/)** (r/amateurradio)
+- **[USB on 7.242 MHz?](https://www.reddit.com/r/amateurradio/comments/1qpvpob/usb_on_7242_mhz/)** (r/amateurradio)
 
 ---
 

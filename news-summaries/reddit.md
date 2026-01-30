@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-29 11:34 UTC*
+*Last updated: 2026-01-30 11:32 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [W1AW this morning](https://www.reddit.com/r/amateurradio/comments/1qpshar/w1aw_this_morning/)**
+**2. [First POTA activation](https://www.reddit.com/r/amateurradio/comments/1qqr2oh/first_pota_activation/)**
+by u/TurbulentSquirrel804
+
+**3. [Antenna Permitting Fees](https://www.reddit.com/r/amateurradio/comments/1qquuko/antenna_permitting_fees/)**
+by u/im-not-a-racoon
+
+**4. [Seen at a local estate sale auction](https://www.reddit.com/r/amateurradio/comments/1qqkgz5/seen_at_a_local_estate_sale_auction/)**
+by u/someyob
+
+**5. [Elwood Downey WB0OEW creator of HAMCLOCK is deceased.](https://www.reddit.com/r/amateurradio/comments/1qqdwln/elwood_downey_wb0oew_creator_of_hamclock_is/)**
+by u/JobobTexan
+
+**6. [LZ0A, the Bulgarian Antarctic Base, Livingston Isl, South Shetland On Air this M...](https://www.reddit.com/r/amateurradio/comments/1qqekfm/lz0a_the_bulgarian_antarctic_base_livingston_isl/)**
+by u/OliverDawgy
+
+**7. [Learning CW - any tips?](https://www.reddit.com/r/amateurradio/comments/1qqzwdp/learning_cw_any_tips/)**
+by u/5WSR
+
+**8. [Hamclock Modern Rebuild - GlanceRF](https://www.reddit.com/r/amateurradio/comments/1qqvr5j/hamclock_modern_rebuild_glancerf/)**
+by u/pomtom44
+
+**9. [Could transmitting with a widebanded Icom IC-705 damage it?](https://www.reddit.com/r/amateurradio/comments/1qqmbp0/could_transmitting_with_a_widebanded_icom_ic705/)**
+by u/SimpleSpec63
+
+**10. [U5 Link digital interface noise problems](https://www.reddit.com/r/amateurradio/comments/1qr0w64/u5_link_digital_interface_noise_problems/)**
+by u/hmoff
+
+**11. [Is ARRL Membership Still Worth It? Looking for Your Opinions](https://www.reddit.com/r/amateurradio/comments/1qqab2t/is_arrl_membership_still_worth_it_looking_for/)**
+by u/MAGNUS_59
+
+**12. [W1AW this morning](https://www.reddit.com/r/amateurradio/comments/1qpshar/w1aw_this_morning/)**
 by u/Flat_Economist_8763
 
-**3. [ARRL makes statement on K3RF removal](https://www.reddit.com/r/amateurradio/comments/1qpv42t/arrl_makes_statement_on_k3rf_removal/)**
-by u/rimsinni
+**13. [AnyTone AT‑778UV Aftermarket Single Din Mount](https://www.reddit.com/r/amateurradio/comments/1qqeg5d/anytone_at778uv_aftermarket_single_din_mount/)**
+by u/SnoopyJammers
 
-**4. [My first ham event: Winter Field Day](https://www.reddit.com/r/amateurradio/comments/1qpfr15/my_first_ham_event_winter_field_day/)**
-by u/SmokinDeist
+**14. [Meigs County, Ohio emergency officials use ham radio operators during winter sto...](https://www.reddit.com/r/amateurradio/comments/1qqfunu/meigs_county_ohio_emergency_officials_use_ham/)**
+by u/excoriator
 
-**5. [HF Radio Consistent Contact](https://www.reddit.com/r/amateurradio/comments/1qpti63/hf_radio_consistent_contact/)**
-by u/Nick_Long1007
-
-**6. [Spoiled at work](https://www.reddit.com/r/amateurradio/comments/1qpurrv/spoiled_at_work/)**
-by u/legoguy26
-
-**7. [Hi all! New ham radio user](https://www.reddit.com/r/amateurradio/comments/1qq1fzd/hi_all_new_ham_radio_user/)**
-by u/RockinRiGuy
-
-**8. [Radio recommendation for a Marathon](https://www.reddit.com/r/amateurradio/comments/1qpxr58/radio_recommendation_for_a_marathon/)**
-by u/AmSmolPotatBean
-
-**9. [Illinois hams that want to qsl with Nevada](https://www.reddit.com/r/amateurradio/comments/1qq3ugd/illinois_hams_that_want_to_qsl_with_nevada/)**
-by u/wassup2190
-
-**10. [USB on 7.242 MHz?](https://www.reddit.com/r/amateurradio/comments/1qpvpob/usb_on_7242_mhz/)**
-by u/Opinion-Former
-
-**11. [Health concerns for HF? Not pseudoscience.](https://www.reddit.com/r/amateurradio/comments/1qpgafe/health_concerns_for_hf_not_pseudoscience/)**
-by u/infopcgood
-
-**12. [Mac Ham radio software for digital and analog modes](https://www.reddit.com/r/amateurradio/comments/1qq3769/mac_ham_radio_software_for_digital_and_analog/)**
-by u/c-nadig
-
-**13. [Just beginning with CW but not much luck](https://www.reddit.com/r/amateurradio/comments/1qpmvbd/just_beginning_with_cw_but_not_much_luck/)**
-by u/Big_Pack_1177
-
-**14. [Weird sound at 4645.00 AM](https://www.reddit.com/r/amateurradio/comments/1qq3dsv/weird_sound_at_464500_am/)**
-by u/TheWalkingRaccoon
-
-**15. [Grounding problem](https://www.reddit.com/r/amateurradio/comments/1qptlgu/grounding_problem/)**
-by u/Gunit7542
+**15. [NSF seeks input on restructuring NCAR](https://www.reddit.com/r/amateurradio/comments/1qqi6yi/nsf_seeks_input_on_restructuring_ncar/)**
+by u/flwyd
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [FCC Part 97: Spectral Purity Meme](https://www.reddit.com/r/HamRadio/comments/1qpluzu/fcc_part_97_spectral_purity_meme/)**
-by u/MSWinDOS
+**3. [It's been a long time since I retired from ham radio.](https://www.reddit.com/r/HamRadio/comments/1qqqkiz/its_been_a_long_time_since_i_retired_from_ham/)**
+by u/Joke_Skywalker
 
-**4. [Mac Ham radio software for digital and analog modes](https://www.reddit.com/r/HamRadio/comments/1qq36xv/mac_ham_radio_software_for_digital_and_analog/)**
-by u/c-nadig
+**4. [Elwood Downey WB0OEW creator of HAMCLOCK is deceased](https://www.reddit.com/r/HamRadio/comments/1qqdypv/elwood_downey_wb0oew_creator_of_hamclock_is/)**
+by u/JobobTexan
 
-**5. [HamClock Clone - Looking for a name](https://www.reddit.com/r/HamRadio/comments/1qptym6/hamclock_clone_looking_for_a_name/)**
+**5. [Hamclock Modern Rebuild - GlanceRF](https://www.reddit.com/r/HamRadio/comments/1qqvqub/hamclock_modern_rebuild_glancerf/)**
 by u/pomtom44
 
-**6. [Good temporary antenna for house second story window/roof?](https://www.reddit.com/r/HamRadio/comments/1qprlv1/good_temporary_antenna_for_house_second_story/)**
-by u/Puzzleheaded_Gap6638
+**6. [AntennaCommander rotator control](https://www.reddit.com/r/HamRadio/comments/1qqyu06/antennacommander_rotator_control/)**
+by u/alfonsofiorentino
 
-**7. [HF radio -computer plug and play](https://www.reddit.com/r/HamRadio/comments/1qpppdq/hf_radio_computer_plug_and_play/)**
-by u/ISpentAllMyMoneyOnPi
+**7. [What would be the best way to get my license reinstated?](https://www.reddit.com/r/HamRadio/comments/1qqu321/what_would_be_the_best_way_to_get_my_license/)**
+by u/Giraldi23
 
-**8. [How difficult is your technician exam?](https://www.reddit.com/r/HamRadio/comments/1qpxonl/how_difficult_is_your_technician_exam/)**
-by u/Future_Trifle3238
-
-**9. [ARRL Board of Directors Shenanigans Afoot?](https://www.reddit.com/r/HamRadio/comments/1qoxhez/arrl_board_of_directors_shenanigans_afoot/)**
-by u/AF-IX
-
-**10. [Questions involving ARRL and QRZ](https://www.reddit.com/r/HamRadio/comments/1qpxddr/questions_involving_arrl_and_qrz/)**
-by u/OverDrawnRook68
-
-**11. [NYC Hams - Insight on picking up Marine and Air traffic frequencies](https://www.reddit.com/r/HamRadio/comments/1qptlpu/nyc_hams_insight_on_picking_up_marine_and_air/)**
-by u/Kind_Replacement2699
-
-**12. [QSL Card Strategy (DIY or Supplier)](https://www.reddit.com/r/HamRadio/comments/1qpfbxl/qsl_card_strategy_diy_or_supplier/)**
-by u/No-Storage8158
-
-**13. [Mobile HAM Radio Setup w/ 12v Car Port](https://www.reddit.com/r/HamRadio/comments/1qppiow/mobile_ham_radio_setup_w_12v_car_port/)**
-by u/TrafficOwn7771
-
-**14. [The Student Collaboration of the Interstellar Mapping And Acceleration Probe (IM...](https://www.reddit.com/r/HamRadio/comments/1qpmm2o/the_student_collaboration_of_the_interstellar/)**
+**8. [Tyler County Ham Radio Club Reaches England](https://www.reddit.com/r/HamRadio/comments/1qqpr8d/tyler_county_ham_radio_club_reaches_england/)**
 by u/SharkSapphire
 
-**15. [Help with programming realistic radio](https://www.reddit.com/r/HamRadio/comments/1qp0z06/help_with_programming_realistic_radio/)**
-by u/SplitHappy4408
+**9. [WV officials showcase partnership with ham radio users](https://www.reddit.com/r/HamRadio/comments/1qqrj39/wv_officials_showcase_partnership_with_ham_radio/)**
+by u/SharkSapphire
+
+**10. [LZ0A, the Bulgarian Antarctic Base, operating this month](https://www.reddit.com/r/HamRadio/comments/1qqej95/lz0a_the_bulgarian_antarctic_base_operating_this/)**
+by u/OliverDawgy
+
+**11. [Hamclock End of Life coming soon!](https://www.reddit.com/r/HamRadio/comments/1qqdxfs/hamclock_end_of_life_coming_soon/)**
+by u/9mmTeacher
+
+**12. [FCC Part 97: Spectral Purity Meme](https://www.reddit.com/r/HamRadio/comments/1qpluzu/fcc_part_97_spectral_purity_meme/)**
+by u/MSWinDOS
+
+**13. [Mac Ham radio software for digital and analog modes](https://www.reddit.com/r/HamRadio/comments/1qq36xv/mac_ham_radio_software_for_digital_and_analog/)**
+by u/c-nadig
+
+**14. [Sucks for AREDN, lol but apparently Ubiquiti is a little sketchy.](https://www.reddit.com/r/HamRadio/comments/1qqww1e/sucks_for_aredn_lol_but_apparently_ubiquiti_is_a/)**
+by u/Dehv2
+
+**15. [Im going to start in ham radio, is this hardware good? Any advice?](https://www.reddit.com/r/HamRadio/comments/1qq9vz9/im_going_to_start_in_ham_radio_is_this_hardware/)**
+by u/Mejolov28
 
 ---
 
@@ -109,15 +109,15 @@ by u/SplitHappy4408
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[W1AW this morning](https://www.reddit.com/r/amateurradio/comments/1qpshar/w1aw_this_morning/)** (r/amateurradio)
-- **[ARRL makes statement on K3RF removal](https://www.reddit.com/r/amateurradio/comments/1qpv42t/arrl_makes_statement_on_k3rf_removal/)** (r/amateurradio)
-- **[My first ham event: Winter Field Day](https://www.reddit.com/r/amateurradio/comments/1qpfr15/my_first_ham_event_winter_field_day/)** (r/amateurradio)
-- **[HF Radio Consistent Contact](https://www.reddit.com/r/amateurradio/comments/1qpti63/hf_radio_consistent_contact/)** (r/amateurradio)
-- **[Spoiled at work](https://www.reddit.com/r/amateurradio/comments/1qpurrv/spoiled_at_work/)** (r/amateurradio)
-- **[Hi all! New ham radio user](https://www.reddit.com/r/amateurradio/comments/1qq1fzd/hi_all_new_ham_radio_user/)** (r/amateurradio)
-- **[Radio recommendation for a Marathon](https://www.reddit.com/r/amateurradio/comments/1qpxr58/radio_recommendation_for_a_marathon/)** (r/amateurradio)
-- **[Illinois hams that want to qsl with Nevada](https://www.reddit.com/r/amateurradio/comments/1qq3ugd/illinois_hams_that_want_to_qsl_with_nevada/)** (r/amateurradio)
-- **[USB on 7.242 MHz?](https://www.reddit.com/r/amateurradio/comments/1qpvpob/usb_on_7242_mhz/)** (r/amateurradio)
+- **[First POTA activation](https://www.reddit.com/r/amateurradio/comments/1qqr2oh/first_pota_activation/)** (r/amateurradio)
+- **[Antenna Permitting Fees](https://www.reddit.com/r/amateurradio/comments/1qquuko/antenna_permitting_fees/)** (r/amateurradio)
+- **[Seen at a local estate sale auction](https://www.reddit.com/r/amateurradio/comments/1qqkgz5/seen_at_a_local_estate_sale_auction/)** (r/amateurradio)
+- **[Elwood Downey WB0OEW creator of HAMCLOCK is deceased.](https://www.reddit.com/r/amateurradio/comments/1qqdwln/elwood_downey_wb0oew_creator_of_hamclock_is/)** (r/amateurradio)
+- **[LZ0A, the Bulgarian Antarctic Base, Livingston Isl, South Shetland On ...](https://www.reddit.com/r/amateurradio/comments/1qqekfm/lz0a_the_bulgarian_antarctic_base_livingston_isl/)** (r/amateurradio)
+- **[Learning CW - any tips?](https://www.reddit.com/r/amateurradio/comments/1qqzwdp/learning_cw_any_tips/)** (r/amateurradio)
+- **[Hamclock Modern Rebuild - GlanceRF](https://www.reddit.com/r/amateurradio/comments/1qqvr5j/hamclock_modern_rebuild_glancerf/)** (r/amateurradio)
+- **[Could transmitting with a widebanded Icom IC-705 damage it?](https://www.reddit.com/r/amateurradio/comments/1qqmbp0/could_transmitting_with_a_widebanded_icom_ic705/)** (r/amateurradio)
+- **[U5 Link digital interface noise problems](https://www.reddit.com/r/amateurradio/comments/1qr0w64/u5_link_digital_interface_noise_problems/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-01-31 11:24 UTC*
+*Last updated: 2026-02-01 11:25 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Is this the right phonetic alphabet?](https://www.reddit.com/r/amateurradio/comments/1qrlnky/is_this_the_right_phonetic_alphabet/)**
-by u/NerdBanger
+**2. [Ooh, What’s This?](https://www.reddit.com/r/amateurradio/comments/1qsi8y6/ooh_whats_this/)**
+by u/TheUnkown696
 
-**3. [Breaking the ice on repeaters: what actually works?](https://www.reddit.com/r/amateurradio/comments/1qrhzwf/breaking_the_ice_on_repeaters_what_actually_works/)**
-by u/New-Variation9146
+**3. [The Passing of a Quiet Legend: Elwood at HamClock](https://www.reddit.com/r/amateurradio/comments/1qs6d6c/the_passing_of_a_quiet_legend_elwood_at_hamclock/)**
+by u/voxcomfort
 
-**4. [Is there a japanese 7.200 gang? I got this at 1/31 1045UTC, 0145 Alaska time. I ...](https://www.reddit.com/r/amateurradio/comments/1qrzk64/is_there_a_japanese_7200_gang_i_got_this_at_131/)**
+**4. [cheap FT8 transceiver in India](https://www.reddit.com/r/amateurradio/comments/1qsvs55/cheap_ft8_transceiver_in_india/)**
+by u/Icy_Veterinarian4074
+
+**5. [Look who moored next to me](https://www.reddit.com/r/amateurradio/comments/1qsc6ns/look_who_moored_next_to_me/)**
+by u/SailorMariner
+
+**6. [What to do with old equipment](https://www.reddit.com/r/amateurradio/comments/1qs9rzr/what_to_do_with_old_equipment/)**
+by u/Admirable_Desk8430
+
+**7. [ARRL at a Crossroads: Reform or QRT](https://www.reddit.com/r/amateurradio/comments/1qs6ub4/arrl_at_a_crossroads_reform_or_qrt/)**
+by u/MAGNUS_59
+
+**8. [Cleaning enameled wire](https://www.reddit.com/r/amateurradio/comments/1qsboc6/cleaning_enameled_wire/)**
+by u/nerdariffic
+
+**9. [Exploring HF](https://www.reddit.com/r/amateurradio/comments/1qsajge/exploring_hf/)**
+by u/Klabastern
+
+**10. [Mobile all-star node via raspberry pi and starlink.](https://www.reddit.com/r/amateurradio/comments/1qstg3o/mobile_allstar_node_via_raspberry_pi_and_starlink/)**
+by u/ollie_the_4runner
+
+**11. [Radio recommendations](https://www.reddit.com/r/amateurradio/comments/1qsl5ci/radio_recommendations/)**
+by u/Linksta35
+
+**12. [Xiegu g90 humming on 15 and 10m](https://www.reddit.com/r/amateurradio/comments/1qsbdyt/xiegu_g90_humming_on_15_and_10m/)**
+by u/Distinct_Cry_1976
+
+**13. [No Audio Passing to Xiegu G90 From PC](https://www.reddit.com/r/amateurradio/comments/1qsra28/no_audio_passing_to_xiegu_g90_from_pc/)**
+by u/PdtNEA1889
+
+**14. [Is there a japanese 7.200 gang? I got this at 1/31 1045UTC, 0145 Alaska time. I ...](https://www.reddit.com/r/amateurradio/comments/1qrzk64/is_there_a_japanese_7200_gang_i_got_this_at_131/)**
 by u/thehotshotpilot
 
-**5. [Is it acceptable to ask stations to repeat their call sign(s)?](https://www.reddit.com/r/amateurradio/comments/1qrg43t/is_it_acceptable_to_ask_stations_to_repeat_their/)**
-by u/GiantsNerd1
-
-**6. [How do I explain my dad why I want a liscence?](https://www.reddit.com/r/amateurradio/comments/1qrq11a/how_do_i_explain_my_dad_why_i_want_a_liscence/)**
-by u/Mejolov28
-
-**7. [AntennaCommander](https://www.reddit.com/r/amateurradio/comments/1qrwlus/antennacommander/)**
-by u/alfonsofiorentino
-
-**8. [Does anyone know where to get this tripod?](https://www.reddit.com/r/amateurradio/comments/1qretr5/does_anyone_know_where_to_get_this_tripod/)**
-by u/KhyberPasshole
-
-**9. [Worked All Japan Award](https://www.reddit.com/r/amateurradio/comments/1qrgkad/worked_all_japan_award/)**
-by u/ScaryLanguage8657
-
-**10. [Fusion Voice Quality is another level. I bet it’s the underlying C4FM modulation...](https://www.reddit.com/r/amateurradio/comments/1qr5yhb/fusion_voice_quality_is_another_level_i_bet_its/)**
-by u/SchrodingersCorpse
-
-**11. [VNA FTW - this one weird trick vastly improved my antenna](https://www.reddit.com/r/amateurradio/comments/1qr9d86/vna_ftw_this_one_weird_trick_vastly_improved_my/)**
-by u/Witty-Ad4757
-
-**12. [I built a native FT8/FT4 transceiver app for iOS (My first app)](https://www.reddit.com/r/amateurradio/comments/1qr3idj/i_built_a_native_ft8ft4_transceiver_app_for_ios/)**
-by u/pablots25
-
-**13. [Azart 187 software.](https://www.reddit.com/r/amateurradio/comments/1qru4iy/azart_187_software/)**
-by u/Frequent_Elephant307
-
-**14. [First POTA activation](https://www.reddit.com/r/amateurradio/comments/1qqr2oh/first_pota_activation/)**
-by u/TurbulentSquirrel804
-
-**15. [Is there less delay when talking on an HT compared to using a cell phone?](https://www.reddit.com/r/amateurradio/comments/1qrrjyp/is_there_less_delay_when_talking_on_an_ht/)**
-by u/artmatthewmakes
+**15. [Slight rant](https://www.reddit.com/r/amateurradio/comments/1qsptqq/slight_rant/)**
+by u/NightWalker88
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [How do I explain my dad why I want a liscence?](https://www.reddit.com/r/HamRadio/comments/1qrq23k/how_do_i_explain_my_dad_why_i_want_a_liscence/)**
-by u/Mejolov28
-
-**4. [Advice on first HF radio - ICOM IC-728?](https://www.reddit.com/r/HamRadio/comments/1qrtu4d/advice_on_first_hf_radio_icom_ic728/)**
-by u/the_m3rovingian
-
-**5. [How to make my 17' whip antenna actually 17'?](https://www.reddit.com/r/HamRadio/comments/1qrp08b/how_to_make_my_17_whip_antenna_actually_17/)**
-by u/ali_j_ashraf
-
-**6. [Has ARES or RACES failed? Would we be better served by non-state emergency ham r...](https://www.reddit.com/r/HamRadio/comments/1qr6pvz/has_ares_or_races_failed_would_we_be_better/)**
-by u/EnergyLantern
-
-**7. [Radio Recommendations for new Technician Licensee](https://www.reddit.com/r/HamRadio/comments/1qrdbsd/radio_recommendations_for_new_technician_licensee/)**
-by u/jjdeprisco
-
-**8. [Temporary antenna pole ideas for HOA restricted homes](https://www.reddit.com/r/HamRadio/comments/1qreq6r/temporary_antenna_pole_ideas_for_hoa_restricted/)**
-by u/jgt10
-
-**9. [It's been a long time since I retired from ham radio.](https://www.reddit.com/r/HamRadio/comments/1qqqkiz/its_been_a_long_time_since_i_retired_from_ham/)**
-by u/Joke_Skywalker
-
-**10. [Remote Exams - What to expect at home?](https://www.reddit.com/r/HamRadio/comments/1qraehm/remote_exams_what_to_expect_at_home/)**
-by u/themightygresh
-
-**11. [Get rid of these loops or leave?](https://www.reddit.com/r/HamRadio/comments/1qr9lgp/get_rid_of_these_loops_or_leave/)**
-by u/Sword-Star
-
-**12. [UNO Amateur Radio Club holds its first meeting](https://www.reddit.com/r/HamRadio/comments/1qrftba/uno_amateur_radio_club_holds_its_first_meeting/)**
+**3. [PSA: Unlicensed Use of Baofeng UV-5Rs for “Group Coordination” Is a Terrible Ide...](https://www.reddit.com/r/HamRadio/comments/1qslt3a/psa_unlicensed_use_of_baofeng_uv5rs_for_group/)**
 by u/SharkSapphire
 
-**13. [How to get a HAM Licence in the EU?](https://www.reddit.com/r/HamRadio/comments/1qr86av/how_to_get_a_ham_licence_in_the_eu/)**
-by u/mrshagi
+**4. [What am I looking at? Found this in the attic. Was my grandpas.](https://www.reddit.com/r/HamRadio/comments/1qsgdol/what_am_i_looking_at_found_this_in_the_attic_was/)**
+by u/Bruno_Bal1er
 
-**14. [Elwood Downey WB0OEW creator of HAMCLOCK is deceased](https://www.reddit.com/r/HamRadio/comments/1qqdypv/elwood_downey_wb0oew_creator_of_hamclock_is/)**
-by u/JobobTexan
+**5. [Is this antenna a viable yagi for 2-meters](https://www.reddit.com/r/HamRadio/comments/1qsqmwe/is_this_antenna_a_viable_yagi_for_2meters/)**
+by u/Azalea_OwO
 
-**15. [Hamclock Modern Rebuild - GlanceRF](https://www.reddit.com/r/HamRadio/comments/1qqvqub/hamclock_modern_rebuild_glancerf/)**
-by u/pomtom44
+**6. [Local volunteer radio team hits top 6% in national disaster competition](https://www.reddit.com/r/HamRadio/comments/1qsl20k/local_volunteer_radio_team_hits_top_6_in_national/)**
+by u/SharkSapphire
+
+**7. [Anderson Powerpole connectors, solder... what else?](https://www.reddit.com/r/HamRadio/comments/1qs7cdr/anderson_powerpole_connectors_solder_what_else/)**
+by u/greenwoody2018
+
+**8. [Getting tired of my big ole' MAG Mount antennae! -----> Any suggestions for new ...](https://www.reddit.com/r/HamRadio/comments/1qsoput/getting_tired_of_my_big_ole_mag_mount_antennae/)**
+by u/W7WAX
+
+**9. [Experimenting with HT-style HF Telescoping Whips for QRP and POTA](https://www.reddit.com/r/HamRadio/comments/1qssgca/experimenting_with_htstyle_hf_telescoping_whips/)**
+by u/Bolt_EV
+
+**10. [Looking for Resources for HAM Beginners](https://www.reddit.com/r/HamRadio/comments/1qs63w3/looking_for_resources_for_ham_beginners/)**
+by u/dwundermann
+
+**11. [Advice for keeping coax mesh nice and together](https://www.reddit.com/r/HamRadio/comments/1qsmhp1/advice_for_keeping_coax_mesh_nice_and_together/)**
+by u/trollspotter91
+
+**12. [Connecting 1/4 in iambic paddles to yaesu 891.](https://www.reddit.com/r/HamRadio/comments/1qsgq2t/connecting_14_in_iambic_paddles_to_yaesu_891/)**
+by u/Jager228
+
+**13. [I need help choosing between some radios](https://www.reddit.com/r/HamRadio/comments/1qsoebf/i_need_help_choosing_between_some_radios/)**
+by u/GODLY_STUPID
+
+**14. [Struthers Amateur Radio operators host Hamfest](https://www.reddit.com/r/HamRadio/comments/1qsl1ou/struthers_amateur_radio_operators_host_hamfest/)**
+by u/SharkSapphire
+
+**15. [How do I explain my dad why I want a liscence?](https://www.reddit.com/r/HamRadio/comments/1qrq23k/how_do_i_explain_my_dad_why_i_want_a_liscence/)**
+by u/Mejolov28
 
 ---
 
@@ -109,15 +109,15 @@ by u/pomtom44
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qngsjw/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Is this the right phonetic alphabet?](https://www.reddit.com/r/amateurradio/comments/1qrlnky/is_this_the_right_phonetic_alphabet/)** (r/amateurradio)
-- **[Breaking the ice on repeaters: what actually works?](https://www.reddit.com/r/amateurradio/comments/1qrhzwf/breaking_the_ice_on_repeaters_what_actually_works/)** (r/amateurradio)
-- **[Is there a japanese 7.200 gang? I got this at 1/31 1045UTC, 0145 Alask...](https://www.reddit.com/r/amateurradio/comments/1qrzk64/is_there_a_japanese_7200_gang_i_got_this_at_131/)** (r/amateurradio)
-- **[Is it acceptable to ask stations to repeat their call sign(s)?](https://www.reddit.com/r/amateurradio/comments/1qrg43t/is_it_acceptable_to_ask_stations_to_repeat_their/)** (r/amateurradio)
-- **[How do I explain my dad why I want a liscence?](https://www.reddit.com/r/amateurradio/comments/1qrq11a/how_do_i_explain_my_dad_why_i_want_a_liscence/)** (r/amateurradio)
-- **[AntennaCommander](https://www.reddit.com/r/amateurradio/comments/1qrwlus/antennacommander/)** (r/amateurradio)
-- **[Does anyone know where to get this tripod?](https://www.reddit.com/r/amateurradio/comments/1qretr5/does_anyone_know_where_to_get_this_tripod/)** (r/amateurradio)
-- **[Worked All Japan Award](https://www.reddit.com/r/amateurradio/comments/1qrgkad/worked_all_japan_award/)** (r/amateurradio)
-- **[Fusion Voice Quality is another level. I bet it’s the underlying C4FM ...](https://www.reddit.com/r/amateurradio/comments/1qr5yhb/fusion_voice_quality_is_another_level_i_bet_its/)** (r/amateurradio)
+- **[Ooh, What’s This?](https://www.reddit.com/r/amateurradio/comments/1qsi8y6/ooh_whats_this/)** (r/amateurradio)
+- **[The Passing of a Quiet Legend: Elwood at HamClock](https://www.reddit.com/r/amateurradio/comments/1qs6d6c/the_passing_of_a_quiet_legend_elwood_at_hamclock/)** (r/amateurradio)
+- **[cheap FT8 transceiver in India](https://www.reddit.com/r/amateurradio/comments/1qsvs55/cheap_ft8_transceiver_in_india/)** (r/amateurradio)
+- **[Look who moored next to me](https://www.reddit.com/r/amateurradio/comments/1qsc6ns/look_who_moored_next_to_me/)** (r/amateurradio)
+- **[What to do with old equipment](https://www.reddit.com/r/amateurradio/comments/1qs9rzr/what_to_do_with_old_equipment/)** (r/amateurradio)
+- **[ARRL at a Crossroads: Reform or QRT](https://www.reddit.com/r/amateurradio/comments/1qs6ub4/arrl_at_a_crossroads_reform_or_qrt/)** (r/amateurradio)
+- **[Cleaning enameled wire](https://www.reddit.com/r/amateurradio/comments/1qsboc6/cleaning_enameled_wire/)** (r/amateurradio)
+- **[Exploring HF](https://www.reddit.com/r/amateurradio/comments/1qsajge/exploring_hf/)** (r/amateurradio)
+- **[Mobile all-star node via raspberry pi and starlink.](https://www.reddit.com/r/amateurradio/comments/1qstg3o/mobile_allstar_node_via_raspberry_pi_and_starlink/)** (r/amateurradio)
 
 ---
 

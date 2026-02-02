@@ -1,8 +1,8 @@
 {
-  "updated": "2026-01-26T13:56:02.998666",
+  "updated": "2026-02-02T14:25:24.374874",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "XaTewfMB_uQtSyK__4E9Gh9wR-U",
+    "etag": "Hrt2UGD5yWUASwMeCEMiGRyGAIg",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,141 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "116555",
-      "subscriberCount": "1410",
+      "viewCount": "119990",
+      "subscriberCount": "1430",
       "hiddenSubscriberCount": false,
-      "videoCount": "98"
+      "videoCount": "100"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "YDjXnaq_cSdEMSk_FDs5_ZI6kBs",
+      "etag": "6eQ0YybauDYfcXH3Olo3i3NqBNc",
+      "id": "4xdfHO-DHlo",
+      "snippet": {
+        "publishedAt": "2026-01-30T20:46:17Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
+        "description": "The Kenwood TM-D750A is REAL! The FCC filing just dropped and the user manual reveals all the specs for this tri-band mobile radio. 20 watts on 220 MHz, 7-inch display, D-STAR, APRS, Wi-Fi, Bluetooth 5.0 \u2014 we break it all down. But how much will it cost? \ud83d\udcb8\n\nFull episode on YouTube!\n\n#hamradio #amateurradio #kenwood #tmd750a #triband #dstar #aprs #mobileradio #hamcation #fcc #radiolife #hamradiocommunity #everydayham #vhf #uhf #220mhz #newradio #techreveal",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
+          "description": "The Kenwood TM-D750A is REAL! The FCC filing just dropped and the user manual reveals all the specs for this tri-band mobile radio. 20 watts on 220 MHz, 7-inch display, D-STAR, APRS, Wi-Fi, Bluetooth 5.0 \u2014 we break it all down. But how much will it cost? \ud83d\udcb8\n\nFull episode on YouTube!\n\n#hamradio #amateurradio #kenwood #tmd750a #triband #dstar #aprs #mobileradio #hamcation #fcc #radiolife #hamradiocommunity #everydayham #vhf #uhf #220mhz #newradio #techreveal"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "631",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pJx5dhG-qBcTbrHElTio_5v7DQY",
+      "id": "vGcmAxr-eFM",
+      "snippet": {
+        "publishedAt": "2026-01-29T23:52:37Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
+        "description": "The Kenwood TM-D750A is officially real! The FCC filing has been approved and the user guide has been posted online, revealing key specifications for this highly anticipated tri-band mobile radio. Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we break down everything we learned from the FCC documents.\n\nIn this episode, we discuss our price predictions (will it be $999, $1299, or even $1500?), the 7-inch display, 220 MHz power output (20 watts!), Wi-Fi and Bluetooth 5.0 capabilities, GPS, D-STAR features, and why the microphone port placement has us scratching our heads.\nPlus, we talk tri-band antenna options and whether Rory will actually buy one at Hamcation!\n\nTimestamps:\n0:00 - It's not vaporware! FCC filing confirmed\n0:49 - Price predictions: What will it cost?\n2:03 - Hamcation availability discussion\n2:55 - FCC photos breakdown: Ports and connections\n4:01 - Heat sink and fan noise concerns\n5:26 - MicroSD and USB-C on the head unit\n6:20 - Build quality impressions from Hamvention prototype\n7:13 - Speaker and audio quality expectations\n7:53 - Feature summary: APRS, D-STAR, Wi-Fi\n9:27 - Bluetooth 5.0 and wireless standards\n10:20 - The big question: 220 MHz power output\n12:10 - Tri-band antenna recommendations\n13:35 - The mic port placement problem\n15:38 - Physical buttons vs touchscreen debate\n16:15 - Display visibility in sunlight\n17:14 - Diamond CR320B tri-band antenna option\n18:52 - Final thoughts: Will Rory buy one?\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\n\ud83d\udd17 https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com\n\n#Kenwood #TMD750A #TriBandRadio #HamRadio #AmateurRadio #EverydayHam #DSTAR #APRS #MobileRadio #Hamcation #FCCFiling #KenwoodRadio #220MHz #VHF #UHF",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Kenwood TM-D750A",
+          "TM-D750A",
+          "tri-band mobile radio",
+          "ham radio",
+          "amateur radio",
+          "D-STAR",
+          "APRS",
+          "Kenwood",
+          "220 MHz",
+          "VHF UHF",
+          "mobile ham radio",
+          "FCC filing",
+          "Hamcation 2026",
+          "Everyday Ham",
+          "ham radio podcast",
+          "Kenwood D75",
+          "tri-band antenna"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
+          "description": "The Kenwood TM-D750A is officially real! The FCC filing has been approved and the user guide has been posted online, revealing key specifications for this highly anticipated tri-band mobile radio. Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we break down everything we learned from the FCC documents.\n\nIn this episode, we discuss our price predictions (will it be $999, $1299, or even $1500?), the 7-inch display, 220 MHz power output (20 watts!), Wi-Fi and Bluetooth 5.0 capabilities, GPS, D-STAR features, and why the microphone port placement has us scratching our heads.\nPlus, we talk tri-band antenna options and whether Rory will actually buy one at Hamcation!\n\nTimestamps:\n0:00 - It's not vaporware! FCC filing confirmed\n0:49 - Price predictions: What will it cost?\n2:03 - Hamcation availability discussion\n2:55 - FCC photos breakdown: Ports and connections\n4:01 - Heat sink and fan noise concerns\n5:26 - MicroSD and USB-C on the head unit\n6:20 - Build quality impressions from Hamvention prototype\n7:13 - Speaker and audio quality expectations\n7:53 - Feature summary: APRS, D-STAR, Wi-Fi\n9:27 - Bluetooth 5.0 and wireless standards\n10:20 - The big question: 220 MHz power output\n12:10 - Tri-band antenna recommendations\n13:35 - The mic port placement problem\n15:38 - Physical buttons vs touchscreen debate\n16:15 - Display visibility in sunlight\n17:14 - Diamond CR320B tri-band antenna option\n18:52 - Final thoughts: Will Rory buy one?\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\n\ud83d\udd17 https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com\n\n#Kenwood #TMD750A #TriBandRadio #HamRadio #AmateurRadio #EverydayHam #DSTAR #APRS #MobileRadio #Hamcation #FCCFiling #KenwoodRadio #220MHz #VHF #UHF"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1559",
+        "likeCount": "56",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7X7HvzoJfcl4mGZexjCYF6kEjDk",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -87,15 +212,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "115",
-        "likeCount": "11",
+        "viewCount": "241",
+        "likeCount": "17",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KALh_yTWlMlcag95zQTGNCFskUg",
+      "etag": "Hb612lfIP63noc8blQJpmpoqMuU",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -140,7 +265,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1468",
+        "viewCount": "1473",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -148,7 +273,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z2X4NB-MMi6Hy32lnl_BXHLa0v0",
+      "etag": "T_DSlzgKk98pAebZB4G8C0uCuPM",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -193,7 +318,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1057",
+        "viewCount": "1067",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -201,7 +326,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VDbrfllqiOdJ5ej11q4_jj5XGNE",
+      "etag": "5AMfwoFSNK3EoruJfCheFkNwvHs",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -268,15 +393,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2427",
-        "likeCount": "102",
+        "viewCount": "2534",
+        "likeCount": "105",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DzsVCQolB6_5hytNOyj7PSS3oQ8",
+      "etag": "5sIryHgfL0bX6WXTY0rEdEudiL4",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -339,15 +464,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "83",
-        "likeCount": "2",
+        "viewCount": "96",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AZyqNVizMeFeNcv0Ytn7hKZzw6I",
+      "etag": "h3kXohSp6DdSvCf_be9aJky2Qu0",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -392,7 +517,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4441",
+        "viewCount": "4452",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -400,7 +525,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zIYgbd10gqlVhiIETYV7pt-cxJs",
+      "etag": "NOPlw6FPachLXeQKJuPzh6FpdLo",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -445,7 +570,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1143",
+        "viewCount": "1175",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -453,7 +578,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vxbkilgVaf3_pzkvB8JLPABW6j4",
+      "etag": "EpK75t9aFhIi9aKM_h_1HgcjMyI",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -516,7 +641,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "759",
+        "viewCount": "764",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -524,7 +649,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "B-YGvhKKP00DSrttxAx4F5FPexA",
+      "etag": "1dVz3dsB7gp-h90RQs-1qKlF_ZU",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -582,7 +707,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "920",
+        "viewCount": "935",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -590,7 +715,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vB9sOU5uEGpRaeX6rnZi3n8GoD8",
+      "etag": "0MjQIi0sy0V1eTCZTXUemDjxfAQ",
       "id": "If9QQ4IMLtE",
       "snippet": {
         "publishedAt": "2025-12-25T03:48:17Z",
@@ -653,7 +778,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1452",
+        "viewCount": "1454",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -661,7 +786,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vPDlpuFEkx-bETgN7jZRyof3S54",
+      "etag": "YRqbwNttnOKL8a8R3a2DNY8frn0",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -724,15 +849,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "276",
-        "likeCount": "16",
+        "viewCount": "285",
+        "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "StNwzgMZKK0nlyMnwb9Pq6QAEls",
+      "etag": "QvnVGBp29SbHsvVejUS6QUg3Oxk",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -777,7 +902,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1012",
+        "viewCount": "1013",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -785,7 +910,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_P9kc8iksBQY5FGaVrYeqGHOhuY",
+      "etag": "GyT33q1EdrFGG6IO0_p2WXKh_5c",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -830,7 +955,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "229",
+        "viewCount": "230",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -838,7 +963,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bz-vq8ucuQ8t_uIfnhuQ6DScn9k",
+      "etag": "M4xuM7iVPJ-6uKONdhka99R5HJU",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -906,15 +1031,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "413",
-        "likeCount": "19",
+        "viewCount": "440",
+        "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hgejXkIQA0g3ZZ6FFU6f2PJMZvM",
+      "etag": "sgNQIB9XvhdLEAh1pHBYN90iEJI",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -983,15 +1108,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1203",
-        "likeCount": "44",
+        "viewCount": "1225",
+        "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lHXWBm-e1c2X61tAB0pwXGFaefM",
+      "etag": "0ijjLv3gLOacsC8j_7ibZXxl8GE",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
@@ -1054,8 +1179,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "147",
-        "likeCount": "6",
+        "viewCount": "161",
+        "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
       }
@@ -1133,7 +1258,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6lxIIICWs375JnmGDnDayUdMlwQ",
+      "etag": "j-wsk8qA3LJ3JdUNK08ifAIqJAQ",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -1178,15 +1303,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "807",
-        "likeCount": "27",
+        "viewCount": "822",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AQJuxnGWqwtNZFcsD7pc1h-CSaI",
+      "etag": "Ri8ZlZ60hzUdZ2TA2CbpokDUgrM",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -1253,7 +1378,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "308",
+        "viewCount": "326",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1409,7 +1534,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zAHqjjKiqIDpIkazvdO0RZG3t6M",
+      "etag": "x0hwNj8KQZ3oxt40vkzBubJDKzo",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -1479,7 +1604,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "137",
+        "viewCount": "138",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1487,7 +1612,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1_lpuer_IkhQEqDZRz9SxUjPD0w",
+      "etag": "IAAz44BJ-GMl2szAjfMIXoySPrY",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -1532,7 +1657,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "927",
+        "viewCount": "929",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1613,7 +1738,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZDDebX2w7MEMPb9KXx1B-QR18Vo",
+      "etag": "60Kk2TvgD2K4NuA03-WY5EfkvhQ",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -1690,7 +1815,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "733",
+        "viewCount": "739",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1769,7 +1894,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ev-dZnq3yK1DaSPWYUNB87FoMHA",
+      "etag": "Mpy1U1yhSwJi9ToTd_E_KQCjeIg",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -1854,7 +1979,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "261",
+        "viewCount": "262",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1862,7 +1987,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xUewdPKesGODjWwWJKTemU8kiAc",
+      "etag": "PCQhtvCZSfIl4vws2RFKHoynIvY",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -1907,7 +2032,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1330",
+        "viewCount": "1331",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1915,7 +2040,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eABSioUG5Yl15JT6V4XRCux3zyQ",
+      "etag": "LcFNQdKIVIQNuXI6OUPlofjGRJM",
       "id": "aGU4pSCoJcY",
       "snippet": {
         "publishedAt": "2025-11-01T15:21:53Z",
@@ -1983,7 +2108,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1408",
+        "viewCount": "1409",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1991,7 +2116,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ebHsBPCPqFL2tC9ydEalZp-mlJ8",
+      "etag": "bSwOZwFaN12hNxRahoIaOg5KWRk",
       "id": "JTFErg-neu8",
       "snippet": {
         "publishedAt": "2025-10-31T21:40:56Z",
@@ -2067,8 +2192,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3314",
-        "likeCount": "157",
+        "viewCount": "3369",
+        "likeCount": "156",
         "favoriteCount": "0",
         "commentCount": "22"
       }
@@ -2128,7 +2253,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FKlBhtMTBfW19zHqbp24eGXLos8",
+      "etag": "xeUEygwT-tLwtqJ8rRKIbEJuFw8",
       "id": "Wnw0wmTqVvw",
       "snippet": {
         "publishedAt": "2025-10-25T14:52:50Z",
@@ -2173,15 +2298,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "7098",
-        "likeCount": "89",
+        "viewCount": "7285",
+        "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lmvHDT696PfFoYRMVW_M_tOTSJc",
+      "etag": "RmyyupBqX9G2q5LmCcVu8e2gXiw",
       "id": "xW-nnl2RGIs",
       "snippet": {
         "publishedAt": "2025-10-23T15:01:45Z",
@@ -2258,7 +2383,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "998",
+        "viewCount": "999",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -2266,7 +2391,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "81Y8genyai0KWvvPa-ruu8uv6xY",
+      "etag": "27sY9xRkct19AnrCFUuFsovYtnI",
       "id": "d-87MbN0IiM",
       "snippet": {
         "publishedAt": "2025-10-21T17:05:00Z",
@@ -2317,7 +2442,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1334",
+        "viewCount": "1340",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2325,7 +2450,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LPjnZY1Jk_ySuGkTPqiXBpV17mA",
+      "etag": "74eBB4E95R_wHNz_Vu3gHaUs9aI",
       "id": "G3jhDn-tr4Y",
       "snippet": {
         "publishedAt": "2025-10-16T13:07:00Z",
@@ -2405,15 +2530,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1603",
-        "likeCount": "95",
+        "viewCount": "1614",
+        "likeCount": "96",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "o6zefFrm6RjeiU2bHEzOTX8S6F4",
+      "etag": "DtpM1vzLxtKPt6N0vxL6Rh3JdTc",
       "id": "mSwSRFFpM5U",
       "snippet": {
         "publishedAt": "2025-10-15T02:59:32Z",
@@ -2495,7 +2620,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "188",
+        "viewCount": "189",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2503,7 +2628,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-mhMaXhwkQVKgIUbcRpRFo7yafk",
+      "etag": "Y0cQHTBNqCvEWV92avDw1M1j5gc",
       "id": "gQ6edfHIYF8",
       "snippet": {
         "publishedAt": "2025-10-10T16:07:28Z",
@@ -2548,7 +2673,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "233",
+        "viewCount": "240",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2556,7 +2681,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9ML8usAzDjY6mjccKyPQjwTZ3Aw",
+      "etag": "YV3iQ3YahRJ0AUofRUr4jSE3-CM",
       "id": "MLnk47KYJe4",
       "snippet": {
         "publishedAt": "2025-10-09T20:01:53Z",
@@ -2601,7 +2726,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "320",
+        "viewCount": "321",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2609,7 +2734,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PmxRhXfRx3K283GvpXX1pjJlkpY",
+      "etag": "DU7TEXMOoTfy_3TGBFInHVmTUeQ",
       "id": "2W-dp4mJddU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:49Z",
@@ -2672,7 +2797,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "26",
+        "viewCount": "27",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2680,7 +2805,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Z7tGQhS314zKJl--5d6X6fmP3qE",
+      "etag": "-dX_rzJje2ZW93kU4pr_D73UoiI",
       "id": "bFTukY-5v3g",
       "snippet": {
         "publishedAt": "2025-10-09T19:05:00Z",
@@ -2760,8 +2885,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "391",
-        "likeCount": "27",
+        "viewCount": "394",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "9"
       }
@@ -2988,7 +3113,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qTqRj3KusOqgpTEjaeW5ej4jrW8",
+      "etag": "DGN7fOWjLtEL-QsBHHqsoubdDyo",
       "id": "5Bc42zqQBu4",
       "snippet": {
         "publishedAt": "2025-09-27T16:23:47Z",
@@ -3066,15 +3191,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1945",
-        "likeCount": "59",
+        "viewCount": "1983",
+        "likeCount": "62",
         "favoriteCount": "0",
         "commentCount": "63"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wi9aljJsPXlSTdAGKfHsBeBI3U8",
+      "etag": "RTg1_hS5Ww5rC-IPqjYdfzMurO0",
       "id": "aO252AkXtOk",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:47Z",
@@ -3137,7 +3262,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10",
+        "viewCount": "11",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3145,7 +3270,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7EkGYX8R9Nnj5u-V52SJBt3-VEA",
+      "etag": "5JqcLUR6i8HVXtoXvBuzi2YYt54",
       "id": "v6Uuo7wKR5s",
       "snippet": {
         "publishedAt": "2025-09-23T00:36:49Z",
@@ -3190,15 +3315,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "917",
-        "likeCount": "17",
+        "viewCount": "988",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "c5mi5x8wSR-Htu2PxWpz0N1iXvU",
+      "etag": "VjNo2Jgxp8muWWh8CcT-RoO9F5o",
       "id": "H5A6-CDjR70",
       "snippet": {
         "publishedAt": "2025-09-22T19:55:49Z",
@@ -3243,7 +3368,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "426",
+        "viewCount": "434",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3251,7 +3376,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_5uZCo2DHWSzwhxug-nxN_IzlL8",
+      "etag": "aS5xchCW41GxWjb3feQ56jYr7qI",
       "id": "vs3a5be-Ot4",
       "snippet": {
         "publishedAt": "2025-09-21T18:38:19Z",
@@ -3317,116 +3442,10 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "449",
-        "likeCount": "20",
+        "viewCount": "452",
+        "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M1jwye3FyROs_SZqIUkVuE0v1-w",
-      "id": "VM1qVCqiuvU",
-      "snippet": {
-        "publishedAt": "2025-09-20T03:43:10Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Late night fun on the Radio! #propagation #AM #amateurradio #hf #signalpropagation",
-        "description": "An astute viewer clarified this is actually AM, See below--\n\nDetails from W5ARM: \"...Radio Turkey\"... broadcasting in English to the US with 500kW. It begins @ 02:55 UTC most weeknights...\"",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VM1qVCqiuvU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VM1qVCqiuvU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VM1qVCqiuvU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VM1qVCqiuvU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VM1qVCqiuvU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Late night fun on the Radio! #propagation #AM #amateurradio #hf #signalpropagation",
-          "description": "An astute viewer clarified this is actually AM, See below--\n\nDetails from W5ARM: \"...Radio Turkey\"... broadcasting in English to the US with 500kW. It begins @ 02:55 UTC most weeknights...\""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1149",
-        "likeCount": "23",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "NZKA2lXZN6AbvVzjiLlGK1VUltE",
-      "id": "7_N-1yp1-QI",
-      "snippet": {
-        "publishedAt": "2025-09-19T21:00:44Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "230-Mile Ham Radio POTA Rove #shorts",
-        "description": "James (K8JKU) embarks on a 230-mile POTA rove across Northern Michigan. His family reunion morphs into an epic ham radio adventure, hitting 7 parks and the future Michigan POTA Meetup site. #POTA #hamradio #K8JKU #Michigan #ParksOnTheAir",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7_N-1yp1-QI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7_N-1yp1-QI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7_N-1yp1-QI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7_N-1yp1-QI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7_N-1yp1-QI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "230-Mile Ham Radio POTA Rove #shorts",
-          "description": "James (K8JKU) embarks on a 230-mile POTA rove across Northern Michigan. His family reunion morphs into an epic ham radio adventure, hitting 7 parks and the future Michigan POTA Meetup site. #POTA #hamradio #K8JKU #Michigan #ParksOnTheAir"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "317",
-        "likeCount": "9",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ]

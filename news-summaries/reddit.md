@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-06 11:36 UTC*
+*Last updated: 2026-02-07 11:25 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Mt Belmont Amateur Radio Station - Wellington, NZ](https://www.reddit.com/r/amateurradio/comments/1qx0nt7/mt_belmont_amateur_radio_station_wellington_nz/)**
-by u/ThatDamnRanga
+**3. [So.. I’m new to this](https://www.reddit.com/r/amateurradio/comments/1qy5pcz/so_im_new_to_this/)**
+by u/Own_Feed9993
 
-**4. [Let's see your shack!](https://www.reddit.com/r/amateurradio/comments/1qx2dh9/lets_see_your_shack/)**
-by u/mschuster91
+**4. [Epic FT8 Contact](https://www.reddit.com/r/amateurradio/comments/1qxramo/epic_ft8_contact/)**
+by u/VapinMason
 
-**5. [Why do OEMs do this? The + are hooked together, the - are hooked together, and t...](https://www.reddit.com/r/amateurradio/comments/1qwznlv/why_do_oems_do_this_the_are_hooked_together_the/)**
-by u/grendelt
+**5. [Transformers - exactly what meets the eye](https://www.reddit.com/r/amateurradio/comments/1qxzkh0/transformers_exactly_what_meets_the_eye/)**
+by u/Witty-Ad4757
 
-**6. [My local Club Repeater](https://www.reddit.com/r/amateurradio/comments/1qwv58p/my_local_club_repeater/)**
-by u/thedudez420
+**6. [New firmware released for QMX radios; gives voltage protection to the PA transis...](https://www.reddit.com/r/amateurradio/comments/1qxxamf/new_firmware_released_for_qmx_radios_gives/)**
+by u/VE6LK
 
-**7. [How well do glass mount antennas perform?](https://www.reddit.com/r/amateurradio/comments/1qxa8wc/how_well_do_glass_mount_antennas_perform/)**
-by u/Healthy-Kangaroo-365
+**7. [Listening to hunting frequencies from home - possible setup?](https://www.reddit.com/r/amateurradio/comments/1qy8dp1/listening_to_hunting_frequencies_from_home/)**
+by u/tactichris
 
-**8. [PSKReporter iOS app 2.0 released – live MQTT + new propagation benchmarking tool...](https://www.reddit.com/r/amateurradio/comments/1qxdj5r/pskreporter_ios_app_20_released_live_mqtt_new/)**
-by u/GurThin9882
+**8. [OpenHamClock on tablets — perfect kiosk fit with zoom/scaling](https://www.reddit.com/r/amateurradio/comments/1qxh8p7/openhamclock_on_tablets_perfect_kiosk_fit_with/)**
+by u/foobik
 
-**9. [Linux client for Zakteck WSPR Desktop Transmitter](https://www.reddit.com/r/amateurradio/comments/1qx7pj6/linux_client_for_zakteck_wspr_desktop_transmitter/)**
-by u/dajolly
+**9. [Nearest repeater is 10mi away… am I SOL with my handheld?](https://www.reddit.com/r/amateurradio/comments/1qxzv5k/nearest_repeater_is_10mi_away_am_i_sol_with_my/)**
+by u/Engineering_Simple
 
-**10. [[New here!!!]Some questions about IC718](https://www.reddit.com/r/amateurradio/comments/1qx6c66/new_heresome_questions_about_ic718/)**
-by u/xiaohu3389
+**10. [Icom AH4 tuner and wire antenna?](https://www.reddit.com/r/amateurradio/comments/1qy8cls/icom_ah4_tuner_and_wire_antenna/)**
+by u/foobik
 
-**11. [Why Do Repeater Transmissions Vary in Signal Strength?](https://www.reddit.com/r/amateurradio/comments/1qx3w2q/why_do_repeater_transmissions_vary_in_signal/)**
-by u/ultravista_2
+**11. [145 Alive (UK)](https://www.reddit.com/r/amateurradio/comments/1qyb1ax/145_alive_uk/)**
+by u/TheUnkown696
 
-**12. [NanoVNA H4 - noisy](https://www.reddit.com/r/amateurradio/comments/1qxel47/nanovna_h4_noisy/)**
-by u/InvestigatorFull16
+**12. [Solved: Hermes Lite 2 CW issue past 14wpm](https://www.reddit.com/r/amateurradio/comments/1qxzn2j/solved_hermes_lite_2_cw_issue_past_14wpm/)**
+by u/Naturist02
 
-**13. [Ha ancora senso essere radioamatori ed entrare in un'associazione?](https://www.reddit.com/r/amateurradio/comments/1qxe2fe/ha_ancora_senso_essere_radioamatori_ed_entrare_in/)**
-by u/ParticularTheory3013
+**13. [Jellyfish Lighting RF interference Update](https://www.reddit.com/r/amateurradio/comments/1qxq3u1/jellyfish_lighting_rf_interference_update/)**
+by u/Puddleduck112
 
-**14. [UV K1 Subharmonics, Image Frequencies?](https://www.reddit.com/r/amateurradio/comments/1qxdgoz/uv_k1_subharmonics_image_frequencies/)**
-by u/Gloomy_Vast6600
+**14. [First ham raido](https://www.reddit.com/r/amateurradio/comments/1qy1mut/first_ham_raido/)**
+by u/Ok-Technician-4132
 
-**15. [Apartment Balcony Antenna Help](https://www.reddit.com/r/amateurradio/comments/1qwykof/apartment_balcony_antenna_help/)**
-by u/colev14
+**15. [Why are many FT8 receivers on pskreporter running on 76 instead of 74 kHz offset...](https://www.reddit.com/r/amateurradio/comments/1qxmndu/why_are_many_ft8_receivers_on_pskreporter_running/)**
+by u/No-Pudding-1353
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Just made my first contact using UV-5R](https://www.reddit.com/r/HamRadio/comments/1qx6n2q/just_made_my_first_contact_using_uv5r/)**
+**3. [What do you think of this dinosaur, the FDK Multi-2700?](https://www.reddit.com/r/HamRadio/comments/1qxy7wz/what_do_you_think_of_this_dinosaur_the_fdk/)**
+by u/SoftCivil2494
+
+**4. [Adding a counterpoise "tigertail" to a 2m handheld improves operation. Since rad...](https://www.reddit.com/r/HamRadio/comments/1qxuzb3/adding_a_counterpoise_tigertail_to_a_2m_handheld/)**
+by u/greenwoody2018
+
+**5. [Finally it’s LIVE! ACCEPTED 29 December 2025 - PUBLISHED 06 February 2026 “Detec...](https://www.reddit.com/r/HamRadio/comments/1qxzkgf/finally_its_live_accepted_29_december_2025/)**
+by u/SharkSapphire
+
+**6. [Listening to hunting frequencies - possible setup?](https://www.reddit.com/r/HamRadio/comments/1qy8cdr/listening_to_hunting_frequencies_possible_setup/)**
+by u/tactichris
+
+**7. [Icom IC-781 still worth it these days?](https://www.reddit.com/r/HamRadio/comments/1qy3hrs/icom_ic781_still_worth_it_these_days/)**
+by u/fukingstupidusername
+
+**8. [Just made my first contact using UV-5R](https://www.reddit.com/r/HamRadio/comments/1qx6n2q/just_made_my_first_contact_using_uv5r/)**
 by u/lassmanac
 
-**4. [I'm brand new to this. Say I get a G90, and I plan on using it indoors about 80%...](https://www.reddit.com/r/HamRadio/comments/1qws7vk/im_brand_new_to_this_say_i_get_a_g90_and_i_plan/)**
-by u/youbenchbro
+**9. [What ham radio oriented computer software and programs should I get? From the mo...](https://www.reddit.com/r/HamRadio/comments/1qxn5e4/what_ham_radio_oriented_computer_software_and/)**
+by u/Zombie_Jim
 
-**5. [Is APRS still available via ISS](https://www.reddit.com/r/HamRadio/comments/1qwl0q2/is_aprs_still_available_via_iss/)**
-by u/Strong-Buy-591
+**10. [New Ham operator setting up base station](https://www.reddit.com/r/HamRadio/comments/1qxn0jj/new_ham_operator_setting_up_base_station/)**
+by u/ollie_the_4runner
 
-**6. [Need Advice / Guidance on equipment after my uncle’s passing.](https://www.reddit.com/r/HamRadio/comments/1qwojwk/need_advice_guidance_on_equipment_after_my_uncles/)**
-by u/Arkansas_Camper
+**11. [If you can tune it, send it? Xiegu G90 and Cobham 201B](https://www.reddit.com/r/HamRadio/comments/1qxltzh/if_you_can_tune_it_send_it_xiegu_g90_and_cobham/)**
+by u/pcblah
 
-**7. [Build Your Own Pico Balloon and Explore the Stratosphere](https://www.reddit.com/r/HamRadio/comments/1qw6zur/build_your_own_pico_balloon_and_explore_the/)**
-by u/SharkSapphire
+**12. [Xiegu VG4 replacement 20m radials?](https://www.reddit.com/r/HamRadio/comments/1qxo6z7/xiegu_vg4_replacement_20m_radials/)**
+by u/edinc90
 
-**8. [This doesn’t seem legit to me; speaker for my ICOM](https://www.reddit.com/r/HamRadio/comments/1qw6tt4/this_doesnt_seem_legit_to_me_speaker_for_my_icom/)**
-by u/HeadlineINeed
-
-**9. [Audio alternator noise horrible need help](https://www.reddit.com/r/HamRadio/comments/1qwajt7/audio_alternator_noise_horrible_need_help/)**
-by u/mreddog
-
-**10. [Has anyone purchased a Xiegu G90 on AliExpress?](https://www.reddit.com/r/HamRadio/comments/1qvxn0k/has_anyone_purchased_a_xiegu_g90_on_aliexpress/)**
+**13. [Is it worth spending $18 on a QRZ-1 if I already have a Baofeng?](https://www.reddit.com/r/HamRadio/comments/1qxispb/is_it_worth_spending_18_on_a_qrz1_if_i_already/)**
 by u/ToneBeneficial4969
 
-**11. [I am a beginner with no license what are some good books to learn from.](https://www.reddit.com/r/HamRadio/comments/1qvzrgo/i_am_a_beginner_with_no_license_what_are_some/)**
-by u/PolarJohnwow
+**14. [I'm brand new to this. Say I get a G90, and I plan on using it indoors about 80%...](https://www.reddit.com/r/HamRadio/comments/1qws7vk/im_brand_new_to_this_say_i_get_a_g90_and_i_plan/)**
+by u/youbenchbro
 
-**12. [why get a ham license? what can you do with it? what do you broadcast?](https://www.reddit.com/r/HamRadio/comments/1qwwp1b/why_get_a_ham_license_what_can_you_do_with_it/)**
-by u/binaryfireball
-
-**13. [dumb Microcontroller TX idea...](https://www.reddit.com/r/HamRadio/comments/1qw32yp/dumb_microcontroller_tx_idea/)**
-by u/Random5Username
-
-**14. [Anyone running a mag-mount 10-meter whip indoors?](https://www.reddit.com/r/HamRadio/comments/1qw9apu/anyone_running_a_magmount_10meter_whip_indoors/)**
-by u/SharkSapphire
-
-**15. [Looking for outdoor/waterproof antenna switch](https://www.reddit.com/r/HamRadio/comments/1qw8mu8/looking_for_outdoorwaterproof_antenna_switch/)**
-by u/Famous-Jeweler8543
+**15. [Hamstudy.org - Will start studying again BUT...](https://www.reddit.com/r/HamRadio/comments/1qxqz0j/hamstudyorg_will_start_studying_again_but/)**
+by u/BatiBato
 
 ---
 
@@ -110,14 +110,14 @@ by u/Famous-Jeweler8543
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qtvt74/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Mt Belmont Amateur Radio Station - Wellington, NZ](https://www.reddit.com/r/amateurradio/comments/1qx0nt7/mt_belmont_amateur_radio_station_wellington_nz/)** (r/amateurradio)
-- **[Let's see your shack!](https://www.reddit.com/r/amateurradio/comments/1qx2dh9/lets_see_your_shack/)** (r/amateurradio)
-- **[Why do OEMs do this? The + are hooked together, the - are hooked toget...](https://www.reddit.com/r/amateurradio/comments/1qwznlv/why_do_oems_do_this_the_are_hooked_together_the/)** (r/amateurradio)
-- **[My local Club Repeater](https://www.reddit.com/r/amateurradio/comments/1qwv58p/my_local_club_repeater/)** (r/amateurradio)
-- **[How well do glass mount antennas perform?](https://www.reddit.com/r/amateurradio/comments/1qxa8wc/how_well_do_glass_mount_antennas_perform/)** (r/amateurradio)
-- **[PSKReporter iOS app 2.0 released – live MQTT + new propagation benchma...](https://www.reddit.com/r/amateurradio/comments/1qxdj5r/pskreporter_ios_app_20_released_live_mqtt_new/)** (r/amateurradio)
-- **[Linux client for Zakteck WSPR Desktop Transmitter](https://www.reddit.com/r/amateurradio/comments/1qx7pj6/linux_client_for_zakteck_wspr_desktop_transmitter/)** (r/amateurradio)
-- **[[New here!!!]Some questions about IC718](https://www.reddit.com/r/amateurradio/comments/1qx6c66/new_heresome_questions_about_ic718/)** (r/amateurradio)
+- **[So.. I’m new to this](https://www.reddit.com/r/amateurradio/comments/1qy5pcz/so_im_new_to_this/)** (r/amateurradio)
+- **[Epic FT8 Contact](https://www.reddit.com/r/amateurradio/comments/1qxramo/epic_ft8_contact/)** (r/amateurradio)
+- **[Transformers - exactly what meets the eye](https://www.reddit.com/r/amateurradio/comments/1qxzkh0/transformers_exactly_what_meets_the_eye/)** (r/amateurradio)
+- **[New firmware released for QMX radios; gives voltage protection to the ...](https://www.reddit.com/r/amateurradio/comments/1qxxamf/new_firmware_released_for_qmx_radios_gives/)** (r/amateurradio)
+- **[Listening to hunting frequencies from home - possible setup?](https://www.reddit.com/r/amateurradio/comments/1qy8dp1/listening_to_hunting_frequencies_from_home/)** (r/amateurradio)
+- **[OpenHamClock on tablets — perfect kiosk fit with zoom/scaling](https://www.reddit.com/r/amateurradio/comments/1qxh8p7/openhamclock_on_tablets_perfect_kiosk_fit_with/)** (r/amateurradio)
+- **[Nearest repeater is 10mi away… am I SOL with my handheld?](https://www.reddit.com/r/amateurradio/comments/1qxzv5k/nearest_repeater_is_10mi_away_am_i_sol_with_my/)** (r/amateurradio)
+- **[Icom AH4 tuner and wire antenna?](https://www.reddit.com/r/amateurradio/comments/1qy8cls/icom_ah4_tuner_and_wire_antenna/)** (r/amateurradio)
 
 ---
 

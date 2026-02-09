@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-02T14:25:23.622965",
+  "updated": "2026-02-09T12:51:13.531019",
   "episodes": [
+    {
+      "id": 18629581,
+      "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/18629581-do-you-really-need-a-new-radio-honest-ham-radio-upgrade-advice.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/aalrudf4cd8je5dfhf4m1v0tbgdw",
+      "description": "<p>Do you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.</p><p>We begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.</p><p>The main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.</p><p>We also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.</p><p>Don\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.</p><p>https://www.everydayham.com</p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "ham radio, amateur radio, ham radio upgrade, ham radio gear, Everyday Ham Podcast, POTA, CW morse code, BuddiHEX, Yaesu FT-891, ham radio tips, Hamcation 2026, ham radio buying advice, HamClock Elwood Downey, antenna vs radio, ham radio podcast, QRP radio",
+      "published_at": "2026-02-05T10:00:00.000-05:00",
+      "duration": 3045,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-18629581",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": 14,
+      "season_number": 2,
+      "episode_type": "full",
+      "explicit": false,
+      "private": false,
+      "total_plays": 420
+    },
     {
       "id": 18470399,
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 679
+      "total_plays": 736
     },
     {
       "id": 18296133,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 852
+      "total_plays": 875
     },
     {
       "id": 18131359,
@@ -68,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 685
+      "total_plays": 693
     },
     {
       "id": 17980624,
@@ -91,7 +114,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 748
+      "total_plays": 756
     },
     {
       "id": 17915090,
@@ -114,7 +137,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 590
+      "total_plays": 597
     },
     {
       "id": 17760784,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 755
+      "total_plays": 759
     },
     {
       "id": 17726132,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 581
+      "total_plays": 583
     },
     {
       "id": 17625014,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 604
+      "total_plays": 607
     },
     {
       "id": 17571459,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 535
+      "total_plays": 537
     },
     {
       "id": 17441669,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 661
+      "total_plays": 663
     },
     {
       "id": 17282578,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 538
+      "total_plays": 540
     },
     {
       "id": 17198150,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 457
+      "total_plays": 458
     },
     {
       "id": 17122535,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 440
+      "total_plays": 441
     },
     {
       "id": 16912708,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 529
+      "total_plays": 532
     },
     {
       "id": 16745714,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 426
+      "total_plays": 428
     },
     {
       "id": 16574585,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 435
+      "total_plays": 439
     },
     {
       "id": 16408083,
@@ -390,7 +413,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 399
+      "total_plays": 401
     }
   ]
 }

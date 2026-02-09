@@ -1,8 +1,8 @@
 {
-  "updated": "2026-02-02T14:25:24.374874",
+  "updated": "2026-02-09T12:51:14.275761",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "Hrt2UGD5yWUASwMeCEMiGRyGAIg",
+    "etag": "8bH-7rslEEV3R3Nw0P7ZdRp0Tms",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,355 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "119990",
-      "subscriberCount": "1430",
+      "viewCount": "126650",
+      "subscriberCount": "1460",
       "hiddenSubscriberCount": false,
-      "videoCount": "100"
+      "videoCount": "105"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "6eQ0YybauDYfcXH3Olo3i3NqBNc",
+      "etag": "JZ9iyyc84aAxqekA9I618ySx0jA",
+      "id": "dq8p3Blm4Ts",
+      "snippet": {
+        "publishedAt": "2026-02-07T19:03:13Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
+        "description": "The Everyday Ham crew volunteered to help hang a new projector screen at the historic Witch's Hat Depot in South Lyon! Just your friendly neighborhood hams from the South Lyon Area Amateur Radio Club giving back to the community, one questionable measurement at a time. Turns out we're better at hanging antennas, but we got it done! \ud83d\udcaa\n\n#TheEverydayHam #SLAARC #SouthLyon #WitchsHatDepot #AmateurRadio #HamRadio #HamRadioCommunity #CommunityService #VolunteerWork #GivingBack #ClubProject #SouthLyonMI #73 #HamsDoingThings #SmallTownVolunteers #NotAnAntennaButCloseEnough",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "TheEverydayHam",
+          "SLAARC",
+          "SouthLyon",
+          "WitchsHatDepot",
+          "AmateurRadio",
+          "HamRadio",
+          "HamRadioCommunity",
+          "CommunityService",
+          "VolunteerWork",
+          "GivingBack",
+          "ClubProject",
+          "SouthLyonMI",
+          "73",
+          "HamsDoingThings",
+          "SmallTownVolunteers",
+          "NotAnAntennaButCloseEnough"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
+          "description": "The Everyday Ham crew volunteered to help hang a new projector screen at the historic Witch's Hat Depot in South Lyon! Just your friendly neighborhood hams from the South Lyon Area Amateur Radio Club giving back to the community, one questionable measurement at a time. Turns out we're better at hanging antennas, but we got it done! \ud83d\udcaa\n\n#TheEverydayHam #SLAARC #SouthLyon #WitchsHatDepot #AmateurRadio #HamRadio #HamRadioCommunity #CommunityService #VolunteerWork #GivingBack #ClubProject #SouthLyonMI #73 #HamsDoingThings #SmallTownVolunteers #NotAnAntennaButCloseEnough"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3088",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XxlKs3eSLm8UVMPfQVPoTS3-q_U",
+      "id": "ZScvDM3YLWY",
+      "snippet": {
+        "publishedAt": "2026-02-05T16:36:24Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
+        "description": "This month Rory, James and Jim take a critical look at past shack purchases as we head into the sale and buying season with Hamvention, Hamcation and more!   Join us for a lighthearted discussion about the things we've learned about our gear purchases, and perhaps some of our regrets!\n\n#hamradio #yaesu #ftdx101mp #newgear #amateurradio #hamcation #hamvention #podcast #radiocommunication #geartalk #money",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
+          "description": "This month Rory, James and Jim take a critical look at past shack purchases as we head into the sale and buying season with Hamvention, Hamcation and more!   Join us for a lighthearted discussion about the things we've learned about our gear purchases, and perhaps some of our regrets!\n\n#hamradio #yaesu #ftdx101mp #newgear #amateurradio #hamcation #hamvention #podcast #radiocommunication #geartalk #money"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "566",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A9_l550xp0FPLzvVk7afwlCijac",
+      "id": "OhsGTEIVIE8",
+      "snippet": {
+        "publishedAt": "2026-02-05T15:02:11Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+        "description": "Do you really need that new radio? In Episode 14 of the Everyday Ham Podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio equipment \u2014 and what they\u2019ve learned from their own buying mistakes.\n\nWe start with a moment of remembrance for Elwood Downey, creator of the beloved HamClock, and share what his work meant to the amateur radio community.\n\n\ud83d\udcfb What\u2019s in this episode:\n0:00 Remembering HamClock creator Elwood Downey\n3:40 Around the shack \u2014 CW practice updates and the Hamgeek CW Morse Pokemon HamCube Pro trainer review\n7:33 James tries hotel radio from Germany with a QRP rig and an end-fed out the window\n9:26 Winter Field Day recap and shout-outs\n11:07 The big topic \u2014 When was the last time you felt pressure to upgrade a radio?\n18:41 Why antenna upgrades beat radio upgrades every time\n20:47 Jim\u2019s honest $10K shack confession \u2014 what he\u2019d do differently\n23:43 Taking advantage of band openings with any station\n27:37 Embrace the journey \u2014 there\u2019s no wrong way to ham\n31:08 Hamcation and Hamvention buying season advice\n33:29 Rory\u2019s BuddiHEX plans \u2014 next great antenna or next regrettable purchase?\n44:25 Backpacking gear, adapters, and hamfest bargain hunting\n46:33 Hamcation Orlando 2026 preview \u2014 come say hello!\n\n\ud83d\udd17 Links & Resources:\nHamgeek CW Morse Pokemon HamCube Pro: https://www.hamgeek.com\nLong Island CW Club: https://longislandcwclub.org\nBuddiPole / BuddiHEX: https://www.buddipole.com/buddihex2.html\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Don\u2019t miss an episode!\nFollow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel. Hit LIKE if you enjoyed this episode!\n\n\ud83d\udcac Tell us in the comments \u2014 what\u2019s the best and worst ham radio purchase you\u2019ve ever made?\n\n\ud83c\udf99 Follow Everyday Ham:\n\u2022 YouTube: @EverydayHam\n\u2022 Instagram: @EverydayHamPodcast\n\u2022 Website: https://www.everydayham.com\n\u2022 Discord: https://www.everydayham.com\n\nHosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) from the South Lyon Area Amateur Radio Club (SLAARC, W8EDH).\n\n#hamradio  #AmateurRadio #EverydayHam #POTA #HamRadioGear #CW #MorseCode #BuddiHEX #Yaesu #FT891 #Hamcation #Hamvention #HamClock #RadioUpgrade #AntennaFirst #QRP #HamRadioPodcast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "ham radio upgrade",
+          "ham radio gear",
+          "Everyday Ham Podcast",
+          "POTA",
+          "CW morse code",
+          "BuddiHEX",
+          "Yaesu FT-891",
+          "ham radio tips",
+          "Hamcation 2026",
+          "ham radio buying advice",
+          "HamClock Elwood Downey",
+          "antenna vs radio",
+          "ham radio podcast",
+          "QRP radio",
+          "hamfest deals"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+          "description": "Do you really need that new radio? In Episode 14 of the Everyday Ham Podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio equipment \u2014 and what they\u2019ve learned from their own buying mistakes.\n\nWe start with a moment of remembrance for Elwood Downey, creator of the beloved HamClock, and share what his work meant to the amateur radio community.\n\n\ud83d\udcfb What\u2019s in this episode:\n0:00 Remembering HamClock creator Elwood Downey\n3:40 Around the shack \u2014 CW practice updates and the Hamgeek CW Morse Pokemon HamCube Pro trainer review\n7:33 James tries hotel radio from Germany with a QRP rig and an end-fed out the window\n9:26 Winter Field Day recap and shout-outs\n11:07 The big topic \u2014 When was the last time you felt pressure to upgrade a radio?\n18:41 Why antenna upgrades beat radio upgrades every time\n20:47 Jim\u2019s honest $10K shack confession \u2014 what he\u2019d do differently\n23:43 Taking advantage of band openings with any station\n27:37 Embrace the journey \u2014 there\u2019s no wrong way to ham\n31:08 Hamcation and Hamvention buying season advice\n33:29 Rory\u2019s BuddiHEX plans \u2014 next great antenna or next regrettable purchase?\n44:25 Backpacking gear, adapters, and hamfest bargain hunting\n46:33 Hamcation Orlando 2026 preview \u2014 come say hello!\n\n\ud83d\udd17 Links & Resources:\nHamgeek CW Morse Pokemon HamCube Pro: https://www.hamgeek.com\nLong Island CW Club: https://longislandcwclub.org\nBuddiPole / BuddiHEX: https://www.buddipole.com/buddihex2.html\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Don\u2019t miss an episode!\nFollow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel. Hit LIKE if you enjoyed this episode!\n\n\ud83d\udcac Tell us in the comments \u2014 what\u2019s the best and worst ham radio purchase you\u2019ve ever made?\n\n\ud83c\udf99 Follow Everyday Ham:\n\u2022 YouTube: @EverydayHam\n\u2022 Instagram: @EverydayHamPodcast\n\u2022 Website: https://www.everydayham.com\n\u2022 Discord: https://www.everydayham.com\n\nHosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) from the South Lyon Area Amateur Radio Club (SLAARC, W8EDH).\n\n#hamradio  #AmateurRadio #EverydayHam #POTA #HamRadioGear #CW #MorseCode #BuddiHEX #Yaesu #FT891 #Hamcation #Hamvention #HamClock #RadioUpgrade #AntennaFirst #QRP #HamRadioPodcast"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "312",
+        "likeCount": "26",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M4vYNPhTlJWGBc5VGEzKi9L5YiE",
+      "id": "i_55Kt8PtJo",
+      "snippet": {
+        "publishedAt": "2026-02-05T15:25:03Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "71",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x3FfRud1s89y194EMsi7NEUw_xE",
+      "id": "XPVfh05ifPI",
+      "snippet": {
+        "publishedAt": "2026-02-03T15:01:03Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
+        "description": "What happens when you try to operate ham radio during one of the coldest winter weekends Michigan has seen in years? We found out!\n\nJoin James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we recap our 2026 Winter Field Day experience operating as the Everyday Ham Amateur Radio Club using callsign W8EDH. With temperatures plunging to -17\u00b0F (-27\u00b0C) and dangerous winter storms sweeping the country, we set up at a cabin in the woods with 8 total operators and logged 845 QSOs across multiple bands.\n\n\u23f1\ufe0f TIMESTAMPS\n0:00 - Driving to Winter Field Day in -17\u00b0F\n0:15 - What is Winter Field Day?\n0:42 - Why the Everyday Ham Club decided to participate\n1:18 - The brutal Michigan weather conditions\n2:03 - Jim's Winter Field Day experience\n3:09 - Heating problems at the cabin (51\u00b0F inside!)\n3:53 - James arrives after the heating crisis\n4:18 - First time doing a real contest\n4:56 - Our antenna setup strategy\n5:54 - The 40m monster vertical antenna\n6:06 - Antenna walkthrough (40m vertical, Aerial-51 OCFD, Band Hopper)\n7:21 - Results: 845 QSOs and contest stats\n7:55 - Using World Radio League logger\n8:43 - Stats breakdown (110 QSOs in fastest hour, 28 average)\n9:24 - Bands we operated (40m, 20m, 80m, 15m, 10m, 2m, 220, 440)\n10:06 - Getting CW contacts with Terry W8TMB\n10:36 - Multipliers and bonus objectives\n11:01 - Running on alternative power (battery vs generator RFI)\n11:28 - Winlink email adventure (and the Nigerian prince joke)\n12:30 - More multipliers: six bands, multiple modes, continuous operation\n12:54 - Objectives we missed (satellites, WFD bulletin, QRP)\n13:12 - Total operators (8) and visitors (16+)\n13:30 - The W8EDH club callsign\n13:44 - Coaching new operators\n14:04 - Join our Discord for event info\n14:24 - Looking ahead to Summer Field Day & QSO parties\n15:06 - Closing montage: Final contacts and packing up\n\n\ud83d\udcfb WHAT WE COVERED\n- Setting up a multi-operator station in extreme cold\n- Running three radios on battery and generator power\n- Tips for first-time contesters using World Radio League\n- The importance of resonant antennas for contesting\n- How to encourage and coach new operators\n- Winlink email bonus objective (and the Nigerian prince joke)\n\n\ud83d\udd17 RESOURCES\nWinter Field Day Association: https://winterfieldday.org/\nWorld Radio League: https://www.worldradioleague.com/\nSouth Lyon Area Amateur Radio Club (SLAARC): https://www.slaarc.com/\n\n\ud83c\udf99\ufe0f ABOUT EVERYDAY HAM\nThree friends diving into amateur radio with a casual, lighthearted twist. From current events and lessons learned to our gripes and off-topic banter, we bring fun, relatable conversations and radio expertise.\n\n\ud83d\udcf1 FOLLOW US\nWebsite: https://www.everydayham.com/\n\nDon't miss an episode! Subscribe to our YouTube channel and follow Everyday Ham on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more).\n\n#WinterFieldDay #WFD2026 #HamRadio #AmateurRadio #W8EDH #Contesting #EmergencyComms #PortableRadio #MichiganHam #EverydayHam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Winter Field Day",
+          "WFD 2026",
+          "ham radio contesting",
+          "amateur radio field day",
+          "W8EDH",
+          "portable ham radio",
+          "cold weather radio operation",
+          "ham radio contest",
+          "World Radio League",
+          "40 meter antenna",
+          "multi-operator station",
+          "emergency communications",
+          "Winlink",
+          "ham radio Michigan",
+          "Everyday Ham",
+          "amateur radio club",
+          "winter ham radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
+          "description": "What happens when you try to operate ham radio during one of the coldest winter weekends Michigan has seen in years? We found out!\n\nJoin James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we recap our 2026 Winter Field Day experience operating as the Everyday Ham Amateur Radio Club using callsign W8EDH. With temperatures plunging to -17\u00b0F (-27\u00b0C) and dangerous winter storms sweeping the country, we set up at a cabin in the woods with 8 total operators and logged 845 QSOs across multiple bands.\n\n\u23f1\ufe0f TIMESTAMPS\n0:00 - Driving to Winter Field Day in -17\u00b0F\n0:15 - What is Winter Field Day?\n0:42 - Why the Everyday Ham Club decided to participate\n1:18 - The brutal Michigan weather conditions\n2:03 - Jim's Winter Field Day experience\n3:09 - Heating problems at the cabin (51\u00b0F inside!)\n3:53 - James arrives after the heating crisis\n4:18 - First time doing a real contest\n4:56 - Our antenna setup strategy\n5:54 - The 40m monster vertical antenna\n6:06 - Antenna walkthrough (40m vertical, Aerial-51 OCFD, Band Hopper)\n7:21 - Results: 845 QSOs and contest stats\n7:55 - Using World Radio League logger\n8:43 - Stats breakdown (110 QSOs in fastest hour, 28 average)\n9:24 - Bands we operated (40m, 20m, 80m, 15m, 10m, 2m, 220, 440)\n10:06 - Getting CW contacts with Terry W8TMB\n10:36 - Multipliers and bonus objectives\n11:01 - Running on alternative power (battery vs generator RFI)\n11:28 - Winlink email adventure (and the Nigerian prince joke)\n12:30 - More multipliers: six bands, multiple modes, continuous operation\n12:54 - Objectives we missed (satellites, WFD bulletin, QRP)\n13:12 - Total operators (8) and visitors (16+)\n13:30 - The W8EDH club callsign\n13:44 - Coaching new operators\n14:04 - Join our Discord for event info\n14:24 - Looking ahead to Summer Field Day & QSO parties\n15:06 - Closing montage: Final contacts and packing up\n\n\ud83d\udcfb WHAT WE COVERED\n- Setting up a multi-operator station in extreme cold\n- Running three radios on battery and generator power\n- Tips for first-time contesters using World Radio League\n- The importance of resonant antennas for contesting\n- How to encourage and coach new operators\n- Winlink email bonus objective (and the Nigerian prince joke)\n\n\ud83d\udd17 RESOURCES\nWinter Field Day Association: https://winterfieldday.org/\nWorld Radio League: https://www.worldradioleague.com/\nSouth Lyon Area Amateur Radio Club (SLAARC): https://www.slaarc.com/\n\n\ud83c\udf99\ufe0f ABOUT EVERYDAY HAM\nThree friends diving into amateur radio with a casual, lighthearted twist. From current events and lessons learned to our gripes and off-topic banter, we bring fun, relatable conversations and radio expertise.\n\n\ud83d\udcf1 FOLLOW US\nWebsite: https://www.everydayham.com/\n\nDon't miss an episode! Subscribe to our YouTube channel and follow Everyday Ham on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more).\n\n#WinterFieldDay #WFD2026 #HamRadio #AmateurRadio #W8EDH #Contesting #EmergencyComms #PortableRadio #MichiganHam #EverydayHam"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "390",
+        "likeCount": "27",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "44PwoWg0akCkefarZbk-Ip-U1ug",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -87,15 +426,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "631",
-        "likeCount": "6",
+        "viewCount": "721",
+        "likeCount": "9",
         "favoriteCount": "0",
-        "commentCount": "2"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pJx5dhG-qBcTbrHElTio_5v7DQY",
+      "etag": "ZaqSJl4rtFRicnA4N7e9z9xZduw",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -159,15 +498,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1559",
-        "likeCount": "56",
+        "viewCount": "1946",
+        "likeCount": "66",
         "favoriteCount": "0",
-        "commentCount": "45"
+        "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7X7HvzoJfcl4mGZexjCYF6kEjDk",
+      "etag": "JHnZXKp17tR-_5r3SfGVQlHydD8",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -212,7 +551,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "241",
+        "viewCount": "255",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -220,7 +559,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Hb612lfIP63noc8blQJpmpoqMuU",
+      "etag": "LqmPjvUKUgD_JicmdpQjj0XtGmc",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -265,7 +604,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1473",
+        "viewCount": "1474",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -273,7 +612,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T_DSlzgKk98pAebZB4G8C0uCuPM",
+      "etag": "h4PcUpu30XJE4SGW4K2VP0l7D6I",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -318,7 +657,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1067",
+        "viewCount": "1074",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -326,7 +665,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5AMfwoFSNK3EoruJfCheFkNwvHs",
+      "etag": "yEC0X1YgLrxKWaQFRHyMM0APrQ4",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -393,15 +732,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2534",
-        "likeCount": "105",
+        "viewCount": "2612",
+        "likeCount": "111",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5sIryHgfL0bX6WXTY0rEdEudiL4",
+      "etag": "qJ15eEoRUDNlWWzxjrdSSEWHYik",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -464,7 +803,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "96",
+        "viewCount": "103",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -472,7 +811,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "h3kXohSp6DdSvCf_be9aJky2Qu0",
+      "etag": "-ad4_vj5OXXADKazJ_KDNyGpQgA",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -517,15 +856,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4452",
+        "viewCount": "4456",
         "likeCount": "37",
         "favoriteCount": "0",
-        "commentCount": "1"
+        "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NOPlw6FPachLXeQKJuPzh6FpdLo",
+      "etag": "1fY3Z1ZxHk7BcCvXVJd3iBXh55M",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -570,7 +909,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1175",
+        "viewCount": "1210",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -578,7 +917,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EpK75t9aFhIi9aKM_h_1HgcjMyI",
+      "etag": "fstKy4Pg6qiRY_gJ3kUQTIFjcww",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -641,7 +980,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "764",
+        "viewCount": "774",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -786,7 +1125,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YRqbwNttnOKL8a8R3a2DNY8frn0",
+      "etag": "6yMCqNTtq49imrCsFQBK_1Dr-hM",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -849,7 +1188,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "285",
+        "viewCount": "294",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -857,7 +1196,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QvnVGBp29SbHsvVejUS6QUg3Oxk",
+      "etag": "6BDrXKNAfQzj0eISyk4KHm-mUOk",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -902,7 +1241,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1013",
+        "viewCount": "1014",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -910,7 +1249,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GyT33q1EdrFGG6IO0_p2WXKh_5c",
+      "etag": "fNF43iDaB7_1IffLxVPAm42t6fQ",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -955,7 +1294,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "230",
+        "viewCount": "234",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -963,7 +1302,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M4xuM7iVPJ-6uKONdhka99R5HJU",
+      "etag": "4efuAzAxFfDPZ31w5-KZ9r3sEZ4",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -1031,7 +1370,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "440",
+        "viewCount": "456",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1039,7 +1378,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sgNQIB9XvhdLEAh1pHBYN90iEJI",
+      "etag": "vkjvpeWPiYlEG9ciwKLyTA1hhsM",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -1108,7 +1447,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1225",
+        "viewCount": "1247",
         "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1116,7 +1455,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0ijjLv3gLOacsC8j_7ibZXxl8GE",
+      "etag": "XkJ2yuD0-NkzukEkdDi1fZJvtMk",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
@@ -1179,7 +1518,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "161",
+        "viewCount": "164",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1187,7 +1526,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "esT1GzVRYMSUJqppOW52xwOq-YY",
+      "etag": "1JCn5rlfrwG-lZtjug5KeCWtp6A",
       "id": "-OPz7HyW794",
       "snippet": {
         "publishedAt": "2025-11-28T16:30:57Z",
@@ -1250,7 +1589,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1653",
+        "viewCount": "1655",
         "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1258,7 +1597,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j-wsk8qA3LJ3JdUNK08ifAIqJAQ",
+      "etag": "g3OpvB9NfSbea5HsOfI7mZef0a8",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -1303,7 +1642,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "822",
+        "viewCount": "833",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1311,7 +1650,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ri8ZlZ60hzUdZ2TA2CbpokDUgrM",
+      "etag": "B-zL1UTNoo139JIadNgyNw3ALR0",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -1378,7 +1717,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "326",
+        "viewCount": "340",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1386,7 +1725,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GrwYrkQCmUtEgIIVVrGvVXKpkN0",
+      "etag": "Y7VhcPM7yoiEbwPvqUCQlYqNSpk",
       "id": "sAGV73vzm24",
       "snippet": {
         "publishedAt": "2025-11-17T01:31:25Z",
@@ -1448,7 +1787,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "938",
+        "viewCount": "939",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1456,7 +1795,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t_5B4MO_EslIU84nQCiZKHC34dw",
+      "etag": "NLMw-q2bzBMREym5xp9dCDmYNjI",
       "id": "RxgcxKk969g",
       "snippet": {
         "publishedAt": "2025-11-14T00:34:53Z",
@@ -1526,15 +1865,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1574",
-        "likeCount": "16",
+        "viewCount": "1584",
+        "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "x0hwNj8KQZ3oxt40vkzBubJDKzo",
+      "etag": "CaYga1q1arohdf69DXFULgbMqOU",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -1604,7 +1943,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "138",
+        "viewCount": "140",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1612,7 +1951,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IAAz44BJ-GMl2szAjfMIXoySPrY",
+      "etag": "WHNOusRuB3LBpwg3g5rB_W22vbg",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -1657,7 +1996,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "929",
+        "viewCount": "930",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1738,7 +2077,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "60Kk2TvgD2K4NuA03-WY5EfkvhQ",
+      "etag": "UyyckU3TFsYjdDEXq9NqQZE-Hmc",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -1815,7 +2154,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "739",
+        "viewCount": "748",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1823,7 +2162,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_6QL7lbNbL7jQ2ObwBKkF6azoOQ",
+      "etag": "LyJtACbs9fWvpjiRskty5IGtFrs",
       "id": "eiH0dJwnhnU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:52Z",
@@ -1886,7 +2225,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "34",
+        "viewCount": "35",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1894,7 +2233,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Mpy1U1yhSwJi9ToTd_E_KQCjeIg",
+      "etag": "bEqAG7C3XFvEilYS7eo4wjkGyYw",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -1979,7 +2318,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "262",
+        "viewCount": "268",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1987,7 +2326,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PCQhtvCZSfIl4vws2RFKHoynIvY",
+      "etag": "lWeoYjd6Mo0jYYYdMOAoCRaW2z4",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -2032,7 +2371,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1331",
+        "viewCount": "1333",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2116,7 +2455,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bSwOZwFaN12hNxRahoIaOg5KWRk",
+      "etag": "8agvMvPhHX8wl2G-3lrrsF2FKyo",
       "id": "JTFErg-neu8",
       "snippet": {
         "publishedAt": "2025-10-31T21:40:56Z",
@@ -2192,8 +2531,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3369",
-        "likeCount": "156",
+        "viewCount": "3443",
+        "likeCount": "157",
         "favoriteCount": "0",
         "commentCount": "22"
       }
@@ -2253,7 +2592,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xeUEygwT-tLwtqJ8rRKIbEJuFw8",
+      "etag": "UiOt82R4e9pC36-Ien9yxwYp3mo",
       "id": "Wnw0wmTqVvw",
       "snippet": {
         "publishedAt": "2025-10-25T14:52:50Z",
@@ -2298,15 +2637,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "7285",
-        "likeCount": "92",
+        "viewCount": "7454",
+        "likeCount": "96",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RmyyupBqX9G2q5LmCcVu8e2gXiw",
+      "etag": "BT81oWJpHbsHHaY4GoO779i0tkg",
       "id": "xW-nnl2RGIs",
       "snippet": {
         "publishedAt": "2025-10-23T15:01:45Z",
@@ -2383,7 +2722,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "999",
+        "viewCount": "1000",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -2391,7 +2730,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "27sY9xRkct19AnrCFUuFsovYtnI",
+      "etag": "6xWBkQZgPOb38OYDrJ_ojXx3RiQ",
       "id": "d-87MbN0IiM",
       "snippet": {
         "publishedAt": "2025-10-21T17:05:00Z",
@@ -2442,7 +2781,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1340",
+        "viewCount": "1342",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2450,7 +2789,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "74eBB4E95R_wHNz_Vu3gHaUs9aI",
+      "etag": "LzAJApoOT6tbOADoFgO_u9wfQHA",
       "id": "G3jhDn-tr4Y",
       "snippet": {
         "publishedAt": "2025-10-16T13:07:00Z",
@@ -2530,15 +2869,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1614",
-        "likeCount": "96",
+        "viewCount": "1619",
+        "likeCount": "97",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DtpM1vzLxtKPt6N0vxL6Rh3JdTc",
+      "etag": "fq1FU45-BmMqlqyyaOZxffmS9u4",
       "id": "mSwSRFFpM5U",
       "snippet": {
         "publishedAt": "2025-10-15T02:59:32Z",
@@ -2620,7 +2959,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "189",
+        "viewCount": "193",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2628,7 +2967,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Y0cQHTBNqCvEWV92avDw1M1j5gc",
+      "etag": "srWpL8zpQ7Ue8l_k6gsoZnETwzI",
       "id": "gQ6edfHIYF8",
       "snippet": {
         "publishedAt": "2025-10-10T16:07:28Z",
@@ -2673,7 +3012,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "240",
+        "viewCount": "242",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2681,7 +3020,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YV3iQ3YahRJ0AUofRUr4jSE3-CM",
+      "etag": "rij9UDm9Lnn83_BilG_x0cUU5zg",
       "id": "MLnk47KYJe4",
       "snippet": {
         "publishedAt": "2025-10-09T20:01:53Z",
@@ -2726,7 +3065,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "321",
+        "viewCount": "322",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2734,7 +3073,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DU7TEXMOoTfy_3TGBFInHVmTUeQ",
+      "etag": "v3CFqN6MMMmhqZFrxXE6ol8V18w",
       "id": "2W-dp4mJddU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:49Z",
@@ -2797,7 +3136,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "28",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2805,7 +3144,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-dX_rzJje2ZW93kU4pr_D73UoiI",
+      "etag": "JiVZMC1f5hBzC77aI1puOhqAFCg",
       "id": "bFTukY-5v3g",
       "snippet": {
         "publishedAt": "2025-10-09T19:05:00Z",
@@ -2885,7 +3224,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "394",
+        "viewCount": "398",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -3109,343 +3448,6 @@
         "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DGN7fOWjLtEL-QsBHHqsoubdDyo",
-      "id": "5Bc42zqQBu4",
-      "snippet": {
-        "publishedAt": "2025-09-27T16:23:47Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-        "description": "FlexRadio just announced SmartSDR Plus subscriptions starting at $199/year. Time for an impromptu Saturday morning coffee chat! Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we discuss what this means for ham radio and share our honest opinions.\n\n\ud83d\udd50 Timestamps:\n00:00 Introducing FlexRadio's New Licensing Model\n02:31 Breaking Down the Subscription Tiers\n06:04 Ham Ethos vs. Subscription Software\n09:10 Unpacking Licensing Benefits for Non-Subscribers\n14:54 Subscription Fairness and Multiple Radio Ownership\n22:02 Final Thoughts and Personal Decisions\n\n\ud83d\udd0a What we discuss:\n- SmartSDR Plus ($199/year) vs Early Access ($299/year) \n- What happens if you don't subscribe\n- Are you paying $299 to be a beta tester?\n- Multiple radio licensing questions\n- Does this go against ham radio values?\n\n\ud83d\udcad Our hot takes:\nJim thinks it's fair but wants to wait and see. Rory's cautiously optimistic about development funding. James? He's NOT having it.\n\n\u2615 This was an unplanned Saturday morning discussion - we all grabbed coffee and shared our immediate reactions to FlexRadio's announcement.\n\n\ud83d\udccb Read the full announcement: https://community.flexradio.com/discussion/8032305/exciting-news-a-smarter-smartsdr-licensing-model\n\n\ud83c\udfa7 Listen as Audio Podcast:\nApple Podcasts, Spotify, Google Podcasts, and more at: https://www.everydayham.com\n\n\ud83d\udcac Sound off in the comments: Are YOU in or out on FlexRadio subscriptions?\n\n\ud83d\udd17 Follow Everyday Ham:\n- YouTube: @EverydayHam  \n- Instagram: @EverydayHampodcast\n- Website: https://www.everydayham.com\n\n#FlexRadio #SmartSDR #HamRadio #AmateurRadio #Subscription #EverydayHam #CoffeeChat #HamOpinions",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5Bc42zqQBu4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5Bc42zqQBu4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5Bc42zqQBu4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5Bc42zqQBu4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5Bc42zqQBu4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "FlexRadio",
-          "SmartSDR",
-          "SmartSDR Plus",
-          "subscription",
-          "software subscription",
-          "SDR",
-          "coffee chat",
-          "ham radio discussion",
-          "flex radio subscription",
-          "K8JKU",
-          "N8JRD",
-          "W8KNX",
-          "radio software",
-          "ham radio opinions",
-          "flex radio debate"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-          "description": "FlexRadio just announced SmartSDR Plus subscriptions starting at $199/year. Time for an impromptu Saturday morning coffee chat! Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we discuss what this means for ham radio and share our honest opinions.\n\n\ud83d\udd50 Timestamps:\n00:00 Introducing FlexRadio's New Licensing Model\n02:31 Breaking Down the Subscription Tiers\n06:04 Ham Ethos vs. Subscription Software\n09:10 Unpacking Licensing Benefits for Non-Subscribers\n14:54 Subscription Fairness and Multiple Radio Ownership\n22:02 Final Thoughts and Personal Decisions\n\n\ud83d\udd0a What we discuss:\n- SmartSDR Plus ($199/year) vs Early Access ($299/year) \n- What happens if you don't subscribe\n- Are you paying $299 to be a beta tester?\n- Multiple radio licensing questions\n- Does this go against ham radio values?\n\n\ud83d\udcad Our hot takes:\nJim thinks it's fair but wants to wait and see. Rory's cautiously optimistic about development funding. James? He's NOT having it.\n\n\u2615 This was an unplanned Saturday morning discussion - we all grabbed coffee and shared our immediate reactions to FlexRadio's announcement.\n\n\ud83d\udccb Read the full announcement: https://community.flexradio.com/discussion/8032305/exciting-news-a-smarter-smartsdr-licensing-model\n\n\ud83c\udfa7 Listen as Audio Podcast:\nApple Podcasts, Spotify, Google Podcasts, and more at: https://www.everydayham.com\n\n\ud83d\udcac Sound off in the comments: Are YOU in or out on FlexRadio subscriptions?\n\n\ud83d\udd17 Follow Everyday Ham:\n- YouTube: @EverydayHam  \n- Instagram: @EverydayHampodcast\n- Website: https://www.everydayham.com\n\n#FlexRadio #SmartSDR #HamRadio #AmateurRadio #Subscription #EverydayHam #CoffeeChat #HamOpinions"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1983",
-        "likeCount": "62",
-        "favoriteCount": "0",
-        "commentCount": "63"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "RTg1_hS5Ww5rC-IPqjYdfzMurO0",
-      "id": "aO252AkXtOk",
-      "snippet": {
-        "publishedAt": "2025-11-27T17:26:47Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\n\u00a0FlexRadio just announced SmartSDR Plus subscriptions starting at $199/year. Time for an impromptu Saturday morning coffee chat! Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we discuss what this means for ham radio and share our honest opinions.\u00a0\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aO252AkXtOk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aO252AkXtOk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aO252AkXtOk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aO252AkXtOk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aO252AkXtOk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\n\u00a0FlexRadio just announced SmartSDR Plus subscriptions starting at $199/year. Time for an impromptu Saturday morning coffee chat! Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we discuss what this means for ham radio and share our honest opinions.\u00a0\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "11",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5JqcLUR6i8HVXtoXvBuzi2YYt54",
-      "id": "v6Uuo7wKR5s",
-      "snippet": {
-        "publishedAt": "2025-09-23T00:36:49Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Setting up the ATAS-120 in the Backyard! #atas120 #yaesu #magiccarpet #ft891 #hamradio",
-        "description": "We test the ATAS-120A in the Backyard before setting up the Mobile Installation.   Does it tune on the Magic Carpet?  Well... Kinda.   40m was close to 2swr, and 20m was picky.   \n\nYaesu FT-891 and ATAS-120A get installed in the truck this week!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v6Uuo7wKR5s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v6Uuo7wKR5s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v6Uuo7wKR5s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v6Uuo7wKR5s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v6Uuo7wKR5s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Setting up the ATAS-120 in the Backyard! #atas120 #yaesu #magiccarpet #ft891 #hamradio",
-          "description": "We test the ATAS-120A in the Backyard before setting up the Mobile Installation.   Does it tune on the Magic Carpet?  Well... Kinda.   40m was close to 2swr, and 20m was picky.   \n\nYaesu FT-891 and ATAS-120A get installed in the truck this week!"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "988",
-        "likeCount": "18",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VjNo2Jgxp8muWWh8CcT-RoO9F5o",
-      "id": "H5A6-CDjR70",
-      "snippet": {
-        "publishedAt": "2025-09-22T19:55:49Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Installing the Nelson EFHW 80\u201310m Antenna (Rate My Throw!) #shorts",
-        "description": "\ud83d\udd27 Installing the Nelson Antennas UJM-EFHW-80-10 (80\u201310m, 200W). Solid build, covers the low bands I was missing. Bonus: you can rate my arborist throw \ud83e\udd23\ud83c\udf32\ud83c\udfaf @\n#HamRadio #AmateurRadio #HFHamRadio #HamRadioAntenna #EndFedHalfWave #EFHW #AntennaInstall #80Meters #DXCommander #HamRadioLife #RadioFun #POTA #CQDX #RadioHobby",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/H5A6-CDjR70/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/H5A6-CDjR70/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/H5A6-CDjR70/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/H5A6-CDjR70/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/H5A6-CDjR70/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Installing the Nelson EFHW 80\u201310m Antenna (Rate My Throw!) #shorts",
-          "description": "\ud83d\udd27 Installing the Nelson Antennas UJM-EFHW-80-10 (80\u201310m, 200W). Solid build, covers the low bands I was missing. Bonus: you can rate my arborist throw \ud83e\udd23\ud83c\udf32\ud83c\udfaf @\n#HamRadio #AmateurRadio #HFHamRadio #HamRadioAntenna #EndFedHalfWave #EFHW #AntennaInstall #80Meters #DXCommander #HamRadioLife #RadioFun #POTA #CQDX #RadioHobby"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "434",
-        "likeCount": "16",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aS5xchCW41GxWjb3feQ56jYr7qI",
-      "id": "vs3a5be-Ot4",
-      "snippet": {
-        "publishedAt": "2025-09-21T18:38:19Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "K8JKU Connects with Scotland on 10 Meters! #shorts",
-        "description": "The 10 meter band is alive and full of surprises! In this QSO, I (K8JKU) reach across the pond and connect with MM0TFU in Scotland. DX is always fun when the bands open up! #HamRadio #AmateurRadio #DX #10Meters #HamRadioDX #K8JKU #MM0TFU #RadioFun #POTA #CQDX #HF",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vs3a5be-Ot4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vs3a5be-Ot4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vs3a5be-Ot4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vs3a5be-Ot4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vs3a5be-Ot4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "#HamRadio",
-          "#AmateurRadio",
-          "#DX",
-          "#10Meters",
-          "#HamRadioDX",
-          "#K8JKU",
-          "#MM0TFU",
-          "#RadioFun",
-          "#POTA",
-          "#CQDX",
-          "#HF",
-          "#Shortwave",
-          "#QSO",
-          "#HFRadio",
-          "#RadioContact",
-          "#WorldwideDX",
-          "#DXing",
-          "#HamRadioLife",
-          "#HamRadioFun"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K8JKU Connects with Scotland on 10 Meters! #shorts",
-          "description": "The 10 meter band is alive and full of surprises! In this QSO, I (K8JKU) reach across the pond and connect with MM0TFU in Scotland. DX is always fun when the bands open up! #HamRadio #AmateurRadio #DX #10Meters #HamRadioDX #K8JKU #MM0TFU #RadioFun #POTA #CQDX #HF"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "452",
-        "likeCount": "21",
-        "favoriteCount": "0",
-        "commentCount": "2"
       }
     }
   ]

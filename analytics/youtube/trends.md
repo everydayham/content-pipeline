@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-02-02 14:25 UTC*
+*Last updated: 2026-02-09 12:51 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Dumpster Antenna!! Insp: @hamradiotube 🔥 #hamradio... | Hobby Steve  | 1,726,610 | 2026-01-27 |
-| Periya kamal pota nala ilala enaku🤣🤣✅⁉️#food #mini... | From Orae Kudumbam | 1,605,086 | 2026-01-29 |
-| Sculpture Antenna 🔥🔥 #hamradio #hamradioamateur #e... | Hobby Steve  | 884,513 | 2026-01-30 |
-| Bu Dev Pota Büyülü 🏀 | Ben Ve O + | 866,938 | 2026-01-31 |
-| Enaku Ponnu Getup pota Epadi irukum🤔💄🤩 #youtube | Cicijovel Arashiba | 780,367 | 2026-01-28 |
-| Test chậu cây hoa văn trống đồng siêu bền trên mạn... | Đàm Đức Review | 620,795 | 2026-01-31 |
-| 無断転載の方が本物だと思われたんだが！？ | そーた の暇つぶし | 416,595 | 2026-01-28 |
-| @ principal ka pota hu me #comedy #viral | VFX ALPHA | 374,513 | 2026-01-29 |
-| Hey Man Nice.... (pt.5) #hamradio #morsecode #prac... | Radio Roamers | 342,355 | 2026-01-26 |
-| The metal fence antenna! #hamradio #hamradioamateu... | Hobby Steve  | 293,462 | 2026-01-31 |
-| Lamp Post Antenna!! 🤣#hamradio #hamradioamateur #e... | Hobby Steve  | 270,768 | 2026-01-28 |
-| Gutter antenna 🔥🔥🔥 #hamradio #experement #hfradio ... | Hobby Steve  | 217,900 | 2026-01-26 |
-| LIVE: Emergency Action Messages Alert! Ham Radio M... | The Global Crisis Wa | 213,844 | 2026-01-29 |
-| Florida Surgeon General Revokes Nurse’s License#sh... | TREND PULSE NET | 195,750 | 2026-01-29 |
-| Gharwalo ka naam roshan kardiya 😎 most viral comed... | Bihari Ladka | 155,549 | 2026-02-02 |
-| SOTA,MANATO,SHOTA 🌹 ocean live BMSG FES 25 彼らの声は信じ... | NINA_BESTY | 149,506 | 2026-01-29 |
-| 癖すぎて思わず破壊されるイラスト爆誕したｗｗ | そーた の暇つぶし | 139,554 | 2026-02-01 |
-| Ghare betha vano pota no malik | ajayyy_1508 | 135,415 | 2026-02-01 |
-| The Barn Antenna 🤣🔥#hamradio #hamradioamateur #exp... | Hobby Steve  | 127,640 | 2026-01-29 |
-| Morse Code Number Practice #hamradio #morsecode #p... | Radio Roamers | 123,674 | 2026-01-29 |
-| 【 BE:FIRST 】 SOTA …近いです #BEFIRST #BEFIRSTXBESTY #S... | まる【 BE:FIRST 切り抜き】 | 91,831 | 2026-01-27 |
-| Jab insaan sota hai ❤️‍🩹🥹 ... #abusaad #youthclubi... | Md Asif | 87,693 | 2026-01-27 |
-| #principal #ka# pota# hai #cheating# mein #to #dab... | Vi animal cat | 46,828 | 2026-01-30 |
-| LATEST COMEDY VIDEO || KUDI BULAW DAK DUL || MAHLA... | Kailash Hansdak Offi | 45,841 | 2026-01-28 |
-| pota hone ki Khushi mein dadaji Ne Guru ji ka swag... | Lal Dhage Sarkar Mus | 45,217 | 2026-02-01 |
+| Akhir Don or bander kb tk sota rhy ga😳 #chotaalivl... | anasalivlogsx | 3,268,610 | 2026-02-03 |
+| mettiudan na pota mehendi evlo Azhagu #mehndi #sho... | suji mehandhi arts  | 1,024,711 | 2026-02-07 |
+| apka pet bhi sota hai 🤣🤣 #jaatni #reelitfeelit #ex... | Manish bhatia | 283,479 | 2026-02-08 |
+| Dadi And Pota Poti   Indian Dadi in Winters   Gran... | hamhum | 258,870 | 2026-02-07 |
+| Kahan Ka Pota Hai Yeh..?? #areejmohyuddin #hariswa... | Multiverse Entertain | 220,284 | 2026-02-06 |
+| Chaman Dada Ka Pota in 2050 Be Like 😂🚀| indian fam... | yoyo  | 210,462 | 2026-02-07 |
+| Park activated with stop sign! 🛑 #hamradio #hamrad... | Hobby Steve  | 205,015 | 2026-02-03 |
+| Русские - дураки, всё очень плохо! Россияне о 4 го... | sotavision | 176,176 | 2026-02-07 |
+| I want Pota😅❤️ #trending #viralshort | Maani Edits | 155,826 | 2026-02-03 |
+| Shopping cart antenna! IT WORKS! #hamradio #hamrad... | Hobby Steve  | 147,262 | 2026-02-04 |
+| Dada Pota ki love cute c love story 😍😍 #khushvikwi... | Khushvik with Pakhi | 105,865 | 2026-02-05 |
+| Chicken pota fry  #food #cook #hijab #foodie #cook... | Cookwithhijab | 105,213 | 2026-02-05 |
+| SOTA HANAMURA /「Me.exe」Music Video | Da-iCE | 98,574 | 2026-02-06 |
+| BE:FIRST全員集結！SOTA、SHUNTO、MANATO、RYUHEI、JUNON、LEOが登... | シネマトゥデイ | 88,530 | 2026-02-08 |
+| BE:FIRST全員集合！RYUHEIの“変貌っぷり”をSOTAにイジられ赤面　新体制でメンバーの絆... | oricon | 76,159 | 2026-02-08 |
+| pati aur boyfriend milkar sota tha Nitish nirala v... | Nitish nirala vlog | 63,454 | 2026-02-03 |
+| SOTA通常動作モード??? 🌹🐬『カリスマ』どう書くんだろうwww | NINA_BESTY | 60,014 | 2026-02-06 |
+| Practice Morse Code with a Straight Key and CW Pok... | REVIL1337 | 56,082 | 2026-02-03 |
+| BAOFENG AR-152 PRO Ham Radio #hamradio | contra1981 | 48,515 | 2026-02-02 |
+| Indian Dadi And Pota 😭💔 #shorts #comedy #funny #vi... | virajdhali | 47,607 | 2026-02-07 |
+| 기술사 자격증 1년만에 딸수있다면? | 예, 소방입니다 | 40,230 | 2026-02-06 |
+| New JPC 7. I’m liking it! #hamradio #hamradioamate... | Hobby Steve  | 39,383 | 2026-02-05 |
+| CEVICHE Y CHICHARRON DE POTA | COCINANDO CON NELLY... | Nelly Rossinelli | 37,796 | 2026-02-04 |
+| Stop Sign Antenna 🛑🔥#hamradio #hamradioamateur #ex... | Hobby Steve  | 36,060 | 2026-02-02 |
+| Kambodża Pol Pota  Ludobójstwo które narodziło ... | Zakazane Historie | 29,537 | 2026-02-06 |
 
 ---
 
@@ -42,12 +42,12 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (29 videos)
-- **License/Learning**: ████████████████████ (24 videos)
-- **Antennas**: ███████████████████ (19 videos)
-- **HF Operating**: ██████████████████ (18 videos)
-- **Digital Modes**: ████████ (8 videos)
-- **Gear Reviews**: ██████ (6 videos)
+- **POTA/Portable**: ████████████████████ (32 videos)
+- **License/Learning**: ████████████████████ (28 videos)
+- **HF Operating**: ████████████████████ (21 videos)
+- **Antennas**: ██████████████████ (18 videos)
+- **Gear Reviews**: ████████████ (12 videos)
+- **Digital Modes**: █████ (5 videos)
 - **QRP**: █████ (5 videos)
 - **Contests**: █ (1 videos)
 

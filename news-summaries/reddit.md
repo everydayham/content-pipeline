@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-09 11:49 UTC*
+*Last updated: 2026-02-10 11:53 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qtvt74/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r04y50/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Need informations on my grandpa set up pls](https://www.reddit.com/r/amateurradio/comments/1qzfolt/need_informations_on_my_grandpa_set_up_pls/)**
-by u/Appropriate-Head7930
+**3. [Vintage radio](https://www.reddit.com/r/amateurradio/comments/1r0omrs/vintage_radio/)**
+by u/theurbanm3chanic
 
-**4. [Inherited gear. What exactly am I looking at here? What sort of band would this ...](https://www.reddit.com/r/amateurradio/comments/1qzxppk/inherited_gear_what_exactly_am_i_looking_at_here/)**
-by u/___Revenant___
+**4. [My UV-5R Mini DigiPi setup](https://www.reddit.com/r/amateurradio/comments/1r092pb/my_uv5r_mini_digipi_setup/)**
+by u/AmnChode
 
-**5. [Copper J Pole VS Comet Vertical?](https://www.reddit.com/r/amateurradio/comments/1qzp7yv/copper_j_pole_vs_comet_vertical/)**
-by u/Engineering_Simple
+**5. [Politics in ham radio](https://www.reddit.com/r/amateurradio/comments/1r06er4/politics_in_ham_radio/)**
+by u/NekkedMoleRat
 
-**6. [QMX+ 12V power source](https://www.reddit.com/r/amateurradio/comments/1qznamh/qmx_12v_power_source/)**
-by u/nerdariffic
+**6. [Any tr uSDX owners out there? What am I doing wrong?](https://www.reddit.com/r/amateurradio/comments/1r0m67s/any_tr_usdx_owners_out_there_what_am_i_doing_wrong/)**
+by u/CplStigginsUSMC
 
-**7. [Best study guide?](https://www.reddit.com/r/amateurradio/comments/1qzst67/best_study_guide/)**
-by u/Global_Thought_
+**7. [CW transceiver advice](https://www.reddit.com/r/amateurradio/comments/1r0yjjx/cw_transceiver_advice/)**
+by u/Professional_Cap1882
 
-**8. [Epic POTA day today!](https://www.reddit.com/r/amateurradio/comments/1qz2t2g/epic_pota_day_today/)**
-by u/anton1s
+**8. [Come instradare e rendere visibile sulla mappa comune OPENWEBRX](https://www.reddit.com/r/amateurradio/comments/1r0ybqv/come_instradare_e_rendere_visibile_sulla_mappa/)**
+by u/_S1mone
 
-**9. [Teaching younger kids](https://www.reddit.com/r/amateurradio/comments/1qzj7aj/teaching_younger_kids/)**
-by u/LothiatDaWiz
+**9. [Radios that don't require an outdoor antenna tower](https://www.reddit.com/r/amateurradio/comments/1r0fggr/radios_that_dont_require_an_outdoor_antenna_tower/)**
+by u/hissingowl
 
-**10. [Baofeng Logo Flasher](https://www.reddit.com/r/amateurradio/comments/1qzqkee/baofeng_logo_flasher/)**
+**10. [Antenna ID help: Joshua Tree National Park Cottonwood Visitor center](https://www.reddit.com/r/amateurradio/comments/1r0kn2e/antenna_id_help_joshua_tree_national_park/)**
+by u/ShmazPro
+
+**11. [How does this clock work?](https://www.reddit.com/r/amateurradio/comments/1r0d3mm/how_does_this_clock_work/)**
+by u/MrSwagUnited
+
+**12. [Longest Lines-of-Sight in the World](https://www.reddit.com/r/amateurradio/comments/1r09x0c/longest_linesofsight_in_the_world/)**
+by u/kawfey
+
+**13. [QSL card design](https://www.reddit.com/r/amateurradio/comments/1r0i3yg/qsl_card_design/)**
+by u/teh_maxh
+
+**14. [Web-based Baofeng Logo Flasher (Chrome / Web Serial)](https://www.reddit.com/r/amateurradio/comments/1r0rgfh/webbased_baofeng_logo_flasher_chrome_web_serial/)**
 by u/Constant-Produce7182
 
-**11. [How can I not ALWAYS click on the wrong station I want to call on FT8?](https://www.reddit.com/r/amateurradio/comments/1qze9av/how_can_i_not_always_click_on_the_wrong_station_i/)**
-by u/Well_Sorted8173
-
-**12. [Starting radio](https://www.reddit.com/r/amateurradio/comments/1qzucyl/starting_radio/)**
-by u/KantankerousHazard
-
-**13. [Just worked my first POTA.](https://www.reddit.com/r/amateurradio/comments/1qysu5z/just_worked_my_first_pota/)**
-by u/Blueberry_Mancakes
-
-**14. [Hamcation 2026](https://www.reddit.com/r/amateurradio/comments/1qz9wyp/hamcation_2026/)**
-by u/electragician
-
-**15. [Xts2500](https://www.reddit.com/r/amateurradio/comments/1qzuupb/xts2500/)**
-by u/Mehle90
+**15. [HF+ discovery Airspy SDR# software FFT spectrum waves go up and down bounce all ...](https://www.reddit.com/r/amateurradio/comments/1r0lllj/hf_discovery_airspy_sdr_software_fft_spectrum/)**
+by u/SpiritualTadpole4269
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Epic POTA day today! US-1178 Marin County](https://www.reddit.com/r/HamRadio/comments/1qz2v78/epic_pota_day_today_us1178_marin_county/)**
-by u/anton1s
+**3. [I printed a DIY Yagi Mount for a PA Speaker stand.](https://www.reddit.com/r/HamRadio/comments/1r0c9g7/i_printed_a_diy_yagi_mount_for_a_pa_speaker_stand/)**
+by u/Impossible_Apple7105
 
-**4. [Python based Baofeng Radio Logo Flasher](https://www.reddit.com/r/HamRadio/comments/1qzqmkf/python_based_baofeng_radio_logo_flasher/)**
+**4. [Dalton Amateur Radio Club’s 44th annual HamFest - Feb 28th.](https://www.reddit.com/r/HamRadio/comments/1r0qlwu/dalton_amateur_radio_clubs_44th_annual_hamfest/)**
+by u/ciendagrace
+
+**5. ['Intrusive' 13m Radio Mast Plan Thrown Out After Backlash](https://www.reddit.com/r/HamRadio/comments/1r0nsgw/intrusive_13m_radio_mast_plan_thrown_out_after/)**
+by u/SharkSapphire
+
+**6. [Need a Handheld radio with Air band capabilities](https://www.reddit.com/r/HamRadio/comments/1r0tnw1/need_a_handheld_radio_with_air_band_capabilities/)**
+by u/UnableEmployee1296
+
+**7. [Taking my license exams next month. I’m looking for input so that I can budget f...](https://www.reddit.com/r/HamRadio/comments/1r09iu6/taking_my_license_exams_next_month_im_looking_for/)**
+by u/Mission_Platypus102
+
+**8. [Web-based Baofeng Logo Flasher (Chrome / Web Serial)](https://www.reddit.com/r/HamRadio/comments/1r0rep0/webbased_baofeng_logo_flasher_chrome_web_serial/)**
 by u/Constant-Produce7182
 
-**5. [XTS 2500 hotspot confusion. Please explain lol](https://www.reddit.com/r/HamRadio/comments/1qzwur2/xts_2500_hotspot_confusion_please_explain_lol/)**
+**9. [Help with bricked radio Please quansheng uv k5 99](https://www.reddit.com/r/HamRadio/comments/1r0hemf/help_with_bricked_radio_please_quansheng_uv_k5_99/)**
+by u/Dependent-Farmer-922
+
+**10. [Losses in using antenna connectors](https://www.reddit.com/r/HamRadio/comments/1r06y7t/losses_in_using_antenna_connectors/)**
+by u/Chance_Hovercraft878
+
+**11. [Antenna Wire Question - extra coax](https://www.reddit.com/r/HamRadio/comments/1r0b17y/antenna_wire_question_extra_coax/)**
+by u/goinghome81
+
+**12. [Python based Baofeng Radio Logo Flasher](https://www.reddit.com/r/HamRadio/comments/1qzqmkf/python_based_baofeng_radio_logo_flasher/)**
+by u/Constant-Produce7182
+
+**13. [XTS 2500 hotspot confusion. Please explain lol](https://www.reddit.com/r/HamRadio/comments/1qzwur2/xts_2500_hotspot_confusion_please_explain_lol/)**
 by u/Mehle90
 
-**6. [Finding A Low Frequency Amplifier](https://www.reddit.com/r/HamRadio/comments/1qzpakh/finding_a_low_frequency_amplifier/)**
-by u/DV8Always
+**14. [Epic POTA day today! US-1178 Marin County](https://www.reddit.com/r/HamRadio/comments/1qz2v78/epic_pota_day_today_us1178_marin_county/)**
+by u/anton1s
 
-**7. [QMX Digi mode Low SNR Infos (FT8)](https://www.reddit.com/r/HamRadio/comments/1qzbx9q/qmx_digi_mode_low_snr_infos_ft8/)**
+**15. [QMX Digi mode Low SNR Infos (FT8)](https://www.reddit.com/r/HamRadio/comments/1qzbx9q/qmx_digi_mode_low_snr_infos_ft8/)**
 by u/nobsle
-
-**8. [DMR net idea for r/HamRadio: regular technical discussions](https://www.reddit.com/r/HamRadio/comments/1qzl0b1/dmr_net_idea_for_rhamradio_regular_technical/)**
-by u/SharkSapphire
-
-**9. [EFHW Construction Questions and Schematic](https://www.reddit.com/r/HamRadio/comments/1qzn8gx/efhw_construction_questions_and_schematic/)**
-by u/LumpyConversation706
-
-**10. [Opinion and possible suggestions on HF setup being deployed at my college.](https://www.reddit.com/r/HamRadio/comments/1qz9bjs/opinion_and_possible_suggestions_on_hf_setup/)**
-by u/DEMON_LYNX7
-
-**11. [DIY project for boat mounted VHF/uhf ham antenna](https://www.reddit.com/r/HamRadio/comments/1qzex9l/diy_project_for_boat_mounted_vhfuhf_ham_antenna/)**
-by u/Accurate_Air_7712
-
-**12. [UV-5R mini, an upgrade over my old UV-5R](https://www.reddit.com/r/HamRadio/comments/1qyvjgn/uv5r_mini_an_upgrade_over_my_old_uv5r/)**
-by u/MadIntroduction
-
-**13. [While surfing the 2 meter band, I came across this strange frequency (Veneto, It...](https://www.reddit.com/r/HamRadio/comments/1qz87sr/while_surfing_the_2_meter_band_i_came_across_this/)**
-by u/Top_Gamer_A
-
-**14. [USS Pueblo veteran tells his story at Hill Country Amateur Radio Club meeting](https://www.reddit.com/r/HamRadio/comments/1qzffof/uss_pueblo_veteran_tells_his_story_at_hill/)**
-by u/SharkSapphire
-
-**15. [Trying to make first QSO in Ireland on Baofeng to no avail](https://www.reddit.com/r/HamRadio/comments/1qzae14/trying_to_make_first_qso_in_ireland_on_baofeng_to/)**
-by u/Gold-Dog-4254
 
 ---
 
@@ -108,16 +108,16 @@ by u/Gold-Dog-4254
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1qtvt74/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r04y50/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Need informations on my grandpa set up pls](https://www.reddit.com/r/amateurradio/comments/1qzfolt/need_informations_on_my_grandpa_set_up_pls/)** (r/amateurradio)
-- **[Inherited gear. What exactly am I looking at here? What sort of band w...](https://www.reddit.com/r/amateurradio/comments/1qzxppk/inherited_gear_what_exactly_am_i_looking_at_here/)** (r/amateurradio)
-- **[Copper J Pole VS Comet Vertical?](https://www.reddit.com/r/amateurradio/comments/1qzp7yv/copper_j_pole_vs_comet_vertical/)** (r/amateurradio)
-- **[QMX+ 12V power source](https://www.reddit.com/r/amateurradio/comments/1qznamh/qmx_12v_power_source/)** (r/amateurradio)
-- **[Best study guide?](https://www.reddit.com/r/amateurradio/comments/1qzst67/best_study_guide/)** (r/amateurradio)
-- **[Epic POTA day today!](https://www.reddit.com/r/amateurradio/comments/1qz2t2g/epic_pota_day_today/)** (r/amateurradio)
-- **[Teaching younger kids](https://www.reddit.com/r/amateurradio/comments/1qzj7aj/teaching_younger_kids/)** (r/amateurradio)
-- **[Baofeng Logo Flasher](https://www.reddit.com/r/amateurradio/comments/1qzqkee/baofeng_logo_flasher/)** (r/amateurradio)
+- **[Vintage radio](https://www.reddit.com/r/amateurradio/comments/1r0omrs/vintage_radio/)** (r/amateurradio)
+- **[My UV-5R Mini DigiPi setup](https://www.reddit.com/r/amateurradio/comments/1r092pb/my_uv5r_mini_digipi_setup/)** (r/amateurradio)
+- **[Politics in ham radio](https://www.reddit.com/r/amateurradio/comments/1r06er4/politics_in_ham_radio/)** (r/amateurradio)
+- **[Any tr uSDX owners out there? What am I doing wrong?](https://www.reddit.com/r/amateurradio/comments/1r0m67s/any_tr_usdx_owners_out_there_what_am_i_doing_wrong/)** (r/amateurradio)
+- **[CW transceiver advice](https://www.reddit.com/r/amateurradio/comments/1r0yjjx/cw_transceiver_advice/)** (r/amateurradio)
+- **[Come instradare e rendere visibile sulla mappa comune OPENWEBRX](https://www.reddit.com/r/amateurradio/comments/1r0ybqv/come_instradare_e_rendere_visibile_sulla_mappa/)** (r/amateurradio)
+- **[Radios that don't require an outdoor antenna tower](https://www.reddit.com/r/amateurradio/comments/1r0fggr/radios_that_dont_require_an_outdoor_antenna_tower/)** (r/amateurradio)
+- **[Antenna ID help: Joshua Tree National Park Cottonwood Visitor center](https://www.reddit.com/r/amateurradio/comments/1r0kn2e/antenna_id_help_joshua_tree_national_park/)** (r/amateurradio)
 
 ---
 

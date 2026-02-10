@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-09T11:49:47.187387",
+  "updated": "2026-02-10T11:53:33.735691",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qtvt74/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r04y50/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,89 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Need informations on my grandpa set up pls",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzfolt/need_informations_on_my_grandpa_set_up_pls/",
-        "author": "/u/Appropriate-Head7930"
+        "title": "Vintage radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0omrs/vintage_radio/",
+        "author": "/u/theurbanm3chanic"
+      },
+      {
+        "title": "My UV-5R Mini DigiPi setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r092pb/my_uv5r_mini_digipi_setup/",
+        "author": "/u/AmnChode"
+      },
+      {
+        "title": "Politics in ham radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r06er4/politics_in_ham_radio/",
+        "author": "/u/NekkedMoleRat"
+      },
+      {
+        "title": "Any tr uSDX owners out there? What am I doing wrong?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0m67s/any_tr_usdx_owners_out_there_what_am_i_doing_wrong/",
+        "author": "/u/CplStigginsUSMC"
+      },
+      {
+        "title": "CW transceiver advice",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0yjjx/cw_transceiver_advice/",
+        "author": "/u/Professional_Cap1882"
+      },
+      {
+        "title": "Come instradare e rendere visibile sulla mappa comune OPENWEBRX",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0ybqv/come_instradare_e_rendere_visibile_sulla_mappa/",
+        "author": "/u/_S1mone"
+      },
+      {
+        "title": "Radios that don't require an outdoor antenna tower",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0fggr/radios_that_dont_require_an_outdoor_antenna_tower/",
+        "author": "/u/hissingowl"
+      },
+      {
+        "title": "Antenna ID help: Joshua Tree National Park Cottonwood Visitor center",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0kn2e/antenna_id_help_joshua_tree_national_park/",
+        "author": "/u/ShmazPro"
+      },
+      {
+        "title": "How does this clock work?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0d3mm/how_does_this_clock_work/",
+        "author": "/u/MrSwagUnited"
+      },
+      {
+        "title": "Longest Lines-of-Sight in the World",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r09x0c/longest_linesofsight_in_the_world/",
+        "author": "/u/kawfey"
+      },
+      {
+        "title": "QSL card design",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0i3yg/qsl_card_design/",
+        "author": "/u/teh_maxh"
+      },
+      {
+        "title": "Web-based Baofeng Logo Flasher (Chrome / Web Serial)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0rgfh/webbased_baofeng_logo_flasher_chrome_web_serial/",
+        "author": "/u/Constant-Produce7182"
+      },
+      {
+        "title": "HF+ discovery Airspy SDR# software FFT spectrum waves go up and down bounce all the time?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0lllj/hf_discovery_airspy_sdr_software_fft_spectrum/",
+        "author": "/u/SpiritualTadpole4269"
+      },
+      {
+        "title": "What's the eaziest antenna to build to receive HF with an rtlsdr v3v",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r08ytu/whats_the_eaziest_antenna_to_build_to_receive_hf/",
+        "author": "/u/Charming_Public_2283"
+      },
+      {
+        "title": "Is there a QRP spotting service where I can drive traffic to my feeble non-POTA park QRP signal?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r04y9r/is_there_a_qrp_spotting_service_where_i_can_drive/",
+        "author": "/u/SpecialDesigner5571"
+      },
+      {
+        "title": "HT in the vehicle",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r05z0z/ht_in_the_vehicle/",
+        "author": "/u/CtnJack"
+      },
+      {
+        "title": "VHF/UHF POTA",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0a78y/vhfuhf_pota/",
+        "author": "/u/Zippoman924"
       },
       {
         "title": "Inherited gear. What exactly am I looking at here? What sort of band would this be for?",
@@ -27,109 +107,29 @@
         "author": "/u/___Revenant___"
       },
       {
-        "title": "Copper J Pole VS Comet Vertical?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzp7yv/copper_j_pole_vs_comet_vertical/",
+        "title": "Weatherproofing coax with flex seal",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0bnsw/weatherproofing_coax_with_flex_seal/",
+        "author": "/u/t81843"
+      },
+      {
+        "title": "Comet GI990 Mobile Mount",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r06axz/comet_gi990_mobile_mount/",
+        "author": "/u/RobinHoodsGatsby"
+      },
+      {
+        "title": "RepeaterBook giving conflicting info? (Android vs iOS)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0kkt1/repeaterbook_giving_conflicting_info_android_vs/",
         "author": "/u/Engineering_Simple"
       },
       {
-        "title": "QMX+ 12V power source",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qznamh/qmx_12v_power_source/",
-        "author": "/u/nerdariffic"
+        "title": "Help with new handheldradio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0jz52/help_with_new_handheldradio/",
+        "author": "/u/Cerovi"
       },
       {
-        "title": "Best study guide?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzst67/best_study_guide/",
-        "author": "/u/Global_Thought_"
-      },
-      {
-        "title": "Epic POTA day today!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qz2t2g/epic_pota_day_today/",
-        "author": "/u/anton1s"
-      },
-      {
-        "title": "Teaching younger kids",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzj7aj/teaching_younger_kids/",
-        "author": "/u/LothiatDaWiz"
-      },
-      {
-        "title": "Baofeng Logo Flasher",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzqkee/baofeng_logo_flasher/",
-        "author": "/u/Constant-Produce7182"
-      },
-      {
-        "title": "How can I not ALWAYS click on the wrong station I want to call on FT8?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qze9av/how_can_i_not_always_click_on_the_wrong_station_i/",
-        "author": "/u/Well_Sorted8173"
-      },
-      {
-        "title": "Starting radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzucyl/starting_radio/",
-        "author": "/u/KantankerousHazard"
-      },
-      {
-        "title": "Just worked my first POTA.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qysu5z/just_worked_my_first_pota/",
-        "author": "/u/Blueberry_Mancakes"
-      },
-      {
-        "title": "Hamcation 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qz9wyp/hamcation_2026/",
-        "author": "/u/electragician"
-      },
-      {
-        "title": "Xts2500",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzuupb/xts2500/",
-        "author": "/u/Mehle90"
-      },
-      {
-        "title": "FT-70D battery alternatives",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzq091/ft70d_battery_alternatives/",
-        "author": "/u/Engineering_Simple"
-      },
-      {
-        "title": "Looking to power a portable ground station.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qznl22/looking_to_power_a_portable_ground_station/",
-        "author": "/u/Impressive_Guava_119"
-      },
-      {
-        "title": "EFRW lengths",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzldoo/efrw_lengths/",
-        "author": "/u/Tiny-Magazine8114"
-      },
-      {
-        "title": "420 and radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qyxzq1/420_and_radio/",
-        "author": "/u/neovim_"
-      },
-      {
-        "title": "New dynamic antenna.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qz2ila/new_dynamic_antenna/",
-        "author": "/u/DoughnutRelevant9798"
-      },
-      {
-        "title": "Antenna placement",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzmn86/antenna_placement/",
-        "author": "/u/engineer1407"
-      },
-      {
-        "title": "Don't forget about 12m!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qynmg8/dont_forget_about_12m/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "QMX Digi mode Low SNR Infos (FT8)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzcfj2/qmx_digi_mode_low_snr_infos_ft8/",
-        "author": "/u/nobsle"
-      },
-      {
-        "title": "Tuner recommendation?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzb1hk/tuner_recommendation/",
-        "author": "/u/mr_noun"
-      },
-      {
-        "title": "GlanceRF - v0.5 released - Looking for testers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1qzjosr/glancerf_v05_released_looking_for_testers/",
-        "author": "/u/pomtom44"
+        "title": "Hermes Lite 2 w/ Thetis? Remote ham operation?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r0cw1h/hermes_lite_2_w_thetis_remote_ham_operation/",
+        "author": "/u/pancakeman2018"
       }
     ],
     "HamRadio": [
@@ -144,9 +144,49 @@
         "author": "/u/SharkSapphire"
       },
       {
-        "title": "Epic POTA day today! US-1178 Marin County",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qz2v78/epic_pota_day_today_us1178_marin_county/",
-        "author": "/u/anton1s"
+        "title": "I printed a DIY Yagi Mount for a PA Speaker stand.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0c9g7/i_printed_a_diy_yagi_mount_for_a_pa_speaker_stand/",
+        "author": "/u/Impossible_Apple7105"
+      },
+      {
+        "title": "Dalton Amateur Radio Club\u2019s 44th annual HamFest - Feb 28th.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0qlwu/dalton_amateur_radio_clubs_44th_annual_hamfest/",
+        "author": "/u/ciendagrace"
+      },
+      {
+        "title": "'Intrusive' 13m Radio Mast Plan Thrown Out After Backlash",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0nsgw/intrusive_13m_radio_mast_plan_thrown_out_after/",
+        "author": "/u/SharkSapphire"
+      },
+      {
+        "title": "Need a Handheld radio with Air band capabilities",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0tnw1/need_a_handheld_radio_with_air_band_capabilities/",
+        "author": "/u/UnableEmployee1296"
+      },
+      {
+        "title": "Taking my license exams next month. I\u2019m looking for input so that I can budget for my first base station set up.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r09iu6/taking_my_license_exams_next_month_im_looking_for/",
+        "author": "/u/Mission_Platypus102"
+      },
+      {
+        "title": "Web-based Baofeng Logo Flasher (Chrome / Web Serial)",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0rep0/webbased_baofeng_logo_flasher_chrome_web_serial/",
+        "author": "/u/Constant-Produce7182"
+      },
+      {
+        "title": "Help with bricked radio Please quansheng uv k5 99",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0hemf/help_with_bricked_radio_please_quansheng_uv_k5_99/",
+        "author": "/u/Dependent-Farmer-922"
+      },
+      {
+        "title": "Losses in using antenna connectors",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r06y7t/losses_in_using_antenna_connectors/",
+        "author": "/u/Chance_Hovercraft878"
+      },
+      {
+        "title": "Antenna Wire Question - extra coax",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r0b17y/antenna_wire_question_extra_coax/",
+        "author": "/u/goinghome81"
       },
       {
         "title": "Python based Baofeng Radio Logo Flasher",
@@ -159,9 +199,9 @@
         "author": "/u/Mehle90"
       },
       {
-        "title": "Finding A Low Frequency Amplifier",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzpakh/finding_a_low_frequency_amplifier/",
-        "author": "/u/DV8Always"
+        "title": "Epic POTA day today! US-1178 Marin County",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1qz2v78/epic_pota_day_today_us1178_marin_county/",
+        "author": "/u/anton1s"
       },
       {
         "title": "QMX Digi mode Low SNR Infos (FT8)",
@@ -169,14 +209,14 @@
         "author": "/u/nobsle"
       },
       {
-        "title": "DMR net idea for r/HamRadio: regular technical discussions",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzl0b1/dmr_net_idea_for_rhamradio_regular_technical/",
-        "author": "/u/SharkSapphire"
-      },
-      {
         "title": "EFHW Construction Questions and Schematic",
         "link": "https://www.reddit.com/r/HamRadio/comments/1qzn8gx/efhw_construction_questions_and_schematic/",
         "author": "/u/LumpyConversation706"
+      },
+      {
+        "title": "DMR net idea for r/HamRadio: regular technical discussions",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1qzl0b1/dmr_net_idea_for_rhamradio_regular_technical/",
+        "author": "/u/SharkSapphire"
       },
       {
         "title": "Opinion and possible suggestions on HF setup being deployed at my college.",
@@ -184,24 +224,19 @@
         "author": "/u/DEMON_LYNX7"
       },
       {
-        "title": "DIY project for boat mounted VHF/uhf ham antenna",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzex9l/diy_project_for_boat_mounted_vhfuhf_ham_antenna/",
-        "author": "/u/Accurate_Air_7712"
-      },
-      {
         "title": "UV-5R mini, an upgrade over my old UV-5R",
         "link": "https://www.reddit.com/r/HamRadio/comments/1qyvjgn/uv5r_mini_an_upgrade_over_my_old_uv5r/",
         "author": "/u/MadIntroduction"
       },
       {
+        "title": "DIY project for boat mounted VHF/uhf ham antenna",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1qzex9l/diy_project_for_boat_mounted_vhfuhf_ham_antenna/",
+        "author": "/u/Accurate_Air_7712"
+      },
+      {
         "title": "While surfing the 2 meter band, I came across this strange frequency (Veneto, Italy)",
         "link": "https://www.reddit.com/r/HamRadio/comments/1qz87sr/while_surfing_the_2_meter_band_i_came_across_this/",
         "author": "/u/Top_Gamer_A"
-      },
-      {
-        "title": "USS Pueblo veteran tells his story at Hill Country Amateur Radio Club meeting",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzffof/uss_pueblo_veteran_tells_his_story_at_hill/",
-        "author": "/u/SharkSapphire"
       },
       {
         "title": "Trying to make first QSO in Ireland on Baofeng to no avail",
@@ -219,44 +254,9 @@
         "author": "/u/aaronhs"
       },
       {
-        "title": "Amateur radio: Estes Park Middle School students will compete next week",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzfchc/amateur_radio_estes_park_middle_school_students/",
+        "title": "USS Pueblo veteran tells his story at Hill Country Amateur Radio Club meeting",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1qzffof/uss_pueblo_veteran_tells_his_story_at_hill/",
         "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "Need help, trying to figure out what is wrong",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qzeebd/need_help_trying_to_figure_out_what_is_wrong/",
-        "author": "/u/kt_addy"
-      },
-      {
-        "title": "For those of you with mobile rigs in pickup trucks, are the antennas on top?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qypete/for_those_of_you_with_mobile_rigs_in_pickup/",
-        "author": "/u/rockproducer"
-      },
-      {
-        "title": "HF truck portable antenna/setup recommendations",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qz1gzr/hf_truck_portable_antennasetup_recommendations/",
-        "author": "/u/Skyler7381"
-      },
-      {
-        "title": "Ways to get more traffic net check-ins?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qyoc6n/ways_to_get_more_traffic_net_checkins/",
-        "author": "/u/__rainmaker"
-      },
-      {
-        "title": "Someone near me is selling a huge amount of ham stuff in craigslist. I only have a baofeng and rtlsdr right now. What would be a not too crazy step up in quality/skill",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qyjuwe/someone_near_me_is_selling_a_huge_amount_of_ham/",
-        "author": "/u/Death916"
-      },
-      {
-        "title": "XTS2500 P25 ACTING STRANGE. NEED HELP",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qz0457/xts2500_p25_acting_strange_need_help/",
-        "author": "/u/Mehle90"
-      },
-      {
-        "title": "What do you think of this dinosaur, the FDK Multi-2700?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1qxy7wz/what_do_you_think_of_this_dinosaur_the_fdk/",
-        "author": "/u/SoftCivil2494"
       }
     ]
   }

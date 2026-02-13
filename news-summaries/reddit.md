@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-12 11:42 UTC*
+*Last updated: 2026-02-13 11:34 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [An unnecessary but fun and cheap upgrade](https://www.reddit.com/r/amateurradio/comments/1r2qp4o/an_unnecessary_but_fun_and_cheap_upgrade/)**
+**3. [Shutdown and replacement of RCA 1kW AM broadcast transmitter that has been in se...](https://www.reddit.com/r/amateurradio/comments/1r38h72/shutdown_and_replacement_of_rca_1kw_am_broadcast/)**
+by u/kc2syk
+
+**4. [Nordkorea?](https://www.reddit.com/r/amateurradio/comments/1r3l115/nordkorea/)**
+by u/Either-Sorbet-6852
+
+**5. [An unnecessary but fun and cheap upgrade](https://www.reddit.com/r/amateurradio/comments/1r2qp4o/an_unnecessary_but_fun_and_cheap_upgrade/)**
 by u/Whole-Hat-2213
 
-**4. [Hey kit builders- could this chipped inductor cause issues?](https://www.reddit.com/r/amateurradio/comments/1r2fa26/hey_kit_builders_could_this_chipped_inductor/)**
-by u/tbrewo
+**6. [Got my license to be able to test active on my phased array radar system. Any re...](https://www.reddit.com/r/amateurradio/comments/1r3g2fd/got_my_license_to_be_able_to_test_active_on_my/)**
+by u/Careless-Age-4290
 
-**5. [What are all these antennas for?](https://www.reddit.com/r/amateurradio/comments/1r25v1i/what_are_all_these_antennas_for/)**
-by u/HalFWit
+**7. [What is this thing I found in my grandpa's old stuff. Is it still worth somethin...](https://www.reddit.com/r/amateurradio/comments/1r2t34n/what_is_this_thing_i_found_in_my_grandpas_old/)**
+by u/Anbrucken
 
-**6. [Where is my ground actually?](https://www.reddit.com/r/amateurradio/comments/1r2cf1f/where_is_my_ground_actually/)**
-by u/CaptainSpez
+**8. [Learned New Something Today - HF Broadcast Bands and CB Radio Free Bands](https://www.reddit.com/r/amateurradio/comments/1r2weh2/learned_new_something_today_hf_broadcast_bands/)**
+by u/Relative_Monitor9795
 
-**7. [I wish I didn't have to choose between a onboard band scope and buttons / no men...](https://www.reddit.com/r/amateurradio/comments/1r1riuh/i_wish_i_didnt_have_to_choose_between_a_onboard/)**
-by u/thehotshotpilot
+**9. [VHF micro antennas](https://www.reddit.com/r/amateurradio/comments/1r3mihe/vhf_micro_antennas/)**
+by u/EmergencyManager_555
 
-**8. [FreeDV](https://www.reddit.com/r/amateurradio/comments/1r2d6p6/freedv/)**
-by u/cmccarter
+**10. [HPARC Meeting 2026 02 11 2026](https://www.reddit.com/r/amateurradio/comments/1r3gc9i/hparc_meeting_2026_02_11_2026/)**
+by u/Toydriver
 
-**9. [Illegal 40M soundboard Transmissions - how common?](https://www.reddit.com/r/amateurradio/comments/1r1zpld/illegal_40m_soundboard_transmissions_how_common/)**
-by u/Slow281
+**11. [Unexpected VNA results](https://www.reddit.com/r/amateurradio/comments/1r3dqwx/unexpected_vna_results/)**
+by u/KhyberPasshole
 
-**10. [Yet Another Purchasing Question Post- sub $300](https://www.reddit.com/r/amateurradio/comments/1r2o7dj/yet_another_purchasing_question_post_sub_300/)**
-by u/Pinktiger11
+**12. [Anytone D578UV help](https://www.reddit.com/r/amateurradio/comments/1r3lk28/anytone_d578uv_help/)**
+by u/Hasteinsolitude
 
-**11. [First Morse code paddle?](https://www.reddit.com/r/amateurradio/comments/1r2a1ur/first_morse_code_paddle/)**
-by u/ExampleAfter1224
+**13. [Today is World Radio Day](https://www.reddit.com/r/amateurradio/comments/1r3lb3m/today_is_world_radio_day/)**
+by u/flwyd
 
-**12. [Flex Radio and a Linux version of Smart SDR](https://www.reddit.com/r/amateurradio/comments/1r2n5qq/flex_radio_and_a_linux_version_of_smart_sdr/)**
-by u/AttentionFar2574
+**14. [Lmr400](https://www.reddit.com/r/amateurradio/comments/1r2xaux/lmr400/)**
+by u/chevydude18
 
-**13. [HF on a budget question](https://www.reddit.com/r/amateurradio/comments/1r20pd4/hf_on_a_budget_question/)**
-by u/nshane
-
-**14. [Roof Mount Options](https://www.reddit.com/r/amateurradio/comments/1r2eg7c/roof_mount_options/)**
-by u/Cassera01
-
-**15. [Using what I've learned in ammeture radio in a practical way!](https://www.reddit.com/r/amateurradio/comments/1r18ih6/using_what_ive_learned_in_ammeture_radio_in_a/)**
-by u/EuphoricExpression21
+**15. [Crossed Dipole Question](https://www.reddit.com/r/amateurradio/comments/1r2vpao/crossed_dipole_question/)**
+by u/IwishIknew80
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Indiana BMV introduces license plate for licensed amateur radio operators](https://www.reddit.com/r/HamRadio/comments/1r2jr0r/indiana_bmv_introduces_license_plate_for_licensed/)**
+**3. [My first remote antenna switch for hf, with normally close to ground, 1.2swr@30m...](https://www.reddit.com/r/HamRadio/comments/1r3ms32/my_first_remote_antenna_switch_for_hf_with/)**
+by u/IU1LCU
+
+**4. [Help me identify a very old HF rig!](https://www.reddit.com/r/HamRadio/comments/1r35dqr/help_me_identify_a_very_old_hf_rig/)**
+by u/Cool-Office-9126
+
+**5. [Amazon lmr400. Anybody ever tried it?](https://www.reddit.com/r/HamRadio/comments/1r2xdh3/amazon_lmr400_anybody_ever_tried_it/)**
+by u/chevydude18
+
+**6. [Technician and General at the same time?](https://www.reddit.com/r/HamRadio/comments/1r3805b/technician_and_general_at_the_same_time/)**
+by u/Minute-Cellist-740
+
+**7. [Simple Effective CW 40 meter receiver](https://www.reddit.com/r/HamRadio/comments/1r3aygj/simple_effective_cw_40_meter_receiver/)**
+by u/Weekly_Narwhal1588
+
+**8. [Mesh protocol using WiFi, just created](https://www.reddit.com/r/HamRadio/comments/1r3c2ai/mesh_protocol_using_wifi_just_created/)**
+by u/Sorry-Watercress-737
+
+**9. [Im New to the radio hobby! Was wondering if anyone could point me to a simple ra...](https://www.reddit.com/r/HamRadio/comments/1r32uh9/im_new_to_the_radio_hobby_was_wondering_if_anyone/)**
+by u/PewPewLazrs101
+
+**10. [Radio suddenly cannot hit the reapeater??](https://www.reddit.com/r/HamRadio/comments/1r32obs/radio_suddenly_cannot_hit_the_reapeater/)**
+by u/__rainmaker
+
+**11. [APRS-K1 cable problem, no disable absolute volume](https://www.reddit.com/r/HamRadio/comments/1r394fe/aprsk1_cable_problem_no_disable_absolute_volume/)**
+by u/Dismal_Living90
+
+**12. [Indiana BMV introduces license plate for licensed amateur radio operators](https://www.reddit.com/r/HamRadio/comments/1r2jr0r/indiana_bmv_introduces_license_plate_for_licensed/)**
 by u/SharkSapphire
 
-**4. [Found this today, does anyone know what it is?](https://www.reddit.com/r/HamRadio/comments/1r2hovo/found_this_today_does_anyone_know_what_it_is/)**
-by u/HotelHero
+**13. [What HT is my character using in the year 1980?](https://www.reddit.com/r/HamRadio/comments/1r36d34/what_ht_is_my_character_using_in_the_year_1980/)**
+by u/WhenIPoopITweet
 
-**5. [DIY/BUY car antenna mast/pole advice](https://www.reddit.com/r/HamRadio/comments/1r2ocfy/diybuy_car_antenna_mastpole_advice/)**
-by u/simun6
+**14. [Beginner wanting to listen but not sure how](https://www.reddit.com/r/HamRadio/comments/1r368c6/beginner_wanting_to_listen_but_not_sure_how/)**
+by u/Korvmebro
 
-**6. [I wish I didn't have to choose between a band scope and lack of nested menus. I ...](https://www.reddit.com/r/HamRadio/comments/1r1rhmm/i_wish_i_didnt_have_to_choose_between_a_band/)**
-by u/thehotshotpilot
-
-**7. [QYT 25 watt-er Mini Base Radio comparison](https://www.reddit.com/r/HamRadio/comments/1r284jb/qyt_25_watter_mini_base_radio_comparison/)**
-by u/Chance_Hovercraft878
-
-**8. [DIY Antenna Switch - Relay help!](https://www.reddit.com/r/HamRadio/comments/1r2kp54/diy_antenna_switch_relay_help/)**
-by u/Bantis
-
-**9. [Radtel RT-470x FM advice please.](https://www.reddit.com/r/HamRadio/comments/1r24mh8/radtel_rt470x_fm_advice_please/)**
-by u/VastStar3889
-
-**10. [Will this indoor setup work? What are the downsides and problems that I might fa...](https://www.reddit.com/r/HamRadio/comments/1r2f73u/will_this_indoor_setup_work_what_are_the/)**
-by u/SharkSapphire
-
-**11. [Near price parity id50 id52 th-d75a](https://www.reddit.com/r/HamRadio/comments/1r257fa/near_price_parity_id50_id52_thd75a/)**
-by u/SubstantialTennis537
-
-**12. [Measuring Height of Tree and Angle to Ground Point?](https://www.reddit.com/r/HamRadio/comments/1r1jn6s/measuring_height_of_tree_and_angle_to_ground_point/)**
-by u/Business_Chef_806
-
-**13. [UV-9R PRO antenna? I need help figuring out what to get please.](https://www.reddit.com/r/HamRadio/comments/1r151li/uv9r_pro_antenna_i_need_help_figuring_out_what_to/)**
-by u/Any_Echo7714
-
-**14. [How does one eliminate RF in the shack even with a good ground.](https://www.reddit.com/r/HamRadio/comments/1r198wh/how_does_one_eliminate_rf_in_the_shack_even_with/)**
-by u/zad112
-
-**15. [Planning a HammoCan/Go-Box and need some advice](https://www.reddit.com/r/HamRadio/comments/1r138lk/planning_a_hammocangobox_and_need_some_advice/)**
-by u/Roadkill1223
+**15. [QSL Card Service? Is there or has there been?](https://www.reddit.com/r/HamRadio/comments/1r35o6q/qsl_card_service_is_there_or_has_there_been/)**
+by u/Own-School3177
 
 ---
 
@@ -110,14 +110,14 @@ by u/Roadkill1223
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r04y50/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
+- **[Shutdown and replacement of RCA 1kW AM broadcast transmitter that has ...](https://www.reddit.com/r/amateurradio/comments/1r38h72/shutdown_and_replacement_of_rca_1kw_am_broadcast/)** (r/amateurradio)
+- **[Nordkorea?](https://www.reddit.com/r/amateurradio/comments/1r3l115/nordkorea/)** (r/amateurradio)
 - **[An unnecessary but fun and cheap upgrade](https://www.reddit.com/r/amateurradio/comments/1r2qp4o/an_unnecessary_but_fun_and_cheap_upgrade/)** (r/amateurradio)
-- **[Hey kit builders- could this chipped inductor cause issues?](https://www.reddit.com/r/amateurradio/comments/1r2fa26/hey_kit_builders_could_this_chipped_inductor/)** (r/amateurradio)
-- **[What are all these antennas for?](https://www.reddit.com/r/amateurradio/comments/1r25v1i/what_are_all_these_antennas_for/)** (r/amateurradio)
-- **[Where is my ground actually?](https://www.reddit.com/r/amateurradio/comments/1r2cf1f/where_is_my_ground_actually/)** (r/amateurradio)
-- **[I wish I didn't have to choose between a onboard band scope and button...](https://www.reddit.com/r/amateurradio/comments/1r1riuh/i_wish_i_didnt_have_to_choose_between_a_onboard/)** (r/amateurradio)
-- **[FreeDV](https://www.reddit.com/r/amateurradio/comments/1r2d6p6/freedv/)** (r/amateurradio)
-- **[Illegal 40M soundboard Transmissions - how common?](https://www.reddit.com/r/amateurradio/comments/1r1zpld/illegal_40m_soundboard_transmissions_how_common/)** (r/amateurradio)
-- **[Yet Another Purchasing Question Post- sub $300](https://www.reddit.com/r/amateurradio/comments/1r2o7dj/yet_another_purchasing_question_post_sub_300/)** (r/amateurradio)
+- **[Got my license to be able to test active on my phased array radar syst...](https://www.reddit.com/r/amateurradio/comments/1r3g2fd/got_my_license_to_be_able_to_test_active_on_my/)** (r/amateurradio)
+- **[What is this thing I found in my grandpa's old stuff. Is it still wort...](https://www.reddit.com/r/amateurradio/comments/1r2t34n/what_is_this_thing_i_found_in_my_grandpas_old/)** (r/amateurradio)
+- **[Learned New Something Today - HF Broadcast Bands and CB Radio Free Ban...](https://www.reddit.com/r/amateurradio/comments/1r2weh2/learned_new_something_today_hf_broadcast_bands/)** (r/amateurradio)
+- **[VHF micro antennas](https://www.reddit.com/r/amateurradio/comments/1r3mihe/vhf_micro_antennas/)** (r/amateurradio)
+- **[HPARC Meeting 2026 02 11 2026](https://www.reddit.com/r/amateurradio/comments/1r3gc9i/hparc_meeting_2026_02_11_2026/)** (r/amateurradio)
 
 ---
 

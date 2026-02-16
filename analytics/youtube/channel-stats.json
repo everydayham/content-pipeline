@@ -1,8 +1,8 @@
 {
-  "updated": "2026-02-09T12:51:14.275761",
+  "updated": "2026-02-16T12:43:33.783958",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "8bH-7rslEEV3R3Nw0P7ZdRp0Tms",
+    "etag": "5HvIbRA_R3U-75spmzzu26nhfUU",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,555 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "126650",
-      "subscriberCount": "1460",
+      "viewCount": "132915",
+      "subscriberCount": "1520",
       "hiddenSubscriberCount": false,
-      "videoCount": "105"
+      "videoCount": "112"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "JZ9iyyc84aAxqekA9I618ySx0jA",
+      "etag": "Ca7lyYxH1lkET94kQXY6DcfYlq0",
+      "id": "r6CgCAViM_c",
+      "snippet": {
+        "publishedAt": "2026-02-15T03:55:46Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Kits 4 Hams SHARI Allstar Node & Mortty V5 | Hamcation 2026",
+        "description": "James (K8JKU) talks with Steve (N8AR), creator of the SHARI Allstar Node, at the Kits 4 Hams booth at Hamcation 2026. Steve walks us through his line of SHARI nodes including the newer SHARI PiHat NeoPi5 model designed for the Raspberry Pi 5, discusses his pre-assembled units and kit options, and the support and service he provides. They also cover the Mortty V5, a precision CW and RTTY keying device. Whether you\u2019re looking to build or buy, Steve has you covered.\n\n\ud83d\udd17 Kits 4 Hams: https://www.kits4hams.com\n\ud83d\udd17 Mortty: https://www.mortty.net",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Kits 4 Hams",
+          "SHARI",
+          "Allstar node",
+          "SHARI PiHat",
+          "Raspberry Pi 5",
+          "Mortty V5",
+          "CW keyer",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "ham radio kit",
+          "Allstar Link",
+          "Raspberry Pi ham radio",
+          "N8AR",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kits 4 Hams SHARI Allstar Node & Mortty V5 | Hamcation 2026",
+          "description": "James (K8JKU) talks with Steve (N8AR), creator of the SHARI Allstar Node, at the Kits 4 Hams booth at Hamcation 2026. Steve walks us through his line of SHARI nodes including the newer SHARI PiHat NeoPi5 model designed for the Raspberry Pi 5, discusses his pre-assembled units and kit options, and the support and service he provides. They also cover the Mortty V5, a precision CW and RTTY keying device. Whether you\u2019re looking to build or buy, Steve has you covered.\n\n\ud83d\udd17 Kits 4 Hams: https://www.kits4hams.com\n\ud83d\udd17 Mortty: https://www.mortty.net"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "218",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rDMM7JocmgzHhmZ6RkUWxWJBK1I",
+      "id": "_5gsI9KuvEI",
+      "snippet": {
+        "publishedAt": "2026-02-14T23:39:30Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
+        "description": "James (K8JKU) and Rory (W8KNX) sit down with Ray Novak (N9JA) from Icom America at Hamcation 2026 to talk about the IC-7300MK2. Ray walks us through the key upgrades over the original IC-7300 including HDMI output for an external display, USB Type-C with dual virtual COM ports, built-in LAN for simplified remote operation, improved receiver performance, and overall better efficiency. If you loved the IC-7300, this is the upgrade you\u2019ve been waiting for.\n\n\ud83d\udd17 Icom America: https://www.icomamerica.com\n\ud83d\udd17 IC-7300MK2: https://www.icomamerica.com/lineup/products/IC-7300MK2/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Icom",
+          "IC-7300MK2",
+          "IC-7300",
+          "HF transceiver",
+          "SDR transceiver",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "Icom America",
+          "HDMI ham radio",
+          "remote ham radio",
+          "USB-C",
+          "Ray Novak",
+          "N9JA",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
+          "description": "James (K8JKU) and Rory (W8KNX) sit down with Ray Novak (N9JA) from Icom America at Hamcation 2026 to talk about the IC-7300MK2. Ray walks us through the key upgrades over the original IC-7300 including HDMI output for an external display, USB Type-C with dual virtual COM ports, built-in LAN for simplified remote operation, improved receiver performance, and overall better efficiency. If you loved the IC-7300, this is the upgrade you\u2019ve been waiting for.\n\n\ud83d\udd17 Icom America: https://www.icomamerica.com\n\ud83d\udd17 IC-7300MK2: https://www.icomamerica.com/lineup/products/IC-7300MK2/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "2465",
+        "likeCount": "107",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kIIyrp_ntKT8P5PvJASvULA_ZEw",
+      "id": "Vqx57KovKXs",
+      "snippet": {
+        "publishedAt": "2026-02-14T23:21:37Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
+        "description": "Rory (W8KNX) talks with Jerry (KE9AKK) from Heil Ham Radio at Hamcation 2026 about the popular BM-17 headset and when we can expect it to return. The BM-17 has been a favorite lightweight boom headset for ham radio operators, especially for POTA and emergency communications, and Rory gets a direct update from the rep on its status.\n\n\ud83d\udd17 Heil Ham Radio: https://heilhamradio.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vqx57KovKXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vqx57KovKXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vqx57KovKXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vqx57KovKXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vqx57KovKXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Heil Ham Radio",
+          "Heil Sound",
+          "BM-17",
+          "ham radio headset",
+          "boom headset",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "POTA headset",
+          "emergency communications",
+          "ham radio gear",
+          "lightweight headset",
+          "Everyday Ham",
+          "ham radio podcast",
+          "ham radio accessories"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
+          "description": "Rory (W8KNX) talks with Jerry (KE9AKK) from Heil Ham Radio at Hamcation 2026 about the popular BM-17 headset and when we can expect it to return. The BM-17 has been a favorite lightweight boom headset for ham radio operators, especially for POTA and emergency communications, and Rory gets a direct update from the rep on its status.\n\n\ud83d\udd17 Heil Ham Radio: https://heilhamradio.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "193",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JQj5pRe7jAg1vRLgmLQnHfeO2HQ",
+      "id": "rHev6bDGSWg",
+      "snippet": {
+        "publishedAt": "2026-02-14T17:27:02Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
+        "description": "Jim (N8JRD) talks with David (KB5UTY) and Jinger Zeng from Seeed Studio at Hamcation 2026. They explain what Seeed Studio does, walk us through their line of mesh networking products including the L1 \u201ctiny\u201d node available in 4 versions, and break down the advantages of Meshtastic versus Meshcore. Seeed Studio offers solid products at very reasonable prices, making mesh networking accessible for everyone. @SeeedStudioSZ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Seeed Studio",
+          "Meshtastic",
+          "Meshcore",
+          "mesh networking",
+          "mesh node",
+          "L1 node",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "LoRa",
+          "off-grid communication",
+          "emergency communications",
+          "Everyday Ham",
+          "ham radio podcast",
+          "portable mesh network",
+          "radio technology"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
+          "description": "Jim (N8JRD) talks with David (KB5UTY) and Jinger Zeng from Seeed Studio at Hamcation 2026. They explain what Seeed Studio does, walk us through their line of mesh networking products including the L1 \u201ctiny\u201d node available in 4 versions, and break down the advantages of Meshtastic versus Meshcore. Seeed Studio offers solid products at very reasonable prices, making mesh networking accessible for everyone. @SeeedStudioSZ"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "607",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5_JDryGgZlzdOpn747APpiBct2k",
+      "id": "RpKnlTc2Lo4",
+      "snippet": {
+        "publishedAt": "2026-02-14T15:36:28Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
+        "description": "Walking the flea market at Hamcation 2026! The swap is always a great time, whether you\u2019re hunting for deals or just browsing the treasures. You never know what you\u2019ll find. Don\u2019t miss our full Hamcation coverage on the channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
+          "description": "Walking the flea market at Hamcation 2026! The swap is always a great time, whether you\u2019re hunting for deals or just browsing the treasures. You never know what you\u2019ll find. Don\u2019t miss our full Hamcation coverage on the channel!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "220",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "92Ob2JCYHn7cSayJvNn3sEqq4sM",
+      "id": "BGiDdHdL7-s",
+      "snippet": {
+        "publishedAt": "2026-02-14T00:59:14Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
+        "description": "Jim (N8JRD) talks with Tony (K1KP) from FlexRadio at Hamcation 2026 about the Aurora AU-510M, a 500W integrated SDR transceiver with a built-in Maestro front panel, power supply, and automatic antenna tuner all in one chassis. Covering HF through 6 meters, the AU-510M features SmartSignal adaptive predistortion, MultiFlex dual-operator capability, and SmartLink for remote operation. Priced at $7,349.\n\n\ud83d\udd17 FlexRadio: https://www.flexradio.com\n\ud83d\udd17 Aurora AU-510M: https://www.flexradio.com/products/aurora-au-510m-signature-series/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "FlexRadio",
+          "Aurora AU-510M",
+          "SDR transceiver",
+          "software defined radio",
+          "500W amplifier",
+          "Maestro",
+          "SmartSDR",
+          "HF radio",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "FlexRadio Aurora",
+          "integrated transceiver",
+          "remote ham radio",
+          "SmartLink",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
+          "description": "Jim (N8JRD) talks with Tony (K1KP) from FlexRadio at Hamcation 2026 about the Aurora AU-510M, a 500W integrated SDR transceiver with a built-in Maestro front panel, power supply, and automatic antenna tuner all in one chassis. Covering HF through 6 meters, the AU-510M features SmartSignal adaptive predistortion, MultiFlex dual-operator capability, and SmartLink for remote operation. Priced at $7,349.\n\n\ud83d\udd17 FlexRadio: https://www.flexradio.com\n\ud83d\udd17 Aurora AU-510M: https://www.flexradio.com/products/aurora-au-510m-signature-series/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "827",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8khHywyBloEUga4x0o58y1E48QI",
+      "id": "d_2-kWWuiaY",
+      "snippet": {
+        "publishedAt": "2026-02-14T00:53:21Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
+        "description": "Rory (W8KNX) sits down with Chris Drummond (W6HFP) and John Nagel (W5EXJ) from Buddipole at Hamcation 2026 to check out the new Buddihex Mini, a 3-band hex beam covering 12, 10, and 6 meters, available for pre-order at $450. They also get a first look at the Mastwerks Precision Antenna Rotator (MWR), a field-ready azimuth rotator designed specifically for the Buddihex and Mastwerks tripod/mast systems, with an introductory price of $285. Plus, a closer look at the full-size Buddihex.\n\n\ud83d\udd17 Buddipole: https://www.buddipole.com\n\ud83d\udd17 Mastwerks: https://www.mastwerks.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Buddipole",
+          "Buddihex",
+          "Buddihex Mini",
+          "Mastwerks",
+          "Mastwerks Precision Antenna Rotator",
+          "hex beam antenna",
+          "portable ham radio antenna",
+          "Hamcation 2026",
+          "amateur radio",
+          "ham radio",
+          "POTA antenna",
+          "field day antenna",
+          "antenna rotator",
+          "portable antenna setup",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
+          "description": "Rory (W8KNX) sits down with Chris Drummond (W6HFP) and John Nagel (W5EXJ) from Buddipole at Hamcation 2026 to check out the new Buddihex Mini, a 3-band hex beam covering 12, 10, and 6 meters, available for pre-order at $450. They also get a first look at the Mastwerks Precision Antenna Rotator (MWR), a field-ready azimuth rotator designed specifically for the Buddihex and Mastwerks tripod/mast systems, with an introductory price of $285. Plus, a closer look at the full-size Buddihex.\n\n\ud83d\udd17 Buddipole: https://www.buddipole.com\n\ud83d\udd17 Mastwerks: https://www.mastwerks.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1055",
+        "likeCount": "62",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AOAjuJ-03CNl-SbRWwnEdoOaK8o",
+      "id": "1EumigRB1Vg",
+      "snippet": {
+        "publishedAt": "2026-02-14T00:47:01Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
+        "description": "Jim (N8JRD) talks with George (KO4HVI), creator of The Laser Ham, at Hamcation 2026 about his Folding Ground Plane Antenna, also known as the \u201cJungle\u201d Antenna. George walks us through what makes this specialty radio antenna unique and how it stands out for portable operations.\n\n\ud83d\udd17 The Laser Ham: https://www.TheLaserHam.com\n\ud83d\udd17 Etsy Shop: https://TheLaserHam.Etsy.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "The Laser Ham",
+          "folding ground plane antenna",
+          "Jungle Antenna",
+          "portable ham radio antenna",
+          "specialty radio antenna",
+          "ham radio",
+          "amateur radio",
+          "Hamcation 2026",
+          "portable antenna",
+          "POTA antenna",
+          "ham radio gear",
+          "antenna review",
+          "KO4HVI",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
+          "description": "Jim (N8JRD) talks with George (KO4HVI), creator of The Laser Ham, at Hamcation 2026 about his Folding Ground Plane Antenna, also known as the \u201cJungle\u201d Antenna. George walks us through what makes this specialty radio antenna unique and how it stands out for portable operations.\n\n\ud83d\udd17 The Laser Ham: https://www.TheLaserHam.com\n\ud83d\udd17 Etsy Shop: https://TheLaserHam.Etsy.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "207",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2mHr17JKdithSUY-ZoZHH2DhH9k",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -105,15 +644,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3088",
-        "likeCount": "12",
+        "viewCount": "3211",
+        "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XxlKs3eSLm8UVMPfQVPoTS3-q_U",
+      "etag": "yznM6ARErQzXoZzMPP27FTg1gS4",
       "id": "ZScvDM3YLWY",
       "snippet": {
         "publishedAt": "2026-02-05T16:36:24Z",
@@ -158,7 +697,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "566",
+        "viewCount": "578",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -166,7 +705,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A9_l550xp0FPLzvVk7afwlCijac",
+      "etag": "0PJqS7gobMQFc0Y8gZTrK11qlOI",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -230,15 +769,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "312",
-        "likeCount": "26",
+        "viewCount": "410",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "M4vYNPhTlJWGBc5VGEzKi9L5YiE",
+      "etag": "zscELD5I99qhoLdkfPCXvMXug34",
       "id": "i_55Kt8PtJo",
       "snippet": {
         "publishedAt": "2026-02-05T15:25:03Z",
@@ -301,7 +840,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "104",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -309,7 +848,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "x3FfRud1s89y194EMsi7NEUw_xE",
+      "etag": "YcpgFXn4zDN8qaDoBLrs_Af_lAY",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -373,15 +912,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "390",
-        "likeCount": "27",
+        "viewCount": "432",
+        "likeCount": "31",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "44PwoWg0akCkefarZbk-Ip-U1ug",
+      "etag": "TNROQA45yCxcqVifbWLcYGaO5KE",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -426,7 +965,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "721",
+        "viewCount": "756",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -434,7 +973,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZaqSJl4rtFRicnA4N7e9z9xZduw",
+      "etag": "JQUfofpHgwPn3nNUm3SGNlCg1Nc",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -498,15 +1037,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1946",
-        "likeCount": "66",
+        "viewCount": "2129",
+        "likeCount": "74",
         "favoriteCount": "0",
-        "commentCount": "50"
+        "commentCount": "52"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JHnZXKp17tR-_5r3SfGVQlHydD8",
+      "etag": "PBdYSPyGPsGmvNzpL0dMQBtE77o",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -551,15 +1090,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "255",
-        "likeCount": "17",
+        "viewCount": "261",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "LqmPjvUKUgD_JicmdpQjj0XtGmc",
+      "etag": "38zAb-tC5K4qHGvfH_GTaUa6lSM",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -604,7 +1143,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1474",
+        "viewCount": "1480",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -612,7 +1151,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "h4PcUpu30XJE4SGW4K2VP0l7D6I",
+      "etag": "7YqQCvCO0CBCmlCCYUiRT3v9sgQ",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -657,7 +1196,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1074",
+        "viewCount": "1079",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -665,7 +1204,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yEC0X1YgLrxKWaQFRHyMM0APrQ4",
+      "etag": "UJP6OJE9LxJum4wEvQomHRQO_wQ",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -732,15 +1271,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2612",
-        "likeCount": "111",
+        "viewCount": "2660",
+        "likeCount": "113",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qJ15eEoRUDNlWWzxjrdSSEWHYik",
+      "etag": "b36Af3U9scIwvYTHoFPq1pcsxX8",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -803,7 +1342,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "106",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -811,7 +1350,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-ad4_vj5OXXADKazJ_KDNyGpQgA",
+      "etag": "nCOm22PASpWmzLSJrBzJ7zRXaFI",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -856,15 +1395,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4456",
+        "viewCount": "4460",
         "likeCount": "37",
         "favoriteCount": "0",
-        "commentCount": "2"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1fY3Z1ZxHk7BcCvXVJd3iBXh55M",
+      "etag": "VhTqmzNJT0bYPu_gi4bETxUNzh0",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -909,15 +1448,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1210",
-        "likeCount": "39",
+        "viewCount": "1243",
+        "likeCount": "41",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fstKy4Pg6qiRY_gJ3kUQTIFjcww",
+      "etag": "Ab1cEUTmEKsTs1ATBh8l2ZSe-vc",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -980,7 +1519,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "774",
+        "viewCount": "777",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -988,7 +1527,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1dVz3dsB7gp-h90RQs-1qKlF_ZU",
+      "etag": "tbdIu3yhWDVsyCknJPp9__RWT5I",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -1046,7 +1585,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "935",
+        "viewCount": "941",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1125,7 +1664,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6yMCqNTtq49imrCsFQBK_1Dr-hM",
+      "etag": "N2-xmg5LI-58SsMbDuxqwML-0wI",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -1188,7 +1727,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "294",
+        "viewCount": "301",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1196,7 +1735,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6BDrXKNAfQzj0eISyk4KHm-mUOk",
+      "etag": "SEyvbbLLyIg-TR8rfEMYdlFhxw4",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -1241,7 +1780,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1014",
+        "viewCount": "1018",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1249,7 +1788,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fNF43iDaB7_1IffLxVPAm42t6fQ",
+      "etag": "bpwiMwqMa8ovhHsSiZqn8PiXNZo",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -1294,7 +1833,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "234",
+        "viewCount": "236",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1302,7 +1841,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4efuAzAxFfDPZ31w5-KZ9r3sEZ4",
+      "etag": "Zn0wCxxSw0ONducU047JqShapHs",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -1370,15 +1909,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "456",
-        "likeCount": "20",
+        "viewCount": "474",
+        "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vkjvpeWPiYlEG9ciwKLyTA1hhsM",
+      "etag": "OQP1pp1cRpAHTK4Xuh5g3CJnTDA",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -1447,15 +1986,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1247",
-        "likeCount": "45",
+        "viewCount": "1258",
+        "likeCount": "47",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XkJ2yuD0-NkzukEkdDi1fZJvtMk",
+      "etag": "ns1K_Yxa0p5HsesQwrMjuV7LxDs",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
@@ -1518,7 +2057,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "164",
+        "viewCount": "168",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1526,7 +2065,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1JCn5rlfrwG-lZtjug5KeCWtp6A",
+      "etag": "CZZgxI8brG9j521YoqYNRyO-m8k",
       "id": "-OPz7HyW794",
       "snippet": {
         "publishedAt": "2025-11-28T16:30:57Z",
@@ -1597,7 +2136,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g3OpvB9NfSbea5HsOfI7mZef0a8",
+      "etag": "Dh-mSHvbCw0xUBf2wfPPctZM8_k",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -1642,7 +2181,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "833",
+        "viewCount": "834",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1650,7 +2189,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "B-zL1UTNoo139JIadNgyNw3ALR0",
+      "etag": "t-gPTRiBRyYlVs7pKdyKPQjBPrQ",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -1717,7 +2256,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "340",
+        "viewCount": "362",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -1725,7 +2264,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Y7VhcPM7yoiEbwPvqUCQlYqNSpk",
+      "etag": "t8mXiOXNFC0txyWEjRNqwWO6d_I",
       "id": "sAGV73vzm24",
       "snippet": {
         "publishedAt": "2025-11-17T01:31:25Z",
@@ -1787,7 +2326,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "939",
+        "viewCount": "940",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1795,7 +2334,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NLMw-q2bzBMREym5xp9dCDmYNjI",
+      "etag": "c0c1NDt12dfBKmH21cP5Kt_L2xA",
       "id": "RxgcxKk969g",
       "snippet": {
         "publishedAt": "2025-11-14T00:34:53Z",
@@ -1865,7 +2404,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1584",
+        "viewCount": "1593",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1873,7 +2412,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CaYga1q1arohdf69DXFULgbMqOU",
+      "etag": "pkbms4SKKWpvd4lVd3Xf2n_NIDc",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -1943,7 +2482,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "142",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1951,7 +2490,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WHNOusRuB3LBpwg3g5rB_W22vbg",
+      "etag": "0GOv-w5dnQ2zuN1rEs6f8jFsIt4",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -2004,7 +2543,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "s_gPSSLTwMo2OY-BGRG_Trc57i4",
+      "etag": "HePh54ie_3OBC-jmgiCl_TTll1U",
       "id": "cAWtEZjwwRk",
       "snippet": {
         "publishedAt": "2025-11-07T22:37:56Z",
@@ -2069,15 +2608,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1437",
+        "viewCount": "1441",
         "likeCount": "45",
         "favoriteCount": "0",
-        "commentCount": "7"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "UyyckU3TFsYjdDEXq9NqQZE-Hmc",
+      "etag": "c2_sgiPS4ENIcRG8nEA-MCs617U",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -2154,7 +2693,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "748",
+        "viewCount": "750",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2233,7 +2772,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bEqAG7C3XFvEilYS7eo4wjkGyYw",
+      "etag": "0YfET5I2CuH5swPNFMD8ddgOGYA",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -2318,7 +2857,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "268",
+        "viewCount": "270",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2326,7 +2865,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lWeoYjd6Mo0jYYYdMOAoCRaW2z4",
+      "etag": "5gQeU0cn_2JGmc0nF_b4wcO5CXY",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -2371,7 +2910,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1333",
+        "viewCount": "1338",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2379,7 +2918,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LcFNQdKIVIQNuXI6OUPlofjGRJM",
+      "etag": "9A6fUSXEScJz5O5bIAOLCoOhQQw",
       "id": "aGU4pSCoJcY",
       "snippet": {
         "publishedAt": "2025-11-01T15:21:53Z",
@@ -2447,7 +2986,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1409",
+        "viewCount": "1410",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2455,7 +2994,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8agvMvPhHX8wl2G-3lrrsF2FKyo",
+      "etag": "YXMY1qKxmbeanC4DwkDQ9tIhpCY",
       "id": "JTFErg-neu8",
       "snippet": {
         "publishedAt": "2025-10-31T21:40:56Z",
@@ -2531,7 +3070,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3443",
+        "viewCount": "3513",
         "likeCount": "157",
         "favoriteCount": "0",
         "commentCount": "22"
@@ -2539,7 +3078,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "99j1xzjt8MFex74yve4OVhzF5I8",
+      "etag": "ujruIrQ-x9ovonxHqHsG2XILlb0",
       "id": "LRlec1zoNeI",
       "snippet": {
         "publishedAt": "2025-10-31T06:58:34Z",
@@ -2584,7 +3123,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "239",
+        "viewCount": "240",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2592,7 +3131,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UiOt82R4e9pC36-Ien9yxwYp3mo",
+      "etag": "DvJqgDUnUXShGFtd-6HiG--05gE",
       "id": "Wnw0wmTqVvw",
       "snippet": {
         "publishedAt": "2025-10-25T14:52:50Z",
@@ -2637,15 +3176,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "7454",
-        "likeCount": "96",
+        "viewCount": "7577",
+        "likeCount": "97",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BT81oWJpHbsHHaY4GoO779i0tkg",
+      "etag": "aF4hoofoyht6VHSpkiYW3AtHhdg",
       "id": "xW-nnl2RGIs",
       "snippet": {
         "publishedAt": "2025-10-23T15:01:45Z",
@@ -2722,7 +3261,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1000",
+        "viewCount": "1004",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -2730,7 +3269,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6xWBkQZgPOb38OYDrJ_ojXx3RiQ",
+      "etag": "gAXf9YjfDDwTcqeqU91I9OO4JTU",
       "id": "d-87MbN0IiM",
       "snippet": {
         "publishedAt": "2025-10-21T17:05:00Z",
@@ -2781,7 +3320,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1342",
+        "viewCount": "1348",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2789,7 +3328,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LzAJApoOT6tbOADoFgO_u9wfQHA",
+      "etag": "uocQ7N5oVjyzTJ_05uQCtpxSnIU",
       "id": "G3jhDn-tr4Y",
       "snippet": {
         "publishedAt": "2025-10-16T13:07:00Z",
@@ -2869,585 +3408,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1619",
-        "likeCount": "97",
+        "viewCount": "1627",
+        "likeCount": "98",
         "favoriteCount": "0",
         "commentCount": "23"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fq1FU45-BmMqlqyyaOZxffmS9u4",
-      "id": "mSwSRFFpM5U",
-      "snippet": {
-        "publishedAt": "2025-10-15T02:59:32Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hidden PoLo Power Features You're Not Using",
-        "description": "Even veteran PoLo users don't know all these features exist! Watch as the Everyday Ham crew discovers game-changing shortcuts directly from Ham2K PoLo creator Sebasti\u00e1n KI2D.\n\n\ud83e\udd2f In This Video:\nWe reveal 4 hidden features that will make your portable logging faster and more efficient. These aren't bugs or hacks\u2014they're intentionally designed shortcuts that make you feel like a power user once you discover them.\n\n\u26a1 Features Revealed:\n1. Skip typing \"US-\" prefix when searching parks\n2. Type frequencies directly in the call sign field\n3. The secret RTFM command\n4. Call sign stacking for handling pileups\n\n\ud83d\udca1 Sebasti\u00e1n's Design Philosophy:\n\"I don't want the app to interrupt you in the middle of operations... But when you discover it, it makes you feel smart.\"\n\n\u23f1\ufe0f Timestamps:\n0:00 Introduction - Mind Blown!\n00:15 Feature 1: Skip the \"US-\" Prefix\n01:57 Feature 2: Type Frequencies in Call Sign Field\n02:48 Feature 3: RTFM Command Opens Manual\n03:25 Feature 4: Call Sign Stacking for Pileups\n\n\ud83c\udfac Watch the Full Interview:\nhttps://youtu.be/bFTukY-5v3g?si=7qGk38Rl3LEf0hSA\nTitle: How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo\n\n\ud83d\udd17 Ham2K Resources:\nPoLo App: https://polo.ham2k.com/\nHam2K Website: https://www.ham2k.com/\nSupport Sebasti\u00e1n: https://buymeacoffee.com/ham2k\nComplete Manual: Type \"RTFM\" in the call sign field \ud83d\ude09\n\n\ud83d\udcf1 Follow Everyday Ham:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: https://discord.com/invite/4qvEUNPugy\nSubscribe: @EverydayHam\n\n\ud83c\udfa7 Listen as Podcast:\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more at www.everydayham.com\n\n\ud83d\udc65 Featuring:\nSebasti\u00e1n Delmont KI2D - Ham2K PoLo Creator\nJames Mills K8JKU\nJim Davis N8JRD  \nRory Locke W8KNX\n\n\ud83d\udcac Which feature will you try first? Let us know in the comments!\n\n\ud83d\udce2 Like this video? Subscribe for more POTA tips, ham radio interviews, and gear reviews. Hit the notification bell so you never miss an episode!\n\n#HamRadio #Ham2K #PoLo #POTA #ParksOnTheAir #AmateurRadio #PortableLogging #HamRadioTips #SebastianKI2D #EverydayHam #HamRadioApps #ActivatorTips #HamRadioHacks #MobileLogging #FieldOperations",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mSwSRFFpM5U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mSwSRFFpM5U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mSwSRFFpM5U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mSwSRFFpM5U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mSwSRFFpM5U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "Ham2K",
-          "PoLo",
-          "Sebastian KI2D",
-          "KI2D",
-          "ham radio apps",
-          "portable logging",
-          "ham radio software",
-          "hidden features",
-          "polo shortcuts",
-          "ham radio tutorial",
-          "activator tips",
-          "logging tips",
-          "ham radio hacks",
-          "mobile logging",
-          "field operations",
-          "polo tips",
-          "contest logging",
-          "ham radio tech",
-          "polo features"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hidden PoLo Power Features You're Not Using",
-          "description": "Even veteran PoLo users don't know all these features exist! Watch as the Everyday Ham crew discovers game-changing shortcuts directly from Ham2K PoLo creator Sebasti\u00e1n KI2D.\n\n\ud83e\udd2f In This Video:\nWe reveal 4 hidden features that will make your portable logging faster and more efficient. These aren't bugs or hacks\u2014they're intentionally designed shortcuts that make you feel like a power user once you discover them.\n\n\u26a1 Features Revealed:\n1. Skip typing \"US-\" prefix when searching parks\n2. Type frequencies directly in the call sign field\n3. The secret RTFM command\n4. Call sign stacking for handling pileups\n\n\ud83d\udca1 Sebasti\u00e1n's Design Philosophy:\n\"I don't want the app to interrupt you in the middle of operations... But when you discover it, it makes you feel smart.\"\n\n\u23f1\ufe0f Timestamps:\n0:00 Introduction - Mind Blown!\n00:15 Feature 1: Skip the \"US-\" Prefix\n01:57 Feature 2: Type Frequencies in Call Sign Field\n02:48 Feature 3: RTFM Command Opens Manual\n03:25 Feature 4: Call Sign Stacking for Pileups\n\n\ud83c\udfac Watch the Full Interview:\nhttps://youtu.be/bFTukY-5v3g?si=7qGk38Rl3LEf0hSA\nTitle: How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo\n\n\ud83d\udd17 Ham2K Resources:\nPoLo App: https://polo.ham2k.com/\nHam2K Website: https://www.ham2k.com/\nSupport Sebasti\u00e1n: https://buymeacoffee.com/ham2k\nComplete Manual: Type \"RTFM\" in the call sign field \ud83d\ude09\n\n\ud83d\udcf1 Follow Everyday Ham:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: https://discord.com/invite/4qvEUNPugy\nSubscribe: @EverydayHam\n\n\ud83c\udfa7 Listen as Podcast:\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more at www.everydayham.com\n\n\ud83d\udc65 Featuring:\nSebasti\u00e1n Delmont KI2D - Ham2K PoLo Creator\nJames Mills K8JKU\nJim Davis N8JRD  \nRory Locke W8KNX\n\n\ud83d\udcac Which feature will you try first? Let us know in the comments!\n\n\ud83d\udce2 Like this video? Subscribe for more POTA tips, ham radio interviews, and gear reviews. Hit the notification bell so you never miss an episode!\n\n#HamRadio #Ham2K #PoLo #POTA #ParksOnTheAir #AmateurRadio #PortableLogging #HamRadioTips #SebastianKI2D #EverydayHam #HamRadioApps #ActivatorTips #HamRadioHacks #MobileLogging #FieldOperations"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "193",
-        "likeCount": "18",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "srWpL8zpQ7Ue8l_k6gsoZnETwzI",
-      "id": "gQ6edfHIYF8",
-      "snippet": {
-        "publishedAt": "2025-10-10T16:07:28Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-        "description": "Let's hunt James K8JKU as we sit and have our lunch here this Friday.  James is off to Kansas City to watch a football game this weekend, but he naturally snuck out to do some Ham Radio before the game!  How many whats does it take to get from Michigan to Kansas?\n\n#hamradio #speexpert #yaesu #pota #parksontheair #amateurradio #everydayham #kansascity #lionsgame #amplifier #ftdx101mp",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gQ6edfHIYF8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gQ6edfHIYF8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gQ6edfHIYF8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gQ6edfHIYF8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gQ6edfHIYF8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-          "description": "Let's hunt James K8JKU as we sit and have our lunch here this Friday.  James is off to Kansas City to watch a football game this weekend, but he naturally snuck out to do some Ham Radio before the game!  How many whats does it take to get from Michigan to Kansas?\n\n#hamradio #speexpert #yaesu #pota #parksontheair #amateurradio #everydayham #kansascity #lionsgame #amplifier #ftdx101mp"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "242",
-        "likeCount": "11",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "rij9UDm9Lnn83_BilG_x0cUU5zg",
-      "id": "MLnk47KYJe4",
-      "snippet": {
-        "publishedAt": "2025-10-09T20:01:53Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
-        "description": "Ever wonder who built the logging app changing portable operations? Meet Sebasti\u00e1n KI2D, creator of Ham2K PoLo! From Venezuela to New York, discover the story behind the app that lets you leave your laptop at home. Full interview available now on our channel and all podcast apps! #HamRadio #AmateurRadio #Ham2K #PoLo #POTA #ParksOnTheAir #EverydayHam #SebastianKI2D #PortableLogging #HamRadioApps #HamRadioPodcast #FieldOperations #MobileLogging #HamRadioInterview #HamRadioCommunity #RadioOperator #HamRadioLife #ContestLogging #QSOParty #HamRadioTech",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MLnk47KYJe4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MLnk47KYJe4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MLnk47KYJe4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MLnk47KYJe4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MLnk47KYJe4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
-          "description": "Ever wonder who built the logging app changing portable operations? Meet Sebasti\u00e1n KI2D, creator of Ham2K PoLo! From Venezuela to New York, discover the story behind the app that lets you leave your laptop at home. Full interview available now on our channel and all podcast apps! #HamRadio #AmateurRadio #Ham2K #PoLo #POTA #ParksOnTheAir #EverydayHam #SebastianKI2D #PortableLogging #HamRadioApps #HamRadioPodcast #FieldOperations #MobileLogging #HamRadioInterview #HamRadioCommunity #RadioOperator #HamRadioLife #ContestLogging #QSOParty #HamRadioTech"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "322",
-        "likeCount": "7",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "v3CFqN6MMMmhqZFrxXE6ol8V18w",
-      "id": "2W-dp4mJddU",
-      "snippet": {
-        "publishedAt": "2025-11-27T17:26:49Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA better logger doesn't just record contacts\u2014it changes how you operate. We sit down with Sebasti\u00e1n KI2D, creator of Ham2K PoLo, to explore how mobile-first design, tiny UX details, and relentless iteration make portable operating smoother, faster, and less gear-heavy.\u00a0\n\n\nFrom his journey growing up in Venezuela to building startups in New York\u2014and yes, proposing the Arepa and Olive emojis\u2014Sebasti\u00e1n shares the mindset behind a tool that understands what activators actually do in the field.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2W-dp4mJddU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2W-dp4mJddU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2W-dp4mJddU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2W-dp4mJddU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2W-dp4mJddU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA better logger doesn't just record contacts\u2014it changes how you operate. We sit down with Sebasti\u00e1n KI2D, creator of Ham2K PoLo, to explore how mobile-first design, tiny UX details, and relentless iteration make portable operating smoother, faster, and less gear-heavy.\u00a0\n\n\nFrom his journey growing up in Venezuela to building startups in New York\u2014and yes, proposing the Arepa and Olive emojis\u2014Sebasti\u00e1n shares the mindset behind a tool that understands what activators actually do in the field.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "28",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JiVZMC1f5hBzC77aI1puOhqAFCg",
-      "id": "bFTukY-5v3g",
-      "snippet": {
-        "publishedAt": "2025-10-09T19:05:00Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo",
-        "description": "A better logger doesn't just record contacts\u2014it changes how you operate. We sit down with Sebasti\u00e1n KI2D, creator of Ham2K PoLo, to explore how mobile-first design, tiny UX details, and relentless iteration make portable operating smoother, faster, and less gear-heavy.\n\nFrom his journey growing up in Venezuela to building startups in New York\u2014and yes, proposing the Arepa and Olive emojis\u2014Sebasti\u00e1n shares the mindset behind a tool that understands what activators actually do in the field.\n\n\u26a1 Features That Feel Like Magic:\nWe dig into shortcuts you'll use this weekend: stack partial calls during a pileup and come back without losing rhythm, type a frequency straight into the call sign field and auto-spot with \"QRV,\" and log multi-ops or county lines with comma-separated entries that just work. PoLo reaches beyond POTA, supporting global programs like lighthouses, castles, silos, and WWFF. For contesters, PoLo now handles U.S. QSO parties with ongoing refinement for serials and edge cases.\n\n\ud83d\udd2e The Product Philosophy:\nSebasti\u00e1n opens up about his approach: ship a minimal version, test it in the real world, shave the rough edges, and repeat. We talk candidly about AI as a helpful tool\u2014not a replacement for vision\u2014and explore practical future ideas like voice-to-log that respects how operators actually speak.\n\n\ud83d\ude80 What's Coming Next:\nCloud sync for multi-device and multi-op logging, desktop and web experience for at-home contesting, and CAT control to snap your rig to spots and keep frequency data honest.\n\n\ud83d\udd17 Important Links:\nHam2K Website: https://www.ham2k.com/\nHam2k on YouTube: https://www.youtube.com/@Ham2KApps\nPoLo Documentation: https://polo.ham2k.com/\nSupport Sebasti\u00e1n: https://buymeacoffee.com/ham2k\nEveryday Ham Website: https://www.everydayham.com/\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: [Your Discord Link]\nYouTube: @EverydayHam\n\n\ud83c\udfa7 Listen as Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more at www.everydayham.com\n\n\ud83d\udc65 Your Hosts:\nJames Mills K8JKU | Jim Davis N8JRD | Rory Locke W8KNX\n\n\ud83d\udcac Which PoLo feature saves YOU the most time? Tell us in the comments!\n\n\ud83d\udce2 If you care about POTA, QSO parties, or logging without dragging a laptop into the woods, this conversation is packed with insights you can use this weekend. Follow the show, leave a review, and share it with a friend who loves operating portable.\n\nFun fact: Sebasti\u00e1n is the official author of the \ud83e\uded3 AREPA emoji and co-author of the \ud83e\uded2 OLIVE emoji!\n\n#HamRadio #Ham2K #PoLo #POTA #AmateurRadio #PortableLogging #SebastianKI2D #HamRadioApps #ContestLogging #EverydayHam #QSOParty #FieldOperations #HamRadioInterview #SoftwareDevelopment #HamRadioTech",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bFTukY-5v3g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bFTukY-5v3g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bFTukY-5v3g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bFTukY-5v3g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bFTukY-5v3g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "radio operators",
-          "HF",
-          "Ham2K",
-          "PoLo",
-          "Sebastian KI2D",
-          "KI2D",
-          "ham radio apps",
-          "portable logging",
-          "ham radio software",
-          "contest logging",
-          "QSO parties",
-          "ham radio interview",
-          "mobile logging",
-          "field operations",
-          "activator tips",
-          "WWFF",
-          "software development",
-          "ham radio tech",
-          "logging software",
-          "ham innovation",
-          "portable operations",
-          "ham radio tools"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D & Ham2K PoLo",
-          "description": "A better logger doesn't just record contacts\u2014it changes how you operate. We sit down with Sebasti\u00e1n KI2D, creator of Ham2K PoLo, to explore how mobile-first design, tiny UX details, and relentless iteration make portable operating smoother, faster, and less gear-heavy.\n\nFrom his journey growing up in Venezuela to building startups in New York\u2014and yes, proposing the Arepa and Olive emojis\u2014Sebasti\u00e1n shares the mindset behind a tool that understands what activators actually do in the field.\n\n\u26a1 Features That Feel Like Magic:\nWe dig into shortcuts you'll use this weekend: stack partial calls during a pileup and come back without losing rhythm, type a frequency straight into the call sign field and auto-spot with \"QRV,\" and log multi-ops or county lines with comma-separated entries that just work. PoLo reaches beyond POTA, supporting global programs like lighthouses, castles, silos, and WWFF. For contesters, PoLo now handles U.S. QSO parties with ongoing refinement for serials and edge cases.\n\n\ud83d\udd2e The Product Philosophy:\nSebasti\u00e1n opens up about his approach: ship a minimal version, test it in the real world, shave the rough edges, and repeat. We talk candidly about AI as a helpful tool\u2014not a replacement for vision\u2014and explore practical future ideas like voice-to-log that respects how operators actually speak.\n\n\ud83d\ude80 What's Coming Next:\nCloud sync for multi-device and multi-op logging, desktop and web experience for at-home contesting, and CAT control to snap your rig to spots and keep frequency data honest.\n\n\ud83d\udd17 Important Links:\nHam2K Website: https://www.ham2k.com/\nHam2k on YouTube: https://www.youtube.com/@Ham2KApps\nPoLo Documentation: https://polo.ham2k.com/\nSupport Sebasti\u00e1n: https://buymeacoffee.com/ham2k\nEveryday Ham Website: https://www.everydayham.com/\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: [Your Discord Link]\nYouTube: @EverydayHam\n\n\ud83c\udfa7 Listen as Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more at www.everydayham.com\n\n\ud83d\udc65 Your Hosts:\nJames Mills K8JKU | Jim Davis N8JRD | Rory Locke W8KNX\n\n\ud83d\udcac Which PoLo feature saves YOU the most time? Tell us in the comments!\n\n\ud83d\udce2 If you care about POTA, QSO parties, or logging without dragging a laptop into the woods, this conversation is packed with insights you can use this weekend. Follow the show, leave a review, and share it with a friend who loves operating portable.\n\nFun fact: Sebasti\u00e1n is the official author of the \ud83e\uded3 AREPA emoji and co-author of the \ud83e\uded2 OLIVE emoji!\n\n#HamRadio #Ham2K #PoLo #POTA #AmateurRadio #PortableLogging #SebastianKI2D #HamRadioApps #ContestLogging #EverydayHam #QSOParty #FieldOperations #HamRadioInterview #SoftwareDevelopment #HamRadioTech"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "398",
-        "likeCount": "28",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "W6J-E-k-TDDF7ZzL0uGWhEmK3DI",
-      "id": "rPImkJ2WbhY",
-      "snippet": {
-        "publishedAt": "2025-10-04T20:02:02Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "POTA at Island Lake + California QSO Party Hunting \ud83c\udf32\ud83d\udce1 #shorts",
-        "description": "Rory (W8KNX) takes Everyday Ham outdoors to Island Lake State Recreation Area in Michigan for some Parks on the Air fun! While activating the park, he\u2019s also hunting contacts in the California QSO Party. A perfect mix of portable radio, contest chasing, and autumn vibes in the field.\n#EverydayHam #POTA #ParksOnTheAir #AmateurRadio #HamRadio #SOTA #IslandLake #CQ #CaliforniaQSOParty #FieldRadio #PortableRadio #HamRadioLife #HamRadioFun #MichiganHamRadio #HamRadioOperator",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rPImkJ2WbhY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rPImkJ2WbhY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rPImkJ2WbhY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rPImkJ2WbhY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rPImkJ2WbhY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Everyday Ham",
-          "Ham Radio",
-          "Amateur Radio",
-          "Parks on the Air",
-          "POTA activation",
-          "Island Lake State Recreation Area",
-          "Michigan Ham Radio",
-          "W8KNX",
-          "POTA Michigan",
-          "portable ham radio",
-          "field radio",
-          "ham radio portable operations",
-          "ham radio contesting",
-          "California QSO Party",
-          "CQP 2025",
-          "HF portable",
-          "ham radio antenna",
-          "ham radio setup",
-          "ham radio operation",
-          "ham radio contacts",
-          "CQ contest",
-          "CQ party",
-          "operating portable",
-          "ham radio YouTube",
-          "POTA hunters",
-          "portable radio operations"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "POTA at Island Lake + California QSO Party Hunting \ud83c\udf32\ud83d\udce1 #shorts",
-          "description": "Rory (W8KNX) takes Everyday Ham outdoors to Island Lake State Recreation Area in Michigan for some Parks on the Air fun! While activating the park, he\u2019s also hunting contacts in the California QSO Party. A perfect mix of portable radio, contest chasing, and autumn vibes in the field.\n#EverydayHam #POTA #ParksOnTheAir #AmateurRadio #HamRadio #SOTA #IslandLake #CQ #CaliforniaQSOParty #FieldRadio #PortableRadio #HamRadioLife #HamRadioFun #MichiganHamRadio #HamRadioOperator"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "500",
-        "likeCount": "22",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "NFK6I_4w8hzihKEhXqNlumPobFw",
-      "id": "WA9HULjqK4Y",
-      "snippet": {
-        "publishedAt": "2025-09-28T03:22:21Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "When Michigan gives you a beautiful late September evening, you go camping with your radio!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WA9HULjqK4Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WA9HULjqK4Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WA9HULjqK4Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WA9HULjqK4Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WA9HULjqK4Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "When Michigan gives you a beautiful late September evening, you go camping with your radio!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "814",
-        "likeCount": "21",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-odvUOIECA0JV3MDNAdA43YkHrE",
-      "id": "lY7FFdDrnLQ",
-      "snippet": {
-        "publishedAt": "2025-09-27T22:03:13Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "FlexRadio's New Subscription: Fair or Feeble? #shorts",
-        "description": "FlexRadio's SmartSDR Plus subscription sparks debate. Is the $199/year fee justified? It's raising questions about value and accessibility among users. The financial impact varies, and opinions are divided on whether it's a reasonable cost. #FlexRadio #SmartSDR #hamradio #subscription #technology",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lY7FFdDrnLQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lY7FFdDrnLQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lY7FFdDrnLQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lY7FFdDrnLQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lY7FFdDrnLQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "FlexRadio",
-          "SmartSDR",
-          "SmartSDR Plus",
-          "subscription",
-          "software subscription",
-          "SDR",
-          "coffee chat",
-          "ham radio discussion",
-          "flex radio subscription",
-          "K8JKU",
-          "N8JRD",
-          "W8KNX",
-          "radio software",
-          "ham radio opinions",
-          "flex radio debate"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "FlexRadio's New Subscription: Fair or Feeble? #shorts",
-          "description": "FlexRadio's SmartSDR Plus subscription sparks debate. Is the $199/year fee justified? It's raising questions about value and accessibility among users. The financial impact varies, and opinions are divided on whether it's a reasonable cost. #FlexRadio #SmartSDR #hamradio #subscription #technology"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "1026",
-        "likeCount": "10",
-        "favoriteCount": "0",
-        "commentCount": "3"
       }
     }
   ]

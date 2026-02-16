@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-15 11:26 UTC*
+*Last updated: 2026-02-16 11:41 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [HF/VHF/UHF/ADSB Mobile station](https://www.reddit.com/r/amateurradio/comments/1r4uwtp/hfvhfuhfadsb_mobile_station/)**
-by u/Engineering_Simple
+**3. [This is incorrect (i think)](https://www.reddit.com/r/amateurradio/comments/1r5jf56/this_is_incorrect_i_think/)**
+by u/Fit_Tie5079
 
-**4. [I got my first full sized hf rig](https://www.reddit.com/r/amateurradio/comments/1r4y9yy/i_got_my_first_full_sized_hf_rig/)**
-by u/ButterscotchWitty870
+**4. [Hessenpark Amateurfunk](https://www.reddit.com/r/amateurradio/comments/1r5qgp1/hessenpark_amateurfunk/)**
+by u/DigitalWhitewater
 
-**5. [150ft radio tower.](https://www.reddit.com/r/amateurradio/comments/1r4xv3v/150ft_radio_tower/)**
-by u/estanminar
+**5. [You can always get DX at the Movies](https://www.reddit.com/r/amateurradio/comments/1r61f8q/you_can_always_get_dx_at_the_movies/)**
+by u/flwyd
 
-**6. [Saw this at the local gun show](https://www.reddit.com/r/amateurradio/comments/1r589ru/saw_this_at_the_local_gun_show/)**
+**6. [Can an HOA restrict an antenna?](https://www.reddit.com/r/amateurradio/comments/1r5d4cx/can_an_hoa_restrict_an_antenna/)**
+by u/HalFWit
+
+**7. [Saw this at the local gun show](https://www.reddit.com/r/amateurradio/comments/1r589ru/saw_this_at_the_local_gun_show/)**
 by u/DistinguishedRedneck
 
-**7. [Got my extra figured it's time to give back to the community.](https://www.reddit.com/r/amateurradio/comments/1r4rv71/got_my_extra_figured_its_time_to_give_back_to_the/)**
-by u/adhdff
+**8. [Yaesu 726R - No Audio, Static Only.](https://www.reddit.com/r/amateurradio/comments/1r62tsv/yaesu_726r_no_audio_static_only/)**
+by u/Illuminatus-Prime
 
-**8. [Any tips before I get started?](https://www.reddit.com/r/amateurradio/comments/1r5657b/any_tips_before_i_get_started/)**
-by u/denta87
+**9. [This band of QRM used to be around the 500 mark, now I’ve got three of them.](https://www.reddit.com/r/amateurradio/comments/1r614f6/this_band_of_qrm_used_to_be_around_the_500_mark/)**
+by u/BassManns222
 
-**9. [Best antenna and display placement for a “new-to-me” truck (2016 F-250)](https://www.reddit.com/r/amateurradio/comments/1r54dbr/best_antenna_and_display_placement_for_a_newtome/)**
-by u/TheAmateurRunner
+**10. [10m tall 40m vertical mounted on side of house, between two houses](https://www.reddit.com/r/amateurradio/comments/1r5woi3/10m_tall_40m_vertical_mounted_on_side_of_house/)**
+by u/Famous-Jeweler8543
 
-**10. [SOTA EFHW 40m Antenna](https://www.reddit.com/r/amateurradio/comments/1r52du8/sota_efhw_40m_antenna/)**
-by u/EglyleTheAndroid
+**11. [I was thinking of buying a nice mic for my remote rig…](https://www.reddit.com/r/amateurradio/comments/1r5pvas/i_was_thinking_of_buying_a_nice_mic_for_my_remote/)**
+by u/Blueberry_Mancakes
 
-**11. [[WALKTHROUGH] - 4Runner - HF/VHF/UHF/ADSB Mobile Station](https://www.reddit.com/r/amateurradio/comments/1r4xp9n/walkthrough_4runner_hfvhfuhfadsb_mobile_station/)**
-by u/Engineering_Simple
+**12. [FLdigi struggles when WSJTx works just fine](https://www.reddit.com/r/amateurradio/comments/1r5tjsr/fldigi_struggles_when_wsjtx_works_just_fine/)**
+by u/NetN0mad
 
-**12. [Just walking](https://www.reddit.com/r/amateurradio/comments/1r4w2hn/just_walking/)**
-by u/Hungry-Site3617
+**13. [FT-891 vs FTDX10 for CW, Noisy Suburbs](https://www.reddit.com/r/amateurradio/comments/1r5ubmz/ft891_vs_ftdx10_for_cw_noisy_suburbs/)**
+by u/irate-turtles
 
-**13. [Caught a bit of the USS Midway (NI6IW) today on 20M](https://www.reddit.com/r/amateurradio/comments/1r4tnry/caught_a_bit_of_the_uss_midway_ni6iw_today_on_20m/)**
-by u/MKE1969
+**14. [Fun Python Multi-channel Morse Decoder](https://www.reddit.com/r/amateurradio/comments/1r5jueq/fun_python_multichannel_morse_decoder/)**
+by u/Spiritual_Reaction85
 
-**14. [How many use left hand for CW?](https://www.reddit.com/r/amateurradio/comments/1r57mx0/how_many_use_left_hand_for_cw/)**
-by u/Judotimo
-
-**15. [Looking to get into amateur radio](https://www.reddit.com/r/amateurradio/comments/1r586n5/looking_to_get_into_amateur_radio/)**
-by u/reflections-are-lies
+**15. [Google Maps showed an old antenna on my house…](https://www.reddit.com/r/amateurradio/comments/1r5jdul/google_maps_showed_an_old_antenna_on_my_house/)**
+by u/miniowl22
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Help Requested - When I add my local NOAA weather station, I still hear it when ...](https://www.reddit.com/r/HamRadio/comments/1r52qdp/help_requested_when_i_add_my_local_noaa_weather/)**
+**3. [Construcción de selector de antena](https://www.reddit.com/r/HamRadio/comments/1r5v2zk/construcción_de_selector_de_antena/)**
+by u/SoftCivil2494
+
+**4. [Best HF transceiver under $3-4k for next 10+ years](https://www.reddit.com/r/HamRadio/comments/1r60tnt/best_hf_transceiver_under_34k_for_next_10_years/)**
+by u/Complete_Kiwi_9993
+
+**5. [What do I buy for my first HAM radio?](https://www.reddit.com/r/HamRadio/comments/1r66b7s/what_do_i_buy_for_my_first_ham_radio/)**
+by u/Ok-Original-3475
+
+**6. [out of curiosity, has anyone here ever received an emergency transmission?](https://www.reddit.com/r/HamRadio/comments/1r65sh7/out_of_curiosity_has_anyone_here_ever_received_an/)**
+by u/ujiaah
+
+**7. [What’s your mobile setup? Compact sedan](https://www.reddit.com/r/HamRadio/comments/1r64tnj/whats_your_mobile_setup_compact_sedan/)**
+by u/Chance_Hovercraft878
+
+**8. [FLdigi struggles when WSJTx works with FLrig.](https://www.reddit.com/r/HamRadio/comments/1r5tw0c/fldigi_struggles_when_wsjtx_works_with_flrig/)**
+by u/NetN0mad
+
+**9. [Help Requested - When I add my local NOAA weather station, I still hear it when ...](https://www.reddit.com/r/HamRadio/comments/1r52qdp/help_requested_when_i_add_my_local_noaa_weather/)**
 by u/Erde_Tyrene
 
-**4. [9K2OD From 15 meter band, CQ signal](https://www.reddit.com/r/HamRadio/comments/1r4ofrj/9k2od_from_15_meter_band_cq_signal/)**
-by u/softwaregorefan64
-
-**5. [RTTY like signals on 15Meter band from around 21.080-21.110MHz](https://www.reddit.com/r/HamRadio/comments/1r4on52/rtty_like_signals_on_15meter_band_from_around/)**
-by u/softwaregorefan64
-
-**6. [Did my microwave finish? But.. on 432.013.200MHz USB? (432.015MHz)](https://www.reddit.com/r/HamRadio/comments/1r4pkms/did_my_microwave_finish_but_on_432013200mhz_usb/)**
-by u/softwaregorefan64
-
-**7. [Hamming it up in the U.P. - Marquette](https://www.reddit.com/r/HamRadio/comments/1r4oxkk/hamming_it_up_in_the_up_marquette/)**
+**10. [Has anyone done FT8 on an Anytone AT-5555 Plus?](https://www.reddit.com/r/HamRadio/comments/1r5soom/has_anyone_done_ft8_on_an_anytone_at5555_plus/)**
 by u/SharkSapphire
 
-**8. [I have a schematic. How do I build it?](https://www.reddit.com/r/HamRadio/comments/1r4k1a8/i_have_a_schematic_how_do_i_build_it/)**
-by u/Weekly_Narwhal1588
+**11. [9K2OD From 15 meter band, CQ signal](https://www.reddit.com/r/HamRadio/comments/1r4ofrj/9k2od_from_15_meter_band_cq_signal/)**
+by u/softwaregorefan64
 
-**9. [Enigma cipher for secure radio communication during preparedness](https://www.reddit.com/r/HamRadio/comments/1r57zqf/enigma_cipher_for_secure_radio_communication/)**
-by u/Flat-Perception8975
+**12. [RTTY like signals on 15Meter band from around 21.080-21.110MHz](https://www.reddit.com/r/HamRadio/comments/1r4on52/rtty_like_signals_on_15meter_band_from_around/)**
+by u/softwaregorefan64
 
-**10. [Antenna project with my son. He is 12 and will take his Technician exam in a cou...](https://www.reddit.com/r/HamRadio/comments/1r3s24o/antenna_project_with_my_son_he_is_12_and_will/)**
-by u/SnooPeppers2417
+**13. [Did my microwave finish? But.. on 432.013.200MHz USB? (432.015MHz)](https://www.reddit.com/r/HamRadio/comments/1r4pkms/did_my_microwave_finish_but_on_432013200mhz_usb/)**
+by u/softwaregorefan64
 
-**11. [44th Annual Dalton HamFest Set for Dalton Fairgrounds on Feb. 28](https://www.reddit.com/r/HamRadio/comments/1r4otsh/44th_annual_dalton_hamfest_set_for_dalton/)**
+**14. [Hamming it up in the U.P. - Marquette](https://www.reddit.com/r/HamRadio/comments/1r4oxkk/hamming_it_up_in_the_up_marquette/)**
 by u/SharkSapphire
 
-**12. [Newbie with handheld what setup should I look at](https://www.reddit.com/r/HamRadio/comments/1r4pi9q/newbie_with_handheld_what_setup_should_i_look_at/)**
-by u/Fun_Campaign_8206
-
-**13. [Fannin County Amateur Radio Club to host training session Feb. 21](https://www.reddit.com/r/HamRadio/comments/1r4oybk/fannin_county_amateur_radio_club_to_host_training/)**
-by u/SharkSapphire
-
-**14. [Conctact made on 146.52 after 3 days of trying](https://www.reddit.com/r/HamRadio/comments/1r3vs7z/conctact_made_on_14652_after_3_days_of_trying/)**
-by u/lassmanac
-
-**15. [My first remote antenna switch for hf, with normally close to ground, 1.2swr@30m...](https://www.reddit.com/r/HamRadio/comments/1r3ms32/my_first_remote_antenna_switch_for_hf_with/)**
-by u/IU1LCU
+**15. [Can anyone crack this morse code?](https://www.reddit.com/r/HamRadio/comments/1r5evrc/can_anyone_crack_this_morse_code/)**
+by u/Responsible_Guess637
 
 ---
 
@@ -110,14 +110,14 @@ by u/IU1LCU
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r04y50/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[HF/VHF/UHF/ADSB Mobile station](https://www.reddit.com/r/amateurradio/comments/1r4uwtp/hfvhfuhfadsb_mobile_station/)** (r/amateurradio)
-- **[I got my first full sized hf rig](https://www.reddit.com/r/amateurradio/comments/1r4y9yy/i_got_my_first_full_sized_hf_rig/)** (r/amateurradio)
-- **[150ft radio tower.](https://www.reddit.com/r/amateurradio/comments/1r4xv3v/150ft_radio_tower/)** (r/amateurradio)
+- **[This is incorrect (i think)](https://www.reddit.com/r/amateurradio/comments/1r5jf56/this_is_incorrect_i_think/)** (r/amateurradio)
+- **[Hessenpark Amateurfunk](https://www.reddit.com/r/amateurradio/comments/1r5qgp1/hessenpark_amateurfunk/)** (r/amateurradio)
+- **[You can always get DX at the Movies](https://www.reddit.com/r/amateurradio/comments/1r61f8q/you_can_always_get_dx_at_the_movies/)** (r/amateurradio)
+- **[Can an HOA restrict an antenna?](https://www.reddit.com/r/amateurradio/comments/1r5d4cx/can_an_hoa_restrict_an_antenna/)** (r/amateurradio)
 - **[Saw this at the local gun show](https://www.reddit.com/r/amateurradio/comments/1r589ru/saw_this_at_the_local_gun_show/)** (r/amateurradio)
-- **[Got my extra figured it's time to give back to the community.](https://www.reddit.com/r/amateurradio/comments/1r4rv71/got_my_extra_figured_its_time_to_give_back_to_the/)** (r/amateurradio)
-- **[Any tips before I get started?](https://www.reddit.com/r/amateurradio/comments/1r5657b/any_tips_before_i_get_started/)** (r/amateurradio)
-- **[Best antenna and display placement for a “new-to-me” truck (2016 F-250...](https://www.reddit.com/r/amateurradio/comments/1r54dbr/best_antenna_and_display_placement_for_a_newtome/)** (r/amateurradio)
-- **[SOTA EFHW 40m Antenna](https://www.reddit.com/r/amateurradio/comments/1r52du8/sota_efhw_40m_antenna/)** (r/amateurradio)
+- **[Yaesu 726R - No Audio, Static Only.](https://www.reddit.com/r/amateurradio/comments/1r62tsv/yaesu_726r_no_audio_static_only/)** (r/amateurradio)
+- **[This band of QRM used to be around the 500 mark, now I’ve got three of...](https://www.reddit.com/r/amateurradio/comments/1r614f6/this_band_of_qrm_used_to_be_around_the_500_mark/)** (r/amateurradio)
+- **[10m tall 40m vertical mounted on side of house, between two houses](https://www.reddit.com/r/amateurradio/comments/1r5woi3/10m_tall_40m_vertical_mounted_on_side_of_house/)** (r/amateurradio)
 
 ---
 

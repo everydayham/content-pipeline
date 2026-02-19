@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T11:40:49.559698",
+  "updated": "2026-02-19T11:40:44.220199",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,79 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Box of radios. What to do with them?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8hfhh/box_of_radios_what_to_do_with_them/",
+        "author": "/u/57trevy"
+      },
+      {
+        "title": "New mode? FT2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r87pt2/new_mode_ft2/",
+        "author": "/u/Signal_Criticism_789"
+      },
+      {
+        "title": "MFJ941B - is something missing?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8eqm4/mfj941b_is_something_missing/",
+        "author": "/u/Minimum_Impressive"
+      },
+      {
+        "title": "Another UK Foundation question please, resistors in a circuit.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8dbao/another_uk_foundation_question_please_resistors/",
+        "author": "/u/LTguy"
+      },
+      {
+        "title": "FT2 \u2013 A New Digital Mode Hams Are Starting To Spot",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8akxk/ft2_a_new_digital_mode_hams_are_starting_to_spot/",
+        "author": "/u/OldObjective3047"
+      },
+      {
+        "title": "VK3YE Chopping Board Regen",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8k7oe/vk3ye_chopping_board_regen/",
+        "author": "/u/hipsterturtle02"
+      },
+      {
+        "title": "Need help picking a radio (Edited)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8we1n/need_help_picking_a_radio_edited/",
+        "author": "/u/ColtonRPKs"
+      },
+      {
+        "title": "Elecraft KH1 question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8nj9z/elecraft_kh1_question/",
+        "author": "/u/Medium_Top_9440"
+      },
+      {
+        "title": "Need help picking out a radio.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8uyvx/need_help_picking_out_a_radio/",
+        "author": "/u/ColtonRPKs"
+      },
+      {
+        "title": "Looking for a tiny QRP RF choke",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8hev2/looking_for_a_tiny_qrp_rf_choke/",
+        "author": "/u/JayBee103"
+      },
+      {
+        "title": "WRL Integration Disappointment",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8fkk6/wrl_integration_disappointment/",
+        "author": "/u/Bullhog"
+      },
+      {
         "title": "Look what showed up in the mail today",
         "link": "https://www.reddit.com/r/amateurradio/comments/1r7mhgy/look_what_showed_up_in_the_mail_today/",
         "author": "/u/ajslideways"
+      },
+      {
+        "title": "Parks on the Air, February 2026 Update",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8d039/parks_on_the_air_february_2026_update/",
+        "author": "/u/tamitall"
+      },
+      {
+        "title": "Looking for feedback on student project: Mesh-based messaging device using JS8Call",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8gc9h/looking_for_feedback_on_student_project_meshbased/",
+        "author": "/u/Betelgeu5e"
+      },
+      {
+        "title": "New browser based ADIF log analyzer and visualizer with maps and stats!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8dvli/new_browser_based_adif_log_analyzer_and/",
+        "author": "/u/bananaphoneMan"
       },
       {
         "title": "My setup as a newbie",
@@ -27,29 +97,14 @@
         "author": "/u/RemarkableScarcity40"
       },
       {
-        "title": "K3FEF update!! (V2. Let's try this again without the AI tweaks)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7rdx3/k3fef_update_v2_lets_try_this_again_without_the/",
-        "author": "/u/Local-Warthog-4311"
+        "title": "Question regarding how many baluns for a doublet?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8d7c6/question_regarding_how_many_baluns_for_a_doublet/",
+        "author": "/u/NorCalMisfit"
       },
       {
-        "title": "Basic Conceptual Question involving frequency, wavelength, and nomenclature (Longwave, Mediumwave, Shortwave, Microwave, etc.)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7n7dl/basic_conceptual_question_involving_frequency/",
-        "author": "/u/Tommy4D"
-      },
-      {
-        "title": "VEChat - modern packet radio chat",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7xauo/vechat_modern_packet_radio_chat/",
-        "author": "/u/areiks"
-      },
-      {
-        "title": "Atlas LCR, ESR Meter and Transistor reader",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7xmyb/atlas_lcr_esr_meter_and_transistor_reader/",
-        "author": "/u/hipsterturtle02"
-      },
-      {
-        "title": "Better question: Will it antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7l704/better_question_will_it_antenna/",
-        "author": "/u/just-a-guy-somewhere"
+        "title": "electricity sounds around 1700AM radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8k9nf/electricity_sounds_around_1700am_radio/",
+        "author": "/u/Poopyholo2"
       },
       {
         "title": "Strange modulation? I tried am dsb ssb wfm nfm, it look AM but NFM sound \"the best\"",
@@ -57,79 +112,24 @@
         "author": "/u/IU1LCU"
       },
       {
-        "title": "QSL Buddy Update: Modern Logger Gets Serious POTA Map + Spot-to-Tune-to-Log Workflow",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7nzl4/qsl_buddy_update_modern_logger_gets_serious_pota/",
-        "author": "/u/foobik"
+        "title": "VEChat - modern packet radio chat",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r7xauo/vechat_modern_packet_radio_chat/",
+        "author": "/u/areiks"
       },
       {
-        "title": "Antennas",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r72jqw/antennas/",
-        "author": "/u/TheUnkown696"
+        "title": "multi-band multi-mode handheld radios?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8i8lu/multiband_multimode_handheld_radios/",
+        "author": "/u/blackdog086"
       },
       {
-        "title": "Portable Far-Field Pattern Measurement Using NanoVNAs and LiteVNAs",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r80cl8/portable_farfield_pattern_measurement_using/",
-        "author": "/u/Antenit"
+        "title": "Voltage regulator product question.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r8a3cl/voltage_regulator_product_question/",
+        "author": "/u/Danjeerhaus"
       },
       {
-        "title": "Do YOU Recognize this Noise?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7rpxb/do_you_recognize_this_noise/",
-        "author": "/u/irate-turtles"
-      },
-      {
-        "title": "Passed my Amateur Extra! 3rd time really was the charm.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r6z2qy/passed_my_amateur_extra_3rd_time_really_was_the/",
-        "author": "/u/KG5RPZ"
-      },
-      {
-        "title": "CLI for HAM Test Practice (Canada)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7qm95/cli_for_ham_test_practice_canada/",
-        "author": "/u/mahmirr"
-      },
-      {
-        "title": "Gonna start laying out the panel for my comms box. This is what they mean by CAD right? \ud83e\udd23",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r6u5fd/gonna_start_laying_out_the_panel_for_my_comms_box/",
-        "author": "/u/adhdff"
-      },
-      {
-        "title": "Portable Radio Monitoring In Parks",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7yztj/portable_radio_monitoring_in_parks/",
-        "author": "/u/Single-Dare5211"
-      },
-      {
-        "title": "What's the best mobile antenna to improvise for HF multi-band reception?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7la0t/whats_the_best_mobile_antenna_to_improvise_for_hf/",
-        "author": "/u/AsAsin18"
-      },
-      {
-        "title": "So I got a NanoVNA and measured my SWR. Cool. So what else can I do with this?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7iwd2/so_i_got_a_nanovna_and_measured_my_swr_cool_so/",
-        "author": "/u/ShmazPro"
-      },
-      {
-        "title": "60m WSPR - US Edition",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7twrp/60m_wspr_us_edition/",
-        "author": "/u/Professional_Bike_21"
-      },
-      {
-        "title": "Display options for ham shack computer",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7er07/display_options_for_ham_shack_computer/",
-        "author": "/u/dbgreen"
-      },
-      {
-        "title": "Looking for home outside antenna mounts",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7o3a7/looking_for_home_outside_antenna_mounts/",
-        "author": "/u/Bjboulden"
-      },
-      {
-        "title": "New 60 Meter Band Freqs",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7dsx7/new_60_meter_band_freqs/",
-        "author": "/u/TolipTeews"
-      },
-      {
-        "title": "When did ham radios start incorporating waterfall displays? Which ham rigs first had them?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1r7sjkn/when_did_ham_radios_start_incorporating_waterfall/",
-        "author": "/u/greenwoody2018"
+        "title": "K3FEF update!! (V2. Let's try this again without the AI tweaks)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1r7rdx3/k3fef_update_v2_lets_try_this_again_without_the/",
+        "author": "/u/Local-Warthog-4311"
       }
     ],
     "HamRadio": [
@@ -144,14 +144,49 @@
         "author": "/u/SharkSapphire"
       },
       {
+        "title": "New browser based ADIF log analyzer and visualizer with maps and stats!",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8kms1/new_browser_based_adif_log_analyzer_and/",
+        "author": "/u/bananaphoneMan"
+      },
+      {
+        "title": "What is your go-to logging software and why?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8hyux/what_is_your_goto_logging_software_and_why/",
+        "author": "/u/FctFndr"
+      },
+      {
+        "title": "My \u201cborrowing-a-ride-because-truck-in-shop\u201d mobile set up.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r84ch5/my_borrowingaridebecausetruckinshop_mobile_set_up/",
+        "author": "/u/SnooPeppers2417"
+      },
+      {
+        "title": "Need some help regarding the Xiegu G90, long wire, counterpoise, and how to best connect them.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8kkiu/need_some_help_regarding_the_xiegu_g90_long_wire/",
+        "author": "/u/youbenchbro"
+      },
+      {
+        "title": "Looking for a tiny QRP RF choke",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8hbz1/looking_for_a_tiny_qrp_rf_choke/",
+        "author": "/u/JayBee103"
+      },
+      {
         "title": "I know nothing about this community although I recently found this and picked it up and I\u2019d like to know more about it pls",
         "link": "https://www.reddit.com/r/HamRadio/comments/1r7x29h/i_know_nothing_about_this_community_although_i/",
         "author": "/u/Obvious-Intention-93"
       },
       {
-        "title": "First Test of HF Portable Rig - Worked 6 States and The Caribbean Islands",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r76bqd/first_test_of_hf_portable_rig_worked_6_states_and/",
-        "author": "/u/prechfino"
+        "title": "Between Frequencies and Coffee, PCARA Sets Its Season in Motion",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8l2ji/between_frequencies_and_coffee_pcara_sets_its/",
+        "author": "/u/SharkSapphire"
+      },
+      {
+        "title": "Question regarding how many baluns for a doublet?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8d63n/question_regarding_how_many_baluns_for_a_doublet/",
+        "author": "/u/NorCalMisfit"
+      },
+      {
+        "title": "Ham Radio: The First Social Media presentation at Quarry Hill",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8kzsg/ham_radio_the_first_social_media_presentation_at/",
+        "author": "/u/SharkSapphire"
       },
       {
         "title": "Help with antenna, dual band dipole",
@@ -159,9 +194,9 @@
         "author": "/u/JLawinTX"
       },
       {
-        "title": "When did ham radios start incorporating waterfall displays? Which ham rigs first had them?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7scsd/when_did_ham_radios_start_incorporating_waterfall/",
-        "author": "/u/greenwoody2018"
+        "title": "First Test of HF Portable Rig - Worked 6 States and The Caribbean Islands",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r76bqd/first_test_of_hf_portable_rig_worked_6_states_and/",
+        "author": "/u/prechfino"
       },
       {
         "title": "VEChat - modern packet radio chat",
@@ -169,24 +204,19 @@
         "author": "/u/areiks"
       },
       {
+        "title": "Newbie In Search of Mobile Option",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r8ay8a/newbie_in_search_of_mobile_option/",
+        "author": "/u/Flat_Meringue_918"
+      },
+      {
+        "title": "When did ham radios start incorporating waterfall displays? Which ham rigs first had them?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r7scsd/when_did_ham_radios_start_incorporating_waterfall/",
+        "author": "/u/greenwoody2018"
+      },
+      {
         "title": "CLI for HAM Radio (Canada) in Python",
         "link": "https://www.reddit.com/r/HamRadio/comments/1r7qnyj/cli_for_ham_radio_canada_in_python/",
         "author": "/u/mahmirr"
-      },
-      {
-        "title": "How do I get a ham license in Netherlands?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7zaxn/how_do_i_get_a_ham_license_in_netherlands/",
-        "author": "/u/Powerful_School8006"
-      },
-      {
-        "title": "I made a site to help with direction finding",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7h41v/i_made_a_site_to_help_with_direction_finding/",
-        "author": "/u/derek1ee"
-      },
-      {
-        "title": "Anyone using a Xiegu G90 with a laptop for a waterfall and CAT control?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7inug/anyone_using_a_xiegu_g90_with_a_laptop_for_a/",
-        "author": "/u/Zombie_Jim"
       },
       {
         "title": "Strange modulation? I tried am dsb ssb wfm nfm, it look AM but NFM sound \"the best\"",
@@ -194,9 +224,24 @@
         "author": "/u/IU1LCU"
       },
       {
+        "title": "I made a site to help with direction finding",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r7h41v/i_made_a_site_to_help_with_direction_finding/",
+        "author": "/u/derek1ee"
+      },
+      {
+        "title": "How do I get a ham license in Netherlands?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r7zaxn/how_do_i_get_a_ham_license_in_netherlands/",
+        "author": "/u/Powerful_School8006"
+      },
+      {
         "title": "Reaching out to more knowledgeable people",
         "link": "https://www.reddit.com/r/HamRadio/comments/1r7gs4c/reaching_out_to_more_knowledgeable_people/",
         "author": "/u/Shoddy-Armadillo-710"
+      },
+      {
+        "title": "Anyone using a Xiegu G90 with a laptop for a waterfall and CAT control?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1r7inug/anyone_using_a_xiegu_g90_with_a_laptop_for_a/",
+        "author": "/u/Zombie_Jim"
       },
       {
         "title": "Looking for home outside antenna mounts",
@@ -212,51 +257,6 @@
         "title": "Jailbreaking the Baofeng MP31 for 70cm Ham Radio",
         "link": "https://www.reddit.com/r/HamRadio/comments/1r7dk3v/jailbreaking_the_baofeng_mp31_for_70cm_ham_radio/",
         "author": "/u/anselscamera"
-      },
-      {
-        "title": "Coax choke idea. Does this wacky idea work?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r77a1c/coax_choke_idea_does_this_wacky_idea_work/",
-        "author": "/u/Soap_Box_Hero"
-      },
-      {
-        "title": "Waterproof my connector, please",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r6mqzy/waterproof_my_connector_please/",
-        "author": "/u/Soap_Box_Hero"
-      },
-      {
-        "title": "Wideband Monitoring System of Drone Emissions Based on SDR Technology with RFNoC Architecture",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7bu8k/wideband_monitoring_system_of_drone_emissions/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "what a treat! just had my first POTA spot!",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r6j8ep/what_a_treat_just_had_my_first_pota_spot/",
-        "author": "/u/lassmanac"
-      },
-      {
-        "title": "Affordable commercial \u201cpower stations\u201d that use Lifepo4 and 25A discharge?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r6v248/affordable_commercial_power_stations_that_use/",
-        "author": "/u/shootingcharlie8"
-      },
-      {
-        "title": "Was that the UV-5r on the Beast Games?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r7g88g/was_that_the_uv5r_on_the_beast_games/",
-        "author": "/u/SourceInitial5192"
-      },
-      {
-        "title": "out of curiosity, has anyone here ever received an emergency transmission?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r65sh7/out_of_curiosity_has_anyone_here_ever_received_an/",
-        "author": "/u/ujiaah"
-      },
-      {
-        "title": "Flagpole type mast Vs Tower gut check",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r6pxsv/flagpole_type_mast_vs_tower_gut_check/",
-        "author": "/u/Big-Tutor-3060"
-      },
-      {
-        "title": "Climbing a 30'? Ham radio tower",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1r6acnz/climbing_a_30_ham_radio_tower/",
-        "author": "/u/Sulipheoth"
       }
     ]
   }

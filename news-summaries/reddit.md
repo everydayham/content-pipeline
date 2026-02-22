@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-21 11:26 UTC*
+*Last updated: 2026-02-22 11:26 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [7200khz and who is “Joe” guy I keep hearing?](https://www.reddit.com/r/amateurradio/comments/1rab6ee/7200khz_and_who_is_joe_guy_i_keep_hearing/)**
-by u/SpiritualTadpole4269
+**3. [Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)**
+by u/Rtard42069
 
-**4. [Does the author of FT2 mode breaks GPLv3 license?](https://www.reddit.com/r/amateurradio/comments/1ra1l37/does_the_author_of_ft2_mode_breaks_gplv3_license/)**
-by u/sq5t
+**4. [Whew, 129 POTA contacts in 3 hours. What a blast.](https://www.reddit.com/r/amateurradio/comments/1rb861n/whew_129_pota_contacts_in_3_hours_what_a_blast/)**
+by u/Blueberry_Mancakes
 
-**5. [What options are there for quick disconnect coax connectors?](https://www.reddit.com/r/amateurradio/comments/1raiw5p/what_options_are_there_for_quick_disconnect_coax/)**
-by u/KhyberPasshole
+**5. [Just Passed GENERAL!](https://www.reddit.com/r/amateurradio/comments/1ratpi1/just_passed_general/)**
+by u/BAHGate
 
-**6. [How to not get bored if you can only RX?](https://www.reddit.com/r/amateurradio/comments/1ragxvh/how_to_not_get_bored_if_you_can_only_rx/)**
-by u/Mejolov28
+**6. [Vintage transceiver controls](https://www.reddit.com/r/amateurradio/comments/1rbitwj/vintage_transceiver_controls/)**
+by u/sbogill
 
-**7. [Looking for birds to connect to in central US](https://www.reddit.com/r/amateurradio/comments/1raf8ci/looking_for_birds_to_connect_to_in_central_us/)**
-by u/YoMomasDaddy
+**7. [3D Printed CompacTenna Mount](https://www.reddit.com/r/amateurradio/comments/1rbcurd/3d_printed_compactenna_mount/)**
+by u/Dusty_Coax
 
-**8. [New to amateur radio - can someone explain the purpose of FT8?](https://www.reddit.com/r/amateurradio/comments/1r9szlu/new_to_amateur_radio_can_someone_explain_the/)**
-by u/Readvijfbijvijf
+**8. [Does TX power matter?](https://www.reddit.com/r/amateurradio/comments/1rbdw3x/does_tx_power_matter/)**
+by u/Famous-Jeweler8543
 
-**9. [Possible scam found](https://www.reddit.com/r/amateurradio/comments/1rak2ri/possible_scam_found/)**
-by u/Melodic-Evidence-958
+**9. [Is this site safe to buy from?](https://www.reddit.com/r/amateurradio/comments/1rbg25u/is_this_site_safe_to_buy_from/)**
+by u/SELESTER_11
 
-**10. [Free 50' self supporting tower in NC](https://www.reddit.com/r/amateurradio/comments/1ra2qgb/free_50_self_supporting_tower_in_nc/)**
-by u/cryptkeeper222
+**10. [New radio purchase help](https://www.reddit.com/r/amateurradio/comments/1rbfqyx/new_radio_purchase_help/)**
+by u/ShatterPoints
 
-**11. [New Orleans hams, what's the best repeater to use to coordinate a 2m/70cm POTA a...](https://www.reddit.com/r/amateurradio/comments/1ra2iar/new_orleans_hams_whats_the_best_repeater_to_use/)**
-by u/slatsandflaps
+**11. [New desoldering iron!](https://www.reddit.com/r/amateurradio/comments/1rb6gtb/new_desoldering_iron/)**
+by u/nerdariffic
 
-**12. [Need Arduino help for a Fox Hunt Transmitter build.](https://www.reddit.com/r/amateurradio/comments/1ra8tto/need_arduino_help_for_a_fox_hunt_transmitter_build/)**
-by u/Bn_scarpia
+**12. [Slow Day Today on FT8](https://www.reddit.com/r/amateurradio/comments/1rb32zi/slow_day_today_on_ft8/)**
+by u/Puzzleheaded_Tax8761
 
-**13. [Does the ICOM 2730 and 5100A use the same cables?](https://www.reddit.com/r/amateurradio/comments/1raasku/does_the_icom_2730_and_5100a_use_the_same_cables/)**
-by u/HeadlineINeed
+**13. [D-Star sucks, Selling my Kenwood D-75](https://www.reddit.com/r/amateurradio/comments/1rawt3r/dstar_sucks_selling_my_kenwood_d75/)**
+by u/SafirHafez
 
-**14. [Tracker - project update](https://www.reddit.com/r/amateurradio/comments/1r9bra8/tracker_project_update/)**
-by u/Yeti7
+**14. [nerding out](https://www.reddit.com/r/amateurradio/comments/1raxtid/nerding_out/)**
+by u/FlyCurious8305
 
-**15. [It's migrating too...](https://www.reddit.com/r/amateurradio/comments/1rab9lt/its_migrating_too/)**
-by u/TechnicallyAtFault
+**15. [Built a custom UV-K5 firmware with adaptive squelch and a voice-seeking spectrum...](https://www.reddit.com/r/amateurradio/comments/1rbayqp/built_a_custom_uvk5_firmware_with_adaptive/)**
+by u/Popular-Ad5171
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [What are you allowed to talk about over the air?](https://www.reddit.com/r/HamRadio/comments/1rajen7/what_are_you_allowed_to_talk_about_over_the_air/)**
-by u/PewPewLazrs101
+**3. [What is going on? Is ARRL basically the NRA of 20 years ago?](https://www.reddit.com/r/HamRadio/comments/1rbdiyl/what_is_going_on_is_arrl_basically_the_nra_of_20/)**
+by u/Complete_Kiwi_9993
 
-**4. [Can i use these dishes for anything Radio Related?](https://www.reddit.com/r/HamRadio/comments/1r9gsto/can_i_use_these_dishes_for_anything_radio_related/)**
-by u/PewPewLazrs101
+**4. [1965 Popular Electronics article](https://www.reddit.com/r/HamRadio/comments/1rba7bt/1965_popular_electronics_article/)**
+by u/PrincessModesty
 
-**5. [UV-5RM inquiry, please someone help](https://www.reddit.com/r/HamRadio/comments/1ramtsx/uv5rm_inquiry_please_someone_help/)**
-by u/Ronin_KBG
+**5. [Made my $30 UV-K5 do things a $300 radio can't](https://www.reddit.com/r/HamRadio/comments/1rbaz1b/made_my_30_uvk5_do_things_a_300_radio_cant/)**
+by u/Popular-Ad5171
 
-**6. [FT8 and FT4 with IOS mobile without computer](https://www.reddit.com/r/HamRadio/comments/1r9v9kl/ft8_and_ft4_with_ios_mobile_without_computer/)**
-by u/Temporary-Meal8319
+**6. [Just Passed General! Can't wait to get on the HF airwaves!](https://www.reddit.com/r/HamRadio/comments/1ratrgp/just_passed_general_cant_wait_to_get_on_the_hf/)**
+by u/BAHGate
 
-**7. [Cabin Fever 10 Meter Dipole I Built from Spare Parts.](https://www.reddit.com/r/HamRadio/comments/1r9khc5/cabin_fever_10_meter_dipole_i_built_from_spare/)**
-by u/beekeeper55
-
-**8. [Getting organized | Suggestions?](https://www.reddit.com/r/HamRadio/comments/1ra63h8/getting_organized_suggestions/)**
-by u/KyleKinda
-
-**9. [License study burnout humor, I hope](https://www.reddit.com/r/HamRadio/comments/1r9hpc5/license_study_burnout_humor_i_hope/)**
-by u/AutofluorescentPuku
-
-**10. [Supermorse.app will be taken down 20 May.](https://www.reddit.com/r/HamRadio/comments/1ra3upe/supermorseapp_will_be_taken_down_20_may/)**
-by u/erilaz123
-
-**11. [Yeasu FT-991 vs. Yeasu FTM-510 for VHF/UHF?](https://www.reddit.com/r/HamRadio/comments/1r9kuzq/yeasu_ft991_vs_yeasu_ftm510_for_vhfuhf/)**
-by u/OKAUSTX
-
-**12. [Wondering where I can find cheap radios?](https://www.reddit.com/r/HamRadio/comments/1r9e90p/wondering_where_i_can_find_cheap_radios/)**
-by u/ColdBit9881
-
-**13. [Advice for someone new to the Ham Radio hobby?](https://www.reddit.com/r/HamRadio/comments/1ra2d1u/advice_for_someone_new_to_the_ham_radio_hobby/)**
-by u/dedgodguy
-
-**14. [New ham here — built a small web-based QSO logger for myself, would love operato...](https://www.reddit.com/r/HamRadio/comments/1r9ax6g/new_ham_here_built_a_small_webbased_qso_logger/)**
-by u/iu3uxn
-
-**15. [Amateur radio station keeps Columbiana students connected](https://www.reddit.com/r/HamRadio/comments/1r938el/amateur_radio_station_keeps_columbiana_students/)**
+**7. [MFJ-1275 Sound Card Radio Interface. The red XMIT LED is always on, even when al...](https://www.reddit.com/r/HamRadio/comments/1rb9u5u/mfj1275_sound_card_radio_interface_the_red_xmit/)**
 by u/SharkSapphire
+
+**8. [Intro to HF bands; new to radio](https://www.reddit.com/r/HamRadio/comments/1ratfda/intro_to_hf_bands_new_to_radio/)**
+by u/paddyo99
+
+**9. [Apartment antenna advice (for an ELI5 noob)](https://www.reddit.com/r/HamRadio/comments/1rba7rg/apartment_antenna_advice_for_an_eli5_noob/)**
+by u/AfroWaterBuffalo84
+
+**10. [Radio antenna question (new to radios in general)](https://www.reddit.com/r/HamRadio/comments/1rb9lyu/radio_antenna_question_new_to_radios_in_general/)**
+by u/offroad_creations
+
+**11. [PoLo and WRL Logbook showing a contact in a place I know is wrong.](https://www.reddit.com/r/HamRadio/comments/1rbcs34/polo_and_wrl_logbook_showing_a_contact_in_a_place/)**
+by u/ali_j_ashraf
+
+**12. [Rattlegram over repeaters with an HT](https://www.reddit.com/r/HamRadio/comments/1rbbify/rattlegram_over_repeaters_with_an_ht/)**
+by u/Future_Trifle3238
+
+**13. [What are you allowed to talk about over the air?](https://www.reddit.com/r/HamRadio/comments/1rajen7/what_are_you_allowed_to_talk_about_over_the_air/)**
+by u/PewPewLazrs101
+
+**14. [Question about RF amplifier choice & wiring for AM VHF radio experiment](https://www.reddit.com/r/HamRadio/comments/1rb5w5d/question_about_rf_amplifier_choice_wiring_for_am/)**
+by u/MaxiBobinaMultiuso
+
+**15. [Motorola DM2400e – Blank / Sample Codeplug Needed](https://www.reddit.com/r/HamRadio/comments/1rb545c/motorola_dm2400e_blank_sample_codeplug_needed/)**
+by u/ondrah0
 
 ---
 
@@ -110,14 +110,14 @@ by u/SharkSapphire
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r6adih/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[7200khz and who is “Joe” guy I keep hearing?](https://www.reddit.com/r/amateurradio/comments/1rab6ee/7200khz_and_who_is_joe_guy_i_keep_hearing/)** (r/amateurradio)
-- **[Does the author of FT2 mode breaks GPLv3 license?](https://www.reddit.com/r/amateurradio/comments/1ra1l37/does_the_author_of_ft2_mode_breaks_gplv3_license/)** (r/amateurradio)
-- **[What options are there for quick disconnect coax connectors?](https://www.reddit.com/r/amateurradio/comments/1raiw5p/what_options_are_there_for_quick_disconnect_coax/)** (r/amateurradio)
-- **[How to not get bored if you can only RX?](https://www.reddit.com/r/amateurradio/comments/1ragxvh/how_to_not_get_bored_if_you_can_only_rx/)** (r/amateurradio)
-- **[Looking for birds to connect to in central US](https://www.reddit.com/r/amateurradio/comments/1raf8ci/looking_for_birds_to_connect_to_in_central_us/)** (r/amateurradio)
-- **[New to amateur radio - can someone explain the purpose of FT8?](https://www.reddit.com/r/amateurradio/comments/1r9szlu/new_to_amateur_radio_can_someone_explain_the/)** (r/amateurradio)
-- **[Possible scam found](https://www.reddit.com/r/amateurradio/comments/1rak2ri/possible_scam_found/)** (r/amateurradio)
-- **[Free 50' self supporting tower in NC](https://www.reddit.com/r/amateurradio/comments/1ra2qgb/free_50_self_supporting_tower_in_nc/)** (r/amateurradio)
+- **[Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)** (r/amateurradio)
+- **[Whew, 129 POTA contacts in 3 hours. What a blast.](https://www.reddit.com/r/amateurradio/comments/1rb861n/whew_129_pota_contacts_in_3_hours_what_a_blast/)** (r/amateurradio)
+- **[Just Passed GENERAL!](https://www.reddit.com/r/amateurradio/comments/1ratpi1/just_passed_general/)** (r/amateurradio)
+- **[Vintage transceiver controls](https://www.reddit.com/r/amateurradio/comments/1rbitwj/vintage_transceiver_controls/)** (r/amateurradio)
+- **[3D Printed CompacTenna Mount](https://www.reddit.com/r/amateurradio/comments/1rbcurd/3d_printed_compactenna_mount/)** (r/amateurradio)
+- **[Does TX power matter?](https://www.reddit.com/r/amateurradio/comments/1rbdw3x/does_tx_power_matter/)** (r/amateurradio)
+- **[Is this site safe to buy from?](https://www.reddit.com/r/amateurradio/comments/1rbg25u/is_this_site_safe_to_buy_from/)** (r/amateurradio)
+- **[New radio purchase help](https://www.reddit.com/r/amateurradio/comments/1rbfqyx/new_radio_purchase_help/)** (r/amateurradio)
 
 ---
 

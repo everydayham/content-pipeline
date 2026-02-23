@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-02-16 12:43 UTC*
+*Last updated: 2026-02-23 12:44 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Principal Ka Pota Ho💀👽#shorts#trending#couple#funn... | ZkT 5387 | 1,290,612 | 2026-02-10 |
-| Amitabh bachchn jaya Bachchan Doing their pota Ais... | Bollywood Galaxy | 822,064 | 2026-02-10 |
-| 50 सेकंड में Chicken 🍗 Leg & Pota Kaleji Curry Ric... | Khao Piyo Food Chall | 601,445 | 2026-02-10 |
-| 🤗Mahir ke birthday 🎂 par dada 👴🏻 pota 👦🏻khoob naac... | Diksha Ki Dunia | 451,000 | 2026-02-11 |
-| Sabse Jayda Koun Sota Hai 😝 #subhamkiastha #comedy... | Mr_&_Mrs_tiwari_02 V | 421,642 | 2026-02-10 |
-| 【奇跡】藤井聡太王座の大逆転！名局へと昇華させた神業【第72期王座戦五番勝負第三局】 #shorts | ABEMA将棋速報 | 410,878 | 2026-02-10 |
-| Itna bhi jaldi nahi tha 🤣🤣🤣🤣🤣#maa #pota #putoh #be... | Amit Deshi Vlogger  | 338,922 | 2026-02-14 |
-| ❤😇Jaya bachchan first look with her pota Aishwarya... | Bollywood life  | 162,204 | 2026-02-10 |
-| On The Air!  #chrisboden #comedy #educational #diy... | Chris Boden | 158,184 | 2026-02-10 |
-| West Ham Vs manchester united | ሲዲ ስፖርት / CD Sport  | 132,228 | 2026-02-10 |
-| Love my little HamCube #hamradio #hamradioamateur ... | Hobby Steve  | 112,190 | 2026-02-13 |
-| Backstop antenna ⚾️ #hamradio #hamradioamateur #ho... | Hobby Steve  | 102,922 | 2026-02-11 |
-| SOTA の父🌹 ,家を華やかに飾る 🎅🎉#BEFIRST | NINA_BESTY | 94,662 | 2026-02-12 |
-| Can you copy? pt.6 #morsecode #hamradio #practice ... | Radio Roamers | 82,554 | 2026-02-11 |
-| Sare Raat lekr sota hai 🥵 #foryou #villagerlifesty... | AicomedyHub | 79,144 | 2026-02-13 |
-| Fixing that Un-Fixable Ferrari Radio | Mend It Mark | 69,184 | 2026-02-15 |
-| Amazing skill! Women artisans crafting yogurt & kh... | BD Collection Offici | 57,050 | 2026-02-10 |
-| 【 BE:FIRST 】 SOTA の天然炸裂 #BEFIRST #BEFIRSTXBESTY #S... | まる【 BE:FIRST 切り抜き】 | 51,801 | 2026-02-14 |
-| "Dadi pota aur dahej 💰 part -3 🔥 virat kohli ka ki... | vndsklzgv | 45,396 | 2026-02-12 |
-| West Ham United Vs Manchester United | ዌስትሃም ዩናይትድ... | Bisrat Fm  | 35,066 | 2026-02-10 |
-| SOTA: 突然の反応 🤣🐬🌹美容師はパニックに陥った | NINA_BESTY | 34,044 | 2026-02-13 |
-| Me Bed Pe Sota Hon But | Bilal x Hania | #romantic... | Muzi vibes | 32,760 | 2026-02-11 |
-| Talking in Taps: The Magic of Morse Code 📻 | Gyaan  | 31,735 | 2026-02-12 |
-| Morse Practice with a beautiful RA1AOM pedal made ... | REVIL1337 | 30,896 | 2026-02-10 |
-| jab meri buaa kata wala bed par sota hii tab mera ... | Monu roy | 30,176 | 2026-02-11 |
+| Man contact ISS with homemade radio‼️🤯 | ShackCentral | 7,696,214 | 2026-02-17 |
+| 우주정거장과 교신을 시도한 남자 | 오호라 | 609,435 | 2026-02-20 |
+| Yazid Pelit Gak mau bagi Pota Bee ⁉️ #funny #sedih... | Izan Channel | 500,839 | 2026-02-21 |
+| "Дураки остались, цены поднялись!" Россияне о взле... | sotavision | 230,775 | 2026-02-17 |
+| Maa anna Bangaram dagara vali pota 😭😲 sana #brothe... | Entertainment  | 225,080 | 2026-02-18 |
+| KEEP YOUR RADIO ON! #cbradio #hamradio #trucks #hu... | VE7VU | 205,529 | 2026-02-17 |
+| SOTA,MANATO 🌹 品質が狂いそうだ#BEFIRST | NINA_BESTY | 143,885 | 2026-02-21 |
+| Gutter is how I do Radio from home! You can too! #... | Hobby Steve  | 121,461 | 2026-02-17 |
+| SODA BUTTI POTA ROWDY DOI😮😂😜 #thoufiq24 #gethugran... | Thoufiq24 | 115,763 | 2026-02-17 |
+| MATHEUS BALDI sota tudo que tava preso sobre VIRGI... | Fofoca Shorts TV | 115,001 | 2026-02-18 |
+| dada pota ⚽ football skill ⚽ #footballvideos #cric... | Jota_sujjon | 108,962 | 2026-02-17 |
+| Dadi And Pota Poti Indian Dadi in Winters Grandmot... | UmbrellaFlip88 | 105,861 | 2026-02-17 |
+| ⁉️Appa pota Suspense🤣#vlogs #vlogsvideo #vlog #vlo... | Challenge Kanna | 99,985 | 2026-02-22 |
+| 【 BE:FIRST 】 SOTA サンタ来ない(泣) #BEFIRST #BEFIRSTXBEST... | まる【 BE:FIRST 切り抜き】 | 92,444 | 2026-02-20 |
+| One month la Rishi Anna dagara vali pota 🥳😚 sana #... | Entertainment  | 83,877 | 2026-02-18 |
+| 【5年越しのTo The First】SOTA, SHUNTO, LEO(BE:FIRST), RA... | BE:FIRSTを広めたい | 72,631 | 2026-02-20 |
+| SOTA HANAMURA /「Me.exe」Official Dance Practice | Da-iCE | 66,959 | 2026-02-18 |
+| Husband ke saath sota pakad lia 😂 #shorts #viral #... | Dramabuzz | 63,376 | 2026-02-18 |
+| Tenía 23 años. Se descompensó mientras jugaba un p... | Radio Imagen Alcorta | 59,258 | 2026-02-16 |
+| CHICKEN POTA AND BOILED EGGS | | Zafri khan zkp | 58,286 | 2026-02-16 |
+| WAR WATCH: Massive US Air Power Buildup – Largest ... | War Watch Intel | 57,606 | 2026-02-19 |
+| Jab Ladka Choklet Se Bani Bed par Sota Hai To Koi ... | FACTO DAYA  | 51,093 | 2026-02-20 |
+| chal theek hai main sota hun ❤️ #kdrama #suho #sie... | Kdrama-l | 48,327 | 2026-02-17 |
+| “Horse Zameen Par Kyun Nahi Sota? 😳#viral, #shorts... | wild whisper tv  | 46,562 | 2026-02-16 |
+| Sourav Bana Ambani Ka Pota 😱 #shorts #funny #comed... | BooRa Farm | 45,882 | 2026-02-17 |
 
 ---
 
@@ -42,14 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (31 videos)
-- **License/Learning**: ████████████████████ (23 videos)
-- **HF Operating**: ████████████████████ (23 videos)
-- **Antennas**: ██████████████████ (18 videos)
-- **Gear Reviews**: ██████████ (10 videos)
-- **Digital Modes**: ███████ (7 videos)
-- **Contests**: ██ (2 videos)
-- **QRP**: ██ (2 videos)
+- **POTA/Portable**: ████████████████████ (28 videos)
+- **License/Learning**: ████████████████████ (22 videos)
+- **HF Operating**: ████████████████████ (21 videos)
+- **Antennas**: ███████████████ (15 videos)
+- **Gear Reviews**: █████████ (9 videos)
+- **Digital Modes**: ████ (4 videos)
+- **QRP**: ███ (3 videos)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-22 11:26 UTC*
+*Last updated: 2026-02-23 11:41 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)**
+**3. [Very excited, passed my amateur extra today!](https://www.reddit.com/r/amateurradio/comments/1rc3awt/very_excited_passed_my_amateur_extra_today/)**
+by u/ActualPrune9799
+
+**4. [20m CW contest waterfall](https://www.reddit.com/r/amateurradio/comments/1rbxr5v/20m_cw_contest_waterfall/)**
+by u/SwitchedOnNow
+
+**5. [POTA hunting app (aptly named potacat)](https://www.reddit.com/r/amateurradio/comments/1rc7nq3/pota_hunting_app_aptly_named_potacat/)**
+by u/Sakiwest
+
+**6. [Nice and clean cb install](https://www.reddit.com/r/amateurradio/comments/1rc1rz9/nice_and_clean_cb_install/)**
+by u/Mt-Meeker
+
+**7. [Triband 3 el. Yagi DIY instructions?](https://www.reddit.com/r/amateurradio/comments/1rcescq/triband_3_el_yagi_diy_instructions/)**
+by u/gett13
+
+**8. [High Noise floor? New kit available.](https://www.reddit.com/r/amateurradio/comments/1rcd4ko/high_noise_floor_new_kit_available/)**
+by u/M7EUP
+
+**9. [MorseLink — a CW trainer with adaptive pacing and real online QSO support (open ...](https://www.reddit.com/r/amateurradio/comments/1rc5dzj/morselink_a_cw_trainer_with_adaptive_pacing_and/)**
+by u/ImportantFootball330
+
+**10. [webchirp: Program your HT from your browser](https://www.reddit.com/r/amateurradio/comments/1rcer02/webchirp_program_your_ht_from_your_browser/)**
+by u/jasiek83
+
+**11. [Computer Generated Voice](https://www.reddit.com/r/amateurradio/comments/1rbz6aa/computer_generated_voice/)**
+by u/craynerd
+
+**12. [Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)**
 by u/Rtard42069
 
-**4. [Whew, 129 POTA contacts in 3 hours. What a blast.](https://www.reddit.com/r/amateurradio/comments/1rb861n/whew_129_pota_contacts_in_3_hours_what_a_blast/)**
-by u/Blueberry_Mancakes
+**13. [In Need of Straight Answers.](https://www.reddit.com/r/amateurradio/comments/1rbr0gm/in_need_of_straight_answers/)**
+by u/Such_Key
 
-**5. [Just Passed GENERAL!](https://www.reddit.com/r/amateurradio/comments/1ratpi1/just_passed_general/)**
-by u/BAHGate
+**14. [IC-746 not hitting 100w on peak on SSB](https://www.reddit.com/r/amateurradio/comments/1rc8khx/ic746_not_hitting_100w_on_peak_on_ssb/)**
+by u/SlavkoStanic
 
-**6. [Vintage transceiver controls](https://www.reddit.com/r/amateurradio/comments/1rbitwj/vintage_transceiver_controls/)**
-by u/sbogill
-
-**7. [3D Printed CompacTenna Mount](https://www.reddit.com/r/amateurradio/comments/1rbcurd/3d_printed_compactenna_mount/)**
-by u/Dusty_Coax
-
-**8. [Does TX power matter?](https://www.reddit.com/r/amateurradio/comments/1rbdw3x/does_tx_power_matter/)**
-by u/Famous-Jeweler8543
-
-**9. [Is this site safe to buy from?](https://www.reddit.com/r/amateurradio/comments/1rbg25u/is_this_site_safe_to_buy_from/)**
-by u/SELESTER_11
-
-**10. [New radio purchase help](https://www.reddit.com/r/amateurradio/comments/1rbfqyx/new_radio_purchase_help/)**
-by u/ShatterPoints
-
-**11. [New desoldering iron!](https://www.reddit.com/r/amateurradio/comments/1rb6gtb/new_desoldering_iron/)**
-by u/nerdariffic
-
-**12. [Slow Day Today on FT8](https://www.reddit.com/r/amateurradio/comments/1rb32zi/slow_day_today_on_ft8/)**
-by u/Puzzleheaded_Tax8761
-
-**13. [D-Star sucks, Selling my Kenwood D-75](https://www.reddit.com/r/amateurradio/comments/1rawt3r/dstar_sucks_selling_my_kenwood_d75/)**
-by u/SafirHafez
-
-**14. [nerding out](https://www.reddit.com/r/amateurradio/comments/1raxtid/nerding_out/)**
-by u/FlyCurious8305
-
-**15. [Built a custom UV-K5 firmware with adaptive squelch and a voice-seeking spectrum...](https://www.reddit.com/r/amateurradio/comments/1rbayqp/built_a_custom_uvk5_firmware_with_adaptive/)**
-by u/Popular-Ad5171
+**15. [C.A.R.L.A. - curious on the reliability and how it holds up during busy periods](https://www.reddit.com/r/amateurradio/comments/1rc0r17/carla_curious_on_the_reliability_and_how_it_holds/)**
+by u/BallsOutKrunked
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [What is going on? Is ARRL basically the NRA of 20 years ago?](https://www.reddit.com/r/HamRadio/comments/1rbdiyl/what_is_going_on_is_arrl_basically_the_nra_of_20/)**
-by u/Complete_Kiwi_9993
+**3. [Though "Communication" is literally its middle name, the FCC has the worst web p...](https://www.reddit.com/r/HamRadio/comments/1rc2oiz/though_communication_is_literally_its_middle_name/)**
+by u/pota-activator
 
-**4. [1965 Popular Electronics article](https://www.reddit.com/r/HamRadio/comments/1rba7bt/1965_popular_electronics_article/)**
-by u/PrincessModesty
+**4. [Resuscitated an Antique Telegraph Key](https://www.reddit.com/r/HamRadio/comments/1rbn6f5/resuscitated_an_antique_telegraph_key/)**
+by u/CharacterRule2453
 
-**5. [Made my $30 UV-K5 do things a $300 radio can't](https://www.reddit.com/r/HamRadio/comments/1rbaz1b/made_my_30_uvk5_do_things_a_300_radio_cant/)**
-by u/Popular-Ad5171
+**5. [CW Portion of 20 Meters (22 Feb 2026 18:45 UTC)](https://www.reddit.com/r/HamRadio/comments/1rbtxdk/cw_portion_of_20_meters_22_feb_2026_1845_utc/)**
+by u/Sufficient-Pilot-750
 
-**6. [Just Passed General! Can't wait to get on the HF airwaves!](https://www.reddit.com/r/HamRadio/comments/1ratrgp/just_passed_general_cant_wait_to_get_on_the_hf/)**
-by u/BAHGate
-
-**7. [MFJ-1275 Sound Card Radio Interface. The red XMIT LED is always on, even when al...](https://www.reddit.com/r/HamRadio/comments/1rb9u5u/mfj1275_sound_card_radio_interface_the_red_xmit/)**
+**6. [Students and amateur radio enthusiasts launch weather balloon in Englewood](https://www.reddit.com/r/HamRadio/comments/1rc3ehc/students_and_amateur_radio_enthusiasts_launch/)**
 by u/SharkSapphire
 
-**8. [Intro to HF bands; new to radio](https://www.reddit.com/r/HamRadio/comments/1ratfda/intro_to_hf_bands_new_to_radio/)**
-by u/paddyo99
+**7. [300 foot Tower Purchase and Relamping and Tour Video Linked.](https://www.reddit.com/r/HamRadio/comments/1rc5dup/300_foot_tower_purchase_and_relamping_and_tour/)**
+by u/mctscott
 
-**9. [Apartment antenna advice (for an ELI5 noob)](https://www.reddit.com/r/HamRadio/comments/1rba7rg/apartment_antenna_advice_for_an_eli5_noob/)**
-by u/AfroWaterBuffalo84
+**8. [Youkits FG-01 battery assistance](https://www.reddit.com/r/HamRadio/comments/1rcaj0s/youkits_fg01_battery_assistance/)**
+by u/jmngh
 
-**10. [Radio antenna question (new to radios in general)](https://www.reddit.com/r/HamRadio/comments/1rb9lyu/radio_antenna_question_new_to_radios_in_general/)**
-by u/offroad_creations
+**9. [Amplifying voices: Uniontown Amateur Radio Club installs new repeater](https://www.reddit.com/r/HamRadio/comments/1rc3fvj/amplifying_voices_uniontown_amateur_radio_club/)**
+by u/SharkSapphire
 
-**11. [PoLo and WRL Logbook showing a contact in a place I know is wrong.](https://www.reddit.com/r/HamRadio/comments/1rbcs34/polo_and_wrl_logbook_showing_a_contact_in_a_place/)**
-by u/ali_j_ashraf
+**10. [RF Analyzer 2.2 BETA - Bookmarks, Airspy HF+ & more](https://www.reddit.com/r/HamRadio/comments/1rcc1p9/rf_analyzer_22_beta_bookmarks_airspy_hf_more/)**
+by u/demantz
 
-**12. [Rattlegram over repeaters with an HT](https://www.reddit.com/r/HamRadio/comments/1rbbify/rattlegram_over_repeaters_with_an_ht/)**
-by u/Future_Trifle3238
+**11. [What is going on? Is ARRL basically the NRA of 20 years ago?](https://www.reddit.com/r/HamRadio/comments/1rbdiyl/what_is_going_on_is_arrl_basically_the_nra_of_20/)**
+by u/Complete_Kiwi_9993
 
-**13. [What are you allowed to talk about over the air?](https://www.reddit.com/r/HamRadio/comments/1rajen7/what_are_you_allowed_to_talk_about_over_the_air/)**
-by u/PewPewLazrs101
+**12. [Small(est) Working 10 Meter Antenna](https://www.reddit.com/r/HamRadio/comments/1rbnohg/smallest_working_10_meter_antenna/)**
+by u/No-Storage8158
 
-**14. [Question about RF amplifier choice & wiring for AM VHF radio experiment](https://www.reddit.com/r/HamRadio/comments/1rb5w5d/question_about_rf_amplifier_choice_wiring_for_am/)**
-by u/MaxiBobinaMultiuso
+**13. [MorseLink v1.9 — Adaptive CW Training + Open Source, Reproducible Builds](https://www.reddit.com/r/HamRadio/comments/1rc5oaw/morselink_v19_adaptive_cw_training_open_source/)**
+by u/ImportantFootball330
 
-**15. [Motorola DM2400e – Blank / Sample Codeplug Needed](https://www.reddit.com/r/HamRadio/comments/1rb545c/motorola_dm2400e_blank_sample_codeplug_needed/)**
-by u/ondrah0
+**14. [Made my $30 UV-K5 do things a $300 radio can't](https://www.reddit.com/r/HamRadio/comments/1rbaz1b/made_my_30_uvk5_do_things_a_300_radio_cant/)**
+by u/Popular-Ad5171
+
+**15. [Dual-Band Mobile Recommendations](https://www.reddit.com/r/HamRadio/comments/1rbyyft/dualband_mobile_recommendations/)**
+by u/jeepnjeff75
 
 ---
 
@@ -110,14 +110,14 @@ by u/ondrah0
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r6adih/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)** (r/amateurradio)
-- **[Whew, 129 POTA contacts in 3 hours. What a blast.](https://www.reddit.com/r/amateurradio/comments/1rb861n/whew_129_pota_contacts_in_3_hours_what_a_blast/)** (r/amateurradio)
-- **[Just Passed GENERAL!](https://www.reddit.com/r/amateurradio/comments/1ratpi1/just_passed_general/)** (r/amateurradio)
-- **[Vintage transceiver controls](https://www.reddit.com/r/amateurradio/comments/1rbitwj/vintage_transceiver_controls/)** (r/amateurradio)
-- **[3D Printed CompacTenna Mount](https://www.reddit.com/r/amateurradio/comments/1rbcurd/3d_printed_compactenna_mount/)** (r/amateurradio)
-- **[Does TX power matter?](https://www.reddit.com/r/amateurradio/comments/1rbdw3x/does_tx_power_matter/)** (r/amateurradio)
-- **[Is this site safe to buy from?](https://www.reddit.com/r/amateurradio/comments/1rbg25u/is_this_site_safe_to_buy_from/)** (r/amateurradio)
-- **[New radio purchase help](https://www.reddit.com/r/amateurradio/comments/1rbfqyx/new_radio_purchase_help/)** (r/amateurradio)
+- **[Very excited, passed my amateur extra today!](https://www.reddit.com/r/amateurradio/comments/1rc3awt/very_excited_passed_my_amateur_extra_today/)** (r/amateurradio)
+- **[20m CW contest waterfall](https://www.reddit.com/r/amateurradio/comments/1rbxr5v/20m_cw_contest_waterfall/)** (r/amateurradio)
+- **[POTA hunting app (aptly named potacat)](https://www.reddit.com/r/amateurradio/comments/1rc7nq3/pota_hunting_app_aptly_named_potacat/)** (r/amateurradio)
+- **[Nice and clean cb install](https://www.reddit.com/r/amateurradio/comments/1rc1rz9/nice_and_clean_cb_install/)** (r/amateurradio)
+- **[Triband 3 el. Yagi DIY instructions?](https://www.reddit.com/r/amateurradio/comments/1rcescq/triband_3_el_yagi_diy_instructions/)** (r/amateurradio)
+- **[High Noise floor? New kit available.](https://www.reddit.com/r/amateurradio/comments/1rcd4ko/high_noise_floor_new_kit_available/)** (r/amateurradio)
+- **[MorseLink — a CW trainer with adaptive pacing and real online QSO supp...](https://www.reddit.com/r/amateurradio/comments/1rc5dzj/morselink_a_cw_trainer_with_adaptive_pacing_and/)** (r/amateurradio)
+- **[webchirp: Program your HT from your browser](https://www.reddit.com/r/amateurradio/comments/1rcer02/webchirp_program_your_ht_from_your_browser/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-23 11:41 UTC*
+*Last updated: 2026-02-24 11:42 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r6adih/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rci76u/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Very excited, passed my amateur extra today!](https://www.reddit.com/r/amateurradio/comments/1rc3awt/very_excited_passed_my_amateur_extra_today/)**
-by u/ActualPrune9799
+**3. [Got something to do for the weekend... QMX kit came!](https://www.reddit.com/r/amateurradio/comments/1rdcn7k/got_something_to_do_for_the_weekend_qmx_kit_came/)**
+by u/lnbn
 
-**4. [20m CW contest waterfall](https://www.reddit.com/r/amateurradio/comments/1rbxr5v/20m_cw_contest_waterfall/)**
-by u/SwitchedOnNow
-
-**5. [POTA hunting app (aptly named potacat)](https://www.reddit.com/r/amateurradio/comments/1rc7nq3/pota_hunting_app_aptly_named_potacat/)**
-by u/Sakiwest
-
-**6. [Nice and clean cb install](https://www.reddit.com/r/amateurradio/comments/1rc1rz9/nice_and_clean_cb_install/)**
-by u/Mt-Meeker
-
-**7. [Triband 3 el. Yagi DIY instructions?](https://www.reddit.com/r/amateurradio/comments/1rcescq/triband_3_el_yagi_diy_instructions/)**
-by u/gett13
-
-**8. [High Noise floor? New kit available.](https://www.reddit.com/r/amateurradio/comments/1rcd4ko/high_noise_floor_new_kit_available/)**
-by u/M7EUP
-
-**9. [MorseLink — a CW trainer with adaptive pacing and real online QSO support (open ...](https://www.reddit.com/r/amateurradio/comments/1rc5dzj/morselink_a_cw_trainer_with_adaptive_pacing_and/)**
+**4. [I built an open-hardware USB Morse key connector for Windows (MorseLink Connecto...](https://www.reddit.com/r/amateurradio/comments/1rd3eis/i_built_an_openhardware_usb_morse_key_connector/)**
 by u/ImportantFootball330
 
-**10. [webchirp: Program your HT from your browser](https://www.reddit.com/r/amateurradio/comments/1rcer02/webchirp_program_your_ht_from_your_browser/)**
-by u/jasiek83
+**5. [First antenna build](https://www.reddit.com/r/amateurradio/comments/1rcklwl/first_antenna_build/)**
+by u/Jeff_1509
 
-**11. [Computer Generated Voice](https://www.reddit.com/r/amateurradio/comments/1rbz6aa/computer_generated_voice/)**
-by u/craynerd
+**6. [Noob here. FT8 on 20m band. I am in Europe, did I just get a signal from Austral...](https://www.reddit.com/r/amateurradio/comments/1rd9xmo/noob_here_ft8_on_20m_band_i_am_in_europe_did_i/)**
+by u/butterfly_labs
 
-**12. [Jesus Mary and Joseph $150 at a ham swap](https://www.reddit.com/r/amateurradio/comments/1rb3n05/jesus_mary_and_joseph_150_at_a_ham_swap/)**
-by u/Rtard42069
+**7. [Any info on the Ham-Key HK-1?](https://www.reddit.com/r/amateurradio/comments/1rd81n2/any_info_on_the_hamkey_hk1/)**
+by u/formulafuckyeah
 
-**13. [In Need of Straight Answers.](https://www.reddit.com/r/amateurradio/comments/1rbr0gm/in_need_of_straight_answers/)**
-by u/Such_Key
+**8. [SUNSPOTS HAVE FALLEN TO ZERO !!!](https://www.reddit.com/r/amateurradio/comments/1rcn035/sunspots_have_fallen_to_zero/)**
+by u/peteF64
 
-**14. [IC-746 not hitting 100w on peak on SSB](https://www.reddit.com/r/amateurradio/comments/1rc8khx/ic746_not_hitting_100w_on_peak_on_ssb/)**
-by u/SlavkoStanic
+**9. [Where is the ground plane?](https://www.reddit.com/r/amateurradio/comments/1rcqwcf/where_is_the_ground_plane/)**
+by u/MoreProgrammer8573
 
-**15. [C.A.R.L.A. - curious on the reliability and how it holds up during busy periods](https://www.reddit.com/r/amateurradio/comments/1rc0r17/carla_curious_on_the_reliability_and_how_it_holds/)**
-by u/BallsOutKrunked
+**10. [Ham radio resources for all.](https://www.reddit.com/r/amateurradio/comments/1rczc68/ham_radio_resources_for_all/)**
+by u/Own_Opposite_3136
+
+**11. [New OpenGD77 Web CPS](https://www.reddit.com/r/amateurradio/comments/1rddohw/new_opengd77_web_cps/)**
+by u/GridRadioGirl
+
+**12. [Phew, I've just passed the UK Foundation exam.](https://www.reddit.com/r/amateurradio/comments/1rcggv4/phew_ive_just_passed_the_uk_foundation_exam/)**
+by u/LTguy
+
+**13. [Kenwood ts520s](https://www.reddit.com/r/amateurradio/comments/1rcz4xa/kenwood_ts520s/)**
+by u/Alone-Government4829
+
+**14. [Help please](https://www.reddit.com/r/amateurradio/comments/1rdcbsu/help_please/)**
+by u/ProgrammerTop1413
+
+**15. [La radio... En tiempos de violencia](https://www.reddit.com/r/amateurradio/comments/1rd4c9h/la_radio_en_tiempos_de_violencia/)**
+by u/VICKGLEZ
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Though "Communication" is literally its middle name, the FCC has the worst web p...](https://www.reddit.com/r/HamRadio/comments/1rc2oiz/though_communication_is_literally_its_middle_name/)**
-by u/pota-activator
-
-**4. [Resuscitated an Antique Telegraph Key](https://www.reddit.com/r/HamRadio/comments/1rbn6f5/resuscitated_an_antique_telegraph_key/)**
-by u/CharacterRule2453
-
-**5. [CW Portion of 20 Meters (22 Feb 2026 18:45 UTC)](https://www.reddit.com/r/HamRadio/comments/1rbtxdk/cw_portion_of_20_meters_22_feb_2026_1845_utc/)**
-by u/Sufficient-Pilot-750
-
-**6. [Students and amateur radio enthusiasts launch weather balloon in Englewood](https://www.reddit.com/r/HamRadio/comments/1rc3ehc/students_and_amateur_radio_enthusiasts_launch/)**
-by u/SharkSapphire
-
-**7. [300 foot Tower Purchase and Relamping and Tour Video Linked.](https://www.reddit.com/r/HamRadio/comments/1rc5dup/300_foot_tower_purchase_and_relamping_and_tour/)**
-by u/mctscott
-
-**8. [Youkits FG-01 battery assistance](https://www.reddit.com/r/HamRadio/comments/1rcaj0s/youkits_fg01_battery_assistance/)**
-by u/jmngh
-
-**9. [Amplifying voices: Uniontown Amateur Radio Club installs new repeater](https://www.reddit.com/r/HamRadio/comments/1rc3fvj/amplifying_voices_uniontown_amateur_radio_club/)**
-by u/SharkSapphire
-
-**10. [RF Analyzer 2.2 BETA - Bookmarks, Airspy HF+ & more](https://www.reddit.com/r/HamRadio/comments/1rcc1p9/rf_analyzer_22_beta_bookmarks_airspy_hf_more/)**
-by u/demantz
-
-**11. [What is going on? Is ARRL basically the NRA of 20 years ago?](https://www.reddit.com/r/HamRadio/comments/1rbdiyl/what_is_going_on_is_arrl_basically_the_nra_of_20/)**
-by u/Complete_Kiwi_9993
-
-**12. [Small(est) Working 10 Meter Antenna](https://www.reddit.com/r/HamRadio/comments/1rbnohg/smallest_working_10_meter_antenna/)**
-by u/No-Storage8158
-
-**13. [MorseLink v1.9 — Adaptive CW Training + Open Source, Reproducible Builds](https://www.reddit.com/r/HamRadio/comments/1rc5oaw/morselink_v19_adaptive_cw_training_open_source/)**
+**3. [I built an open-hardware USB Morse key connector for Windows (MorseLink Connecto...](https://www.reddit.com/r/HamRadio/comments/1rd3c2y/i_built_an_openhardware_usb_morse_key_connector/)**
 by u/ImportantFootball330
 
-**14. [Made my $30 UV-K5 do things a $300 radio can't](https://www.reddit.com/r/HamRadio/comments/1rbaz1b/made_my_30_uvk5_do_things_a_300_radio_cant/)**
-by u/Popular-Ad5171
+**4. [Can I own an amateur radio before I get my license?](https://www.reddit.com/r/HamRadio/comments/1rcykcr/can_i_own_an_amateur_radio_before_i_get_my_license/)**
+by u/anonGhost222
 
-**15. [Dual-Band Mobile Recommendations](https://www.reddit.com/r/HamRadio/comments/1rbyyft/dualband_mobile_recommendations/)**
-by u/jeepnjeff75
+**5. [Never heard such a strange sound in the 2m band](https://www.reddit.com/r/HamRadio/comments/1rcgxxl/never_heard_such_a_strange_sound_in_the_2m_band/)**
+by u/Top_Gamer_A
+
+**6. [Ham Radio Resources for All de AB2M](https://www.reddit.com/r/HamRadio/comments/1rczlf4/ham_radio_resources_for_all_de_ab2m/)**
+by u/Own_Opposite_3136
+
+**7. [Any way to "refresh" a Li-ion battery?](https://www.reddit.com/r/HamRadio/comments/1rd2dhy/any_way_to_refresh_a_liion_battery/)**
+by u/capilot
+
+**8. [dumb question about equipment (what is this?)](https://www.reddit.com/r/HamRadio/comments/1rcvw7d/dumb_question_about_equipment_what_is_this/)**
+by u/Unlikely-Poetry-5384
+
+**9. [Anybody in Central Texas can program two Motorola Saber radios?](https://www.reddit.com/r/HamRadio/comments/1rcynrs/anybody_in_central_texas_can_program_two_motorola/)**
+by u/Tim_DHI
+
+**10. [Though "Communication" is literally its middle name, the FCC has the worst web p...](https://www.reddit.com/r/HamRadio/comments/1rc2oiz/though_communication_is_literally_its_middle_name/)**
+by u/pota-activator
+
+**11. [Resuscitated an Antique Telegraph Key](https://www.reddit.com/r/HamRadio/comments/1rbn6f5/resuscitated_an_antique_telegraph_key/)**
+by u/CharacterRule2453
+
+**12. [CW Portion of 20 Meters (22 Feb 2026 18:45 UTC)](https://www.reddit.com/r/HamRadio/comments/1rbtxdk/cw_portion_of_20_meters_22_feb_2026_1845_utc/)**
+by u/Sufficient-Pilot-750
+
+**13. [Students and amateur radio enthusiasts launch weather balloon in Englewood](https://www.reddit.com/r/HamRadio/comments/1rc3ehc/students_and_amateur_radio_enthusiasts_launch/)**
+by u/SharkSapphire
+
+**14. [Youkits FG-01 battery assistance](https://www.reddit.com/r/HamRadio/comments/1rcaj0s/youkits_fg01_battery_assistance/)**
+by u/jmngh
+
+**15. [300 foot Tower Purchase and Relamping and Tour Video Linked.](https://www.reddit.com/r/HamRadio/comments/1rc5dup/300_foot_tower_purchase_and_relamping_and_tour/)**
+by u/mctscott
 
 ---
 
@@ -108,16 +108,16 @@ by u/jeepnjeff75
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1r6adih/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rci76u/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Very excited, passed my amateur extra today!](https://www.reddit.com/r/amateurradio/comments/1rc3awt/very_excited_passed_my_amateur_extra_today/)** (r/amateurradio)
-- **[20m CW contest waterfall](https://www.reddit.com/r/amateurradio/comments/1rbxr5v/20m_cw_contest_waterfall/)** (r/amateurradio)
-- **[POTA hunting app (aptly named potacat)](https://www.reddit.com/r/amateurradio/comments/1rc7nq3/pota_hunting_app_aptly_named_potacat/)** (r/amateurradio)
-- **[Nice and clean cb install](https://www.reddit.com/r/amateurradio/comments/1rc1rz9/nice_and_clean_cb_install/)** (r/amateurradio)
-- **[Triband 3 el. Yagi DIY instructions?](https://www.reddit.com/r/amateurradio/comments/1rcescq/triband_3_el_yagi_diy_instructions/)** (r/amateurradio)
-- **[High Noise floor? New kit available.](https://www.reddit.com/r/amateurradio/comments/1rcd4ko/high_noise_floor_new_kit_available/)** (r/amateurradio)
-- **[MorseLink — a CW trainer with adaptive pacing and real online QSO supp...](https://www.reddit.com/r/amateurradio/comments/1rc5dzj/morselink_a_cw_trainer_with_adaptive_pacing_and/)** (r/amateurradio)
-- **[webchirp: Program your HT from your browser](https://www.reddit.com/r/amateurradio/comments/1rcer02/webchirp_program_your_ht_from_your_browser/)** (r/amateurradio)
+- **[Got something to do for the weekend... QMX kit came!](https://www.reddit.com/r/amateurradio/comments/1rdcn7k/got_something_to_do_for_the_weekend_qmx_kit_came/)** (r/amateurradio)
+- **[I built an open-hardware USB Morse key connector for Windows (MorseLin...](https://www.reddit.com/r/amateurradio/comments/1rd3eis/i_built_an_openhardware_usb_morse_key_connector/)** (r/amateurradio)
+- **[First antenna build](https://www.reddit.com/r/amateurradio/comments/1rcklwl/first_antenna_build/)** (r/amateurradio)
+- **[Noob here. FT8 on 20m band. I am in Europe, did I just get a signal fr...](https://www.reddit.com/r/amateurradio/comments/1rd9xmo/noob_here_ft8_on_20m_band_i_am_in_europe_did_i/)** (r/amateurradio)
+- **[Any info on the Ham-Key HK-1?](https://www.reddit.com/r/amateurradio/comments/1rd81n2/any_info_on_the_hamkey_hk1/)** (r/amateurradio)
+- **[SUNSPOTS HAVE FALLEN TO ZERO !!!](https://www.reddit.com/r/amateurradio/comments/1rcn035/sunspots_have_fallen_to_zero/)** (r/amateurradio)
+- **[Where is the ground plane?](https://www.reddit.com/r/amateurradio/comments/1rcqwcf/where_is_the_ground_plane/)** (r/amateurradio)
+- **[Ham radio resources for all.](https://www.reddit.com/r/amateurradio/comments/1rczc68/ham_radio_resources_for_all/)** (r/amateurradio)
 
 ---
 

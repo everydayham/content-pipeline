@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-02-28 11:23 UTC*
+*Last updated: 2026-03-01 11:23 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [IC-7850, how to sell?](https://www.reddit.com/r/amateurradio/comments/1rgm7i5/ic7850_how_to_sell/)**
-by u/carspaz
+**3. [Just a relaxing evening washing some big Johnson... capacitors.](https://www.reddit.com/r/amateurradio/comments/1rhj77l/just_a_relaxing_evening_washing_some_big_johnson/)**
+by u/Chucklz
 
-**4. [Made my first international DXs!](https://www.reddit.com/r/amateurradio/comments/1rgnio9/made_my_first_international_dxs/)**
-by u/New-Variation9146
+**4. [Can hear perfectly but no one can hear me](https://www.reddit.com/r/amateurradio/comments/1rhhd2v/can_hear_perfectly_but_no_one_can_hear_me/)**
+by u/clejeune
 
-**5. [After 3 years of fighting RF in my shack I finally fixed it in an afternoon. The...](https://www.reddit.com/r/amateurradio/comments/1rg25rx/after_3_years_of_fighting_rf_in_my_shack_i/)**
-by u/Mrmike86
+**5. [1929 Hartley Oscillator Build 💡](https://www.reddit.com/r/amateurradio/comments/1rhjlyn/1929_hartley_oscillator_build/)**
+by u/hipsterturtle02
 
-**6. [I think I found out why the radio in my C4 doesn't work...](https://www.reddit.com/r/amateurradio/comments/1rguknq/i_think_i_found_out_why_the_radio_in_my_c4_doesnt/)**
-by u/captainwhisk
+**6. [Iranian radio silence](https://www.reddit.com/r/amateurradio/comments/1rhdgql/iranian_radio_silence/)**
+by u/coolAlexbosss
 
-**7. [What is the purpose of this except looking insanely cool?](https://www.reddit.com/r/amateurradio/comments/1rg5s5q/what_is_the_purpose_of_this_except_looking/)**
-by u/just-a-guy-somewhere
+**7. [In case anyone has ever wondered about picking up signals in the middle of the P...](https://www.reddit.com/r/amateurradio/comments/1rhlato/in_case_anyone_has_ever_wondered_about_picking_up/)**
+by u/cptstubing16
 
-**8. [We need a routing protocol](https://www.reddit.com/r/amateurradio/comments/1rgk5a4/we_need_a_routing_protocol/)**
-by u/ki4jgt
+**8. [A few weeks ago, I posted about having some REALLY nasty QRM, and I thought it m...](https://www.reddit.com/r/amateurradio/comments/1rhfn9j/a_few_weeks_ago_i_posted_about_having_some_really/)**
+by u/kc3zyt
 
-**9. [Echolink works!](https://www.reddit.com/r/amateurradio/comments/1rgl6b7/echolink_works/)**
-by u/therealleotrotsky
+**9. [Currently studying for my technician license](https://www.reddit.com/r/amateurradio/comments/1rhlj5g/currently_studying_for_my_technician_license/)**
+by u/TheToyDr
 
-**10. [My new, modern, free and open source antenna simulator](https://www.reddit.com/r/amateurradio/comments/1rfsr6f/my_new_modern_free_and_open_source_antenna/)**
-by u/GoVlad314
+**10. [Looking to get into radio. Bad idea to buy this?](https://www.reddit.com/r/amateurradio/comments/1rhnujj/looking_to_get_into_radio_bad_idea_to_buy_this/)**
+by u/Warlord1918
 
-**11. [HamClock is not dead!](https://www.reddit.com/r/amateurradio/comments/1rgkid0/hamclock_is_not_dead/)**
-by u/EmuCurious4150
+**11. [To use an existing television coax wall cover that goes directly outside to my a...](https://www.reddit.com/r/amateurradio/comments/1rhgp51/to_use_an_existing_television_coax_wall_cover/)**
+by u/youbenchbro
 
-**12. [Youkits Battery Help](https://www.reddit.com/r/amateurradio/comments/1rguyg7/youkits_battery_help/)**
-by u/jmngh
+**12. [Yaesu radio issues](https://www.reddit.com/r/amateurradio/comments/1rhksyj/yaesu_radio_issues/)**
+by u/deadfoxy299
 
-**13. [Looking for beta testers](https://www.reddit.com/r/amateurradio/comments/1rgsukt/looking_for_beta_testers/)**
-by u/hemna
+**13. [First yagi WiFi antenna, how to improve?](https://www.reddit.com/r/amateurradio/comments/1rhmzvq/first_yagi_wifi_antenna_how_to_improve/)**
+by u/ZeroComms
 
-**14. [HamGeek AX-17 Pro screwdriver antenna control?](https://www.reddit.com/r/amateurradio/comments/1rgma9m/hamgeek_ax17_pro_screwdriver_antenna_control/)**
-by u/HeavyDuty_Ken
+**14. [New Operator Equipment Suggestions](https://www.reddit.com/r/amateurradio/comments/1rhrl5b/new_operator_equipment_suggestions/)**
+by u/cjscout06
 
-**15. [I've gotten a little taste of the radio stuff](https://www.reddit.com/r/amateurradio/comments/1rghest/ive_gotten_a_little_taste_of_the_radio_stuff/)**
-by u/mickeyisstupid
+**15. [What do I have here?](https://www.reddit.com/r/amateurradio/comments/1rh7ihz/what_do_i_have_here/)**
+by u/terrapin13
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [My first ever battery box build.](https://www.reddit.com/r/HamRadio/comments/1rgpiqx/my_first_ever_battery_box_build/)**
-by u/Sonicgott
-
-**4. [Can anyone ID this radio please?](https://www.reddit.com/r/HamRadio/comments/1rgi8dx/can_anyone_id_this_radio_please/)**
-by u/Slow-Appointment1512
-
-**5. [Astron RS-35 Grounding the case](https://www.reddit.com/r/HamRadio/comments/1rgtnq9/astron_rs35_grounding_the_case/)**
-by u/mikeporterinmd
-
-**6. [My Drake B Line, manufactured in 1968](https://www.reddit.com/r/HamRadio/comments/1rfwczk/my_drake_b_line_manufactured_in_1968/)**
+**3. [3Y0K: Helicopter on the Argus delivering equipment to Bouvet](https://www.reddit.com/r/HamRadio/comments/1rhr8pq/3y0k_helicopter_on_the_argus_delivering_equipment/)**
 by u/Sufficient_Gap6222
 
-**7. [Seeking advice - new Technician, can’t seem to figure out my local repeater?](https://www.reddit.com/r/HamRadio/comments/1rftqh6/seeking_advice_new_technician_cant_seem_to_figure/)**
-by u/Erde_Tyrene
+**4. [I made an open source completely headless server on a raspberry pi 1B for the ic...](https://www.reddit.com/r/HamRadio/comments/1rhuwmq/i_made_an_open_source_completely_headless_server/)**
+by u/mad_drill
 
-**8. [Channel Master 9500 antenna rotator](https://www.reddit.com/r/HamRadio/comments/1rgpasi/channel_master_9500_antenna_rotator/)**
-by u/3301T
+**5. [How do you all ground your radios working POTA when the park will not allow you ...](https://www.reddit.com/r/HamRadio/comments/1rhgcge/how_do_you_all_ground_your_radios_working_pota/)**
+by u/EdMonMo
 
-**9. [Shack tour of my humble shed !!](https://www.reddit.com/r/HamRadio/comments/1rg5qtg/shack_tour_of_my_humble_shed/)**
-by u/Horrorbythenumbers
+**6. [In addition to POTA and WRL, what other spotting sites are there?](https://www.reddit.com/r/HamRadio/comments/1rhcdq9/in_addition_to_pota_and_wrl_what_other_spotting/)**
+by u/lassmanac
 
-**10. [My desktop! For now, it's finished. I tried to make it as retro as possible](https://www.reddit.com/r/HamRadio/comments/1rfl5jv/my_desktop_for_now_its_finished_i_tried_to_make/)**
-by u/S52_DiDah
+**7. [New Foreign Ownership and Foreign Adversary Control Rules Adopted for FCC Author...](https://www.reddit.com/r/HamRadio/comments/1rhmhyk/new_foreign_ownership_and_foreign_adversary/)**
+by u/SharkSapphire
 
-**11. [I built an open-source Python library for controlling Icom radios over LAN — no ...](https://www.reddit.com/r/HamRadio/comments/1rfumh8/i_built_an_opensource_python_library_for/)**
-by u/morozsm
+**8. [UV-5Rx Accidentally Sent GMRS Radio?](https://www.reddit.com/r/HamRadio/comments/1rhjnb5/uv5rx_accidentally_sent_gmrs_radio/)**
+by u/penut45
 
-**12. [Equipment recommendations for 6 Meter](https://www.reddit.com/r/HamRadio/comments/1rfxlhk/equipment_recommendations_for_6_meter/)**
-by u/BuildingFun4790
+**9. [Antennas for small spaces and tiny roofs](https://www.reddit.com/r/HamRadio/comments/1rha3lq/antennas_for_small_spaces_and_tiny_roofs/)**
+by u/MustaphaGreenberg
 
-**13. [WSPR on X6200 + iDigi configuration?](https://www.reddit.com/r/HamRadio/comments/1rgdi5g/wspr_on_x6200_idigi_configuration/)**
-by u/oromex
+**10. [Salina Ham Radio to Track Artemis II Moon Mission](https://www.reddit.com/r/HamRadio/comments/1rh3003/salina_ham_radio_to_track_artemis_ii_moon_mission/)**
+by u/SharkSapphire
 
-**14. [Repurposing (cheap) networking gear for radio](https://www.reddit.com/r/HamRadio/comments/1rfikle/repurposing_cheap_networking_gear_for_radio/)**
-by u/lambo67
+**11. [My first ever battery box build.](https://www.reddit.com/r/HamRadio/comments/1rgpiqx/my_first_ever_battery_box_build/)**
+by u/Sonicgott
 
-**15. [Need Help Understanding EFHW Antennas for CW](https://www.reddit.com/r/HamRadio/comments/1rfqit8/need_help_understanding_efhw_antennas_for_cw/)**
-by u/SoulSeeker14
+**12. [Im setting up radios in vehicles and was wondering if there was a way to use my ...](https://www.reddit.com/r/HamRadio/comments/1rh17qi/im_setting_up_radios_in_vehicles_and_was/)**
+by u/Zealousideal_Stay112
+
+**13. [Adding A Panadapter To A Classic Receiver](https://www.reddit.com/r/HamRadio/comments/1rh2z0b/adding_a_panadapter_to_a_classic_receiver/)**
+by u/SharkSapphire
+
+**14. [Can anyone ID this radio please?](https://www.reddit.com/r/HamRadio/comments/1rgi8dx/can_anyone_id_this_radio_please/)**
+by u/Slow-Appointment1512
+
+**15. [Astron RS-35 Grounding the case](https://www.reddit.com/r/HamRadio/comments/1rgtnq9/astron_rs35_grounding_the_case/)**
+by u/mikeporterinmd
 
 ---
 
@@ -110,14 +110,14 @@ by u/SoulSeeker14
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rci76u/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[IC-7850, how to sell?](https://www.reddit.com/r/amateurradio/comments/1rgm7i5/ic7850_how_to_sell/)** (r/amateurradio)
-- **[Made my first international DXs!](https://www.reddit.com/r/amateurradio/comments/1rgnio9/made_my_first_international_dxs/)** (r/amateurradio)
-- **[After 3 years of fighting RF in my shack I finally fixed it in an afte...](https://www.reddit.com/r/amateurradio/comments/1rg25rx/after_3_years_of_fighting_rf_in_my_shack_i/)** (r/amateurradio)
-- **[I think I found out why the radio in my C4 doesn't work...](https://www.reddit.com/r/amateurradio/comments/1rguknq/i_think_i_found_out_why_the_radio_in_my_c4_doesnt/)** (r/amateurradio)
-- **[What is the purpose of this except looking insanely cool?](https://www.reddit.com/r/amateurradio/comments/1rg5s5q/what_is_the_purpose_of_this_except_looking/)** (r/amateurradio)
-- **[We need a routing protocol](https://www.reddit.com/r/amateurradio/comments/1rgk5a4/we_need_a_routing_protocol/)** (r/amateurradio)
-- **[Echolink works!](https://www.reddit.com/r/amateurradio/comments/1rgl6b7/echolink_works/)** (r/amateurradio)
-- **[My new, modern, free and open source antenna simulator](https://www.reddit.com/r/amateurradio/comments/1rfsr6f/my_new_modern_free_and_open_source_antenna/)** (r/amateurradio)
+- **[Just a relaxing evening washing some big Johnson... capacitors.](https://www.reddit.com/r/amateurradio/comments/1rhj77l/just_a_relaxing_evening_washing_some_big_johnson/)** (r/amateurradio)
+- **[Can hear perfectly but no one can hear me](https://www.reddit.com/r/amateurradio/comments/1rhhd2v/can_hear_perfectly_but_no_one_can_hear_me/)** (r/amateurradio)
+- **[1929 Hartley Oscillator Build 💡](https://www.reddit.com/r/amateurradio/comments/1rhjlyn/1929_hartley_oscillator_build/)** (r/amateurradio)
+- **[Iranian radio silence](https://www.reddit.com/r/amateurradio/comments/1rhdgql/iranian_radio_silence/)** (r/amateurradio)
+- **[In case anyone has ever wondered about picking up signals in the middl...](https://www.reddit.com/r/amateurradio/comments/1rhlato/in_case_anyone_has_ever_wondered_about_picking_up/)** (r/amateurradio)
+- **[A few weeks ago, I posted about having some REALLY nasty QRM, and I th...](https://www.reddit.com/r/amateurradio/comments/1rhfn9j/a_few_weeks_ago_i_posted_about_having_some_really/)** (r/amateurradio)
+- **[Currently studying for my technician license](https://www.reddit.com/r/amateurradio/comments/1rhlj5g/currently_studying_for_my_technician_license/)** (r/amateurradio)
+- **[Looking to get into radio. Bad idea to buy this?](https://www.reddit.com/r/amateurradio/comments/1rhnujj/looking_to_get_into_radio_bad_idea_to_buy_this/)** (r/amateurradio)
 
 ---
 

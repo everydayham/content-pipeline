@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-01 11:23 UTC*
+*Last updated: 2026-03-02 11:34 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Just a relaxing evening washing some big Johnson... capacitors.](https://www.reddit.com/r/amateurradio/comments/1rhj77l/just_a_relaxing_evening_washing_some_big_johnson/)**
-by u/Chucklz
+**3. [New HAM Here!](https://www.reddit.com/r/amateurradio/comments/1rihshq/new_ham_here/)**
+by u/Purple_Investment429
 
-**4. [Can hear perfectly but no one can hear me](https://www.reddit.com/r/amateurradio/comments/1rhhd2v/can_hear_perfectly_but_no_one_can_hear_me/)**
-by u/clejeune
+**4. [Wonderful day for a SOTA activation.](https://www.reddit.com/r/amateurradio/comments/1rii2ac/wonderful_day_for_a_sota_activation/)**
+by u/slimyprincelimey
 
-**5. [1929 Hartley Oscillator Build 💡](https://www.reddit.com/r/amateurradio/comments/1rhjlyn/1929_hartley_oscillator_build/)**
-by u/hipsterturtle02
+**5. [VA3MVW Back on HF](https://www.reddit.com/r/amateurradio/comments/1rhwt4q/va3mvw_back_on_hf/)**
+by u/mwillems
 
-**6. [Iranian radio silence](https://www.reddit.com/r/amateurradio/comments/1rhdgql/iranian_radio_silence/)**
-by u/coolAlexbosss
+**6. [At the park at 7am, amazed by the reception all over the spectrum](https://www.reddit.com/r/amateurradio/comments/1riklj5/at_the_park_at_7am_amazed_by_the_reception_all/)**
+by u/thevmcampos
 
-**7. [In case anyone has ever wondered about picking up signals in the middle of the P...](https://www.reddit.com/r/amateurradio/comments/1rhlato/in_case_anyone_has_ever_wondered_about_picking_up/)**
-by u/cptstubing16
+**7. ["New" Tool day](https://www.reddit.com/r/amateurradio/comments/1ri3ow9/new_tool_day/)**
+by u/hvontres
 
-**8. [A few weeks ago, I posted about having some REALLY nasty QRM, and I thought it m...](https://www.reddit.com/r/amateurradio/comments/1rhfn9j/a_few_weeks_ago_i_posted_about_having_some_really/)**
-by u/kc3zyt
+**8. [FT8, I made my 1st ever contacts today. I got my Foundation licence earlier this...](https://www.reddit.com/r/amateurradio/comments/1ri4vs7/ft8_i_made_my_1st_ever_contacts_today_i_got_my/)**
+by u/LTguy
 
-**9. [Currently studying for my technician license](https://www.reddit.com/r/amateurradio/comments/1rhlj5g/currently_studying_for_my_technician_license/)**
-by u/TheToyDr
+**9. [So I decided to make an antenna, vertical dipole and it is the only way I will e...](https://www.reddit.com/r/amateurradio/comments/1rii5xk/so_i_decided_to_make_an_antenna_vertical_dipole/)**
+by u/Fit-Leather-5726
 
-**10. [Looking to get into radio. Bad idea to buy this?](https://www.reddit.com/r/amateurradio/comments/1rhnujj/looking_to_get_into_radio_bad_idea_to_buy_this/)**
-by u/Warlord1918
+**10. [So this might be old hat for a lot of you but I just modified my first STL files...](https://www.reddit.com/r/amateurradio/comments/1rijgye/so_this_might_be_old_hat_for_a_lot_of_you_but_i/)**
+by u/adhdff
 
-**11. [To use an existing television coax wall cover that goes directly outside to my a...](https://www.reddit.com/r/amateurradio/comments/1rhgp51/to_use_an_existing_television_coax_wall_cover/)**
-by u/youbenchbro
+**11. [Anyone try using the new 60m allocation?](https://www.reddit.com/r/amateurradio/comments/1riervf/anyone_try_using_the_new_60m_allocation/)**
+by u/Famous-Jeweler8543
 
-**12. [Yaesu radio issues](https://www.reddit.com/r/amateurradio/comments/1rhksyj/yaesu_radio_issues/)**
-by u/deadfoxy299
+**12. [Help with EFHW first build - total noob](https://www.reddit.com/r/amateurradio/comments/1ribihp/help_with_efhw_first_build_total_noob/)**
+by u/Deagoldpp
 
-**13. [First yagi WiFi antenna, how to improve?](https://www.reddit.com/r/amateurradio/comments/1rhmzvq/first_yagi_wifi_antenna_how_to_improve/)**
-by u/ZeroComms
+**13. [New Ham seeking help with high SWR issues](https://www.reddit.com/r/amateurradio/comments/1riay1p/new_ham_seeking_help_with_high_swr_issues/)**
+by u/colev14
 
-**14. [New Operator Equipment Suggestions](https://www.reddit.com/r/amateurradio/comments/1rhrl5b/new_operator_equipment_suggestions/)**
-by u/cjscout06
+**14. [Idea for radio to voice-memo text messaging](https://www.reddit.com/r/amateurradio/comments/1rimur1/idea_for_radio_to_voicememo_text_messaging/)**
+by u/ham-radio-police
 
-**15. [What do I have here?](https://www.reddit.com/r/amateurradio/comments/1rh7ihz/what_do_i_have_here/)**
-by u/terrapin13
+**15. [Advice on options for mobile HAM/CB radio](https://www.reddit.com/r/amateurradio/comments/1rip5bc/advice_on_options_for_mobile_hamcb_radio/)**
+by u/jfgferreira
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [3Y0K: Helicopter on the Argus delivering equipment to Bouvet](https://www.reddit.com/r/HamRadio/comments/1rhr8pq/3y0k_helicopter_on_the_argus_delivering_equipment/)**
-by u/Sufficient_Gap6222
+**3. [I came across this a while back at a garage sale… is it worth anything?](https://www.reddit.com/r/HamRadio/comments/1ri1vip/i_came_across_this_a_while_back_at_a_garage_sale/)**
+by u/G2g2249
 
-**4. [I made an open source completely headless server on a raspberry pi 1B for the ic...](https://www.reddit.com/r/HamRadio/comments/1rhuwmq/i_made_an_open_source_completely_headless_server/)**
+**4. [Here is my first antenna/ center fed dipole out of coax](https://www.reddit.com/r/HamRadio/comments/1ri1r74/here_is_my_first_antenna_center_fed_dipole_out_of/)**
+by u/CanadienWoodsman
+
+**5. [What’s the new Radio Shack? I’m new;)](https://www.reddit.com/r/HamRadio/comments/1ri4dq1/whats_the_new_radio_shack_im_new/)**
+by u/tadsagtasgde
+
+**6. [Can't get APRS working on GD88...](https://www.reddit.com/r/HamRadio/comments/1rijkqr/cant_get_aprs_working_on_gd88/)**
+by u/Alert_Baby_3587
+
+**7. [Yeasu FT-710 vs Xiegu X6100/X6200 with power amp?](https://www.reddit.com/r/HamRadio/comments/1ri6n0l/yeasu_ft710_vs_xiegu_x6100x6200_with_power_amp/)**
+by u/OKAUSTX
+
+**8. [Ham radio groups to hold free workshop in Hull](https://www.reddit.com/r/HamRadio/comments/1ri6fx2/ham_radio_groups_to_hold_free_workshop_in_hull/)**
+by u/SharkSapphire
+
+**9. [I made an open source completely headless server on a raspberry pi 1B for the ic...](https://www.reddit.com/r/HamRadio/comments/1rhuwmq/i_made_an_open_source_completely_headless_server/)**
 by u/mad_drill
 
-**5. [How do you all ground your radios working POTA when the park will not allow you ...](https://www.reddit.com/r/HamRadio/comments/1rhgcge/how_do_you_all_ground_your_radios_working_pota/)**
+**10. [3Y0K: Helicopter on the Argus delivering equipment to Bouvet](https://www.reddit.com/r/HamRadio/comments/1rhr8pq/3y0k_helicopter_on_the_argus_delivering_equipment/)**
+by u/Sufficient_Gap6222
+
+**11. [Rydberg atoms detect clear signals from a handheld radio](https://www.reddit.com/r/HamRadio/comments/1rhzfwf/rydberg_atoms_detect_clear_signals_from_a/)**
+by u/OliverDawgy
+
+**12. [How do you all ground your radios working POTA when the park will not allow you ...](https://www.reddit.com/r/HamRadio/comments/1rhgcge/how_do_you_all_ground_your_radios_working_pota/)**
 by u/EdMonMo
 
-**6. [In addition to POTA and WRL, what other spotting sites are there?](https://www.reddit.com/r/HamRadio/comments/1rhcdq9/in_addition_to_pota_and_wrl_what_other_spotting/)**
+**13. [Blackout communications and off grid comms](https://www.reddit.com/r/HamRadio/comments/1ri5wct/blackout_communications_and_off_grid_comms/)**
+by u/Horrorbythenumbers
+
+**14. [In addition to POTA and WRL, what other spotting sites are there?](https://www.reddit.com/r/HamRadio/comments/1rhcdq9/in_addition_to_pota_and_wrl_what_other_spotting/)**
 by u/lassmanac
 
-**7. [New Foreign Ownership and Foreign Adversary Control Rules Adopted for FCC Author...](https://www.reddit.com/r/HamRadio/comments/1rhmhyk/new_foreign_ownership_and_foreign_adversary/)**
+**15. [New Foreign Ownership and Foreign Adversary Control Rules Adopted for FCC Author...](https://www.reddit.com/r/HamRadio/comments/1rhmhyk/new_foreign_ownership_and_foreign_adversary/)**
 by u/SharkSapphire
-
-**8. [UV-5Rx Accidentally Sent GMRS Radio?](https://www.reddit.com/r/HamRadio/comments/1rhjnb5/uv5rx_accidentally_sent_gmrs_radio/)**
-by u/penut45
-
-**9. [Antennas for small spaces and tiny roofs](https://www.reddit.com/r/HamRadio/comments/1rha3lq/antennas_for_small_spaces_and_tiny_roofs/)**
-by u/MustaphaGreenberg
-
-**10. [Salina Ham Radio to Track Artemis II Moon Mission](https://www.reddit.com/r/HamRadio/comments/1rh3003/salina_ham_radio_to_track_artemis_ii_moon_mission/)**
-by u/SharkSapphire
-
-**11. [My first ever battery box build.](https://www.reddit.com/r/HamRadio/comments/1rgpiqx/my_first_ever_battery_box_build/)**
-by u/Sonicgott
-
-**12. [Im setting up radios in vehicles and was wondering if there was a way to use my ...](https://www.reddit.com/r/HamRadio/comments/1rh17qi/im_setting_up_radios_in_vehicles_and_was/)**
-by u/Zealousideal_Stay112
-
-**13. [Adding A Panadapter To A Classic Receiver](https://www.reddit.com/r/HamRadio/comments/1rh2z0b/adding_a_panadapter_to_a_classic_receiver/)**
-by u/SharkSapphire
-
-**14. [Can anyone ID this radio please?](https://www.reddit.com/r/HamRadio/comments/1rgi8dx/can_anyone_id_this_radio_please/)**
-by u/Slow-Appointment1512
-
-**15. [Astron RS-35 Grounding the case](https://www.reddit.com/r/HamRadio/comments/1rgtnq9/astron_rs35_grounding_the_case/)**
-by u/mikeporterinmd
 
 ---
 
@@ -110,14 +110,14 @@ by u/mikeporterinmd
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rci76u/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Just a relaxing evening washing some big Johnson... capacitors.](https://www.reddit.com/r/amateurradio/comments/1rhj77l/just_a_relaxing_evening_washing_some_big_johnson/)** (r/amateurradio)
-- **[Can hear perfectly but no one can hear me](https://www.reddit.com/r/amateurradio/comments/1rhhd2v/can_hear_perfectly_but_no_one_can_hear_me/)** (r/amateurradio)
-- **[1929 Hartley Oscillator Build 💡](https://www.reddit.com/r/amateurradio/comments/1rhjlyn/1929_hartley_oscillator_build/)** (r/amateurradio)
-- **[Iranian radio silence](https://www.reddit.com/r/amateurradio/comments/1rhdgql/iranian_radio_silence/)** (r/amateurradio)
-- **[In case anyone has ever wondered about picking up signals in the middl...](https://www.reddit.com/r/amateurradio/comments/1rhlato/in_case_anyone_has_ever_wondered_about_picking_up/)** (r/amateurradio)
-- **[A few weeks ago, I posted about having some REALLY nasty QRM, and I th...](https://www.reddit.com/r/amateurradio/comments/1rhfn9j/a_few_weeks_ago_i_posted_about_having_some_really/)** (r/amateurradio)
-- **[Currently studying for my technician license](https://www.reddit.com/r/amateurradio/comments/1rhlj5g/currently_studying_for_my_technician_license/)** (r/amateurradio)
-- **[Looking to get into radio. Bad idea to buy this?](https://www.reddit.com/r/amateurradio/comments/1rhnujj/looking_to_get_into_radio_bad_idea_to_buy_this/)** (r/amateurradio)
+- **[New HAM Here!](https://www.reddit.com/r/amateurradio/comments/1rihshq/new_ham_here/)** (r/amateurradio)
+- **[Wonderful day for a SOTA activation.](https://www.reddit.com/r/amateurradio/comments/1rii2ac/wonderful_day_for_a_sota_activation/)** (r/amateurradio)
+- **[VA3MVW Back on HF](https://www.reddit.com/r/amateurradio/comments/1rhwt4q/va3mvw_back_on_hf/)** (r/amateurradio)
+- **[At the park at 7am, amazed by the reception all over the spectrum](https://www.reddit.com/r/amateurradio/comments/1riklj5/at_the_park_at_7am_amazed_by_the_reception_all/)** (r/amateurradio)
+- **["New" Tool day](https://www.reddit.com/r/amateurradio/comments/1ri3ow9/new_tool_day/)** (r/amateurradio)
+- **[FT8, I made my 1st ever contacts today. I got my Foundation licence ea...](https://www.reddit.com/r/amateurradio/comments/1ri4vs7/ft8_i_made_my_1st_ever_contacts_today_i_got_my/)** (r/amateurradio)
+- **[So I decided to make an antenna, vertical dipole and it is the only wa...](https://www.reddit.com/r/amateurradio/comments/1rii5xk/so_i_decided_to_make_an_antenna_vertical_dipole/)** (r/amateurradio)
+- **[So this might be old hat for a lot of you but I just modified my first...](https://www.reddit.com/r/amateurradio/comments/1rijgye/so_this_might_be_old_hat_for_a_lot_of_you_but_i/)** (r/amateurradio)
 
 ---
 

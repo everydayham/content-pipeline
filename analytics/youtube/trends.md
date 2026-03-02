@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-02-23 12:44 UTC*
+*Last updated: 2026-03-02 12:39 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Man contact ISS with homemade radio‼️🤯 | ShackCentral | 7,696,214 | 2026-02-17 |
-| 우주정거장과 교신을 시도한 남자 | 오호라 | 609,435 | 2026-02-20 |
-| Yazid Pelit Gak mau bagi Pota Bee ⁉️ #funny #sedih... | Izan Channel | 500,839 | 2026-02-21 |
-| "Дураки остались, цены поднялись!" Россияне о взле... | sotavision | 230,775 | 2026-02-17 |
-| Maa anna Bangaram dagara vali pota 😭😲 sana #brothe... | Entertainment  | 225,080 | 2026-02-18 |
-| KEEP YOUR RADIO ON! #cbradio #hamradio #trucks #hu... | VE7VU | 205,529 | 2026-02-17 |
-| SOTA,MANATO 🌹 品質が狂いそうだ#BEFIRST | NINA_BESTY | 143,885 | 2026-02-21 |
-| Gutter is how I do Radio from home! You can too! #... | Hobby Steve  | 121,461 | 2026-02-17 |
-| SODA BUTTI POTA ROWDY DOI😮😂😜 #thoufiq24 #gethugran... | Thoufiq24 | 115,763 | 2026-02-17 |
-| MATHEUS BALDI sota tudo que tava preso sobre VIRGI... | Fofoca Shorts TV | 115,001 | 2026-02-18 |
-| dada pota ⚽ football skill ⚽ #footballvideos #cric... | Jota_sujjon | 108,962 | 2026-02-17 |
-| Dadi And Pota Poti Indian Dadi in Winters Grandmot... | UmbrellaFlip88 | 105,861 | 2026-02-17 |
-| ⁉️Appa pota Suspense🤣#vlogs #vlogsvideo #vlog #vlo... | Challenge Kanna | 99,985 | 2026-02-22 |
-| 【 BE:FIRST 】 SOTA サンタ来ない(泣) #BEFIRST #BEFIRSTXBEST... | まる【 BE:FIRST 切り抜き】 | 92,444 | 2026-02-20 |
-| One month la Rishi Anna dagara vali pota 🥳😚 sana #... | Entertainment  | 83,877 | 2026-02-18 |
-| 【5年越しのTo The First】SOTA, SHUNTO, LEO(BE:FIRST), RA... | BE:FIRSTを広めたい | 72,631 | 2026-02-20 |
-| SOTA HANAMURA /「Me.exe」Official Dance Practice | Da-iCE | 66,959 | 2026-02-18 |
-| Husband ke saath sota pakad lia 😂 #shorts #viral #... | Dramabuzz | 63,376 | 2026-02-18 |
-| Tenía 23 años. Se descompensó mientras jugaba un p... | Radio Imagen Alcorta | 59,258 | 2026-02-16 |
-| CHICKEN POTA AND BOILED EGGS | | Zafri khan zkp | 58,286 | 2026-02-16 |
-| WAR WATCH: Massive US Air Power Buildup – Largest ... | War Watch Intel | 57,606 | 2026-02-19 |
-| Jab Ladka Choklet Se Bani Bed par Sota Hai To Koi ... | FACTO DAYA  | 51,093 | 2026-02-20 |
-| chal theek hai main sota hun ❤️ #kdrama #suho #sie... | Kdrama-l | 48,327 | 2026-02-17 |
-| “Horse Zameen Par Kyun Nahi Sota? 😳#viral, #shorts... | wild whisper tv  | 46,562 | 2026-02-16 |
-| Sourav Bana Ambani Ka Pota 😱 #shorts #funny #comed... | BooRa Farm | 45,882 | 2026-02-17 |
+| Jab ladka angur se bani bed par sota hai toh koi i... | AI_real time | 5,638,270 | 2026-02-28 |
+| kon jyada sota hai 👍😱🙏 #fyy #facts #cartton #desse... | ★MR᭄~ZAHEER࿐ | 1,308,942 | 2026-02-25 |
+| jab ye ladka began mai sota hai toh ise koi like n... | Raju  | 727,005 | 2026-02-28 |
+| Peter Parker Flash’ı Rezil Ediyor | Pota Altında B... | Film Ekspress | 379,548 | 2026-02-26 |
+| My CW journey continues #hamradio #experement #mor... | Hobby Steve  | 364,602 | 2026-02-24 |
+| 🇯🇵1987| CASIO TM-100 !! #casio #casiowatch #vintag... | Watch Time Traveler | 223,342 | 2026-02-24 |
+| Jab ladka leg piece se bani bed par sota hai toh k... | AI_real time | 211,375 | 2026-02-28 |
+| पोटा कलेजी में कच्चा अंडा डालकर बनाने का शानदार तर... | Priyanka Ki Rasoi | 210,166 | 2026-02-27 |
+| SOTA, LEO 💢 ??兄弟の間で喧嘩が起こった。#BEFIRST | NINA_BESTY | 206,622 | 2026-02-24 |
+| Indira Gandhi ki family pota aur poti|#RahulGandhi... | अभिषेक कुमार गुप्ता  | 196,926 | 2026-02-26 |
+| サッカー⚽🌹 SOTA, SHUNTO,RYUHEI,JUNON #BEFIRST | NINA_BESTY | 162,053 | 2026-02-26 |
+| Keep training! New 3d print holder 😍 #hamradio #ex... | Hobby Steve  | 161,074 | 2026-02-27 |
+| kon jada sota hai #shortvideo #facts #hulktrading ... | Irfan Najar | 128,353 | 2026-02-25 |
+| Buzzin SOTA, J ,LEO I love  SOTA spin 🌹#BEFIRST#SO... | NINA_BESTY | 123,733 | 2026-02-25 |
+| Crazy button per square cm ratio  #retrotech #radi... | Ema Zamboni | 121,185 | 2026-02-24 |
+| SOTA SHUNTO RYUHEI GILA GILA 🌹#BEFIRST | NINA_BESTY | 120,335 | 2026-02-27 |
+| Liverpool vs West Ham 5-2 Live Stream Premier Leag... | Sammy Sk Football | 80,453 | 2026-02-28 |
+| Japan’s TRILLION-$ Liquidity FLOOD Into CRYPTO!🚨So... | Paul Barron Network | 78,125 | 2026-02-28 |
+| Chicken Pota Kaleji ❣️ with Dal Chawala and Egg Cu... | AJAY MUKBANG | 74,729 | 2026-02-26 |
+| Changez Khan Ka Pota Jo Islam Ki Dhaal Bana! Halak... | AK History  | 62,315 | 2026-02-24 |
+| Mahadev ka deevana 🤣🤣 | The most viral comedy by d... | The India history  | 57,622 | 2026-02-27 |
+| Ceviche de Pota Selvatica | Pisu Cocina | 52,332 | 2026-02-24 |
+| principal ka pota ab gaya😈🤣# shorts #comedy #sarbe... | Royal partho artist | 43,717 | 2026-02-24 |
+| Best Tool for Instant Communication | Mixinfo Bazaar | 38,888 | 2026-02-25 |
+| Tennis Court Antenna 🎾 #hamradio #experement #radi... | Hobby Steve  | 36,770 | 2026-02-26 |
 
 ---
 
@@ -42,13 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (28 videos)
-- **License/Learning**: ████████████████████ (22 videos)
-- **HF Operating**: ████████████████████ (21 videos)
-- **Antennas**: ███████████████ (15 videos)
-- **Gear Reviews**: █████████ (9 videos)
-- **Digital Modes**: ████ (4 videos)
-- **QRP**: ███ (3 videos)
+- **POTA/Portable**: ████████████████████ (39 videos)
+- **License/Learning**: ████████████████████ (32 videos)
+- **HF Operating**: ████████████████████ (25 videos)
+- **Antennas**: ████████████████████ (22 videos)
+- **Gear Reviews**: ███████████ (11 videos)
+- **QRP**: ███████ (7 videos)
+- **Digital Modes**: ██████ (6 videos)
+- **Contests**: █ (1 videos)
 
 ---
 

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-02T12:39:11.498604",
+  "updated": "2026-03-09T12:42:11.286405",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "QRMRas35qR9-i4R4fZy9PUCa2GE",
+    "etag": "qtedRhRJW8wA7ScaGMYa5K-oXpw",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,228 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "141699",
-      "subscriberCount": "1590",
+      "viewCount": "145225",
+      "subscriberCount": "1600",
       "hiddenSubscriberCount": false,
-      "videoCount": "113"
+      "videoCount": "116"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "bZF5Ehb1cAcSWK5gfSDjcdqvx3Y",
+      "etag": "YeAAaJJOF4JaZwkGkndJy5PTKvg",
+      "id": "6omvDxgOpLc",
+      "snippet": {
+        "publishedAt": "2026-03-05T23:19:29Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
+        "description": "\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #kenwood #yaesu #priceincrease #tariffs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
+          "description": "\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #kenwood #yaesu #priceincrease #tariffs"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1199",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mwXVnl33sj2NxS5xXiNCIwJcEdk",
+      "id": "KJN_OA-oZnQ",
+      "snippet": {
+        "publishedAt": "2026-03-05T18:00:32Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
+        "description": "Are radio prices going up? Yes, and we have the numbers. James (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into Yaesu's incoming price increases, the historic 3Y0K Bouvet Island DXpedition, and what's next for HamClock in Episode 15 of the Everyday Ham Podcast.\n\n\ud83d\udcfb Topics in This Episode:\nAround the Shack - Bird 43 wattmeter score at the Livonia swap, new Radtel RT-910B and Quansheng UV-K1 handhelds, Astron power supply in the shack, QSO party CW progress, and FT2 mode first impressions\nBouvet Island / 3Y0K DXpedition - The most expensive DXpedition ever is on the air! We talk pile up chaos, FT8 band conditions, operating strategy, and what makes this one historic\n\nYaesu Price Increases - Big MSRP jumps hit the FTDX10, FT-891, Yaesu Optima, and FTDX101MP. We break down the reasons (tariffs, manufacturing costs, yen/dollar exchange), compare to ICOM pricing, and share our take on whether to buy now or wait\nHamClock Alternatives - Three options keeping HamClock alive: hamclock.com (W4BAE), openhamclock.com, and hamvision.net. Plus a shout-out to the Geochron for those who want a turnkey solution\nARRL Win - Amateur operators exempted from foreign adversary contact reporting requirements\n\n\u23f1 Chapters:\n0:00 - Welcome & Follow Us\n0:50 - Around the Shack Updates\n5:15 - New Gear: Bird 43 Wattmeter & HTs\n6:35 - Contesting and CW Progress\n9:30 - Repeater Maintenance Troubles\n11:05 - Travel Plans & Hotel HF\n12:10 - FT2: Speed, Sync, and Tradeoffs\n19:45 - Bouvet Strategy and Ethics\n23:50 - Following the DXpedition Live\n28:10 - Yaesu Price Increases Explained\n36:55 - What to Buy Now vs Later\n42:40 - HamClock After Elwood\n49:00 - Open Alternatives: Web and Self-Hosted\n54:30 - ARRL Win on Reporting Exemptions\n56:45 - Community, Feedback, and Sign-Off\n\n\ud83d\udd0a Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more. Find all the links at: www.everydayham.com\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio talk from three friends who love the hobby!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @everydayhampodcast\nWebsite: www.everydayham.com\nEmail: cq@everydayham.com\n\n#ham radio  #Amateur Radio #Bouvet Island #3Y0K #DXpedition #Yaesu #HamClock #FT8 #FT2 #DXCC #ARRL #Amateur Radio Podcast #Everyday Ham #Swap Meet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham Radio",
+          "Amateur Radio",
+          "Bouvet Island",
+          "3Y0K",
+          "DXpedition",
+          "Yaesu",
+          "Ham Clock",
+          "FT8",
+          "FT2",
+          "DXCC",
+          "ARRL",
+          "Amateur Radio Podcast",
+          "Everyday Ham",
+          "Swap Meet",
+          "DXing"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
+          "description": "Are radio prices going up? Yes, and we have the numbers. James (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into Yaesu's incoming price increases, the historic 3Y0K Bouvet Island DXpedition, and what's next for HamClock in Episode 15 of the Everyday Ham Podcast.\n\n\ud83d\udcfb Topics in This Episode:\nAround the Shack - Bird 43 wattmeter score at the Livonia swap, new Radtel RT-910B and Quansheng UV-K1 handhelds, Astron power supply in the shack, QSO party CW progress, and FT2 mode first impressions\nBouvet Island / 3Y0K DXpedition - The most expensive DXpedition ever is on the air! We talk pile up chaos, FT8 band conditions, operating strategy, and what makes this one historic\n\nYaesu Price Increases - Big MSRP jumps hit the FTDX10, FT-891, Yaesu Optima, and FTDX101MP. We break down the reasons (tariffs, manufacturing costs, yen/dollar exchange), compare to ICOM pricing, and share our take on whether to buy now or wait\nHamClock Alternatives - Three options keeping HamClock alive: hamclock.com (W4BAE), openhamclock.com, and hamvision.net. Plus a shout-out to the Geochron for those who want a turnkey solution\nARRL Win - Amateur operators exempted from foreign adversary contact reporting requirements\n\n\u23f1 Chapters:\n0:00 - Welcome & Follow Us\n0:50 - Around the Shack Updates\n5:15 - New Gear: Bird 43 Wattmeter & HTs\n6:35 - Contesting and CW Progress\n9:30 - Repeater Maintenance Troubles\n11:05 - Travel Plans & Hotel HF\n12:10 - FT2: Speed, Sync, and Tradeoffs\n19:45 - Bouvet Strategy and Ethics\n23:50 - Following the DXpedition Live\n28:10 - Yaesu Price Increases Explained\n36:55 - What to Buy Now vs Later\n42:40 - HamClock After Elwood\n49:00 - Open Alternatives: Web and Self-Hosted\n54:30 - ARRL Win on Reporting Exemptions\n56:45 - Community, Feedback, and Sign-Off\n\n\ud83d\udd0a Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more. Find all the links at: www.everydayham.com\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio talk from three friends who love the hobby!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @everydayhampodcast\nWebsite: www.everydayham.com\nEmail: cq@everydayham.com\n\n#ham radio  #Amateur Radio #Bouvet Island #3Y0K #DXpedition #Yaesu #HamClock #FT8 #FT2 #DXCC #ARRL #Amateur Radio Podcast #Everyday Ham #Swap Meet"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "388",
+        "likeCount": "32",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mnnbro6GZxEZvBrm2Sa4Md3s6hU",
+      "id": "Koz7XST0tKw",
+      "snippet": {
+        "publishedAt": "2026-03-05T15:31:48Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
+        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
+          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "137",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O_Cejt-JHXMBTV2xw-7qEGwP7oE",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -107,15 +319,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1463",
-        "likeCount": "63",
+        "viewCount": "1537",
+        "likeCount": "68",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "r8NwwHiu9nb4BqNXgKQA0SMKoQM",
+      "etag": "BSG61NNElAE-XglKE9JgUfAvXYU",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -178,15 +390,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "329",
-        "likeCount": "20",
+        "viewCount": "346",
+        "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yElDppwW8PTIOUGG2JS-JeeVW8E",
+      "etag": "xF-SNa5bjybzmX7pr5FiNeGCmk4",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -249,15 +461,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4394",
-        "likeCount": "164",
+        "viewCount": "4490",
+        "likeCount": "167",
         "favoriteCount": "0",
         "commentCount": "18"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BJX-3vpcFOMSMnIE3f75Dkb-Qnk",
+      "etag": "BZ2YC-t9hMVixBCMNgqRb3QpkQ8",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -319,15 +531,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "279",
-        "likeCount": "11",
+        "viewCount": "283",
+        "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "z3Ng-v3YfKgYbD9GcfBK9dh-olg",
+      "etag": "kBM1OxuyAIMleu4iRXp652vI9Uo",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -380,7 +592,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "991",
+        "viewCount": "1021",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -388,7 +600,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uOW8i9OlKIG_7STTK4kvwbVZ3TE",
+      "etag": "k4YSB9NsxAN74KyFEZ9aVSSEICU",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -433,7 +645,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "408",
+        "viewCount": "422",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -441,7 +653,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yTLlfKpQg9OnOb-Kfo9lcEn1oMQ",
+      "etag": "Ywjcm36LFuB1hruQKfwPs8GAsfU",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -505,7 +717,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1228",
+        "viewCount": "1254",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -513,7 +725,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3a6AEtrRz60sLX4wFI7p5bC0sLU",
+      "etag": "U5GOGAX2Y55fH4fA3KscJwMWIqY",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -576,15 +788,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2342",
-        "likeCount": "94",
+        "viewCount": "2388",
+        "likeCount": "93",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6OibQmWxxHmahg00XyJtWaQ6oEw",
+      "etag": "Ww_-fUEmBKzZCE80A4YpwY5nxrs",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -646,7 +858,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "243",
+        "viewCount": "246",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -654,7 +866,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kqFQkZ4acdYZnwWzSp80DoIt5js",
+      "etag": "pYP2Nl_rV586qCpFlSgMiGYRjZA",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -717,7 +929,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3226",
+        "viewCount": "3235",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -725,7 +937,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M5HHLGOTMxr86u5lk_syn13hqCY",
+      "etag": "ww1hIDCUr48_08T_gszhosy4xRI",
       "id": "ZScvDM3YLWY",
       "snippet": {
         "publishedAt": "2026-02-05T16:36:24Z",
@@ -770,7 +982,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "587",
+        "viewCount": "597",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -778,7 +990,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gTsmNB4vMmBGPpsShRZ-t0gv-vQ",
+      "etag": "Vno5WtoiAGW-01MoKi084Dx1Jso",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -842,21 +1054,21 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "490",
-        "likeCount": "33",
+        "viewCount": "504",
+        "likeCount": "34",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bMw6RxIH79SZRpFiratWWREnWOk",
+      "etag": "2_QF6RRrxkx2Yl2wpaUtq4JDyfw",
       "id": "i_55Kt8PtJo",
       "snippet": {
         "publishedAt": "2026-02-05T15:25:03Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/default.jpg",
@@ -908,12 +1120,12 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "122",
+        "viewCount": "124",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -921,7 +1133,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Oa0Jov9vzhSMhhn-6nCN7rlxvB4",
+      "etag": "P7wFaMXcSWgMMgtBvtZq5H0M_eA",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -993,7 +1205,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_3vfnd9ZPhoWXG9QdtCyD-Mj-E8",
+      "etag": "OF8NvZcsTSRz1l-zv7GYm7K6Aco",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -1038,7 +1250,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "789",
+        "viewCount": "803",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1046,7 +1258,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YNvMYjeDvJC4Bztqv-32o53nsSM",
+      "etag": "jq8GD5taNCEUfGPq9SlY8k5FNsA",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -1110,15 +1322,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2514",
-        "likeCount": "81",
+        "viewCount": "2609",
+        "likeCount": "84",
         "favoriteCount": "0",
         "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ulwMxk85Mbte9n60nEkCExeoDC4",
+      "etag": "i9S5ywh5hI-S3E4d1OhPNjTAIFE",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -1163,7 +1375,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "267",
+        "viewCount": "268",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1171,7 +1383,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6kPi98yJwOEVqapcDrp-bIlFmBg",
+      "etag": "imKhZM_2s-tG-OrW3GSBgMpWbHw",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -1216,7 +1428,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1492",
+        "viewCount": "1497",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1224,7 +1436,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KyZjefSsg5Mx_iwrytBvgMnVB_g",
+      "etag": "RBdmhCAvk_vtXTQNfXkmSuDpaO0",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -1269,7 +1481,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1094",
+        "viewCount": "1104",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1277,7 +1489,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "N-zdxn9Py0oPl4Jh_o6siUq_HmY",
+      "etag": "gvnTYOXjYC1sGRFf2NnxKtif1tQ",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -1344,7 +1556,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2744",
+        "viewCount": "2769",
         "likeCount": "115",
         "favoriteCount": "0",
         "commentCount": "23"
@@ -1352,7 +1564,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_N2Nyu8igzlpj2nMGk04Go2phwQ",
+      "etag": "krVl1zbnf2XE65VASApYApQ8Xcs",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -1415,15 +1627,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "117",
+        "viewCount": "124",
         "likeCount": "4",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jShwB2xJcYmRIHWMXlqwmE_QAFU",
+      "etag": "gbu99uwZ0hY-8gAbjmQTZ9QYZb0",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -1468,7 +1680,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4471",
+        "viewCount": "4480",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1476,7 +1688,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iXTePbWWx9JHZkgoTqLSQzXyTVo",
+      "etag": "J5mqh6_ftm9ADNoF87yjmzjiGTk",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -1521,15 +1733,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1312",
-        "likeCount": "42",
+        "viewCount": "1350",
+        "likeCount": "43",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "04D_aUFMtR0RVc7FhC1CiBw2eiQ",
+      "etag": "myJlaJJoW4ajFLVfuLsapQGRURU",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -1592,7 +1804,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "783",
+        "viewCount": "785",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1600,7 +1812,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I_9M9ViIZCDgrVfqC7VlzPH1OSQ",
+      "etag": "2BbC1J2PFl2XIkESp9WtdiH9w9E",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -1658,7 +1870,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "949",
+        "viewCount": "953",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1666,7 +1878,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mfpp0qtGcSUk_ej5mAqk1W2AWCY",
+      "etag": "aU2B7dtu2QxdjG4xLAh6052UrxU",
       "id": "If9QQ4IMLtE",
       "snippet": {
         "publishedAt": "2025-12-25T03:48:17Z",
@@ -1729,7 +1941,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1458",
+        "viewCount": "1463",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1737,7 +1949,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Fi4aJTxwYLlgSDxg4y_8ljmd_f4",
+      "etag": "4jasiTZDZBNDDGJoaBl5Zqb-KmY",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -1800,7 +2012,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "318",
+        "viewCount": "322",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1808,7 +2020,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ptIvoSufftJsI3g1Fm25rD-7V4g",
+      "etag": "3zflybS-258J1IuxMC2jTJEZxO4",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -1853,7 +2065,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1021",
+        "viewCount": "1024",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1861,7 +2073,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nkH51IazdudscP_w8BVTfnn6-14",
+      "etag": "N15vQyOPPskoRM444pgdhETOvNA",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -1906,7 +2118,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "241",
+        "viewCount": "246",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1914,7 +2126,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TZY9qtUl0rJtcZNHaZXQaevM8Mc",
+      "etag": "GxUb9K4T0qKTOR1Vez6sSxFrmYQ",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -1982,7 +2194,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "499",
+        "viewCount": "509",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1990,7 +2202,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FaLatz1-PtbGHJciNKIUcBjBPRg",
+      "etag": "4xBACIyG2Pwllf09CgeBizzz7eY",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -2059,7 +2271,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1271",
+        "viewCount": "1277",
         "likeCount": "47",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2067,13 +2279,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t9epby6zuzL_MCBdoTnT-3hIrDw",
+      "etag": "_DLuiyAFT09MfaNHuRd9pqCbqoo",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/default.jpg",
@@ -2125,12 +2337,12 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "175",
+        "viewCount": "178",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2209,7 +2421,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "S5iDSJsLXPzrykI96Y2x2HSSlTM",
+      "etag": "0aIy2n4WS3znwRPKufgPfPE4WRY",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -2254,7 +2466,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "844",
+        "viewCount": "847",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2262,7 +2474,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "axkNGLmRgMGuUODx2Yfu21jeFtc",
+      "etag": "Y9GGTXXOnzpgVrxr61HKutGyrXQ",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -2329,7 +2541,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "414",
+        "viewCount": "434",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -2337,7 +2549,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZXMnXd-t8xym9nIdYmLXt5pQxWE",
+      "etag": "ymD6K6BGwgQ3YuYoupgIlF7iXqU",
       "id": "sAGV73vzm24",
       "snippet": {
         "publishedAt": "2025-11-17T01:31:25Z",
@@ -2399,7 +2611,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "941",
+        "viewCount": "943",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2407,7 +2619,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nPxPMWqpC3sr5-ubbQre0oMEppk",
+      "etag": "vaBJd-CYJ9E_PYFxLu0Rk4pRcwk",
       "id": "RxgcxKk969g",
       "snippet": {
         "publishedAt": "2025-11-14T00:34:53Z",
@@ -2477,7 +2689,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1594",
+        "viewCount": "1597",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2485,7 +2697,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "20lbuLN3ooFeK--b9a7CGFLTMj4",
+      "etag": "_7LcRgX-7ao75h8uR_KVvWP4rYk",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -2555,15 +2767,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "143",
-        "likeCount": "13",
+        "viewCount": "144",
+        "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Cc7X1BaQVPnD1CvfQazsVMrBE_8",
+      "etag": "mi2RKEEMLCF8k8ybCiA0Lh9mHHw",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -2608,7 +2820,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "934",
+        "viewCount": "936",
         "likeCount": "33",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2616,7 +2828,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "X6xhFjKSkiXKZ74nzmCUrKdNCx4",
+      "etag": "-GfLqfmaxKICvR0HXvwaadURpyM",
       "id": "cAWtEZjwwRk",
       "snippet": {
         "publishedAt": "2025-11-07T22:37:56Z",
@@ -2681,7 +2893,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1444",
+        "viewCount": "1446",
         "likeCount": "46",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2689,7 +2901,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PpGnbdLjXdPLFnSYi6sU1Kq5vI4",
+      "etag": "Yv7cyX_c6RFw83pdmues5zu2WUs",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -2766,7 +2978,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "759",
+        "viewCount": "766",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2774,13 +2986,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LyJtACbs9fWvpjiRskty5IGtFrs",
+      "etag": "MubxH_zRHwYuOcs6VU4Qw_xmtxk",
       "id": "eiH0dJwnhnU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:52Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/default.jpg",
@@ -2832,7 +3044,7 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -2845,7 +3057,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WTLA_sBy1UQ4TaS46q3tSQIR_LQ",
+      "etag": "zUCjH4oj2hKVmjL74QcqiQzvNZw",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -2930,15 +3142,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "274",
-        "likeCount": "18",
+        "viewCount": "278",
+        "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "t4WaU7RuThR8XISwLCZljt5PXdQ",
+      "etag": "a1dyisFQV0wZpPMmwjwCLsCuUvA",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -2983,7 +3195,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1345",
+        "viewCount": "1350",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2991,7 +3203,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yGyXk7gl7MieXcAwLSmrAjF1PW4",
+      "etag": "VAvopffXdFy4TmYJIUvC97yz9Ms",
       "id": "aGU4pSCoJcY",
       "snippet": {
         "publishedAt": "2025-11-01T15:21:53Z",
@@ -3059,7 +3271,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1415",
+        "viewCount": "1416",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3067,7 +3279,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "07L7EnPPLQydqniOlnbsP6-kCHM",
+      "etag": "hE4MWdZnSTiO9jU2ZKqYwhO_GM4",
       "id": "JTFErg-neu8",
       "snippet": {
         "publishedAt": "2025-10-31T21:40:56Z",
@@ -3143,15 +3355,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3647",
-        "likeCount": "165",
+        "viewCount": "3700",
+        "likeCount": "168",
         "favoriteCount": "0",
         "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ujruIrQ-x9ovonxHqHsG2XILlb0",
+      "etag": "cdVx_YgkSa1K6rudCkOFsaDVv-o",
       "id": "LRlec1zoNeI",
       "snippet": {
         "publishedAt": "2025-10-31T06:58:34Z",
@@ -3196,205 +3408,8 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "240",
+        "viewCount": "242",
         "likeCount": "8",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "dKV9l672EXaohj0j83ak6CkZG-k",
-      "id": "Wnw0wmTqVvw",
-      "snippet": {
-        "publishedAt": "2025-10-25T14:52:50Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-        "description": "CQ World Wide contest is this weekend!  \n\nWe're hunting all the DX in the shack this morning with the FTdx101MP and the SPE Expert 1.5K set up to 1000watts.   15meter is busy!\n\n#speexpert #yaesu #ftdx101mp #cqworldwide #contesting #hamradio #amteurradio #everydayham",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Wnw0wmTqVvw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Wnw0wmTqVvw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wnw0wmTqVvw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Wnw0wmTqVvw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Wnw0wmTqVvw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-          "description": "CQ World Wide contest is this weekend!  \n\nWe're hunting all the DX in the shack this morning with the FTdx101MP and the SPE Expert 1.5K set up to 1000watts.   15meter is busy!\n\n#speexpert #yaesu #ftdx101mp #cqworldwide #contesting #hamradio #amteurradio #everydayham"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "7921",
-        "likeCount": "101",
-        "favoriteCount": "0",
-        "commentCount": "16"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aQ1oKEQkt-VU9JqnLE_2RuAcayw",
-      "id": "xW-nnl2RGIs",
-      "snippet": {
-        "publishedAt": "2025-10-23T15:01:45Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-        "description": "Join N8JRD as he cracks open the Mustang Mach-E Electric Vehicle to add a much needed mobile rig.   We take you end to end with the Mach-E, which is actually one of the more straight forward mobile installations that Jim has worked on.  Although we encounter a few challenges, the finished product looks and works great.   \n\nTimestamps:\n00:00 - Intro\n00:23 - How to get through the Firewall\n02:13 - 12v Main Installed\n02:43 - Power Relay Installation\n04:35 - Connecting to the Radio\n05:32  - Secure the Radio Body\n06:16 - Connecting to the 12v Battery (Mission Impossible?)\n09:08 - Installing the Antenna Cable and Lip Mount\n10:55 - Installing the Diamond NR770 Antenna\n11:29 - Mounting the Control Head (3d Printed!)\n12:10  - Wrap up and Final Install\n\nParts Used:\nComet RS-520 Lip Mount\nDiamond NR770B Antenna\nDiamond SO239 Mobile antenna cable (13.5ft coax)\nYaesu FTM-500DR\nBosch Relay\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #electricvehicle #mustangmache #mache #machegt #yaesu #yaesuftm500 #ftm500 #diyprojects #mobileinstall #mobileradioinstall #icom #ford #fusion #systemfusion",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xW-nnl2RGIs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xW-nnl2RGIs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xW-nnl2RGIs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xW-nnl2RGIs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xW-nnl2RGIs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "n8jrd",
-          "amateur radio beginners",
-          "ham radio tips",
-          "radio operators",
-          "VHF",
-          "UHF",
-          "mobile radio install",
-          "Yaesu FTM-500DR",
-          "FTM-500",
-          "Mustang Mach-E",
-          "electric vehicle ham radio",
-          "EV radio install",
-          "mobile rig",
-          "Diamond NR770",
-          "antenna install",
-          "firewall grommet",
-          "12v installation",
-          "System Fusion",
-          "digital ham radio",
-          "car radio install",
-          "mobile antenna",
-          "DIY ham radio",
-          "mobile ham radio",
-          "lip mount",
-          "Comet RS-520",
-          "Ford Mach-E",
-          "ham radio installation"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-          "description": "Join N8JRD as he cracks open the Mustang Mach-E Electric Vehicle to add a much needed mobile rig.   We take you end to end with the Mach-E, which is actually one of the more straight forward mobile installations that Jim has worked on.  Although we encounter a few challenges, the finished product looks and works great.   \n\nTimestamps:\n00:00 - Intro\n00:23 - How to get through the Firewall\n02:13 - 12v Main Installed\n02:43 - Power Relay Installation\n04:35 - Connecting to the Radio\n05:32  - Secure the Radio Body\n06:16 - Connecting to the 12v Battery (Mission Impossible?)\n09:08 - Installing the Antenna Cable and Lip Mount\n10:55 - Installing the Diamond NR770 Antenna\n11:29 - Mounting the Control Head (3d Printed!)\n12:10  - Wrap up and Final Install\n\nParts Used:\nComet RS-520 Lip Mount\nDiamond NR770B Antenna\nDiamond SO239 Mobile antenna cable (13.5ft coax)\nYaesu FTM-500DR\nBosch Relay\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #electricvehicle #mustangmache #mache #machegt #yaesu #yaesuftm500 #ftm500 #diyprojects #mobileinstall #mobileradioinstall #icom #ford #fusion #systemfusion"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1007",
-        "likeCount": "37",
-        "favoriteCount": "0",
-        "commentCount": "20"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0wPFjOXCGP6aksoEdOzxmcRzVwo",
-      "id": "d-87MbN0IiM",
-      "snippet": {
-        "publishedAt": "2025-10-21T17:05:00Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d-87MbN0IiM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d-87MbN0IiM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d-87MbN0IiM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/d-87MbN0IiM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/d-87MbN0IiM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "#hamradio",
-          "#ft8",
-          "#10m",
-          "#amateurradio"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1353",
-        "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
       }

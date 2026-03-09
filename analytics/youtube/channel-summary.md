@@ -1,15 +1,15 @@
 # YouTube Analytics
 ## Everyday Ham
 
-*Last updated: 2026-03-02 12:39 UTC*
+*Last updated: 2026-03-09 12:42 UTC*
 
 ---
 
 ## 📊 Channel Stats
 
-- **Subscribers:** 1,590
-- **Total Views:** 141,699
-- **Total Videos:** 113
+- **Subscribers:** 1,600
+- **Total Views:** 145,225
+- **Total Videos:** 116
 
 ---
 
@@ -17,41 +17,41 @@
 
 | Video | Published | Views | Likes | Comments |
 |-------|-----------|-------|-------|----------|
-| Ham Radio Repeater Upgrades - Touring a Vinta... | 2026-02-26 | 1,463 | 63 | 6 |
-| Kits 4 Hams SHARI Allstar Node & Mortty V5 | ... | 2026-02-15 | 329 | 20 | 4 |
-| Icom IC-7300MK2: The Upgrade We’ve Been Waiti... | 2026-02-14 | 4,394 | 164 | 18 |
-| Is the Heil BM-17 Coming Back? Update from Ha... | 2026-02-14 | 279 | 11 | 2 |
-| Seeed Studio Mesh Networking: Meshtastic vs M... | 2026-02-14 | 991 | 36 | 2 |
-| Walking the Hamcation 2026 Flea Market #hamra... | 2026-02-14 | 408 | 11 | 2 |
-| FlexRadio Aurora AU-510M: 500W SDR Powerhouse... | 2026-02-14 | 1,228 | 32 | 5 |
-| NEW Buddihex Mini & Mastwerks Precision Anten... | 2026-02-14 | 2,342 | 94 | 16 |
-| The Laser Ham Folding Ground Plane Antenna | ... | 2026-02-14 | 243 | 11 | 2 |
-| Four Hams, One Screen, and Zero Instructions ... | 2026-02-07 | 3,226 | 13 | 1 |
-| Do you need that new radio? Episode 14 is Liv... | 2026-02-05 | 587 | 8 | 1 |
-| Do You Really Need a New Radio? Honest Ham Ra... | 2026-02-05 | 122 | 4 | 0 |
-| Do You Really Need a New Radio? Honest Ham Ra... | 2026-02-05 | 490 | 33 | 11 |
+| Price Increases, Oh My! - Episode 15 is Live ... | 2026-03-05 | 1,199 | 15 | 0 |
+| Are Radio Prices Going Up? FT2, Bouvet 3Y0K, ... | 2026-03-05 | 388 | 32 | 6 |
+| Are Radio Prices Going Up? Bouvet, Yaesu & Ha... | 2026-03-05 | 137 | 9 | 0 |
+| Ham Radio Repeater Upgrades - Touring a Vinta... | 2026-02-26 | 1,537 | 68 | 6 |
+| Kits 4 Hams SHARI Allstar Node & Mortty V5 | ... | 2026-02-15 | 346 | 21 | 4 |
+| Icom IC-7300MK2: The Upgrade We’ve Been Waiti... | 2026-02-14 | 4,490 | 167 | 18 |
+| Is the Heil BM-17 Coming Back? Update from Ha... | 2026-02-14 | 283 | 12 | 2 |
+| Seeed Studio Mesh Networking: Meshtastic vs M... | 2026-02-14 | 1,021 | 36 | 2 |
+| Walking the Hamcation 2026 Flea Market #hamra... | 2026-02-14 | 422 | 11 | 2 |
+| FlexRadio Aurora AU-510M: 500W SDR Powerhouse... | 2026-02-14 | 1,254 | 32 | 5 |
+| NEW Buddihex Mini & Mastwerks Precision Anten... | 2026-02-14 | 2,388 | 93 | 16 |
+| The Laser Ham Folding Ground Plane Antenna | ... | 2026-02-14 | 246 | 11 | 2 |
+| Four Hams, One Screen, and Zero Instructions ... | 2026-02-07 | 3,235 | 13 | 1 |
+| Do you need that new radio? Episode 14 is Liv... | 2026-02-05 | 597 | 8 | 1 |
+| Do You Really Need a New Radio? Honest Ham Ra... | 2026-02-05 | 124 | 4 | 0 |
+| Do You Really Need a New Radio? Honest Ham Ra... | 2026-02-05 | 504 | 34 | 14 |
 | Brutal Cold: Winter Field Day at -17°F - Our ... | 2026-02-03 | 445 | 32 | 6 |
-| TMD750A FCC Filing ! Price Guesses Revealed #... | 2026-01-30 | 789 | 9 | 3 |
-| Kenwood TM-D750A FCC Filing Reveals All! Firs... | 2026-01-29 | 2,514 | 81 | 54 |
-| Winter Field Day 2026 Walk Around at Island L... | 2026-01-24 | 267 | 18 | 1 |
-| Ever wonder if an e-ink reader would #pota? #... | 2026-01-18 | 1,492 | 19 | 1 |
-| #pota Winter Support Your Parks Weekend with ... | 2026-01-17 | 1,094 | 20 | 3 |
-| How to Learn CW in 2026: Two Paths to Morse C... | 2026-01-08 | 117 | 4 | 0 |
+| TMD750A FCC Filing ! Price Guesses Revealed #... | 2026-01-30 | 803 | 9 | 3 |
+| Kenwood TM-D750A FCC Filing Reveals All! Firs... | 2026-01-29 | 2,609 | 84 | 54 |
+| Winter Field Day 2026 Walk Around at Island L... | 2026-01-24 | 268 | 18 | 1 |
 
 ---
 
 ## 🏆 Top Performing Videos (by views)
 
-1. **CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp** - 7,921 views
-2. **Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio** - 4,471 views
-3. **Icom IC-7300MK2: The Upgrade We’ve Been Waiting For?| Hamcation 2026** - 4,394 views
-4. **What's in My POTA Bag? Complete Setup for Parks on the Air** - 3,647 views
-5. **Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space** - 3,226 views
-6. **Learning CW in 2026: Two Paths to Morse Code Success** - 2,744 views
-7. **Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs** - 2,514 views
-8. **NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026** - 2,342 views
-9. **Are There Any Ham Deals for Black Friday 2025?** - 1,655 views
-10. **POTA Paradise: Ham Radio Beach Setup & Operation #shorts** - 1,594 views
+1. **Icom IC-7300MK2: The Upgrade We’ve Been Waiting For?| Hamcation 2026** - 4,490 views
+2. **Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio** - 4,480 views
+3. **What's in My POTA Bag? Complete Setup for Parks on the Air** - 3,700 views
+4. **Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space** - 3,235 views
+5. **Learning CW in 2026: Two Paths to Morse Code Success** - 2,769 views
+6. **Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs** - 2,609 views
+7. **NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026** - 2,388 views
+8. **Are There Any Ham Deals for Black Friday 2025?** - 1,655 views
+9. **POTA Paradise: Ham Radio Beach Setup & Operation #shorts** - 1,597 views
+10. **Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site** - 1,537 views
 
 ---
 

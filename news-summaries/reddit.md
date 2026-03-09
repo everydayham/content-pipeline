@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-08 11:25 UTC*
+*Last updated: 2026-03-09 11:36 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Incredible DX Contacts Tonight on 20m @ 15 Watts](https://www.reddit.com/r/amateurradio/comments/1rnt3af/incredible_dx_contacts_tonight_on_20m_15_watts/)**
-by u/Puzzleheaded_Tax8761
+**3. [Sunday meme](https://www.reddit.com/r/amateurradio/comments/1roj36x/sunday_meme/)**
+by u/ReptilianRex6
 
-**4. [Pase ISS](https://www.reddit.com/r/amateurradio/comments/1rnswtu/pase_iss/)**
-by u/VICKGLEZ
+**4. [Hello World!!!](https://www.reddit.com/r/amateurradio/comments/1rolfh0/hello_world/)**
+by u/RocketMachineWorx
 
-**5. [Help!!!](https://www.reddit.com/r/amateurradio/comments/1rnssy0/help/)**
-by u/VapinMason
+**5. [10m is crazy rn!](https://www.reddit.com/r/amateurradio/comments/1rof69r/10m_is_crazy_rn/)**
+by u/Steve_Cody
 
-**6. [When a sad ham hears that someone is using 5W baofengs as walkie-talkies in the ...](https://www.reddit.com/r/amateurradio/comments/1rmxz54/when_a_sad_ham_hears_that_someone_is_using_5w/)**
-by u/ham-radio-police
+**6. [Harmonics (?) across the lower airband](https://www.reddit.com/r/amateurradio/comments/1rowcuq/harmonics_across_the_lower_airband/)**
+by u/alphaquetoo
 
-**7. [I miss local electronics parts stores!](https://www.reddit.com/r/amateurradio/comments/1rncqc4/i_miss_local_electronics_parts_stores/)**
-by u/nerdariffic
+**7. [Tilt-over tower disassembly?](https://www.reddit.com/r/amateurradio/comments/1rokm4a/tiltover_tower_disassembly/)**
+by u/Imhere4thefreechips
 
-**8. [Hilfe beim suchen eines Funkgeräts](https://www.reddit.com/r/amateurradio/comments/1rnzkee/hilfe_beim_suchen_eines_funkgeräts/)**
-by u/ZweiStock
+**8. [Contest days](https://www.reddit.com/r/amateurradio/comments/1roqkxj/contest_days/)**
+by u/mwillems
 
-**9. [Was reaching out to different repeaters on 2-meter while hiking today. I'm new t...](https://www.reddit.com/r/amateurradio/comments/1rngzm3/was_reaching_out_to_different_repeaters_on_2meter/)**
-by u/twotired4life
+**9. [Spooltenna CS20](https://www.reddit.com/r/amateurradio/comments/1rorn5r/spooltenna_cs20/)**
+by u/Thylacine_Zombie
 
-**10. [My extremely cursed “poor man’s HF antenna” that somehow works better than the R...](https://www.reddit.com/r/amateurradio/comments/1rnt08t/my_extremely_cursed_poor_mans_hf_antenna_that/)**
-by u/Automatic_Village954
+**10. [DX Engineering CEO Tim Duffy, K3LR, and his Superstation Featured in "RadCom" Ma...](https://www.reddit.com/r/amateurradio/comments/1roi3yq/dx_engineering_ceo_tim_duffy_k3lr_and_his/)**
+by u/caller-number-four
 
-**11. [New ham interested in working satellites](https://www.reddit.com/r/amateurradio/comments/1rno57g/new_ham_interested_in_working_satellites/)**
-by u/Thoreaushadeau
+**11. [Antenna for a mobile radio pack](https://www.reddit.com/r/amateurradio/comments/1ronz9h/antenna_for_a_mobile_radio_pack/)**
+by u/Jake_money-98
 
-**12. [ARRL SSB contest rules](https://www.reddit.com/r/amateurradio/comments/1ro13a9/arrl_ssb_contest_rules/)**
-by u/Whole-Hat-2213
+**12. [How do you respond to people that say amateur radio is outdated and obsolete?](https://www.reddit.com/r/amateurradio/comments/1ro40bv/how_do_you_respond_to_people_that_say_amateur/)**
+by u/Readvijfbijvijf
 
-**13. [Does anyone have experience with Chameleon CFM mast?](https://www.reddit.com/r/amateurradio/comments/1ro0xbk/does_anyone_have_experience_with_chameleon_cfm/)**
-by u/radicalCentrist3
+**13. [Does a 5/8th-wave vertical need a physical counterpoise element?](https://www.reddit.com/r/amateurradio/comments/1rosg1x/does_a_58thwave_vertical_need_a_physical/)**
+by u/alloydog
 
-**14. [Requisite Yeah Me post-Passed two levels](https://www.reddit.com/r/amateurradio/comments/1rnlb11/requisite_yeah_me_postpassed_two_levels/)**
-by u/Minute-Cellist-740
+**14. [Any operators also have a GMRS and CB?](https://www.reddit.com/r/amateurradio/comments/1roe6sg/any_operators_also_have_a_gmrs_and_cb/)**
+by u/HeadlineINeed
 
-**15. [Yeasu FT-710 vs Xiegu X6100/X6200 with power amp?](https://www.reddit.com/r/amateurradio/comments/1rnr3pe/yeasu_ft710_vs_xiegu_x6100x6200_with_power_amp/)**
-by u/OKAUSTX
+**15. [DIY SDR Antenna, any recommendation?](https://www.reddit.com/r/amateurradio/comments/1rowx1e/diy_sdr_antenna_any_recommendation/)**
+by u/aetherboi-rar
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [What is this antenna… looks like horizontal only?](https://www.reddit.com/r/HamRadio/comments/1rngl8k/what_is_this_antenna_looks_like_horizontal_only/)**
-by u/TheseAd1490
+**3. [Antenna for a mobile radio pack](https://www.reddit.com/r/HamRadio/comments/1ronxpp/antenna_for_a_mobile_radio_pack/)**
+by u/Jake_money-98
 
-**4. [Question about inherited ham radio equipment.](https://www.reddit.com/r/HamRadio/comments/1rnsb0j/question_about_inherited_ham_radio_equipment/)**
-by u/snookslayer001
+**4. [Heathkit hobby knife kit I found at my grandfather’s.](https://www.reddit.com/r/HamRadio/comments/1rod8jq/heathkit_hobby_knife_kit_i_found_at_my/)**
+by u/bsammo
 
-**5. [Starting Out, Need Equipment Opinions](https://www.reddit.com/r/HamRadio/comments/1rnvf0l/starting_out_need_equipment_opinions/)**
-by u/cjscout06
+**5. [Found this, in good condition, what can I do with it?](https://www.reddit.com/r/HamRadio/comments/1roqcq7/found_this_in_good_condition_what_can_i_do_with_it/)**
+by u/h0ney_b3arr
 
-**6. [Requisite Yeah Me post-Passed two levels](https://www.reddit.com/r/HamRadio/comments/1rnlaf6/requisite_yeah_me_postpassed_two_levels/)**
-by u/Minute-Cellist-740
+**6. [Hello World!! 31 Characters is a lot!!](https://www.reddit.com/r/HamRadio/comments/1roljzi/hello_world_31_characters_is_a_lot/)**
+by u/RocketMachineWorx
 
-**7. [Transmitter for a Kenwood R-1000?](https://www.reddit.com/r/HamRadio/comments/1rnrm58/transmitter_for_a_kenwood_r1000/)**
-by u/WillemV369
+**7. [My Quansheng UV-K5 completely bricked](https://www.reddit.com/r/HamRadio/comments/1rovt4u/my_quansheng_uvk5_completely_bricked/)**
+by u/Plenty-Record4246
 
-**8. [Repeater etiquette question: inserting yourself into an existing conversation](https://www.reddit.com/r/HamRadio/comments/1rnfz1p/repeater_etiquette_question_inserting_yourself/)**
-by u/grainzzz
+**8. [Transmitting ham radio via the Internet](https://www.reddit.com/r/HamRadio/comments/1roe2a6/transmitting_ham_radio_via_the_internet/)**
+by u/theunwisegeek
 
-**9. [So many 49:1 Baluns are listed as 5-35 Mhz, will they operate on 3.5mhz/80M?](https://www.reddit.com/r/HamRadio/comments/1rnr74l/so_many_491_baluns_are_listed_as_535_mhz_will/)**
-by u/Edward_sim
+**9. [Can someone explain why not all waves have the same polarity?](https://www.reddit.com/r/HamRadio/comments/1ro9ma5/can_someone_explain_why_not_all_waves_have_the/)**
+by u/PewPewLazrs101
 
-**10. [What Is Needed To Count for Contests?](https://www.reddit.com/r/HamRadio/comments/1rnljgv/what_is_needed_to_count_for_contests/)**
-by u/Tomdoe
-
-**11. [Why do some people transmit on 28.312.50 for example instead of 28.312.00? Also,...](https://www.reddit.com/r/HamRadio/comments/1rnl5sh/why_do_some_people_transmit_on_2831250_for/)**
-by u/youbenchbro
-
-**12. [Hello! Im brand new to this and have piles of questions.](https://www.reddit.com/r/HamRadio/comments/1rngtij/hello_im_brand_new_to_this_and_have_piles_of/)**
-by u/WestCartographer9478
-
-**13. [Can someone identify the sound my radio was making on the frequency?](https://www.reddit.com/r/HamRadio/comments/1rnpti8/can_someone_identify_the_sound_my_radio_was/)**
-by u/Zestyclose-Fix-7577
-
-**14. [Yaesu FTM-510 vs FTM-310 (ASP or NOT)](https://www.reddit.com/r/HamRadio/comments/1rnox5e/yaesu_ftm510_vs_ftm310_asp_or_not/)**
+**10. [EFHW Inverted-L 10-40m Placement Question (with photos)](https://www.reddit.com/r/HamRadio/comments/1rof372/efhw_invertedl_1040m_placement_question_with/)**
 by u/OKAUSTX
 
-**15. [How to connect Btech DA-7x2 to CPS on Windows 11](https://www.reddit.com/r/HamRadio/comments/1rnmcdi/how_to_connect_btech_da7x2_to_cps_on_windows_11/)**
-by u/Professional-Love-30
+**11. [RF switch comparison - cheap vs. expensive](https://www.reddit.com/r/HamRadio/comments/1rogafm/rf_switch_comparison_cheap_vs_expensive/)**
+by u/These-Math1384
+
+**12. [Antenna Trouble: Doublet came down in a storm and now won't tune](https://www.reddit.com/r/HamRadio/comments/1rocd1k/antenna_trouble_doublet_came_down_in_a_storm_and/)**
+by u/OshunBlu
+
+**13. [Iranian Number Station v32 on March 8 2026 18UTC](https://www.reddit.com/r/HamRadio/comments/1rog1sh/iranian_number_station_v32_on_march_8_2026_18utc/)**
+by u/Temporary_Advice_720
+
+**14. [What is this antenna… looks like horizontal only?](https://www.reddit.com/r/HamRadio/comments/1rngl8k/what_is_this_antenna_looks_like_horizontal_only/)**
+by u/TheseAd1490
+
+**15. [Question about inherited ham radio equipment.](https://www.reddit.com/r/HamRadio/comments/1rnsb0j/question_about_inherited_ham_radio_equipment/)**
+by u/snookslayer001
 
 ---
 
@@ -110,14 +110,14 @@ by u/Professional-Love-30
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ritl9i/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Incredible DX Contacts Tonight on 20m @ 15 Watts](https://www.reddit.com/r/amateurradio/comments/1rnt3af/incredible_dx_contacts_tonight_on_20m_15_watts/)** (r/amateurradio)
-- **[Pase ISS](https://www.reddit.com/r/amateurradio/comments/1rnswtu/pase_iss/)** (r/amateurradio)
-- **[Help!!!](https://www.reddit.com/r/amateurradio/comments/1rnssy0/help/)** (r/amateurradio)
-- **[When a sad ham hears that someone is using 5W baofengs as walkie-talki...](https://www.reddit.com/r/amateurradio/comments/1rmxz54/when_a_sad_ham_hears_that_someone_is_using_5w/)** (r/amateurradio)
-- **[I miss local electronics parts stores!](https://www.reddit.com/r/amateurradio/comments/1rncqc4/i_miss_local_electronics_parts_stores/)** (r/amateurradio)
-- **[Hilfe beim suchen eines Funkgeräts](https://www.reddit.com/r/amateurradio/comments/1rnzkee/hilfe_beim_suchen_eines_funkgeräts/)** (r/amateurradio)
-- **[Was reaching out to different repeaters on 2-meter while hiking today....](https://www.reddit.com/r/amateurradio/comments/1rngzm3/was_reaching_out_to_different_repeaters_on_2meter/)** (r/amateurradio)
-- **[My extremely cursed “poor man’s HF antenna” that somehow works better ...](https://www.reddit.com/r/amateurradio/comments/1rnt08t/my_extremely_cursed_poor_mans_hf_antenna_that/)** (r/amateurradio)
+- **[Sunday meme](https://www.reddit.com/r/amateurradio/comments/1roj36x/sunday_meme/)** (r/amateurradio)
+- **[Hello World!!!](https://www.reddit.com/r/amateurradio/comments/1rolfh0/hello_world/)** (r/amateurradio)
+- **[10m is crazy rn!](https://www.reddit.com/r/amateurradio/comments/1rof69r/10m_is_crazy_rn/)** (r/amateurradio)
+- **[Harmonics (?) across the lower airband](https://www.reddit.com/r/amateurradio/comments/1rowcuq/harmonics_across_the_lower_airband/)** (r/amateurradio)
+- **[Tilt-over tower disassembly?](https://www.reddit.com/r/amateurradio/comments/1rokm4a/tiltover_tower_disassembly/)** (r/amateurradio)
+- **[Contest days](https://www.reddit.com/r/amateurradio/comments/1roqkxj/contest_days/)** (r/amateurradio)
+- **[Spooltenna CS20](https://www.reddit.com/r/amateurradio/comments/1rorn5r/spooltenna_cs20/)** (r/amateurradio)
+- **[DX Engineering CEO Tim Duffy, K3LR, and his Superstation Featured in "...](https://www.reddit.com/r/amateurradio/comments/1roi3yq/dx_engineering_ceo_tim_duffy_k3lr_and_his/)** (r/amateurradio)
 
 ---
 

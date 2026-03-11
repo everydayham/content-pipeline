@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-10 11:35 UTC*
+*Last updated: 2026-03-11 11:36 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Listener for over a year now, finally decided to take my exam. Will this hold up...](https://www.reddit.com/r/amateurradio/comments/1rpja7n/listener_for_over_a_year_now_finally_decided_to/)**
-by u/Educational-Kiwi8740
+**3. [Is there cool projects I could attempt with this thing?](https://www.reddit.com/r/amateurradio/comments/1rqb8x0/is_there_cool_projects_i_could_attempt_with_this/)**
+by u/SolitaryNeko
 
-**4. [Thank You POTA Activators](https://www.reddit.com/r/amateurradio/comments/1rpk89u/thank_you_pota_activators/)**
-by u/True_Certitude
+**4. [Antennas on Humvees (War Machine on Netflix)](https://www.reddit.com/r/amateurradio/comments/1rqgfs1/antennas_on_humvees_war_machine_on_netflix/)**
+by u/Morinoko
 
-**5. [Are CB radios still widely used?](https://www.reddit.com/r/amateurradio/comments/1rpsmin/are_cb_radios_still_widely_used/)**
+**5. [VHF/UHF Contest Spot : 2000m Grenoble, France](https://www.reddit.com/r/amateurradio/comments/1rqdo3x/vhfuhf_contest_spot_2000m_grenoble_france/)**
+by u/Landot_Omunn
+
+**6. [Am i the only one overwhelmed by RF?](https://www.reddit.com/r/amateurradio/comments/1rqenyr/am_i_the_only_one_overwhelmed_by_rf/)**
+by u/Automatic_Village954
+
+**7. [antenna mount](https://www.reddit.com/r/amateurradio/comments/1rqlmh8/antenna_mount/)**
+by u/KernobilS
+
+**8. [Antenna Mount](https://www.reddit.com/r/amateurradio/comments/1rpzm9z/antenna_mount/)**
+by u/Falkenroth77
+
+**9. [Wanting to get my license but...](https://www.reddit.com/r/amateurradio/comments/1rqcplu/wanting_to_get_my_license_but/)**
+by u/kert1000
+
+**10. [Are CB radios still widely used?](https://www.reddit.com/r/amateurradio/comments/1rpsmin/are_cb_radios_still_widely_used/)**
 by u/DistributionLanky221
 
-**6. [Anyone else see tall trees differently now?](https://www.reddit.com/r/amateurradio/comments/1rpewjw/anyone_else_see_tall_trees_differently_now/)**
-by u/theamathamhour
+**11. [Newbie antenna building questions](https://www.reddit.com/r/amateurradio/comments/1rq7610/newbie_antenna_building_questions/)**
+by u/tdotfish
 
-**7. [Finally got the panels and mounts printed for my FT-857D go box. I want to keep ...](https://www.reddit.com/r/amateurradio/comments/1rpoxdl/finally_got_the_panels_and_mounts_printed_for_my/)**
-by u/adhdff
+**12. [Amateur extra flashcards free webapp](https://www.reddit.com/r/amateurradio/comments/1rqa8mp/amateur_extra_flashcards_free_webapp/)**
+by u/novamber
 
-**8. [World's best mobile station.](https://www.reddit.com/r/amateurradio/comments/1rpbw4l/worlds_best_mobile_station/)**
-by u/RedwoodsClimber
+**13. [Questions on mounting a CB radio to car](https://www.reddit.com/r/amateurradio/comments/1rqmlhz/questions_on_mounting_a_cb_radio_to_car/)**
+by u/Same_Mess_5276
 
-**9. [Großstadt Antennenproblem](https://www.reddit.com/r/amateurradio/comments/1rpreru/großstadt_antennenproblem/)**
-by u/Designer-Pressure679
+**14. [Inverted L using 9:1](https://www.reddit.com/r/amateurradio/comments/1rq8co5/inverted_l_using_91/)**
+by u/Prior_Fly_8831
 
-**10. [What digital modes do people use besides FT8/4/2?](https://www.reddit.com/r/amateurradio/comments/1rp8lxv/what_digital_modes_do_people_use_besides_ft842/)**
-by u/n0fumar
-
-**11. [Sunday meme](https://www.reddit.com/r/amateurradio/comments/1roj36x/sunday_meme/)**
-by u/ReptilianRex6
-
-**12. [If you were going to put up a tower for HF (in Florida), what would you put on i...](https://www.reddit.com/r/amateurradio/comments/1rpidr0/if_you_were_going_to_put_up_a_tower_for_hf_in/)**
-by u/Puzzleheaded_Tax8761
-
-**13. [Should I just point at the mountain?](https://www.reddit.com/r/amateurradio/comments/1rpcr4r/should_i_just_point_at_the_mountain/)**
-by u/OtherCarIsaXanthoria
-
-**14. [FTDX10 putting out 50w instead of 100 on ssb](https://www.reddit.com/r/amateurradio/comments/1rph1sa/ftdx10_putting_out_50w_instead_of_100_on_ssb/)**
-by u/Famous-Jeweler8543
-
-**15. [Hello World!!!](https://www.reddit.com/r/amateurradio/comments/1rolfh0/hello_world/)**
-by u/RocketMachineWorx
+**15. [Hard to focus during CW.](https://www.reddit.com/r/amateurradio/comments/1rqd01b/hard_to_focus_during_cw/)**
+by u/YetAnotherHobby
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Activation of an Iranian numbers station](https://www.reddit.com/r/HamRadio/comments/1rpka3u/activation_of_an_iranian_numbers_station/)**
+**3. [VHF/UHF Contest Spot : 2000m Grenoble, France](https://www.reddit.com/r/HamRadio/comments/1rqb5ev/vhfuhf_contest_spot_2000m_grenoble_france/)**
+by u/Landot_Omunn
+
+**4. [Amateur extra flashcards free webapp](https://www.reddit.com/r/HamRadio/comments/1rqa896/amateur_extra_flashcards_free_webapp/)**
+by u/novamber
+
+**5. [2 Meter Handheld Recommendations](https://www.reddit.com/r/HamRadio/comments/1rqlzku/2_meter_handheld_recommendations/)**
+by u/Successful_Web_6866
+
+**6. [Going to buy my first HF radioo](https://www.reddit.com/r/HamRadio/comments/1rq4h1p/going_to_buy_my_first_hf_radioo/)**
+by u/Lz3YaRiEl
+
+**7. [Activation of an Iranian numbers station](https://www.reddit.com/r/HamRadio/comments/1rpka3u/activation_of_an_iranian_numbers_station/)**
 by u/DOGECarnivals
 
-**4. [Tired of SDR phase noise and latency? Look what I built and share your thoughts!](https://www.reddit.com/r/HamRadio/comments/1rps4vq/tired_of_sdr_phase_noise_and_latency_look_what_i/)**
+**8. [Question regarding transmitting](https://www.reddit.com/r/HamRadio/comments/1rql7ns/question_regarding_transmitting/)**
+by u/OverDrawnRook68
+
+**9. [Tired of SDR phase noise and latency? Look what I built and share your thoughts!](https://www.reddit.com/r/HamRadio/comments/1rps4vq/tired_of_sdr_phase_noise_and_latency_look_what_i/)**
 by u/Life-Luck-3788
 
-**5. [WSPR Balloon beacon over Iran in the past few days](https://www.reddit.com/r/HamRadio/comments/1rpjq86/wspr_balloon_beacon_over_iran_in_the_past_few_days/)**
+**10. [Can a discone antenna be used for low-power transmission on an HF radio like a G...](https://www.reddit.com/r/HamRadio/comments/1rpy6k7/can_a_discone_antenna_be_used_for_lowpower/)**
+by u/OkSong6473
+
+**11. [Choosing between IC-705 and G90](https://www.reddit.com/r/HamRadio/comments/1rpvdnr/choosing_between_ic705_and_g90/)**
+by u/kasgel
+
+**12. [Remote antenna switcher for somebody who doesn't know where they're going to go ...](https://www.reddit.com/r/HamRadio/comments/1rqakdc/remote_antenna_switcher_for_somebody_who_doesnt/)**
+by u/michaelh98
+
+**13. [WSPR Balloon beacon over Iran in the past few days](https://www.reddit.com/r/HamRadio/comments/1rpjq86/wspr_balloon_beacon_over_iran_in_the_past_few_days/)**
 by u/MrGoBetween
 
-**6. [New to Ham Radio. Need help with my setup.](https://www.reddit.com/r/HamRadio/comments/1rplml8/new_to_ham_radio_need_help_with_my_setup/)**
-by u/polarmaster3
+**14. [I am thinking of buying a Comet CAA 500](https://www.reddit.com/r/HamRadio/comments/1rqa9q9/i_am_thinking_of_buying_a_comet_caa_500/)**
+by u/MustaphaGreenberg
 
-**7. [check FieldWave final (for now) and best version](https://www.reddit.com/r/HamRadio/comments/1rprr8s/check_fieldwave_final_for_now_and_best_version/)**
-by u/TechyWater
-
-**8. [📖 BarkBark’s High-Frequency Heroes](https://www.reddit.com/r/HamRadio/comments/1rpqth7/barkbarks_highfrequency_heroes/)**
-by u/Automatic_Current_77
-
-**9. [Antenna for a mobile radio pack](https://www.reddit.com/r/HamRadio/comments/1ronxpp/antenna_for_a_mobile_radio_pack/)**
-by u/Jake_money-98
-
-**10. [Unlock receiving range of Baofeng UV32GPS](https://www.reddit.com/r/HamRadio/comments/1rpokyz/unlock_receiving_range_of_baofeng_uv32gps/)**
-by u/AbbreviationsBig4248
-
-**11. [Have some a good advice for a decent but very good handheld radio?](https://www.reddit.com/r/HamRadio/comments/1rpqxyy/have_some_a_good_advice_for_a_decent_but_very/)**
-by u/NIGHTSHADOWXXX
-
-**12. [Best Antenna for Discreet Mobile HF](https://www.reddit.com/r/HamRadio/comments/1rpe3ae/best_antenna_for_discreet_mobile_hf/)**
-by u/SoulSeeker14
-
-**13. [Period accurate antennas (and radios) for my 1970 C10](https://www.reddit.com/r/HamRadio/comments/1rp9857/period_accurate_antennas_and_radios_for_my_1970/)**
-by u/Academic-Associate91
-
-**14. [Icom 7300 mk I : remote control on same network?](https://www.reddit.com/r/HamRadio/comments/1rpczsw/icom_7300_mk_i_remote_control_on_same_network/)**
-by u/shah_reza
-
-**15. [Heathkit hobby knife kit I found at my grandfather’s.](https://www.reddit.com/r/HamRadio/comments/1rod8jq/heathkit_hobby_knife_kit_i_found_at_my/)**
-by u/bsammo
+**15. [Anyone know how to set VOX on an RT617 can't seem to do it](https://www.reddit.com/r/HamRadio/comments/1rq9e6w/anyone_know_how_to_set_vox_on_an_rt617_cant_seem/)**
+by u/rebelgaa
 
 ---
 
@@ -110,14 +110,14 @@ by u/bsammo
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rozka1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Listener for over a year now, finally decided to take my exam. Will th...](https://www.reddit.com/r/amateurradio/comments/1rpja7n/listener_for_over_a_year_now_finally_decided_to/)** (r/amateurradio)
-- **[Thank You POTA Activators](https://www.reddit.com/r/amateurradio/comments/1rpk89u/thank_you_pota_activators/)** (r/amateurradio)
+- **[Is there cool projects I could attempt with this thing?](https://www.reddit.com/r/amateurradio/comments/1rqb8x0/is_there_cool_projects_i_could_attempt_with_this/)** (r/amateurradio)
+- **[Antennas on Humvees (War Machine on Netflix)](https://www.reddit.com/r/amateurradio/comments/1rqgfs1/antennas_on_humvees_war_machine_on_netflix/)** (r/amateurradio)
+- **[VHF/UHF Contest Spot : 2000m Grenoble, France](https://www.reddit.com/r/amateurradio/comments/1rqdo3x/vhfuhf_contest_spot_2000m_grenoble_france/)** (r/amateurradio)
+- **[Am i the only one overwhelmed by RF?](https://www.reddit.com/r/amateurradio/comments/1rqenyr/am_i_the_only_one_overwhelmed_by_rf/)** (r/amateurradio)
+- **[antenna mount](https://www.reddit.com/r/amateurradio/comments/1rqlmh8/antenna_mount/)** (r/amateurradio)
+- **[Antenna Mount](https://www.reddit.com/r/amateurradio/comments/1rpzm9z/antenna_mount/)** (r/amateurradio)
+- **[Wanting to get my license but...](https://www.reddit.com/r/amateurradio/comments/1rqcplu/wanting_to_get_my_license_but/)** (r/amateurradio)
 - **[Are CB radios still widely used?](https://www.reddit.com/r/amateurradio/comments/1rpsmin/are_cb_radios_still_widely_used/)** (r/amateurradio)
-- **[Anyone else see tall trees differently now?](https://www.reddit.com/r/amateurradio/comments/1rpewjw/anyone_else_see_tall_trees_differently_now/)** (r/amateurradio)
-- **[Finally got the panels and mounts printed for my FT-857D go box. I wan...](https://www.reddit.com/r/amateurradio/comments/1rpoxdl/finally_got_the_panels_and_mounts_printed_for_my/)** (r/amateurradio)
-- **[World's best mobile station.](https://www.reddit.com/r/amateurradio/comments/1rpbw4l/worlds_best_mobile_station/)** (r/amateurradio)
-- **[Großstadt Antennenproblem](https://www.reddit.com/r/amateurradio/comments/1rpreru/großstadt_antennenproblem/)** (r/amateurradio)
-- **[What digital modes do people use besides FT8/4/2?](https://www.reddit.com/r/amateurradio/comments/1rp8lxv/what_digital_modes_do_people_use_besides_ft842/)** (r/amateurradio)
 
 ---
 

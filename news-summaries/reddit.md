@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-13 11:34 UTC*
+*Last updated: 2026-03-14 11:28 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Look what y’all did to me](https://www.reddit.com/r/amateurradio/comments/1rsbpx4/look_what_yall_did_to_me/)**
-by u/FlyCurious8305
+**3. [Minty fresh General here](https://www.reddit.com/r/amateurradio/comments/1rtatx7/minty_fresh_general_here/)**
+by u/Legnovore
 
-**4. [Directionality of vehicle mounted antenna](https://www.reddit.com/r/amateurradio/comments/1rs93v9/directionality_of_vehicle_mounted_antenna/)**
-by u/VA3FOJ
+**4. [When there isn’t much happening](https://www.reddit.com/r/amateurradio/comments/1rsyeoo/when_there_isnt_much_happening/)**
+by u/mwillems
 
-**5. [DIY Loading Coil](https://www.reddit.com/r/amateurradio/comments/1rsicw7/diy_loading_coil/)**
-by u/Dayuling
+**5. [A Homebrew tap for installing and updating amateur radio software on macOS](https://www.reddit.com/r/amateurradio/comments/1rtds2l/a_homebrew_tap_for_installing_and_updating/)**
+by u/Sun-Stunning
 
-**6. [The logging problem isn't LoTW's UI. It's deeper than that.](https://www.reddit.com/r/amateurradio/comments/1rs7g3b/the_logging_problem_isnt_lotws_ui_its_deeper_than/)**
-by u/toosoonjr
+**6. [Real or not.](https://www.reddit.com/r/amateurradio/comments/1rt1ylz/real_or_not/)**
+by u/smilin-buddha
 
-**7. [Just passed technicians! 🥳](https://www.reddit.com/r/amateurradio/comments/1rs0yk6/just_passed_technicians/)**
-by u/Basket_475
+**7. [Just passed!](https://www.reddit.com/r/amateurradio/comments/1rt3t7d/just_passed/)**
+by u/RedBull12345678
 
-**8. [Anyone fox hunting?](https://www.reddit.com/r/amateurradio/comments/1rs8e6k/anyone_fox_hunting/)**
-by u/zucchini0478
+**8. ["EFHWs are always noisy"](https://www.reddit.com/r/amateurradio/comments/1rt79uj/efhws_are_always_noisy/)**
+by u/CaptainSpez
 
-**9. [Is it possible to monitor both channels on the Tidradio TD-H8 radio?](https://www.reddit.com/r/amateurradio/comments/1rsg4lx/is_it_possible_to_monitor_both_channels_on_the/)**
-by u/Massive_Guide_9334
+**9. [Hello! New to the channel.](https://www.reddit.com/r/amateurradio/comments/1rt51we/hello_new_to_the_channel/)**
+by u/Chiller984
 
-**10. [Finally order Xiegu G90!!](https://www.reddit.com/r/amateurradio/comments/1rrxfaw/finally_order_xiegu_g90/)**
-by u/MinerAlum
+**10. [Continued: I've spent 2 years working on a documentary about Martin F Jue and MF...](https://www.reddit.com/r/amateurradio/comments/1rsttms/continued_ive_spent_2_years_working_on_a/)**
+by u/MFJDocumentary
 
-**11. [GlanceRF - A Ham Dashboard - V2 Released](https://www.reddit.com/r/amateurradio/comments/1rs1l0k/glancerf_a_ham_dashboard_v2_released/)**
-by u/pomtom44
+**11. [Dual Time Zone NTP Clock Project](https://www.reddit.com/r/amateurradio/comments/1rt8gxd/dual_time_zone_ntp_clock_project/)**
+by u/Thylacine_Zombie
 
-**12. [This evening's reception map](https://www.reddit.com/r/amateurradio/comments/1rs2kxr/this_evenings_reception_map/)**
-by u/senditoverthewaves
+**12. [3Y0K Update QRT timing](https://www.reddit.com/r/amateurradio/comments/1rsylhn/3y0k_update_qrt_timing/)**
+by u/SprayHopeful9696
 
-**13. [What does this mean?](https://www.reddit.com/r/amateurradio/comments/1rsksr6/what_does_this_mean/)**
-by u/BassManns222
+**13. [The great opening](https://www.reddit.com/r/amateurradio/comments/1rsq5ot/the_great_opening/)**
+by u/Stable_Hot
 
-**14. [This weekend 📡 2026 San Francisco Radio Club SimulSOTA 📡](https://www.reddit.com/r/amateurradio/comments/1rselfk/this_weekend_2026_san_francisco_radio_club/)**
-by u/shadow_mister
+**14. [13:25 GMT - 3y0k radio's hot enough to cook food on? lol :)](https://www.reddit.com/r/amateurradio/comments/1rsnfat/1325_gmt_3y0k_radios_hot_enough_to_cook_food_on/)**
+by u/ZeissSuperIkonta
 
-**15. [What is the point of 5/9 reports on DMR???](https://www.reddit.com/r/amateurradio/comments/1rrrbvg/what_is_the_point_of_59_reports_on_dmr/)**
-by u/SchrodingersCorpse
+**15. [What's your preferred method for testing transformers/ununs?](https://www.reddit.com/r/amateurradio/comments/1rt6fsf/whats_your_preferred_method_for_testing/)**
+by u/KhyberPasshole
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [This weekend 📡 2026 San Francisco Radio Club SimulSOTA 📡](https://www.reddit.com/r/HamRadio/comments/1rsem04/this_weekend_2026_san_francisco_radio_club/)**
-by u/shadow_mister
+**3. [Brand new General here, looking for advice](https://www.reddit.com/r/HamRadio/comments/1rtaz62/brand_new_general_here_looking_for_advice/)**
+by u/Legnovore
 
-**4. [‼️ License acquired, what to do now?‼️](https://www.reddit.com/r/HamRadio/comments/1rrsx2e/license_acquired_what_to_do_now/)**
+**4. [New Baofeng AR-5RM. Programmed About 20 Repeaters So Far. What's Next?](https://www.reddit.com/r/HamRadio/comments/1rsymbq/new_baofeng_ar5rm_programmed_about_20_repeaters/)**
+by u/TheGuySawyer
+
+**5. [Vertical antenna by a horizontal tree branch? Would this affect SWR that much?](https://www.reddit.com/r/HamRadio/comments/1rt1dzx/vertical_antenna_by_a_horizontal_tree_branch/)**
+by u/ikemeister01
+
+**6. [Grounding options to consider for gear and antennas in an apartment?](https://www.reddit.com/r/HamRadio/comments/1rssbf1/grounding_options_to_consider_for_gear_and/)**
+by u/mjdny
+
+**7. [Study guides: keep after passing test?](https://www.reddit.com/r/HamRadio/comments/1rswb1f/study_guides_keep_after_passing_test/)**
+by u/eventhorizon3140
+
+**8. [First Radio, and Study Questions](https://www.reddit.com/r/HamRadio/comments/1rsm3ou/first_radio_and_study_questions/)**
+by u/sad_ivn
+
+**9. [Sussex County expands emergency radio network along coast](https://www.reddit.com/r/HamRadio/comments/1rsecsk/sussex_county_expands_emergency_radio_network/)**
+by u/SharkSapphire
+
+**10. [‼️ License acquired, what to do now?‼️](https://www.reddit.com/r/HamRadio/comments/1rrsx2e/license_acquired_what_to_do_now/)**
 by u/Flerence
 
-**5. [Quansheng UV-K1 or UV-K5? (I'm a begginer)](https://www.reddit.com/r/HamRadio/comments/1rsi92z/quansheng_uvk1_or_uvk5_im_a_begginer/)**
-by u/BedSpiritual9759
+**11. [This weekend 📡 2026 San Francisco Radio Club SimulSOTA 📡](https://www.reddit.com/r/HamRadio/comments/1rsem04/this_weekend_2026_san_francisco_radio_club/)**
+by u/shadow_mister
 
-**6. [First HAM Experience with uv5r mini](https://www.reddit.com/r/HamRadio/comments/1rrr9w6/first_ham_experience_with_uv5r_mini/)**
+**12. [First HAM Experience with uv5r mini](https://www.reddit.com/r/HamRadio/comments/1rrr9w6/first_ham_experience_with_uv5r_mini/)**
 by u/ryyparr
 
-**7. [Sussex County expands emergency radio network along coast](https://www.reddit.com/r/HamRadio/comments/1rsecsk/sussex_county_expands_emergency_radio_network/)**
+**13. [Quansheng UV-K1 or UV-K5? (I'm a begginer)](https://www.reddit.com/r/HamRadio/comments/1rsi92z/quansheng_uvk1_or_uvk5_im_a_begginer/)**
+by u/BedSpiritual9759
+
+**14. [‘Hamwaves of History’ event set for March 17-19](https://www.reddit.com/r/HamRadio/comments/1rseds4/hamwaves_of_history_event_set_for_march_1719/)**
 by u/SharkSapphire
 
-**8. [GlanceRF - A Ham Dashboard - V2 Released](https://www.reddit.com/r/HamRadio/comments/1rs1kvv/glancerf_a_ham_dashboard_v2_released/)**
+**15. [GlanceRF - A Ham Dashboard - V2 Released](https://www.reddit.com/r/HamRadio/comments/1rs1kvv/glancerf_a_ham_dashboard_v2_released/)**
 by u/pomtom44
-
-**9. [‘Hamwaves of History’ event set for March 17-19](https://www.reddit.com/r/HamRadio/comments/1rseds4/hamwaves_of_history_event_set_for_march_1719/)**
-by u/SharkSapphire
-
-**10. [Meet the 2026 Hamvention award winners driving the future of amateur radio](https://www.reddit.com/r/HamRadio/comments/1rsede2/meet_the_2026_hamvention_award_winners_driving/)**
-by u/SharkSapphire
-
-**11. [I have passed all 3 test now looking for a started kit. is this one good or what...](https://www.reddit.com/r/HamRadio/comments/1rrv796/i_have_passed_all_3_test_now_looking_for_a/)**
-by u/ojdacat
-
-**12. [Best all around band/antenna to start experimenting with SDR](https://www.reddit.com/r/HamRadio/comments/1rrsvgs/best_all_around_bandantenna_to_start/)**
-by u/RideDeezNutz
-
-**13. [Documentary: Struggling to speak after an operation, a man from Belfast sets out...](https://www.reddit.com/r/HamRadio/comments/1rr0eg5/documentary_struggling_to_speak_after_an/)**
-by u/eggbrekkie
-
-**14. [FTDXRC and the Yaesu FTdx-5000 Problem](https://www.reddit.com/r/HamRadio/comments/1rr790b/ftdxrc_and_the_yaesu_ftdx5000_problem/)**
-by u/Syzygy2323
-
-**15. [Resources or suggestions for a school](https://www.reddit.com/r/HamRadio/comments/1rr5qdl/resources_or_suggestions_for_a_school/)**
-by u/MrRed2213
 
 ---
 
@@ -110,14 +110,14 @@ by u/MrRed2213
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rozka1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Look what y’all did to me](https://www.reddit.com/r/amateurradio/comments/1rsbpx4/look_what_yall_did_to_me/)** (r/amateurradio)
-- **[Directionality of vehicle mounted antenna](https://www.reddit.com/r/amateurradio/comments/1rs93v9/directionality_of_vehicle_mounted_antenna/)** (r/amateurradio)
-- **[DIY Loading Coil](https://www.reddit.com/r/amateurradio/comments/1rsicw7/diy_loading_coil/)** (r/amateurradio)
-- **[The logging problem isn't LoTW's UI. It's deeper than that.](https://www.reddit.com/r/amateurradio/comments/1rs7g3b/the_logging_problem_isnt_lotws_ui_its_deeper_than/)** (r/amateurradio)
-- **[Just passed technicians! 🥳](https://www.reddit.com/r/amateurradio/comments/1rs0yk6/just_passed_technicians/)** (r/amateurradio)
-- **[Anyone fox hunting?](https://www.reddit.com/r/amateurradio/comments/1rs8e6k/anyone_fox_hunting/)** (r/amateurradio)
-- **[Is it possible to monitor both channels on the Tidradio TD-H8 radio?](https://www.reddit.com/r/amateurradio/comments/1rsg4lx/is_it_possible_to_monitor_both_channels_on_the/)** (r/amateurradio)
-- **[Finally order Xiegu G90!!](https://www.reddit.com/r/amateurradio/comments/1rrxfaw/finally_order_xiegu_g90/)** (r/amateurradio)
+- **[Minty fresh General here](https://www.reddit.com/r/amateurradio/comments/1rtatx7/minty_fresh_general_here/)** (r/amateurradio)
+- **[When there isn’t much happening](https://www.reddit.com/r/amateurradio/comments/1rsyeoo/when_there_isnt_much_happening/)** (r/amateurradio)
+- **[A Homebrew tap for installing and updating amateur radio software on m...](https://www.reddit.com/r/amateurradio/comments/1rtds2l/a_homebrew_tap_for_installing_and_updating/)** (r/amateurradio)
+- **[Real or not.](https://www.reddit.com/r/amateurradio/comments/1rt1ylz/real_or_not/)** (r/amateurradio)
+- **[Just passed!](https://www.reddit.com/r/amateurradio/comments/1rt3t7d/just_passed/)** (r/amateurradio)
+- **["EFHWs are always noisy"](https://www.reddit.com/r/amateurradio/comments/1rt79uj/efhws_are_always_noisy/)** (r/amateurradio)
+- **[Hello! New to the channel.](https://www.reddit.com/r/amateurradio/comments/1rt51we/hello_new_to_the_channel/)** (r/amateurradio)
+- **[Continued: I've spent 2 years working on a documentary about Martin F ...](https://www.reddit.com/r/amateurradio/comments/1rsttms/continued_ive_spent_2_years_working_on_a/)** (r/amateurradio)
 
 ---
 

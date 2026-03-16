@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-15 11:29 UTC*
+*Last updated: 2026-03-16 11:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Passed Technician & General this morning](https://www.reddit.com/r/amateurradio/comments/1rtsby5/passed_technician_general_this_morning/)**
-by u/jmsidhu71
+**3. ["CALLSIGN" monitoring... then they're gone - WHY?](https://www.reddit.com/r/amateurradio/comments/1ruxxwo/callsign_monitoring_then_theyre_gone_why/)**
+by u/Mr-Measure-Twice
 
-**4. [Question about these antennas](https://www.reddit.com/r/amateurradio/comments/1rtzs0s/question_about_these_antennas/)**
-by u/moshpitmechanic_0603
+**4. [Taking my Technician AND General exams on Friday!](https://www.reddit.com/r/amateurradio/comments/1ruz60s/taking_my_technician_and_general_exams_on_friday/)**
+by u/CaptSpaulding73
 
-**5. [Technical downsides of amps?](https://www.reddit.com/r/amateurradio/comments/1ru8q6a/technical_downsides_of_amps/)**
-by u/jtan163
+**5. [Just had my first voice contact on HF!](https://www.reddit.com/r/amateurradio/comments/1rucrbq/just_had_my_first_voice_contact_on_hf/)**
+by u/senditoverthewaves
 
-**6. [Just got my extra lisence this morning.](https://www.reddit.com/r/amateurradio/comments/1rtp1t2/just_got_my_extra_lisence_this_morning/)**
-by u/arathelion
+**6. [6 meters is it worth it](https://www.reddit.com/r/amateurradio/comments/1run52n/6_meters_is_it_worth_it/)**
+by u/mhatz14
 
-**7. [PyFT8 v2.2.0 with Customisable Direct Rig Control (with limitations)](https://www.reddit.com/r/amateurradio/comments/1ru9j5d/pyft8_v220_with_customisable_direct_rig_control/)**
-by u/G1OJS
+**7. [Building a Pneumatic Antenna Launcher](https://www.reddit.com/r/amateurradio/comments/1ruu159/building_a_pneumatic_antenna_launcher/)**
+by u/MAGNUS_59
 
-**8. [SFARC SimulSOTA ‘26 was a blast !](https://www.reddit.com/r/amateurradio/comments/1rtvrpc/sfarc_simulsota_26_was_a_blast/)**
-by u/anton1s
+**8. [WSJTX Problem with FT991a](https://www.reddit.com/r/amateurradio/comments/1rv3429/wsjtx_problem_with_ft991a/)**
+by u/Extension-Cover11
 
-**9. [Do you worry about your antenna when the wind is blowing really hard?](https://www.reddit.com/r/amateurradio/comments/1rtoull/do_you_worry_about_your_antenna_when_the_wind_is/)**
-by u/greenwoody2018
+**9. [License renewal](https://www.reddit.com/r/amateurradio/comments/1ruqsyo/license_renewal/)**
+by u/Ok-Sea-3898
 
-**10. [G2 Geomagnetic - Northern Lughts](https://www.reddit.com/r/amateurradio/comments/1rtorcn/g2_geomagnetic_northern_lughts/)**
-by u/B-767_Sailing_QRP
+**10. [Grounding a dipole](https://www.reddit.com/r/amateurradio/comments/1rulxma/grounding_a_dipole/)**
+by u/VA3FOJ
 
-**11. [Alright nerds](https://www.reddit.com/r/amateurradio/comments/1rtk7zv/alright_nerds/)**
-by u/kert1000
+**11. [Just Passed the General](https://www.reddit.com/r/amateurradio/comments/1rufnqt/just_passed_the_general/)**
+by u/notajeweler
 
-**12. [transmit this when they least expect it](https://www.reddit.com/r/amateurradio/comments/1ru9z6d/transmit_this_when_they_least_expect_it/)**
-by u/osdev-programmer
+**12. [Open Source PLFM RADAR](https://www.reddit.com/r/amateurradio/comments/1ruzt2m/open_source_plfm_radar/)**
+by u/No_Boot3951
 
-**13. [QSLWorld Apologizes For Spam](https://www.reddit.com/r/amateurradio/comments/1rtll87/qslworld_apologizes_for_spam/)**
-by u/equablecrab
+**13. [Digital modes with only Apple products?](https://www.reddit.com/r/amateurradio/comments/1ruzpmt/digital_modes_with_only_apple_products/)**
+by u/Beautiful_Signal_619
 
-**14. [Far end spooled EFHW](https://www.reddit.com/r/amateurradio/comments/1rtwpb7/far_end_spooled_efhw/)**
-by u/McNeillTrevor
+**14. [Kantronics PacTerm Utu-Term Packet Commodore 64 Manual (link to the actual softw...](https://www.reddit.com/r/amateurradio/comments/1runn5e/kantronics_pacterm_ututerm_packet_commodore_64/)**
+by u/SummanusPachamama
 
-**15. [novice question about radio that synchronizes time to an atomic clock somewhere](https://www.reddit.com/r/amateurradio/comments/1rttthw/novice_question_about_radio_that_synchronizes/)**
-by u/stonecats
+**15. [FT-65R and G90 as starter shack?](https://www.reddit.com/r/amateurradio/comments/1ruv67t/ft65r_and_g90_as_starter_shack/)**
+by u/BrokenGQ
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Ham Radio Enthusiasts Land U.S. Airlines With $8 Million Bill to Fix Faulty Equi...](https://www.reddit.com/r/HamRadio/comments/1ru1ggb/ham_radio_enthusiasts_land_us_airlines_with_8/)**
-by u/SharkSapphire
+**3. [Recently acquired these radios.](https://www.reddit.com/r/HamRadio/comments/1ruk1a2/recently_acquired_these_radios/)**
+by u/Mandartum
 
-**4. [Glad to have passed the Technician & General exams this morning](https://www.reddit.com/r/HamRadio/comments/1rtsfkg/glad_to_have_passed_the_technician_general_exams/)**
-by u/jmsidhu71
+**4. [Ive been doing POTA on hard mode lolol.](https://www.reddit.com/r/HamRadio/comments/1rulimz/ive_been_doing_pota_on_hard_mode_lolol/)**
+by u/thehotshotpilot
 
-**5. [Technician Class License Question (newbie!)](https://www.reddit.com/r/HamRadio/comments/1ru4ck8/technician_class_license_question_newbie/)**
-by u/MuppetsInATrenchCoat
+**5. [What if I just want to listen? Do they even make non transmitting receivers?](https://www.reddit.com/r/HamRadio/comments/1rujhp6/what_if_i_just_want_to_listen_do_they_even_make/)**
+by u/Low_Search_6667
 
-**6. [G2 Geomagnetic last night from STN](https://www.reddit.com/r/HamRadio/comments/1rtlqrt/g2_geomagnetic_last_night_from_stn/)**
-by u/B-767_Sailing_QRP
-
-**7. [Brand new General here, looking for advice](https://www.reddit.com/r/HamRadio/comments/1rtaz62/brand_new_general_here_looking_for_advice/)**
-by u/Legnovore
-
-**8. [Rehoboth Beach Hotel Helps Boost Sussex County Emergency Radio Network](https://www.reddit.com/r/HamRadio/comments/1ru1feh/rehoboth_beach_hotel_helps_boost_sussex_county/)**
-by u/SharkSapphire
-
-**9. [Collinear 10 meter antenna array](https://www.reddit.com/r/HamRadio/comments/1rtm4vq/collinear_10_meter_antenna_array/)**
-by u/Gh0st_Rid3r_116
-
-**10. [I have a 4 year old laptop that was not superfast to begin with but it is reliab...](https://www.reddit.com/r/HamRadio/comments/1rtukb7/i_have_a_4_year_old_laptop_that_was_not_superfast/)**
-by u/OkSong6473
-
-**11. [Auto-programming FT5D with RT Systems software and Radioreference](https://www.reddit.com/r/HamRadio/comments/1rtznvx/autoprogramming_ft5d_with_rt_systems_software_and/)**
-by u/Psychaotix
-
-**12. [Base station/mobile transceiver for cross band repeating](https://www.reddit.com/r/HamRadio/comments/1rtjqpw/base_stationmobile_transceiver_for_cross_band/)**
-by u/bones10145
-
-**13. [New Baofeng AR-5RM. Programmed About 20 Repeaters So Far. What's Next?](https://www.reddit.com/r/HamRadio/comments/1rsymbq/new_baofeng_ar5rm_programmed_about_20_repeaters/)**
+**6. [Day 3 of Learning Ham: Plotting The Reach Of My AR-5RM](https://www.reddit.com/r/HamRadio/comments/1ruob3l/day_3_of_learning_ham_plotting_the_reach_of_my/)**
 by u/TheGuySawyer
 
-**14. [Vertical antenna by a horizontal tree branch? Would this affect SWR that much?](https://www.reddit.com/r/HamRadio/comments/1rt1dzx/vertical_antenna_by_a_horizontal_tree_branch/)**
-by u/ikemeister01
+**7. [Noob here looking for antenna advice for my mobile rig!](https://www.reddit.com/r/HamRadio/comments/1rux7h4/noob_here_looking_for_antenna_advice_for_my/)**
+by u/techwiz2343
 
-**15. [POC Radio with WiFi and sim card plan](https://www.reddit.com/r/HamRadio/comments/1rtlw1k/poc_radio_with_wifi_and_sim_card_plan/)**
-by u/vpmtlqc
+**8. [What are some things I can do with Sihuadon R-108?](https://www.reddit.com/r/HamRadio/comments/1rv12i9/what_are_some_things_i_can_do_with_sihuadon_r108/)**
+by u/Single_Emphasis_3205
+
+**9. [Ham Radio Enthusiasts Land U.S. Airlines With $8 Million Bill to Fix Faulty Equi...](https://www.reddit.com/r/HamRadio/comments/1ru1ggb/ham_radio_enthusiasts_land_us_airlines_with_8/)**
+by u/SharkSapphire
+
+**10. [How well do cheap rf amplifiers work?](https://www.reddit.com/r/HamRadio/comments/1ruhndu/how_well_do_cheap_rf_amplifiers_work/)**
+by u/VK4l3
+
+**11. [Help a newbie transfer SSTV 300+ kilometers](https://www.reddit.com/r/HamRadio/comments/1ruo2p3/help_a_newbie_transfer_sstv_300_kilometers/)**
+by u/Sad_Squirrel8722
+
+**12. [Glad to have passed the Technician & General exams this morning](https://www.reddit.com/r/HamRadio/comments/1rtsfkg/glad_to_have_passed_the_technician_general_exams/)**
+by u/jmsidhu71
+
+**13. [Looking for a charger for an HT (Baofeng GT-5TP)](https://www.reddit.com/r/HamRadio/comments/1rum4nh/looking_for_a_charger_for_an_ht_baofeng_gt5tp/)**
+by u/IWinTheTeddyBear
+
+**14. [Technician Class License Question (newbie!)](https://www.reddit.com/r/HamRadio/comments/1ru4ck8/technician_class_license_question_newbie/)**
+by u/MuppetsInATrenchCoat
+
+**15. [Tired of the Digital Racket on 2m/70cm repeaters!](https://www.reddit.com/r/HamRadio/comments/1ruk6or/tired_of_the_digital_racket_on_2m70cm_repeaters/)**
+by u/NE5B
 
 ---
 
@@ -110,14 +110,14 @@ by u/vpmtlqc
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rozka1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Passed Technician & General this morning](https://www.reddit.com/r/amateurradio/comments/1rtsby5/passed_technician_general_this_morning/)** (r/amateurradio)
-- **[Question about these antennas](https://www.reddit.com/r/amateurradio/comments/1rtzs0s/question_about_these_antennas/)** (r/amateurradio)
-- **[Technical downsides of amps?](https://www.reddit.com/r/amateurradio/comments/1ru8q6a/technical_downsides_of_amps/)** (r/amateurradio)
-- **[Just got my extra lisence this morning.](https://www.reddit.com/r/amateurradio/comments/1rtp1t2/just_got_my_extra_lisence_this_morning/)** (r/amateurradio)
-- **[PyFT8 v2.2.0 with Customisable Direct Rig Control (with limitations)](https://www.reddit.com/r/amateurradio/comments/1ru9j5d/pyft8_v220_with_customisable_direct_rig_control/)** (r/amateurradio)
-- **[SFARC SimulSOTA ‘26 was a blast !](https://www.reddit.com/r/amateurradio/comments/1rtvrpc/sfarc_simulsota_26_was_a_blast/)** (r/amateurradio)
-- **[Do you worry about your antenna when the wind is blowing really hard?](https://www.reddit.com/r/amateurradio/comments/1rtoull/do_you_worry_about_your_antenna_when_the_wind_is/)** (r/amateurradio)
-- **[G2 Geomagnetic - Northern Lughts](https://www.reddit.com/r/amateurradio/comments/1rtorcn/g2_geomagnetic_northern_lughts/)** (r/amateurradio)
+- **["CALLSIGN" monitoring... then they're gone - WHY?](https://www.reddit.com/r/amateurradio/comments/1ruxxwo/callsign_monitoring_then_theyre_gone_why/)** (r/amateurradio)
+- **[Taking my Technician AND General exams on Friday!](https://www.reddit.com/r/amateurradio/comments/1ruz60s/taking_my_technician_and_general_exams_on_friday/)** (r/amateurradio)
+- **[Just had my first voice contact on HF!](https://www.reddit.com/r/amateurradio/comments/1rucrbq/just_had_my_first_voice_contact_on_hf/)** (r/amateurradio)
+- **[6 meters is it worth it](https://www.reddit.com/r/amateurradio/comments/1run52n/6_meters_is_it_worth_it/)** (r/amateurradio)
+- **[Building a Pneumatic Antenna Launcher](https://www.reddit.com/r/amateurradio/comments/1ruu159/building_a_pneumatic_antenna_launcher/)** (r/amateurradio)
+- **[WSJTX Problem with FT991a](https://www.reddit.com/r/amateurradio/comments/1rv3429/wsjtx_problem_with_ft991a/)** (r/amateurradio)
+- **[License renewal](https://www.reddit.com/r/amateurradio/comments/1ruqsyo/license_renewal/)** (r/amateurradio)
+- **[Grounding a dipole](https://www.reddit.com/r/amateurradio/comments/1rulxma/grounding_a_dipole/)** (r/amateurradio)
 
 ---
 

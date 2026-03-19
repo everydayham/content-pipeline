@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-18 11:48 UTC*
+*Last updated: 2026-03-19 11:38 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Making A 70cm Yagi](https://www.reddit.com/r/amateurradio/comments/1rwq41r/making_a_70cm_yagi/)**
-by u/Furlyfe_Redux
+**3. [Erm… Guys? SOMETHING tells me this isnt supposed to happen when you transmit 20 ...](https://www.reddit.com/r/amateurradio/comments/1rxn8q4/erm_guys_something_tells_me_this_isnt_supposed_to/)**
+by u/mustycups
 
-**4. [T2lt for 10 meter](https://www.reddit.com/r/amateurradio/comments/1rwzco4/t2lt_for_10_meter/)**
-by u/Public_Challenge9571
+**4. [Did a quick POTA today with my minimalist setup, it worked great!](https://www.reddit.com/r/amateurradio/comments/1rxk5gf/did_a_quick_pota_today_with_my_minimalist_setup/)**
+by u/SA0LSD
 
-**5. [Dxpeditions and poor cw behaviour during pileups](https://www.reddit.com/r/amateurradio/comments/1rws1qb/dxpeditions_and_poor_cw_behaviour_during_pileups/)**
-by u/PolicyOk6019
+**5. [ELI5: Side Bands](https://www.reddit.com/r/amateurradio/comments/1rxwk6r/eli5_side_bands/)**
+by u/fr1234
 
-**6. [Impersonating?](https://www.reddit.com/r/amateurradio/comments/1rx0fjg/impersonating/)**
-by u/MadmanMarching
+**6. [Is this guy calling CQ specifically to New Mexico?](https://www.reddit.com/r/amateurradio/comments/1rxjrtw/is_this_guy_calling_cq_specifically_to_new_mexico/)**
+by u/Puzzleheaded_Tax8761
 
-**7. [Finally done the 80m loop](https://www.reddit.com/r/amateurradio/comments/1rw61dz/finally_done_the_80m_loop/)**
-by u/Active_Emu_845
+**7. [Is it just me, or does chasing DX and QSOs feel a lot like gaming?](https://www.reddit.com/r/amateurradio/comments/1rxcu8b/is_it_just_me_or_does_chasing_dx_and_qsos_feel_a/)**
+by u/w6auw
 
-**8. [THE "PUUILO-POLE" AERIAL](https://www.reddit.com/r/amateurradio/comments/1rx1aae/the_puuilopole_aerial/)**
-by u/alloydog
+**8. [3D Printed Manpack Rails for Yaesu FT-3185](https://www.reddit.com/r/amateurradio/comments/1rxgj0t/3d_printed_manpack_rails_for_yaesu_ft3185/)**
+by u/historicalBuff992
 
-**9. [Can you tune a mag loop with an antenna analyzer?](https://www.reddit.com/r/amateurradio/comments/1rx16nk/can_you_tune_a_mag_loop_with_an_antenna_analyzer/)**
-by u/Impressive-Top-3774
+**9. [Which Mode Do You Find Has More Conversations, JS8Call, PSK31, or Other?](https://www.reddit.com/r/amateurradio/comments/1rxjxyz/which_mode_do_you_find_has_more_conversations/)**
+by u/ThatChucklehead
 
-**10. [Clearly this is a UHF microwave antenna. Omni-receive only.](https://www.reddit.com/r/amateurradio/comments/1rw7n7n/clearly_this_is_a_uhf_microwave_antenna/)**
-by u/CrumbGuzzler5000
+**10. [First QSOs: already in QRP frustration](https://www.reddit.com/r/amateurradio/comments/1rxd09y/first_qsos_already_in_qrp_frustration/)**
+by u/StumblingBlockson
 
-**11. [EFHW for 2m?](https://www.reddit.com/r/amateurradio/comments/1rweur4/efhw_for_2m/)**
-by u/Ok_Success_5178
+**11. [Question about antenna tuners](https://www.reddit.com/r/amateurradio/comments/1rxlwxs/question_about_antenna_tuners/)**
+by u/True_Certitude
 
-**12. [Weatheradio Canada is gone](https://www.reddit.com/r/amateurradio/comments/1rvmj0q/weatheradio_canada_is_gone/)**
-by u/DiodeInc
+**12. [Bayside BEI-800 Crystal Tranceiver, with a direction finder](https://www.reddit.com/r/amateurradio/comments/1rx1xag/bayside_bei800_crystal_tranceiver_with_a/)**
+by u/MxTroy03
 
-**13. [What's this damn noise at some even frequencies? 144, 132 etc](https://www.reddit.com/r/amateurradio/comments/1rwna0i/whats_this_damn_noise_at_some_even_frequencies/)**
-by u/adalexis
+**13. [Odd "digital" noise on 14.364](https://www.reddit.com/r/amateurradio/comments/1rxndbw/odd_digital_noise_on_14364/)**
+by u/JBaumert
 
-**14. [Realistic QSO Simulation Prototype - YouTube](https://www.reddit.com/r/amateurradio/comments/1rwjmdf/realistic_qso_simulation_prototype_youtube/)**
-by u/vladIakimov
+**14. [Anyone run ham software on the new MacBook Neo? How did it go?](https://www.reddit.com/r/amateurradio/comments/1rxc1pg/anyone_run_ham_software_on_the_new_macbook_neo/)**
+by u/Buckbeak
 
-**15. [SOTA activation attempt W6/SC-187 Woodson Mtn](https://www.reddit.com/r/amateurradio/comments/1rvxtls/sota_activation_attempt_w6sc187_woodson_mtn/)**
-by u/OliverDawgy
+**15. [Antenna help](https://www.reddit.com/r/amateurradio/comments/1rxgkmn/antenna_help/)**
+by u/Old_Poem2736
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [My Ham Radio ASOC Exam and License Application Experience (Restricted Grade, Ind...](https://www.reddit.com/r/HamRadio/comments/1rwts7m/my_ham_radio_asoc_exam_and_license_application/)**
+**3. [Looking for power supply recommendations](https://www.reddit.com/r/HamRadio/comments/1rxm0l7/looking_for_power_supply_recommendations/)**
+by u/Star-Light_1988
+
+**4. [New to HF, looking for mobile radio recommendations](https://www.reddit.com/r/HamRadio/comments/1rx9nhg/new_to_hf_looking_for_mobile_radio_recommendations/)**
+by u/wanDering-SoUlL
+
+**5. [Xiegu X6100 help needed with transmitting](https://www.reddit.com/r/HamRadio/comments/1rxfdzo/xiegu_x6100_help_needed_with_transmitting/)**
+by u/miki_4321
+
+**6. [Signal Interferance with key fob](https://www.reddit.com/r/HamRadio/comments/1rxqyad/signal_interferance_with_key_fob/)**
+by u/Express_Canary7320
+
+**7. [10m reliability over tentatively short distances](https://www.reddit.com/r/HamRadio/comments/1rx57mm/10m_reliability_over_tentatively_short_distances/)**
+by u/bones10145
+
+**8. [Chatgpt can now organize CHIRP CSV and also make it run on Linux Mint without er...](https://www.reddit.com/r/HamRadio/comments/1rxvybw/chatgpt_can_now_organize_chirp_csv_and_also_make/)**
+by u/SuspiciousCredit207
+
+**9. [ARRL Code Proficiency Certificate for 20 wpm](https://www.reddit.com/r/HamRadio/comments/1rx3xvk/arrl_code_proficiency_certificate_for_20_wpm/)**
+by u/This_Call_9920
+
+**10. [Hacking Fun with RTL-SDR for beginners](https://www.reddit.com/r/HamRadio/comments/1rxk2l4/hacking_fun_with_rtlsdr_for_beginners/)**
+by u/Easy-Ad-5507
+
+**11. [My Ham Radio ASOC Exam and License Application Experience (Restricted Grade, Ind...](https://www.reddit.com/r/HamRadio/comments/1rwts7m/my_ham_radio_asoc_exam_and_license_application/)**
 by u/kushalighten
 
-**4. [What is my SDR showing on 1.5360hz?](https://www.reddit.com/r/HamRadio/comments/1rx1bgq/what_is_my_sdr_showing_on_15360hz/)**
-by u/FactorElectrical699
-
-**5. [Mobile Radio Installation Question](https://www.reddit.com/r/HamRadio/comments/1rwlf27/mobile_radio_installation_question/)**
+**12. [Mobile Radio Installation Question](https://www.reddit.com/r/HamRadio/comments/1rwlf27/mobile_radio_installation_question/)**
 by u/Golf38611
 
-**6. [WWII Light House Radio Equipment](https://www.reddit.com/r/HamRadio/comments/1rw5xch/wwii_light_house_radio_equipment/)**
+**13. [WWII Light House Radio Equipment](https://www.reddit.com/r/HamRadio/comments/1rw5xch/wwii_light_house_radio_equipment/)**
 by u/East-Coasters
 
-**7. [2005 CVPI Radio/Antenna Reinstallment Tips/Advice](https://www.reddit.com/r/HamRadio/comments/1rwl06y/2005_cvpi_radioantenna_reinstallment_tipsadvice/)**
+**14. [2005 CVPI Radio/Antenna Reinstallment Tips/Advice](https://www.reddit.com/r/HamRadio/comments/1rwl06y/2005_cvpi_radioantenna_reinstallment_tipsadvice/)**
 by u/TheGuySawyer
 
-**8. [Trying to renew my license issue](https://www.reddit.com/r/HamRadio/comments/1rwob4u/trying_to_renew_my_license_issue/)**
+**15. [Trying to renew my license issue](https://www.reddit.com/r/HamRadio/comments/1rwob4u/trying_to_renew_my_license_issue/)**
 by u/MaizeComplete3500
-
-**9. [SOTA activation attempt W6/SC-187 Woodson Mtn](https://www.reddit.com/r/HamRadio/comments/1rvxutt/sota_activation_attempt_w6sc187_woodson_mtn/)**
-by u/OliverDawgy
-
-**10. [Differences between these two baofengs?](https://www.reddit.com/r/HamRadio/comments/1rw791o/differences_between_these_two_baofengs/)**
-by u/benxfactor
-
-**11. [QSO Simulation Prototype - YouTube](https://www.reddit.com/r/HamRadio/comments/1rwgqd2/qso_simulation_prototype_youtube/)**
-by u/vladIakimov
-
-**12. [What are these antennas, and what are they likely used for?](https://www.reddit.com/r/HamRadio/comments/1rvxdrc/what_are_these_antennas_and_what_are_they_likely/)**
-by u/Nico_Briggs
-
-**13. [I was told the USN Speedry antenna coupler is your thing.](https://www.reddit.com/r/HamRadio/comments/1rvf1yx/i_was_told_the_usn_speedry_antenna_coupler_is/)**
-by u/redtailred
-
-**14. [HELP! Can’t Renew HAM license . Need help](https://www.reddit.com/r/HamRadio/comments/1rw4ftx/help_cant_renew_ham_license_need_help/)**
-by u/PerformanceWeary6610
-
-**15. [Morse Pro - Learning and Practicing CW App](https://www.reddit.com/r/HamRadio/comments/1rvobfk/morse_pro_learning_and_practicing_cw_app/)**
-by u/vladIakimov
 
 ---
 
@@ -110,14 +110,14 @@ by u/vladIakimov
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rv8rst/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Making A 70cm Yagi](https://www.reddit.com/r/amateurradio/comments/1rwq41r/making_a_70cm_yagi/)** (r/amateurradio)
-- **[T2lt for 10 meter](https://www.reddit.com/r/amateurradio/comments/1rwzco4/t2lt_for_10_meter/)** (r/amateurradio)
-- **[Dxpeditions and poor cw behaviour during pileups](https://www.reddit.com/r/amateurradio/comments/1rws1qb/dxpeditions_and_poor_cw_behaviour_during_pileups/)** (r/amateurradio)
-- **[Impersonating?](https://www.reddit.com/r/amateurradio/comments/1rx0fjg/impersonating/)** (r/amateurradio)
-- **[Finally done the 80m loop](https://www.reddit.com/r/amateurradio/comments/1rw61dz/finally_done_the_80m_loop/)** (r/amateurradio)
-- **[THE "PUUILO-POLE" AERIAL](https://www.reddit.com/r/amateurradio/comments/1rx1aae/the_puuilopole_aerial/)** (r/amateurradio)
-- **[Can you tune a mag loop with an antenna analyzer?](https://www.reddit.com/r/amateurradio/comments/1rx16nk/can_you_tune_a_mag_loop_with_an_antenna_analyzer/)** (r/amateurradio)
-- **[Clearly this is a UHF microwave antenna. Omni-receive only.](https://www.reddit.com/r/amateurradio/comments/1rw7n7n/clearly_this_is_a_uhf_microwave_antenna/)** (r/amateurradio)
+- **[Erm… Guys? SOMETHING tells me this isnt supposed to happen when you tr...](https://www.reddit.com/r/amateurradio/comments/1rxn8q4/erm_guys_something_tells_me_this_isnt_supposed_to/)** (r/amateurradio)
+- **[Did a quick POTA today with my minimalist setup, it worked great!](https://www.reddit.com/r/amateurradio/comments/1rxk5gf/did_a_quick_pota_today_with_my_minimalist_setup/)** (r/amateurradio)
+- **[ELI5: Side Bands](https://www.reddit.com/r/amateurradio/comments/1rxwk6r/eli5_side_bands/)** (r/amateurradio)
+- **[Is this guy calling CQ specifically to New Mexico?](https://www.reddit.com/r/amateurradio/comments/1rxjrtw/is_this_guy_calling_cq_specifically_to_new_mexico/)** (r/amateurradio)
+- **[Is it just me, or does chasing DX and QSOs feel a lot like gaming?](https://www.reddit.com/r/amateurradio/comments/1rxcu8b/is_it_just_me_or_does_chasing_dx_and_qsos_feel_a/)** (r/amateurradio)
+- **[3D Printed Manpack Rails for Yaesu FT-3185](https://www.reddit.com/r/amateurradio/comments/1rxgj0t/3d_printed_manpack_rails_for_yaesu_ft3185/)** (r/amateurradio)
+- **[Which Mode Do You Find Has More Conversations, JS8Call, PSK31, or Othe...](https://www.reddit.com/r/amateurradio/comments/1rxjxyz/which_mode_do_you_find_has_more_conversations/)** (r/amateurradio)
+- **[First QSOs: already in QRP frustration](https://www.reddit.com/r/amateurradio/comments/1rxd09y/first_qsos_already_in_qrp_frustration/)** (r/amateurradio)
 
 ---
 

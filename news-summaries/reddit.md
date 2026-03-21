@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-20 11:35 UTC*
+*Last updated: 2026-03-21 11:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Interesting. Who is VK0DS?](https://www.reddit.com/r/amateurradio/comments/1ryj46p/interesting_who_is_vk0ds/)**
+**3. [Behold, the Antenna Line launcher](https://www.reddit.com/r/amateurradio/comments/1rz11om/behold_the_antenna_line_launcher/)**
+by u/McNeillTrevor
+
+**4. [Oh wow... there they all are!!](https://www.reddit.com/r/amateurradio/comments/1rz3mi1/oh_wow_there_they_all_are/)**
+by u/firekeeper23
+
+**5. [10m is banging!](https://www.reddit.com/r/amateurradio/comments/1rz0bls/10m_is_banging/)**
+by u/SwitchedOnNow
+
+**6. [FT8 with RTLSDR - did I just receive a signal 5500 miles away with rabbit ears?](https://www.reddit.com/r/amateurradio/comments/1rzm6z9/ft8_with_rtlsdr_did_i_just_receive_a_signal_5500/)**
+by u/OmgSlayKween
+
+**7. [Don't do FT8 while trying to receive wefax lol](https://www.reddit.com/r/amateurradio/comments/1rz6jrd/dont_do_ft8_while_trying_to_receive_wefax_lol/)**
+by u/enormousaardvark
+
+**8. [I built a Morse code game for learning CW that is super fun, and correct in trai...](https://www.reddit.com/r/amateurradio/comments/1rz1qtg/i_built_a_morse_code_game_for_learning_cw_that_is/)**
+by u/aaronhs
+
+**9. [i got this variable psu for my xiegu g90... have i screwed myself?](https://www.reddit.com/r/amateurradio/comments/1rzno7u/i_got_this_variable_psu_for_my_xiegu_g90_have_i/)**
+by u/casualcatloaf
+
+**10. [CY0S - Sable Island](https://www.reddit.com/r/amateurradio/comments/1rzgowo/cy0s_sable_island/)**
+by u/FarFigNewton007
+
+**11. [Interesting. Who is VK0DS?](https://www.reddit.com/r/amateurradio/comments/1ryj46p/interesting_who_is_vk0ds/)**
 by u/Puzzleheaded_Tax8761
 
-**4. [passed tech today, absolutely ecstatic](https://www.reddit.com/r/amateurradio/comments/1ryrtwu/passed_tech_today_absolutely_ecstatic/)**
-by u/synth_mania
+**12. [Current use of Raspberry Pi](https://www.reddit.com/r/amateurradio/comments/1ryy7fl/current_use_of_raspberry_pi/)**
+by u/FlyFreak
 
-**5. [Need help with Yagi-Uda Antenna](https://www.reddit.com/r/amateurradio/comments/1ryqewg/need_help_with_yagiuda_antenna/)**
-by u/Thibaud_Reddit
-
-**6. [At last, I've made some FT8 contacts in the USA 🙂](https://www.reddit.com/r/amateurradio/comments/1ryeqxe/at_last_ive_made_some_ft8_contacts_in_the_usa/)**
-by u/senditoverthewaves
-
-**7. [Today's sunset on the PJ2T antenna farm.](https://www.reddit.com/r/amateurradio/comments/1ryky7w/todays_sunset_on_the_pj2t_antenna_farm/)**
-by u/Weekly-Curve-7742
-
-**8. [First dipole antenna. Don't understand SWR readings.](https://www.reddit.com/r/amateurradio/comments/1ry9ugh/first_dipole_antenna_dont_understand_swr_readings/)**
-by u/curtasswil
-
-**9. [Why do we use FM on VHF/UHF?](https://www.reddit.com/r/amateurradio/comments/1ry5uzh/why_do_we_use_fm_on_vhfuhf/)**
-by u/w6auw
-
-**10. [New portable operating idea — no parks, no summits, no rules](https://www.reddit.com/r/amateurradio/comments/1ry2cf8/new_portable_operating_idea_no_parks_no_summits/)**
-by u/WW1ZRD
-
-**11. [People with straight keys who occasionally hold down the "dash" super-long when ...](https://www.reddit.com/r/amateurradio/comments/1rylcr8/people_with_straight_keys_who_occasionally_hold/)**
-by u/nbrpgnet
-
-**12. [Radtel RT-950 Pro - external speaker-microphone](https://www.reddit.com/r/amateurradio/comments/1ryqcl7/radtel_rt950_pro_external_speakermicrophone/)**
-by u/arturdebski
-
-**13. [Routers and multiple antennas (a question)](https://www.reddit.com/r/amateurradio/comments/1ryn4ob/routers_and_multiple_antennas_a_question/)**
-by u/ShmazPro
-
-**14. [Braided endfed halfwave?](https://www.reddit.com/r/amateurradio/comments/1ry1j0v/braided_endfed_halfwave/)**
+**13. [1 watt challenge](https://www.reddit.com/r/amateurradio/comments/1rz6sa1/1_watt_challenge/)**
 by u/Horrorbythenumbers
 
-**15. [What distro is best for HAM operator?](https://www.reddit.com/r/amateurradio/comments/1ry9444/what_distro_is_best_for_ham_operator/)**
-by u/ShotZookeepergame960
+**14. [passed tech today, absolutely ecstatic](https://www.reddit.com/r/amateurradio/comments/1ryrtwu/passed_tech_today_absolutely_ecstatic/)**
+by u/synth_mania
+
+**15. [Building a Ham Radio Library](https://www.reddit.com/r/amateurradio/comments/1rzhlws/building_a_ham_radio_library/)**
+by u/FranzJosephWannabe
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Can anyone recommend a good portable 100w amplifier?](https://www.reddit.com/r/HamRadio/comments/1ryhpax/can_anyone_recommend_a_good_portable_100w/)**
+**3. [$1000 reward : Someone is hacking our local law enforcement radio frequency. Nee...](https://www.reddit.com/r/HamRadio/comments/1rz7ose/1000_reward_someone_is_hacking_our_local_law/)**
+by u/tyranitar1234
+
+**4. [I built this 20 meter dipole to carry on POTA & SOTA events](https://www.reddit.com/r/HamRadio/comments/1ryxxr8/i_built_this_20_meter_dipole_to_carry_on_pota/)**
+by u/beekeeper55
+
+**5. [Solar Conditions Dashboard from RigReference](https://www.reddit.com/r/HamRadio/comments/1rzllto/solar_conditions_dashboard_from_rigreference/)**
+by u/ilmar
+
+**6. [2m stealth antenna that is only 5mm tall](https://www.reddit.com/r/HamRadio/comments/1rzfx76/2m_stealth_antenna_that_is_only_5mm_tall/)**
+by u/behnt
+
+**7. [1 watt challenge was fun but hard](https://www.reddit.com/r/HamRadio/comments/1rz6txc/1_watt_challenge_was_fun_but_hard/)**
+by u/Horrorbythenumbers
+
+**8. [Noob wants to know when to use FM vs NFM on VHF/UHF](https://www.reddit.com/r/HamRadio/comments/1rza85m/noob_wants_to_know_when_to_use_fm_vs_nfm_on_vhfuhf/)**
+by u/AutofluorescentPuku
+
+**9. [How can I hide an antenna in a commie block building?](https://www.reddit.com/r/HamRadio/comments/1rz2urq/how_can_i_hide_an_antenna_in_a_commie_block/)**
+by u/honza5239
+
+**10. [I need POTA.app account help...](https://www.reddit.com/r/HamRadio/comments/1ryy5rj/i_need_potaapp_account_help/)**
+by u/SmokinDeist
+
+**11. [Can anyone recommend a good portable 100w amplifier?](https://www.reddit.com/r/HamRadio/comments/1ryhpax/can_anyone_recommend_a_good_portable_100w/)**
 by u/Estproph
 
-**4. [I have a Xiegu G90 and XPA125B amp, each running indoors off of their own batter...](https://www.reddit.com/r/HamRadio/comments/1ryh78n/i_have_a_xiegu_g90_and_xpa125b_amp_each_running/)**
+**12. [What should I know for emergency/tactical comms?](https://www.reddit.com/r/HamRadio/comments/1rz3bz0/what_should_i_know_for_emergencytactical_comms/)**
+by u/bxcellent2eo
+
+**13. [I have a Xiegu G90 and XPA125B amp, each running indoors off of their own batter...](https://www.reddit.com/r/HamRadio/comments/1ryh78n/i_have_a_xiegu_g90_and_xpa125b_amp_each_running/)**
 by u/youbenchbro
 
-**5. [Seeking advice for choosing an audio compressor / limiter / gate](https://www.reddit.com/r/HamRadio/comments/1ry1pg2/seeking_advice_for_choosing_an_audio_compressor/)**
+**14. [Seeking advice for choosing an audio compressor / limiter / gate](https://www.reddit.com/r/HamRadio/comments/1ry1pg2/seeking_advice_for_choosing_an_audio_compressor/)**
 by u/Soap_Box_Hero
 
-**6. [Looking for power supply recommendations](https://www.reddit.com/r/HamRadio/comments/1rxm0l7/looking_for_power_supply_recommendations/)**
+**15. [Looking for power supply recommendations](https://www.reddit.com/r/HamRadio/comments/1rxm0l7/looking_for_power_supply_recommendations/)**
 by u/Star-Light_1988
-
-**7. [New to HF, looking for mobile radio recommendations](https://www.reddit.com/r/HamRadio/comments/1rx9nhg/new_to_hf_looking_for_mobile_radio_recommendations/)**
-by u/wanDering-SoUlL
-
-**8. [Xiegu X6100 help needed with transmitting](https://www.reddit.com/r/HamRadio/comments/1rxfdzo/xiegu_x6100_help_needed_with_transmitting/)**
-by u/miki_4321
-
-**9. [Signal Interferance with key fob](https://www.reddit.com/r/HamRadio/comments/1rxqyad/signal_interferance_with_key_fob/)**
-by u/Express_Canary7320
-
-**10. [10m reliability over tentatively short distances](https://www.reddit.com/r/HamRadio/comments/1rx57mm/10m_reliability_over_tentatively_short_distances/)**
-by u/bones10145
-
-**11. [ARRL Code Proficiency Certificate for 20 wpm](https://www.reddit.com/r/HamRadio/comments/1rx3xvk/arrl_code_proficiency_certificate_for_20_wpm/)**
-by u/This_Call_9920
-
-**12. [Hacking Fun with RTL-SDR for beginners](https://www.reddit.com/r/HamRadio/comments/1rxk2l4/hacking_fun_with_rtlsdr_for_beginners/)**
-by u/Easy-Ad-5507
-
-**13. [Chatgpt can now organize CHIRP CSV and also make it run on Linux Mint without er...](https://www.reddit.com/r/HamRadio/comments/1rxvybw/chatgpt_can_now_organize_chirp_csv_and_also_make/)**
-by u/SuspiciousCredit207
-
-**14. [My Ham Radio ASOC Exam and License Application Experience (Restricted Grade, Ind...](https://www.reddit.com/r/HamRadio/comments/1rwts7m/my_ham_radio_asoc_exam_and_license_application/)**
-by u/kushalighten
-
-**15. [Mobile Radio Installation Question](https://www.reddit.com/r/HamRadio/comments/1rwlf27/mobile_radio_installation_question/)**
-by u/Golf38611
 
 ---
 
@@ -110,14 +110,14 @@ by u/Golf38611
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1rv8rst/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Interesting. Who is VK0DS?](https://www.reddit.com/r/amateurradio/comments/1ryj46p/interesting_who_is_vk0ds/)** (r/amateurradio)
-- **[passed tech today, absolutely ecstatic](https://www.reddit.com/r/amateurradio/comments/1ryrtwu/passed_tech_today_absolutely_ecstatic/)** (r/amateurradio)
-- **[Need help with Yagi-Uda Antenna](https://www.reddit.com/r/amateurradio/comments/1ryqewg/need_help_with_yagiuda_antenna/)** (r/amateurradio)
-- **[At last, I've made some FT8 contacts in the USA 🙂](https://www.reddit.com/r/amateurradio/comments/1ryeqxe/at_last_ive_made_some_ft8_contacts_in_the_usa/)** (r/amateurradio)
-- **[Today's sunset on the PJ2T antenna farm.](https://www.reddit.com/r/amateurradio/comments/1ryky7w/todays_sunset_on_the_pj2t_antenna_farm/)** (r/amateurradio)
-- **[First dipole antenna. Don't understand SWR readings.](https://www.reddit.com/r/amateurradio/comments/1ry9ugh/first_dipole_antenna_dont_understand_swr_readings/)** (r/amateurradio)
-- **[Why do we use FM on VHF/UHF?](https://www.reddit.com/r/amateurradio/comments/1ry5uzh/why_do_we_use_fm_on_vhfuhf/)** (r/amateurradio)
-- **[New portable operating idea — no parks, no summits, no rules](https://www.reddit.com/r/amateurradio/comments/1ry2cf8/new_portable_operating_idea_no_parks_no_summits/)** (r/amateurradio)
+- **[Behold, the Antenna Line launcher](https://www.reddit.com/r/amateurradio/comments/1rz11om/behold_the_antenna_line_launcher/)** (r/amateurradio)
+- **[Oh wow... there they all are!!](https://www.reddit.com/r/amateurradio/comments/1rz3mi1/oh_wow_there_they_all_are/)** (r/amateurradio)
+- **[10m is banging!](https://www.reddit.com/r/amateurradio/comments/1rz0bls/10m_is_banging/)** (r/amateurradio)
+- **[FT8 with RTLSDR - did I just receive a signal 5500 miles away with rab...](https://www.reddit.com/r/amateurradio/comments/1rzm6z9/ft8_with_rtlsdr_did_i_just_receive_a_signal_5500/)** (r/amateurradio)
+- **[Don't do FT8 while trying to receive wefax lol](https://www.reddit.com/r/amateurradio/comments/1rz6jrd/dont_do_ft8_while_trying_to_receive_wefax_lol/)** (r/amateurradio)
+- **[I built a Morse code game for learning CW that is super fun, and corre...](https://www.reddit.com/r/amateurradio/comments/1rz1qtg/i_built_a_morse_code_game_for_learning_cw_that_is/)** (r/amateurradio)
+- **[i got this variable psu for my xiegu g90... have i screwed myself?](https://www.reddit.com/r/amateurradio/comments/1rzno7u/i_got_this_variable_psu_for_my_xiegu_g90_have_i/)** (r/amateurradio)
+- **[CY0S - Sable Island](https://www.reddit.com/r/amateurradio/comments/1rzgowo/cy0s_sable_island/)** (r/amateurradio)
 
 ---
 

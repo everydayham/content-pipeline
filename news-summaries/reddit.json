@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T11:27:21.548438",
+  "updated": "2026-03-23T11:47:26.066758",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,54 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "3D printed knee board for QRP radios",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s00ob4/3d_printed_knee_board_for_qrp_radios/",
-        "author": "/u/Thylacine_Zombie"
+        "title": "15 y/o RX-only hobbyist: DIY antennas since age 9",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0ylbw/15_yo_rxonly_hobbyist_diy_antennas_since_age_9/",
+        "author": "/u/RozzKiv"
+      },
+      {
+        "title": "Accidentally had a QSO out of privileged band - do I need to do anything?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0ug5h/accidentally_had_a_qso_out_of_privileged_band_do/",
+        "author": "/u/notajeweler"
+      },
+      {
+        "title": "My first HF setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0ndgn/my_first_hf_setup/",
+        "author": "/u/music_guy_in_sweden"
+      },
+      {
+        "title": "I haven't seen bands this bad since Woodstock '99",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0qhab/i_havent_seen_bands_this_bad_since_woodstock_99/",
+        "author": "/u/Active_Emu_845"
+      },
+      {
+        "title": "ICOM IC-7300 vs. 7300mk2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s14hqq/icom_ic7300_vs_7300mk2/",
+        "author": "/u/CaptSpaulding73"
+      },
+      {
+        "title": "POTA/SOTA antenna and usdx suggestion for begginer",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s1dfae/potasota_antenna_and_usdx_suggestion_for_begginer/",
+        "author": "/u/Excellent-Hippo-1774"
+      },
+      {
+        "title": "AIS FRIENDS vs AISHUB vs AIS CATCHER",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s1ekae/ais_friends_vs_aishub_vs_ais_catcher/",
+        "author": "/u/Head-Cat9443"
+      },
+      {
+        "title": "15-year-old beginner with interest in RF / scanner \u2013 is this hobby okay for me?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0v55n/15yearold_beginner_with_interest_in_rf_scanner_is/",
+        "author": "/u/RozzKiv"
+      },
+      {
+        "title": "Why are logging platforms so terrible?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0pthu/why_are_logging_platforms_so_terrible/",
+        "author": "/u/CaptainSpez"
+      },
+      {
+        "title": "FT-3185 3D Printed Manpack Rails v2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0vqz9/ft3185_3d_printed_manpack_rails_v2/",
+        "author": "/u/historicalBuff992"
       },
       {
         "title": "You have to be kidding me!",
@@ -27,109 +72,64 @@
         "author": "/u/BassManns222"
       },
       {
-        "title": "Band conditions are hot trash, there's thunder in the distance...",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s02xh7/band_conditions_are_hot_trash_theres_thunder_in/",
+        "title": "Portable Repeater Build",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s11reb/portable_repeater_build/",
+        "author": "/u/Anonymous_Chipmunk"
+      },
+      {
+        "title": "Cleanest option to get cables from inside to outside",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0w01z/cleanest_option_to_get_cables_from_inside_to/",
+        "author": "/u/AubieTheGoshDarnTigr"
+      },
+      {
+        "title": "Thought I killed my FT-450D right after finally getting my HF antenna up",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0z0a4/thought_i_killed_my_ft450d_right_after_finally/",
+        "author": "/u/Wolf_Smith"
+      },
+      {
+        "title": "High noise / local interference appeared in last few days",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s19049/high_noise_local_interference_appeared_in_last/",
+        "author": "/u/hunt_chak"
+      },
+      {
+        "title": "Question about working splits",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0uxre/question_about_working_splits/",
         "author": "/u/KhyberPasshole"
       },
       {
-        "title": "World's worst best dipole.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s098fy/worlds_worst_best_dipole/",
-        "author": "/u/SeriousQuail4655"
+        "title": "Motorola GM380/GM360 receiving DMR Signals on Discriminator but the STM32 Repeater Builder Board does not recognize it...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s100n2/motorola_gm380gm360_receiving_dmr_signals_on/",
+        "author": "/u/FinancialSeries5560"
       },
       {
-        "title": "What's the most unusual Morse code transmission you're heard and any tips for practice listening?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s03y00/whats_the_most_unusual_morse_code_transmission/",
-        "author": "/u/codiecotton"
+        "title": "At my wits end with HF hardware",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0un2l/at_my_wits_end_with_hf_hardware/",
+        "author": "/u/pancakeman2018"
       },
       {
-        "title": "OpenNEC 1.2.0 antenna modelling software released - now with Windows goodness!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzzl3v/opennec_120_antenna_modelling_software_released/",
-        "author": "/u/maurymarkowitz"
+        "title": "15 y/o hobbyist, just listening: weird signals at 25.700.352 MHz",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0w1sr/15_yo_hobbyist_just_listening_weird_signals_at/",
+        "author": "/u/RozzKiv"
       },
       {
-        "title": "Sanity checks for first HF transceiver",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s09jd7/sanity_checks_for_first_hf_transceiver/",
-        "author": "/u/Mysterious-Plant1001"
+        "title": "What are these regularly spaced peaks on my SDR waterfall",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s13fjd/what_are_these_regularly_spaced_peaks_on_my_sdr/",
+        "author": "/u/AutofluorescentPuku"
       },
       {
-        "title": "The Shipping Forecast on your device anytime, anywhere - no geolocking",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s02lqj/the_shipping_forecast_on_your_device_anytime/",
-        "author": "/u/LW_Archivist"
+        "title": "Help understanding the wavelength in a monopole antenna.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0nsgh/help_understanding_the_wavelength_in_a_monopole/",
+        "author": "/u/GeekyGamer01"
       },
       {
-        "title": "Handheld radio recommendations",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s0hpnn/handheld_radio_recommendations/",
-        "author": "/u/Arran-gilmour"
+        "title": "3D printed knee board for QRP radios",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s00ob4/3d_printed_knee_board_for_qrp_radios/",
+        "author": "/u/Thylacine_Zombie"
       },
       {
-        "title": "What kind of things can you just sit and listen to?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzrr8q/what_kind_of_things_can_you_just_sit_and_listen_to/",
-        "author": "/u/Interestingtag"
-      },
-      {
-        "title": "Antenna visitors",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzuubp/antenna_visitors/",
-        "author": "/u/justthefactualsman"
-      },
-      {
-        "title": "best antenna for a realistic pro 2037",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s03lkq/best_antenna_for_a_realistic_pro_2037/",
-        "author": "/u/girlwithabaguette"
-      },
-      {
-        "title": "DX day today?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s03od3/dx_day_today/",
-        "author": "/u/VA3FOJ"
-      },
-      {
-        "title": "Has anyone tried a longer whip on a Radioddity hf010 antenna to see if it improves resonance on the lower end of the 80 M band?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s0973w/has_anyone_tried_a_longer_whip_on_a_radioddity/",
-        "author": "/u/Rich_Elusive_Gee"
-      },
-      {
-        "title": "I finally got my mobile setup complete, but I have a question about wind and antennas.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s011ek/i_finally_got_my_mobile_setup_complete_but_i_have/",
-        "author": "/u/twotired4life"
-      },
-      {
-        "title": "need to renew my license and am past the 2 year grace period",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s027wb/need_to_renew_my_license_and_am_past_the_2_year/",
-        "author": "/u/tater1337"
-      },
-      {
-        "title": "FT8 with RTLSDR - did I just receive a signal 5500 miles away with rabbit ears?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzm6z9/ft8_with_rtlsdr_did_i_just_receive_a_signal_5500/",
-        "author": "/u/OmgSlayKween"
-      },
-      {
-        "title": "Our boards arrived and we\u2019re starting bring up on the first Atlax master node",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzrcl7/our_boards_arrived_and_were_starting_bring_up_on/",
-        "author": "/u/DistrictFew9153"
-      },
-      {
-        "title": "Took my CB antenna up on the roof and tried to make some contacts using G90 - no luck. Also have a contest question.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzswiz/took_my_cb_antenna_up_on_the_roof_and_tried_to/",
-        "author": "/u/EveningChase3548"
-      },
-      {
-        "title": "radtel 950 pro or alternatives?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s045eo/radtel_950_pro_or_alternatives/",
-        "author": "/u/Excellent-Hippo-1774"
-      },
-      {
-        "title": "Behold, the Antenna Line launcher",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rz11om/behold_the_antenna_line_launcher/",
-        "author": "/u/McNeillTrevor"
-      },
-      {
-        "title": "Deploying an EFHW as an inverted V",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1rzyd0g/deploying_an_efhw_as_an_inverted_v/",
-        "author": "/u/SerenityNetworks"
-      },
-      {
-        "title": "Looking For Users With HAMRS Log Experience. Is There No Demo?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1s02r1c/looking_for_users_with_hamrs_log_experience_is/",
-        "author": "/u/not_pablum"
+        "title": "Vintage aluminum antenna mounts repurposed for swingset",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1s0w5op/vintage_aluminum_antenna_mounts_repurposed_for/",
+        "author": "/u/squirrelgator"
       }
     ],
     "HamRadio": [
@@ -142,6 +142,46 @@
         "title": "State of the Sub: Making r/HamRadio Cool Again (According to the Data)",
         "link": "https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/",
         "author": "/u/SharkSapphire"
+      },
+      {
+        "title": "XYL (and Parent of two operators)...I need ideas for crafty gifts.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s17n0i/xyl_and_parent_of_two_operatorsi_need_ideas_for/",
+        "author": "/u/sweetestpea3"
+      },
+      {
+        "title": "D. S. Kennedy antenna mounts c. 1947 - 1963",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s0vx7q/d_s_kennedy_antenna_mounts_c_1947_1963/",
+        "author": "/u/squirrelgator"
+      },
+      {
+        "title": "OpenNEC 1.2.0 antenna modelling software released - now with Windows goodness!",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s10zki/opennec_120_antenna_modelling_software_released/",
+        "author": "/u/maurymarkowitz"
+      },
+      {
+        "title": "ADIF 3.1.7 Specification Released - FT2 Submode of MFSK",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s0uvon/adif_317_specification_released_ft2_submode_of/",
+        "author": "/u/sus3k"
+      },
+      {
+        "title": "Need radio suggestions for beginners",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s0uuul/need_radio_suggestions_for_beginners/",
+        "author": "/u/Spideygamer1909"
+      },
+      {
+        "title": "Can some bands be used without a license?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s11gno/can_some_bands_be_used_without_a_license/",
+        "author": "/u/NORTHERNTWITCH"
+      },
+      {
+        "title": "Questions about radio tubes in a gigantic lot.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s0rw1x/questions_about_radio_tubes_in_a_gigantic_lot/",
+        "author": "/u/quiblitz"
+      },
+      {
+        "title": "Just another webpage based visual/audio Morse Code Trainer. https://github.com/flyCouch/Morse-code-trainer . Shows ideal timings and yours to compare, use your own text, set your own speeds. Runs local. You can see where one is sloppy and fix it.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1s0mr58/just_another_webpage_based_visualaudio_morse_code/",
+        "author": "/u/flyCouch"
       },
       {
         "title": "Hello everyone! I\u2019m new to the community and I would love some input.",
@@ -159,14 +199,14 @@
         "author": "/u/IllustriousTap8978"
       },
       {
-        "title": "Solar Conditions Dashboard from RigReference",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rzllto/solar_conditions_dashboard_from_rigreference/",
-        "author": "/u/ilmar"
-      },
-      {
         "title": "2m stealth antenna that is only 5mm tall",
         "link": "https://www.reddit.com/r/HamRadio/comments/1rzfx76/2m_stealth_antenna_that_is_only_5mm_tall/",
         "author": "/u/behnt"
+      },
+      {
+        "title": "Solar Conditions Dashboard from RigReference",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1rzllto/solar_conditions_dashboard_from_rigreference/",
+        "author": "/u/ilmar"
       },
       {
         "title": "1 watt challenge was fun but hard",
@@ -217,46 +257,6 @@
         "title": "Seeking advice for choosing an audio compressor / limiter / gate",
         "link": "https://www.reddit.com/r/HamRadio/comments/1ry1pg2/seeking_advice_for_choosing_an_audio_compressor/",
         "author": "/u/Soap_Box_Hero"
-      },
-      {
-        "title": "Looking for power supply recommendations",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rxm0l7/looking_for_power_supply_recommendations/",
-        "author": "/u/Star-Light_1988"
-      },
-      {
-        "title": "New to HF, looking for mobile radio recommendations",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rx9nhg/new_to_hf_looking_for_mobile_radio_recommendations/",
-        "author": "/u/wanDering-SoUlL"
-      },
-      {
-        "title": "Xiegu X6100 help needed with transmitting",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rxfdzo/xiegu_x6100_help_needed_with_transmitting/",
-        "author": "/u/miki_4321"
-      },
-      {
-        "title": "Signal Interferance with key fob",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rxqyad/signal_interferance_with_key_fob/",
-        "author": "/u/Express_Canary7320"
-      },
-      {
-        "title": "10m reliability over tentatively short distances",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rx57mm/10m_reliability_over_tentatively_short_distances/",
-        "author": "/u/bones10145"
-      },
-      {
-        "title": "ARRL Code Proficiency Certificate for 20 wpm",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rx3xvk/arrl_code_proficiency_certificate_for_20_wpm/",
-        "author": "/u/This_Call_9920"
-      },
-      {
-        "title": "Hacking Fun with RTL-SDR for beginners",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rxk2l4/hacking_fun_with_rtlsdr_for_beginners/",
-        "author": "/u/Easy-Ad-5507"
-      },
-      {
-        "title": "Chatgpt can now organize CHIRP CSV and also make it run on Linux Mint without errors",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1rxvybw/chatgpt_can_now_organize_chirp_csv_and_also_make/",
-        "author": "/u/SuspiciousCredit207"
       }
     ]
   }

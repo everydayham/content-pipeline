@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-03-16 12:53 UTC*
+*Last updated: 2026-03-23 12:47 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,32 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Ansh Ban Gaya Principal ka Pota 😂  #shorts  #funny... | TheLifeOrbit | 12,623,958 | 2026-03-11 |
-| Ansh Ban Gaya Principal ka Pota 😂 #shorts #funny #... | Mr.Sraoster | 8,983,366 | 2026-03-10 |
-| Ansh bna principal ka pota😂#shorts#funny#comedy#pr... | isaboy | 3,931,175 | 2026-03-13 |
-| Principal ka pota #shorts #funny #board #comedy #a... | HarshitSaini | 2,482,085 | 2026-03-15 |
-| Minivlog#568 🤣“Marry Me Pasta”🍝||Pota efforts laam... | Bhavani vlogs  | 842,035 | 2026-03-15 |
-| 『ヤキモチ？』＼aoen 2nd Single「秒で落ちた」3月18日(水)よりリリース🎉／　#PR... | キュリエーション学院 | 649,468 | 2026-03-10 |
-| びっくりドンキー #BEFIRST #MANATO #SOTA | BE:FIRST Official | 560,585 | 2026-03-10 |
-| Astronauta por la borda? | Control de Misión | 555,494 | 2026-03-15 |
-| Kalyanathuku pota ring ivaga kita tha vaangunen In... | Life of Srija | 417,381 | 2026-03-11 |
-| principal ka pota hai #shorts #shortvideo #sraoste... | FUNNY VIDEO 😂😂 | 345,556 | 2026-03-14 |
-| pota Kaun Hai bich mein bolane wala [pratigya] old... | Bhojpuri h8z | 335,489 | 2026-03-10 |
-| ham radio | EclipsedVO | 326,533 | 2026-03-09 |
-| Нас готовят к страшному! В Москве нет мобильного и... | sotavision | 259,651 | 2026-03-12 |
-| nana ban gye guruji pota poti aye guruji se milne ... | Bageshwar balaji 123 | 249,998 | 2026-03-11 |
-| Dubai Mein Ek Millionaire noto ki gadiyon per sota... | Jaatshab Jaatshab p1 | 210,326 | 2026-03-09 |
-| rat ko sota waqt ya wazifa krain #wazifaforhajat #... | Quran o wazifa | 165,117 | 2026-03-11 |
-| MANAとSHOTA はSOTAの妹であるKONAに腕を回す。🌹#BEFIRST | NINA_BESTY | 148,704 | 2026-03-15 |
-| DIY MORSE CODE KEY PRACTICE! #hamradio #morsecode ... | Radio Roamers | 125,785 | 2026-03-13 |
-| Order pota yella sarees um deliver panniyaachu✨️ #... | Mom And Daughter | 104,143 | 2026-03-15 |
-| SOTA & RYUHEI Dance Tik Tok 🌹#BEFIRST | NINA_BESTY | 80,646 | 2026-03-13 |
-| Setting up HAM radio 🔥#morsecode #experement #hobb... | Hobby Steve  | 79,001 | 2026-03-12 |
-| kon jyada sota hai.... 🥺😀😂😂 #shorts#shortvideo # #... |  SauraBH Deshi Vlogs | 77,179 | 2026-03-10 |
-| Apke ghar me konsa ajeeb tarike se sota hai? ya sa... | Aditya Saran | Cats  | 70,649 | 2026-03-15 |
-| 2026.05.06 BE:FIRST ’BE:FIRST ALL DAY’ #BF_ALLDAY ... | BE:FIRST Official | 64,851 | 2026-03-15 |
-| 📺 Encore une mini-télé ?! | Neliger | 48,691 | 2026-03-15 |
+| Ansh Ban Gaya Principal ka Pota 😂 #shorts #funny #... | XKamran.5 | 679,194 | 2026-03-19 |
+| HER BASKET ATTIĞIMDA POTA UZAKLAŞIYOR! | Erownie | 518,178 | 2026-03-19 |
+| Ansh Ban Gaya Principal ka Pota 😂#shorts#funny#sch... | Kahaniraaz. official | 479,899 | 2026-03-18 |
+| Jab me sota hu 😂😂😂@SonaNayak914 #youtubeshorts #fu... | SAGAR MEENA | 239,633 | 2026-03-20 |
+| POTA BEE JUMBO terkena lumpur #shorts | Ara Sam Sam | 196,859 | 2026-03-18 |
+| とにかく島雄兄妹が最高すぎて生きててよかった(  ߹꒳​߹ )そたこなサイファーありがとう😭 #BE... | べすちだにゃ。 | 160,182 | 2026-03-18 |
+| BF_ALL DAY🌹, SOTA MANATO ラップパート#BEFIRST | NINA_BESTY | 147,360 | 2026-03-17 |
+| dada pota ⚽  gas cylinder balance on head 15kg😱  #... | Jota_sujjon | 140,129 | 2026-03-18 |
+| Tumhara Pota Meri Beti Ko Baghany Ke Chakro Mein H... | HUM TV | 120,071 | 2026-03-19 |
+| Dulhan Ko Pota 🤣 #shorts #back #viral #funny #love... | Shaadi Ka Tashan
+ | 109,867 | 2026-03-17 |
+| ac me mst sota hu ✅Originally priced around $1.5 m... | DailyFunWithDR  | 99,432 | 2026-03-17 |
+| QUI A TUÉ UN MEMBRE DE LA CACABOX ? 🥶 (ft.Terra, P... | Hugo Délire | 83,722 | 2026-03-21 |
+| pota kaleji kaise banaye? || #kalejimasala #kalien... | My Desi Cooking | 73,504 | 2026-03-17 |
+| #befirstallday#BEFIRST#DUNK 新曲披露！大歓声1番沸いたのはやっぱりここ❤... | BE:HAPPY | 71,833 | 2026-03-19 |
+| #BEFIRST#DUNK#stareinwonder セトリで聞く感動感激がすごかったからぜひ配信... | BE:HAPPY | 64,343 | 2026-03-17 |
+| #BEFIRST 平安神宮奉納LIVE#befirstallday 見たかった曲見たかったシーン見れ... | BE:HAPPY | 51,535 | 2026-03-21 |
+| Aise Kaun sota hai ✨ #bindasskavya#shorts | Miss Anshika | 51,362 | 2026-03-19 |
+| SOTA Dance BF_ALL DAY 卓越したダンススキル ???⚰️🌹#BEFIRST#SO... | NINA_BESTY | 51,174 | 2026-03-20 |
+| BF_ALL DAY 奉納 Special Live平安神宮 , SOTA performance ... | NINA_BESTY | 49,166 | 2026-03-21 |
+| DJ POTA POTA COPINES THAILAND STYLE x SLOW BASS by... | DJ FEBRI | 34,166 | 2026-03-16 |
+| Porta potty antenna CW edition #hamradio #hamradio... | Hobby Steve  | 31,490 | 2026-03-16 |
+| I'm loving the UV-PRO so far. I has so much capabi... | Practical Comms | 26,951 | 2026-03-16 |
+| I love this thing!! CODE: HOBBYSTEVE for 10% off! ... | Hobby Steve  | 24,672 | 2026-03-19 |
+| It barely worked!! 😂😂#hamradio #hamradioamateur #e... | Hobby Steve  | 24,067 | 2026-03-20 |
+| Dasska 850 Hf Whatsapp-9650568558 | Dj vlog | 22,550 | 2026-03-18 |
 
 ---
 
@@ -42,14 +43,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (31 videos)
-- **License/Learning**: ███████████████████ (19 videos)
-- **Antennas**: ████████████████ (16 videos)
-- **HF Operating**: ███████████████ (15 videos)
-- **Gear Reviews**: ███████████ (11 videos)
-- **QRP**: ██████ (6 videos)
-- **Digital Modes**: ████ (4 videos)
-- **Contests**: ███ (3 videos)
+- **POTA/Portable**: ████████████████████ (27 videos)
+- **HF Operating**: ████████████████████ (22 videos)
+- **Antennas**: █████████████████ (17 videos)
+- **License/Learning**: ███████████████ (15 videos)
+- **Gear Reviews**: ████████ (8 videos)
+- **Digital Modes**: █████ (5 videos)
+- **QRP**: ███ (3 videos)
+- **Contests**: ██ (2 videos)
 
 ---
 

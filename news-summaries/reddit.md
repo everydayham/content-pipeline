@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-26 11:53 UTC*
+*Last updated: 2026-03-27 11:43 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Notice of Unlicensed Operation - Pittsburgh PA - March 25 2026](https://www.reddit.com/r/amateurradio/comments/1s3hbgx/notice_of_unlicensed_operation_pittsburgh_pa/)**
-by u/brunchlords
-
-**4. [Kenwood TS520SE and Yaesu FT221R](https://www.reddit.com/r/amateurradio/comments/1s3lfn3/kenwood_ts520se_and_yaesu_ft221r/)**
-by u/S52_DiDah
-
-**5. [HAM STREAM - A simple dashboard for glancing at band conditions.](https://www.reddit.com/r/amateurradio/comments/1s3pdqe/ham_stream_a_simple_dashboard_for_glancing_at/)**
-by u/hensonwi
-
-**6. [Recomandare antena portabila pentru HF 40m si 20m](https://www.reddit.com/r/amateurradio/comments/1s418tg/recomandare_antena_portabila_pentru_hf_40m_si_20m/)**
-by u/Overall-Junket5092
-
-**7. [first dıy antenna](https://www.reddit.com/r/amateurradio/comments/1s3nav9/first_dıy_antenna/)**
-by u/vivostan_
-
-**8. [SCHR UHF Broadband Antenna](https://www.reddit.com/r/amateurradio/comments/1s3wqzw/schr_uhf_broadband_antenna/)**
-by u/YD2AEM_Bara
-
-**9. [Tubes. Really?](https://www.reddit.com/r/amateurradio/comments/1s3qrqr/tubes_really/)**
-by u/HiOscillation
-
-**10. [Mobile Allstalink node finally complete!](https://www.reddit.com/r/amateurradio/comments/1s3dwtx/mobile_allstalink_node_finally_complete/)**
+**3. [15 mile simplex HT contact was no problem.](https://www.reddit.com/r/amateurradio/comments/1s4r9fx/15_mile_simplex_ht_contact_was_no_problem/)**
 by u/ham-radio-police
 
-**11. [Ham radio inherited need help please.](https://www.reddit.com/r/amateurradio/comments/1s3vqmw/ham_radio_inherited_need_help_please/)**
-by u/ndeepfreeze18
+**4. [More homemade antenna stuff that is dirt cheap and real good](https://www.reddit.com/r/amateurradio/comments/1s4rprt/more_homemade_antenna_stuff_that_is_dirt_cheap/)**
+by u/beekeeper55
 
-**12. [What's your must-have POTA accessory?](https://www.reddit.com/r/amateurradio/comments/1s3keu2/whats_your_musthave_pota_accessory/)**
-by u/HamtraxRadio
+**5. [I built a very low cost tuned radio frequency receiver](https://www.reddit.com/r/amateurradio/comments/1s4ta4h/i_built_a_very_low_cost_tuned_radio_frequency/)**
+by u/elpechos
 
-**13. [Pairing Malahit dsp2 with Android phone](https://www.reddit.com/r/amateurradio/comments/1s41s10/pairing_malahit_dsp2_with_android_phone/)**
-by u/Significant-Pause574
+**6. [Reminder - there are well known frequencies on the bands used for digital servic...](https://www.reddit.com/r/amateurradio/comments/1s4jh9h/reminder_there_are_well_known_frequencies_on_the/)**
+by u/CaptainSpez
 
-**14. [Pairing Malahit dsp2 with Android phone](https://www.reddit.com/r/amateurradio/comments/1s41rs7/pairing_malahit_dsp2_with_android_phone/)**
-by u/Significant-Pause574
+**7. [Ordered a key. Didn't come as described. How would you guys handle this?](https://www.reddit.com/r/amateurradio/comments/1s4qvp2/ordered_a_key_didnt_come_as_described_how_would/)**
+by u/Radiant_Actuary8204
 
-**15. [Proper hardware setup?](https://www.reddit.com/r/amateurradio/comments/1s3xqze/proper_hardware_setup/)**
-by u/SpiritualTadpole4269
+**8. [Icon-IC705 dual mobile amp install.](https://www.reddit.com/r/amateurradio/comments/1s51f6a/iconic705_dual_mobile_amp_install/)**
+by u/Witty-Party-3565
+
+**9. [Durability of flat cable used in balcony door](https://www.reddit.com/r/amateurradio/comments/1s4iudj/durability_of_flat_cable_used_in_balcony_door/)**
+by u/WZab
+
+**10. [Swan 1011](https://www.reddit.com/r/amateurradio/comments/1s4rq8t/swan_1011/)**
+by u/sigma_noise
+
+**11. [The bands were magic tonight.](https://www.reddit.com/r/amateurradio/comments/1s4so22/the_bands_were_magic_tonight/)**
+by u/CaptainSpez
+
+**12. [Discovery Drive (Az/El rotator) accepting orders, help make it a success!](https://www.reddit.com/r/amateurradio/comments/1s4qit3/discovery_drive_azel_rotator_accepting_orders/)**
+by u/sneakattack
+
+**13. [Yaesu FT-900 HF](https://www.reddit.com/r/amateurradio/comments/1s4r3mk/yaesu_ft900_hf/)**
+by u/Mister_115
+
+**14. [Where to go from here?](https://www.reddit.com/r/amateurradio/comments/1s4o440/where_to_go_from_here/)**
+by u/Thoreaushadeau
+
+**15. [I broke my Power supply. Can I fix it?](https://www.reddit.com/r/amateurradio/comments/1s4idtp/i_broke_my_power_supply_can_i_fix_it/)**
+by u/jimmyy69420
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [What is the difference between these antennas?](https://www.reddit.com/r/HamRadio/comments/1s3o3ps/what_is_the_difference_between_these_antennas/)**
+**3. [My awful noise … found it! (and you can, too)](https://www.reddit.com/r/HamRadio/comments/1s4ikdq/my_awful_noise_found_it_and_you_can_too/)**
+by u/Soap_Box_Hero
+
+**4. [UV-K5 Plus programming help please](https://www.reddit.com/r/HamRadio/comments/1s4uvs5/uvk5_plus_programming_help_please/)**
+by u/Affectionate_Eye1695
+
+**5. [What is the best antenna for a Yaesu FT 5](https://www.reddit.com/r/HamRadio/comments/1s4f3hc/what_is_the_best_antenna_for_a_yaesu_ft_5/)**
+by u/Psycho__Bunny
+
+**6. [Icom _C-705 Dual Mobile Amplifier Install](https://www.reddit.com/r/HamRadio/comments/1s51l8g/icom_c705_dual_mobile_amplifier_install/)**
+by u/Witty-Party-3565
+
+**7. [Antenna for my Grundig Satellit 800](https://www.reddit.com/r/HamRadio/comments/1s4ndvv/antenna_for_my_grundig_satellit_800/)**
+by u/tbutta76
+
+**8. [Very new and have lots of questions](https://www.reddit.com/r/HamRadio/comments/1s4nkm1/very_new_and_have_lots_of_questions/)**
+by u/_electric_ham
+
+**9. [Looking for mars NNN0CNX QSL cards](https://www.reddit.com/r/HamRadio/comments/1s4v8gl/looking_for_mars_nnn0cnx_qsl_cards/)**
+by u/LongDistRid3r
+
+**10. [Want to get started, looking for a starter.](https://www.reddit.com/r/HamRadio/comments/1s4h9m5/want_to_get_started_looking_for_a_starter/)**
+by u/EvilsBaneX
+
+**11. [What is the difference between these antennas?](https://www.reddit.com/r/HamRadio/comments/1s3o3ps/what_is_the_difference_between_these_antennas/)**
 by u/ImaginarySky10
 
-**4. [HAM STREAM - A simple dashboard for glancing at band conditions.](https://www.reddit.com/r/HamRadio/comments/1s3pfe2/ham_stream_a_simple_dashboard_for_glancing_at/)**
+**12. [Hello, I want to buy a Yaesu FT-857D for my main radio. But i can't find any rep...](https://www.reddit.com/r/HamRadio/comments/1s4fybg/hello_i_want_to_buy_a_yaesu_ft857d_for_my_main/)**
+by u/MasterSniper087
+
+**13. [HAM STREAM - A simple dashboard for glancing at band conditions.](https://www.reddit.com/r/HamRadio/comments/1s3pfe2/ham_stream_a_simple_dashboard_for_glancing_at/)**
 by u/hensonwi
 
-**5. [Portable HF antenna recommendation for 40m and 20m](https://www.reddit.com/r/HamRadio/comments/1s41c2c/portable_hf_antenna_recommendation_for_40m_and_20m/)**
+**14. [Portable HF antenna recommendation for 40m and 20m](https://www.reddit.com/r/HamRadio/comments/1s41c2c/portable_hf_antenna_recommendation_for_40m_and_20m/)**
 by u/Overall-Junket5092
 
-**6. [Handheld programming for amatures](https://www.reddit.com/r/HamRadio/comments/1s410nd/handheld_programming_for_amatures/)**
-by u/KitchenWest1614
-
-**7. [I need some help figuring out what to do with two complete AN GRC14 units that I...](https://www.reddit.com/r/HamRadio/comments/1s3o1wc/i_need_some_help_figuring_out_what_to_do_with_two/)**
-by u/friendlyfire883
-
-**8. [Anyone use Notebook LM as a study guide?](https://www.reddit.com/r/HamRadio/comments/1s3swy0/anyone_use_notebook_lm_as_a_study_guide/)**
-by u/gnomefront
-
-**9. [New tech. Local clubs or non local clubs? Any help appreciated.](https://www.reddit.com/r/HamRadio/comments/1s3odcg/new_tech_local_clubs_or_non_local_clubs_any_help/)**
-by u/xx_actual
-
-**10. [Is Hamvention fun for non-ham teenagers?](https://www.reddit.com/r/HamRadio/comments/1s3nw4j/is_hamvention_fun_for_nonham_teenagers/)**
-by u/meadot01
-
-**11. [How do I take the technician exam](https://www.reddit.com/r/HamRadio/comments/1s3qbe6/how_do_i_take_the_technician_exam/)**
-by u/musicmaker2024
-
-**12. [New, trying to understand radio performance and not knowing where to turn? Look ...](https://www.reddit.com/r/HamRadio/comments/1s3vlhb/new_trying_to_understand_radio_performance_and/)**
-by u/Hamdaddy1976
-
-**13. [FCC enforcement action on ham in PA](https://www.reddit.com/r/HamRadio/comments/1s41v3u/fcc_enforcement_action_on_ham_in_pa/)**
-by u/rem1473
-
-**14. [My first ham radio - Baofeng UV-5R](https://www.reddit.com/r/HamRadio/comments/1s2irji/my_first_ham_radio_baofeng_uv5r/)**
-by u/sad_ivn
-
-**15. [FCC cores not sending security code?!](https://www.reddit.com/r/HamRadio/comments/1s3izna/fcc_cores_not_sending_security_code/)**
-by u/TheSmellOfTheLotion
+**15. [Attic Antenna Farm and New Roof Question.](https://www.reddit.com/r/HamRadio/comments/1s46gw2/attic_antenna_farm_and_new_roof_question/)**
+by u/EdVenture42
 
 ---
 
@@ -110,14 +110,14 @@ by u/TheSmellOfTheLotion
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s1g792/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Notice of Unlicensed Operation - Pittsburgh PA - March 25 2026](https://www.reddit.com/r/amateurradio/comments/1s3hbgx/notice_of_unlicensed_operation_pittsburgh_pa/)** (r/amateurradio)
-- **[Kenwood TS520SE and Yaesu FT221R](https://www.reddit.com/r/amateurradio/comments/1s3lfn3/kenwood_ts520se_and_yaesu_ft221r/)** (r/amateurradio)
-- **[HAM STREAM - A simple dashboard for glancing at band conditions.](https://www.reddit.com/r/amateurradio/comments/1s3pdqe/ham_stream_a_simple_dashboard_for_glancing_at/)** (r/amateurradio)
-- **[Recomandare antena portabila pentru HF 40m si 20m](https://www.reddit.com/r/amateurradio/comments/1s418tg/recomandare_antena_portabila_pentru_hf_40m_si_20m/)** (r/amateurradio)
-- **[first dıy antenna](https://www.reddit.com/r/amateurradio/comments/1s3nav9/first_dıy_antenna/)** (r/amateurradio)
-- **[SCHR UHF Broadband Antenna](https://www.reddit.com/r/amateurradio/comments/1s3wqzw/schr_uhf_broadband_antenna/)** (r/amateurradio)
-- **[Tubes. Really?](https://www.reddit.com/r/amateurradio/comments/1s3qrqr/tubes_really/)** (r/amateurradio)
-- **[Mobile Allstalink node finally complete!](https://www.reddit.com/r/amateurradio/comments/1s3dwtx/mobile_allstalink_node_finally_complete/)** (r/amateurradio)
+- **[15 mile simplex HT contact was no problem.](https://www.reddit.com/r/amateurradio/comments/1s4r9fx/15_mile_simplex_ht_contact_was_no_problem/)** (r/amateurradio)
+- **[More homemade antenna stuff that is dirt cheap and real good](https://www.reddit.com/r/amateurradio/comments/1s4rprt/more_homemade_antenna_stuff_that_is_dirt_cheap/)** (r/amateurradio)
+- **[I built a very low cost tuned radio frequency receiver](https://www.reddit.com/r/amateurradio/comments/1s4ta4h/i_built_a_very_low_cost_tuned_radio_frequency/)** (r/amateurradio)
+- **[Reminder - there are well known frequencies on the bands used for digi...](https://www.reddit.com/r/amateurradio/comments/1s4jh9h/reminder_there_are_well_known_frequencies_on_the/)** (r/amateurradio)
+- **[Ordered a key. Didn't come as described. How would you guys handle thi...](https://www.reddit.com/r/amateurradio/comments/1s4qvp2/ordered_a_key_didnt_come_as_described_how_would/)** (r/amateurradio)
+- **[Icon-IC705 dual mobile amp install.](https://www.reddit.com/r/amateurradio/comments/1s51f6a/iconic705_dual_mobile_amp_install/)** (r/amateurradio)
+- **[Durability of flat cable used in balcony door](https://www.reddit.com/r/amateurradio/comments/1s4iudj/durability_of_flat_cable_used_in_balcony_door/)** (r/amateurradio)
+- **[Swan 1011](https://www.reddit.com/r/amateurradio/comments/1s4rq8t/swan_1011/)** (r/amateurradio)
 
 ---
 

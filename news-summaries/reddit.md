@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-29 11:33 UTC*
+*Last updated: 2026-03-30 11:54 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)**
 by u/ItsBail
 
-**3. [Found some family history while cleaning up today](https://www.reddit.com/r/amateurradio/comments/1s6kkb4/found_some_family_history_while_cleaning_up_today/)**
-by u/aacmckay
-
-**4. [Its sweet but I wanted polished gold dang it lol](https://www.reddit.com/r/amateurradio/comments/1s6iihr/its_sweet_but_i_wanted_polished_gold_dang_it_lol/)**
-by u/Radiant_Actuary8204
-
-**5. [Mysterious CW signal at 12,695.450Mhz](https://www.reddit.com/r/amateurradio/comments/1s6c3oz/mysterious_cw_signal_at_12695450mhz/)**
-by u/thevmcampos
-
-**6. [Cheap Antenna Recommendations](https://www.reddit.com/r/amateurradio/comments/1s6s7pb/cheap_antenna_recommendations/)**
-by u/CaptSpaulding73
-
-**7. [Display your Wavelog QSO stats live on an Awtrix Pixel Clock](https://www.reddit.com/r/amateurradio/comments/1s6rx8x/display_your_wavelog_qso_stats_live_on_an_awtrix/)**
-by u/Crestflight
-
-**8. [Should I set CHIRP to NFM, WFM, or FM?](https://www.reddit.com/r/amateurradio/comments/1s6o4ya/should_i_set_chirp_to_nfm_wfm_or_fm/)**
-by u/ki4jgt
-
-**9. [Opinion on this statement regarding ISS repeater](https://www.reddit.com/r/amateurradio/comments/1s6hiif/opinion_on_this_statement_regarding_iss_repeater/)**
+**3. [It wasn't pretty, but it worked](https://www.reddit.com/r/amateurradio/comments/1s76ijp/it_wasnt_pretty_but_it_worked/)**
 by u/GiantsNerd1
 
-**10. [Antenna doesn't seem to work correctly](https://www.reddit.com/r/amateurradio/comments/1s6idcj/antenna_doesnt_seem_to_work_correctly/)**
-by u/Neither_Pin212
+**4. [Not now Shake N' Bake I'm trying to participate in the CQ WPX SSB Contest!](https://www.reddit.com/r/amateurradio/comments/1s79yvg/not_now_shake_n_bake_im_trying_to_participate_in/)**
+by u/adhdff
 
-**11. [Remote radio control(app + www)](https://www.reddit.com/r/amateurradio/comments/1s6c38m/remote_radio_controlapp_www/)**
-by u/telewizoor
+**5. [Contests, how do they do it?](https://www.reddit.com/r/amateurradio/comments/1s7bvgn/contests_how_do_they_do_it/)**
+by u/CaptainSpez
 
-**12. [I've started the r/commercialradio subreddit for NON-AMATEUR 2-way radio.](https://www.reddit.com/r/amateurradio/comments/1s5yvw2/ive_started_the_rcommercialradio_subreddit_for/)**
-by u/LinuxIsFree
+**6. [Who Remembers This?](https://www.reddit.com/r/amateurradio/comments/1s72jsa/who_remembers_this/)**
+by u/eugenemah
 
-**13. [First Net Check In Question](https://www.reddit.com/r/amateurradio/comments/1s6d9c1/first_net_check_in_question/)**
-by u/soccergolf95
+**7. [First time listening to HF bands and using new antenna](https://www.reddit.com/r/amateurradio/comments/1s70o8g/first_time_listening_to_hf_bands_and_using_new/)**
+by u/Flerence
 
-**14. [Starting Amateur Radio](https://www.reddit.com/r/amateurradio/comments/1s68bvo/starting_amateur_radio/)**
-by u/That-Bad9908
+**8. [Noise Days. What do you do?](https://www.reddit.com/r/amateurradio/comments/1s7iqn9/noise_days_what_do_you_do/)**
+by u/troywilson111
 
-**15. [need help with identifying this or finding a manual for it online](https://www.reddit.com/r/amateurradio/comments/1s6852g/need_help_with_identifying_this_or_finding_a/)**
-by u/thekidq8
+**9. [If I unscrew my mobile HF antenna and instead screw in some coax to run to anoth...](https://www.reddit.com/r/amateurradio/comments/1s7fcx2/if_i_unscrew_my_mobile_hf_antenna_and_instead/)**
+by u/Blueberry_Mancakes
+
+**10. [Suburban Antenna Performance](https://www.reddit.com/r/amateurradio/comments/1s7bkah/suburban_antenna_performance/)**
+by u/irate-turtles
+
+**11. [Cheap Antenna Recommendations](https://www.reddit.com/r/amateurradio/comments/1s6s7pb/cheap_antenna_recommendations/)**
+by u/CaptSpaulding73
+
+**12. [Nevada ham looking for a Mississippi contact](https://www.reddit.com/r/amateurradio/comments/1s7jvu9/nevada_ham_looking_for_a_mississippi_contact/)**
+by u/wassup2190
+
+**13. [Soldering Sucks](https://www.reddit.com/r/amateurradio/comments/1s6x79g/soldering_sucks/)**
+by u/MDAirForceVet
+
+**14. [Cb radio in Europe - Like Ham ?](https://www.reddit.com/r/amateurradio/comments/1s71576/cb_radio_in_europe_like_ham/)**
+by u/More-Homework-1904
+
+**15. [Regency BTH Crystals](https://www.reddit.com/r/amateurradio/comments/1s7d6vj/regency_bth_crystals/)**
+by u/Chrontius
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [My small green radio collection](https://www.reddit.com/r/HamRadio/comments/1s656ab/my_small_green_radio_collection/)**
-by u/mctscott
-
-**4. [DMR Hotspot with Meshcore for my Office](https://www.reddit.com/r/HamRadio/comments/1s6phyn/dmr_hotspot_with_meshcore_for_my_office/)**
-by u/Logical_Carrot267
-
-**5. [FCC Warns Pittsburgh Amateur Radio Operator for 911 Interference](https://www.reddit.com/r/HamRadio/comments/1s63lr7/fcc_warns_pittsburgh_amateur_radio_operator_for/)**
-by u/SharkSapphire
-
-**6. [Display your Wavelog QSO stats live on an Awtrix Pixel Clock](https://www.reddit.com/r/HamRadio/comments/1s6rwz5/display_your_wavelog_qso_stats_live_on_an_awtrix/)**
-by u/Crestflight
-
-**7. [Raised 1/4 wave vertical, ideal hight and radial length](https://www.reddit.com/r/HamRadio/comments/1s6bbhc/raised_14_wave_vertical_ideal_hight_and_radial/)**
-by u/BliepBloepBlurp
-
-**8. [Adapting 1950s headphone output jack?](https://www.reddit.com/r/HamRadio/comments/1s6ah9k/adapting_1950s_headphone_output_jack/)**
-by u/Feinmusic
-
-**9. [Antenna doesn't seem to be working correctly](https://www.reddit.com/r/HamRadio/comments/1s6ifgs/antenna_doesnt_seem_to_be_working_correctly/)**
-by u/Neither_Pin212
-
-**10. [Beginning listener here. What is the noises coming from these seemingly random c...](https://www.reddit.com/r/HamRadio/comments/1s5uuxd/beginning_listener_here_what_is_the_noises_coming/)**
-by u/DickInEngine
-
-**11. [Picked up an FM station from the Canary Islands in Santander (~2,000 km)](https://www.reddit.com/r/HamRadio/comments/1s5g7jo/picked_up_an_fm_station_from_the_canary_islands/)**
+**3. [Picked up BBC Radio 5 Live in northern Spain](https://www.reddit.com/r/HamRadio/comments/1s7baqp/picked_up_bbc_radio_5_live_in_northern_spain/)**
 by u/ebiianchii
 
-**12. [The Pittsburgh Radio Guy Problem.](https://www.reddit.com/r/HamRadio/comments/1s68g14/the_pittsburgh_radio_guy_problem/)**
-by u/Danjeerhaus
+**4. [Can this radio be repurposed or do I salvage it for parts?](https://www.reddit.com/r/HamRadio/comments/1s74xyy/can_this_radio_be_repurposed_or_do_i_salvage_it/)**
+by u/Soft_Worry_4289
 
-**13. [need help with identifying this or finding a manual for it online](https://www.reddit.com/r/HamRadio/comments/1s5vmtd/need_help_with_identifying_this_or_finding_a/)**
-by u/thekidq8
+**5. [Calling from Wisconsin parks: Ham radio operators make connections](https://www.reddit.com/r/HamRadio/comments/1s75cq8/calling_from_wisconsin_parks_ham_radio_operators/)**
+by u/SharkSapphire
 
-**14. [Breaking the ice for First Contact](https://www.reddit.com/r/HamRadio/comments/1s5nq6x/breaking_the_ice_for_first_contact/)**
-by u/theunwisegeek
+**6. [Is antenna math the same for receiving and transmitting?](https://www.reddit.com/r/HamRadio/comments/1s7o422/is_antenna_math_the_same_for_receiving_and/)**
+by u/Low_Search_6667
 
-**15. [Icom _C-705 Dual Mobile Amplifier Install](https://www.reddit.com/r/HamRadio/comments/1s51l8g/icom_c705_dual_mobile_amplifier_install/)**
-by u/Witty-Party-3565
+**7. [The Amateur Radio Club of El Cajon keeps the communication hobby alive](https://www.reddit.com/r/HamRadio/comments/1s75dkv/the_amateur_radio_club_of_el_cajon_keeps_the/)**
+by u/SharkSapphire
+
+**8. [DMR Hotspot with Meshcore for my Office](https://www.reddit.com/r/HamRadio/comments/1s6phyn/dmr_hotspot_with_meshcore_for_my_office/)**
+by u/Logical_Carrot267
+
+**9. [Seeking Guidance / Parts List for Skoolie Basecamp Build](https://www.reddit.com/r/HamRadio/comments/1s7dbpd/seeking_guidance_parts_list_for_skoolie_basecamp/)**
+by u/DJPoochi
+
+**10. [HamVOX radio recording & archiving](https://www.reddit.com/r/HamRadio/comments/1s6vgq3/hamvox_radio_recording_archiving/)**
+by u/XxWreckingViper
+
+**11. [Any fellow Ham radio operator's in NY?? I just received my license but am still ...](https://www.reddit.com/r/HamRadio/comments/1s7g0t2/any_fellow_ham_radio_operators_in_ny_i_just/)**
+by u/New_Score4238
+
+**12. [My small green radio collection](https://www.reddit.com/r/HamRadio/comments/1s656ab/my_small_green_radio_collection/)**
+by u/mctscott
+
+**13. [General License preparation help](https://www.reddit.com/r/HamRadio/comments/1s71llm/general_license_preparation_help/)**
+by u/realtalkmen
+
+**14. [Are "regular" handheld VHF-UHF transceivers unable to scan marine VHF bands ?](https://www.reddit.com/r/HamRadio/comments/1s6wzik/are_regular_handheld_vhfuhf_transceivers_unable/)**
+by u/PatateBoursiere3000
+
+**15. [Making my code plug translator tool public](https://www.reddit.com/r/HamRadio/comments/1s75rda/making_my_code_plug_translator_tool_public/)**
+by u/efalk
 
 ---
 
@@ -110,14 +110,14 @@ by u/Witty-Party-3565
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s1g792/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Reminder: AI Generated Content Is Considered Spam](https://www.reddit.com/r/amateurradio/comments/1qsxv19/reminder_ai_generated_content_is_considered_spam/)** (r/amateurradio)
-- **[Found some family history while cleaning up today](https://www.reddit.com/r/amateurradio/comments/1s6kkb4/found_some_family_history_while_cleaning_up_today/)** (r/amateurradio)
-- **[Its sweet but I wanted polished gold dang it lol](https://www.reddit.com/r/amateurradio/comments/1s6iihr/its_sweet_but_i_wanted_polished_gold_dang_it_lol/)** (r/amateurradio)
-- **[Mysterious CW signal at 12,695.450Mhz](https://www.reddit.com/r/amateurradio/comments/1s6c3oz/mysterious_cw_signal_at_12695450mhz/)** (r/amateurradio)
-- **[Cheap Antenna Recommendations](https://www.reddit.com/r/amateurradio/comments/1s6s7pb/cheap_antenna_recommendations/)** (r/amateurradio)
-- **[Display your Wavelog QSO stats live on an Awtrix Pixel Clock](https://www.reddit.com/r/amateurradio/comments/1s6rx8x/display_your_wavelog_qso_stats_live_on_an_awtrix/)** (r/amateurradio)
-- **[Should I set CHIRP to NFM, WFM, or FM?](https://www.reddit.com/r/amateurradio/comments/1s6o4ya/should_i_set_chirp_to_nfm_wfm_or_fm/)** (r/amateurradio)
-- **[Opinion on this statement regarding ISS repeater](https://www.reddit.com/r/amateurradio/comments/1s6hiif/opinion_on_this_statement_regarding_iss_repeater/)** (r/amateurradio)
-- **[Antenna doesn't seem to work correctly](https://www.reddit.com/r/amateurradio/comments/1s6idcj/antenna_doesnt_seem_to_work_correctly/)** (r/amateurradio)
+- **[It wasn't pretty, but it worked](https://www.reddit.com/r/amateurradio/comments/1s76ijp/it_wasnt_pretty_but_it_worked/)** (r/amateurradio)
+- **[Not now Shake N' Bake I'm trying to participate in the CQ WPX SSB Cont...](https://www.reddit.com/r/amateurradio/comments/1s79yvg/not_now_shake_n_bake_im_trying_to_participate_in/)** (r/amateurradio)
+- **[Contests, how do they do it?](https://www.reddit.com/r/amateurradio/comments/1s7bvgn/contests_how_do_they_do_it/)** (r/amateurradio)
+- **[Who Remembers This?](https://www.reddit.com/r/amateurradio/comments/1s72jsa/who_remembers_this/)** (r/amateurradio)
+- **[First time listening to HF bands and using new antenna](https://www.reddit.com/r/amateurradio/comments/1s70o8g/first_time_listening_to_hf_bands_and_using_new/)** (r/amateurradio)
+- **[Noise Days. What do you do?](https://www.reddit.com/r/amateurradio/comments/1s7iqn9/noise_days_what_do_you_do/)** (r/amateurradio)
+- **[If I unscrew my mobile HF antenna and instead screw in some coax to ru...](https://www.reddit.com/r/amateurradio/comments/1s7fcx2/if_i_unscrew_my_mobile_hf_antenna_and_instead/)** (r/amateurradio)
+- **[Suburban Antenna Performance](https://www.reddit.com/r/amateurradio/comments/1s7bkah/suburban_antenna_performance/)** (r/amateurradio)
 
 ---
 

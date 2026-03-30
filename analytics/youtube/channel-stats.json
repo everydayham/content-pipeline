@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-23T12:47:29.382079",
+  "updated": "2026-03-30T13:00:12.866076",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "iQpg9Hcurmh3qhO08rzMqUsP47I",
+    "etag": "E07BPHzguEOSr-hxc8wegyUrOGM",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,87 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "149605",
-      "subscriberCount": "1630",
+      "viewCount": "152463",
+      "subscriberCount": "1650",
       "hiddenSubscriberCount": false,
-      "videoCount": "118"
+      "videoCount": "119"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "0TnOs7AGqyUKu_VIneoS-jXFMUE",
+      "etag": "SzN__6NuNSPsJysIyDisQs360CU",
+      "id": "_rpb3BFjV-A",
+      "snippet": {
+        "publishedAt": "2026-03-26T13:01:04Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
+        "description": "Ham2K LoFi is here! The long-awaited cloud sync service for PoLo \njust launched, and we sat down with the creator himself to talk \nabout it. Sebasti\u00e1n Delmont KI2D joins James, Jim, and Rory for \na deep dive into what Ham2K LoFi does today and where it is headed.\n\nTopics include syncing logs across multiple devices, a web browser \nlog viewer in development, collaborative multi-op logging, direct \nlog push to POTA and QRZ, QSO party support, and Sebasti\u00e1n's \nvision for the future of Ham2K as a full logging ecosystem.\n\nIf you use PoLo for POTA, SOTA, QSO parties, or everyday logging, \nthis one is for you.\n\nSupport Sebasti\u00e1n and the Ham2K project:\n\u2615 https://www.buymeacoffee.com/ham2k\n\ud83d\udcf1 Apple App Store: https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938\n\ud83d\udcf1 Google Play: https://play.google.com/store/apps/details?id=com.ham2k.polo.beta\n\n\ud83c\udf10 Ham2K: https://www.ham2k.com\n\ud83c\udf10 PoLo: https://polo.ham2k.com\n\ud83d\udcd6 PoLo Docs: https://polo.ham2k.com/docs/\n\u25b6\ufe0f YouTube \ud83d\udd34https://www.youtube.com/@Ham2KApps\n\n00:00 - Introduction and welcome\n02:35 - Platform support: iOS, Android, and M1/M2 Mac\n04:01 - Desktop and web browser version coming soon\n06:47 - Exporting ADIF files and direct push to POTA and QRZ\n07:56 - Paper logging backup: Ham2K Powerless Logger\n08:33 - QSO party support in PoLo for 2026\n12:40 - Ham2K LoFi overview and what took so long\n14:11 - Pricing: free tier, $2.99/month, or $24.99/year\n16:33 - Multi-op and shared activation logging\n18:04 - Self-hosted server option planned for the future\n20:57 - Real world use: Space Coast POTA rove and log management\n23:44 - How to set up and subscribe to Ham2K LoFi\n28:42 - Log Filer: the bigger vision behind the sync service\n30:18 - Will PoLo stay \"Portable Logger\" as it grows?\n35:26 - QSO party traction and the POTA plus contest combo tip\n38:08 - Hamvention plans and closing thoughts\n\n\ud83c\udf99 Find Everyday Ham everywhere:\n\ud83c\udf10 https://www.everydayham.com\n\ud83d\udcf7 https://www.instagram.com/everydayhampodcast/\n\nDon't forget to like, subscribe, and hit the bell so you never \nmiss an episode!\n\n#HamRadio #AmateurRadio #Ham2K #PoLo #POTA #CloudSync #HamRadioLogging",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham Radio",
+          "Amateur Radio",
+          "Ham2K",
+          "PoLo",
+          "Portable Logger",
+          "Ham2K LoFi",
+          "POTA",
+          "SOTA",
+          "Ham Radio Logging",
+          "Cloud Sync",
+          "QSO Party",
+          "ADIF",
+          "Field Day",
+          "Everyday Ham",
+          "Log Management",
+          "KI2D"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
+          "description": "Ham2K LoFi is here! The long-awaited cloud sync service for PoLo \njust launched, and we sat down with the creator himself to talk \nabout it. Sebasti\u00e1n Delmont KI2D joins James, Jim, and Rory for \na deep dive into what Ham2K LoFi does today and where it is headed.\n\nTopics include syncing logs across multiple devices, a web browser \nlog viewer in development, collaborative multi-op logging, direct \nlog push to POTA and QRZ, QSO party support, and Sebasti\u00e1n's \nvision for the future of Ham2K as a full logging ecosystem.\n\nIf you use PoLo for POTA, SOTA, QSO parties, or everyday logging, \nthis one is for you.\n\nSupport Sebasti\u00e1n and the Ham2K project:\n\u2615 https://www.buymeacoffee.com/ham2k\n\ud83d\udcf1 Apple App Store: https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938\n\ud83d\udcf1 Google Play: https://play.google.com/store/apps/details?id=com.ham2k.polo.beta\n\n\ud83c\udf10 Ham2K: https://www.ham2k.com\n\ud83c\udf10 PoLo: https://polo.ham2k.com\n\ud83d\udcd6 PoLo Docs: https://polo.ham2k.com/docs/\n\u25b6\ufe0f YouTube \ud83d\udd34https://www.youtube.com/@Ham2KApps\n\n00:00 - Introduction and welcome\n02:35 - Platform support: iOS, Android, and M1/M2 Mac\n04:01 - Desktop and web browser version coming soon\n06:47 - Exporting ADIF files and direct push to POTA and QRZ\n07:56 - Paper logging backup: Ham2K Powerless Logger\n08:33 - QSO party support in PoLo for 2026\n12:40 - Ham2K LoFi overview and what took so long\n14:11 - Pricing: free tier, $2.99/month, or $24.99/year\n16:33 - Multi-op and shared activation logging\n18:04 - Self-hosted server option planned for the future\n20:57 - Real world use: Space Coast POTA rove and log management\n23:44 - How to set up and subscribe to Ham2K LoFi\n28:42 - Log Filer: the bigger vision behind the sync service\n30:18 - Will PoLo stay \"Portable Logger\" as it grows?\n35:26 - QSO party traction and the POTA plus contest combo tip\n38:08 - Hamvention plans and closing thoughts\n\n\ud83c\udf99 Find Everyday Ham everywhere:\n\ud83c\udf10 https://www.everydayham.com\n\ud83d\udcf7 https://www.instagram.com/everydayhampodcast/\n\nDon't forget to like, subscribe, and hit the bell so you never \nmiss an episode!\n\n#HamRadio #AmateurRadio #Ham2K #PoLo #POTA #CloudSync #HamRadioLogging"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "258",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2zRiY2khBkBepVGZbNGzH3Mb9oI",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -105,15 +176,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "140",
-        "likeCount": "14",
+        "viewCount": "780",
+        "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "A8eJ-yQuYjN2Hw7h2g8_sTrBQ_U",
+      "etag": "euVD-OXTWg1CWTxAfVa5K_TlECM",
       "id": "4dP7kktHK0k",
       "snippet": {
         "publishedAt": "2026-03-12T14:00:07Z",
@@ -177,15 +248,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "163",
-        "likeCount": "19",
+        "viewCount": "170",
+        "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ntaJ5461n-aeH-Q-PamswP8bfg8",
+      "etag": "SawGWiViEDhWOTxIaveexn-Xm6Y",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -248,7 +319,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1222",
+        "viewCount": "1227",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -256,7 +327,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ApdVHFzCVV21_lqb4oW48s6p6-c",
+      "etag": "Cd8XbGXB6o4a2mHZ9ux99tMpf0o",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -318,7 +389,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "522",
+        "viewCount": "544",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -326,13 +397,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YG_PYTd3RYlvJDhnkLTdgospTUM",
+      "etag": "B2Yq1J43Epx8iGjCJABzS-Q22aM",
       "id": "Koz7XST0tKw",
       "snippet": {
         "publishedAt": "2026-03-05T15:31:48Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
-        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Koz7XST0tKw/default.jpg",
@@ -384,12 +455,12 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
-          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "170",
+        "viewCount": "172",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -397,7 +468,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5M0NQsFT1-9jAAkHl354H-HziPc",
+      "etag": "tGkiXzBh5fpM_nMATPxtNATG-Hw",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -462,15 +533,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1565",
-        "likeCount": "68",
+        "viewCount": "1573",
+        "likeCount": "69",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dalfkyELHLhMDEWlnc1WvqOlW9U",
+      "etag": "9VWE6aeV7qvw2qkmRYDyb1W87pA",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -533,7 +604,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "383",
+        "viewCount": "394",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -541,7 +612,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "doNVm9fRZKWiSb73suV_Y24CSUc",
+      "etag": "EcFcrMGIssmvxbTLlNcyhuhcJ7g",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -604,15 +675,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4723",
-        "likeCount": "173",
+        "viewCount": "4814",
+        "likeCount": "174",
         "favoriteCount": "0",
-        "commentCount": "18"
+        "commentCount": "19"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4MkcSddHUv6FBSaaloRpxCj_vBs",
+      "etag": "m3hi-RcRwTEdmVEERwLS2AfsGNg",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -674,7 +745,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "288",
+        "viewCount": "295",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -682,7 +753,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KyfTgiwwHGxiG9qumyy-3yfjgcY",
+      "etag": "-_TsL0EhheY5IbCwsmi6pOn0jmU",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -735,7 +806,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1054",
+        "viewCount": "1066",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -743,7 +814,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d9FGU7X4IzcBbDEQ9R6fKVOugYM",
+      "etag": "icwMt9QJs8E4C3ghlkDDVzkqGHk",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -788,7 +859,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "431",
+        "viewCount": "433",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -796,7 +867,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yl9TkXcZnWnf27y3WEDEgCyovNk",
+      "etag": "ioUKhfR8KPazK2G0KbFfw9N_OKQ",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -860,7 +931,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1381",
+        "viewCount": "1425",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -868,7 +939,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "puZcMHziW7fOOeontBn288vkgco",
+      "etag": "ChqZlifnopQ6Pcu92FOb_bobG_U",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -931,7 +1002,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2465",
+        "viewCount": "2491",
         "likeCount": "94",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -939,7 +1010,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qtvOvzYam838SXjI1qtkWa_dcjg",
+      "etag": "bNeUMPrfKbdR65H32H6ssrSXOt4",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -1001,7 +1072,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "264",
+        "viewCount": "274",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1133,7 +1204,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mkPJXiSoewcMzK-2wMsYvFe3S18",
+      "etag": "NYRj0XmaP9Cr39vw63r1LZzKRS0",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -1197,21 +1268,21 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "536",
-        "likeCount": "35",
+        "viewCount": "546",
+        "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m7LmHKa5IncmXIbNicqo0RunIbM",
+      "etag": "SBGsKEBBx5sJKT9A5A5ptU2dVxk",
       "id": "i_55Kt8PtJo",
       "snippet": {
         "publishedAt": "2026-02-05T15:25:03Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/default.jpg",
@@ -1263,12 +1334,12 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "130",
+        "viewCount": "131",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1276,7 +1347,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "obIehsj9MgrL7TLQTh7f2BqvbJI",
+      "etag": "0xzxhx9encFi4TdZ06mX01CAgSw",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -1340,7 +1411,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "449",
+        "viewCount": "451",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1348,7 +1419,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W14QF4mF-RT-ErQ-sfurpKZERqg",
+      "etag": "xAqt1ax3lfFhckpzjSkekMVONUI",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -1393,7 +1464,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "823",
+        "viewCount": "830",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1401,7 +1472,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "V-d-JD62b9RzQkG22woZnZcET9c",
+      "etag": "3Ruh04wh_Af2mALflU5a1lukvnk",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -1465,15 +1536,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2861",
-        "likeCount": "92",
+        "viewCount": "2983",
+        "likeCount": "98",
         "favoriteCount": "0",
-        "commentCount": "55"
+        "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m7pCMjN-k65zfQsRbr_hwpRGXXs",
+      "etag": "aHePT0-qT2OWUP7K2qC60IORZNc",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -1518,7 +1589,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "271",
+        "viewCount": "272",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1526,7 +1597,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RCU3kWC-ikO2quhEK7-hcgKz3Rs",
+      "etag": "AVQhHDT0FpIJDHy2kqC804z9iqU",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -1571,7 +1642,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1505",
+        "viewCount": "1507",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1579,7 +1650,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1JKVDC5tpczZlKIKCGKTn4HfvzU",
+      "etag": "V-upJfs1XBK5HPtO3jOQUF5f9Xc",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -1624,7 +1695,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1108",
+        "viewCount": "1109",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1632,7 +1703,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1DY459DD-ECNsx7FRbsgYlbPvVc",
+      "etag": "vmdX7Mpn05_HW80SXvH8X8xdas0",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -1699,15 +1770,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2848",
-        "likeCount": "117",
+        "viewCount": "2879",
+        "likeCount": "119",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2gObrwDzA1vwNFCpjP1QlOkwfJs",
+      "etag": "mShugfgpI8Te_c9wvdjvJrd8Md4",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -1770,7 +1841,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "129",
+        "viewCount": "135",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1778,7 +1849,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SQ6KwyAuv5QUWNzO6Hp3GcAGquQ",
+      "etag": "Ha9cZoLEhvPKiNzEovw2I5nBG1A",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -1823,7 +1894,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4504",
+        "viewCount": "4507",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1831,7 +1902,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BUGZgRAjCGtpPDOghGWLzotVFYA",
+      "etag": "K0GkUu9ArHMlMEHy028hXtsnjLo",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -1876,7 +1947,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1477",
+        "viewCount": "1512",
         "likeCount": "49",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1884,7 +1955,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wuGkInylAdbyLQG3xBQ0BCI8sas",
+      "etag": "FQyxi7KLMLKxdXL9nQ6YYC-SzGY",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -1947,7 +2018,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "788",
+        "viewCount": "789",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1955,7 +2026,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eez5FY9LSngn2w-Bd1ZkJtEwbbY",
+      "etag": "puior-tVpka8QgLEl4gFQFQmjMk",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -2013,7 +2084,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "967",
+        "viewCount": "969",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2092,7 +2163,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "snGuZfoPvBa9yZKZ317-2QP3yq4",
+      "etag": "theIsHtrSx5c5I_64s9pk4O5ER0",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -2155,8 +2226,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "330",
-        "likeCount": "17",
+        "viewCount": "335",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -2269,7 +2340,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W0ZSY0s_BdGArhj3ncCQRE9E2pU",
+      "etag": "Kts8dl7kaHasLg9lmV9cbhGN8iM",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -2337,15 +2408,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "535",
-        "likeCount": "21",
+        "viewCount": "551",
+        "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6QY8LLVN3w8tZc_usofs3-v-G84",
+      "etag": "D9ftS6rPbTmXeDzN80ez3R_Pf3o",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -2414,21 +2485,21 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1291",
-        "likeCount": "47",
+        "viewCount": "1297",
+        "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "U1s3D1MGx8qhlbZxxkQsaLrsyLc",
+      "etag": "OPCD9o7mnk1xd3NCEhiOTIon_Cc",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/default.jpg",
@@ -2480,7 +2551,7 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -2493,7 +2564,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CZZgxI8brG9j521YoqYNRyO-m8k",
+      "etag": "8qlM-l4ClHe72oLy_UaBpxZjb-A",
       "id": "-OPz7HyW794",
       "snippet": {
         "publishedAt": "2025-11-28T16:30:57Z",
@@ -2556,7 +2627,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1655",
+        "viewCount": "1658",
         "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2617,7 +2688,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OyV2rUXl7__xRNJu_DK8hfPM-5A",
+      "etag": "Gax1B5s0dbH1cONBAVugvhooPw0",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -2684,10 +2755,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "473",
-        "likeCount": "24",
+        "viewCount": "496",
+        "likeCount": "25",
         "favoriteCount": "0",
-        "commentCount": "8"
+        "commentCount": "11"
       }
     },
     {
@@ -2762,7 +2833,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OB16DZZqEZ1nq0XDnMxoRGWDXoU",
+      "etag": "e250YL5rZNIFLode6WEGd9DgMSc",
       "id": "RxgcxKk969g",
       "snippet": {
         "publishedAt": "2025-11-14T00:34:53Z",
@@ -2832,7 +2903,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1605",
+        "viewCount": "1608",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2840,7 +2911,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2Zhmjy1L7B8jphPVt9Zsko_F5rY",
+      "etag": "2rBDRKk2SRpEhzqb1v-bkHFewjY",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -2910,7 +2981,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "147",
+        "viewCount": "148",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2918,7 +2989,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Fvs8PEn4AE2NiOzkZtGucVfRQ_0",
+      "etag": "ODyZDfL_GUWFW9V7s-Pde7brjqo",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -2963,7 +3034,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "943",
+        "viewCount": "944",
         "likeCount": "33",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -3044,7 +3115,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6a87AR_feK0Q-iPLfECkcQ_iTQY",
+      "etag": "Cab04oO4OdbgCP0oesgWyhIBk70",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -3121,7 +3192,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "784",
+        "viewCount": "793",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -3129,13 +3200,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tqaUK9He85ZIF7SsYGnOK0h81bQ",
+      "etag": "0dgqZNmEAPWmk1vUwMAiSJKtlPs",
       "id": "eiH0dJwnhnU",
       "snippet": {
         "publishedAt": "2025-11-27T17:26:52Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
         "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-        "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/default.jpg",
@@ -3187,12 +3258,12 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-          "description": "Send a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
+          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "40",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3200,7 +3271,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "auoW2S8LxfiGfaJNHO8qEV6_Ihw",
+      "etag": "ECe8ES8w-Wop9XBUN6b1EWNmJC4",
       "id": "YbKLH7xdk4Q",
       "snippet": {
         "publishedAt": "2025-11-06T17:12:28Z",
@@ -3285,7 +3356,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "283",
+        "viewCount": "285",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -3293,7 +3364,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "15mVwYr4Atrxqyk0-r8W02cVfjc",
+      "etag": "2AjwAP5OPVjjJOeoX4u2JSnWSs0",
       "id": "JlEPexeOWa4",
       "snippet": {
         "publishedAt": "2025-11-04T01:13:16Z",
@@ -3338,86 +3409,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1365",
+        "viewCount": "1366",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "FSAVReb0KQ-244n6Qqh60MrG3f4",
-      "id": "aGU4pSCoJcY",
-      "snippet": {
-        "publishedAt": "2025-11-01T15:21:53Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-        "description": "My go-to portable power and radio setup for POTA! The Bioenno 12V 6Ah battery stays under TSA limits and pairs perfectly with my FT-891 for Parks on the Air activations. Why I love this combo: airline-friendly, no battery anxiety, and the modular bag setup lets me swap between portable and mobile operations. The FT-891 is my go-to preferred radio - I actually have 2 of them! Perfect beginner setup for park activations. What's your POTA power and radio combo?\n\n#POTA #ParksOnTheAir #HamRadio #AmateurRadio #PortableRadio #POTAActivation #K8JKU #EverydayHam #HamRadioBeginners #FieldOperations #PortablePower #FT891 #YaesuFT891 #POTAGear #HamRadioSetup #BeginnersGuide #OutdoorRadio #RadioHobby #POTACommunity #FieldDay #HamLife",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aGU4pSCoJcY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aGU4pSCoJcY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aGU4pSCoJcY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aGU4pSCoJcY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aGU4pSCoJcY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "POTA",
-          "ParksOnTheAir",
-          "HamRadio",
-          "AmateurRadio",
-          "PortableRadio",
-          "POTAActivation",
-          "K8JKU",
-          "EverydayHam",
-          "HamRadioBeginners",
-          "FieldOperations",
-          "PortablePower",
-          "FT891",
-          "YaesuFT891",
-          "POTAGear",
-          "HamRadioSetup",
-          "BeginnersGuide",
-          "OutdoorRadio",
-          "RadioHobby",
-          "POTACommunity",
-          "FieldDay",
-          "HamLife"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-          "description": "My go-to portable power and radio setup for POTA! The Bioenno 12V 6Ah battery stays under TSA limits and pairs perfectly with my FT-891 for Parks on the Air activations. Why I love this combo: airline-friendly, no battery anxiety, and the modular bag setup lets me swap between portable and mobile operations. The FT-891 is my go-to preferred radio - I actually have 2 of them! Perfect beginner setup for park activations. What's your POTA power and radio combo?\n\n#POTA #ParksOnTheAir #HamRadio #AmateurRadio #PortableRadio #POTAActivation #K8JKU #EverydayHam #HamRadioBeginners #FieldOperations #PortablePower #FT891 #YaesuFT891 #POTAGear #HamRadioSetup #BeginnersGuide #OutdoorRadio #RadioHobby #POTACommunity #FieldDay #HamLife"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1425",
-        "likeCount": "15",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ]

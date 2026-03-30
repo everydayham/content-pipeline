@@ -1,6 +1,29 @@
 {
-  "updated": "2026-03-23T12:47:28.498215",
+  "updated": "2026-03-30T13:00:12.089602",
   "episodes": [
+    {
+      "id": 18903785,
+      "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/18903785-ham2k-polo-cloud-sync-is-live-and-it-s-just-the-beginning.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/hnzj6nafa12eu2vrjtpmddakxsvm",
+      "description": "<p>Your logging app is not just a logbook anymore, and Ham2K PoLo is proof. We sit down with Sebasti\u00e1n Delmont KI2D, the creator and lead developer of PoLo, right as his Ham2K LoFi cloud sync service goes live. If you have ever exported an ADIF file, emailed it to yourself, merged duplicates, or realized your other device has the QSO you need, this conversation hits home fast.</p><p>We dig into what Ham2K LoFi actually does and why syncing ham radio logging data is more complex than tossing files into iCloud. PoLo syncs at the QSO level, has to survive offline activations, and needs to merge cleanly when you reconnect. Sebasti\u00e1n also breaks down the practical side: app store subscription approvals, backend costs, and why he chose a pricing model that stays approachable at $2.99 a month or $24.99 a year, with a free tier designed to cover most operators while protecting server load.</p><p>Then we zoom out to the fun part: what sync enables next. Think shared logs for multi-op POTA and SOTA days, QR code log sharing, and a path toward Field Day logging without the laptop maze. We also talk about upcoming tools like a web-based log browser for easy desktop ADIF export, future push uploads to services like QRZ and POTA, and a bigger Log Filer vision that can import ADIF archives and unify your QSO history across sources like Logbook of the World.</p><p>If you are looking for a modern ham radio logging workflow that works on iOS, Android, and even Apple Silicon Macs, hit play and come along for the roadmap. Subscribe, share this with a friend or clubmate, and leave a review. What would you want PoLo to automate next?</p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "Ham Radio, Amateur Radio, Ham2K, PoLo, Portable Logger, Ham2K LoFi, POTA, SOTA, Ham Radio Logging, Cloud Sync, QSO Party, ADIF, Field Day, Everyday Ham, Log Management",
+      "published_at": "2026-03-26T10:00:00.000-04:00",
+      "duration": 2461,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-18903785",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": null,
+      "season_number": 2,
+      "episode_type": "bonus",
+      "explicit": false,
+      "private": false,
+      "total_plays": 447
+    },
     {
       "id": 18794950,
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": true,
       "private": false,
-      "total_plays": 730
+      "total_plays": 785
     },
     {
       "id": 18629581,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 879
+      "total_plays": 912
     },
     {
       "id": 18470399,
@@ -68,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 928
+      "total_plays": 955
     },
     {
       "id": 18296133,
@@ -91,7 +114,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 969
+      "total_plays": 981
     },
     {
       "id": 18131359,
@@ -114,7 +137,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 788
+      "total_plays": 794
     },
     {
       "id": 17980624,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 822
+      "total_plays": 824
     },
     {
       "id": 17915090,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 649
+      "total_plays": 655
     },
     {
       "id": 17760784,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 829
+      "total_plays": 835
     },
     {
       "id": 17726132,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 619
+      "total_plays": 627
     },
     {
       "id": 17625014,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 643
+      "total_plays": 650
     },
     {
       "id": 17571459,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 578
+      "total_plays": 584
     },
     {
       "id": 17441669,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 704
+      "total_plays": 709
     },
     {
       "id": 17282578,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 569
+      "total_plays": 575
     },
     {
       "id": 17198150,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 497
+      "total_plays": 498
     },
     {
       "id": 17122535,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 470
+      "total_plays": 474
     },
     {
       "id": 16912708,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 562
+      "total_plays": 567
     },
     {
       "id": 16745714,
@@ -436,7 +459,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 454
+      "total_plays": 456
     }
   ]
 }

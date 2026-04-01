@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-03-31 11:52 UTC*
+*Last updated: 2026-04-01 11:54 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Finally managed to get on HF](https://www.reddit.com/r/amateurradio/comments/1s8f7g5/finally_managed_to_get_on_hf/)**
+**2. [The Artemis II crew are not strangers to amateur radio. 3 licensed hams are maki...](https://www.reddit.com/r/amateurradio/comments/1s8xw32/the_artemis_ii_crew_are_not_strangers_to_amateur/)**
+by u/ARISS_Intl
+
+**3. [6m FT8 opening](https://www.reddit.com/r/amateurradio/comments/1s90bpx/6m_ft8_opening/)**
+by u/SwitchedOnNow
+
+**4. [Got my call sign!](https://www.reddit.com/r/amateurradio/comments/1s8uzvk/got_my_call_sign/)**
+by u/JoesCorsage
+
+**5. [Triangulating Radio Signal](https://www.reddit.com/r/amateurradio/comments/1s93nmm/triangulating_radio_signal/)**
+by u/Severe_Beast
+
+**6. [The Latest Development in CW Sending: Trochaic Keying](https://www.reddit.com/r/amateurradio/comments/1s9c2vw/the_latest_development_in_cw_sending_trochaic/)**
+by u/root_127-0-0-1
+
+**7. [New HT radio](https://www.reddit.com/r/amateurradio/comments/1s9a3fb/new_ht_radio/)**
+by u/junkmiles
+
+**8. [What do you all use for insulators when putting up wire antennas these days? Cer...](https://www.reddit.com/r/amateurradio/comments/1s97wqb/what_do_you_all_use_for_insulators_when_putting/)**
+by u/greenwoody2018
+
+**9. [Finally managed to get on HF](https://www.reddit.com/r/amateurradio/comments/1s8f7g5/finally_managed_to_get_on_hf/)**
 by u/dithmal
 
-**3. [Passed my exam tonight!](https://www.reddit.com/r/amateurradio/comments/1s8buam/passed_my_exam_tonight/)**
-by u/FlyCurious8305
+**10. [IC-7300 is $988.95 on DXEngineering - time to pull the trigger?](https://www.reddit.com/r/amateurradio/comments/1s926bi/ic7300_is_98895_on_dxengineering_time_to_pull_the/)**
+by u/RedBull12345678
 
-**4. [PyFT8 v2.7.0: improved GUI and Hamlib rig control](https://www.reddit.com/r/amateurradio/comments/1s8i4vz/pyft8_v270_improved_gui_and_hamlib_rig_control/)**
-by u/G1OJS
+**11. [FT-891 Backpack Go-Box](https://www.reddit.com/r/amateurradio/comments/1s979ku/ft891_backpack_gobox/)**
+by u/ClassyCannoli
 
-**5. [How to properly honor an SK's radio?](https://www.reddit.com/r/amateurradio/comments/1s85g0u/how_to_properly_honor_an_sks_radio/)**
-by u/slatsandflaps
+**12. [Is there a niche for Young Ham Radio YouTubers?](https://www.reddit.com/r/amateurradio/comments/1s91vql/is_there_a_niche_for_young_ham_radio_youtubers/)**
+by u/0KPudd1ng
 
-**6. [What kind of antenna is that?](https://www.reddit.com/r/amateurradio/comments/1s841yi/what_kind_of_antenna_is_that/)**
-by u/ANSR4
+**13. [Joe Taylor on FT2](https://www.reddit.com/r/amateurradio/comments/1s8qwpd/joe_taylor_on_ft2/)**
+by u/martinrath77
 
-**7. [Okay A little bit of a rant little bit of a pet peeve.](https://www.reddit.com/r/amateurradio/comments/1s7ufhs/okay_a_little_bit_of_a_rant_little_bit_of_a_pet/)**
-by u/3rdGenHam
+**14. [4m Antenne Blitzschutz](https://www.reddit.com/r/amateurradio/comments/1s8tb8q/4m_antenne_blitzschutz/)**
+by u/Otherwise-College730
 
-**8. [Just got my license!](https://www.reddit.com/r/amateurradio/comments/1s82101/just_got_my_license/)**
-by u/Khxldi
-
-**9. [What is your grid square?](https://www.reddit.com/r/amateurradio/comments/1s8cvtd/what_is_your_grid_square/)**
-by u/BoondockTechnologies
-
-**10. [Can I do something useful with this?](https://www.reddit.com/r/amateurradio/comments/1s87cxw/can_i_do_something_useful_with_this/)**
-by u/cesko21
-
-**11. [Skywarn Command Vehicle](https://www.reddit.com/r/amateurradio/comments/1s85n5t/skywarn_command_vehicle/)**
-by u/Big-Tutor-3060
-
-**12. [I posted SpottedHam here a couple of months ago. Here's what surprised me about ...](https://www.reddit.com/r/amateurradio/comments/1s8bwug/i_posted_spottedham_here_a_couple_of_months_ago/)**
-by u/camp185
-
-**13. [Icom ic-706 turned off unexpectedly.](https://www.reddit.com/r/amateurradio/comments/1s8kk67/icom_ic706_turned_off_unexpectedly/)**
-by u/Newworldviking2288
-
-**14. [300km APRS? Is that possible?](https://www.reddit.com/r/amateurradio/comments/1s8cgqt/300km_aprs_is_that_possible/)**
-by u/JAH158
-
-**15. [Morserino pocket finally arrived. Took 5 months but worth the wait!](https://www.reddit.com/r/amateurradio/comments/1s7qg1l/morserino_pocket_finally_arrived_took_5_months/)**
-by u/Melodic_Breakfast244
+**15. [How can the sanctity of contests be preserved in a post AI world?](https://www.reddit.com/r/amateurradio/comments/1s8pl2r/how_can_the_sanctity_of_contests_be_preserved_in/)**
+by u/CaptainSpez
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Not gonna lie... it's pretty awesome](https://www.reddit.com/r/HamRadio/comments/1s7y88s/not_gonna_lie_its_pretty_awesome/)**
-by u/LividEnthusiasm2253
+**3. [Insulators? What kind do you prefer using for wire antennas for radio tx?](https://www.reddit.com/r/HamRadio/comments/1s98008/insulators_what_kind_do_you_prefer_using_for_wire/)**
+by u/greenwoody2018
 
-**4. [How hard is the general license tests?](https://www.reddit.com/r/HamRadio/comments/1s8f6a2/how_hard_is_the_general_license_tests/)**
-by u/Cpl4Life69
+**4. [Passed basic with honour in canada today](https://www.reddit.com/r/HamRadio/comments/1s8tb1l/passed_basic_with_honour_in_canada_today/)**
+by u/CanadienWoodsman
 
-**5. [POTAontheGO, an Android App for Parks on The Air 🌳](https://www.reddit.com/r/HamRadio/comments/1s8ghux/potaonthego_an_android_app_for_parks_on_the_air/)**
-by u/antibiyotikver
+**5. [work in progress..... DMR, Meshcore, Lora](https://www.reddit.com/r/HamRadio/comments/1s8zdyd/work_in_progress_dmr_meshcore_lora/)**
+by u/Logical_Carrot267
 
-**6. [Help Tracking down BAD RFI on 40m (s9+30) (services or advice welcome)](https://www.reddit.com/r/HamRadio/comments/1s8dv6e/help_tracking_down_bad_rfi_on_40m_s930_services/)**
-by u/zad112
+**6. [Best Yaesu home base station for emergency comms?](https://www.reddit.com/r/HamRadio/comments/1s9dnj9/best_yaesu_home_base_station_for_emergency_comms/)**
+by u/Grep2grok
 
-**7. [Patience Grasshopper - Back on the air soon!](https://www.reddit.com/r/HamRadio/comments/1s8acqs/patience_grasshopper_back_on_the_air_soon/)**
+**7. [Back again, yeah more questions](https://www.reddit.com/r/HamRadio/comments/1s965k8/back_again_yeah_more_questions/)**
 by u/Six-gun-W8evb
 
-**8. [What's a reasonable price to sell this?](https://www.reddit.com/r/HamRadio/comments/1s7qey0/whats_a_reasonable_price_to_sell_this/)**
-by u/Stoner_guy_420-
+**8. [Missing the old TravelPlus-style repeater lookup, I made a free, interactive Ama...](https://www.reddit.com/r/HamRadio/comments/1s9any9/missing_the_old_travelplusstyle_repeater_lookup_i/)**
+by u/ZosoRules1
 
-**9. [Im getting my ham radio license any advice?](https://www.reddit.com/r/HamRadio/comments/1s8hxbn/im_getting_my_ham_radio_license_any_advice/)**
-by u/tareqttv
+**9. [New ht ham radio for experimenting](https://www.reddit.com/r/HamRadio/comments/1s8mygd/new_ht_ham_radio_for_experimenting/)**
+by u/highvoltgaepyro
 
-**10. [Is antenna math the same for receiving and transmitting?](https://www.reddit.com/r/HamRadio/comments/1s7o422/is_antenna_math_the_same_for_receiving_and/)**
-by u/Low_Search_6667
+**10. [Newly Licensed Operator North Alabama](https://www.reddit.com/r/HamRadio/comments/1s8xsl1/newly_licensed_operator_north_alabama/)**
+by u/bartrice
 
-**11. [How do you mount your loop antenna transformers?](https://www.reddit.com/r/HamRadio/comments/1s84x8c/how_do_you_mount_your_loop_antenna_transformers/)**
-by u/ThirdHoleHank92
+**11. [Antenna patterns are subject to the length of the wire](https://www.reddit.com/r/HamRadio/comments/1s8vn6c/antenna_patterns_are_subject_to_the_length_of_the/)**
+by u/Hamdaddy1976
 
-**12. [Linux Ham Radio KISS Serial Driver Being Modernized In 2026](https://www.reddit.com/r/HamRadio/comments/1s7opmh/linux_ham_radio_kiss_serial_driver_being/)**
-by u/SharkSapphire
+**12. [Good cheap QRP transceiver setup?](https://www.reddit.com/r/HamRadio/comments/1s8x3u0/good_cheap_qrp_transceiver_setup/)**
+by u/TechKING957
 
-**13. [What is your Maidenhead grid square?](https://www.reddit.com/r/HamRadio/comments/1s8drkq/what_is_your_maidenhead_grid_square/)**
-by u/BoondockTechnologies
+**13. [HF + VHF/UHF Home Station (Rev 2) – Grounding, Bulkhead & Surge Protection Optim...](https://www.reddit.com/r/HamRadio/comments/1s8u30x/hf_vhfuhf_home_station_rev_2_grounding_bulkhead/)**
+by u/mmimo10
 
-**14. [what would be a good beginner ham radio no handheld radios please](https://www.reddit.com/r/HamRadio/comments/1s8brqm/what_would_be_a_good_beginner_ham_radio_no/)**
-by u/Hot-Discussion6767
+**14. [Is this toroid transformer good for a 630-meter band transciver](https://www.reddit.com/r/HamRadio/comments/1s8w8c5/is_this_toroid_transformer_good_for_a_630meter/)**
+by u/Many-Strategy-5905
 
-**15. [Would you consider it overkill?](https://www.reddit.com/r/HamRadio/comments/1s7y334/would_you_consider_it_overkill/)**
-by u/ebiianchii
+**15. [Not gonna lie... it's pretty awesome](https://www.reddit.com/r/HamRadio/comments/1s7y88s/not_gonna_lie_its_pretty_awesome/)**
+by u/LividEnthusiasm2253
 
 ---
 
@@ -109,15 +109,15 @@ by u/ebiianchii
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[The Artemis II crew are not strangers to amateur radio. 3 licensed ham...](https://www.reddit.com/r/amateurradio/comments/1s8xw32/the_artemis_ii_crew_are_not_strangers_to_amateur/)** (r/amateurradio)
+- **[6m FT8 opening](https://www.reddit.com/r/amateurradio/comments/1s90bpx/6m_ft8_opening/)** (r/amateurradio)
+- **[Got my call sign!](https://www.reddit.com/r/amateurradio/comments/1s8uzvk/got_my_call_sign/)** (r/amateurradio)
+- **[Triangulating Radio Signal](https://www.reddit.com/r/amateurradio/comments/1s93nmm/triangulating_radio_signal/)** (r/amateurradio)
+- **[The Latest Development in CW Sending: Trochaic Keying](https://www.reddit.com/r/amateurradio/comments/1s9c2vw/the_latest_development_in_cw_sending_trochaic/)** (r/amateurradio)
+- **[New HT radio](https://www.reddit.com/r/amateurradio/comments/1s9a3fb/new_ht_radio/)** (r/amateurradio)
+- **[What do you all use for insulators when putting up wire antennas these...](https://www.reddit.com/r/amateurradio/comments/1s97wqb/what_do_you_all_use_for_insulators_when_putting/)** (r/amateurradio)
 - **[Finally managed to get on HF](https://www.reddit.com/r/amateurradio/comments/1s8f7g5/finally_managed_to_get_on_hf/)** (r/amateurradio)
-- **[Passed my exam tonight!](https://www.reddit.com/r/amateurradio/comments/1s8buam/passed_my_exam_tonight/)** (r/amateurradio)
-- **[PyFT8 v2.7.0: improved GUI and Hamlib rig control](https://www.reddit.com/r/amateurradio/comments/1s8i4vz/pyft8_v270_improved_gui_and_hamlib_rig_control/)** (r/amateurradio)
-- **[How to properly honor an SK's radio?](https://www.reddit.com/r/amateurradio/comments/1s85g0u/how_to_properly_honor_an_sks_radio/)** (r/amateurradio)
-- **[What kind of antenna is that?](https://www.reddit.com/r/amateurradio/comments/1s841yi/what_kind_of_antenna_is_that/)** (r/amateurradio)
-- **[Okay A little bit of a rant little bit of a pet peeve.](https://www.reddit.com/r/amateurradio/comments/1s7ufhs/okay_a_little_bit_of_a_rant_little_bit_of_a_pet/)** (r/amateurradio)
-- **[Just got my license!](https://www.reddit.com/r/amateurradio/comments/1s82101/just_got_my_license/)** (r/amateurradio)
-- **[What is your grid square?](https://www.reddit.com/r/amateurradio/comments/1s8cvtd/what_is_your_grid_square/)** (r/amateurradio)
-- **[Can I do something useful with this?](https://www.reddit.com/r/amateurradio/comments/1s87cxw/can_i_do_something_useful_with_this/)** (r/amateurradio)
+- **[IC-7300 is $988.95 on DXEngineering - time to pull the trigger?](https://www.reddit.com/r/amateurradio/comments/1s926bi/ic7300_is_98895_on_dxengineering_time_to_pull_the/)** (r/amateurradio)
 
 ---
 

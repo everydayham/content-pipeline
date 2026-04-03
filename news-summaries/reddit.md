@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-04-02 11:49 UTC*
+*Last updated: 2026-04-03 11:39 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [First Signal Stick](https://www.reddit.com/r/amateurradio/comments/1sa7axk/first_signal_stick/)**
-by u/6_String_Jams
+**2. [Unconventional Vertical](https://www.reddit.com/r/amateurradio/comments/1sayu6l/unconventional_vertical/)**
+by u/kd5pda
 
-**3. [That might not be much but I'm proud of it.](https://www.reddit.com/r/amateurradio/comments/1s9le77/that_might_not_be_much_but_im_proud_of_it/)**
-by u/3rdGenHam
+**3. [What do you think of AnyTone?](https://www.reddit.com/r/amateurradio/comments/1sba6oc/what_do_you_think_of_anytone/)**
+by u/Head_Train4519
 
-**4. [WSJT-X Team annonces FT0 no noise digital mode using retro encabulation](https://www.reddit.com/r/amateurradio/comments/1s9sezg/wsjtx_team_annonces_ft0_no_noise_digital_mode/)**
-by u/Derf0293
+**4. [Huge update (LoTW integration) for qFT8 - app for portable FT8 with Android and ...](https://www.reddit.com/r/amateurradio/comments/1sb9lsf/huge_update_lotw_integration_for_qft8_app_for/)**
+by u/elezet4
 
-**5. [New block of 1x2 and 2x1 callsigns available.](https://www.reddit.com/r/amateurradio/comments/1s9z6th/new_block_of_1x2_and_2x1_callsigns_available/)**
-by u/SignalWalker
+**5. [Advice, guy bleeding over into .520 from .190](https://www.reddit.com/r/amateurradio/comments/1sasic2/advice_guy_bleeding_over_into_520_from_190/)**
+by u/HeadlineINeed
 
-**6. [Weird RF at the end of every other cycle in 20m FT8](https://www.reddit.com/r/amateurradio/comments/1sa6ubm/weird_rf_at_the_end_of_every_other_cycle_in_20m/)**
-by u/UnobtrusiveElephant
+**6. [Amateur Radio on the Internet Archive](https://www.reddit.com/r/amateurradio/comments/1sazhxx/amateur_radio_on_the_internet_archive/)**
+by u/Waldo-MI
 
-**7. [Sputnik 🛰️ Regenerative Receiver 📡PCB](https://www.reddit.com/r/amateurradio/comments/1sa2x75/sputnik_regenerative_receiver_pcb/)**
-by u/hipsterturtle02
+**7. [What do you do after you pass the technician test?](https://www.reddit.com/r/amateurradio/comments/1sb0cob/what_do_you_do_after_you_pass_the_technician_test/)**
+by u/ElGuano
 
-**8. [RF quiet USB chargers.](https://www.reddit.com/r/amateurradio/comments/1sacnxq/rf_quiet_usb_chargers/)**
-by u/160MeterBand
+**8. [Half-Wave Flower Pot Antena](https://www.reddit.com/r/amateurradio/comments/1saxe1w/halfwave_flower_pot_antena/)**
+by u/fSparza
 
-**9. [Exciting announcement from HamStudy.org!](https://www.reddit.com/r/amateurradio/comments/1s9l3l5/exciting_announcement_from_hamstudyorg/)**
-by u/taxilian
+**9. [Bringing HF equipment on AA Flight?](https://www.reddit.com/r/amateurradio/comments/1saxzkn/bringing_hf_equipment_on_aa_flight/)**
+by u/just-a-guy-somewhere
 
-**10. [NanoVNA Selection](https://www.reddit.com/r/amateurradio/comments/1sadexh/nanovna_selection/)**
-by u/TimGustafson
+**10. [HamClock crashing constantly since March 30](https://www.reddit.com/r/amateurradio/comments/1satxo4/hamclock_crashing_constantly_since_march_30/)**
+by u/khaytsus
 
-**11. [Low-RFI low-voltage LED options?](https://www.reddit.com/r/amateurradio/comments/1sa5ek3/lowrfi_lowvoltage_led_options/)**
-by u/spatula
+**11. [POTAontheGO, an Android App for Parks on The Air 🌳](https://www.reddit.com/r/amateurradio/comments/1sb7u6h/potaonthego_an_android_app_for_parks_on_the_air/)**
+by u/antibiyotikver
 
-**12. [KV4P HT](https://www.reddit.com/r/amateurradio/comments/1sa3d65/kv4p_ht/)**
-by u/dbgreen
+**12. [FreeDV: A Free Digital Voice Mode for HF Radio](https://www.reddit.com/r/amateurradio/comments/1safr1n/freedv_a_free_digital_voice_mode_for_hf_radio/)**
+by u/SA0LSD
 
-**13. [I built an open-source macOS programming tool for the Uniden BC125AT (Apple Sili...](https://www.reddit.com/r/amateurradio/comments/1saczi1/i_built_an_opensource_macos_programming_tool_for/)**
-by u/cmtechsolutions
+**13. [Uhf vhf antenna to mount on a mast](https://www.reddit.com/r/amateurradio/comments/1sb3ke1/uhf_vhf_antenna_to_mount_on_a_mast/)**
+by u/AdStandard8537
 
-**14. [RT Systems for VX-6R Files?](https://www.reddit.com/r/amateurradio/comments/1sa4siw/rt_systems_for_vx6r_files/)**
-by u/ThisNameNotTakenYet
+**14. [I found this Feldfu. b2 in my garage.](https://www.reddit.com/r/amateurradio/comments/1sam133/i_found_this_feldfu_b2_in_my_garage/)**
+by u/ChoiceAd6295
 
-**15. [QRM issue in truck](https://www.reddit.com/r/amateurradio/comments/1sa6rn1/qrm_issue_in_truck/)**
-by u/HowlingWolven
+**15. [Indoor fan dipole SWR](https://www.reddit.com/r/amateurradio/comments/1sald74/indoor_fan_dipole_swr/)**
+by u/oromex
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Finally! “Radio Repair in a Can”](https://www.reddit.com/r/HamRadio/comments/1s9lmf7/finally_radio_repair_in_a_can/)**
-by u/bernd1968
-
-**4. [Just got a great deal for my dream HT!](https://www.reddit.com/r/HamRadio/comments/1sa4pmb/just_got_a_great_deal_for_my_dream_ht/)**
-by u/Hamdaddy1976
-
-**5. [Exciting announcement from HamStudy.org!](https://www.reddit.com/r/HamRadio/comments/1s9l54j/exciting_announcement_from_hamstudyorg/)**
-by u/taxilian
-
-**6. [Looking for testers for GlanceRF V3 - A Ham-centric Dashboard Display](https://www.reddit.com/r/HamRadio/comments/1sa2s5v/looking_for_testers_for_glancerf_v3_a_hamcentric/)**
-by u/pomtom44
-
-**7. [Update on HamLike — I’d love another round of honest feedback](https://www.reddit.com/r/HamRadio/comments/1s9xq9b/update_on_hamlike_id_love_another_round_of_honest/)**
-by u/phunds
-
-**8. [New QTH time and planning ahead.](https://www.reddit.com/r/HamRadio/comments/1s9mg1q/new_qth_time_and_planning_ahead/)**
-by u/Exotic-Astronaut6662
-
-**9. [Insulators? What kind do you prefer using for wire antennas for radio tx?](https://www.reddit.com/r/HamRadio/comments/1s98008/insulators_what_kind_do_you_prefer_using_for_wire/)**
-by u/greenwoody2018
-
-**10. [Passed basic with honour in canada today](https://www.reddit.com/r/HamRadio/comments/1s8tb1l/passed_basic_with_honour_in_canada_today/)**
+**3. [Did a contact with my self made Ed fong slim jim](https://www.reddit.com/r/HamRadio/comments/1sauv7a/did_a_contact_with_my_self_made_ed_fong_slim_jim/)**
 by u/CanadienWoodsman
 
-**11. [Best Yaesu home base station for emergency comms?](https://www.reddit.com/r/HamRadio/comments/1s9dnj9/best_yaesu_home_base_station_for_emergency_comms/)**
-by u/Grep2grok
+**4. [Need some help with antenna options.](https://www.reddit.com/r/HamRadio/comments/1sb55ud/need_some_help_with_antenna_options/)**
+by u/xx_actual
 
-**12. [work in progress..... DMR, Meshcore, Lora](https://www.reddit.com/r/HamRadio/comments/1s8zdyd/work_in_progress_dmr_meshcore_lora/)**
-by u/Logical_Carrot267
-
-**13. [Missing the old TravelPlus-style repeater lookup, I made a free, interactive Ama...](https://www.reddit.com/r/HamRadio/comments/1s9any9/missing_the_old_travelplusstyle_repeater_lookup_i/)**
-by u/ZosoRules1
-
-**14. [Back again, yeah more questions](https://www.reddit.com/r/HamRadio/comments/1s965k8/back_again_yeah_more_questions/)**
+**5. [Ham Shack pics and my observations of this](https://www.reddit.com/r/HamRadio/comments/1sazrk5/ham_shack_pics_and_my_observations_of_this/)**
 by u/Six-gun-W8evb
 
-**15. [New ht ham radio for experimenting](https://www.reddit.com/r/HamRadio/comments/1s8mygd/new_ht_ham_radio_for_experimenting/)**
+**6. [10 Meters For Techs & Newer Hams available on YouTube by K8ZT](https://www.reddit.com/r/HamRadio/comments/1sayl0y/10_meters_for_techs_newer_hams_available_on/)**
+by u/Bert_Maklin
+
+**7. [Uhf vhf antenna for a mast from copper pipe](https://www.reddit.com/r/HamRadio/comments/1sb3m7v/uhf_vhf_antenna_for_a_mast_from_copper_pipe/)**
+by u/AdStandard8537
+
+**8. [Tuned into the broadcast of the Marine Weather Service Hamburg](https://www.reddit.com/r/HamRadio/comments/1saonu9/tuned_into_the_broadcast_of_the_marine_weather/)**
+by u/masterlee0423
+
+**9. [Simple wall holder for the QUANSHENG UV-K1](https://www.reddit.com/r/HamRadio/comments/1sau593/simple_wall_holder_for_the_quansheng_uvk1/)**
+by u/Logical_Carrot267
+
+**10. [Palomar Engineers alternate websites or any other company alternative?](https://www.reddit.com/r/HamRadio/comments/1saz9kq/palomar_engineers_alternate_websites_or_any_other/)**
+by u/Hamdaddy1976
+
+**11. [Looking for advice (super beginner here)](https://www.reddit.com/r/HamRadio/comments/1savsew/looking_for_advice_super_beginner_here/)**
+by u/Odd_Chart4158
+
+**12. [FreeDV: A Free Digital Voice Mode for HF Radio](https://www.reddit.com/r/HamRadio/comments/1safrv5/freedv_a_free_digital_voice_mode_for_hf_radio/)**
+by u/SA0LSD
+
+**13. [Just ordered a K4 base station for the shack.](https://www.reddit.com/r/HamRadio/comments/1sagw95/just_ordered_a_k4_base_station_for_the_shack/)**
 by u/highvoltgaepyro
+
+**14. [Bom, estou planejando começar com pota na faixa dos 11m. Ja opero na faixa de vh...](https://www.reddit.com/r/HamRadio/comments/1sb19ki/bom_estou_planejando_começar_com_pota_na_faixa/)**
+by u/-mr64
+
+**15. [Xiegu X6100/X6200 vs Lab599 TX500/TX500MP](https://www.reddit.com/r/HamRadio/comments/1sakky3/xiegu_x6100x6200_vs_lab599_tx500tx500mp/)**
+by u/ThinkLongterm
 
 ---
 
@@ -109,15 +109,15 @@ by u/highvoltgaepyro
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[First Signal Stick](https://www.reddit.com/r/amateurradio/comments/1sa7axk/first_signal_stick/)** (r/amateurradio)
-- **[That might not be much but I'm proud of it.](https://www.reddit.com/r/amateurradio/comments/1s9le77/that_might_not_be_much_but_im_proud_of_it/)** (r/amateurradio)
-- **[WSJT-X Team annonces FT0 no noise digital mode using retro encabulatio...](https://www.reddit.com/r/amateurradio/comments/1s9sezg/wsjtx_team_annonces_ft0_no_noise_digital_mode/)** (r/amateurradio)
-- **[New block of 1x2 and 2x1 callsigns available.](https://www.reddit.com/r/amateurradio/comments/1s9z6th/new_block_of_1x2_and_2x1_callsigns_available/)** (r/amateurradio)
-- **[Weird RF at the end of every other cycle in 20m FT8](https://www.reddit.com/r/amateurradio/comments/1sa6ubm/weird_rf_at_the_end_of_every_other_cycle_in_20m/)** (r/amateurradio)
-- **[Sputnik 🛰️ Regenerative Receiver 📡PCB](https://www.reddit.com/r/amateurradio/comments/1sa2x75/sputnik_regenerative_receiver_pcb/)** (r/amateurradio)
-- **[RF quiet USB chargers.](https://www.reddit.com/r/amateurradio/comments/1sacnxq/rf_quiet_usb_chargers/)** (r/amateurradio)
-- **[Exciting announcement from HamStudy.org!](https://www.reddit.com/r/amateurradio/comments/1s9l3l5/exciting_announcement_from_hamstudyorg/)** (r/amateurradio)
-- **[NanoVNA Selection](https://www.reddit.com/r/amateurradio/comments/1sadexh/nanovna_selection/)** (r/amateurradio)
+- **[Unconventional Vertical](https://www.reddit.com/r/amateurradio/comments/1sayu6l/unconventional_vertical/)** (r/amateurradio)
+- **[What do you think of AnyTone?](https://www.reddit.com/r/amateurradio/comments/1sba6oc/what_do_you_think_of_anytone/)** (r/amateurradio)
+- **[Huge update (LoTW integration) for qFT8 - app for portable FT8 with An...](https://www.reddit.com/r/amateurradio/comments/1sb9lsf/huge_update_lotw_integration_for_qft8_app_for/)** (r/amateurradio)
+- **[Advice, guy bleeding over into .520 from .190](https://www.reddit.com/r/amateurradio/comments/1sasic2/advice_guy_bleeding_over_into_520_from_190/)** (r/amateurradio)
+- **[Amateur Radio on the Internet Archive](https://www.reddit.com/r/amateurradio/comments/1sazhxx/amateur_radio_on_the_internet_archive/)** (r/amateurradio)
+- **[What do you do after you pass the technician test?](https://www.reddit.com/r/amateurradio/comments/1sb0cob/what_do_you_do_after_you_pass_the_technician_test/)** (r/amateurradio)
+- **[Half-Wave Flower Pot Antena](https://www.reddit.com/r/amateurradio/comments/1saxe1w/halfwave_flower_pot_antena/)** (r/amateurradio)
+- **[Bringing HF equipment on AA Flight?](https://www.reddit.com/r/amateurradio/comments/1saxzkn/bringing_hf_equipment_on_aa_flight/)** (r/amateurradio)
+- **[HamClock crashing constantly since March 30](https://www.reddit.com/r/amateurradio/comments/1satxo4/hamclock_crashing_constantly_since_march_30/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-04-03 11:39 UTC*
+*Last updated: 2026-04-04 11:32 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Unconventional Vertical](https://www.reddit.com/r/amateurradio/comments/1sayu6l/unconventional_vertical/)**
-by u/kd5pda
+**2. [Common mode choke 1kW 100% duty cycle](https://www.reddit.com/r/amateurradio/comments/1sbp1of/common_mode_choke_1kw_100_duty_cycle/)**
+by u/PA9X
 
-**3. [What do you think of AnyTone?](https://www.reddit.com/r/amateurradio/comments/1sba6oc/what_do_you_think_of_anytone/)**
-by u/Head_Train4519
+**3. [I may have a problem](https://www.reddit.com/r/amateurradio/comments/1sbv5g7/i_may_have_a_problem/)**
+by u/True_Certitude
 
-**4. [Huge update (LoTW integration) for qFT8 - app for portable FT8 with Android and ...](https://www.reddit.com/r/amateurradio/comments/1sb9lsf/huge_update_lotw_integration_for_qft8_app_for/)**
-by u/elezet4
+**4. [Yg771 antenna](https://www.reddit.com/r/amateurradio/comments/1sc4qq8/yg771_antenna/)**
+by u/casualcatloaf
 
-**5. [Advice, guy bleeding over into .520 from .190](https://www.reddit.com/r/amateurradio/comments/1sasic2/advice_guy_bleeding_over_into_520_from_190/)**
-by u/HeadlineINeed
+**5. [Suburban HOA Antenna Advice](https://www.reddit.com/r/amateurradio/comments/1sbwmwy/suburban_hoa_antenna_advice/)**
+by u/FLESHLOCUST
 
-**6. [Amateur Radio on the Internet Archive](https://www.reddit.com/r/amateurradio/comments/1sazhxx/amateur_radio_on_the_internet_archive/)**
-by u/Waldo-MI
+**6. [Is this an inherently flawed idea? I know its silly, but why hasn’t it been done...](https://www.reddit.com/r/amateurradio/comments/1sbuajn/is_this_an_inherently_flawed_idea_i_know_its/)**
+by u/mustycups
 
-**7. [What do you do after you pass the technician test?](https://www.reddit.com/r/amateurradio/comments/1sb0cob/what_do_you_do_after_you_pass_the_technician_test/)**
-by u/ElGuano
+**7. [thoughts?](https://www.reddit.com/r/amateurradio/comments/1sbdzj7/thoughts/)**
+by u/Colly_Wobble
 
-**8. [Half-Wave Flower Pot Antena](https://www.reddit.com/r/amateurradio/comments/1saxe1w/halfwave_flower_pot_antena/)**
-by u/fSparza
+**8. [Another Sad Ham](https://www.reddit.com/r/amateurradio/comments/1sbdonu/another_sad_ham/)**
+by u/Pure_Amphibian_4215
 
-**9. [Bringing HF equipment on AA Flight?](https://www.reddit.com/r/amateurradio/comments/1saxzkn/bringing_hf_equipment_on_aa_flight/)**
-by u/just-a-guy-somewhere
+**9. [What to do with old equipment](https://www.reddit.com/r/amateurradio/comments/1sc4v1z/what_to_do_with_old_equipment/)**
+by u/toombayoomba
 
-**10. [HamClock crashing constantly since March 30](https://www.reddit.com/r/amateurradio/comments/1satxo4/hamclock_crashing_constantly_since_march_30/)**
-by u/khaytsus
+**10. [PSA: 6m has been wide open across the Americas for most of the day today, get wh...](https://www.reddit.com/r/amateurradio/comments/1sbplop/psa_6m_has_been_wide_open_across_the_americas_for/)**
+by u/EmotioneelKlootzak
 
-**11. [POTAontheGO, an Android App for Parks on The Air 🌳](https://www.reddit.com/r/amateurradio/comments/1sb7u6h/potaonthego_an_android_app_for_parks_on_the_air/)**
-by u/antibiyotikver
+**11. [TEMPEST demo // la campanella // RTL-SDR V4](https://www.reddit.com/r/amateurradio/comments/1sc0wja/tempest_demo_la_campanella_rtlsdr_v4/)**
+by u/1-PM
 
-**12. [FreeDV: A Free Digital Voice Mode for HF Radio](https://www.reddit.com/r/amateurradio/comments/1safr1n/freedv_a_free_digital_voice_mode_for_hf_radio/)**
-by u/SA0LSD
+**12. [uSDX+ RX fine, TX barely detectable - beginner help?](https://www.reddit.com/r/amateurradio/comments/1sbzi2f/usdx_rx_fine_tx_barely_detectable_beginner_help/)**
+by u/Acceptable_Funny_480
 
-**13. [Uhf vhf antenna to mount on a mast](https://www.reddit.com/r/amateurradio/comments/1sb3ke1/uhf_vhf_antenna_to_mount_on_a_mast/)**
-by u/AdStandard8537
+**13. [Issues on transmit](https://www.reddit.com/r/amateurradio/comments/1sbuf5a/issues_on_transmit/)**
+by u/deadfoxy299
 
-**14. [I found this Feldfu. b2 in my garage.](https://www.reddit.com/r/amateurradio/comments/1sam133/i_found_this_feldfu_b2_in_my_garage/)**
-by u/ChoiceAd6295
+**14. [Looking for the best way to sell my Elecraft KX3](https://www.reddit.com/r/amateurradio/comments/1sc0p1v/looking_for_the_best_way_to_sell_my_elecraft_kx3/)**
+by u/blkcffe
 
-**15. [Indoor fan dipole SWR](https://www.reddit.com/r/amateurradio/comments/1sald74/indoor_fan_dipole_swr/)**
-by u/oromex
+**15. [80 metre band, worth buying an ATU for?](https://www.reddit.com/r/amateurradio/comments/1sc1rbc/80_metre_band_worth_buying_an_atu_for/)**
+by u/senditoverthewaves
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Did a contact with my self made Ed fong slim jim](https://www.reddit.com/r/HamRadio/comments/1sauv7a/did_a_contact_with_my_self_made_ed_fong_slim_jim/)**
-by u/CanadienWoodsman
+**3. [From Noob to General in Under 30 Days](https://www.reddit.com/r/HamRadio/comments/1sby8jb/from_noob_to_general_in_under_30_days/)**
+by u/chrislovessushi
 
-**4. [Need some help with antenna options.](https://www.reddit.com/r/HamRadio/comments/1sb55ud/need_some_help_with_antenna_options/)**
-by u/xx_actual
+**4. [Mission Controls Coverage: Comm with Orion spacecraft 04/04/26 06:25A 70CM 449.2...](https://www.reddit.com/r/HamRadio/comments/1sc6bgz/mission_controls_coverage_comm_with_orion/)**
+by u/ebrzez
 
-**5. [Ham Shack pics and my observations of this](https://www.reddit.com/r/HamRadio/comments/1sazrk5/ham_shack_pics_and_my_observations_of_this/)**
-by u/Six-gun-W8evb
+**5. [Built a browser-based QSO visualizer](https://www.reddit.com/r/HamRadio/comments/1sbzmjn/built_a_browserbased_qso_visualizer/)**
+by u/jackmitch383
 
-**6. [10 Meters For Techs & Newer Hams available on YouTube by K8ZT](https://www.reddit.com/r/HamRadio/comments/1sayl0y/10_meters_for_techs_newer_hams_available_on/)**
-by u/Bert_Maklin
-
-**7. [Uhf vhf antenna for a mast from copper pipe](https://www.reddit.com/r/HamRadio/comments/1sb3m7v/uhf_vhf_antenna_for_a_mast_from_copper_pipe/)**
-by u/AdStandard8537
-
-**8. [Tuned into the broadcast of the Marine Weather Service Hamburg](https://www.reddit.com/r/HamRadio/comments/1saonu9/tuned_into_the_broadcast_of_the_marine_weather/)**
-by u/masterlee0423
-
-**9. [Simple wall holder for the QUANSHENG UV-K1](https://www.reddit.com/r/HamRadio/comments/1sau593/simple_wall_holder_for_the_quansheng_uvk1/)**
+**6. [DMR Dual Hotspot MMDVM with 18650 Battery](https://www.reddit.com/r/HamRadio/comments/1sbiiep/dmr_dual_hotspot_mmdvm_with_18650_battery/)**
 by u/Logical_Carrot267
 
-**10. [Palomar Engineers alternate websites or any other company alternative?](https://www.reddit.com/r/HamRadio/comments/1saz9kq/palomar_engineers_alternate_websites_or_any_other/)**
-by u/Hamdaddy1976
+**7. [I'll be setting up and operating my g90 for the first time this afternoon and ev...](https://www.reddit.com/r/HamRadio/comments/1sbm02j/ill_be_setting_up_and_operating_my_g90_for_the/)**
+by u/3rdGenHam
 
-**11. [Looking for advice (super beginner here)](https://www.reddit.com/r/HamRadio/comments/1savsew/looking_for_advice_super_beginner_here/)**
-by u/Odd_Chart4158
+**8. [Amateur Radio in an Apartment Building](https://www.reddit.com/r/HamRadio/comments/1sbyrn3/amateur_radio_in_an_apartment_building/)**
+by u/Iamthesaga
 
-**12. [FreeDV: A Free Digital Voice Mode for HF Radio](https://www.reddit.com/r/HamRadio/comments/1safrv5/freedv_a_free_digital_voice_mode_for_hf_radio/)**
-by u/SA0LSD
+**9. [New CW Contest Windows Desktop App](https://www.reddit.com/r/HamRadio/comments/1sbrjvx/new_cw_contest_windows_desktop_app/)**
+by u/Svalbi
 
-**13. [Just ordered a K4 base station for the shack.](https://www.reddit.com/r/HamRadio/comments/1sagw95/just_ordered_a_k4_base_station_for_the_shack/)**
-by u/highvoltgaepyro
+**10. [Why doesn't any signal come in/out in the tune option? - Kenwood TS520SE](https://www.reddit.com/r/HamRadio/comments/1sbpzq8/why_doesnt_any_signal_come_inout_in_the_tune/)**
+by u/S52_DiDah
 
-**14. [Bom, estou planejando começar com pota na faixa dos 11m. Ja opero na faixa de vh...](https://www.reddit.com/r/HamRadio/comments/1sb19ki/bom_estou_planejando_começar_com_pota_na_faixa/)**
-by u/-mr64
+**11. [Did a contact with my self made Ed fong slim jim](https://www.reddit.com/r/HamRadio/comments/1sauv7a/did_a_contact_with_my_self_made_ed_fong_slim_jim/)**
+by u/CanadienWoodsman
 
-**15. [Xiegu X6100/X6200 vs Lab599 TX500/TX500MP](https://www.reddit.com/r/HamRadio/comments/1sakky3/xiegu_x6100x6200_vs_lab599_tx500tx500mp/)**
-by u/ThinkLongterm
+**12. [DRM Software Transmitters, need help](https://www.reddit.com/r/HamRadio/comments/1sbosf0/drm_software_transmitters_need_help/)**
+by u/biggeeradio
+
+**13. [Making sense of virtual com ports](https://www.reddit.com/r/HamRadio/comments/1sbfatg/making_sense_of_virtual_com_ports/)**
+by u/mhatz14
+
+**14. [Need some help with antenna options.](https://www.reddit.com/r/HamRadio/comments/1sb55ud/need_some_help_with_antenna_options/)**
+by u/xx_actual
+
+**15. [Ham Shack pics and my observations of this](https://www.reddit.com/r/HamRadio/comments/1sazrk5/ham_shack_pics_and_my_observations_of_this/)**
+by u/Six-gun-W8evb
 
 ---
 
@@ -109,15 +109,15 @@ by u/ThinkLongterm
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1s7pwru/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Unconventional Vertical](https://www.reddit.com/r/amateurradio/comments/1sayu6l/unconventional_vertical/)** (r/amateurradio)
-- **[What do you think of AnyTone?](https://www.reddit.com/r/amateurradio/comments/1sba6oc/what_do_you_think_of_anytone/)** (r/amateurradio)
-- **[Huge update (LoTW integration) for qFT8 - app for portable FT8 with An...](https://www.reddit.com/r/amateurradio/comments/1sb9lsf/huge_update_lotw_integration_for_qft8_app_for/)** (r/amateurradio)
-- **[Advice, guy bleeding over into .520 from .190](https://www.reddit.com/r/amateurradio/comments/1sasic2/advice_guy_bleeding_over_into_520_from_190/)** (r/amateurradio)
-- **[Amateur Radio on the Internet Archive](https://www.reddit.com/r/amateurradio/comments/1sazhxx/amateur_radio_on_the_internet_archive/)** (r/amateurradio)
-- **[What do you do after you pass the technician test?](https://www.reddit.com/r/amateurradio/comments/1sb0cob/what_do_you_do_after_you_pass_the_technician_test/)** (r/amateurradio)
-- **[Half-Wave Flower Pot Antena](https://www.reddit.com/r/amateurradio/comments/1saxe1w/halfwave_flower_pot_antena/)** (r/amateurradio)
-- **[Bringing HF equipment on AA Flight?](https://www.reddit.com/r/amateurradio/comments/1saxzkn/bringing_hf_equipment_on_aa_flight/)** (r/amateurradio)
-- **[HamClock crashing constantly since March 30](https://www.reddit.com/r/amateurradio/comments/1satxo4/hamclock_crashing_constantly_since_march_30/)** (r/amateurradio)
+- **[Common mode choke 1kW 100% duty cycle](https://www.reddit.com/r/amateurradio/comments/1sbp1of/common_mode_choke_1kw_100_duty_cycle/)** (r/amateurradio)
+- **[I may have a problem](https://www.reddit.com/r/amateurradio/comments/1sbv5g7/i_may_have_a_problem/)** (r/amateurradio)
+- **[Yg771 antenna](https://www.reddit.com/r/amateurradio/comments/1sc4qq8/yg771_antenna/)** (r/amateurradio)
+- **[Suburban HOA Antenna Advice](https://www.reddit.com/r/amateurradio/comments/1sbwmwy/suburban_hoa_antenna_advice/)** (r/amateurradio)
+- **[Is this an inherently flawed idea? I know its silly, but why hasn’t it...](https://www.reddit.com/r/amateurradio/comments/1sbuajn/is_this_an_inherently_flawed_idea_i_know_its/)** (r/amateurradio)
+- **[thoughts?](https://www.reddit.com/r/amateurradio/comments/1sbdzj7/thoughts/)** (r/amateurradio)
+- **[Another Sad Ham](https://www.reddit.com/r/amateurradio/comments/1sbdonu/another_sad_ham/)** (r/amateurradio)
+- **[What to do with old equipment](https://www.reddit.com/r/amateurradio/comments/1sc4v1z/what_to_do_with_old_equipment/)** (r/amateurradio)
+- **[PSA: 6m has been wide open across the Americas for most of the day tod...](https://www.reddit.com/r/amateurradio/comments/1sbplop/psa_6m_has_been_wide_open_across_the_americas_for/)** (r/amateurradio)
 
 ---
 

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-30T13:00:12.866076",
+  "updated": "2026-04-06T12:53:14.749645",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "E07BPHzguEOSr-hxc8wegyUrOGM",
+    "etag": "m135mgKRZgGAAj0KuknL71jvVr4",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,157 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "152463",
-      "subscriberCount": "1650",
+      "viewCount": "155589",
+      "subscriberCount": "1660",
       "hiddenSubscriberCount": false,
-      "videoCount": "119"
+      "videoCount": "121"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "SzN__6NuNSPsJysIyDisQs360CU",
+      "etag": "YtfTXveEQVDFSyGQsKmAzFp9ZY4",
+      "id": "lmdm14Arg6A",
+      "snippet": {
+        "publishedAt": "2026-04-01T01:39:05Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Is BG2FX Building the Ultimate Portable Radio?",
+        "description": "#HamRadio #AmateurRadio #FX4CR #BG2FX #PortableRadio #QRP #POTA #EverydayHam #HamRadioPodcast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lmdm14Arg6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lmdm14Arg6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lmdm14Arg6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lmdm14Arg6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lmdm14Arg6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Is BG2FX Building the Ultimate Portable Radio?",
+          "description": "#HamRadio #AmateurRadio #FX4CR #BG2FX #PortableRadio #QRP #POTA #EverydayHam #HamRadioPodcast"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "558",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3atxC2um8kc5xjJz56bypcycrCo",
+      "id": "gN1AIV5J-4s",
+      "snippet": {
+        "publishedAt": "2026-03-31T16:00:29Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
+        "description": "BG2FX, the maker of the popular FX-4CR, has been sharing prototype photos, CAD drawings, and bench test results to his private Facebook group, and we went full speculation mode.\nJames (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into everything BG2FX has posted so far, including side-by-side size comparisons to the FX-4CR, a bench test showing 60+ watts output, and 3D-printed prototype shots. We break it all down and share our thoughts on what this new radio could mean for the ultra-portable HF market.\n\n0:00 - Introduction\n0:28 - Who is BG2FX and What is the FX-4CR?\n2:05 - What Has BG2FX Posted So Far?\n3:20 - Size Comparison: FX-4CR vs. the New Radio\n4:11 - Walking Through the Prototype Images\n5:04 - Power Questions: Can a Barrel Connector Handle 50 Watts?\n5:54 - Connector History and Current Draw Discussion\n7:09 - Front Panel, Screen, and Display Analysis\n13:10 - Button Design and the New Encoder Dial\n15:40 - Cooling, Heat Sink, and Thinness of the New Design\n17:36 - I/O Section and Second USB-C Speculation\n22:05 - Who is This Radio For?\n22:47 - Could This Be a G90 Competitor?\n23:18 - Pricing Speculation\n24:18 - Dual USB-C and Dev Board Details\n25:46 - Final Thoughts and Wrap-Up\n\nDISCLAIMER:\nEverything discussed is based on developer updates posted by BG2FX. \nNo official name, pricing, or release date has been announced.\nThis is NOT a sponsored video.\n\nCheck out BG2FX's website: https://bg2fx.com\n\nEveryday Ham Links:\n\ud83c\udf10 https://www.everydayham.com\n\nDon't forget to like, subscribe, and hit the notification bell so you never miss an episode!\n\n#HamRadio #AmateurRadio #QRP #FX4CR #BG2FX #EverydayHam #PortableHF #POTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gN1AIV5J-4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gN1AIV5J-4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gN1AIV5J-4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gN1AIV5J-4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gN1AIV5J-4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham Radio",
+          "Amateur Radio",
+          "QRP Radio",
+          "Portable HF Radio",
+          "FX4CR",
+          "BG2FX",
+          "POTA",
+          "HF Radio",
+          "QRP Transceiver",
+          "Portable Transceiver",
+          "Ham Radio Gear",
+          "Ham Radio Review",
+          "New Ham Radio",
+          "Ultra Portable Radio",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
+          "description": "BG2FX, the maker of the popular FX-4CR, has been sharing prototype photos, CAD drawings, and bench test results to his private Facebook group, and we went full speculation mode.\nJames (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into everything BG2FX has posted so far, including side-by-side size comparisons to the FX-4CR, a bench test showing 60+ watts output, and 3D-printed prototype shots. We break it all down and share our thoughts on what this new radio could mean for the ultra-portable HF market.\n\n0:00 - Introduction\n0:28 - Who is BG2FX and What is the FX-4CR?\n2:05 - What Has BG2FX Posted So Far?\n3:20 - Size Comparison: FX-4CR vs. the New Radio\n4:11 - Walking Through the Prototype Images\n5:04 - Power Questions: Can a Barrel Connector Handle 50 Watts?\n5:54 - Connector History and Current Draw Discussion\n7:09 - Front Panel, Screen, and Display Analysis\n13:10 - Button Design and the New Encoder Dial\n15:40 - Cooling, Heat Sink, and Thinness of the New Design\n17:36 - I/O Section and Second USB-C Speculation\n22:05 - Who is This Radio For?\n22:47 - Could This Be a G90 Competitor?\n23:18 - Pricing Speculation\n24:18 - Dual USB-C and Dev Board Details\n25:46 - Final Thoughts and Wrap-Up\n\nDISCLAIMER:\nEverything discussed is based on developer updates posted by BG2FX. \nNo official name, pricing, or release date has been announced.\nThis is NOT a sponsored video.\n\nCheck out BG2FX's website: https://bg2fx.com\n\nEveryday Ham Links:\n\ud83c\udf10 https://www.everydayham.com\n\nDon't forget to like, subscribe, and hit the notification bell so you never miss an episode!\n\n#HamRadio #AmateurRadio #QRP #FX4CR #BG2FX #EverydayHam #PortableHF #POTA"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "718",
+        "likeCount": "35",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "suDTd0rdzaSq4LL2CncOPt2U92s",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -105,15 +246,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "258",
-        "likeCount": "24",
+        "viewCount": "379",
+        "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2zRiY2khBkBepVGZbNGzH3Mb9oI",
+      "etag": "DXAcPQ1bNYwc5RNjY-snj_77xro",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -176,7 +317,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "780",
+        "viewCount": "807",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -184,7 +325,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "euVD-OXTWg1CWTxAfVa5K_TlECM",
+      "etag": "UeIy__9FUKLgzml5csOLD60qyak",
       "id": "4dP7kktHK0k",
       "snippet": {
         "publishedAt": "2026-03-12T14:00:07Z",
@@ -248,7 +389,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "170",
+        "viewCount": "173",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -256,7 +397,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SawGWiViEDhWOTxIaveexn-Xm6Y",
+      "etag": "WiSAMGRaPZ9Tdwh2uAQZRGFE0Lw",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -319,7 +460,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1227",
+        "viewCount": "1230",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -327,7 +468,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cd8XbGXB6o4a2mHZ9ux99tMpf0o",
+      "etag": "si588U4CD-RzsI-1cMBYC7dI9Pg",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -389,7 +530,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "544",
+        "viewCount": "554",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -397,7 +538,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "B2Yq1J43Epx8iGjCJABzS-Q22aM",
+      "etag": "9CN3Mp3OhaV3Jr5vHbaKaa8w-eg",
       "id": "Koz7XST0tKw",
       "snippet": {
         "publishedAt": "2026-03-05T15:31:48Z",
@@ -460,7 +601,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "172",
+        "viewCount": "173",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -468,7 +609,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tGkiXzBh5fpM_nMATPxtNATG-Hw",
+      "etag": "bHFmlMq2ZTWErz-3sLB3LOd6ppM",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -533,7 +674,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1573",
+        "viewCount": "1581",
         "likeCount": "69",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -541,7 +682,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9VWE6aeV7qvw2qkmRYDyb1W87pA",
+      "etag": "nUoGwEdglCyFJBSwR9V1xgbGPe0",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -604,7 +745,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "394",
+        "viewCount": "408",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -612,7 +753,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EcFcrMGIssmvxbTLlNcyhuhcJ7g",
+      "etag": "_Qyx7lvc3rfKK2VUOb-FEFH5yxE",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -675,15 +816,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4814",
-        "likeCount": "174",
+        "viewCount": "4914",
+        "likeCount": "176",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m3hi-RcRwTEdmVEERwLS2AfsGNg",
+      "etag": "ah12iWkOl5HKwbS-75bBNXXhAjs",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -745,15 +886,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "295",
-        "likeCount": "12",
+        "viewCount": "300",
+        "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-_TsL0EhheY5IbCwsmi6pOn0jmU",
+      "etag": "vST8_7BYIJowK6jPo8_3S2-jSnE",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -806,7 +947,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1066",
+        "viewCount": "1079",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -867,7 +1008,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ioUKhfR8KPazK2G0KbFfw9N_OKQ",
+      "etag": "Caot8N026ptaZMo3MyxqdSRe40Y",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -931,15 +1072,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1425",
-        "likeCount": "35",
+        "viewCount": "1482",
+        "likeCount": "36",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ChqZlifnopQ6Pcu92FOb_bobG_U",
+      "etag": "m3CFvAE6FMy-jdyIFCwDENzpEK4",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -1002,7 +1143,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2491",
+        "viewCount": "2527",
         "likeCount": "94",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1080,7 +1221,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Dp9QEKN5ZDs0JVgWgQI5PKeuyO0",
+      "etag": "DNns84kaOyjk4Wfpu1Zvo5aKEzY",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -1143,7 +1284,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3246",
+        "viewCount": "3247",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1204,7 +1345,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NYRj0XmaP9Cr39vw63r1LZzKRS0",
+      "etag": "9u2624IP3IlNoJGhiSykPoIEjhA",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -1268,7 +1409,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "546",
+        "viewCount": "552",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -1276,7 +1417,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SBGsKEBBx5sJKT9A5A5ptU2dVxk",
+      "etag": "o8b7L1ECYs27xCersKVbr5iJwGM",
       "id": "i_55Kt8PtJo",
       "snippet": {
         "publishedAt": "2026-02-05T15:25:03Z",
@@ -1339,7 +1480,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "131",
+        "viewCount": "132",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1419,7 +1560,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xAqt1ax3lfFhckpzjSkekMVONUI",
+      "etag": "IKisaHQnlbt50MHkGwamTaXJjcY",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -1464,7 +1605,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "830",
+        "viewCount": "834",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1472,7 +1613,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3Ruh04wh_Af2mALflU5a1lukvnk",
+      "etag": "M4qwM0gHcjrGS9BfxncPSJ-nVC0",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -1536,8 +1677,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2983",
-        "likeCount": "98",
+        "viewCount": "3077",
+        "likeCount": "101",
         "favoriteCount": "0",
         "commentCount": "56"
       }
@@ -1703,7 +1844,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vmdX7Mpn05_HW80SXvH8X8xdas0",
+      "etag": "PgS71umnl2NrwsgG5o0UEllrWEM",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -1770,7 +1911,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2879",
+        "viewCount": "2920",
         "likeCount": "119",
         "favoriteCount": "0",
         "commentCount": "23"
@@ -1778,7 +1919,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mShugfgpI8Te_c9wvdjvJrd8Md4",
+      "etag": "S5v_R04PsbssvKJTdbzVTdHE754",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -1841,7 +1982,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "135",
+        "viewCount": "137",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1849,7 +1990,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ha9cZoLEhvPKiNzEovw2I5nBG1A",
+      "etag": "73sIncWmeE-0a_m8szjDPSNspbs",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -1894,7 +2035,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4507",
+        "viewCount": "4511",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1902,7 +2043,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "K0GkUu9ArHMlMEHy028hXtsnjLo",
+      "etag": "is38rdZ-oHTCMsoE4oBdGGpZs3Q",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -1947,15 +2088,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1512",
-        "likeCount": "49",
+        "viewCount": "1563",
+        "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FQyxi7KLMLKxdXL9nQ6YYC-SzGY",
+      "etag": "NlHzXi8vZy4kjslMukpY-K5HWxw",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -2018,7 +2159,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "789",
+        "viewCount": "795",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -2026,7 +2167,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "puior-tVpka8QgLEl4gFQFQmjMk",
+      "etag": "rvsddtL8HBOQOARBvkPSgIk0IZ0",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -2084,8 +2225,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "969",
-        "likeCount": "32",
+        "viewCount": "971",
+        "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
       }
@@ -2163,7 +2304,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "theIsHtrSx5c5I_64s9pk4O5ER0",
+      "etag": "83SxCcZ_rZWTz-Nw2u-5KwpPGhI",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -2226,7 +2367,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "335",
+        "viewCount": "340",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2234,7 +2375,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QraAlDhwtWYDdY83c1MoEDYIb1o",
+      "etag": "zuAs2x6SISgveQ9jXgM57qZIedQ",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -2279,7 +2420,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1026",
+        "viewCount": "1027",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2287,7 +2428,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mH2N9tnUUqcMYQbXyKfsBkA8oic",
+      "etag": "mR3G85_bs-UqE4qQX-Q2gGxZ8aQ",
       "id": "Nrr_Ce10xoA",
       "snippet": {
         "publishedAt": "2025-12-04T19:58:57Z",
@@ -2332,7 +2473,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "253",
+        "viewCount": "254",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2340,7 +2481,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Kts8dl7kaHasLg9lmV9cbhGN8iM",
+      "etag": "nP-IgTo6LOe1P93mSJyCj8bTMRI",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -2408,7 +2549,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "551",
+        "viewCount": "564",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2416,7 +2557,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "D9ftS6rPbTmXeDzN80ez3R_Pf3o",
+      "etag": "uR6VfFTvW_H5u5Qi9OR2VKiNq4A",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -2485,7 +2626,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1297",
+        "viewCount": "1311",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2493,7 +2634,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OPCD9o7mnk1xd3NCEhiOTIon_Cc",
+      "etag": "A1VFJsJNBCFYEfIpC763arCA-50",
       "id": "id9szJP3ZZQ",
       "snippet": {
         "publishedAt": "2025-12-04T17:22:38Z",
@@ -2556,7 +2697,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "182",
+        "viewCount": "183",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2635,7 +2776,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AhPDjeQZZcFdTmfGyDnTPQK07JA",
+      "etag": "td_-h1E03ijNJL_Fy98HjMKUKoM",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -2680,7 +2821,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "859",
+        "viewCount": "867",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2688,7 +2829,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Gax1B5s0dbH1cONBAVugvhooPw0",
+      "etag": "rAwYjxiRWwOmSyYcY4rLfp4uQPQ",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -2755,7 +2896,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "496",
+        "viewCount": "512",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -2911,7 +3052,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2rBDRKk2SRpEhzqb1v-bkHFewjY",
+      "etag": "V9VPIszafD1Co5p7pcOQsVEdHRc",
       "id": "v0Ln5Q7P4nE",
       "snippet": {
         "publishedAt": "2025-11-13T17:23:26Z",
@@ -2981,7 +3122,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "148",
+        "viewCount": "149",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2989,7 +3130,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ODyZDfL_GUWFW9V7s-Pde7brjqo",
+      "etag": "c4EGj1WXhj6ckfqbwQq7Geuvsec",
       "id": "1T2Ng1Q0WuQ",
       "snippet": {
         "publishedAt": "2025-11-08T15:10:39Z",
@@ -3034,7 +3175,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "944",
+        "viewCount": "945",
         "likeCount": "33",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -3115,7 +3256,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cab04oO4OdbgCP0oesgWyhIBk70",
+      "etag": "-us2UNZr9DOKLSctQ5uSzwnpZgY",
       "id": "77VS3pzGjCc",
       "snippet": {
         "publishedAt": "2025-11-07T17:55:54Z",
@@ -3192,7 +3333,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "793",
+        "viewCount": "794",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -3267,152 +3408,6 @@
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ECe8ES8w-Wop9XBUN6b1EWNmJC4",
-      "id": "YbKLH7xdk4Q",
-      "snippet": {
-        "publishedAt": "2025-11-06T17:12:28Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-        "description": "Thank You! A thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. \n\nWe open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL's grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you've avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio's SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\n\ud83c\udfaf Timestamps:\n00:41 - Welcome & 1,000 Subscriber Celebration\n02:27 - Big thank you to our community\n03:58 - CQ Worldwide SSB Contest recap\n06:22 - What's happening in the shacks\n15:32 - IC-7300 Mark II announcement breakdown\n15:43 - ARRL's grassroots campaign for HOA antenna rights\n25:00 - Amateur Radio Emergency Preparedness Act explained\n32:23 - Why HOA restrictions matter to all hams\n36:51 - FCC shutdown delays and licensing impacts\n41:29 - Flex Radio Smart SDR 4.0 update\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more.\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Join Our Community:\n- YouTube: @EverydayHam\n- Instagram: https://www.instagram.com/everydayhampodcast/\n- Discord: https://www.everydayham.com\n- TikTok: @EverydayHam\n\n\ud83d\udcac We want to hear from you! \nIf you care about the bands staying lively and accessible, this conversation matters. Tell us if you're backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. \n\nSpecial shoutout to Ben KB4LS for crushing it with POTA activations this month!\n\n\ud83d\udd14 Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who's antenna\u2011curious.\n\nHosted by James Mills K8JKU, Jim Davis N8JRD, and Rory Locke W8KNX\n\n#HamRadio #AmateurRadio #IC7300MarkII #Icom #ARRL #HOA #AntennaRights #FCC #POTA #FlexRadio #Contesting #EverydayHam #HamRadioPodcast #CQWorldwide #SmartSDR #HR1094 #AntennaFreedom",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YbKLH7xdk4Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YbKLH7xdk4Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YbKLH7xdk4Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/YbKLH7xdk4Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/YbKLH7xdk4Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "pota",
-          "parks on the air",
-          "HF",
-          "IC-7300 Mark II",
-          "IC-7300 MKII",
-          "Icom",
-          "ARRL",
-          "HOA",
-          "antenna rights",
-          "antenna freedom",
-          "FCC",
-          "contesting",
-          "CQ worldwide",
-          "CQ worldwide SSB",
-          "HR 1094",
-          "S 459",
-          "ham radio news",
-          "HF radio",
-          "government shutdown",
-          "ham radio gear",
-          "new ham",
-          "beginner ham radio",
-          "radio activism",
-          "HOA restrictions",
-          "used IC-7300",
-          "first HF radio",
-          "ham radio laws",
-          "antenna installation",
-          "community Association Institute",
-          "CAI",
-          "ham community",
-          "DX",
-          "DXing"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-          "description": "Thank You! A thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. \n\nWe open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL's grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you've avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio's SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\n\ud83c\udfaf Timestamps:\n00:41 - Welcome & 1,000 Subscriber Celebration\n02:27 - Big thank you to our community\n03:58 - CQ Worldwide SSB Contest recap\n06:22 - What's happening in the shacks\n15:32 - IC-7300 Mark II announcement breakdown\n15:43 - ARRL's grassroots campaign for HOA antenna rights\n25:00 - Amateur Radio Emergency Preparedness Act explained\n32:23 - Why HOA restrictions matter to all hams\n36:51 - FCC shutdown delays and licensing impacts\n41:29 - Flex Radio Smart SDR 4.0 update\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more.\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Join Our Community:\n- YouTube: @EverydayHam\n- Instagram: https://www.instagram.com/everydayhampodcast/\n- Discord: https://www.everydayham.com\n- TikTok: @EverydayHam\n\n\ud83d\udcac We want to hear from you! \nIf you care about the bands staying lively and accessible, this conversation matters. Tell us if you're backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. \n\nSpecial shoutout to Ben KB4LS for crushing it with POTA activations this month!\n\n\ud83d\udd14 Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who's antenna\u2011curious.\n\nHosted by James Mills K8JKU, Jim Davis N8JRD, and Rory Locke W8KNX\n\n#HamRadio #AmateurRadio #IC7300MarkII #Icom #ARRL #HOA #AntennaRights #FCC #POTA #FlexRadio #Contesting #EverydayHam #HamRadioPodcast #CQWorldwide #SmartSDR #HR1094 #AntennaFreedom"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "285",
-        "likeCount": "19",
-        "favoriteCount": "0",
-        "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2AjwAP5OPVjjJOeoX4u2JSnWSs0",
-      "id": "JlEPexeOWa4",
-      "snippet": {
-        "publishedAt": "2025-11-04T01:13:16Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-        "description": "You could say there was a BUG in the system, legitimately!   N8JRD finds an intruder in his new SPE Expert Amplifier.   Tis' the season for these little critters up here in Michigan!\n\n#michigan #stinkbugs",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JlEPexeOWa4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JlEPexeOWa4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JlEPexeOWa4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JlEPexeOWa4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JlEPexeOWa4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-          "description": "You could say there was a BUG in the system, legitimately!   N8JRD finds an intruder in his new SPE Expert Amplifier.   Tis' the season for these little critters up here in Michigan!\n\n#michigan #stinkbugs"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1366",
-        "likeCount": "20",
-        "favoriteCount": "0",
-        "commentCount": "6"
       }
     }
   ]

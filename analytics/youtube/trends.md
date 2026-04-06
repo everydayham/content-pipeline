@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-03-30 13:00 UTC*
+*Last updated: 2026-04-06 12:53 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| ek restaurant ke bahar likha tha bill aapka pota d... | Facts Spotted | 8,357,015 | 2026-03-23 |
-| Aaj Banaenge Chicken Leg Piece Aur Pota Kaleji 🤩 |... | R Rajesh vlogs Short | 1,944,091 | 2026-03-25 |
-| Pota kaleji 😋 , Aaj Gas khatam ho gaya 😲 Couple 🧑‍... | Bikky TV | 726,695 | 2026-03-26 |
-| 🤯 Youth Movie க்கு Copyrights Pota Gana Dinesh 🤡 |... | Uruttu Arafath Voice | 608,660 | 2026-03-26 |
-| #SOTA 모여유 #aoen #CORTIS #코르티스 #CORTIS_YOUNGCREATOR... | CORTIS | 506,796 | 2026-03-24 |
-| Pota chhod diye to dada lete hai, | Enjoy with Gabru | 218,966 | 2026-03-26 |
-| ਦਾਦੀ pota #viral #funny #viralshort #punjabisong #... | ਘੁਮਾਣ ਫੈਮਿਲੀ ਵਲੌਗ  | 204,862 | 2026-03-24 |
-| 🤯 Youth Movie க்கு Copyrights Pota Gana Dinesh 🤡 |... | voice of mino | 178,471 | 2026-03-28 |
-| BE:FIRST 'BE:FIRST ALL DAY' SOTA w/ Josh & Ken #SB... | BE:FIRST Official | 171,558 | 2026-03-28 |
-| I PASSED MY TEST! Now it's your turn!  #chrisboden... | Chris Boden | 170,319 | 2026-03-28 |
-| BE:FIRST 'BE:FIRST ALL DAY' SOTA w/ Gelo #BGYO #BF... | BE:FIRST Official | 116,474 | 2026-03-28 |
-| Ansh ban Gaya Principal ka Pota 😲#viral  #funny #c... | ShortCircuitRider | 114,892 | 2026-03-24 |
-| KAJU 12 BAJE SOTA HAI AUR SUBAH 8 BAJE UTHATA HAI ... | Tannu.kairav vlogs | 113,681 | 2026-03-26 |
-| GOING FOR GENERAL!  #chrisboden #comedy #engineeri... | Chris Boden | 111,873 | 2026-03-26 |
-| そたーにこれあるぞｗｗｗ【プロスピA】#shorts | ぴーちゃん | 108,508 | 2026-03-27 |
-| 【 BE:FIRST 】 MANATO 「ただいま」 SOTA ママ、クセ強すぎ #BEFIRST ... | まる【 BE:FIRST 切り抜き】 | 96,205 | 2026-03-24 |
-| Yeh bahot acha sota hai😴🧿 #BhartiSingh | Bharti Singh Fan Pag | 84,116 | 2026-03-25 |
-| gt ke sath hi sota hu 🤣😎❤️‍🩹 #viralvideo #trending... | 3dost__fans | 78,241 | 2026-03-27 |
-| MUJHE POTA CHAHIYE | Superhit Bhojpuri Family Film | Bhojpuri Movies Mela | 77,231 | 2026-03-27 |
-| lanev bed kw sota | Cg Bhakti live | 70,705 | 2026-03-24 |
-| The Antenna That Connected Our Worlds | Years Apart | 39,314 | 2026-03-24 |
-| #หลายคนตามหาในTikTok ( Copines - Pota Pota ) V.แดน... | DJ LAWEE REMIX | 37,844 | 2026-03-26 |
-| Canada has axed weather radio and is now pushing t... | Spencer’s Adventures | 34,698 | 2026-03-24 |
-| CW contact with the Slingshot! #hobby #practice #h... | Hobby Steve  | 33,377 | 2026-03-28 |
-| 藤井創太今後の活動についてのお話し | 社交ダンス 藤井創太 | 32,225 | 2026-03-24 |
+| Patient Chillata, System Sota😱!#localstarbinit | Dulare | 1,498,483 | 2026-04-02 |
+| Dadi pota 🔥 behind the scene vs the result ✨ most ... | Bihari Ladka | 1,399,186 | 2026-04-06 |
+| Tag someone jo GHODE bech ke SOTA ho ! #comedy  #t... | Taarak Mehta Ka Oolt | 917,546 | 2026-04-05 |
+| Ghr Pr Sota Rehta Hu #digrajsinghrajput #new #moti... | DigrajSir Nexttopper | 676,984 | 2026-04-03 |
+| Tattoo pota dhan unmayana love ah 😒😂 | Vicks Picks-Shorts | 577,819 | 2026-04-01 |
+| Rudra pure din sota rhta hai🤗 #kritikamalik #comed... | Malik Family EditS | 504,267 | 2026-04-03 |
+| Smart PTT Sim Card Two-Way Radios | Smart PTT South Afri | 425,421 | 2026-04-01 |
+| BE:FIRST 'BE:FIRST ALL DAY' SOTA w/ Kona #BF_ALLDA... | BE:FIRST Official | 345,858 | 2026-04-01 |
+| Dada vs Pota(Reality Check ) |😂🤦 Kuldeep Singhania... | comday vines  | 303,611 | 2026-04-04 |
+| KAJU KITNA SOTA HAI 😊😊#bhartisingh #shorts | Tannu.kairav vlogs | 284,703 | 2026-04-02 |
+| BE:FIRST / もぐもぐSHUNTO “出張Special” w/ SOTA & JUNON ... | BE:FIRST Official | 268,592 | 2026-04-05 |
+| Антенна для перехвата радиопереговоров | Алексей Кострыкин | 266,221 | 2026-04-04 |
+| USOTSUKI with #SOTA #RAN🦋#BEFIRST #MAZZEL #TAIKI #... | STARGLOW Official | 209,510 | 2026-04-04 |
+| KAJU KITNA SOTA HAI 😊😊#bhartisingh #shorts | Tannu.kairav vlogs | 173,432 | 2026-04-01 |
+| aisa pota sabhi ko de bhagwan #hindisongs #viralsh... | bkramavlog | 141,722 | 2026-03-31 |
+| DADA POTA ✌️#family #dada #pota #rajasthan #india | Naresh dhun | 141,098 | 2026-03-31 |
+| Smart PTT Sim Card Two-Way Radios | Smart PTT South Afri | 140,982 | 2026-04-01 |
+| 😂 pota custom player 😂#freefirehighlights #viralsh... | SHADOW FF 099 | 127,635 | 2026-04-03 |
+| இப்படி ஒரு ரேடியோ வா!🔥 Pagaria Portable Radio 📻 #s... | Vijay Ideas | 103,619 | 2026-04-03 |
+| NextGenSDR is coming.....READ DESCRIPTION..Sneak P... | KB2UKA | 93,060 | 2026-03-30 |
+| I Heard Voices On The Super Illegal 934MHz CB Radi... | Ringway Manchester | 92,458 | 2026-04-02 |
+| VP8000: The King has ARRIVED! | Fleettalk by Rock Co | 90,243 | 2026-03-30 |
+| KAJU DADA JI KA LADLA POTA HAI 😊☺️ #bhartisingh | Tannu.kairav vlogs | 81,193 | 2026-03-31 |
+| В мире полная п**да! Россияне о завтрашнем дне. Оп... | sotavision | 80,884 | 2026-03-31 |
+| Кого слушаете вы? | Алексей Кострыкин | 77,222 | 2026-04-04 |
 
 ---
 
@@ -42,14 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (29 videos)
-- **License/Learning**: ████████████████████ (25 videos)
+- **POTA/Portable**: ████████████████████ (26 videos)
+- **License/Learning**: ████████████████████ (21 videos)
+- **HF Operating**: ████████████████ (16 videos)
+- **Gear Reviews**: ██████████████ (14 videos)
 - **Antennas**: ██████████████ (14 videos)
-- **HF Operating**: █████████████ (13 videos)
-- **Gear Reviews**: ████████ (8 videos)
-- **QRP**: ███████ (7 videos)
-- **Digital Modes**: ██████ (6 videos)
-- **Contests**: ██ (2 videos)
+- **Digital Modes**: ███ (3 videos)
+- **QRP**: ███ (3 videos)
+- **Contests**: █ (1 videos)
 
 ---
 

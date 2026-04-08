@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T11:55:39.518742",
+  "updated": "2026-04-08T11:56:14.771884",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -12,9 +12,79 @@
         "author": "/u/AutoModerator"
       },
       {
+        "title": "Everyone needs a code-practice buddy!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfjp9g/everyone_needs_a_codepractice_buddy/",
+        "author": "/u/CoastalRadio"
+      },
+      {
+        "title": "Non LoS contact",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfh42e/non_los_contact/",
+        "author": "/u/GiantsNerd1"
+      },
+      {
+        "title": "I found this at a hamfest recently. What does it do? Wrong answers only.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfc9ua/i_found_this_at_a_hamfest_recently_what_does_it/",
+        "author": "/u/inquirewue"
+      },
+      {
+        "title": "HomeLink: An app to check in with your loved ones via ham radio.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfpya0/homelink_an_app_to_check_in_with_your_loved_ones/",
+        "author": "/u/Royal_Assignment9054"
+      },
+      {
+        "title": "General Test Pool Question on Impedance Math",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sf4r5x/general_test_pool_question_on_impedance_math/",
+        "author": "/u/HiOscillation"
+      },
+      {
+        "title": "First project - ARDF Beacon + Finder",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfo9w0/first_project_ardf_beacon_finder/",
+        "author": "/u/NuriCZE"
+      },
+      {
+        "title": "What kind of maths would help in learning advanced amateur radio? Algebra? Trigonomy? Calculus?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sf8mi9/what_kind_of_maths_would_help_in_learning/",
+        "author": "/u/greenwoody2018"
+      },
+      {
+        "title": "The washing machine at work has some nerve!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1seuwms/the_washing_machine_at_work_has_some_nerve/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "Third brake light mount?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sf7o1d/third_brake_light_mount/",
+        "author": "/u/Utilitythrowaway21"
+      },
+      {
+        "title": "What am I missing out on?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sez5a6/what_am_i_missing_out_on/",
+        "author": "/u/No-Wrangler-5502"
+      },
+      {
+        "title": "Mil-style whip antennas for 6 and 10m bands",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfda3y/milstyle_whip_antennas_for_6_and_10m_bands/",
+        "author": "/u/WineGunsAndRadio"
+      },
+      {
+        "title": "Can one station hear the other?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sf1cy7/can_one_station_hear_the_other/",
+        "author": "/u/MentalEggplant9275"
+      },
+      {
         "title": "Aaah yess.... the CAT radio operator",
         "link": "https://www.reddit.com/r/amateurradio/comments/1seiczk/aaah_yess_the_cat_radio_operator/",
         "author": "/u/Educational-Kiwi8740"
+      },
+      {
+        "title": "New to us HQ-180\ud83d\ude0d",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sevddz/new_to_us_hq180/",
+        "author": "/u/FabandRepairWV"
+      },
+      {
+        "title": "Ham Radio Deluxe license transfer",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfjmx2/ham_radio_deluxe_license_transfer/",
+        "author": "/u/reffak"
       },
       {
         "title": "I Finally Got My QRZ Page Setup!",
@@ -22,114 +92,44 @@
         "author": "/u/TheMorganDev"
       },
       {
+        "title": "AllScan ANF101 Cross-Band Full-Duplex AllStar node, shown with Wouxun KG-Q10H HT",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfbzix/allscan_anf101_crossband_fullduplex_allstar_node/",
+        "author": "/u/DavidXSD"
+      },
+      {
+        "title": "Best MARS antenna in an HOA",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfknsz/best_mars_antenna_in_an_hoa/",
+        "author": "/u/cbraun96"
+      },
+      {
+        "title": "Icom IC-2730 Strange Squeal audible on 70m when TX on 2m",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfdpqs/icom_ic2730_strange_squeal_audible_on_70m_when_tx/",
+        "author": "/u/ultravista_2"
+      },
+      {
+        "title": "New Antenna Day!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sewl3n/new_antenna_day/",
+        "author": "/u/irate-turtles"
+      },
+      {
+        "title": "Is this a standard inversion scrambler or not?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfkkex/is_this_a_standard_inversion_scrambler_or_not/",
+        "author": "/u/homosapiens64"
+      },
+      {
         "title": "A \"melodic\" digital mode for text encoding/decoding",
         "link": "https://www.reddit.com/r/amateurradio/comments/1seprry/a_melodic_digital_mode_for_text_encodingdecoding/",
         "author": "/u/JELSTUDIO"
       },
       {
-        "title": "Testing for General tomorrow!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sehqrz/testing_for_general_tomorrow/",
-        "author": "/u/Stock-Ad-7601"
+        "title": "I decided to learn Morse code but it became tedious and laborious in matter of two days. After learning just 4 letters I decided to search for a better way to learn the alphabet.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfnp1v/i_decided_to_learn_morse_code_but_it_became/",
+        "author": "/u/Hamdaddy1976"
       },
       {
-        "title": "V-dipole cable question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1seq9fj/vdipole_cable_question/",
-        "author": "/u/Exciting-Strategy587"
-      },
-      {
-        "title": "My automatic tuner takes its name a bit too seriously: ATU-100-0A tuning again and again + short battery life",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1seroww/my_automatic_tuner_takes_its_name_a_bit_too/",
-        "author": "/u/lukaslu-kas"
-      },
-      {
-        "title": "Icom 7300MK2 Waveform Bug",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sekyef/icom_7300mk2_waveform_bug/",
-        "author": "/u/EricStratton63"
-      },
-      {
-        "title": "My HAM Radio Exam was successful!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se2cmu/my_ham_radio_exam_was_successful/",
-        "author": "/u/Vijfsnippervijf"
-      },
-      {
-        "title": "Is QRZ.com down?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1set8jd/is_qrzcom_down/",
-        "author": "/u/oromex"
-      },
-      {
-        "title": "What kind of RFI might this be?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sejrce/what_kind_of_rfi_might_this_be/",
-        "author": "/u/Livesoundhuman"
-      },
-      {
-        "title": "Another score! I have two",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se0nic/another_score_i_have_two/",
-        "author": "/u/FabandRepairWV"
-      },
-      {
-        "title": "ICOM Remote Utility issue - RS-BA1 version 2 on a MS Surface Pro X",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sepfiy/icom_remote_utility_issue_rsba1_version_2_on_a_ms/",
-        "author": "/u/Dear-Bandicoot6582"
-      },
-      {
-        "title": "Tuning radials for a 1/4 wave vertical",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sei2v5/tuning_radials_for_a_14_wave_vertical/",
-        "author": "/u/True_Certitude"
-      },
-      {
-        "title": "Club Newsletters",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sef751/club_newsletters/",
-        "author": "/u/Modern_Doshin"
-      },
-      {
-        "title": "Weather watchers mourn the end of national Weatheradio service",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sdn417/weather_watchers_mourn_the_end_of_national/",
-        "author": "/u/OliverDawgy"
-      },
-      {
-        "title": "Burying RG8X for a short run across yard?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se3ri3/burying_rg8x_for_a_short_run_across_yard/",
-        "author": "/u/PrestigeWrldWd"
-      },
-      {
-        "title": "RCA ANT1650F Indoor Tv Antenna Offers Surprising Results",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1secqdj/rca_ant1650f_indoor_tv_antenna_offers_surprising/",
-        "author": "/u/ambitioussometime"
-      },
-      {
-        "title": "Does anyone know where to find the actual protocol specification for Yaesu System Fusion?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1selkud/does_anyone_know_where_to_find_the_actual/",
-        "author": "/u/Teknikal_Domain"
-      },
-      {
-        "title": "Source of real Morse recordings recoded from radio with transcript?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sejxcz/source_of_real_morse_recordings_recoded_from/",
-        "author": "/u/lag0matic"
-      },
-      {
-        "title": "Are tiny sa's able to decode DMR?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se9wf3/are_tiny_sas_able_to_decode_dmr/",
-        "author": "/u/Juanma_Blatter"
-      },
-      {
-        "title": "Putting together a satellite setup?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se1mi2/putting_together_a_satellite_setup/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Returning Ham Stumpped...",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sebm82/returning_ham_stumpped/",
-        "author": "/u/Flaky_Push8668"
-      },
-      {
-        "title": "Dishwasher got radio interference",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1sd5pwd/dishwasher_got_radio_interference/",
-        "author": "/u/proggga"
-      },
-      {
-        "title": "Traveling antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1se6iw3/traveling_antenna/",
-        "author": "/u/CaleB3292"
+        "title": "Mobile Installation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1sfafy0/mobile_installation/",
+        "author": "/u/phaser77"
       }
     ],
     "HamRadio": [
@@ -144,9 +144,34 @@
         "author": "/u/SharkSapphire"
       },
       {
+        "title": "HomeLink: An app to check in with your loved ones via ham radio.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sfpy1i/homelink_an_app_to_check_in_with_your_loved_ones/",
+        "author": "/u/Royal_Assignment9054"
+      },
+      {
+        "title": "Need help identifing my late brother's ham radio collection",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sfbrjt/need_help_identifing_my_late_brothers_ham_radio/",
+        "author": "/u/ImaginaryTeapot"
+      },
+      {
+        "title": "Is this a standard inversion scrambler or not?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sfk4nn/is_this_a_standard_inversion_scrambler_or_not/",
+        "author": "/u/homosapiens64"
+      },
+      {
         "title": "Wanted to share my PRC-77 at home, AKA FT-891 Field Pack!",
         "link": "https://www.reddit.com/r/HamRadio/comments/1sedhkr/wanted_to_share_my_prc77_at_home_aka_ft891_field/",
         "author": "/u/AurumProspector"
+      },
+      {
+        "title": "I got FT8CN working, made contacts, and received an eQSL",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sewhks/i_got_ft8cn_working_made_contacts_and_received_an/",
+        "author": "/u/lassmanac"
+      },
+      {
+        "title": "I decided to learn Morse code but it became tedious and laborious in matter of two days. After learning just 4 letters I decided to search for a better way to learn the alphabet.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sfnoit/i_decided_to_learn_morse_code_but_it_became/",
+        "author": "/u/Hamdaddy1976"
       },
       {
         "title": "What are these bars? (FM mode on Airspy)",
@@ -154,9 +179,19 @@
         "author": "/u/NORTHERNTWITCH"
       },
       {
+        "title": "When do I get my license & callsign?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sfemdl/when_do_i_get_my_license_callsign/",
+        "author": "/u/RespondFast8366"
+      },
+      {
         "title": "Built a 12v power box for my radio",
         "link": "https://www.reddit.com/r/HamRadio/comments/1se28yw/built_a_12v_power_box_for_my_radio/",
         "author": "/u/Such_Tutor_1237"
+      },
+      {
+        "title": "Supernote / remarkable logbook (LaTeX)",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1se9rg2/supernote_remarkable_logbook_latex/",
+        "author": "/u/RealTeslaFan"
       },
       {
         "title": "Interactive map with the position of Amateur Radio Repeaters and more",
@@ -164,9 +199,9 @@
         "author": "/u/BeachGlassGreen"
       },
       {
-        "title": "Supernote / remarkable logbook (LaTeX)",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1se9rg2/supernote_remarkable_logbook_latex/",
-        "author": "/u/RealTeslaFan"
+        "title": "My man portable CB radio build.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1sezbz0/my_man_portable_cb_radio_build/",
+        "author": "/u/airsoft001"
       },
       {
         "title": "Looking to obtain my Han radio operators license",
@@ -209,11 +244,6 @@
         "author": "/u/Hamdaddy1976"
       },
       {
-        "title": "G90 test finally. With endfed random wire.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1se6m9t/g90_test_finally_with_endfed_random_wire/",
-        "author": "/u/3rdGenHam"
-      },
-      {
         "title": "Mobile radio choices, multiple band",
         "link": "https://www.reddit.com/r/HamRadio/comments/1sdvjht/mobile_radio_choices_multiple_band/",
         "author": "/u/yodawgheardyoulike"
@@ -227,36 +257,6 @@
         "title": "A group of amateur astronomers has just \u201cheard\u201d a signal from 25 billion kilometers away, confirming that Voyager 1 is still transmitting from the outer reaches of the Solar System",
         "link": "https://www.reddit.com/r/HamRadio/comments/1scn65r/a_group_of_amateur_astronomers_has_just_heard_a/",
         "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "FCC Enforcement visited radio interference station",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1se9e3m/fcc_enforcement_visited_radio_interference_station/",
-        "author": "/u/Hamdaddy1976"
-      },
-      {
-        "title": "Help me decide if I should buy an icom ic-211e",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1sdazzr/help_me_decide_if_i_should_buy_an_icom_ic211e/",
-        "author": "/u/Ruskythegreat"
-      },
-      {
-        "title": "Weather watchers mourn the end of national Weatheradio service",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1scn99l/weather_watchers_mourn_the_end_of_national/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "I hope everyone had a great Easter\u2026 if you like nets, check this one out today\u2026.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1sd0zf8/i_hope_everyone_had_a_great_easter_if_you_like/",
-        "author": "/u/Kn9w-EM75"
-      },
-      {
-        "title": "What can I expect from 140 feet to 450 feet to 1400 feet?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1sd2sj5/what_can_i_expect_from_140_feet_to_450_feet_to/",
-        "author": "/u/Organic-Addendum1609"
-      },
-      {
-        "title": "Meshcore and Mescom Repeaters, 433MH and 868MHz.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1sd1aiw/meshcore_and_mescom_repeaters_433mh_and_868mhz/",
-        "author": "/u/Logical_Carrot267"
       }
     ]
   }

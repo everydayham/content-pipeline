@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-04-09 11:56 UTC*
+*Last updated: 2026-04-10 11:51 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sdy76s/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Just got the international space station over Wisconsin!](https://www.reddit.com/r/amateurradio/comments/1sfuqhi/just_got_the_international_space_station_over/)**
-by u/MKE1969
+**2. [NASA On The Air](https://www.reddit.com/r/amateurradio/comments/1sh64u4/nasa_on_the_air/)**
+by u/notajeweler
 
-**3. [Artemis on 2m at 145.173MHz in Manitoba](https://www.reddit.com/r/amateurradio/comments/1sge4er/artemis_on_2m_at_145173mhz_in_manitoba/)**
-by u/aacmckay
-
-**4. [My Compact 40M/20M dual band antenna.](https://www.reddit.com/r/amateurradio/comments/1sg18u4/my_compact_40m20m_dual_band_antenna/)**
-by u/ChocolateOk7997
-
-**5. [It's finally finished! My self contained all band all mode go box.](https://www.reddit.com/r/amateurradio/comments/1sfv80g/its_finally_finished_my_self_contained_all_band/)**
+**3. [Have a laugh while I setup my antennas 🤣🤣](https://www.reddit.com/r/amateurradio/comments/1sh8wwz/have_a_laugh_while_i_setup_my_antennas/)**
 by u/adhdff
 
-**6. [Radioaficionado y Scout](https://www.reddit.com/r/amateurradio/comments/1sg6k08/radioaficionado_y_scout/)**
-by u/LU5VRN_Martin
+**4. [Good news: My 22yo niece passed her General Exam. Bad news...](https://www.reddit.com/r/amateurradio/comments/1sgog2a/good_news_my_22yo_niece_passed_her_general_exam/)**
+by u/HiOscillation
 
-**7. [POTA activation videos](https://www.reddit.com/r/amateurradio/comments/1sg8dme/pota_activation_videos/)**
-by u/s3ctr3m3
+**5. [Took the 857 go box out for a POTA activation this morning and it performed flaw...](https://www.reddit.com/r/amateurradio/comments/1sh2xn2/took_the_857_go_box_out_for_a_pota_activation/)**
+by u/adhdff
 
-**8. [WSJT-X FT8 New software Version 3 was released yesterday. Works Well](https://www.reddit.com/r/amateurradio/comments/1sg3y8j/wsjtx_ft8_new_software_version_3_was_released/)**
-by u/Sawyer2025
+**6. [I need some opinions and advice](https://www.reddit.com/r/amateurradio/comments/1shffjj/i_need_some_opinions_and_advice/)**
+by u/Double_Interest6775
 
-**9. [For vertical antennas, are radials of different lengths the best way to go?](https://www.reddit.com/r/amateurradio/comments/1sg9p1i/for_vertical_antennas_are_radials_of_different/)**
-by u/beekeeper55
+**7. [EME Moon Ephemeris 2025–2040 • Yearly Overview by SA5IKN](https://www.reddit.com/r/amateurradio/comments/1shjkqk/eme_moon_ephemeris_20252040_yearly_overview_by/)**
+by u/SA5IKN
 
-**10. [I have a couple of old TNCS I came across. A Kantronics KAM Plus and a PK-88](https://www.reddit.com/r/amateurradio/comments/1sgapee/i_have_a_couple_of_old_tncs_i_came_across_a/)**
-by u/Dogknee
+**8. [Request for help, tank antenna "ASH-4" and radials.](https://www.reddit.com/r/amateurradio/comments/1sheyc1/request_for_help_tank_antenna_ash4_and_radials/)**
+by u/Baltimore_Gestalt
 
-**11. [Counterpoise off of Deck](https://www.reddit.com/r/amateurradio/comments/1sgbz78/counterpoise_off_of_deck/)**
-by u/stargazertony
+**9. [Why is propagation always so good when band conditions are "bad"?](https://www.reddit.com/r/amateurradio/comments/1sh484l/why_is_propagation_always_so_good_when_band/)**
+by u/CaptainSpez
 
-**12. [MFJ manual tuner problem](https://www.reddit.com/r/amateurradio/comments/1sglc3f/mfj_manual_tuner_problem/)**
-by u/Whole-Hat-2213
+**10. [What’s this antenna my neighbor is getting rid of?](https://www.reddit.com/r/amateurradio/comments/1sh740p/whats_this_antenna_my_neighbor_is_getting_rid_of/)**
+by u/BBoru-1014
 
-**13. [I'd like to hike Snowdon, I've got the essentials... but there's one question! C...](https://www.reddit.com/r/amateurradio/comments/1sgl3c4/id_like_to_hike_snowdon_ive_got_the_essentials/)**
-by u/kcsebby
+**11. [Software to program Vertex VX-351 PMR?](https://www.reddit.com/r/amateurradio/comments/1shj2ak/software_to_program_vertex_vx351_pmr/)**
+by u/bythisriver
 
-**14. [Hommuni bt-85 bluetooth mic](https://www.reddit.com/r/amateurradio/comments/1sgknjw/hommuni_bt85_bluetooth_mic/)**
-by u/RecognitionOpposite5
+**12. [How NP4G's Journey from Puerto Rico Captured the Global Stage](https://www.reddit.com/r/amateurradio/comments/1shj16g/how_np4gs_journey_from_puerto_rico_captured_the/)**
+by u/FrontAffectionate332
 
-**15. [Icom 5100 fsk9600](https://www.reddit.com/r/amateurradio/comments/1sggn32/icom_5100_fsk9600/)**
-by u/Rommac100
+**13. [Easy to follow and understand how to build Your Own End-Fed Half-Wave Antenna [A...](https://www.reddit.com/r/amateurradio/comments/1shbyx1/easy_to_follow_and_understand_how_to_build_your/)**
+by u/Hamdaddy1976
+
+**14. [Satelite Portable Radio](https://www.reddit.com/r/amateurradio/comments/1sh9lxi/satelite_portable_radio/)**
+by u/Anonymous_Chipmunk
+
+**15. [🛰️ Massive SSTV Event Incoming (Apr 10–14) — ISS + 3 Satellites Active](https://www.reddit.com/r/amateurradio/comments/1sh7m3d/massive_sstv_event_incoming_apr_1014_iss_3/)**
+by u/Ok-Ant7103
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [It's finally finished my all mode all band go box.](https://www.reddit.com/r/HamRadio/comments/1sfweqb/its_finally_finished_my_all_mode_all_band_go_box/)**
+**3. [Now, I'm an general! Not technician anymore](https://www.reddit.com/r/HamRadio/comments/1sgyj9l/now_im_an_general_not_technician_anymore/)**
+by u/S52_DiDah
+
+**4. [Logging on QSOs software. What is your pref and why?](https://www.reddit.com/r/HamRadio/comments/1sh4jqw/logging_on_qsos_software_what_is_your_pref_and_why/)**
+by u/Six-gun-W8evb
+
+**5. [HF - best time of day to transmit across the Atlantic from North America](https://www.reddit.com/r/HamRadio/comments/1sh1xqf/hf_best_time_of_day_to_transmit_across_the/)**
+by u/Estproph
+
+**6. [It's finally finished my all mode all band go box.](https://www.reddit.com/r/HamRadio/comments/1sfweqb/its_finally_finished_my_all_mode_all_band_go_box/)**
 by u/adhdff
 
-**4. [Local nets are ..... kind of cool?](https://www.reddit.com/r/HamRadio/comments/1sft3bw/local_nets_are_kind_of_cool/)**
-by u/Basket_475
+**7. [Fara-J antenna for 10 to 15 meters?](https://www.reddit.com/r/HamRadio/comments/1sgxf7j/faraj_antenna_for_10_to_15_meters/)**
+by u/rab127
 
-**5. [WSJT-X FT8 New software Version 3 was released yesterday. Works Well](https://www.reddit.com/r/HamRadio/comments/1sg41nb/wsjtx_ft8_new_software_version_3_was_released/)**
-by u/Sawyer2025
-
-**6. [Looking for recommendations for first non handheld radio](https://www.reddit.com/r/HamRadio/comments/1sgf6e4/looking_for_recommendations_for_first_non/)**
+**8. [Looking for recommendations for first non handheld radio](https://www.reddit.com/r/HamRadio/comments/1sgf6e4/looking_for_recommendations_for_first_non/)**
 by u/Liam_Moroney
 
-**7. [DIY ACC port cable for the Xeigu G90?](https://www.reddit.com/r/HamRadio/comments/1sgakkq/diy_acc_port_cable_for_the_xeigu_g90/)**
+**9. [WSJT-X FT8 New software Version 3 was released yesterday. Works Well](https://www.reddit.com/r/HamRadio/comments/1sg41nb/wsjtx_ft8_new_software_version_3_was_released/)**
+by u/Sawyer2025
+
+**10. [Local nets are ..... kind of cool?](https://www.reddit.com/r/HamRadio/comments/1sft3bw/local_nets_are_kind_of_cool/)**
+by u/Basket_475
+
+**11. [DIY ACC port cable for the Xeigu G90?](https://www.reddit.com/r/HamRadio/comments/1sgakkq/diy_acc_port_cable_for_the_xeigu_g90/)**
 by u/Dex21772
 
-**8. [Would this be useful once I get my license?](https://www.reddit.com/r/HamRadio/comments/1sfvvmw/would_this_be_useful_once_i_get_my_license/)**
+**12. [Would this be useful once I get my license?](https://www.reddit.com/r/HamRadio/comments/1sfvvmw/would_this_be_useful_once_i_get_my_license/)**
 by u/TemporaryAardvark907
 
-**9. [Questions about the EE-8-B field telephone (hope this is the correct subreddit)](https://www.reddit.com/r/HamRadio/comments/1sgge6a/questions_about_the_ee8b_field_telephone_hope/)**
+**13. [Questions about the EE-8-B field telephone (hope this is the correct subreddit)](https://www.reddit.com/r/HamRadio/comments/1sgge6a/questions_about_the_ee8b_field_telephone_hope/)**
 by u/Random-_-Stuff-
 
-**10. [Help Keep a Repeater Legacy on the Air](https://www.reddit.com/r/HamRadio/comments/1sfrkj0/help_keep_a_repeater_legacy_on_the_air/)**
+**14. [Help Keep a Repeater Legacy on the Air](https://www.reddit.com/r/HamRadio/comments/1sfrkj0/help_keep_a_repeater_legacy_on_the_air/)**
 by u/carnifaxalpha
 
-**11. [Learning SMD Soldering? Special equipment?](https://www.reddit.com/r/HamRadio/comments/1sfzdck/learning_smd_soldering_special_equipment/)**
-by u/JumpPsychological602
-
-**12. [Need help identifing my late brother's ham radio collection](https://www.reddit.com/r/HamRadio/comments/1sfbrjt/need_help_identifing_my_late_brothers_ham_radio/)**
-by u/ImaginaryTeapot
-
-**13. [Is this a standard inversion scrambler or not?](https://www.reddit.com/r/HamRadio/comments/1sfk4nn/is_this_a_standard_inversion_scrambler_or_not/)**
+**15. [Is this a standard inversion scrambler or not?](https://www.reddit.com/r/HamRadio/comments/1sfk4nn/is_this_a_standard_inversion_scrambler_or_not/)**
 by u/homosapiens64
-
-**14. [Wanted to share my PRC-77 at home, AKA FT-891 Field Pack!](https://www.reddit.com/r/HamRadio/comments/1sedhkr/wanted_to_share_my_prc77_at_home_aka_ft891_field/)**
-by u/AurumProspector
-
-**15. [I got FT8CN working, made contacts, and received an eQSL](https://www.reddit.com/r/HamRadio/comments/1sewhks/i_got_ft8cn_working_made_contacts_and_received_an/)**
-by u/lassmanac
 
 ---
 
@@ -109,15 +109,15 @@ by u/lassmanac
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sdy76s/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Just got the international space station over Wisconsin!](https://www.reddit.com/r/amateurradio/comments/1sfuqhi/just_got_the_international_space_station_over/)** (r/amateurradio)
-- **[Artemis on 2m at 145.173MHz in Manitoba](https://www.reddit.com/r/amateurradio/comments/1sge4er/artemis_on_2m_at_145173mhz_in_manitoba/)** (r/amateurradio)
-- **[My Compact 40M/20M dual band antenna.](https://www.reddit.com/r/amateurradio/comments/1sg18u4/my_compact_40m20m_dual_band_antenna/)** (r/amateurradio)
-- **[It's finally finished! My self contained all band all mode go box.](https://www.reddit.com/r/amateurradio/comments/1sfv80g/its_finally_finished_my_self_contained_all_band/)** (r/amateurradio)
-- **[Radioaficionado y Scout](https://www.reddit.com/r/amateurradio/comments/1sg6k08/radioaficionado_y_scout/)** (r/amateurradio)
-- **[POTA activation videos](https://www.reddit.com/r/amateurradio/comments/1sg8dme/pota_activation_videos/)** (r/amateurradio)
-- **[WSJT-X FT8 New software Version 3 was released yesterday. Works Well](https://www.reddit.com/r/amateurradio/comments/1sg3y8j/wsjtx_ft8_new_software_version_3_was_released/)** (r/amateurradio)
-- **[For vertical antennas, are radials of different lengths the best way t...](https://www.reddit.com/r/amateurradio/comments/1sg9p1i/for_vertical_antennas_are_radials_of_different/)** (r/amateurradio)
-- **[I have a couple of old TNCS I came across. A Kantronics KAM Plus and a...](https://www.reddit.com/r/amateurradio/comments/1sgapee/i_have_a_couple_of_old_tncs_i_came_across_a/)** (r/amateurradio)
+- **[NASA On The Air](https://www.reddit.com/r/amateurradio/comments/1sh64u4/nasa_on_the_air/)** (r/amateurradio)
+- **[Have a laugh while I setup my antennas 🤣🤣](https://www.reddit.com/r/amateurradio/comments/1sh8wwz/have_a_laugh_while_i_setup_my_antennas/)** (r/amateurradio)
+- **[Good news: My 22yo niece passed her General Exam. Bad news...](https://www.reddit.com/r/amateurradio/comments/1sgog2a/good_news_my_22yo_niece_passed_her_general_exam/)** (r/amateurradio)
+- **[Took the 857 go box out for a POTA activation this morning and it perf...](https://www.reddit.com/r/amateurradio/comments/1sh2xn2/took_the_857_go_box_out_for_a_pota_activation/)** (r/amateurradio)
+- **[I need some opinions and advice](https://www.reddit.com/r/amateurradio/comments/1shffjj/i_need_some_opinions_and_advice/)** (r/amateurradio)
+- **[EME Moon Ephemeris 2025–2040 • Yearly Overview by SA5IKN](https://www.reddit.com/r/amateurradio/comments/1shjkqk/eme_moon_ephemeris_20252040_yearly_overview_by/)** (r/amateurradio)
+- **[Request for help, tank antenna "ASH-4" and radials.](https://www.reddit.com/r/amateurradio/comments/1sheyc1/request_for_help_tank_antenna_ash4_and_radials/)** (r/amateurradio)
+- **[Why is propagation always so good when band conditions are "bad"?](https://www.reddit.com/r/amateurradio/comments/1sh484l/why_is_propagation_always_so_good_when_band/)** (r/amateurradio)
+- **[What’s this antenna my neighbor is getting rid of?](https://www.reddit.com/r/amateurradio/comments/1sh740p/whats_this_antenna_my_neighbor_is_getting_rid_of/)** (r/amateurradio)
 
 ---
 

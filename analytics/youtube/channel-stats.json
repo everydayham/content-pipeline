@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-06T12:53:14.749645",
+  "updated": "2026-04-13T13:06:33.130762",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "m135mgKRZgGAAj0KuknL71jvVr4",
+    "etag": "aXHa82ZAn4q4LDWlDHVecYunaHI",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,142 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "155589",
-      "subscriberCount": "1660",
+      "viewCount": "158566",
+      "subscriberCount": "1680",
       "hiddenSubscriberCount": false,
-      "videoCount": "121"
+      "videoCount": "123"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "YtfTXveEQVDFSyGQsKmAzFp9ZY4",
+      "etag": "XG_fAmeCgrDQY5FjUrqMkghwAMA",
+      "id": "YSZ2yiiWRGo",
+      "snippet": {
+        "publishedAt": "2026-04-09T19:31:01Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
+        "description": "Jim (N8JRD) might have heard Artemis II on his radio and he is not sure how to feel about it. Watch the full episode on the channel! @EverydayHam\n#hamradio #AmateurRadio #ArtemisII #NASA #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YSZ2yiiWRGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YSZ2yiiWRGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YSZ2yiiWRGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YSZ2yiiWRGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YSZ2yiiWRGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "#hamradio #AmateurRadio #ArtemisII #NASA #Shorts"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
+          "description": "Jim (N8JRD) might have heard Artemis II on his radio and he is not sure how to feel about it. Watch the full episode on the channel! @EverydayHam\n#hamradio #AmateurRadio #ArtemisII #NASA #Shorts"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1306",
+        "likeCount": "34",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DCwosz26bWpa8qeXWzZgYwYcGss",
+      "id": "nFmV750qMPY",
+      "snippet": {
+        "publishedAt": "2026-04-09T13:01:34Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Returning to the Moon: Optimism & Technology that Moves Our Space Needle",
+        "description": "We take a beat to discuss the recent Artemis II mission, the technology, and the optimism and excitement about sending humans back to the Moon after 50 years! This time on the Everyday Ham monthly podcast, we're discussing the technology, communications, and general mission firsts that make humanity's return to deep space a launching point for future scientific exploration. \n\nJoin us for a lighter topic this month and leave your thoughts on NASA's Artemis II in the comments below!\n\n0:00 Intro\n0:51 Around the Shack: N8JRD\n1:50 Balancing Radio and Life\n2:44 Xiegu G90 Portable Kit\n5:51 W8KNX Updates\n7:58 QSO Party Updates\n9:51 Recognizing New Members\n11:10 K8JKU Returns from Hawaii\n11:51 POTA on the Island: Lessons Learned\n14:31 Upcoming Grand Canyon Activation Details\n18:17 Artemis II Nerd-Out Chat\n19:47 Getting the Toilet out of our System\n23:15 Remembering the Shuttle Missions\n23:53 Did Space Become Boring?\n26:09 Size of the Artemis II Crew Capsule and Creature Comforts\n27:07 Advancing Computing Technology\n27:31 Microsoft Outlook is Still Broken\n29:30 Radio Blackout\n31:25 Communication with the Deep Space Network\n32:13 O2O Infrared Laser Communication\n37:30 Mission Skeptics\n38:25 Camera Systems and Imagery\n43:05 Recognizing the Amateurs on the Mission (KF5LKT, KI5BKC, KF5LKU)\n43:50 Volunteers Helping Track Artemis Transmissions\n45:35 Jim Thinks He Can Hear Space\n46:10 Linking Crew Comms to the Repeater Network\n48:50 NASA Plays Pink Pony Club But Skips the Chorus\n50:27 Repeater on the Moon?\n51:13 Lovell's Message to the Artemis II Crew\n51:16 Planning Artemis II and the Future of Humanity in Space\n53:20 Hearing the Artemis II Astronaut Messages\n54:02 73 from the Team\n\nFollow Everyday Ham:\n\ud83c\udf99 Website: https://www.everydayham.com\n\ud83d\udcfa YouTube: https://www.youtube.com/@EverydayHam\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\nDon't miss a single episode! Follow us on Apple Podcasts, Spotify, Overcast, and more -- links at EverydayHam.com.\n\n#hamradio #AmateurRadio #POTA #ArtemisII #NASA #Moon #DeepSpace #HamRadioSpace #Podcast #STEM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFmV750qMPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFmV750qMPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFmV750qMPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFmV750qMPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFmV750qMPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham Radio",
+          "Amateur Radio",
+          "POTA",
+          "Parks on the Air",
+          "Xiegu G90",
+          "POTA Hawaii",
+          "HF Radio",
+          "Portable Ham Radio",
+          "DX Contacts",
+          "DXCC",
+          "Michigan QSO Party",
+          "NASA Artemis",
+          "Space and Ham Radio",
+          "ISS Amateur Radio",
+          "Deep Space Network"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Returning to the Moon: Optimism & Technology that Moves Our Space Needle",
+          "description": "We take a beat to discuss the recent Artemis II mission, the technology, and the optimism and excitement about sending humans back to the Moon after 50 years! This time on the Everyday Ham monthly podcast, we're discussing the technology, communications, and general mission firsts that make humanity's return to deep space a launching point for future scientific exploration. \n\nJoin us for a lighter topic this month and leave your thoughts on NASA's Artemis II in the comments below!\n\n0:00 Intro\n0:51 Around the Shack: N8JRD\n1:50 Balancing Radio and Life\n2:44 Xiegu G90 Portable Kit\n5:51 W8KNX Updates\n7:58 QSO Party Updates\n9:51 Recognizing New Members\n11:10 K8JKU Returns from Hawaii\n11:51 POTA on the Island: Lessons Learned\n14:31 Upcoming Grand Canyon Activation Details\n18:17 Artemis II Nerd-Out Chat\n19:47 Getting the Toilet out of our System\n23:15 Remembering the Shuttle Missions\n23:53 Did Space Become Boring?\n26:09 Size of the Artemis II Crew Capsule and Creature Comforts\n27:07 Advancing Computing Technology\n27:31 Microsoft Outlook is Still Broken\n29:30 Radio Blackout\n31:25 Communication with the Deep Space Network\n32:13 O2O Infrared Laser Communication\n37:30 Mission Skeptics\n38:25 Camera Systems and Imagery\n43:05 Recognizing the Amateurs on the Mission (KF5LKT, KI5BKC, KF5LKU)\n43:50 Volunteers Helping Track Artemis Transmissions\n45:35 Jim Thinks He Can Hear Space\n46:10 Linking Crew Comms to the Repeater Network\n48:50 NASA Plays Pink Pony Club But Skips the Chorus\n50:27 Repeater on the Moon?\n51:13 Lovell's Message to the Artemis II Crew\n51:16 Planning Artemis II and the Future of Humanity in Space\n53:20 Hearing the Artemis II Astronaut Messages\n54:02 73 from the Team\n\nFollow Everyday Ham:\n\ud83c\udf99 Website: https://www.everydayham.com\n\ud83d\udcfa YouTube: https://www.youtube.com/@EverydayHam\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\nDon't miss a single episode! Follow us on Apple Podcasts, Spotify, Overcast, and more -- links at EverydayHam.com.\n\n#hamradio #AmateurRadio #POTA #ArtemisII #NASA #Moon #DeepSpace #HamRadioSpace #Podcast #STEM"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "116",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1EZMzP9vkeXvkWWZFsS5eN7NWsM",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -105,7 +231,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "558",
+        "viewCount": "566",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -113,7 +239,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3atxC2um8kc5xjJz56bypcycrCo",
+      "etag": "DPLSYBazwsj_FldoJO1vOII-96w",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -175,15 +301,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "718",
-        "likeCount": "35",
+        "viewCount": "801",
+        "likeCount": "40",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "20"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "suDTd0rdzaSq4LL2CncOPt2U92s",
+      "etag": "e9c9CZxDXaeuewrKkf1CDN87xM4",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -246,15 +372,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "379",
-        "likeCount": "27",
+        "viewCount": "397",
+        "likeCount": "28",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DXAcPQ1bNYwc5RNjY-snj_77xro",
+      "etag": "M-FdvMZVSkx8xDpOzTcAPpIz-Pg",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -317,7 +443,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "807",
+        "viewCount": "814",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -325,7 +451,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UeIy__9FUKLgzml5csOLD60qyak",
+      "etag": "pYNhRFs08XbVxOtvhHCnI0xYs4o",
       "id": "4dP7kktHK0k",
       "snippet": {
         "publishedAt": "2026-03-12T14:00:07Z",
@@ -389,7 +515,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "173",
+        "viewCount": "177",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -397,7 +523,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WiSAMGRaPZ9Tdwh2uAQZRGFE0Lw",
+      "etag": "N1CXPX9_YHpw03C90DmWc0WbIJ0",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -460,7 +586,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1230",
+        "viewCount": "1231",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -468,7 +594,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "si588U4CD-RzsI-1cMBYC7dI9Pg",
+      "etag": "Imw95f0cCHQ3_el3TBFWWmq0Byg",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -530,7 +656,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "554",
+        "viewCount": "566",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -538,7 +664,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9CN3Mp3OhaV3Jr5vHbaKaa8w-eg",
+      "etag": "1FLXaNuwyObfPvrslpI3511ov28",
       "id": "Koz7XST0tKw",
       "snippet": {
         "publishedAt": "2026-03-05T15:31:48Z",
@@ -601,7 +727,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "173",
+        "viewCount": "175",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -609,7 +735,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bHFmlMq2ZTWErz-3sLB3LOd6ppM",
+      "etag": "4GsEtv0znpCCYyuFD0_Y2RiFbpU",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -674,7 +800,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1581",
+        "viewCount": "1585",
         "likeCount": "69",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -682,7 +808,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nUoGwEdglCyFJBSwR9V1xgbGPe0",
+      "etag": "Z715dfHHiI_eb6n4smJy-i7xq9I",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -745,7 +871,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "408",
+        "viewCount": "420",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -753,7 +879,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_Qyx7lvc3rfKK2VUOb-FEFH5yxE",
+      "etag": "VMjf-k46ES9DcO--LUEhi0PnypE",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -816,7 +942,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4914",
+        "viewCount": "4947",
         "likeCount": "176",
         "favoriteCount": "0",
         "commentCount": "22"
@@ -824,7 +950,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ah12iWkOl5HKwbS-75bBNXXhAjs",
+      "etag": "Uc2hpleZN6mHgI5EYuWTjjhZxf0",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -886,7 +1012,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "300",
+        "viewCount": "301",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -894,7 +1020,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vST8_7BYIJowK6jPo8_3S2-jSnE",
+      "etag": "fNyBatrBitOSof7ZG1B61r2LpC4",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -947,7 +1073,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1079",
+        "viewCount": "1084",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -955,7 +1081,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "icwMt9QJs8E4C3ghlkDDVzkqGHk",
+      "etag": "pGDBziKtJF57VVs0NNgrFPqIvQ8",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -1000,7 +1126,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "433",
+        "viewCount": "434",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1008,7 +1134,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Caot8N026ptaZMo3MyxqdSRe40Y",
+      "etag": "MNEY1QaC29zleUfMHOH09HV06CI",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -1072,15 +1198,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1482",
+        "viewCount": "1535",
         "likeCount": "36",
         "favoriteCount": "0",
-        "commentCount": "6"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m3CFvAE6FMy-jdyIFCwDENzpEK4",
+      "etag": "sDrDi8lVITbFfIM2pgKQbOxpOUw",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -1143,15 +1269,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2527",
-        "likeCount": "94",
+        "viewCount": "2553",
+        "likeCount": "95",
         "favoriteCount": "0",
-        "commentCount": "16"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bNeUMPrfKbdR65H32H6ssrSXOt4",
+      "etag": "6cFNs-CAIQiIt9vXcgOIbJnn-8Y",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -1213,7 +1339,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "274",
+        "viewCount": "279",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1345,7 +1471,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9u2624IP3IlNoJGhiSykPoIEjhA",
+      "etag": "34TONvbtDz5VonRBDZh6tkZyml0",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -1409,7 +1535,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "552",
+        "viewCount": "556",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -1488,7 +1614,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0xzxhx9encFi4TdZ06mX01CAgSw",
+      "etag": "c_ga9FBdQ9oIlzhnxWlX9u8Ss44",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -1552,7 +1678,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "451",
+        "viewCount": "452",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1560,7 +1686,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IKisaHQnlbt50MHkGwamTaXJjcY",
+      "etag": "fEKmbHoVG8gVqPtUeD1i8oJU5T8",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -1605,7 +1731,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "834",
+        "viewCount": "836",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1613,7 +1739,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M4qwM0gHcjrGS9BfxncPSJ-nVC0",
+      "etag": "17OwKfWbwf7FpHOAPkM6JNczRIg",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -1677,15 +1803,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3077",
-        "likeCount": "101",
+        "viewCount": "3173",
+        "likeCount": "105",
         "favoriteCount": "0",
         "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aHePT0-qT2OWUP7K2qC60IORZNc",
+      "etag": "7OoGoYta8BAeGtY834c9tQOoYN8",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -1730,7 +1856,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "272",
+        "viewCount": "273",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1844,7 +1970,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PgS71umnl2NrwsgG5o0UEllrWEM",
+      "etag": "IMsQVkkJTrDQTZ06JHRrahmVq6I",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -1911,15 +2037,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2920",
-        "likeCount": "119",
+        "viewCount": "2959",
+        "likeCount": "120",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "S5v_R04PsbssvKJTdbzVTdHE754",
+      "etag": "8VhdYxAN6fEw1IcgzKd9GEnLonU",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -1982,7 +2108,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "137",
+        "viewCount": "139",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1990,7 +2116,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "73sIncWmeE-0a_m8szjDPSNspbs",
+      "etag": "E-o6RDdgi37q58Hp1k11M4aDdy8",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -2035,7 +2161,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4511",
+        "viewCount": "4513",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2043,7 +2169,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "is38rdZ-oHTCMsoE4oBdGGpZs3Q",
+      "etag": "JSruSWCvY__ppVCN5W0MpmQbxoc",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -2088,7 +2214,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1563",
+        "viewCount": "1592",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2096,7 +2222,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NlHzXi8vZy4kjslMukpY-K5HWxw",
+      "etag": "yyZ8qVhyfsI86BgWR5QeHhnrpRM",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -2159,7 +2285,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "795",
+        "viewCount": "797",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -2167,7 +2293,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rvsddtL8HBOQOARBvkPSgIk0IZ0",
+      "etag": "NdUWVnWL-XqHijz2_3rrGo7Bsug",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -2225,7 +2351,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "971",
+        "viewCount": "973",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2304,7 +2430,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "83SxCcZ_rZWTz-Nw2u-5KwpPGhI",
+      "etag": "CKG9_op4x5fk31HXwmsHFnwxSpU",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -2367,8 +2493,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "340",
-        "likeCount": "18",
+        "viewCount": "344",
+        "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -2481,7 +2607,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nP-IgTo6LOe1P93mSJyCj8bTMRI",
+      "etag": "inBwakR_ydn9wZY5KgU0XgJf1cs",
       "id": "BfnyZLXdTH0",
       "snippet": {
         "publishedAt": "2025-12-04T17:15:01Z",
@@ -2549,7 +2675,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "564",
+        "viewCount": "578",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2557,7 +2683,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uR6VfFTvW_H5u5Qi9OR2VKiNq4A",
+      "etag": "y50TJqvwFQGiRJiXibgSwTsq93I",
       "id": "wlmmJhByEO4",
       "snippet": {
         "publishedAt": "2025-12-04T17:01:42Z",
@@ -2626,7 +2752,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1311",
+        "viewCount": "1318",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2776,7 +2902,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "td_-h1E03ijNJL_Fy98HjMKUKoM",
+      "etag": "QHslv0LMQ5fAfStyd-7LJPo9h2c",
       "id": "ukBmPLoZ5Z4",
       "snippet": {
         "publishedAt": "2025-11-20T22:24:07Z",
@@ -2821,15 +2947,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "867",
-        "likeCount": "28",
+        "viewCount": "878",
+        "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rAwYjxiRWwOmSyYcY4rLfp4uQPQ",
+      "etag": "tVh58II6P6P3rQR32GnUtO8QTgo",
       "id": "NRCz6H0BpZI",
       "snippet": {
         "publishedAt": "2025-11-20T16:01:16Z",
@@ -2896,15 +3022,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "512",
-        "likeCount": "25",
+        "viewCount": "527",
+        "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BKj_gLKiiEozRbvGIu7ZfFeULP4",
+      "etag": "LpfSZHhwSSok8E5mylgXnoa0i1s",
       "id": "sAGV73vzm24",
       "snippet": {
         "publishedAt": "2025-11-17T01:31:25Z",
@@ -2966,7 +3092,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "945",
+        "viewCount": "946",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -3252,162 +3378,6 @@
         "likeCount": "46",
         "favoriteCount": "0",
         "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-us2UNZr9DOKLSctQ5uSzwnpZgY",
-      "id": "77VS3pzGjCc",
-      "snippet": {
-        "publishedAt": "2025-11-07T17:55:54Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-        "description": "IC-7300 Mark II Expected Price: $1,499.95  Icom is positioning the Mark II right where it needs to be - competing directly with the Yaesu FTdx10 as the perfect first HF radio. At $1,499, it's building on the legacy of the original 7300 with improved I/O, better interface, and features that show Icom listened to users.  The question is: IC-7300 Mark II or FTdx10? Which would you choose?  Watch the full episode: [Link to full Episode 11]  Hosted by James Mills K8JKU, Jim Davis N8JRD, and Rory Locke W8KNX  Subscribe for more ham radio news, gear reviews, and real talk about the hobby!  #HamRadio #AmateurRadio #IC7300MarkII #Icom #HFRadio #FTdx10 #Yaesu #RadioReview #HamRadioGear #EverydayHam",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/77VS3pzGjCc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/77VS3pzGjCc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/77VS3pzGjCc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/77VS3pzGjCc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/77VS3pzGjCc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "IC-7300 Mark II",
-          "IC-7300 MKII",
-          "Icom",
-          "ham radio",
-          "amateur radio",
-          "HF radio",
-          "FTdx10",
-          "Yaesu",
-          "radio price",
-          "new radio",
-          "ham radio gear",
-          "radio review",
-          "first HF radio",
-          "entry level radio",
-          "everyday ham",
-          "radio comparison",
-          "IC-7300 vs FTdx10",
-          "ham radio news",
-          "2025 radio",
-          "radio equipment",
-          "beginner ham radio",
-          "HF transceiver",
-          "base station",
-          "shack radio",
-          "ham radio podcast",
-          "radio pricing",
-          "amateur radio equipment",
-          "new ham",
-          "general class",
-          "radio operators"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-          "description": "IC-7300 Mark II Expected Price: $1,499.95  Icom is positioning the Mark II right where it needs to be - competing directly with the Yaesu FTdx10 as the perfect first HF radio. At $1,499, it's building on the legacy of the original 7300 with improved I/O, better interface, and features that show Icom listened to users.  The question is: IC-7300 Mark II or FTdx10? Which would you choose?  Watch the full episode: [Link to full Episode 11]  Hosted by James Mills K8JKU, Jim Davis N8JRD, and Rory Locke W8KNX  Subscribe for more ham radio news, gear reviews, and real talk about the hobby!  #HamRadio #AmateurRadio #IC7300MarkII #Icom #HFRadio #FTdx10 #Yaesu #RadioReview #HamRadioGear #EverydayHam"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "794",
-        "likeCount": "17",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0dgqZNmEAPWmk1vUwMAiSJKtlPs",
-      "id": "eiH0dJwnhnU",
-      "snippet": {
-        "publishedAt": "2025-11-27T17:26:52Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eiH0dJwnhnU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Can You Put Up An Antenna? The HOA Bill Fight & IC-7300 Mark II",
-          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA thousand subscribers may be a milestone, but the real win is what it represents: a growing community of hams trading ideas, trying new modes, and pushing for the right to put real antennas on real roofs. We open with momentum\u2014POTA activations, contest firsts, and new video drops\u2014then move straight into the issue shaping the future of the hobby: ARRL\u2019s grassroots effort to pass the Amateur Radio Emergency Preparedness Act (HR 1094/S.459). If HOAs block antennas where most new homes are built, fewer operators will get on the air. We explain the stakes, the opposition from CAI, and the surprisingly easy way to send a letter that reaches your representatives in minutes.\n\nWe also get practical about life in the shack and on the road. Running 500 to 1,000 watts through contest weekend revealed where filters shine and where they need tuning, and winter prep is now or never\u2014check matches, weatherproof connectors, and tighten your grounding. On the mobile side, an EV install in a Mach\u2011E delivered clean VHF/UHF performance with smart power routing and a 3D\u2011printed head mount, plus notes on AM noise under acceleration. If you\u2019ve avoided EVs for RF reasons, this is a reality check rooted in measurements, not myths.\n\nGear watchers get plenty to chew on. The Icom IC\u20117300 Mark II looks set to land around $1,499, squaring up against the Yaesu FTdx10 with modernized I/O and familiar ease of use. But the U.S. government shutdown is delaying FCC certifications across categories, which could push new radio launches past the holidays. Meanwhile, used IC\u20117300 prices are compelling, making it a standout first HF rig. We wrap with FlexRadio\u2019s SmartSDR 4.0\u2014meaningful noise\u2011reduction improvements, a flexible subscription model, and a few early\u2011release quirks to monitor.\n\nIf you care about the bands staying lively and accessible, this conversation matters. Tune in, tell us if you\u2019re backing the ARRL letter, weigh in on 7300 Mark II vs FTdx10, and share your winter station game plan. Subscribe, leave a review on Apple Podcasts or Spotify, and pass this along to a friend who\u2019s antenna\u2011curious.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "40",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ]

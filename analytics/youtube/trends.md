@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-04-20 13:12 UTC*
+*Last updated: 2026-04-27 13:21 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Sota chempala sokuloda nalanalati jumpaloda#telang... | BB Creation 2023 | 3,195,502 | 2026-04-15 |
-| TX to FL#hobby #progress #practice #hamradio #radi... | Hobby Steve  | 1,472,433 | 2026-04-16 |
-| Pota Aur Kaleji Desi Murge Ki Khani He Khani Hoti ... | ticket2 explore | 1,015,909 | 2026-04-15 |
-| Chicken Pota Recipe  | Healthy Chicken Gizzards Kh... | Easy Delights with A | 786,834 | 2026-04-15 |
-| Whistle kolam pota vote panam varadhu😂 #latest #ba... | naan babybro | 330,998 | 2026-04-19 |
-| Dada vs Pota 😂 ( Reality Check) | Kuldeep Singhani... | LION-SHORT | 321,186 | 2026-04-15 |
-| Dany kutty Pota😳🥹 #sugarglidertamil #sugargliderba... | BLACKLIST NAVEEN | 280,570 | 2026-04-19 |
-| Tag that person jo bohot late tak SOTA ho !  #tara... | Taarak Mehta Ka Oolt | 258,331 | 2026-04-17 |
-| Valaki beszél a RÁDIÓMBA😱 | Vidéki Man | 214,713 | 2026-04-15 |
-| 20代部門 1位 SOTA King 👑🌹,音楽の人間的具現化#BEFIRST#SOTA | NINA_BESTY | 195,053 | 2026-04-15 |
-| attagaarantee tezuku pota. #shorts #song | Y Shyamala | 189,951 | 2026-04-18 |
-| Sonu Ka Pota Kaleji Aur Pahadi Mutton Aur Moti Ski... | ticket2 explore | 172,448 | 2026-04-17 |
-| Maa Pota Dil Chu Lena Kahaani: Rula Degi Ye Sachhi... | Story Telling 2.0 | 163,622 | 2026-04-14 |
-| BE:FIRST 'BE:FIRST ALL DAY' #BF_ALLDAY #BEFIRST #S... | BE:FIRST Official | 127,697 | 2026-04-17 |
-| #aoen SOTA님・REO선배님과 함께 울리는 𝗙𝗥𝗘𝗔𝗞 𝗔𝗟𝗔𝗥𝗠  #ALPHADRIV... | ALPHA DRIVE ONE | 97,914 | 2026-04-15 |
-| 上級テクニック #befirst #sota #junon | BESTY FROM TOKYO | 89,946 | 2026-04-15 |
-| DJ COPINES POTA POTA SLOW BASS TREND FYP TIKTOK TE... | Pache Fvnky | 61,456 | 2026-04-18 |
-| SOTAは、バラのシンボルを用いてHANAを指す。#BEFIRST#BMSG#HANA | NINA_BESTY | 60,375 | 2026-04-18 |
-| 😍🥰Gym Se Aake Kon Sota Hai😘😋😋#minivlog #vairalshor... | ZAIKA -E- ABDUSANA | 59,230 | 2026-04-19 |
-| TX to CA #hamradio #antenna #hobby #morsecode #rad... | Hobby Steve  | 55,459 | 2026-04-14 |
-| GRANDPA'S HAM RADIO PICKS UP A SPACE STATION 📡👨‍🚀😂 | Warm Heart Chronicle | 53,804 | 2026-04-20 |
-| Chicken Pota Kaleji Curry Recipe #shorts #ytshorts... | Aditi & Hubby Cookin | 49,045 | 2026-04-18 |
-| General Trading License in Dubai 2026 | Cost, Acti... | ANUVI Business Solut | 38,518 | 2026-04-15 |
-|  पंडित बाबा Pandit Baba ll Mahla Sota Comedy Video... | Bablu Hansda Officia | 38,126 | 2026-04-16 |
-| My Review Of The Midland MXT115P Pro GMRS Mobile R... | NotaRubicon Producti | 38,019 | 2026-04-15 |
+| Behind the scene vs the result 🎥 dadi pota transfo... | Bihari Ladka | 8,278,263 | 2026-04-22 |
+| unga vote ah vera oruthar pota enna nadakkum? #tvk... | Oruvan | 702,446 | 2026-04-24 |
+| Pota Kitna Bada Hai #eating #pota #potakaleji #par... | ticket2 explore | 495,060 | 2026-04-23 |
+| 💥 Ada bro Vote Pota 20% Offer uh ⁉️ #shorts Aaladi... | 1 Million Views Tami | 459,814 | 2026-04-21 |
+| naa amazon kaatula pota order  😮😂 #viralshort #tre... | Ajaydub Tamil | 307,033 | 2026-04-21 |
+| Sota chempala sokuloda nalanalati jumpaloda telang... | Kalyani Banjara | 304,753 | 2026-04-22 |
+| MANATO, SOTA, RYUHEI 🎤🌹, Special Live平安神宮#BEFIRST#... | NINA_BESTY | 300,030 | 2026-04-24 |
+| CHICKEN GIZZARD | CHICKEN KALEJI #potakaleji #shor... | Iqra Village Food  | 292,532 | 2026-04-24 |
+| Enga cover pota enga open aakuthu ana bed la thoon... | Voice of Santhosh | 289,489 | 2026-04-26 |
+| GRANDPA'S HAM RADIO PICKS UP A SPACE STATION | Mystery Chronicle | 146,232 | 2026-04-20 |
+| 4Runner antenna 🔥🔥#hobby #hamradio #antenna #hamra... | Hobby Steve  | 143,672 | 2026-04-22 |
+| #Video | कमर धके सोता है | #Arvind Akela Kallu & #... | Maa Gayatri Records | 128,696 | 2026-04-21 |
+| 【激写】福士蒼汰の熱愛相手! #福士蒼汰 #男性芸能人 #芸能人 #fyp | 瞬間ダイジェスト | 119,547 | 2026-04-22 |
+| 서울 한복판에서 무전기를 판다고? 구로정크 탐방 | Be주류K | 103,096 | 2026-04-23 |
+| TX to UT #morsecode #hobby #hamradio #hamradiolife... | Hobby Steve  | 101,073 | 2026-04-21 |
+| 大丈夫そ？#befirst  #sota #manato | BESTY FROM TOKYO | 90,237 | 2026-04-25 |
+| doston Anaya ka bhai kab tak sota rahega 😳 Meri py... | Puzzle Creator | 83,055 | 2026-04-23 |
+| 【 BE:FIRST 】 ⚽️ SOTA ･ RYUHEI ･ JUNON #BEFIRST #BE... | まる【 BE:FIRST 切り抜き】 | 77,470 | 2026-04-23 |
+| Cyber Truck antenna! Thanks David at East Dock! #h... | Hobby Steve  | 63,909 | 2026-04-20 |
+| Papa Di Hatti Ki Dono Dukano Se Pota Kaleji Aur Mu... | ticket2 explore | 62,536 | 2026-04-24 |
+| Enaku Ponnu Getup pota Epadi irukum🤔 💄 🤩 #youtubes... | KR Uravu தமிழ் HARIS | 60,617 | 2026-04-24 |
+| #BEFIRST#mtvunplugged 踊らない#GRIT かっこよすぎて衝撃🫨❤️‍🔥#MAN... | BE:HAPPY | 59,523 | 2026-04-26 |
+| Another CB Radio Operator Arrested, Ham Radio On T... | NotaRubicon Producti | 51,983 | 2026-04-22 |
+| 2kg pota kaleji 90 second me khao 3500₹ cash 🍗 le ... | Hungry Vishal Show | 48,972 | 2026-04-24 |
+| Main farsh par sota hoon - Mufti Tariq Masood 😴✨ | Qari Sardar Asif | 46,057 | 2026-04-21 |
 
 ---
 
@@ -42,14 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **License/Learning**: ████████████████████ (29 videos)
-- **POTA/Portable**: ████████████████████ (21 videos)
-- **HF Operating**: ████████████████████ (20 videos)
-- **Gear Reviews**: ████████████ (12 videos)
-- **Antennas**: ███████ (7 videos)
-- **Digital Modes**: ███ (3 videos)
+- **License/Learning**: ████████████████████ (27 videos)
+- **POTA/Portable**: ████████████████████ (25 videos)
+- **HF Operating**: ██████████████████ (18 videos)
+- **Antennas**: ██████████████ (14 videos)
+- **Gear Reviews**: ████████ (8 videos)
+- **QRP**: ██████ (6 videos)
 - **Contests**: ███ (3 videos)
-- **QRP**: ██ (2 videos)
+- **Digital Modes**: ██ (2 videos)
 
 ---
 

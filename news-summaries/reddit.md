@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-04-12 11:36 UTC*
+*Last updated: 2026-04-28 12:24 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sdy76s/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sx2znm/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Are there, like, *any* young people?](https://www.reddit.com/r/amateurradio/comments/1sj0gz3/are_there_like_any_young_people/)**
-by u/NotThePopeProbably
+**2. [First time seeing an antenna like this. Inverted Hexbeam? Spotted in Thailand.](https://www.reddit.com/r/amateurradio/comments/1sxwofi/first_time_seeing_an_antenna_like_this_inverted/)**
+by u/cao8881827555
 
-**3. [So I’ve been fighting with this noise….](https://www.reddit.com/r/amateurradio/comments/1sj3uyv/so_ive_been_fighting_with_this_noise/)**
-by u/Sea_Importance_4417
+**3. [The Prepper Delusion (New York Times)](https://www.reddit.com/r/amateurradio/comments/1sx776j/the_prepper_delusion_new_york_times/)**
+by u/rhodes553
 
-**4. [What is this ?](https://www.reddit.com/r/amateurradio/comments/1situyu/what_is_this/)**
-by u/Designer_Magazine_10
+**4. [License plates](https://www.reddit.com/r/amateurradio/comments/1sxnrcf/license_plates/)**
+by u/espresso-depresso83
 
-**5. [Anyone else running 88.5’](https://www.reddit.com/r/amateurradio/comments/1sivt87/anyone_else_running_885/)**
-by u/Sea_Importance_4417
+**5. [First POTA…if you’re on the fence just do it!](https://www.reddit.com/r/amateurradio/comments/1sx6ymg/first_potaif_youre_on_the_fence_just_do_it/)**
+by u/EricStratton63
 
-**6. [When you’re an HF enthusiast who also works at a record store.](https://www.reddit.com/r/amateurradio/comments/1sipa43/when_youre_an_hf_enthusiast_who_also_works_at_a/)**
-by u/SonicResidue
+**6. [Built a small Morse practice tool focused on tapping and visual patterns. Curiou...](https://www.reddit.com/r/amateurradio/comments/1sxiq3h/built_a_small_morse_practice_tool_focused_on/)**
+by u/hansungyu
 
-**7. [Easy 2m/70cm CW](https://www.reddit.com/r/amateurradio/comments/1sj0byr/easy_2m70cm_cw/)**
-by u/CoastalRadio
+**7. [Has anyone here who lives around the Gulf ever successfully made tropo ducted VH...](https://www.reddit.com/r/amateurradio/comments/1sxkpck/has_anyone_here_who_lives_around_the_gulf_ever/)**
+by u/EmotioneelKlootzak
 
-**8. [Which One of You Is Running 10m PACTOR Right Now?](https://www.reddit.com/r/amateurradio/comments/1sip8pm/which_one_of_you_is_running_10m_pactor_right_now/)**
-by u/Worried-Area5033
+**8. [Can someone tell me about this?](https://www.reddit.com/r/amateurradio/comments/1sxocmd/can_someone_tell_me_about_this/)**
+by u/scabridulousnewt002
 
-**9. [Secondhand kenwood tk3701D](https://www.reddit.com/r/amateurradio/comments/1sj7xer/secondhand_kenwood_tk3701d/)**
-by u/mitchell2820
+**9. [Loop on ground (but beneath)?](https://www.reddit.com/r/amateurradio/comments/1sxyt17/loop_on_ground_but_beneath/)**
+by u/lonestar2222003
 
-**10. [Our own blue marble](https://www.reddit.com/r/amateurradio/comments/1siyn7a/our_own_blue_marble/)**
-by u/Mt-Meeker
+**10. [Heavy-Duty Soldering Stand Base with Magnetic Parts Tray](https://www.reddit.com/r/amateurradio/comments/1sxqfuw/heavyduty_soldering_stand_base_with_magnetic/)**
+by u/anselscamera
 
-**11. [Home Station Supporting Platforms?](https://www.reddit.com/r/amateurradio/comments/1siy48k/home_station_supporting_platforms/)**
-by u/cl0123r
+**11. [Moving the Center of an Azimuthal Map](https://www.reddit.com/r/amateurradio/comments/1sxszod/moving_the_center_of_an_azimuthal_map/)**
+by u/BernieWatts4132
 
-**12. [Ham fest haul](https://www.reddit.com/r/amateurradio/comments/1siucuc/ham_fest_haul/)**
-by u/FlyCurious8305
+**12. [Best way to explain VHF simplex limitations to a new ham?](https://www.reddit.com/r/amateurradio/comments/1sxas9a/best_way_to_explain_vhf_simplex_limitations_to_a/)**
+by u/whats_in_the_boxlady
 
-**13. [In Asia right now - are there any ham radio stores or radios I should check out ...](https://www.reddit.com/r/amateurradio/comments/1sizvia/in_asia_right_now_are_there_any_ham_radio_stores/)**
-by u/ham-radio-police
+**13. [Aprs with ht and digirig](https://www.reddit.com/r/amateurradio/comments/1sxvru6/aprs_with_ht_and_digirig/)**
+by u/Just-Spot-3773
 
-**14. [New to Amateur Radio](https://www.reddit.com/r/amateurradio/comments/1sizg3y/new_to_amateur_radio/)**
-by u/DhamixsLi
+**14. [If hams could use any frequency, what would be the best band for DX?](https://www.reddit.com/r/amateurradio/comments/1sxfexp/if_hams_could_use_any_frequency_what_would_be_the/)**
+by u/w6auw
 
-**15. [Some ISS SSTV decodes from the last couple days 437.550](https://www.reddit.com/r/amateurradio/comments/1sim6ze/some_iss_sstv_decodes_from_the_last_couple_days/)**
-by u/d9jms
+**15. [LiFePO4 New ICAO Requirements for airline passengers were effective March 27, 20...](https://www.reddit.com/r/amateurradio/comments/1sx3mmh/lifepo4_new_icao_requirements_for_airline/)**
+by u/DaveInPhoenix1
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Finally! My IC-7300Mk2 arrives today!](https://www.reddit.com/r/HamRadio/comments/1sih2p6/finally_my_ic7300mk2_arrives_today/)**
-by u/CaptSpaulding73
+**3. [Heavy-Duty Soldering Stand Base with Magnetic Parts Tray](https://www.reddit.com/r/HamRadio/comments/1sxqh5f/heavyduty_soldering_stand_base_with_magnetic/)**
+by u/anselscamera
 
-**4. [Why does this hobby have to be so expensive?](https://www.reddit.com/r/HamRadio/comments/1sim476/why_does_this_hobby_have_to_be_so_expensive/)**
-by u/Glitchy_Magician_666
+**4. [How do we feel about these stubby antennas for edc?](https://www.reddit.com/r/HamRadio/comments/1sxj6ce/how_do_we_feel_about_these_stubby_antennas_for_edc/)**
+by u/bluebagles
 
-**5. [Found the best beginner handheld?](https://www.reddit.com/r/HamRadio/comments/1siznvn/found_the_best_beginner_handheld/)**
-by u/JettM9104
+**5. [Recommendations for a WW2 military CW key that I can use?](https://www.reddit.com/r/HamRadio/comments/1sxtsq5/recommendations_for_a_ww2_military_cw_key_that_i/)**
+by u/leicanthrope
 
-**6. [AnyTone AT-D890UV and 66-88 MHz?](https://www.reddit.com/r/HamRadio/comments/1sj9s1l/anytone_atd890uv_and_6688_mhz/)**
-by u/timnis
+**6. [Unknown icon on Radioddity GS-10B](https://www.reddit.com/r/HamRadio/comments/1sxrojv/unknown_icon_on_radioddity_gs10b/)**
+by u/leicanthrope
 
-**7. [My first ISS-SSTV Image with my handmade Yagi antenna!](https://www.reddit.com/r/HamRadio/comments/1sibis2/my_first_isssstv_image_with_my_handmade_yagi/)**
-by u/Mr-TA3WOA
+**7. [New operator looking for advice](https://www.reddit.com/r/HamRadio/comments/1sxth3x/new_operator_looking_for_advice/)**
+by u/TioPeter_
 
-**8. [I'm wondering if I could use this for a cw keyer and how would I wire it up](https://www.reddit.com/r/HamRadio/comments/1sitre2/im_wondering_if_i_could_use_this_for_a_cw_keyer/)**
-by u/cryptoleadpro
+**8. [Need help finding an antenna for my rig.](https://www.reddit.com/r/HamRadio/comments/1sxvlv1/need_help_finding_an_antenna_for_my_rig/)**
+by u/Teriana4
 
-**9. [Anyone ever had a digirig (mobile) randomly quit on them?](https://www.reddit.com/r/HamRadio/comments/1siuwzc/anyone_ever_had_a_digirig_mobile_randomly_quit_on/)**
-by u/adhdff
+**9. [TYT THR-5200 repeater DTMF kill/stun feature?](https://www.reddit.com/r/HamRadio/comments/1sxh0cm/tyt_thr5200_repeater_dtmf_killstun_feature/)**
+by u/nonthinkerman
 
-**10. [Caught a video of lightning on my sdr at the same time as the flash.](https://www.reddit.com/r/HamRadio/comments/1si8qay/caught_a_video_of_lightning_on_my_sdr_at_the_same/)**
-by u/razulaxr
+**10. [What's The Purpose When You're In A Dead Area](https://www.reddit.com/r/HamRadio/comments/1sx0phw/whats_the_purpose_when_youre_in_a_dead_area/)**
+by u/Kamau54
 
-**11. [30 - 512 MHz Falcon III RF-7800-MP](https://www.reddit.com/r/HamRadio/comments/1si53qv/30_512_mhz_falcon_iii_rf7800mp/)**
-by u/Junior-Recipe2592
+**11. [VHF/UHF Antenna Mounting Question](https://www.reddit.com/r/HamRadio/comments/1sxi5t8/vhfuhf_antenna_mounting_question/)**
+by u/OKAUSTX
 
-**12. [DC or PoE powered amplifier for MMDVM](https://www.reddit.com/r/HamRadio/comments/1sitdlx/dc_or_poe_powered_amplifier_for_mmdvm/)**
-by u/K0NDH
+**12. [FT8 operation on a Icom 7300 mk2. Is there a order I need to start my 3 programs...](https://www.reddit.com/r/HamRadio/comments/1sxe40h/ft8_operation_on_a_icom_7300_mk2_is_there_a_order/)**
+by u/Sawyer2025
 
-**13. [Clansman prc344 parts hunt for discone](https://www.reddit.com/r/HamRadio/comments/1siii27/clansman_prc344_parts_hunt_for_discone/)**
-by u/ed-e145
+**13. [Are Your Ham Radios LEGAL? Test Them Yourself!](https://www.reddit.com/r/HamRadio/comments/1sxpzyv/are_your_ham_radios_legal_test_them_yourself/)**
+by u/Hamdaddy1976
 
-**14. [Ham Radio Reference Website - Info](https://www.reddit.com/r/HamRadio/comments/1shysdd/ham_radio_reference_website_info/)**
-by u/MartyF81
+**14. [Garage sale exploring, found a gem!](https://www.reddit.com/r/HamRadio/comments/1swa4z6/garage_sale_exploring_found_a_gem/)**
+by u/VigorousV
 
-**15. [What does this symbol mean on my radio?](https://www.reddit.com/r/HamRadio/comments/1si6to1/what_does_this_symbol_mean_on_my_radio/)**
-by u/AMIR_315
+**15. [Baofeng UV5R Transmission Test, real world testing](https://www.reddit.com/r/HamRadio/comments/1sxqf2r/baofeng_uv5r_transmission_test_real_world_testing/)**
+by u/Hamdaddy1976
 
 ---
 
@@ -108,16 +108,16 @@ by u/AMIR_315
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sdy76s/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Are there, like, *any* young people?](https://www.reddit.com/r/amateurradio/comments/1sj0gz3/are_there_like_any_young_people/)** (r/amateurradio)
-- **[So I’ve been fighting with this noise….](https://www.reddit.com/r/amateurradio/comments/1sj3uyv/so_ive_been_fighting_with_this_noise/)** (r/amateurradio)
-- **[What is this ?](https://www.reddit.com/r/amateurradio/comments/1situyu/what_is_this/)** (r/amateurradio)
-- **[Anyone else running 88.5’](https://www.reddit.com/r/amateurradio/comments/1sivt87/anyone_else_running_885/)** (r/amateurradio)
-- **[When you’re an HF enthusiast who also works at a record store.](https://www.reddit.com/r/amateurradio/comments/1sipa43/when_youre_an_hf_enthusiast_who_also_works_at_a/)** (r/amateurradio)
-- **[Easy 2m/70cm CW](https://www.reddit.com/r/amateurradio/comments/1sj0byr/easy_2m70cm_cw/)** (r/amateurradio)
-- **[Which One of You Is Running 10m PACTOR Right Now?](https://www.reddit.com/r/amateurradio/comments/1sip8pm/which_one_of_you_is_running_10m_pactor_right_now/)** (r/amateurradio)
-- **[Secondhand kenwood tk3701D](https://www.reddit.com/r/amateurradio/comments/1sj7xer/secondhand_kenwood_tk3701d/)** (r/amateurradio)
-- **[Our own blue marble](https://www.reddit.com/r/amateurradio/comments/1siyn7a/our_own_blue_marble/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sx2znm/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[First time seeing an antenna like this. Inverted Hexbeam? Spotted in T...](https://www.reddit.com/r/amateurradio/comments/1sxwofi/first_time_seeing_an_antenna_like_this_inverted/)** (r/amateurradio)
+- **[The Prepper Delusion (New York Times)](https://www.reddit.com/r/amateurradio/comments/1sx776j/the_prepper_delusion_new_york_times/)** (r/amateurradio)
+- **[License plates](https://www.reddit.com/r/amateurradio/comments/1sxnrcf/license_plates/)** (r/amateurradio)
+- **[First POTA…if you’re on the fence just do it!](https://www.reddit.com/r/amateurradio/comments/1sx6ymg/first_potaif_youre_on_the_fence_just_do_it/)** (r/amateurradio)
+- **[Built a small Morse practice tool focused on tapping and visual patter...](https://www.reddit.com/r/amateurradio/comments/1sxiq3h/built_a_small_morse_practice_tool_focused_on/)** (r/amateurradio)
+- **[Has anyone here who lives around the Gulf ever successfully made tropo...](https://www.reddit.com/r/amateurradio/comments/1sxkpck/has_anyone_here_who_lives_around_the_gulf_ever/)** (r/amateurradio)
+- **[Can someone tell me about this?](https://www.reddit.com/r/amateurradio/comments/1sxocmd/can_someone_tell_me_about_this/)** (r/amateurradio)
+- **[Loop on ground (but beneath)?](https://www.reddit.com/r/amateurradio/comments/1sxyt17/loop_on_ground_but_beneath/)** (r/amateurradio)
+- **[Heavy-Duty Soldering Stand Base with Magnetic Parts Tray](https://www.reddit.com/r/amateurradio/comments/1sxqfuw/heavyduty_soldering_stand_base_with_magnetic/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-04-29 12:18 UTC*
+*Last updated: 2026-04-30 12:16 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sx2znm/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [A New Uncharted Island was Discovered this Year off the Coast of Antarctica](https://www.reddit.com/r/amateurradio/comments/1syfs6r/a_new_uncharted_island_was_discovered_this_year/)**
-by u/kcpistol
+**2. [Yaesu FTM-150RASP .50cal ammo can go box](https://www.reddit.com/r/amateurradio/comments/1szeofs/yaesu_ftm150rasp_50cal_ammo_can_go_box/)**
+by u/Absent_3302
 
-**3. [Spectrum Alanlyzer purchase was almost a boat anchor!](https://www.reddit.com/r/amateurradio/comments/1sy955w/spectrum_alanlyzer_purchase_was_almost_a_boat/)**
-by u/aacmckay
+**3. [Got rained on hard at a POTA on Saturday, now I'm down a rabbit hole about comme...](https://www.reddit.com/r/amateurradio/comments/1szpcu8/got_rained_on_hard_at_a_pota_on_saturday_now_im/)**
+by u/June_Ctreras
 
-**4. [DX recommendations for 15m](https://www.reddit.com/r/amateurradio/comments/1sywd4e/dx_recommendations_for_15m/)**
+**4. [Anyone use VHF/UHF in West Melbourne?](https://www.reddit.com/r/amateurradio/comments/1sziryl/anyone_use_vhfuhf_in_west_melbourne/)**
+by u/braddeharder
+
+**5. [Is FT2 a real thing?](https://www.reddit.com/r/amateurradio/comments/1szsk4f/is_ft2_a_real_thing/)**
+by u/W0CBF
+
+**6. [Yaesu 710 Dayton Pricing](https://www.reddit.com/r/amateurradio/comments/1szolg9/yaesu_710_dayton_pricing/)**
+by u/TolipTeews
+
+**7. [QMX+ / MFJ1708b-sdr / USB SDR - Seeing large RF spike ... is this normal?](https://www.reddit.com/r/amateurradio/comments/1szk1kg/qmx_mfj1708bsdr_usb_sdr_seeing_large_rf_spike_is/)**
+by u/Useful-Astronomer270
+
+**8. [A spotting website I've been working on](https://www.reddit.com/r/amateurradio/comments/1syzwyq/a_spotting_website_ive_been_working_on/)**
+by u/hariustrk
+
+**9. [IC 7300 and Antuner AT-100m](https://www.reddit.com/r/amateurradio/comments/1szc190/ic_7300_and_antuner_at100m/)**
+by u/dbgreen
+
+**10. [DX recommendations for 15m](https://www.reddit.com/r/amateurradio/comments/1sywd4e/dx_recommendations_for_15m/)**
 by u/Aggravating_Fly8087
 
-**5. [Rigged up a not so pretty but functional long wire antenna to my ATS MINI V4](https://www.reddit.com/r/amateurradio/comments/1syf92n/rigged_up_a_not_so_pretty_but_functional_long/)**
-by u/Keeper4560
+**11. [I made an online SSTV decoder, thought y'all might like it!](https://www.reddit.com/r/amateurradio/comments/1sza0s8/i_made_an_online_sstv_decoder_thought_yall_might/)**
+by u/Aroktyoe
 
-**6. [First time seeing an antenna like this. Inverted Hexbeam? Spotted in Thailand.](https://www.reddit.com/r/amateurradio/comments/1sxwofi/first_time_seeing_an_antenna_like_this_inverted/)**
-by u/cao8881827555
+**12. [I am finally getting an HF capable radio!](https://www.reddit.com/r/amateurradio/comments/1sz1ahr/i_am_finally_getting_an_hf_capable_radio/)**
+by u/MrChzl
 
-**7. [A question (survey?) for volunteers with the Incoming QL bureaus. How old is old...](https://www.reddit.com/r/amateurradio/comments/1syh2qk/a_question_survey_for_volunteers_with_the/)**
-by u/Tim_E2
+**13. [Inspired by someone's paperclip DIY key](https://www.reddit.com/r/amateurradio/comments/1sza66f/inspired_by_someones_paperclip_diy_key/)**
+by u/d9jms
 
-**8. [Any antenna fans out there care to help me out?](https://www.reddit.com/r/amateurradio/comments/1sykwrr/any_antenna_fans_out_there_care_to_help_me_out/)**
-by u/LifeFeckinBrilliant
+**14. [Mounting antenna to hard top roof for Wrangler JK](https://www.reddit.com/r/amateurradio/comments/1sz3oca/mounting_antenna_to_hard_top_roof_for_wrangler_jk/)**
+by u/LonelyPatsFanInVT
 
-**9. [*Frustration* RSGB has just informed that EssexHam and RSGB mock tests are nothi...](https://www.reddit.com/r/amateurradio/comments/1syd76t/frustration_rsgb_has_just_informed_that_essexham/)**
-by u/No-Round-8241
-
-**10. [Weird issue with IC-7300 and Winlink Express / VARA HF](https://www.reddit.com/r/amateurradio/comments/1syosob/weird_issue_with_ic7300_and_winlink_express_vara/)**
-by u/Rashnet
-
-**11. [Antenna recommendations?](https://www.reddit.com/r/amateurradio/comments/1syd4pw/antenna_recommendations/)**
-by u/Ok_Top_7367
-
-**12. [Mag Mount Not Centered - How Much Foes it Matter?](https://www.reddit.com/r/amateurradio/comments/1synllu/mag_mount_not_centered_how_much_foes_it_matter/)**
-by u/bigemf5
-
-**13. [Ground Plane Questions](https://www.reddit.com/r/amateurradio/comments/1sybei4/ground_plane_questions/)**
-by u/Auto_gen_usrnm
-
-**14. [My new equipment 📡](https://www.reddit.com/r/amateurradio/comments/1sy68yx/my_new_equipment/)**
-by u/kahvekokanfizikci
-
-**15. [On the fence about good multiband non wire antennae](https://www.reddit.com/r/amateurradio/comments/1syg8bt/on_the_fence_about_good_multiband_non_wire/)**
-by u/GODLY_STUPID
+**15. [FCC License manager](https://www.reddit.com/r/amateurradio/comments/1sz3dhw/fcc_license_manager/)**
+by u/Medill1919
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Made my first contact by getting on my roof!](https://www.reddit.com/r/HamRadio/comments/1syj55p/made_my_first_contact_by_getting_on_my_roof/)**
+**3. [I am finally getting an HF capable radio!](https://www.reddit.com/r/HamRadio/comments/1sz1a3o/i_am_finally_getting_an_hf_capable_radio/)**
+by u/MrChzl
+
+**4. [HF Balun Design Advice - 1 or 2 Torids, Type 43, 31, or Both](https://www.reddit.com/r/HamRadio/comments/1szj7tu/hf_balun_design_advice_1_or_2_torids_type_43_31/)**
+by u/Throw20701
+
+**5. [Rx issues on a new UHF install](https://www.reddit.com/r/HamRadio/comments/1szlpcz/rx_issues_on_a_new_uhf_install/)**
+by u/Consistent_Wear_9825
+
+**6. [There isn’t a recent update on HOA antenna rules… right?](https://www.reddit.com/r/HamRadio/comments/1sz92d7/there_isnt_a_recent_update_on_hoa_antenna_rules/)**
+by u/Hic_Mos_Noster
+
+**7. [Made my first contact by getting on my roof!](https://www.reddit.com/r/HamRadio/comments/1syj55p/made_my_first_contact_by_getting_on_my_roof/)**
 by u/haidaimon
 
-**4. [My experience getting licensed (Amateur and GMRS) and watching the "professional...](https://www.reddit.com/r/HamRadio/comments/1sy350e/my_experience_getting_licensed_amateur_and_gmrs/)**
+**8. [Build a radio repeater using two Retevis RT24 units. Budget-friendly.](https://www.reddit.com/r/HamRadio/comments/1szb668/build_a_radio_repeater_using_two_retevis_rt24/)**
+by u/Ecstatic-Bad33
+
+**9. [My experience getting licensed (Amateur and GMRS) and watching the "professional...](https://www.reddit.com/r/HamRadio/comments/1sy350e/my_experience_getting_licensed_amateur_and_gmrs/)**
 by u/roguesith
 
-**5. [What is the best way to get started?](https://www.reddit.com/r/HamRadio/comments/1sylodk/what_is_the_best_way_to_get_started/)**
+**10. [Help Finding a Handy Talk Headset/Earpiece](https://www.reddit.com/r/HamRadio/comments/1sz9f0a/help_finding_a_handy_talk_headsetearpiece/)**
+by u/Substantial-Quit-151
+
+**11. [APRS & Meshtastic position data on the same webpage](https://www.reddit.com/r/HamRadio/comments/1sz8hy8/aprs_meshtastic_position_data_on_the_same_webpage/)**
+by u/Ok_Fondant1079
+
+**12. [DIY 20-40 meter Air Wound Coil Homebrew](https://www.reddit.com/r/HamRadio/comments/1sysfrq/diy_2040_meter_air_wound_coil_homebrew/)**
+by u/Hamdaddy1976
+
+**13. [What is the best way to get started?](https://www.reddit.com/r/HamRadio/comments/1sylodk/what_is_the_best_way_to_get_started/)**
 by u/Spartan_Jackfruit
 
-**6. [DIY 20-40 meter Air Wound Coil Homebrew](https://www.reddit.com/r/HamRadio/comments/1sysfrq/diy_2040_meter_air_wound_coil_homebrew/)**
-by u/Hamdaddy1976
-
-**7. [What model antenna is on the new FHP mustangs?](https://www.reddit.com/r/HamRadio/comments/1syqxap/what_model_antenna_is_on_the_new_fhp_mustangs/)**
-by u/Leading-Trainer5704
-
-**8. [(tr)uSDX - Tuning the RF Section for Output Power and Efficiency](https://www.reddit.com/r/HamRadio/comments/1syk177/trusdx_tuning_the_rf_section_for_output_power_and/)**
-by u/Hamdaddy1976
-
-**9. [Introduction to LC Circuits. This is part of the Extra class lic exam](https://www.reddit.com/r/HamRadio/comments/1sybayk/introduction_to_lc_circuits_this_is_part_of_the/)**
-by u/Hamdaddy1976
-
-**10. [Mag Mount Not Centered - How Much Foes it Matter?](https://www.reddit.com/r/HamRadio/comments/1synl8d/mag_mount_not_centered_how_much_foes_it_matter/)**
+**14. [Allstar Nodes and Bubbles - Advanced Searches?](https://www.reddit.com/r/HamRadio/comments/1sz10zl/allstar_nodes_and_bubbles_advanced_searches/)**
 by u/bigemf5
 
-**11. [Issues with CHIRP corrupting channels?](https://www.reddit.com/r/HamRadio/comments/1sydapi/issues_with_chirp_corrupting_channels/)**
+**15. [Anyone else bought an Ailunce HA2?](https://www.reddit.com/r/HamRadio/comments/1sz3avq/anyone_else_bought_an_ailunce_ha2/)**
 by u/Healthy-Kangaroo-365
-
-**12. [Working on my LoRa APRS iGate, firmware by CA2RXU](https://www.reddit.com/r/HamRadio/comments/1syaxw0/working_on_my_lora_aprs_igate_firmware_by_ca2rxu/)**
-by u/Logical_Carrot267
-
-**13. [Heavy-Duty Soldering Stand Base with Magnetic Parts Tray](https://www.reddit.com/r/HamRadio/comments/1sxqh5f/heavyduty_soldering_stand_base_with_magnetic/)**
-by u/anselscamera
-
-**14. [How do we feel about these stubby antennas for edc?](https://www.reddit.com/r/HamRadio/comments/1sxj6ce/how_do_we_feel_about_these_stubby_antennas_for_edc/)**
-by u/bluebagles
-
-**15. [A tornado scare got me back into ham radio after years away. Ended up building a...](https://www.reddit.com/r/HamRadio/comments/1symfzy/a_tornado_scare_got_me_back_into_ham_radio_after/)**
-by u/GreyFoxSolid
 
 ---
 
@@ -109,15 +109,15 @@ by u/GreyFoxSolid
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1sx2znm/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[A New Uncharted Island was Discovered this Year off the Coast of Antar...](https://www.reddit.com/r/amateurradio/comments/1syfs6r/a_new_uncharted_island_was_discovered_this_year/)** (r/amateurradio)
-- **[Spectrum Alanlyzer purchase was almost a boat anchor!](https://www.reddit.com/r/amateurradio/comments/1sy955w/spectrum_alanlyzer_purchase_was_almost_a_boat/)** (r/amateurradio)
+- **[Yaesu FTM-150RASP .50cal ammo can go box](https://www.reddit.com/r/amateurradio/comments/1szeofs/yaesu_ftm150rasp_50cal_ammo_can_go_box/)** (r/amateurradio)
+- **[Got rained on hard at a POTA on Saturday, now I'm down a rabbit hole a...](https://www.reddit.com/r/amateurradio/comments/1szpcu8/got_rained_on_hard_at_a_pota_on_saturday_now_im/)** (r/amateurradio)
+- **[Anyone use VHF/UHF in West Melbourne?](https://www.reddit.com/r/amateurradio/comments/1sziryl/anyone_use_vhfuhf_in_west_melbourne/)** (r/amateurradio)
+- **[Is FT2 a real thing?](https://www.reddit.com/r/amateurradio/comments/1szsk4f/is_ft2_a_real_thing/)** (r/amateurradio)
+- **[Yaesu 710 Dayton Pricing](https://www.reddit.com/r/amateurradio/comments/1szolg9/yaesu_710_dayton_pricing/)** (r/amateurradio)
+- **[QMX+ / MFJ1708b-sdr / USB SDR - Seeing large RF spike ... is this norm...](https://www.reddit.com/r/amateurradio/comments/1szk1kg/qmx_mfj1708bsdr_usb_sdr_seeing_large_rf_spike_is/)** (r/amateurradio)
+- **[A spotting website I've been working on](https://www.reddit.com/r/amateurradio/comments/1syzwyq/a_spotting_website_ive_been_working_on/)** (r/amateurradio)
+- **[IC 7300 and Antuner AT-100m](https://www.reddit.com/r/amateurradio/comments/1szc190/ic_7300_and_antuner_at100m/)** (r/amateurradio)
 - **[DX recommendations for 15m](https://www.reddit.com/r/amateurradio/comments/1sywd4e/dx_recommendations_for_15m/)** (r/amateurradio)
-- **[Rigged up a not so pretty but functional long wire antenna to my ATS M...](https://www.reddit.com/r/amateurradio/comments/1syf92n/rigged_up_a_not_so_pretty_but_functional_long/)** (r/amateurradio)
-- **[First time seeing an antenna like this. Inverted Hexbeam? Spotted in T...](https://www.reddit.com/r/amateurradio/comments/1sxwofi/first_time_seeing_an_antenna_like_this_inverted/)** (r/amateurradio)
-- **[A question (survey?) for volunteers with the Incoming QL bureaus. How ...](https://www.reddit.com/r/amateurradio/comments/1syh2qk/a_question_survey_for_volunteers_with_the/)** (r/amateurradio)
-- **[Any antenna fans out there care to help me out?](https://www.reddit.com/r/amateurradio/comments/1sykwrr/any_antenna_fans_out_there_care_to_help_me_out/)** (r/amateurradio)
-- **[*Frustration* RSGB has just informed that EssexHam and RSGB mock tests...](https://www.reddit.com/r/amateurradio/comments/1syd76t/frustration_rsgb_has_just_informed_that_essexham/)** (r/amateurradio)
-- **[Weird issue with IC-7300 and Winlink Express / VARA HF](https://www.reddit.com/r/amateurradio/comments/1syosob/weird_issue_with_ic7300_and_winlink_express_vara/)** (r/amateurradio)
 
 ---
 

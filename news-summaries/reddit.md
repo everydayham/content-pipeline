@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-05 12:05 UTC*
+*Last updated: 2026-05-06 12:56 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1t3h0fg/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Can we do something about the AI Slop please](https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/)**
-by u/Mikethedrywaller
+**2. [Finally pulled Ohio out of the noise](https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/)**
+by u/PurpleHumanTaco
 
-**3. [Inspired by the improvised CW paddles posted here last week, I crudely whipped t...](https://www.reddit.com/r/amateurradio/comments/1t3y17u/inspired_by_the_improvised_cw_paddles_posted_here/)**
-by u/EnvironmentalIce8411
-
-**4. [I found amusing…](https://www.reddit.com/r/amateurradio/comments/1t3mqdb/i_found_amusing/)**
-by u/LollieLoo
-
-**5. [First Pota Success](https://www.reddit.com/r/amateurradio/comments/1t3lriu/first_pota_success/)**
+**3. [So I’ve Been Learning CW](https://www.reddit.com/r/amateurradio/comments/1t4knhn/so_ive_been_learning_cw/)**
 by u/whynotaskmetwice
 
-**6. [Are these still useful?](https://www.reddit.com/r/amateurradio/comments/1t3v7th/are_these_still_useful/)**
-by u/Signal_Shallot4440
+**4. [Call sign operator N7AK Alvin F Kanda from Hawaii has passed away (lonely death)...](https://www.reddit.com/r/amateurradio/comments/1t4gqjp/call_sign_operator_n7ak_alvin_f_kanda_from_hawaii/)**
+by u/Many_Big_6324
 
-**7. [Science Fiction Convention Net](https://www.reddit.com/r/amateurradio/comments/1t4750d/science_fiction_convention_net/)**
-by u/sail4sea
+**5. [Just got a digital](https://www.reddit.com/r/amateurradio/comments/1t4vco9/just_got_a_digital/)**
+by u/leisel9412
 
-**8. [Has Anyone Tried The New AnyTone AT-D890UV?](https://www.reddit.com/r/amateurradio/comments/1t460ql/has_anyone_tried_the_new_anytone_atd890uv/)**
-by u/hello_world_again
+**6. [I came across an unusual dx station today.](https://www.reddit.com/r/amateurradio/comments/1t4x1pm/i_came_across_an_unusual_dx_station_today/)**
+by u/couchpilot
 
-**9. [Thoughts on diy 20’ mast for end fed wire?](https://www.reddit.com/r/amateurradio/comments/1t3r42d/thoughts_on_diy_20_mast_for_end_fed_wire/)**
-by u/Cactacae420
+**7. [I spent the winter porting VOACAP from Fortran to Swift. HamPulse is on the App ...](https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/)**
+by u/electricburn
 
-**10. [[Guide] Everything on one low-cost SBC: HF + VHF + ADS-B + AIS + Satellite + 30+...](https://www.reddit.com/r/amateurradio/comments/1t4bzla/guide_everything_on_one_lowcost_sbc_hf_vhf_adsb/)**
-by u/ozcet
+**8. [Magnetic loop antenna I built, using a homebrew variable capacitor](https://www.reddit.com/r/amateurradio/comments/1t54h8h/magnetic_loop_antenna_i_built_using_a_homebrew/)**
+by u/Affectionate_Two255
 
-**11. [I'll eventually get to transmitting. What are your thoughts on an antenna?](https://www.reddit.com/r/amateurradio/comments/1t3ubla/ill_eventually_get_to_transmitting_what_are_your/)**
-by u/Complete_jackass9999
+**9. [How many antennas?](https://www.reddit.com/r/amateurradio/comments/1t4h3k8/how_many_antennas/)**
+by u/rhouse2008
 
-**12. [Rotating metal blade CST Studio simulation](https://www.reddit.com/r/amateurradio/comments/1t4bg82/rotating_metal_blade_cst_studio_simulation/)**
-by u/Useful-Net4587
+**10. [Can we do something about the AI Slop please](https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/)**
+by u/Mikethedrywaller
 
-**13. [New to POTA](https://www.reddit.com/r/amateurradio/comments/1t3oetf/new_to_pota/)**
-by u/Indy100077
+**11. [Today's episode of "Because I can". A 3D printable model of the red base antenna...](https://www.reddit.com/r/amateurradio/comments/1t4x86s/todays_episode_of_because_i_can_a_3d_printable/)**
+by u/CaptainSpez
 
-**14. [Help needed with antenna (146.520 mhz)](https://www.reddit.com/r/amateurradio/comments/1t43wan/help_needed_with_antenna_146520_mhz/)**
-by u/Educational-Kiwi8740
+**12. [DIY or Factory build HF radio?](https://www.reddit.com/r/amateurradio/comments/1t4xvrt/diy_or_factory_build_hf_radio/)**
+by u/Own_Valuable_6131
 
-**15. [Looking for a good budget antenna for my home to use with a BF-F8HP.](https://www.reddit.com/r/amateurradio/comments/1t41n9j/looking_for_a_good_budget_antenna_for_my_home_to/)**
-by u/gitwaxed
+**13. [Trailwave - a native macOS POTA hunting app](https://www.reddit.com/r/amateurradio/comments/1t4vkva/trailwave_a_native_macos_pota_hunting_app/)**
+by u/Less-Chicken-4600
+
+**14. [Looking for dimensions for an OE-254 assembly (AS-3166 part specifically) for 3D...](https://www.reddit.com/r/amateurradio/comments/1t503ol/looking_for_dimensions_for_an_oe254_assembly/)**
+by u/SelectionPresent9698
+
+**15. [Help selecting antenna](https://www.reddit.com/r/amateurradio/comments/1t5864q/help_selecting_antenna/)**
+by u/Pajsen
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Would these work in a neighborhood? The max range I would need is abt 1.2 miles,...](https://www.reddit.com/r/HamRadio/comments/1t3zikl/would_these_work_in_a_neighborhood_the_max_range/)**
-by u/bran71
+**3. [I found a signal i don't know what is.](https://www.reddit.com/r/HamRadio/comments/1t4q4fe/i_found_a_signal_i_dont_know_what_is/)**
+by u/sindwar
 
-**4. [Getting a UV-5R mini for Marine use](https://www.reddit.com/r/HamRadio/comments/1t47rh8/getting_a_uv5r_mini_for_marine_use/)**
-by u/sebaru00
+**4. [Help ID this radio contraption my uncle built.](https://www.reddit.com/r/HamRadio/comments/1t4nd99/help_id_this_radio_contraption_my_uncle_built/)**
+by u/Yeahwellokwell
 
-**5. [Capacitor Or No Capacitor In EFHW?](https://www.reddit.com/r/HamRadio/comments/1t3xklj/capacitor_or_no_capacitor_in_efhw/)**
-by u/Throw20701
+**5. [Newbie GMRS for camping or go for HAM?](https://www.reddit.com/r/HamRadio/comments/1t4xx5z/newbie_gmrs_for_camping_or_go_for_ham/)**
+by u/Hefty_Lemon_7928
 
-**6. [Amateur radio club fundraiser for my school](https://www.reddit.com/r/HamRadio/comments/1t3o6r5/amateur_radio_club_fundraiser_for_my_school/)**
-by u/GODLY_STUPID
+**6. [Help, TYT MD380 programming troubles](https://www.reddit.com/r/HamRadio/comments/1t5a65r/help_tyt_md380_programming_troubles/)**
+by u/Consistent_Host7483
 
-**7. [Are there any antenna installers left in Austin, TX?](https://www.reddit.com/r/HamRadio/comments/1t3mr1p/are_there_any_antenna_installers_left_in_austin_tx/)**
-by u/OKAUSTX
+**7. [My new dipole. Think I can build a yagi off of this?](https://www.reddit.com/r/HamRadio/comments/1t4dshg/my_new_dipole_think_i_can_build_a_yagi_off_of_this/)**
+by u/brent_maxwell
 
-**8. [Taxed from FB... We've all been there.](https://www.reddit.com/r/HamRadio/comments/1t2pzdn/taxed_from_fb_weve_all_been_there/)**
-by u/adhdff
+**8. [Need help understanding what is going on with my setup](https://www.reddit.com/r/HamRadio/comments/1t4gwe7/need_help_understanding_what_is_going_on_with_my/)**
+by u/Nitro_44
 
-**9. [Trying to get myself into a new hobby yet again](https://www.reddit.com/r/HamRadio/comments/1t3bhjr/trying_to_get_myself_into_a_new_hobby_yet_again/)**
-by u/Impossible-Lead4469
-
-**10. [Anyone making QSOs using the CQ function?](https://www.reddit.com/r/HamRadio/comments/1t42927/anyone_making_qsos_using_the_cq_function/)**
-by u/KB5JRC
-
-**11. [Frustration: What Am I Doing Wrong?](https://www.reddit.com/r/HamRadio/comments/1t2wd5c/frustration_what_am_i_doing_wrong/)**
-by u/Marauder_Recruiter1
-
-**12. [Even with a common mode choke, I am still able to hear myself through my home th...](https://www.reddit.com/r/HamRadio/comments/1t2lnx6/even_with_a_common_mode_choke_i_am_still_able_to/)**
-by u/tundra1989
-
-**13. [RF CM Choke Efficiency of Ferrites](https://www.reddit.com/r/HamRadio/comments/1t343ue/rf_cm_choke_efficiency_of_ferrites/)**
-by u/Throw20701
-
-**14. [Would a yaesu 897 for $400 be a good deal?](https://www.reddit.com/r/HamRadio/comments/1t32kzl/would_a_yaesu_897_for_400_be_a_good_deal/)**
+**9. [Triband Radio recommendations to replace Btech uv pro](https://www.reddit.com/r/HamRadio/comments/1t4uns3/triband_radio_recommendations_to_replace_btech_uv/)**
 by u/bluebagles
 
-**15. [QRZ/ADIF Logbook Map / Widgets Testers Required](https://www.reddit.com/r/HamRadio/comments/1t3lgx9/qrzadif_logbook_map_widgets_testers_required/)**
-by u/Then_Homework7275
+**10. [Are portable antennas (tripods, external antennas) treated as fixed stations in ...](https://www.reddit.com/r/HamRadio/comments/1t4ek1j/are_portable_antennas_tripods_external_antennas/)**
+by u/menginventor
+
+**11. [Want to buy a new radio but don't know which one](https://www.reddit.com/r/HamRadio/comments/1t4hibk/want_to_buy_a_new_radio_but_dont_know_which_one/)**
+by u/Dzban_Tv
+
+**12. [Would these work in a neighborhood? The max range I would need is abt 1.2 miles,...](https://www.reddit.com/r/HamRadio/comments/1t3zikl/would_these_work_in_a_neighborhood_the_max_range/)**
+by u/bran71
+
+**13. [I found a signal i don't know what is.](https://www.reddit.com/r/HamRadio/comments/1t4piql/i_found_a_signal_i_dont_know_what_is/)**
+by u/sindwar
+
+**14. [Question post about school frequencys](https://www.reddit.com/r/HamRadio/comments/1t4unhs/question_post_about_school_frequencys/)**
+by u/xxxXDanielOOFXxxxl_
+
+**15. [Capacitor Or No Capacitor In EFHW?](https://www.reddit.com/r/HamRadio/comments/1t3xklj/capacitor_or_no_capacitor_in_efhw/)**
+by u/Throw20701
 
 ---
 
@@ -109,15 +109,15 @@ by u/Then_Homework7275
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1t3h0fg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Finally pulled Ohio out of the noise](https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/)** (r/amateurradio)
+- **[So I’ve Been Learning CW](https://www.reddit.com/r/amateurradio/comments/1t4knhn/so_ive_been_learning_cw/)** (r/amateurradio)
+- **[Call sign operator N7AK Alvin F Kanda from Hawaii has passed away (lon...](https://www.reddit.com/r/amateurradio/comments/1t4gqjp/call_sign_operator_n7ak_alvin_f_kanda_from_hawaii/)** (r/amateurradio)
+- **[Just got a digital](https://www.reddit.com/r/amateurradio/comments/1t4vco9/just_got_a_digital/)** (r/amateurradio)
+- **[I came across an unusual dx station today.](https://www.reddit.com/r/amateurradio/comments/1t4x1pm/i_came_across_an_unusual_dx_station_today/)** (r/amateurradio)
+- **[I spent the winter porting VOACAP from Fortran to Swift. HamPulse is o...](https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/)** (r/amateurradio)
+- **[Magnetic loop antenna I built, using a homebrew variable capacitor](https://www.reddit.com/r/amateurradio/comments/1t54h8h/magnetic_loop_antenna_i_built_using_a_homebrew/)** (r/amateurradio)
+- **[How many antennas?](https://www.reddit.com/r/amateurradio/comments/1t4h3k8/how_many_antennas/)** (r/amateurradio)
 - **[Can we do something about the AI Slop please](https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/)** (r/amateurradio)
-- **[Inspired by the improvised CW paddles posted here last week, I crudely...](https://www.reddit.com/r/amateurradio/comments/1t3y17u/inspired_by_the_improvised_cw_paddles_posted_here/)** (r/amateurradio)
-- **[I found amusing…](https://www.reddit.com/r/amateurradio/comments/1t3mqdb/i_found_amusing/)** (r/amateurradio)
-- **[First Pota Success](https://www.reddit.com/r/amateurradio/comments/1t3lriu/first_pota_success/)** (r/amateurradio)
-- **[Are these still useful?](https://www.reddit.com/r/amateurradio/comments/1t3v7th/are_these_still_useful/)** (r/amateurradio)
-- **[Science Fiction Convention Net](https://www.reddit.com/r/amateurradio/comments/1t4750d/science_fiction_convention_net/)** (r/amateurradio)
-- **[Has Anyone Tried The New AnyTone AT-D890UV?](https://www.reddit.com/r/amateurradio/comments/1t460ql/has_anyone_tried_the_new_anytone_atd890uv/)** (r/amateurradio)
-- **[Thoughts on diy 20’ mast for end fed wire?](https://www.reddit.com/r/amateurradio/comments/1t3r42d/thoughts_on_diy_20_mast_for_end_fed_wire/)** (r/amateurradio)
-- **[[Guide] Everything on one low-cost SBC: HF + VHF + ADS-B + AIS + Satel...](https://www.reddit.com/r/amateurradio/comments/1t4bzla/guide_everything_on_one_lowcost_sbc_hf_vhf_adsb/)** (r/amateurradio)
 
 ---
 

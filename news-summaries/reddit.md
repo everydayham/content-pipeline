@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-06 12:56 UTC*
+*Last updated: 2026-05-07 12:58 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1t3h0fg/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [Finally pulled Ohio out of the noise](https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/)**
+**2. [My dad's way to check on his radio from his iPhone](https://www.reddit.com/r/amateurradio/comments/1t65ism/my_dads_way_to_check_on_his_radio_from_his_iphone/)**
+by u/Italyans
+
+**3. [Just Passed My Technician Exam!](https://www.reddit.com/r/amateurradio/comments/1t5td9x/just_passed_my_technician_exam/)**
+by u/Disgruntled_Veteran
+
+**4. [Now Kiss!](https://www.reddit.com/r/amateurradio/comments/1t5vr07/now_kiss/)**
+by u/munsterrr
+
+**5. [Yet another hamclock inspired clock](https://www.reddit.com/r/amateurradio/comments/1t66kh9/yet_another_hamclock_inspired_clock/)**
+by u/bobowzki
+
+**6. [Long shot but does anyone have real world gain differences between the stock ant...](https://www.reddit.com/r/amateurradio/comments/1t68g1e/long_shot_but_does_anyone_have_real_world_gain/)**
+by u/thesoulless78
+
+**7. [How to use a « ferrite spire » as an antenna](https://www.reddit.com/r/amateurradio/comments/1t660l8/how_to_use_a_ferrite_spire_as_an_antenna/)**
+by u/PitifulInstruction81
+
+**8. [DMR](https://www.reddit.com/r/amateurradio/comments/1t67tcs/dmr/)**
+by u/gilboy_69
+
+**9. [Actions: triggering remote events securely over APRS with Graywolf](https://www.reddit.com/r/amateurradio/comments/1t5upuh/actions_triggering_remote_events_securely_over/)**
+by u/desertdefender
+
+**10. [SignalStuff BNC adapter on Kenwood TH-D75A photos](https://www.reddit.com/r/amateurradio/comments/1t5hoo9/signalstuff_bnc_adapter_on_kenwood_thd75a_photos/)**
+by u/TheSmurfSwag
+
+**11. [Finally pulled Ohio out of the noise](https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/)**
 by u/PurpleHumanTaco
 
-**3. [So I’ve Been Learning CW](https://www.reddit.com/r/amateurradio/comments/1t4knhn/so_ive_been_learning_cw/)**
+**12. [I'm Totally Stumped! No power output on some modes, IC-7300.](https://www.reddit.com/r/amateurradio/comments/1t5sjsl/im_totally_stumped_no_power_output_on_some_modes/)**
+by u/Fabulous_Bunch5965
+
+**13. [Best aprs hand held](https://www.reddit.com/r/amateurradio/comments/1t5v3di/best_aprs_hand_held/)**
+by u/OkPaleontologist6618
+
+**14. [So I’ve Been Learning CW](https://www.reddit.com/r/amateurradio/comments/1t4knhn/so_ive_been_learning_cw/)**
 by u/whynotaskmetwice
 
-**4. [Call sign operator N7AK Alvin F Kanda from Hawaii has passed away (lonely death)...](https://www.reddit.com/r/amateurradio/comments/1t4gqjp/call_sign_operator_n7ak_alvin_f_kanda_from_hawaii/)**
-by u/Many_Big_6324
-
-**5. [Just got a digital](https://www.reddit.com/r/amateurradio/comments/1t4vco9/just_got_a_digital/)**
-by u/leisel9412
-
-**6. [I came across an unusual dx station today.](https://www.reddit.com/r/amateurradio/comments/1t4x1pm/i_came_across_an_unusual_dx_station_today/)**
-by u/couchpilot
-
-**7. [I spent the winter porting VOACAP from Fortran to Swift. HamPulse is on the App ...](https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/)**
-by u/electricburn
-
-**8. [Magnetic loop antenna I built, using a homebrew variable capacitor](https://www.reddit.com/r/amateurradio/comments/1t54h8h/magnetic_loop_antenna_i_built_using_a_homebrew/)**
-by u/Affectionate_Two255
-
-**9. [How many antennas?](https://www.reddit.com/r/amateurradio/comments/1t4h3k8/how_many_antennas/)**
-by u/rhouse2008
-
-**10. [Can we do something about the AI Slop please](https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/)**
-by u/Mikethedrywaller
-
-**11. [Today's episode of "Because I can". A 3D printable model of the red base antenna...](https://www.reddit.com/r/amateurradio/comments/1t4x86s/todays_episode_of_because_i_can_a_3d_printable/)**
-by u/CaptainSpez
-
-**12. [DIY or Factory build HF radio?](https://www.reddit.com/r/amateurradio/comments/1t4xvrt/diy_or_factory_build_hf_radio/)**
-by u/Own_Valuable_6131
-
-**13. [Trailwave - a native macOS POTA hunting app](https://www.reddit.com/r/amateurradio/comments/1t4vkva/trailwave_a_native_macos_pota_hunting_app/)**
-by u/Less-Chicken-4600
-
-**14. [Looking for dimensions for an OE-254 assembly (AS-3166 part specifically) for 3D...](https://www.reddit.com/r/amateurradio/comments/1t503ol/looking_for_dimensions_for_an_oe254_assembly/)**
-by u/SelectionPresent9698
-
-**15. [Help selecting antenna](https://www.reddit.com/r/amateurradio/comments/1t5864q/help_selecting_antenna/)**
-by u/Pajsen
+**15. [Silly ATU Question](https://www.reddit.com/r/amateurradio/comments/1t5p88x/silly_atu_question/)**
+by u/munsterrr
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [I found a signal i don't know what is.](https://www.reddit.com/r/HamRadio/comments/1t4q4fe/i_found_a_signal_i_dont_know_what_is/)**
+**3. [Is the license exam given by certain organizations on behalf of the FCC?](https://www.reddit.com/r/HamRadio/comments/1t639ci/is_the_license_exam_given_by_certain/)**
+by u/Substantial-Cow1713
+
+**4. [Newbie signal help, any advice please](https://www.reddit.com/r/HamRadio/comments/1t67ely/newbie_signal_help_any_advice_please/)**
+by u/Cultural_Ad_525
+
+**5. [What do you guys think of this radio?](https://www.reddit.com/r/HamRadio/comments/1t5o4hh/what_do_you_guys_think_of_this_radio/)**
+by u/Jynxair
+
+**6. [Is the Yaesu FT-100D worth it in 2026?](https://www.reddit.com/r/HamRadio/comments/1t5o75f/is_the_yaesu_ft100d_worth_it_in_2026/)**
+by u/TioPeter_
+
+**7. [I found a signal i don't know what is.](https://www.reddit.com/r/HamRadio/comments/1t4q4fe/i_found_a_signal_i_dont_know_what_is/)**
 by u/sindwar
 
-**4. [Help ID this radio contraption my uncle built.](https://www.reddit.com/r/HamRadio/comments/1t4nd99/help_id_this_radio_contraption_my_uncle_built/)**
+**8. [Icom IC-R8600 receiver product status?](https://www.reddit.com/r/HamRadio/comments/1t5iv4p/icom_icr8600_receiver_product_status/)**
+by u/fpmacko
+
+**9. [New TYT MD-UV390 Format on RadioID](https://www.reddit.com/r/HamRadio/comments/1t5mrle/new_tyt_mduv390_format_on_radioid/)**
+by u/LadyHwesta
+
+**10. [Help ID this radio contraption my uncle built.](https://www.reddit.com/r/HamRadio/comments/1t4nd99/help_id_this_radio_contraption_my_uncle_built/)**
 by u/Yeahwellokwell
 
-**5. [Newbie GMRS for camping or go for HAM?](https://www.reddit.com/r/HamRadio/comments/1t4xx5z/newbie_gmrs_for_camping_or_go_for_ham/)**
+**11. [Newbie GMRS for camping or go for HAM?](https://www.reddit.com/r/HamRadio/comments/1t4xx5z/newbie_gmrs_for_camping_or_go_for_ham/)**
 by u/Hefty_Lemon_7928
 
-**6. [Help, TYT MD380 programming troubles](https://www.reddit.com/r/HamRadio/comments/1t5a65r/help_tyt_md380_programming_troubles/)**
-by u/Consistent_Host7483
-
-**7. [My new dipole. Think I can build a yagi off of this?](https://www.reddit.com/r/HamRadio/comments/1t4dshg/my_new_dipole_think_i_can_build_a_yagi_off_of_this/)**
+**12. [My new dipole. Think I can build a yagi off of this?](https://www.reddit.com/r/HamRadio/comments/1t4dshg/my_new_dipole_think_i_can_build_a_yagi_off_of_this/)**
 by u/brent_maxwell
 
-**8. [Need help understanding what is going on with my setup](https://www.reddit.com/r/HamRadio/comments/1t4gwe7/need_help_understanding_what_is_going_on_with_my/)**
+**13. [Help, TYT MD380 programming troubles](https://www.reddit.com/r/HamRadio/comments/1t5a65r/help_tyt_md380_programming_troubles/)**
+by u/Consistent_Host7483
+
+**14. [Help on which scanner to get, Icom ic r6 vs Bearcat bc125xlt](https://www.reddit.com/r/HamRadio/comments/1t5hcr2/help_on_which_scanner_to_get_icom_ic_r6_vs/)**
+by u/AbbreviationsBig4248
+
+**15. [Need help understanding what is going on with my setup](https://www.reddit.com/r/HamRadio/comments/1t4gwe7/need_help_understanding_what_is_going_on_with_my/)**
 by u/Nitro_44
-
-**9. [Triband Radio recommendations to replace Btech uv pro](https://www.reddit.com/r/HamRadio/comments/1t4uns3/triband_radio_recommendations_to_replace_btech_uv/)**
-by u/bluebagles
-
-**10. [Are portable antennas (tripods, external antennas) treated as fixed stations in ...](https://www.reddit.com/r/HamRadio/comments/1t4ek1j/are_portable_antennas_tripods_external_antennas/)**
-by u/menginventor
-
-**11. [Want to buy a new radio but don't know which one](https://www.reddit.com/r/HamRadio/comments/1t4hibk/want_to_buy_a_new_radio_but_dont_know_which_one/)**
-by u/Dzban_Tv
-
-**12. [Would these work in a neighborhood? The max range I would need is abt 1.2 miles,...](https://www.reddit.com/r/HamRadio/comments/1t3zikl/would_these_work_in_a_neighborhood_the_max_range/)**
-by u/bran71
-
-**13. [I found a signal i don't know what is.](https://www.reddit.com/r/HamRadio/comments/1t4piql/i_found_a_signal_i_dont_know_what_is/)**
-by u/sindwar
-
-**14. [Question post about school frequencys](https://www.reddit.com/r/HamRadio/comments/1t4unhs/question_post_about_school_frequencys/)**
-by u/xxxXDanielOOFXxxxl_
-
-**15. [Capacitor Or No Capacitor In EFHW?](https://www.reddit.com/r/HamRadio/comments/1t3xklj/capacitor_or_no_capacitor_in_efhw/)**
-by u/Throw20701
 
 ---
 
@@ -109,15 +109,15 @@ by u/Throw20701
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1t3h0fg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Finally pulled Ohio out of the noise](https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/)** (r/amateurradio)
-- **[So I’ve Been Learning CW](https://www.reddit.com/r/amateurradio/comments/1t4knhn/so_ive_been_learning_cw/)** (r/amateurradio)
-- **[Call sign operator N7AK Alvin F Kanda from Hawaii has passed away (lon...](https://www.reddit.com/r/amateurradio/comments/1t4gqjp/call_sign_operator_n7ak_alvin_f_kanda_from_hawaii/)** (r/amateurradio)
-- **[Just got a digital](https://www.reddit.com/r/amateurradio/comments/1t4vco9/just_got_a_digital/)** (r/amateurradio)
-- **[I came across an unusual dx station today.](https://www.reddit.com/r/amateurradio/comments/1t4x1pm/i_came_across_an_unusual_dx_station_today/)** (r/amateurradio)
-- **[I spent the winter porting VOACAP from Fortran to Swift. HamPulse is o...](https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/)** (r/amateurradio)
-- **[Magnetic loop antenna I built, using a homebrew variable capacitor](https://www.reddit.com/r/amateurradio/comments/1t54h8h/magnetic_loop_antenna_i_built_using_a_homebrew/)** (r/amateurradio)
-- **[How many antennas?](https://www.reddit.com/r/amateurradio/comments/1t4h3k8/how_many_antennas/)** (r/amateurradio)
-- **[Can we do something about the AI Slop please](https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/)** (r/amateurradio)
+- **[My dad's way to check on his radio from his iPhone](https://www.reddit.com/r/amateurradio/comments/1t65ism/my_dads_way_to_check_on_his_radio_from_his_iphone/)** (r/amateurradio)
+- **[Just Passed My Technician Exam!](https://www.reddit.com/r/amateurradio/comments/1t5td9x/just_passed_my_technician_exam/)** (r/amateurradio)
+- **[Now Kiss!](https://www.reddit.com/r/amateurradio/comments/1t5vr07/now_kiss/)** (r/amateurradio)
+- **[Yet another hamclock inspired clock](https://www.reddit.com/r/amateurradio/comments/1t66kh9/yet_another_hamclock_inspired_clock/)** (r/amateurradio)
+- **[Long shot but does anyone have real world gain differences between the...](https://www.reddit.com/r/amateurradio/comments/1t68g1e/long_shot_but_does_anyone_have_real_world_gain/)** (r/amateurradio)
+- **[How to use a « ferrite spire » as an antenna](https://www.reddit.com/r/amateurradio/comments/1t660l8/how_to_use_a_ferrite_spire_as_an_antenna/)** (r/amateurradio)
+- **[DMR](https://www.reddit.com/r/amateurradio/comments/1t67tcs/dmr/)** (r/amateurradio)
+- **[Actions: triggering remote events securely over APRS with Graywolf](https://www.reddit.com/r/amateurradio/comments/1t5upuh/actions_triggering_remote_events_securely_over/)** (r/amateurradio)
+- **[SignalStuff BNC adapter on Kenwood TH-D75A photos](https://www.reddit.com/r/amateurradio/comments/1t5hoo9/signalstuff_bnc_adapter_on_kenwood_thd75a_photos/)** (r/amateurradio)
 
 ---
 

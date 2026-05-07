@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T12:56:48.634680",
+  "updated": "2026-05-07T12:58:37.913916",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -12,9 +12,64 @@
         "author": "/u/AutoModerator"
       },
       {
+        "title": "My dad's way to check on his radio from his iPhone",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t65ism/my_dads_way_to_check_on_his_radio_from_his_iphone/",
+        "author": "/u/Italyans"
+      },
+      {
+        "title": "Just Passed My Technician Exam!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5td9x/just_passed_my_technician_exam/",
+        "author": "/u/Disgruntled_Veteran"
+      },
+      {
+        "title": "Now Kiss!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5vr07/now_kiss/",
+        "author": "/u/munsterrr"
+      },
+      {
+        "title": "Yet another hamclock inspired clock",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t66kh9/yet_another_hamclock_inspired_clock/",
+        "author": "/u/bobowzki"
+      },
+      {
+        "title": "Long shot but does anyone have real world gain differences between the stock antenna on an FT65R and a SignalStick?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t68g1e/long_shot_but_does_anyone_have_real_world_gain/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "How to use a \u00ab ferrite spire \u00bb as an antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t660l8/how_to_use_a_ferrite_spire_as_an_antenna/",
+        "author": "/u/PitifulInstruction81"
+      },
+      {
+        "title": "DMR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t67tcs/dmr/",
+        "author": "/u/gilboy_69"
+      },
+      {
+        "title": "Actions: triggering remote events securely over APRS with Graywolf",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5upuh/actions_triggering_remote_events_securely_over/",
+        "author": "/u/desertdefender"
+      },
+      {
+        "title": "SignalStuff BNC adapter on Kenwood TH-D75A photos",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5hoo9/signalstuff_bnc_adapter_on_kenwood_thd75a_photos/",
+        "author": "/u/TheSmurfSwag"
+      },
+      {
         "title": "Finally pulled Ohio out of the noise",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t57d0m/finally_pulled_ohio_out_of_the_noise/",
         "author": "/u/PurpleHumanTaco"
+      },
+      {
+        "title": "I'm Totally Stumped! No power output on some modes, IC-7300.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5sjsl/im_totally_stumped_no_power_output_on_some_modes/",
+        "author": "/u/Fabulous_Bunch5965"
+      },
+      {
+        "title": "Best aprs hand held",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5v3di/best_aprs_hand_held/",
+        "author": "/u/OkPaleontologist6618"
       },
       {
         "title": "So I\u2019ve Been Learning CW",
@@ -22,9 +77,24 @@
         "author": "/u/whynotaskmetwice"
       },
       {
+        "title": "Silly ATU Question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5p88x/silly_atu_question/",
+        "author": "/u/munsterrr"
+      },
+      {
         "title": "Call sign operator N7AK Alvin F Kanda from Hawaii has passed away (lonely death), searching for anyone who knew him, a small tribute",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t4gqjp/call_sign_operator_n7ak_alvin_f_kanda_from_hawaii/",
         "author": "/u/Many_Big_6324"
+      },
+      {
+        "title": "Icom IC-R8600 product status?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5ip2v/icom_icr8600_product_status/",
+        "author": "/u/fpmacko"
+      },
+      {
+        "title": "QRZ-1 can TX on simplex, RX repeaters, but not TX repeaters. Anyone have a clue how to fix this?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5l5ct/qrz1_can_tx_on_simplex_rx_repeaters_but_not_tx/",
+        "author": "/u/Yeah_IPlayHockey"
       },
       {
         "title": "Just got a digital",
@@ -32,14 +102,24 @@
         "author": "/u/leisel9412"
       },
       {
+        "title": "iCom 3400ds 14 pin connector",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5gmr1/icom_3400ds_14_pin_connector/",
+        "author": "/u/Father_Julio"
+      },
+      {
+        "title": "Help finding a good antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5du9n/help_finding_a_good_antenna/",
+        "author": "/u/vJewi"
+      },
+      {
         "title": "I came across an unusual dx station today.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t4x1pm/i_came_across_an_unusual_dx_station_today/",
         "author": "/u/couchpilot"
       },
       {
-        "title": "I spent the winter porting VOACAP from Fortran to Swift. HamPulse is on the App Store today.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/",
-        "author": "/u/electricburn"
+        "title": "Good radio + aerial for listening to ATC?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t5rbgn/good_radio_aerial_for_listening_to_atc/",
+        "author": "/u/user193849201"
       },
       {
         "title": "Magnetic loop antenna I built, using a homebrew variable capacitor",
@@ -47,89 +127,9 @@
         "author": "/u/Affectionate_Two255"
       },
       {
-        "title": "How many antennas?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4h3k8/how_many_antennas/",
-        "author": "/u/rhouse2008"
-      },
-      {
-        "title": "Can we do something about the AI Slop please",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t49z6i/can_we_do_something_about_the_ai_slop_please/",
-        "author": "/u/Mikethedrywaller"
-      },
-      {
-        "title": "Today's episode of \"Because I can\". A 3D printable model of the red base antenna body",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4x86s/todays_episode_of_because_i_can_a_3d_printable/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "DIY or Factory build HF radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4xvrt/diy_or_factory_build_hf_radio/",
-        "author": "/u/Own_Valuable_6131"
-      },
-      {
-        "title": "Trailwave - a native macOS POTA hunting app",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4vkva/trailwave_a_native_macos_pota_hunting_app/",
-        "author": "/u/Less-Chicken-4600"
-      },
-      {
-        "title": "Looking for dimensions for an OE-254 assembly (AS-3166 part specifically) for 3D printing",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t503ol/looking_for_dimensions_for_an_oe254_assembly/",
-        "author": "/u/SelectionPresent9698"
-      },
-      {
-        "title": "Help selecting antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t5864q/help_selecting_antenna/",
-        "author": "/u/Pajsen"
-      },
-      {
-        "title": "Identifying as portable - when?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4pw6d/identifying_as_portable_when/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Managing my ASL3 repeater\u2019s digital bridges was a mess, so I built a web dashboard for it.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t500hs/managing_my_asl3_repeaters_digital_bridges_was_a/",
-        "author": "/u/Repulsive-Taro6494"
-      },
-      {
-        "title": "Inspired by the improvised CW paddles posted here last week, I crudely whipped together this iambic glove thing!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t3y17u/inspired_by_the_improvised_cw_paddles_posted_here/",
-        "author": "/u/EnvironmentalIce8411"
-      },
-      {
-        "title": "1 mic for radio and pc",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4q92y/1_mic_for_radio_and_pc/",
-        "author": "/u/skirtch11"
-      },
-      {
-        "title": "Fediverse meet-up at Hamvention 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4i8z6/fediverse_meetup_at_hamvention_2026/",
-        "author": "/u/K4HCK"
-      },
-      {
-        "title": "New life new shack\u2026new questions",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4phs6/new_life_new_shacknew_questions/",
-        "author": "/u/DependentSalt1330"
-      },
-      {
-        "title": "915 mHz antenna construction",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4y809/915_mhz_antenna_construction/",
-        "author": "/u/Thaumarchaeota"
-      },
-      {
-        "title": "My First attempt at a repair.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4fb17/my_first_attempt_at_a_repair/",
-        "author": "/u/Hungry-Translator313"
-      },
-      {
-        "title": "What replacement HT should I buy, triband that can replace the BtechUVPRO?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t4uh0z/what_replacement_ht_should_i_buy_triband_that_can/",
-        "author": "/u/bluebagles"
-      },
-      {
-        "title": "I found amusing\u2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1t3mqdb/i_found_amusing/",
-        "author": "/u/LollieLoo"
+        "title": "I spent the winter porting VOACAP from Fortran to Swift. HamPulse is on the App Store today.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1t4k21i/i_spent_the_winter_porting_voacap_from_fortran_to/",
+        "author": "/u/electricburn"
       }
     ],
     "HamRadio": [
@@ -144,9 +144,39 @@
         "author": "/u/SharkSapphire"
       },
       {
+        "title": "Is the license exam given by certain organizations on behalf of the FCC?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t639ci/is_the_license_exam_given_by_certain/",
+        "author": "/u/Substantial-Cow1713"
+      },
+      {
+        "title": "Newbie signal help, any advice please",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t67ely/newbie_signal_help_any_advice_please/",
+        "author": "/u/Cultural_Ad_525"
+      },
+      {
+        "title": "What do you guys think of this radio?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t5o4hh/what_do_you_guys_think_of_this_radio/",
+        "author": "/u/Jynxair"
+      },
+      {
+        "title": "Is the Yaesu FT-100D worth it in 2026?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t5o75f/is_the_yaesu_ft100d_worth_it_in_2026/",
+        "author": "/u/TioPeter_"
+      },
+      {
         "title": "I found a signal i don't know what is.",
         "link": "https://www.reddit.com/r/HamRadio/comments/1t4q4fe/i_found_a_signal_i_dont_know_what_is/",
         "author": "/u/sindwar"
+      },
+      {
+        "title": "Icom IC-R8600 receiver product status?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t5iv4p/icom_icr8600_receiver_product_status/",
+        "author": "/u/fpmacko"
+      },
+      {
+        "title": "New TYT MD-UV390 Format on RadioID",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t5mrle/new_tyt_mduv390_format_on_radioid/",
+        "author": "/u/LadyHwesta"
       },
       {
         "title": "Help ID this radio contraption my uncle built.",
@@ -159,14 +189,19 @@
         "author": "/u/Hefty_Lemon_7928"
       },
       {
+        "title": "My new dipole. Think I can build a yagi off of this?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t4dshg/my_new_dipole_think_i_can_build_a_yagi_off_of_this/",
+        "author": "/u/brent_maxwell"
+      },
+      {
         "title": "Help, TYT MD380 programming troubles",
         "link": "https://www.reddit.com/r/HamRadio/comments/1t5a65r/help_tyt_md380_programming_troubles/",
         "author": "/u/Consistent_Host7483"
       },
       {
-        "title": "My new dipole. Think I can build a yagi off of this?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t4dshg/my_new_dipole_think_i_can_build_a_yagi_off_of_this/",
-        "author": "/u/brent_maxwell"
+        "title": "Help on which scanner to get, Icom ic r6 vs Bearcat bc125xlt",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1t5hcr2/help_on_which_scanner_to_get_icom_ic_r6_vs/",
+        "author": "/u/AbbreviationsBig4248"
       },
       {
         "title": "Need help understanding what is going on with my setup",
@@ -222,41 +257,6 @@
         "title": "Amateur radio club fundraiser for my school",
         "link": "https://www.reddit.com/r/HamRadio/comments/1t3o6r5/amateur_radio_club_fundraiser_for_my_school/",
         "author": "/u/GODLY_STUPID"
-      },
-      {
-        "title": "Getting a UV-5R mini for Marine use",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t47rh8/getting_a_uv5r_mini_for_marine_use/",
-        "author": "/u/sebaru00"
-      },
-      {
-        "title": "Trying to get myself into a new hobby yet again",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t3bhjr/trying_to_get_myself_into_a_new_hobby_yet_again/",
-        "author": "/u/Impossible-Lead4469"
-      },
-      {
-        "title": "Anyone making QSOs using the CQ function?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t42927/anyone_making_qsos_using_the_cq_function/",
-        "author": "/u/KB5JRC"
-      },
-      {
-        "title": "Frustration: What Am I Doing Wrong?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t2wd5c/frustration_what_am_i_doing_wrong/",
-        "author": "/u/Marauder_Recruiter1"
-      },
-      {
-        "title": "Even with a common mode choke, I am still able to hear myself through my home theater system.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t2lnx6/even_with_a_common_mode_choke_i_am_still_able_to/",
-        "author": "/u/tundra1989"
-      },
-      {
-        "title": "RF CM Choke Efficiency of Ferrites",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t343ue/rf_cm_choke_efficiency_of_ferrites/",
-        "author": "/u/Throw20701"
-      },
-      {
-        "title": "Anyone have an idea of value for these? Separately or as a set?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1t2lqtu/anyone_have_an_idea_of_value_for_these_separately/",
-        "author": "/u/just_a_mountaineer"
       }
     ]
   }

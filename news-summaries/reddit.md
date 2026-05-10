@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-09 11:52 UTC*
+*Last updated: 2026-05-10 11:54 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [What is this ?](https://www.reddit.com/r/amateurradio/comments/1t7h8mn/what_is_this/)**
-by u/Just1bridou
+**3. [I mean I guess if it works right?!](https://www.reddit.com/r/amateurradio/comments/1t8thou/i_mean_i_guess_if_it_works_right/)**
+by u/Cultural-Nothing-372
 
-**4. [Silliest reason to get an Amateur Extra license?](https://www.reddit.com/r/amateurradio/comments/1t7lsjt/silliest_reason_to_get_an_amateur_extra_license/)**
-by u/JanglyBangles
+**4. [First time getting SSTV from the ISS](https://www.reddit.com/r/amateurradio/comments/1t8yfs4/first_time_getting_sstv_from_the_iss/)**
+by u/sammyhjax123
 
-**5. [What did I find in my uncles house?](https://www.reddit.com/r/amateurradio/comments/1t7pg3t/what_did_i_find_in_my_uncles_house/)**
-by u/mlcolosimo
+**5. [Rhizomatica releases Mercury, a fully open-source modem for data communications ...](https://www.reddit.com/r/amateurradio/comments/1t8qc9w/rhizomatica_releases_mercury_a_fully_opensource/)**
+by u/g-schro
 
-**6. [Illinois flatlands.](https://www.reddit.com/r/amateurradio/comments/1t7f9sw/illinois_flatlands/)**
-by u/xx_actual
+**6. [Found myself an HT](https://www.reddit.com/r/amateurradio/comments/1t8bozz/found_myself_an_ht/)**
+by u/djuggler
 
-**7. [Profanity on the ISS cross-band repeater](https://www.reddit.com/r/amateurradio/comments/1t7r0iw/profanity_on_the_iss_crossband_repeater/)**
-by u/Thoreaushadeau
+**7. [What is the name of this antenna design?](https://www.reddit.com/r/amateurradio/comments/1t8ptw9/what_is_the_name_of_this_antenna_design/)**
+by u/Chris56855865
 
-**8. [Battery Power](https://www.reddit.com/r/amateurradio/comments/1t7z0jm/battery_power/)**
-by u/TheUnkown696
+**8. [The Lewis and Clark on the Air expedition starts in 27 days.](https://www.reddit.com/r/amateurradio/comments/1t8x0rb/the_lewis_and_clark_on_the_air_expedition_starts/)**
+by u/Outrageous_Worth2273
 
-**9. [Mag mount portable with 17’ whip](https://www.reddit.com/r/amateurradio/comments/1t7on62/mag_mount_portable_with_17_whip/)**
-by u/Various-String-9215
+**9. [Having way to much fun](https://www.reddit.com/r/amateurradio/comments/1t8s4xy/having_way_to_much_fun/)**
+by u/LadyHwesta
 
-**10. [ISO gssh-01-01 information](https://www.reddit.com/r/amateurradio/comments/1t7vos0/iso_gssh0101_information/)**
-by u/The_SlavicCombat
+**10. [📡 Get Your QSL: Armed Forces Day Crossband Test with NSS Annapolis, happening no...](https://www.reddit.com/r/amateurradio/comments/1t8cpdm/get_your_qsl_armed_forces_day_crossband_test_with/)**
+by u/mtreece
 
-**11. [FT-8800 not R, MARS mod for use in US?](https://www.reddit.com/r/amateurradio/comments/1t7qikc/ft8800_not_r_mars_mod_for_use_in_us/)**
-by u/darktideDay1
+**11. [Radio Item ID](https://www.reddit.com/r/amateurradio/comments/1t878cg/radio_item_id/)**
+by u/just-a-guy-somewhere
 
-**12. [anyone using a virtual address service for their license?](https://www.reddit.com/r/amateurradio/comments/1t72f9t/anyone_using_a_virtual_address_service_for_their/)**
-by u/henare
+**12. [Graywolf on Android?!?!](https://www.reddit.com/r/amateurradio/comments/1t8ytde/graywolf_on_android/)**
+by u/desertdefender
 
-**13. [7300MkII USB Modulation Issue](https://www.reddit.com/r/amateurradio/comments/1t7typj/7300mkii_usb_modulation_issue/)**
-by u/TheBlackKnight358
+**13. [My QRZ-1 does a better job of picking up ISS SSTV than my FT-65R](https://www.reddit.com/r/amateurradio/comments/1t8ubgm/my_qrz1_does_a_better_job_of_picking_up_iss_sstv/)**
+by u/thesoulless78
 
-**14. [What is this repeating noise up and down the band?](https://www.reddit.com/r/amateurradio/comments/1t7tu80/what_is_this_repeating_noise_up_and_down_the_band/)**
-by u/Sea_Importance_4417
+**14. [Studying for Technician](https://www.reddit.com/r/amateurradio/comments/1t92a8r/studying_for_technician/)**
+by u/swag-report
 
-**15. [Xeigu x6200 SWR scan always 1:1](https://www.reddit.com/r/amateurradio/comments/1t7limu/xeigu_x6200_swr_scan_always_11/)**
-by u/oromex
+**15. [RF sampling with wire around coax safe?](https://www.reddit.com/r/amateurradio/comments/1t8o2ol/rf_sampling_with_wire_around_coax_safe/)**
+by u/jimmyy69420
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Is this a Ham radio antenna? It's massive. Drove by this house in Arizona and lo...](https://www.reddit.com/r/HamRadio/comments/1t7ji62/is_this_a_ham_radio_antenna_its_massive_drove_by/)**
+**3. [anyone know what kind of antenna this is?](https://www.reddit.com/r/HamRadio/comments/1t8us2h/anyone_know_what_kind_of_antenna_this_is/)**
+by u/cweber219
+
+**4. [I finally figured out what to do with that old DirecTV antenna. You know, a bird...](https://www.reddit.com/r/HamRadio/comments/1t8r0ea/i_finally_figured_out_what_to_do_with_that_old/)**
+by u/redstarfutbolclub
+
+**5. [I live in a small apartment and worried Ham radio wont be any use.](https://www.reddit.com/r/HamRadio/comments/1t8o57r/i_live_in_a_small_apartment_and_worried_ham_radio/)**
+by u/PsychoMantisKw
+
+**6. [Why is my ICOM IC-R8600 cutting out?](https://www.reddit.com/r/HamRadio/comments/1t8qh18/why_is_my_icom_icr8600_cutting_out/)**
+by u/FillEvening687
+
+**7. [Car Mesh Receiver Meshtastic or Meshcore](https://www.reddit.com/r/HamRadio/comments/1t8ktyw/car_mesh_receiver_meshtastic_or_meshcore/)**
+by u/Logical_Carrot267
+
+**8. [Datastorage on punch cards, and reading them optically](https://www.reddit.com/r/HamRadio/comments/1t948hn/datastorage_on_punch_cards_and_reading_them/)**
+by u/External-Quarter2147
+
+**9. [I have acquired two Kenwood transceivers and was wondering if I can post their i...](https://www.reddit.com/r/HamRadio/comments/1t8zxmw/i_have_acquired_two_kenwood_transceivers_and_was/)**
+by u/dberlier
+
+**10. [RG174 good for V/UHF or losing time?](https://www.reddit.com/r/HamRadio/comments/1t8zscj/rg174_good_for_vuhf_or_losing_time/)**
+by u/ThePhoDit
+
+**11. [Ham radio shops around Amsterdam?](https://www.reddit.com/r/HamRadio/comments/1t8ci5p/ham_radio_shops_around_amsterdam/)**
+by u/viruswhisperer
+
+**12. [Is this a Ham radio antenna? It's massive. Drove by this house in Arizona and lo...](https://www.reddit.com/r/HamRadio/comments/1t7ji62/is_this_a_ham_radio_antenna_its_massive_drove_by/)**
 by u/jamieee1995
 
-**4. [Getting a ham radio kit soon from a friend. Anything i should do first?](https://www.reddit.com/r/HamRadio/comments/1t80pfo/getting_a_ham_radio_kit_soon_from_a_friend/)**
+**13. [Getting a ham radio kit soon from a friend. Anything i should do first?](https://www.reddit.com/r/HamRadio/comments/1t80pfo/getting_a_ham_radio_kit_soon_from_a_friend/)**
 by u/NORTHERNTWITCH
 
-**5. [Looking for advice on a Yagi build](https://www.reddit.com/r/HamRadio/comments/1t7t0p7/looking_for_advice_on_a_yagi_build/)**
-by u/yyyythats5ys
+**14. [Budget hf mobile 100 watt radio](https://www.reddit.com/r/HamRadio/comments/1t8doi1/budget_hf_mobile_100_watt_radio/)**
+by u/AdStandard8537
 
-**6. [Anyone know the name of this connector?](https://www.reddit.com/r/HamRadio/comments/1t7f3dh/anyone_know_the_name_of_this_connector/)**
-by u/Soap_Box_Hero
-
-**7. [r/whatisthis suggested this might be a Ham radio tower? It's currently connected...](https://www.reddit.com/r/HamRadio/comments/1t7ls4d/rwhatisthis_suggested_this_might_be_a_ham_radio/)**
-by u/Cthulhetta
-
-**8. [Decoding morse code received at 40m in UK](https://www.reddit.com/r/HamRadio/comments/1t7qh7s/decoding_morse_code_received_at_40m_in_uk/)**
-by u/MisryMan
-
-**9. [Necesito ayuda, soy nuevo en la radioaficion 😖😖😖😖😔](https://www.reddit.com/r/HamRadio/comments/1t7vww3/necesito_ayuda_soy_nuevo_en_la_radioaficion/)**
-by u/Practical_Delay_5151
-
-**10. [I want to build a radio set up that invokes the feel of the old backpack radio ....](https://www.reddit.com/r/HamRadio/comments/1t7j2q5/i_want_to_build_a_radio_set_up_that_invokes_the/)**
-by u/srtdoc
-
-**11. [Pretty cool visualizing who I can spot in San Diego via FT8!](https://www.reddit.com/r/HamRadio/comments/1t6xvty/pretty_cool_visualizing_who_i_can_spot_in_san/)**
-by u/thevmcampos
-
-**12. [My new mobile shack, 5x8 with 840 watts of solar, 280AH of lithium, and 12VDC ai...](https://www.reddit.com/r/HamRadio/comments/1t6gs21/my_new_mobile_shack_5x8_with_840_watts_of_solar/)**
-by u/Top-Audience3980
-
-**13. [Aviation intercom + headsets and 2730a](https://www.reddit.com/r/HamRadio/comments/1t7gjoj/aviation_intercom_headsets_and_2730a/)**
-by u/kylesarit
-
-**14. [DroidStar for Android has no password field for AmComm](https://www.reddit.com/r/HamRadio/comments/1t7kq1w/droidstar_for_android_has_no_password_field_for/)**
-by u/KB5JRC
-
-**15. [Reading a 70cm Antenna SWR Graph](https://www.reddit.com/r/HamRadio/comments/1t6t683/reading_a_70cm_antenna_swr_graph/)**
-by u/Throw20701
+**15. [Yaesu FT5DR & CT-44 headset adapter](https://www.reddit.com/r/HamRadio/comments/1t8oans/yaesu_ft5dr_ct44_headset_adapter/)**
+by u/Ok_Fondant1079
 
 ---
 
@@ -110,14 +110,14 @@ by u/Throw20701
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1t3h0fg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[What is this ?](https://www.reddit.com/r/amateurradio/comments/1t7h8mn/what_is_this/)** (r/amateurradio)
-- **[Silliest reason to get an Amateur Extra license?](https://www.reddit.com/r/amateurradio/comments/1t7lsjt/silliest_reason_to_get_an_amateur_extra_license/)** (r/amateurradio)
-- **[What did I find in my uncles house?](https://www.reddit.com/r/amateurradio/comments/1t7pg3t/what_did_i_find_in_my_uncles_house/)** (r/amateurradio)
-- **[Illinois flatlands.](https://www.reddit.com/r/amateurradio/comments/1t7f9sw/illinois_flatlands/)** (r/amateurradio)
-- **[Profanity on the ISS cross-band repeater](https://www.reddit.com/r/amateurradio/comments/1t7r0iw/profanity_on_the_iss_crossband_repeater/)** (r/amateurradio)
-- **[Battery Power](https://www.reddit.com/r/amateurradio/comments/1t7z0jm/battery_power/)** (r/amateurradio)
-- **[Mag mount portable with 17’ whip](https://www.reddit.com/r/amateurradio/comments/1t7on62/mag_mount_portable_with_17_whip/)** (r/amateurradio)
-- **[ISO gssh-01-01 information](https://www.reddit.com/r/amateurradio/comments/1t7vos0/iso_gssh0101_information/)** (r/amateurradio)
+- **[I mean I guess if it works right?!](https://www.reddit.com/r/amateurradio/comments/1t8thou/i_mean_i_guess_if_it_works_right/)** (r/amateurradio)
+- **[First time getting SSTV from the ISS](https://www.reddit.com/r/amateurradio/comments/1t8yfs4/first_time_getting_sstv_from_the_iss/)** (r/amateurradio)
+- **[Rhizomatica releases Mercury, a fully open-source modem for data commu...](https://www.reddit.com/r/amateurradio/comments/1t8qc9w/rhizomatica_releases_mercury_a_fully_opensource/)** (r/amateurradio)
+- **[Found myself an HT](https://www.reddit.com/r/amateurradio/comments/1t8bozz/found_myself_an_ht/)** (r/amateurradio)
+- **[What is the name of this antenna design?](https://www.reddit.com/r/amateurradio/comments/1t8ptw9/what_is_the_name_of_this_antenna_design/)** (r/amateurradio)
+- **[The Lewis and Clark on the Air expedition starts in 27 days.](https://www.reddit.com/r/amateurradio/comments/1t8x0rb/the_lewis_and_clark_on_the_air_expedition_starts/)** (r/amateurradio)
+- **[Having way to much fun](https://www.reddit.com/r/amateurradio/comments/1t8s4xy/having_way_to_much_fun/)** (r/amateurradio)
+- **[📡 Get Your QSL: Armed Forces Day Crossband Test with NSS Annapolis, ha...](https://www.reddit.com/r/amateurradio/comments/1t8cpdm/get_your_qsl_armed_forces_day_crossband_test_with/)** (r/amateurradio)
 
 ---
 

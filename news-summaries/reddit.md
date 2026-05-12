@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-11 13:48 UTC*
+*Last updated: 2026-05-12 13:05 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [6m is hopping](https://www.reddit.com/r/amateurradio/comments/1t9kzvq/6m_is_hopping/)**
-by u/SwitchedOnNow
+**3. [ISS SSTV Images](https://www.reddit.com/r/amateurradio/comments/1tao2tv/iss_sstv_images/)**
+by u/Iamthesaga
 
-**4. [End Fed Half Wave](https://www.reddit.com/r/amateurradio/comments/1t9zp0i/end_fed_half_wave/)**
-by u/TheUnkown696
+**4. [I received my first call sign as Technician in October, my test for General is s...](https://www.reddit.com/r/amateurradio/comments/1ta6xv4/i_received_my_first_call_sign_as_technician_in/)**
+by u/SeadawgVB
 
-**5. [ARRL Dual-Band 2 m/70cm Handheld Yagi Antenna](https://www.reddit.com/r/amateurradio/comments/1ta38na/arrl_dualband_2_m70cm_handheld_yagi_antenna/)**
-by u/ShibaNMNY
+**5. [Bulletpoint Mount for Yaesu Radio](https://www.reddit.com/r/amateurradio/comments/1tamxgc/bulletpoint_mount_for_yaesu_radio/)**
+by u/Iamthesaga
 
-**6. [“I can put an antenna on that!”](https://www.reddit.com/r/amateurradio/comments/1t9m0xt/i_can_put_an_antenna_on_that/)**
-by u/Newbie_nudibranch
+**6. [Bioenno BLF-1220AS label says “40A Max Continuous.” The PCM board is 30A. I cont...](https://www.reddit.com/r/amateurradio/comments/1tafyjy/bioenno_blf1220as_label_says_40a_max_continuous/)**
+by u/Capable_Sock4011
 
-**7. [Radio check vs signal report](https://www.reddit.com/r/amateurradio/comments/1t9leoq/radio_check_vs_signal_report/)**
-by u/AmbassadorCool3705
+**7. [Which side to take in logbook war?](https://www.reddit.com/r/amateurradio/comments/1tae8ql/which_side_to_take_in_logbook_war/)**
+by u/Snail5919
 
-**8. [Hot take: Hamstudy.org's "hints" are detrimental to actually learning about radi...](https://www.reddit.com/r/amateurradio/comments/1t9p589/hot_take_hamstudyorgs_hints_are_detrimental_to/)**
-by u/spilk
+**8. [Got my Tech ticket last fall, trying to bridge from commercial DMR (what I run a...](https://www.reddit.com/r/amateurradio/comments/1taqsr5/got_my_tech_ticket_last_fall_trying_to_bridge/)**
+by u/korgoaso
 
-**9. [Exclusive MFJ Documentary Screening: This Saturday at the Dayton Hamvention](https://www.reddit.com/r/amateurradio/comments/1t9dxho/exclusive_mfj_documentary_screening_this_saturday/)**
-by u/MFJDocumentary
+**9. [First SSTV reception](https://www.reddit.com/r/amateurradio/comments/1ta751v/first_sstv_reception/)**
+by u/Ok-Tap-7439
 
-**10. [How do operators prove they operated out of a rare grid?](https://www.reddit.com/r/amateurradio/comments/1t9qtfr/how_do_operators_prove_they_operated_out_of_a/)**
+**10. [Strange Spectrum Analysis](https://www.reddit.com/r/amateurradio/comments/1tak1yf/strange_spectrum_analysis/)**
+by u/leashofzeus
+
+**11. [Any experience with www.prohamradiogear.com?](https://www.reddit.com/r/amateurradio/comments/1taj9tk/any_experience_with_wwwprohamradiogearcom/)**
+by u/wfd11777
+
+**12. [Booster Amp](https://www.reddit.com/r/amateurradio/comments/1ta8jdf/booster_amp/)**
+by u/MentalEggplant9275
+
+**13. [Setup of day. I listened morse but I couldn't decode. What is your method?](https://www.reddit.com/r/amateurradio/comments/1taadiu/setup_of_day_i_listened_morse_but_i_couldnt/)**
+by u/kahvekokanfizikci
+
+**14. [If you worked ISS around 2025-05-10 04:10 - 04:30 UTC](https://www.reddit.com/r/amateurradio/comments/1talnqp/if_you_worked_iss_around_20250510_0410_0430_utc/)**
 by u/GiantsNerd1
 
-**11. [Get ready for CW on Field Day!](https://www.reddit.com/r/amateurradio/comments/1t9qdf4/get_ready_for_cw_on_field_day/)**
-by u/mcdanlj
-
-**12. [moving short video about a silent key (and what to do with his equipment)](https://www.reddit.com/r/amateurradio/comments/1t9puy3/moving_short_video_about_a_silent_key_and_what_to/)**
-by u/turquoiseblues
-
-**13. [Can I request a QSL card from a NOAA weather balloon?](https://www.reddit.com/r/amateurradio/comments/1ta1nt4/can_i_request_a_qsl_card_from_a_noaa_weather/)**
-by u/WisconsinCameraMan
-
-**14. [Alias de Radio Motorola DEP450 - CPS 2.0](https://www.reddit.com/r/amateurradio/comments/1ta1ayj/alias_de_radio_motorola_dep450_cps_20/)**
-by u/Adventurous-Young525
-
-**15. [Before I send my radio into Yaesu..](https://www.reddit.com/r/amateurradio/comments/1t97waq/before_i_send_my_radio_into_yaesu/)**
-by u/Tacoma_NC13
+**15. [LoTW outage: check your uploaded QSOs](https://www.reddit.com/r/amateurradio/comments/1ta770t/lotw_outage_check_your_uploaded_qsos/)**
+by u/KvdHout
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [ARRL Dual-Band 2 m/70cm Handheld Yagi Antenna](https://www.reddit.com/r/HamRadio/comments/1ta3b6j/arrl_dualband_2_m70cm_handheld_yagi_antenna/)**
-by u/ShibaNMNY
+**3. [Purchased my first HF! Yaesu 897D](https://www.reddit.com/r/HamRadio/comments/1tazwx6/purchased_my_first_hf_yaesu_897d/)**
+by u/bluebagles
 
-**4. [Beginner Setup Feedback: I need some feedback on a planned beginner handheld set...](https://www.reddit.com/r/HamRadio/comments/1t9o6jg/beginner_setup_feedback_i_need_some_feedback_on_a/)**
-by u/HASH_ASSES
+**4. [I received my first call sign as Technician in October, my test for General is s...](https://www.reddit.com/r/HamRadio/comments/1ta6zuz/i_received_my_first_call_sign_as_technician_in/)**
+by u/SeadawgVB
 
-**5. [Bandpass filters for QRP radios cheat sheet and more…](https://www.reddit.com/r/HamRadio/comments/1t9x7o7/bandpass_filters_for_qrp_radios_cheat_sheet_and/)**
+**5. [I made a home made antenna mast, need suggestions for what’s next](https://www.reddit.com/r/HamRadio/comments/1tarema/i_made_a_home_made_antenna_mast_need_suggestions/)**
+by u/ActualPrune9799
+
+**6. [Is this a vhf antenna or scanners antenna made by maxon](https://www.reddit.com/r/HamRadio/comments/1taxyc3/is_this_a_vhf_antenna_or_scanners_antenna_made_by/)**
+by u/robertva1
+
+**7. [Bioenno BLF-1220AS label says “40A Max Continuous.” The PCM board is 30A. I cont...](https://www.reddit.com/r/HamRadio/comments/1taggjh/bioenno_blf1220as_label_says_40a_max_continuous/)**
+by u/Capable_Sock4011
+
+**8. [Came across some Free education website while doing some research that might hel...](https://www.reddit.com/r/HamRadio/comments/1tan5m0/came_across_some_free_education_website_while/)**
 by u/Hamdaddy1976
 
-**6. [I think I'm going to start quoting RF power output in horsepower.](https://www.reddit.com/r/HamRadio/comments/1t9hr8r/i_think_im_going_to_start_quoting_rf_power_output/)**
-by u/NotThePopeProbably
+**9. [Do I need a ham license to use 433MHz in the US?](https://www.reddit.com/r/HamRadio/comments/1taom0g/do_i_need_a_ham_license_to_use_433mhz_in_the_us/)**
+by u/Particular-Award118
 
-**7. [What would this 1950’s era antenna be used for?](https://www.reddit.com/r/HamRadio/comments/1t9p5e6/what_would_this_1950s_era_antenna_be_used_for/)**
-by u/Yourmomsayshola
+**10. [Tell me why ham radio is cool pls](https://www.reddit.com/r/HamRadio/comments/1tb0u0y/tell_me_why_ham_radio_is_cool_pls/)**
+by u/TheRealKillJoy2020
 
-**8. [I just got my general class lisence!!](https://www.reddit.com/r/HamRadio/comments/1t966pi/i_just_got_my_general_class_lisence/)**
-by u/Oren_Hargil
+**11. [Looking for Android closed testers for CQBase Ham Quiz - FCC/ISED/CRAC amateur r...](https://www.reddit.com/r/HamRadio/comments/1taymhh/looking_for_android_closed_testers_for_cqbase_ham/)**
+by u/Flat_South708
 
-**9. [Community invited to Amateur Radio Field Day](https://www.reddit.com/r/HamRadio/comments/1t9t3rm/community_invited_to_amateur_radio_field_day/)**
-by u/SharkSapphire
+**12. [Does this have any value to a Ham Radio operator?](https://www.reddit.com/r/HamRadio/comments/1ta56gx/does_this_have_any_value_to_a_ham_radio_operator/)**
+by u/peartree77
 
-**10. [The State's last RadioShack, and students going hands on with Ham Radios](https://www.reddit.com/r/HamRadio/comments/1t98gqy/the_states_last_radioshack_and_students_going/)**
-by u/SharkSapphire
+**13. [Astron RS-20A Power Supply question](https://www.reddit.com/r/HamRadio/comments/1taeyx5/astron_rs20a_power_supply_question/)**
+by u/jaywan1991
 
-**11. [moving short video about a silent key (and what to do with his equipment)](https://www.reddit.com/r/HamRadio/comments/1t9px2f/moving_short_video_about_a_silent_key_and_what_to/)**
-by u/turquoiseblues
+**14. [Bandpass filters for QRP radios cheat sheet and more…](https://www.reddit.com/r/HamRadio/comments/1t9x7o7/bandpass_filters_for_qrp_radios_cheat_sheet_and/)**
+by u/Hamdaddy1976
 
-**12. [anyone know what kind of antenna this is?](https://www.reddit.com/r/HamRadio/comments/1t8us2h/anyone_know_what_kind_of_antenna_this_is/)**
-by u/cweber219
-
-**13. [Logging program recommendation please](https://www.reddit.com/r/HamRadio/comments/1t98ts1/logging_program_recommendation_please/)**
-by u/FrugalGuy007
-
-**14. [SWL Magazine; A free multi-lingual publication](https://www.reddit.com/r/HamRadio/comments/1t9cngh/swl_magazine_a_free_multilingual_publication/)**
-by u/stfreddit7
-
-**15. [Go Box interior panel mounting.](https://www.reddit.com/r/HamRadio/comments/1t9fm43/go_box_interior_panel_mounting/)**
-by u/1willi4
+**15. [AT D890 vs BTech 7x2 which is better objectively/in your opinion](https://www.reddit.com/r/HamRadio/comments/1tadrng/at_d890_vs_btech_7x2_which_is_better/)**
+by u/RealMrCactus
 
 ---
 
@@ -110,14 +110,14 @@ by u/1willi4
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ta2lkk/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[6m is hopping](https://www.reddit.com/r/amateurradio/comments/1t9kzvq/6m_is_hopping/)** (r/amateurradio)
-- **[End Fed Half Wave](https://www.reddit.com/r/amateurradio/comments/1t9zp0i/end_fed_half_wave/)** (r/amateurradio)
-- **[ARRL Dual-Band 2 m/70cm Handheld Yagi Antenna](https://www.reddit.com/r/amateurradio/comments/1ta38na/arrl_dualband_2_m70cm_handheld_yagi_antenna/)** (r/amateurradio)
-- **[“I can put an antenna on that!”](https://www.reddit.com/r/amateurradio/comments/1t9m0xt/i_can_put_an_antenna_on_that/)** (r/amateurradio)
-- **[Radio check vs signal report](https://www.reddit.com/r/amateurradio/comments/1t9leoq/radio_check_vs_signal_report/)** (r/amateurradio)
-- **[Hot take: Hamstudy.org's "hints" are detrimental to actually learning ...](https://www.reddit.com/r/amateurradio/comments/1t9p589/hot_take_hamstudyorgs_hints_are_detrimental_to/)** (r/amateurradio)
-- **[Exclusive MFJ Documentary Screening: This Saturday at the Dayton Hamve...](https://www.reddit.com/r/amateurradio/comments/1t9dxho/exclusive_mfj_documentary_screening_this_saturday/)** (r/amateurradio)
-- **[How do operators prove they operated out of a rare grid?](https://www.reddit.com/r/amateurradio/comments/1t9qtfr/how_do_operators_prove_they_operated_out_of_a/)** (r/amateurradio)
+- **[ISS SSTV Images](https://www.reddit.com/r/amateurradio/comments/1tao2tv/iss_sstv_images/)** (r/amateurradio)
+- **[I received my first call sign as Technician in October, my test for Ge...](https://www.reddit.com/r/amateurradio/comments/1ta6xv4/i_received_my_first_call_sign_as_technician_in/)** (r/amateurradio)
+- **[Bulletpoint Mount for Yaesu Radio](https://www.reddit.com/r/amateurradio/comments/1tamxgc/bulletpoint_mount_for_yaesu_radio/)** (r/amateurradio)
+- **[Bioenno BLF-1220AS label says “40A Max Continuous.” The PCM board is 3...](https://www.reddit.com/r/amateurradio/comments/1tafyjy/bioenno_blf1220as_label_says_40a_max_continuous/)** (r/amateurradio)
+- **[Which side to take in logbook war?](https://www.reddit.com/r/amateurradio/comments/1tae8ql/which_side_to_take_in_logbook_war/)** (r/amateurradio)
+- **[Got my Tech ticket last fall, trying to bridge from commercial DMR (wh...](https://www.reddit.com/r/amateurradio/comments/1taqsr5/got_my_tech_ticket_last_fall_trying_to_bridge/)** (r/amateurradio)
+- **[First SSTV reception](https://www.reddit.com/r/amateurradio/comments/1ta751v/first_sstv_reception/)** (r/amateurradio)
+- **[Strange Spectrum Analysis](https://www.reddit.com/r/amateurradio/comments/1tak1yf/strange_spectrum_analysis/)** (r/amateurradio)
 
 ---
 

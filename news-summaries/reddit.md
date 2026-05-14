@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-13 13:14 UTC*
+*Last updated: 2026-05-14 12:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Ask your neighbor about their antenna!](https://www.reddit.com/r/amateurradio/comments/1tbowhp/ask_your_neighbor_about_their_antenna/)**
+**3. [When a lifelong dream becomes a reality.](https://www.reddit.com/r/amateurradio/comments/1tcopaq/when_a_lifelong_dream_becomes_a_reality/)**
+by u/Blueberry_Mancakes
+
+**4. [High hex beam](https://www.reddit.com/r/amateurradio/comments/1tchlwy/high_hex_beam/)**
+by u/Stoneybaloney87
+
+**5. [Need help identifying an antenna](https://www.reddit.com/r/amateurradio/comments/1tcv2lg/need_help_identifying_an_antenna/)**
+by u/ChartDangerous9699
+
+**6. [Sudden Frustration With Propagation](https://www.reddit.com/r/amateurradio/comments/1tchzxw/sudden_frustration_with_propagation/)**
+by u/Weekly_Narwhal1588
+
+**7. [Any tips on how to use Morse code using tuning fork?](https://www.reddit.com/r/amateurradio/comments/1tcumtl/any_tips_on_how_to_use_morse_code_using_tuning/)**
+by u/SeparateReply7552
+
+**8. [Hi, I am a 14-year-old building an electromagnetic survey platform, and I’m look...](https://www.reddit.com/r/amateurradio/comments/1tcg8iu/hi_i_am_a_14yearold_building_an_electromagnetic/)**
+by u/WhatAPlumguy
+
+**9. [Late 1930’s Speed-x bug](https://www.reddit.com/r/amateurradio/comments/1tcwna0/late_1930s_speedx_bug/)**
+by u/ButterscotchWitty870
+
+**10. [Found a strange station on LW, anybody know what it is?](https://www.reddit.com/r/amateurradio/comments/1tcskhe/found_a_strange_station_on_lw_anybody_know_what/)**
+by u/expensiveplasticcup
+
+**11. [Setting up a new Win11 laptop for a Radio Club - Seeking advice on drivers & cod...](https://www.reddit.com/r/amateurradio/comments/1tcs7fq/setting_up_a_new_win11_laptop_for_a_radio_club/)**
+by u/Double_Gap_4599
+
+**12. [Ask your neighbor about their antenna!](https://www.reddit.com/r/amateurradio/comments/1tbowhp/ask_your_neighbor_about_their_antenna/)**
 by u/bigfrappe
 
-**4. [Look what you did to me!](https://www.reddit.com/r/amateurradio/comments/1tb57tp/look_what_you_did_to_me/)**
-by u/munsterrr
+**13. [Has anyone transmitted on 10-11 meters using Diamond D3000N discone?](https://www.reddit.com/r/amateurradio/comments/1tcpdcx/has_anyone_transmitted_on_1011_meters_using/)**
+by u/dt7cv
 
-**5. [CW brain freeze](https://www.reddit.com/r/amateurradio/comments/1tbuiya/cw_brain_freeze/)**
-by u/Immediate-Cause-5563
-
-**6. [I published a fiction book with ham radio as a major part!](https://www.reddit.com/r/amateurradio/comments/1tbm7tb/i_published_a_fiction_book_with_ham_radio_as_a/)**
-by u/SawyersReach
-
-**7. [Good FT8 opening on 6m right now across the southern US and Mexico, but nobody's...](https://www.reddit.com/r/amateurradio/comments/1tblz6g/good_ft8_opening_on_6m_right_now_across_the/)**
+**14. [Highest quality hand mics that can be plugged into an 8 pin mic jack, either dir...](https://www.reddit.com/r/amateurradio/comments/1tcgmbg/highest_quality_hand_mics_that_can_be_plugged/)**
 by u/EmotioneelKlootzak
 
-**8. [Better single ear ear bud/PTT mic for bicycling?](https://www.reddit.com/r/amateurradio/comments/1tbnn1l/better_single_ear_ear_budptt_mic_for_bicycling/)**
-by u/ali_j_ashraf
-
-**9. [Can I use my power supply with my transciever?](https://www.reddit.com/r/amateurradio/comments/1tbdir4/can_i_use_my_power_supply_with_my_transciever/)**
-by u/Jack2036
-
-**10. [Xiegu g90 17m band](https://www.reddit.com/r/amateurradio/comments/1tbdkdk/xiegu_g90_17m_band/)**
-by u/Dapper-Layer7164
-
-**11. [I received a weak SSTV signal from the ISS. Any chance of decoding it?](https://www.reddit.com/r/amateurradio/comments/1tbwlhp/i_received_a_weak_sstv_signal_from_the_iss_any/)**
-by u/WisconsinCameraMan
-
-**12. [Newly-licensed HAM going into QRP first. What should I expect ?](https://www.reddit.com/r/amateurradio/comments/1tb88sd/newlylicensed_ham_going_into_qrp_first_what/)**
-by u/Gr3y4nt
-
-**13. [QRP Fun](https://www.reddit.com/r/amateurradio/comments/1tb1x9s/qrp_fun/)**
-by u/pnice64
-
-**14. [Roger beep on retevis RB639 ?](https://www.reddit.com/r/amateurradio/comments/1tbv9yb/roger_beep_on_retevis_rb639/)**
-by u/he_ros_
-
-**15. [sBitx Kit](https://www.reddit.com/r/amateurradio/comments/1tbv1ws/sbitx_kit/)**
-by u/jamhob
+**15. [CW brain freeze](https://www.reddit.com/r/amateurradio/comments/1tbuiya/cw_brain_freeze/)**
+by u/Immediate-Cause-5563
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Purchased my first HF! Yaesu 897D](https://www.reddit.com/r/HamRadio/comments/1tazwx6/purchased_my_first_hf_yaesu_897d/)**
-by u/bluebagles
+**3. [Brand new to Ham Radio(advice needed please)](https://www.reddit.com/r/HamRadio/comments/1tccpz4/brand_new_to_ham_radioadvice_needed_please/)**
+by u/Tech-Dude10
 
-**4. [All-Star nodes to talk to Dayton Hamvention peeps?](https://www.reddit.com/r/HamRadio/comments/1tbo18c/allstar_nodes_to_talk_to_dayton_hamvention_peeps/)**
-by u/SundayButtermilk
-
-**5. [Hello! I am wanting to get started in ham radio.](https://www.reddit.com/r/HamRadio/comments/1tbd9k0/hello_i_am_wanting_to_get_started_in_ham_radio/)**
-by u/Marcodemachine
-
-**6. [Finding Decommissioned Parabolic Comm Dishes - Pacific Northwest](https://www.reddit.com/r/HamRadio/comments/1tbnycg/finding_decommissioned_parabolic_comm_dishes/)**
-by u/MountainThinker
-
-**7. [Need advice hitting 20 & 40 meter](https://www.reddit.com/r/HamRadio/comments/1tbg9ss/need_advice_hitting_20_40_meter/)**
-by u/Indy100077
-
-**8. [Can I use this power supply with my transceiver or is it broken?](https://www.reddit.com/r/HamRadio/comments/1tbdeew/can_i_use_this_power_supply_with_my_transceiver/)**
-by u/Jack2036
-
-**9. [Tell me why ham radio is cool pls](https://www.reddit.com/r/HamRadio/comments/1tb0u0y/tell_me_why_ham_radio_is_cool_pls/)**
-by u/TheRealKillJoy2020
-
-**10. [I made a home made antenna mast, need suggestions for what’s next](https://www.reddit.com/r/HamRadio/comments/1tarema/i_made_a_home_made_antenna_mast_need_suggestions/)**
+**4. [Update about my external UHF/VHF antenna setup](https://www.reddit.com/r/HamRadio/comments/1tchzsm/update_about_my_external_uhfvhf_antenna_setup/)**
 by u/ActualPrune9799
 
-**11. [Is this a vhf antenna or scanners antenna made by maxon](https://www.reddit.com/r/HamRadio/comments/1taxyc3/is_this_a_vhf_antenna_or_scanners_antenna_made_by/)**
-by u/robertva1
+**5. [I just made my first contact on TEVEL2-3's FM repeater. Apparently TEVEL2-7's FM...](https://www.reddit.com/r/HamRadio/comments/1tc5ppb/i_just_made_my_first_contact_on_tevel23s_fm/)**
+by u/kc3zyt
 
-**12. [I received my first call sign as Technician in October, my test for General is s...](https://www.reddit.com/r/HamRadio/comments/1ta6zuz/i_received_my_first_call_sign_as_technician_in/)**
-by u/SeadawgVB
+**6. [Antenna on Hood of Truck Question](https://www.reddit.com/r/HamRadio/comments/1tc08zq/antenna_on_hood_of_truck_question/)**
+by u/NerdTrek42
 
-**13. [Bioenno BLF-1220AS label says “40A Max Continuous.” The PCM board is 30A. I cont...](https://www.reddit.com/r/HamRadio/comments/1taggjh/bioenno_blf1220as_label_says_40a_max_continuous/)**
-by u/Capable_Sock4011
+**7. [Purchased my first HF! Yaesu 897D](https://www.reddit.com/r/HamRadio/comments/1tazwx6/purchased_my_first_hf_yaesu_897d/)**
+by u/bluebagles
 
-**14. [Do I need a ham license to use 433MHz in the US?](https://www.reddit.com/r/HamRadio/comments/1taom0g/do_i_need_a_ham_license_to_use_433mhz_in_the_us/)**
-by u/Particular-Award118
+**8. [Strange Deterministic Signals on 20/40m](https://www.reddit.com/r/HamRadio/comments/1tccgnu/strange_deterministic_signals_on_2040m/)**
+by u/Jonvalt
 
-**15. [Came across some Free education website while doing some research that might hel...](https://www.reddit.com/r/HamRadio/comments/1tan5m0/came_across_some_free_education_website_while/)**
-by u/Hamdaddy1976
+**9. [All-Star nodes to talk to Dayton Hamvention peeps?](https://www.reddit.com/r/HamRadio/comments/1tbo18c/allstar_nodes_to_talk_to_dayton_hamvention_peeps/)**
+by u/SundayButtermilk
+
+**10. [Hello! I am wanting to get started in ham radio.](https://www.reddit.com/r/HamRadio/comments/1tbd9k0/hello_i_am_wanting_to_get_started_in_ham_radio/)**
+by u/Marcodemachine
+
+**11. [Need advice hitting 20 & 40 meter](https://www.reddit.com/r/HamRadio/comments/1tbg9ss/need_advice_hitting_20_40_meter/)**
+by u/Indy100077
+
+**12. [Can I use this power supply with my transceiver or is it broken?](https://www.reddit.com/r/HamRadio/comments/1tbdeew/can_i_use_this_power_supply_with_my_transceiver/)**
+by u/Jack2036
+
+**13. [Solar alerts + propagation dashboard (built for county EM, sharing for hams)](https://www.reddit.com/r/HamRadio/comments/1tc03sa/solar_alerts_propagation_dashboard_built_for/)**
+by u/MrCrepusculo
+
+**14. [Finding Decommissioned Parabolic Comm Dishes - Pacific Northwest](https://www.reddit.com/r/HamRadio/comments/1tbnycg/finding_decommissioned_parabolic_comm_dishes/)**
+by u/MountainThinker
+
+**15. [Tell me why ham radio is cool pls](https://www.reddit.com/r/HamRadio/comments/1tb0u0y/tell_me_why_ham_radio_is_cool_pls/)**
+by u/TheRealKillJoy2020
 
 ---
 
@@ -110,14 +110,14 @@ by u/Hamdaddy1976
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ta2lkk/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Ask your neighbor about their antenna!](https://www.reddit.com/r/amateurradio/comments/1tbowhp/ask_your_neighbor_about_their_antenna/)** (r/amateurradio)
-- **[Look what you did to me!](https://www.reddit.com/r/amateurradio/comments/1tb57tp/look_what_you_did_to_me/)** (r/amateurradio)
-- **[CW brain freeze](https://www.reddit.com/r/amateurradio/comments/1tbuiya/cw_brain_freeze/)** (r/amateurradio)
-- **[I published a fiction book with ham radio as a major part!](https://www.reddit.com/r/amateurradio/comments/1tbm7tb/i_published_a_fiction_book_with_ham_radio_as_a/)** (r/amateurradio)
-- **[Good FT8 opening on 6m right now across the southern US and Mexico, bu...](https://www.reddit.com/r/amateurradio/comments/1tblz6g/good_ft8_opening_on_6m_right_now_across_the/)** (r/amateurradio)
-- **[Better single ear ear bud/PTT mic for bicycling?](https://www.reddit.com/r/amateurradio/comments/1tbnn1l/better_single_ear_ear_budptt_mic_for_bicycling/)** (r/amateurradio)
-- **[Can I use my power supply with my transciever?](https://www.reddit.com/r/amateurradio/comments/1tbdir4/can_i_use_my_power_supply_with_my_transciever/)** (r/amateurradio)
-- **[Xiegu g90 17m band](https://www.reddit.com/r/amateurradio/comments/1tbdkdk/xiegu_g90_17m_band/)** (r/amateurradio)
+- **[When a lifelong dream becomes a reality.](https://www.reddit.com/r/amateurradio/comments/1tcopaq/when_a_lifelong_dream_becomes_a_reality/)** (r/amateurradio)
+- **[High hex beam](https://www.reddit.com/r/amateurradio/comments/1tchlwy/high_hex_beam/)** (r/amateurradio)
+- **[Need help identifying an antenna](https://www.reddit.com/r/amateurradio/comments/1tcv2lg/need_help_identifying_an_antenna/)** (r/amateurradio)
+- **[Sudden Frustration With Propagation](https://www.reddit.com/r/amateurradio/comments/1tchzxw/sudden_frustration_with_propagation/)** (r/amateurradio)
+- **[Any tips on how to use Morse code using tuning fork?](https://www.reddit.com/r/amateurradio/comments/1tcumtl/any_tips_on_how_to_use_morse_code_using_tuning/)** (r/amateurradio)
+- **[Hi, I am a 14-year-old building an electromagnetic survey platform, an...](https://www.reddit.com/r/amateurradio/comments/1tcg8iu/hi_i_am_a_14yearold_building_an_electromagnetic/)** (r/amateurradio)
+- **[Late 1930’s Speed-x bug](https://www.reddit.com/r/amateurradio/comments/1tcwna0/late_1930s_speedx_bug/)** (r/amateurradio)
+- **[Found a strange station on LW, anybody know what it is?](https://www.reddit.com/r/amateurradio/comments/1tcskhe/found_a_strange_station_on_lw_anybody_know_what/)** (r/amateurradio)
 
 ---
 

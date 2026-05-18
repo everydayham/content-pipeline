@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-11T14:31:41.160515",
+  "updated": "2026-05-18T14:56:40.137112",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "S0WLBLPu6MraI_F4BsUkShR6jYs",
+    "etag": "ca1qg2DGIIJNYikKB4jFM-jMiV8",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,659 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "167072",
-      "subscriberCount": "1730",
+      "viewCount": "189941",
+      "subscriberCount": "1920",
       "hiddenSubscriberCount": false,
-      "videoCount": "126"
+      "videoCount": "135"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "S5jl6Se2jOk89x3fiCzb_kbm8hs",
+      "etag": "X5-1a6fx1qXyQoe_37RPxb9B4rA",
+      "id": "q6eQQpxJBJY",
+      "snippet": {
+        "publishedAt": "2026-05-17T13:40:15Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
+        "description": "The Everyday Ham crew took a rain break on day two of Hamvention 2026 to open up some GigaParts mystery boxes. Mike, W8MCV dropped $100 on his. Shane, KF8BWN went for the $50 special edition. None of us had any idea what was inside until the boxes came open on camera.\n\n\ud83c\udf81 The Setup:\nMike W8MCV \u2014 $100 GigaParts Mystery Box\nShane KF8BWN \u2014 $50 GigaParts Special Edition Mystery Box\nTwo hams, two boxes, one rainy afternoon at Dayton\n\nThe big question: did $150 between them buy actual value, or did we get a couple of paperweights?\n\ud83d\udd17 GigaParts\nhttps://www.gigaparts.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HamRadio #GigaParts #MysteryBox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "GigaParts Mystery Box",
+          "$100 Mystery Box",
+          "$50 Mystery Box",
+          "GigaParts Special Edition",
+          "GigaParts",
+          "Ham Radio Mystery Box",
+          "Mystery Box Unboxing",
+          "Hamvention 2026",
+          "Mike W8MCV",
+          "W8MCV",
+          "Ham Radio",
+          "Amateur Radio",
+          "Hamvention Coverage",
+          "Ham Radio Gear",
+          "Surprise Box",
+          "Everyday Ham",
+          "Hamfest"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
+          "description": "The Everyday Ham crew took a rain break on day two of Hamvention 2026 to open up some GigaParts mystery boxes. Mike, W8MCV dropped $100 on his. Shane, KF8BWN went for the $50 special edition. None of us had any idea what was inside until the boxes came open on camera.\n\n\ud83c\udf81 The Setup:\nMike W8MCV \u2014 $100 GigaParts Mystery Box\nShane KF8BWN \u2014 $50 GigaParts Special Edition Mystery Box\nTwo hams, two boxes, one rainy afternoon at Dayton\n\nThe big question: did $150 between them buy actual value, or did we get a couple of paperweights?\n\ud83d\udd17 GigaParts\nhttps://www.gigaparts.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HamRadio #GigaParts #MysteryBox"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1793",
+        "likeCount": "55",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s1v3OaLh_viafvq_cuXOc2dqwZY",
+      "id": "BM7TGhOEgZ8",
+      "snippet": {
+        "publishedAt": "2026-05-17T13:00:08Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "The Heil BM-17 is BACK! New Swivel Boom + Pricing | Hamvention 2026",
+        "description": "The Heil BM-17 is back. Heil Ham Radio brought the redesigned BM-17 lightweight headset to Hamvention 2026, and we stopped by to get the details on what's new, pricing, and when you can pick one up.\n\n\ud83c\udfa7 What's New:\nNewly redesigned with a swivel-mounted boom arm (position the mic on either side)\nStandard in black with Heil Ham Radio branding\nAvailable as Single-Sided or Dual-Sided\nChoice of Dynamic element (for most rigs) or iC Electret element (for Icom)\n\n\ud83d\udcb0 Pricing:\n\nBM-17 Single-Sided: $165\nBM-17 Dual-Sided: $169\n\n\ud83d\uddd3 Available: June 1, 2026\n\ud83d\udd17 Heil Ham Radio\nhttps://heilhamradio.com/product/bm-17-2/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HeilBM17 #HeilHamRadio #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Heil BM-17",
+          "BM-17",
+          "BM17",
+          "Heil Ham Radio",
+          "Heil Sound",
+          "Heil Headset",
+          "Ham Radio Headset",
+          "BM-17 Dynamic",
+          "BM-17 iC",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "EMCOM Headset",
+          "Communications Headset",
+          "Everyday Ham",
+          "New Heil"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Heil BM-17 is BACK! New Swivel Boom + Pricing | Hamvention 2026",
+          "description": "The Heil BM-17 is back. Heil Ham Radio brought the redesigned BM-17 lightweight headset to Hamvention 2026, and we stopped by to get the details on what's new, pricing, and when you can pick one up.\n\n\ud83c\udfa7 What's New:\nNewly redesigned with a swivel-mounted boom arm (position the mic on either side)\nStandard in black with Heil Ham Radio branding\nAvailable as Single-Sided or Dual-Sided\nChoice of Dynamic element (for most rigs) or iC Electret element (for Icom)\n\n\ud83d\udcb0 Pricing:\n\nBM-17 Single-Sided: $165\nBM-17 Dual-Sided: $169\n\n\ud83d\uddd3 Available: June 1, 2026\n\ud83d\udd17 Heil Ham Radio\nhttps://heilhamradio.com/product/bm-17-2/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HeilBM17 #HeilHamRadio #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "164",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KIYq_8lGXI-7l5X_ltxwD906GsA",
+      "id": "IEwwzO5Uf6Q",
+      "snippet": {
+        "publishedAt": "2026-05-17T04:02:03Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+        "description": "The Icom X-026 had Hamvention buzzing, and we caught up with Ray Novak, N9JA, Senior Sales Manager at Icom America, to find out what's really going on with it.\n\nHere's our take at Everyday Ham: the X-026 reminds us of a concept car at an auto show. Icom didn't call it that, but the spirit is the same. They're showing a direction, gathering feedback, and listening to what operators actually want before committing to a final design. That's a refreshing approach, and Ray walked W8KNX through what they're hearing from the community so far.\nIn this conversation, Ray shares the top three things hams keep asking Icom to build, addresses some of the online speculation directly, and gives us a sense of when we might learn more.\n\nSpoiler: most of the \"X-026 images\" you've seen online aren't from Icom. Ray explains.\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomX026 #IcomConcept #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Icom X-026",
+          "X-026",
+          "X026",
+          "Icom Concept",
+          "Ray Novak N9JA",
+          "N9JA",
+          "Icom America",
+          "IC-7100 replacement",
+          "IC-7000 replacement",
+          "IC-705",
+          "Concept Radio",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "Icom",
+          "Mobile Radio",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+          "description": "The Icom X-026 had Hamvention buzzing, and we caught up with Ray Novak, N9JA, Senior Sales Manager at Icom America, to find out what's really going on with it.\n\nHere's our take at Everyday Ham: the X-026 reminds us of a concept car at an auto show. Icom didn't call it that, but the spirit is the same. They're showing a direction, gathering feedback, and listening to what operators actually want before committing to a final design. That's a refreshing approach, and Ray walked W8KNX through what they're hearing from the community so far.\nIn this conversation, Ray shares the top three things hams keep asking Icom to build, addresses some of the online speculation directly, and gives us a sense of when we might learn more.\n\nSpoiler: most of the \"X-026 images\" you've seen online aren't from Icom. Ray explains.\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomX026 #IcomConcept #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3891",
+        "likeCount": "120",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7c14EFwhACfWqFmZrPG4OJC2n30",
+      "id": "uUiUzJ-9kIM",
+      "snippet": {
+        "publishedAt": "2026-05-17T03:21:00Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
+        "description": "We're back at the Icom America booth at Hamvention 2026 to sit down with Ray Novak, N9JA, Senior Sales Manager at Icom America, for the official deep dive on the new Icom ID-5200. Jim N8JRD walks Ray through the radio, and Ray drops some big news that ID-5100 users have been waiting to hear.\n\n\ud83c\udfaf The Headline News:\n\ud83d\udce1 APRS is Coming via Free Firmware Update\n\ud83d\udef0 Built-In KISS TNC\n\ud83d\uddd3 Release Target\n\nRay's projection: Fall 2026 (sometime in 2026)\nFCC approval still pending\n\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nLight sensing with auto-adjusting brightness (great for mobile use)\nTouch a band side and it instantly becomes the active band\nSingle-band fullscreen OR side-by-side dual receive\nWaterfall display in single-band mode\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nTwo separate receivers: V-V, V-U, U-U all supported\nFM on both sides OR digital voice on both sides (upgrade from ID-5100)\nCrossband repeat setting confirmed (with custom PL tones)\n\n\ud83d\udd0c Connectivity\n\nUSB-A and USB-B data ports\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nBuilt-in GPS (top of main body)\n\n\n\ud83d\udd09 Audio\nNo speaker in the control head\nTwo external speaker outputs on the back (left/right or combined)\nMicrophone connects to the main body\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomID5200 #APRS #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Icom ID-5200",
+          "ID-5200",
+          "Ray Novak N9JA",
+          "N9JA",
+          "Ray Novak Icom",
+          "Icom America",
+          "ID-5100 successor",
+          "APRS firmware",
+          "KISS TNC",
+          "D-STAR Mobile",
+          "D-STAR",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "Icom",
+          "Dual Band Mobile",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
+          "description": "We're back at the Icom America booth at Hamvention 2026 to sit down with Ray Novak, N9JA, Senior Sales Manager at Icom America, for the official deep dive on the new Icom ID-5200. Jim N8JRD walks Ray through the radio, and Ray drops some big news that ID-5100 users have been waiting to hear.\n\n\ud83c\udfaf The Headline News:\n\ud83d\udce1 APRS is Coming via Free Firmware Update\n\ud83d\udef0 Built-In KISS TNC\n\ud83d\uddd3 Release Target\n\nRay's projection: Fall 2026 (sometime in 2026)\nFCC approval still pending\n\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nLight sensing with auto-adjusting brightness (great for mobile use)\nTouch a band side and it instantly becomes the active band\nSingle-band fullscreen OR side-by-side dual receive\nWaterfall display in single-band mode\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nTwo separate receivers: V-V, V-U, U-U all supported\nFM on both sides OR digital voice on both sides (upgrade from ID-5100)\nCrossband repeat setting confirmed (with custom PL tones)\n\n\ud83d\udd0c Connectivity\n\nUSB-A and USB-B data ports\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nBuilt-in GPS (top of main body)\n\n\n\ud83d\udd09 Audio\nNo speaker in the control head\nTwo external speaker outputs on the back (left/right or combined)\nMicrophone connects to the main body\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomID5200 #APRS #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1053",
+        "likeCount": "49",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qe8fvKeBeM0TUElHiMRLl4GimHY",
+      "id": "LIM0hjXez1Q",
+      "snippet": {
+        "publishedAt": "2026-05-16T22:40:08Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
+        "description": "We're at the Icom America booth at Hamvention 2026 for our first hands-on look at the long-awaited Icom ID-5200, the successor to the ID-5100 dual-band D-STAR mobile that's been a staple of the hobby for over a decade.\nW8KNX has been running an ID-5100 in both his base and mobile setups for over 10 years, so when Icom let us pull the ID-5200 out from under the glass for the first time, we had a lot to look at. Jim N8JRD takes us around the control head, the main unit, and the ports while we explore the new color touchscreen, the menu system, the band scope, and a few features the 5100 never had.\n\n\ud83d\udd11 What We Found:\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nThinner and lighter control head than the ID-5100\nSharp visibility in harsh light (the ID-5100 washed out in the sun)\nColor band scope in single-receive mode\nWaterfall display with adjacent band scanning\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nSimultaneous dual receive: FM-FM, FM-DV, and DV-DV\nMain and sub band selection with two independent dials\n\n\u26a1 Connectivity (New)\n\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nInternal gateway with terminal and access point modes\nDV repeater monitor function\nAPRS support planned via firmware update\n\n\ud83d\udd0c Hardware\n\nUSB-C port\nMemory card slot\nMic port (on the body, not the side of the head)\nGPS receiver on top of the main unit\nSpeech guidance\nMenu system styled like the IC-7300 Mark II and IC-9700\n\n\ud83d\udccd Status: FCC approval pending. No release date announced yet.\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#IcomID5200 #DSTAR #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Icom ID-5200",
+          "ID-5200",
+          "ID5200",
+          "Icom ID-5100",
+          "ID-5100 successor",
+          "Icom Mobile",
+          "D-STAR Mobile",
+          "D-STAR",
+          "DV Mode",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "Icom",
+          "Dual Band Mobile",
+          "New Ham Radio",
+          "Icom America",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
+          "description": "We're at the Icom America booth at Hamvention 2026 for our first hands-on look at the long-awaited Icom ID-5200, the successor to the ID-5100 dual-band D-STAR mobile that's been a staple of the hobby for over a decade.\nW8KNX has been running an ID-5100 in both his base and mobile setups for over 10 years, so when Icom let us pull the ID-5200 out from under the glass for the first time, we had a lot to look at. Jim N8JRD takes us around the control head, the main unit, and the ports while we explore the new color touchscreen, the menu system, the band scope, and a few features the 5100 never had.\n\n\ud83d\udd11 What We Found:\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nThinner and lighter control head than the ID-5100\nSharp visibility in harsh light (the ID-5100 washed out in the sun)\nColor band scope in single-receive mode\nWaterfall display with adjacent band scanning\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nSimultaneous dual receive: FM-FM, FM-DV, and DV-DV\nMain and sub band selection with two independent dials\n\n\u26a1 Connectivity (New)\n\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nInternal gateway with terminal and access point modes\nDV repeater monitor function\nAPRS support planned via firmware update\n\n\ud83d\udd0c Hardware\n\nUSB-C port\nMemory card slot\nMic port (on the body, not the side of the head)\nGPS receiver on top of the main unit\nSpeech guidance\nMenu system styled like the IC-7300 Mark II and IC-9700\n\n\ud83d\udccd Status: FCC approval pending. No release date announced yet.\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#IcomID5200 #DSTAR #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "5173",
+        "likeCount": "126",
+        "favoriteCount": "0",
+        "commentCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oOARzSS6t4EmPgsT22lekTliUfQ",
+      "id": "ZYk8IUSeEHI",
+      "snippet": {
+        "publishedAt": "2026-05-16T11:45:04Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+        "description": "W8KNX stops by the Kenwood booth at Hamvention 2026 to talk with Don Arnold, W6GPS, about the long-awaited Kenwood TM-D750A tri-band mobile radio. After a no-show at HamCation a few months back, Kenwood arrived at Dayton with Serial #1, a fully functioning, powered-on unit on display, receiving live APRS beacons (including from Rory's own D74 on the way in).\nThen Jim N8JRD takes us behind the glass for a walkaround of the display case to look at the screen, ports, and microphone up close.\n\n\ud83d\udd11 Confirmed at the Booth:\n\ud83d\udce1 Kenwood TM-D750A Tri-Band Mobile\n2m / 1.25m / 70cm (144 / 222 / 430 MHz)\n50W on VHF and UHF, 20W on 220 MHz\nThree power settings per band\nSingle antenna port\nFront-firing audio with rear speaker output (and control head speaker output)\nTraditional Kenwood mobile-style mic with 10-key DTMF + A/B/C/D\n\n\ud83d\udda5 The Display\n3.45-inch TFT color LCD with high brightness and wide viewing angles\nSoft keys around the display edge that change with menu context\nClock/data row at the top showing APRS activity\nFamiliar menu structure for TH-D74 and TH-D75 users\nFM-side buttons that mirror the TM-D710\n\n\u26a1 Quick-Access Features\nDedicated APRS button \u2014 one press jumps straight to APRS mode (no menu diving)\nBuilt-in APRS TNC, D-STAR, and GPS\n\n\ud83d\uddd3 Release: September 2026 (firmware finalized)\n\ud83d\udd17 Kenwood Amateur Radio\nhttps://www.kenwood.com/usa/com/amateur/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-tm-d750a\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#kenwood #TMD750A #hamvention2026 #hamvention",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Kenwood TM-D750A",
+          "TM-D750A",
+          "TM D750",
+          "Kenwood D750",
+          "Don Arnold W6GPS",
+          "W6GPS",
+          "Kenwood Tri-Band",
+          "APRS",
+          "D-STAR",
+          "220 MHz",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "Kenwood",
+          "Kenwood Mobile",
+          "New Ham Radio",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+          "description": "W8KNX stops by the Kenwood booth at Hamvention 2026 to talk with Don Arnold, W6GPS, about the long-awaited Kenwood TM-D750A tri-band mobile radio. After a no-show at HamCation a few months back, Kenwood arrived at Dayton with Serial #1, a fully functioning, powered-on unit on display, receiving live APRS beacons (including from Rory's own D74 on the way in).\nThen Jim N8JRD takes us behind the glass for a walkaround of the display case to look at the screen, ports, and microphone up close.\n\n\ud83d\udd11 Confirmed at the Booth:\n\ud83d\udce1 Kenwood TM-D750A Tri-Band Mobile\n2m / 1.25m / 70cm (144 / 222 / 430 MHz)\n50W on VHF and UHF, 20W on 220 MHz\nThree power settings per band\nSingle antenna port\nFront-firing audio with rear speaker output (and control head speaker output)\nTraditional Kenwood mobile-style mic with 10-key DTMF + A/B/C/D\n\n\ud83d\udda5 The Display\n3.45-inch TFT color LCD with high brightness and wide viewing angles\nSoft keys around the display edge that change with menu context\nClock/data row at the top showing APRS activity\nFamiliar menu structure for TH-D74 and TH-D75 users\nFM-side buttons that mirror the TM-D710\n\n\u26a1 Quick-Access Features\nDedicated APRS button \u2014 one press jumps straight to APRS mode (no menu diving)\nBuilt-in APRS TNC, D-STAR, and GPS\n\n\ud83d\uddd3 Release: September 2026 (firmware finalized)\n\ud83d\udd17 Kenwood Amateur Radio\nhttps://www.kenwood.com/usa/com/amateur/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-tm-d750a\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#kenwood #TMD750A #hamvention2026 #hamvention"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "4926",
+        "likeCount": "160",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tVX5aFe1tWreshcMAc6Y4xSQ6NE",
+      "id": "u_4p34yJlvk",
+      "snippet": {
+        "publishedAt": "2026-05-16T04:00:53Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
+        "description": "We're in the Yaesu booth at Hamvention 2026 and sit down with John Kruk, N9UPC, National Sales Manager of the Amateur Division at Yaesu USA, for a first look at the brand new DR-3X repeater. It kicks off the third generation of Yaesu System Fusion, and John walks us through everything that's changed from the DR-1X and DR-2X.\n\n\ud83d\udd11 What's New with the DR-3X:\n\ud83d\udce1 Two single-band transmit models with dual-band receive:\n\nDR-3XV (VHF TX): 85W at 100% continuous duty cycle\nDR-3XU (UHF TX): 65W at 100% continuous duty cycle (coming)\nBoth versions can still receive VHF AND UHF\n\n\ud83d\udd0c Full Power on AC or DC\n\nNo more dropping to 25W on backup battery power\nRun on DC at full output if AC goes out\n\n\ud83d\udcfb Yaesu System Fusion 3\n\nStill C4FM / FDMA digital voice\nStill AMS (Automatic Mode Select) for analog & digital\nFusion protocol unchanged: existing radios (FT1D, FTM-510, 310, 150, 5 series, FTX-1 and more) still work\n\n\ud83c\udf9a ASP & SDX Now in a Repeater\n\nAudio Signal Processing and SDX brought over from the FTM-510 / 710 series\nIncreases receiver sensitivity and cleans up analog signals\n\n\ud83d\udee1 IES (Integrated Elimination Services) \"Evasion Mode\"\n\nRepeater senses interference on the input frequency\nAutomatically moves to an alternate input and notifies your radio\nWorks on BOTH analog and digital\nReturns to normal once interference clears\nRequires firmware update on FTM-510, 310, 150, and 5 series radios\n\n\ud83d\udda5 New Hardware\n\nFull touchscreen with function menu button system\nUSB-C ports on front AND back\n15-pin D-Sub connector\nSD card slot (more details coming)\nTwo RX antenna ports + dedicated TX port\nSmall rack mount design\n\n\ud83d\udd17 Yaesu Repeater Lineup\nhttps://www.yaesu.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Yaesu DR-3X",
+          "DR-3X",
+          "DR3X",
+          "John Kruk N9UPC",
+          "N9UPC",
+          "Yaesu System Fusion 3",
+          "System Fusion 3",
+          "C4FM",
+          "Yaesu Repeater",
+          "Hamvention 2026",
+          "Ham Radio",
+          "Amateur Radio",
+          "Yaesu",
+          "DR-3XV",
+          "DR-3XU",
+          "Evasion Mode",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
+          "description": "We're in the Yaesu booth at Hamvention 2026 and sit down with John Kruk, N9UPC, National Sales Manager of the Amateur Division at Yaesu USA, for a first look at the brand new DR-3X repeater. It kicks off the third generation of Yaesu System Fusion, and John walks us through everything that's changed from the DR-1X and DR-2X.\n\n\ud83d\udd11 What's New with the DR-3X:\n\ud83d\udce1 Two single-band transmit models with dual-band receive:\n\nDR-3XV (VHF TX): 85W at 100% continuous duty cycle\nDR-3XU (UHF TX): 65W at 100% continuous duty cycle (coming)\nBoth versions can still receive VHF AND UHF\n\n\ud83d\udd0c Full Power on AC or DC\n\nNo more dropping to 25W on backup battery power\nRun on DC at full output if AC goes out\n\n\ud83d\udcfb Yaesu System Fusion 3\n\nStill C4FM / FDMA digital voice\nStill AMS (Automatic Mode Select) for analog & digital\nFusion protocol unchanged: existing radios (FT1D, FTM-510, 310, 150, 5 series, FTX-1 and more) still work\n\n\ud83c\udf9a ASP & SDX Now in a Repeater\n\nAudio Signal Processing and SDX brought over from the FTM-510 / 710 series\nIncreases receiver sensitivity and cleans up analog signals\n\n\ud83d\udee1 IES (Integrated Elimination Services) \"Evasion Mode\"\n\nRepeater senses interference on the input frequency\nAutomatically moves to an alternate input and notifies your radio\nWorks on BOTH analog and digital\nReturns to normal once interference clears\nRequires firmware update on FTM-510, 310, 150, and 5 series radios\n\n\ud83d\udda5 New Hardware\n\nFull touchscreen with function menu button system\nUSB-C ports on front AND back\n15-pin D-Sub connector\nSD card slot (more details coming)\nTwo RX antenna ports + dedicated TX port\nSmall rack mount design\n\n\ud83d\udd17 Yaesu Repeater Lineup\nhttps://www.yaesu.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "2380",
+        "likeCount": "98",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SMRajF-91VFHGf3I4cFNK405D8M",
+      "id": "4yIAYqlbBHw",
+      "snippet": {
+        "publishedAt": "2026-05-15T13:11:05Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
+        "description": "Brian Young walks us through the Spooltenna Ultra EFHW4010 at Four Days in May 2026, the QRP ARCI vendor showcase before Hamvention. A clever EFHW antenna built around a spool form factor for fast deployment in the field.\n\ud83d\udce1 Spooltenna Ultra EFHW4010\n\ud83d\udcb0 MSRP: $169.99\n\ud83d\udccd Hamvention Booth 1704, Building 1\n\ud83d\udd17 https://www.spooltenna.com/\nFull FDIM 2026 vendor showcase on YT: @EverydayHam\n\ud83d\udd17 https://www.everydayham.com/\n#HamRadio #POTA #QRP #Spooltenna #FDIM2026 #Hamvention2026 #EverydayHam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Spooltenna",
+          "Spooltenna Ultra",
+          "EFHW",
+          "EFHW Antenna",
+          "Ham Radio Antenna",
+          "FDIM 2026",
+          "Hamvention 2026",
+          "QRP",
+          "POTA",
+          "SOTA",
+          "Portable Ham Radio",
+          "Amateur Radio",
+          "Ham Radio",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
+          "description": "Brian Young walks us through the Spooltenna Ultra EFHW4010 at Four Days in May 2026, the QRP ARCI vendor showcase before Hamvention. A clever EFHW antenna built around a spool form factor for fast deployment in the field.\n\ud83d\udce1 Spooltenna Ultra EFHW4010\n\ud83d\udcb0 MSRP: $169.99\n\ud83d\udccd Hamvention Booth 1704, Building 1\n\ud83d\udd17 https://www.spooltenna.com/\nFull FDIM 2026 vendor showcase on YT: @EverydayHam\n\ud83d\udd17 https://www.everydayham.com/\n#HamRadio #POTA #QRP #Spooltenna #FDIM2026 #Hamvention2026 #EverydayHam"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "569",
+        "likeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0BsO0SPVU91qlrMyfTqB_2bwR00",
+      "id": "YrE4SytLYNQ",
+      "snippet": {
+        "publishedAt": "2026-05-15T05:13:33Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
+        "description": "W8KNX and N8JRD take the show on the road to Ohio for pre-Hamvention coverage at the QRP Amateur Radio Club International's \"Four Days in May\" (FDIM) vendor showcase event. Take a walk through the event and check out some of the interesting and unique products that show up, tailored to QRP and portable POTA and SOTA style operating.\n\nThe event continues to grow, and this year was no exception as we ran into a number of personalities along the way!\n\ud83d\uded2 Vendors Featured:\n\ud83d\udce1 PackTenna (20M Linked Dipole)\ud83d\udd17 https://www.packtenna.com/\n\ud83d\udce1 Spooltenna (SPOOLTENNA ULTRA-EFHW4010)\ud83d\udd17 https://www.spooltenna.com/\n\ud83d\udd11 Palm Radio (Miniature CW Paddles, Made in Germany)\ud83d\udd17 https://www.palm-radio.de/\n\ud83d\udee0 QRPbuilder (QRP Kits & Projects)\ud83d\udd17 https://qrpbuilder.com/\n\n\ud83d\udc4b Personalities We Ran Into:\n\u26a1 POTAPOWER - Julie KJ4ULZ and Vaughn KG4VET\n\ud83d\udd17 https://www.youtube.com/@PotaPower01-m2b\n\ud83c\udfa5 Mike K8MRD - Ham Radio Tube\n\ud83d\udd17 https://www.youtube.com/@hamradiotube\n\ud83c\udfa5 Caitlin K8FAE - The Ham Radio Chick\n\ud83d\udd17 https://www.youtube.com/@HamRadioK8FAE\n\ud83c\udfdb QRP ARCI - Four Days in May (FDIM)\n\ud83d\udd17 https://www.qrparci.org/fdim\n\n\ud83c\udf99 Hosted by:\nJim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n#FourDaysinMay, #FDIM2026, #qrp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Four Days in May",
+          "FDIM 2026",
+          "QRP ARCI",
+          "Hamvention 2026",
+          "Dayton Hamvention",
+          "QRP",
+          "Ham Radio",
+          "Amateur Radio",
+          "POTA",
+          "SOTA",
+          "PackTenna",
+          "Spooltenna",
+          "Palm Radio",
+          "POTAPOWER",
+          "Everyday Ham",
+          "Vendor Night"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
+          "description": "W8KNX and N8JRD take the show on the road to Ohio for pre-Hamvention coverage at the QRP Amateur Radio Club International's \"Four Days in May\" (FDIM) vendor showcase event. Take a walk through the event and check out some of the interesting and unique products that show up, tailored to QRP and portable POTA and SOTA style operating.\n\nThe event continues to grow, and this year was no exception as we ran into a number of personalities along the way!\n\ud83d\uded2 Vendors Featured:\n\ud83d\udce1 PackTenna (20M Linked Dipole)\ud83d\udd17 https://www.packtenna.com/\n\ud83d\udce1 Spooltenna (SPOOLTENNA ULTRA-EFHW4010)\ud83d\udd17 https://www.spooltenna.com/\n\ud83d\udd11 Palm Radio (Miniature CW Paddles, Made in Germany)\ud83d\udd17 https://www.palm-radio.de/\n\ud83d\udee0 QRPbuilder (QRP Kits & Projects)\ud83d\udd17 https://qrpbuilder.com/\n\n\ud83d\udc4b Personalities We Ran Into:\n\u26a1 POTAPOWER - Julie KJ4ULZ and Vaughn KG4VET\n\ud83d\udd17 https://www.youtube.com/@PotaPower01-m2b\n\ud83c\udfa5 Mike K8MRD - Ham Radio Tube\n\ud83d\udd17 https://www.youtube.com/@hamradiotube\n\ud83c\udfa5 Caitlin K8FAE - The Ham Radio Chick\n\ud83d\udd17 https://www.youtube.com/@HamRadioK8FAE\n\ud83c\udfdb QRP ARCI - Four Days in May (FDIM)\n\ud83d\udd17 https://www.qrparci.org/fdim\n\n\ud83c\udf99 Hosted by:\nJim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n#FourDaysinMay, #FDIM2026, #qrp"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1396",
+        "likeCount": "68",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7DfiopLmJbcpZ2SGAeqwKwwZMqw",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -103,15 +746,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "922",
-        "likeCount": "13",
+        "viewCount": "1153",
+        "likeCount": "16",
         "favoriteCount": "0",
-        "commentCount": "2"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XKCfVCUtfo-AI8C9MH-k-wsT0lQ",
+      "etag": "ThriFgcQUKW0dyRVec_qUWewnX0",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -174,15 +817,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "540",
-        "likeCount": "32",
+        "viewCount": "845",
+        "likeCount": "37",
         "favoriteCount": "0",
-        "commentCount": "15"
+        "commentCount": "17"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fk1OJf1bcj8YKEoFoGpbav5r04o",
+      "etag": "wMjEWTeN3rCs99V2QbvIHc5a7Ow",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -248,7 +891,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "304",
+        "viewCount": "317",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -256,7 +899,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xEttv5Z2_7g9TSXkOVGEPkqWYUE",
+      "etag": "2GkmiT4KPtV9doGdiAUrOUBowXI",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -304,7 +947,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1347",
+        "viewCount": "1357",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -312,7 +955,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YllmkFqA1JR6te7ySUhZH0ciKrk",
+      "etag": "UO1fhvxGggSBjACXoQiDsLe3lNw",
       "id": "nFmV750qMPY",
       "snippet": {
         "publishedAt": "2026-04-09T13:01:34Z",
@@ -374,7 +1017,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "150",
+        "viewCount": "154",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -382,7 +1025,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Uy94SNpe2xHdItGmqIEZOSuXy_4",
+      "etag": "rqGXelw7c2JAF9drlX_gQPc718U",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -445,7 +1088,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "581",
+        "viewCount": "585",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -453,7 +1096,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tEgNCx6GPzCN-nYizYXg5KlrLO8",
+      "etag": "tpGSUwfe587LJnVfuxTTyuzqb1k",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -515,15 +1158,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "998",
-        "likeCount": "46",
+        "viewCount": "1076",
+        "likeCount": "47",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8h69rWqdUC8kwOzg3CHX_r_HhCw",
+      "etag": "PMlCPeOvpaoGET2T0YA-SvR_PGU",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -586,15 +1229,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "429",
-        "likeCount": "32",
+        "viewCount": "440",
+        "likeCount": "33",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rmc_5xMiM5vIaPR4K21Qiunj0Mg",
+      "etag": "PT5lPk6ThDT-lGiJpvYKMb7Y1os",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -657,15 +1300,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "851",
-        "likeCount": "21",
+        "viewCount": "862",
+        "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "79bwEoBiss_bGvb1YaTLjcHv8V8",
+      "etag": "9i_KGZPKQVOqP-9ZXFyTRyzyIUU",
       "id": "4dP7kktHK0k",
       "snippet": {
         "publishedAt": "2026-03-12T14:00:07Z",
@@ -729,7 +1372,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "180",
+        "viewCount": "184",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -737,7 +1380,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lt-qPubLN8_OfLOgsKdp9tnTHOA",
+      "etag": "J6qdSXvJGDbQQ4OSOnlM_j5uDp0",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -800,7 +1443,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1234",
+        "viewCount": "1241",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -808,7 +1451,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xpn4z_yUgeaZqMW9lTM4TbTw2wo",
+      "etag": "xdUqsclvxHFB5h4-8WIhljDDjPY",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -870,7 +1513,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "578",
+        "viewCount": "584",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -878,7 +1521,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XIXKkKz_GxG3MMiXgJIvUJJup1E",
+      "etag": "PxF-I0Hm9UZVmkCwSUjvHcgrLiQ",
       "id": "Koz7XST0tKw",
       "snippet": {
         "publishedAt": "2026-03-05T15:31:48Z",
@@ -941,7 +1584,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "179",
+        "viewCount": "180",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -949,7 +1592,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ss1-9DmbjgQHmgdVxYn8IsPIEeY",
+      "etag": "kmzwS17d89xMdz4aLG_W7aEBUzk",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -1014,7 +1657,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1603",
+        "viewCount": "1615",
         "likeCount": "70",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1022,7 +1665,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XZXX-vXdVV1tU2rym2Rgn_hmues",
+      "etag": "_fjWDMI4wiVupVv8b9ggWCAe-nY",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -1085,7 +1728,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "463",
+        "viewCount": "487",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1093,7 +1736,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0HlgrBzLX5PcwIUaZYQWRBECPG0",
+      "etag": "lq54wIxFs_DLvm8l3bZEbgB9UUw",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -1156,15 +1799,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5110",
-        "likeCount": "179",
+        "viewCount": "5166",
+        "likeCount": "180",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ur8F2oVjHatJxjJInj0YIxji7bM",
+      "etag": "eqYkCLsXaH2gT3xMM_hHoZ4k5rg",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -1226,7 +1869,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "318",
+        "viewCount": "324",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1234,7 +1877,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1Ie9uq2VbhosoPytAKH7Zzh9UBg",
+      "etag": "sDxvDx3OorBUIqnxbQiEs-xerH8",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -1287,7 +1930,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1122",
+        "viewCount": "1126",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1295,7 +1938,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HL8JyrOKvibx6XJzXA0dORWek0U",
+      "etag": "OJLwkToWKW82n2LOxnL5nPtGuoE",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -1340,7 +1983,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "448",
+        "viewCount": "455",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1348,7 +1991,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mU06mCeBfFwbcydU4BE5fv8y4jg",
+      "etag": "IDL_X6mPZDIssIzPuXIViL51opI",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -1412,15 +2055,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1771",
-        "likeCount": "39",
+        "viewCount": "1899",
+        "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rxu5W5fd4bWi0ApwTOEdHzu05oo",
+      "etag": "xC3eS7ctFMRh1fY-Ux8ej5Nk3CY",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -1483,15 +2126,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2642",
-        "likeCount": "99",
+        "viewCount": "2684",
+        "likeCount": "100",
         "favoriteCount": "0",
         "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vxl24YdH3QI9Vfyfnj7kA17fGuA",
+      "etag": "XLcKs3uAJQJyIYLRNVsXagUO294",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -1553,7 +2196,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "308",
+        "viewCount": "316",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1561,7 +2204,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cz5xH9o5bIp3Q7mwVii9mP6vvHI",
+      "etag": "ebolMZfqYqGaIBf-HwTynQNwq78",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -1624,7 +2267,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3253",
+        "viewCount": "3255",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1632,7 +2275,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w_EsfTwitPCC0s9pwhE2ovakQhk",
+      "etag": "BlqT8qqIH7rfgBoiJVbrFco8kLA",
       "id": "ZScvDM3YLWY",
       "snippet": {
         "publishedAt": "2026-02-05T16:36:24Z",
@@ -1677,7 +2320,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "611",
+        "viewCount": "614",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1685,7 +2328,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQEhgK5NGIqVPCp_mIGiBtWvkyw",
+      "etag": "UxBdAael84Q18nQejf961WeDYm4",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -1749,7 +2392,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "569",
+        "viewCount": "577",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -1757,7 +2400,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gpXyCUfmJY9Kq5ADaTrISAV-olc",
+      "etag": "RMKOBgpHHY8akcos7xBtqZME-ho",
       "id": "i_55Kt8PtJo",
       "snippet": {
         "publishedAt": "2026-02-05T15:25:03Z",
@@ -1820,7 +2463,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "139",
+        "viewCount": "141",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1828,7 +2471,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_Qjt3lRKI83KCW_oDy-XJeUQkn4",
+      "etag": "bNLj0TB3jHkJw-iWGI_d0FA_Ahw",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -1892,7 +2535,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "453",
+        "viewCount": "455",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1900,7 +2543,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "C9Q5VYxdeHkP5-eD5TED8NIsSkQ",
+      "etag": "pTFmMteuR8Q6ETvaYpZqZcdB5ZI",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -1945,7 +2588,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "859",
+        "viewCount": "871",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1953,7 +2596,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "H5TajhYIkL7eB0vkJ2ZPJF2iaUQ",
+      "etag": "eNrP5kKEBm9RtvoA7ROqmiiZcQk",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -2017,15 +2660,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3530",
-        "likeCount": "115",
+        "viewCount": "3733",
+        "likeCount": "119",
         "favoriteCount": "0",
         "commentCount": "58"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0N7aRrcEZ2zkfNHOmscug3ARGXw",
+      "etag": "GEHIEEYkQvDYnkxFlJhPgk0B77g",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -2070,7 +2713,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "275",
+        "viewCount": "277",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2078,7 +2721,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iLkUAarrG-dOPaDq7a80DZwS-vs",
+      "etag": "Vx28CUm5RXHzDh8E1sBYlSaMUbE",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -2123,7 +2766,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1510",
+        "viewCount": "1516",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2131,7 +2774,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FqG7h0rWJalJ5z0srWziaP5dWzA",
+      "etag": "OWTngknkWbbTQbkPpNk186tskx0",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -2176,7 +2819,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1116",
+        "viewCount": "1119",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2184,7 +2827,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L40hkUAgvs3__PucSjhXSFjjczs",
+      "etag": "JDxKb05YPTnp3_wJZFO0bmyswTI",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -2251,15 +2894,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3195",
-        "likeCount": "132",
+        "viewCount": "3297",
+        "likeCount": "138",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m_yqoPDDmrmgbvz90VWNv-dNzos",
+      "etag": "2c_FO0_qps_pmHLi_16oGHOq2RE",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -2322,7 +2965,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "151",
+        "viewCount": "158",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2330,7 +2973,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4sC6DBvsRQ2ybosaVuqHVb3Yl7A",
+      "etag": "LJz3AKc3sCVyvjyNhs1VYAvtD1A",
       "id": "t5lZVONnmyw",
       "snippet": {
         "publishedAt": "2026-01-05T02:42:29Z",
@@ -2375,7 +3018,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4526",
+        "viewCount": "4533",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2383,7 +3026,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "oESGoupS00UBZuySuVnwoamIBpY",
+      "etag": "rxwVwcPNqy_uGVKqecSEmCLc9J4",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -2428,15 +3071,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1751",
-        "likeCount": "53",
+        "viewCount": "1783",
+        "likeCount": "55",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4yKaA2g1I0cES4K6nUNGxIiOFkQ",
+      "etag": "wCKyxeufebraR-B-tlN9RWNAGh4",
       "id": "RMmIbQR7I4g",
       "snippet": {
         "publishedAt": "2026-01-03T14:30:32Z",
@@ -2499,7 +3142,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "800",
+        "viewCount": "803",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -2507,7 +3150,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "oakhKUCw7HN__1IIHu2bBB8N6TA",
+      "etag": "1Uac80fV1YCRxLRVHAB6Q5cCm2k",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -2565,7 +3208,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "982",
+        "viewCount": "986",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2573,7 +3216,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7Hr5bXBEKaIooka_3nujZRN-SKg",
+      "etag": "SrbGSAXuo9p3sFlWtuseJSAqCzA",
       "id": "If9QQ4IMLtE",
       "snippet": {
         "publishedAt": "2025-12-25T03:48:17Z",
@@ -2636,7 +3279,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1468",
+        "viewCount": "1469",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2644,7 +3287,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Kst0VRdqcob2Sz_U4kRXQy6N8IE",
+      "etag": "ncfcnkN-RFhlxkB9nuW6gsKLgLM",
       "id": "k_Le8zbMJT8",
       "snippet": {
         "publishedAt": "2025-12-11T05:01:10Z",
@@ -2707,7 +3350,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "367",
+        "viewCount": "378",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2715,7 +3358,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3t9ozXVSn2SNb1TegY0llxE6MuQ",
+      "etag": "DdkLuSufQkomZ2Fc84UGWdC_w8o",
       "id": "Ov0kVMVcCC8",
       "snippet": {
         "publishedAt": "2025-12-05T12:03:41Z",
@@ -2760,634 +3403,10 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1032",
+        "viewCount": "1035",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5_y3svl5lFHvtLFTZZI5Ez0yQzg",
-      "id": "Nrr_Ce10xoA",
-      "snippet": {
-        "publishedAt": "2025-12-04T19:58:57Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Best Ham Radio Backpack of 2025? #shorts",
-        "description": "This ham radio backpack isn't the cheapest, but it's super comfortable! Padded straps, perfect for accessories, and tons of pockets. James (K8JKU), Jim (N8JRD), & Rory (W8KNX) approve! #HamRadio #Backpack #GearReview #AmateurRadio #RadioLife",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nrr_Ce10xoA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nrr_Ce10xoA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nrr_Ce10xoA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nrr_Ce10xoA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nrr_Ce10xoA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Best Ham Radio Backpack of 2025? #shorts",
-          "description": "This ham radio backpack isn't the cheapest, but it's super comfortable! Padded straps, perfect for accessories, and tons of pockets. James (K8JKU), Jim (N8JRD), & Rory (W8KNX) approve! #HamRadio #Backpack #GearReview #AmateurRadio #RadioLife"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "261",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "436B6_fTWd9wt7ETyeZccx3ht1A",
-      "id": "BfnyZLXdTH0",
-      "snippet": {
-        "publishedAt": "2025-12-04T17:15:01Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-        "description": "What does 2026 have in store for ham radio? In this episode of Everyday Ham, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) share their bold predictions for the year ahead \u2014 covering new rigs, the future of our community, and what's next for the hobby.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we dig into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. We spend time on community \u2014 why POTA and SOTA remain the heartbeat of growth, how repeaters can make a comeback through AllStar links and creative nets, and why \"leave no call unanswered\" might be the culture shift that keeps VHF/UHF alive and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are.\n\nWe also talk AI in ham radio (helpful, not magical), and wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW.\n\n\ud83d\udcfb TIMESTAMPS\n0:00 \u2013 Intro\n0:25 \u2013 Year One Milestone & Housekeeping\n1:03 \u2013 Meet the Hosts and Shacks\n1:30 \u2013 Thanksgiving Deals and Rotary Phone Idea\n2:50 \u2013 Cold Weather POTA and Heated Mat\n4:54 \u2013 New Mast, Networking, and Fiber Upgrade\n7:21 \u2013 Main Topic: Predictions for 2026\n7:49 \u2013 Recent Radio Releases Recap\n10:10 \u2013 Kenwood TM-D750A: When and Why\n12:47 \u2013 Could Kenwood Cancel the 750A\n15:59 \u2013 Next Big Releases: HF, HTs, and USB-C\n18:24 \u2013 705 Mark II and Handheld Iterations\n25:42 \u2013 Growing the Community: Younger Hams\n28:20 \u2013 Clubs, Mentors, and Being Welcoming\n31:52 \u2013 Will POTA and SOTA Keep Rising\n35:45 \u2013 Reviving Repeaters and Creative Nets\n40:06 \u2013 Wild Cards: AI's Real Role in 2026\n44:48 \u2013 Extra Class Goals and CW Aspirations\n48:42 \u2013 Community Shoutouts and Content Plans\n50:41 \u2013 Closing Thanks and Holiday 73\n\n\ud83d\udd17 LINKS & RESOURCES\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\n\ud83c\udfa7 LISTEN TO THE AUDIO PODCAST\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\nFind all links at: https://www.everydayham.com\n\nWhat rig are you hoping to see in 2026? How will you help revive your local repeater? Drop your predictions in the comments or join us on Discord!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel.\n\n#HamRadio #AmateurRadio #HamRadioPodcast #2026Predictions #EverydayHam #HamRadioCommunity #Repeaters #POTA #SOTA #Yaesu #ICOM #Kenwood #Elecraft #SDR #AllStar #WinterPOTA #AmateurExtra",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BfnyZLXdTH0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BfnyZLXdTH0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BfnyZLXdTH0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BfnyZLXdTH0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BfnyZLXdTH0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "ham radio predictions",
-          "amateur radio 2026",
-          "ham radio community",
-          "repeater revival",
-          "POTA",
-          "SOTA",
-          "Yaesu radio",
-          "ICOM",
-          "Kenwood",
-          "Elecraft",
-          "AllStar",
-          "SDR ham radio",
-          "AI ham radio",
-          "winter POTA"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-          "description": "What does 2026 have in store for ham radio? In this episode of Everyday Ham, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) share their bold predictions for the year ahead \u2014 covering new rigs, the future of our community, and what's next for the hobby.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we dig into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. We spend time on community \u2014 why POTA and SOTA remain the heartbeat of growth, how repeaters can make a comeback through AllStar links and creative nets, and why \"leave no call unanswered\" might be the culture shift that keeps VHF/UHF alive and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are.\n\nWe also talk AI in ham radio (helpful, not magical), and wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW.\n\n\ud83d\udcfb TIMESTAMPS\n0:00 \u2013 Intro\n0:25 \u2013 Year One Milestone & Housekeeping\n1:03 \u2013 Meet the Hosts and Shacks\n1:30 \u2013 Thanksgiving Deals and Rotary Phone Idea\n2:50 \u2013 Cold Weather POTA and Heated Mat\n4:54 \u2013 New Mast, Networking, and Fiber Upgrade\n7:21 \u2013 Main Topic: Predictions for 2026\n7:49 \u2013 Recent Radio Releases Recap\n10:10 \u2013 Kenwood TM-D750A: When and Why\n12:47 \u2013 Could Kenwood Cancel the 750A\n15:59 \u2013 Next Big Releases: HF, HTs, and USB-C\n18:24 \u2013 705 Mark II and Handheld Iterations\n25:42 \u2013 Growing the Community: Younger Hams\n28:20 \u2013 Clubs, Mentors, and Being Welcoming\n31:52 \u2013 Will POTA and SOTA Keep Rising\n35:45 \u2013 Reviving Repeaters and Creative Nets\n40:06 \u2013 Wild Cards: AI's Real Role in 2026\n44:48 \u2013 Extra Class Goals and CW Aspirations\n48:42 \u2013 Community Shoutouts and Content Plans\n50:41 \u2013 Closing Thanks and Holiday 73\n\n\ud83d\udd17 LINKS & RESOURCES\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\n\ud83c\udfa7 LISTEN TO THE AUDIO PODCAST\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\nFind all links at: https://www.everydayham.com\n\nWhat rig are you hoping to see in 2026? How will you help revive your local repeater? Drop your predictions in the comments or join us on Discord!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel.\n\n#HamRadio #AmateurRadio #HamRadioPodcast #2026Predictions #EverydayHam #HamRadioCommunity #Repeaters #POTA #SOTA #Yaesu #ICOM #Kenwood #Elecraft #SDR #AllStar #WinterPOTA #AmateurExtra"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "595",
-        "likeCount": "22",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Dk6ORMs1SP_PFgq1r810ljDFUSI",
-      "id": "wlmmJhByEO4",
-      "snippet": {
-        "publishedAt": "2025-12-04T17:01:42Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-        "description": "What ham radio gear made the biggest difference in 2025? In this episode of Everyday Ham, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) share their favorite products from the past year \u2014 from budget-friendly essentials to dream shack upgrades.\n\nWhether you're shopping for a ham, building your POTA kit, or upgrading your home station, we've got recommendations for every price point.\n\n\ud83d\udcfb GEAR MENTIONED IN THIS EPISODE:\n\n00:00 Introduction\n00:47 Canvas Zipper Tool Bags\n01:56 DX Engineering Nomad 19 Mast\n03:12 RigExpert Match Antenna Analyzer\n04:56 PackTenna EFHW 20-10 Antenna\n06:13 ShariPi - www.kits4hams.com\n11:30 ABR Industries Custom Coax\n14:48 Inovato Quadra 4K HamClock\n16:30 Yaesu FTDX10\n18:15 Ham2K Portable Logger\n\n\ud83d\udd17 PRODUCTS & LINKS:\n\n\u25b8 Canvas Zipper Tool Bags (6-pack ~$23): https://www.amazon.com/dp/B0BBFKNKH5\n\u25b8 Klein Tool Bags (3-pack $54.99): https://www.dxengineering.com/parts/kle-5539lcpak\n\u25b8 DX Engineering Nomad 19 Mast ($106): https://www.dxengineering.com/parts/dxe-nomad19-rd\n\u25b8 RigExpert Match ($299.99): https://www.dxengineering.com/search/brand/rigexpert\n\u25b8 PackTenna EFHW 20-10 ($115): https://www.dxengineering.com/parts/pak-101\n\u25b8 ABR Industries Custom Coax: https://abrind.com/\n\u25b8 Inovato Quadra 4K HamClock ($60): https://inovato.com/products/quadra-hamclock-bundle-with-mini-keyboard\n\u25b8 Yaesu FTDX10 ($1,499.95): https://www.dxengineering.com/search?keyword=dx-10\n\u25b8 Ham2K Portable Logger (Free!): https://polo.ham2k.com/\n\n\ud83c\udfa7 LISTEN AS A PODCAST:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\u25b8 https://www.everydayham.com\n\n\ud83d\udcf1 FOLLOW EVERYDAY HAM:\n\u25b8 YouTube: @EverydayHam\n\u25b8 Instagram: https://www.instagram.com/everydayhampodcast/\n\u25b8 Website: https://www.everydayham.com\n\nDon't miss a single episode! Subscribe to the podcast and hit the bell on YouTube so you never miss our weekly discussions on ham radio, POTA, gear reviews, and more.\n\n#HamRadio #AmateurRadio #POTA #HamRadioGear #GiftIdeas #EverydayHam #FTDX10 #PackTenna #RigExpert #HamClock #PortableRadio #Ham2K #gifts #christmas #hamgifts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wlmmJhByEO4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wlmmJhByEO4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wlmmJhByEO4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wlmmJhByEO4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wlmmJhByEO4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "POTA",
-          "Parks on the Air",
-          "ham radio gear",
-          "gift ideas for hams",
-          "Yaesu FTDX10",
-          "PackTenna",
-          "RigExpert",
-          "HamClock",
-          "Inovato",
-          "Ham2K",
-          "ABR Industries",
-          "Nomad 19 mast",
-          "canvas tool bags",
-          "Everyday Ham",
-          "DX Engineering"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-          "description": "What ham radio gear made the biggest difference in 2025? In this episode of Everyday Ham, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) share their favorite products from the past year \u2014 from budget-friendly essentials to dream shack upgrades.\n\nWhether you're shopping for a ham, building your POTA kit, or upgrading your home station, we've got recommendations for every price point.\n\n\ud83d\udcfb GEAR MENTIONED IN THIS EPISODE:\n\n00:00 Introduction\n00:47 Canvas Zipper Tool Bags\n01:56 DX Engineering Nomad 19 Mast\n03:12 RigExpert Match Antenna Analyzer\n04:56 PackTenna EFHW 20-10 Antenna\n06:13 ShariPi - www.kits4hams.com\n11:30 ABR Industries Custom Coax\n14:48 Inovato Quadra 4K HamClock\n16:30 Yaesu FTDX10\n18:15 Ham2K Portable Logger\n\n\ud83d\udd17 PRODUCTS & LINKS:\n\n\u25b8 Canvas Zipper Tool Bags (6-pack ~$23): https://www.amazon.com/dp/B0BBFKNKH5\n\u25b8 Klein Tool Bags (3-pack $54.99): https://www.dxengineering.com/parts/kle-5539lcpak\n\u25b8 DX Engineering Nomad 19 Mast ($106): https://www.dxengineering.com/parts/dxe-nomad19-rd\n\u25b8 RigExpert Match ($299.99): https://www.dxengineering.com/search/brand/rigexpert\n\u25b8 PackTenna EFHW 20-10 ($115): https://www.dxengineering.com/parts/pak-101\n\u25b8 ABR Industries Custom Coax: https://abrind.com/\n\u25b8 Inovato Quadra 4K HamClock ($60): https://inovato.com/products/quadra-hamclock-bundle-with-mini-keyboard\n\u25b8 Yaesu FTDX10 ($1,499.95): https://www.dxengineering.com/search?keyword=dx-10\n\u25b8 Ham2K Portable Logger (Free!): https://polo.ham2k.com/\n\n\ud83c\udfa7 LISTEN AS A PODCAST:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\u25b8 https://www.everydayham.com\n\n\ud83d\udcf1 FOLLOW EVERYDAY HAM:\n\u25b8 YouTube: @EverydayHam\n\u25b8 Instagram: https://www.instagram.com/everydayhampodcast/\n\u25b8 Website: https://www.everydayham.com\n\nDon't miss a single episode! Subscribe to the podcast and hit the bell on YouTube so you never miss our weekly discussions on ham radio, POTA, gear reviews, and more.\n\n#HamRadio #AmateurRadio #POTA #HamRadioGear #GiftIdeas #EverydayHam #FTDX10 #PackTenna #RigExpert #HamClock #PortableRadio #Ham2K #gifts #christmas #hamgifts"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1325",
-        "likeCount": "49",
-        "favoriteCount": "0",
-        "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "AbQBggSou6pSsNOpkcVE4lfhsho",
-      "id": "id9szJP3ZZQ",
-      "snippet": {
-        "publishedAt": "2025-12-04T17:22:38Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/id9szJP3ZZQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nWhat does 2026 have in store for ham radio? A year into the podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) turn up the dial with a forward look at the hobby's near future \u2014 grounded in real gear, real operating, and real community.\n\nWe start in the shack with winter POTA prep, a feather-light 33-foot mast, a fiber-fueled network overhaul, and a pair of pristine rotary phones begging for a ham project. Then we get into the predictions.\n\nOn the gear side, we share our predictions for what hardware might be on the horizon \u2014 what we'd love to see from the major manufacturers and where we think the industry is heading.\n\nBut hardware isn't the whole story. POTA and SOTA remain the heartbeat of growth because they lower the barrier to entry and make radio feel alive. We share why portable operating will keep rising even as solar conditions tighten.\n\nAt home, we're betting on a repeater revival \u2014 AllStar links, creative nets like SSTV nights, and \"leave no call unanswered\" as the culture shift that keeps VHF/UHF useful and welcoming. College clubs are buzzing again, and the formula scales: be kind, run practical events, and meet people where they are \u2014 on-air, at meetups, or on Discord.\n\nAI comes up, minus the hype. Think helpful, not magical: audio-assisted logging, smarter noise control, and developer tooling that speeds up ham software. It's another tool, like a good tuner \u2014 valuable when it saves time and stays out of the way.\n\nWe wrap with personal goals \u2014 Extra class ambitions and a fresh pull toward CW \u2014 and a reminder that every license class is valid. The hobby thrives when we celebrate each step and keep the airwaves friendly.\n\nConnect with us:\n\ud83c\udf10 Website: https://www.everydayham.com\n\ud83d\udcf7 Instagram: https://www.instagram.com/everydayhampodcast/\n\ud83d\udcac Discord: Join our community at everydayham.com\n\nWhat rig are you hoping to see next? How will you help revive your local repeater? Drop your predictions in our Discord or in the comments!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/\u00a0\n\n\nInstagram: https://www.instagram.com/everydayhampodcast/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "187",
-        "likeCount": "8",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "J1kG5tSS38kElxrcef6-nMIfaeg",
-      "id": "-OPz7HyW794",
-      "snippet": {
-        "publishedAt": "2025-11-28T16:30:57Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Are There Any Ham Deals for Black Friday 2025?",
-        "description": "N8JRD takes a look at the pricing for 2025's Amateur Radio Black Friday.   While prices are generally higher than previous deals, are there still any interesting deals to be had?\n\nLet's browse!\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-OPz7HyW794/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-OPz7HyW794/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-OPz7HyW794/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-OPz7HyW794/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-OPz7HyW794/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Are There Any Ham Deals for Black Friday 2025?",
-          "description": "N8JRD takes a look at the pricing for 2025's Amateur Radio Black Friday.   While prices are generally higher than previous deals, are there still any interesting deals to be had?\n\nLet's browse!\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1659",
-        "likeCount": "53",
-        "favoriteCount": "0",
-        "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uu5VXlUhX1fqRrUHv6BiwFImxFQ",
-      "id": "ukBmPLoZ5Z4",
-      "snippet": {
-        "publishedAt": "2025-11-20T22:24:07Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Aerial 51 Antenna: POTA Bands & No Tuner Needed? #shorts",
-        "description": "Have you used the Aerial 51 OFCD antenna? If not, its a great one to checkout. It can cover 40m to 6m without a tuner on many bands! #HamRadio #AmateurRadio #EverydayHam #Aerial51 #POTA #FT891 #Antenna #SWR #HF #wireantenna",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ukBmPLoZ5Z4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ukBmPLoZ5Z4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ukBmPLoZ5Z4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ukBmPLoZ5Z4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ukBmPLoZ5Z4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Aerial 51 Antenna: POTA Bands & No Tuner Needed? #shorts",
-          "description": "Have you used the Aerial 51 OFCD antenna? If not, its a great one to checkout. It can cover 40m to 6m without a tuner on many bands! #HamRadio #AmateurRadio #EverydayHam #Aerial51 #POTA #FT891 #Antenna #SWR #HF #wireantenna"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "899",
-        "likeCount": "31",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VIQ35YCJ39usAsh7a6TVpUboChY",
-      "id": "NRCz6H0BpZI",
-      "snippet": {
-        "publishedAt": "2025-11-20T16:01:16Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-        "description": "Join Jim N8JRD and James K8JKU head out to the park to do a 3-way Pota Wire antenna comparison and discuss Spiderbeam's Aerial-51 wire antenna.   This off center fed dipole may be one of the most interesting wire antennas you haven't heard about, offering fast access to a broad array of the amateur radio bands without the need for a wideband tuner!    We also compare it to other popular antennas from Packtenna and Sotabeams.   \n\nWhich antenna works best, do you need an Aerial 51 in your kit?  Come along and find out on this Everyday Ham MicCheck.\n\nTable of Contents:\n00:16 - Intro, 3-Antennas Specifications\n04:46 - Aerial 51 Setup and Considerations\n06:50 - Making some QSO's on the Aerial 51 on 40m\n10:23 - 15m Testing\n13:48 - SWR Testing and Comparing to Manufacturer Specs\n17:19 - Sotabeams Bandhopper II Setup and Considerations\n18:59 - Making some QSO's on the Bandhopper\n21:58 - How to change Bands on the Bandhopper\n22:10 - 20m Testing\n24:38 - Bandhopper vs Aerial 51 Reflection\n26:14 - Packtenna EFHW Setup and Considerations\n28:06 - Making some QSO's on the Packtenna on 40m\n29:15 - 20m Testing\n31:16 - Packtenna (and general EFHW) Observations\n33:35 - Conclusion and Final Thoughts on the 3 Wire Antennas\n\nGear used:\nYaesu FTdx10\nRigExpert AA-650 Zoom Analyzer\niPad Pro with Ham2k Polo\nPackTenna EFHW\nSotaBeams Bandhopper II\nAerial 51 Anentnna: https://www.vibroplex.com/contents/en-us/p3582.html\nSpiderbeam Mast: https://www.vibroplex.com/contents/en-us/p3531.html\n\n3D Printed Parts, for Reference:\nThingiverse Spiderbeam 12m Mast Block: https://www.thingiverse.com/thing:4881368\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #wireantenna #aerial51 #spiderbeam #packtenna #bandhopper",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NRCz6H0BpZI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NRCz6H0BpZI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NRCz6H0BpZI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NRCz6H0BpZI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NRCz6H0BpZI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "WireAntenna",
-          "Aerial51",
-          "Packtenna",
-          "Bandhopper"
-        ],
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-          "description": "Join Jim N8JRD and James K8JKU head out to the park to do a 3-way Pota Wire antenna comparison and discuss Spiderbeam's Aerial-51 wire antenna.   This off center fed dipole may be one of the most interesting wire antennas you haven't heard about, offering fast access to a broad array of the amateur radio bands without the need for a wideband tuner!    We also compare it to other popular antennas from Packtenna and Sotabeams.   \n\nWhich antenna works best, do you need an Aerial 51 in your kit?  Come along and find out on this Everyday Ham MicCheck.\n\nTable of Contents:\n00:16 - Intro, 3-Antennas Specifications\n04:46 - Aerial 51 Setup and Considerations\n06:50 - Making some QSO's on the Aerial 51 on 40m\n10:23 - 15m Testing\n13:48 - SWR Testing and Comparing to Manufacturer Specs\n17:19 - Sotabeams Bandhopper II Setup and Considerations\n18:59 - Making some QSO's on the Bandhopper\n21:58 - How to change Bands on the Bandhopper\n22:10 - 20m Testing\n24:38 - Bandhopper vs Aerial 51 Reflection\n26:14 - Packtenna EFHW Setup and Considerations\n28:06 - Making some QSO's on the Packtenna on 40m\n29:15 - 20m Testing\n31:16 - Packtenna (and general EFHW) Observations\n33:35 - Conclusion and Final Thoughts on the 3 Wire Antennas\n\nGear used:\nYaesu FTdx10\nRigExpert AA-650 Zoom Analyzer\niPad Pro with Ham2k Polo\nPackTenna EFHW\nSotaBeams Bandhopper II\nAerial 51 Anentnna: https://www.vibroplex.com/contents/en-us/p3582.html\nSpiderbeam Mast: https://www.vibroplex.com/contents/en-us/p3531.html\n\n3D Printed Parts, for Reference:\nThingiverse Spiderbeam 12m Mast Block: https://www.thingiverse.com/thing:4881368\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #wireantenna #aerial51 #spiderbeam #packtenna #bandhopper"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "590",
-        "likeCount": "27",
-        "favoriteCount": "0",
-        "commentCount": "11"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "oOJgZYSC34-e-AVikU0nPcF5rQs",
-      "id": "sAGV73vzm24",
-      "snippet": {
-        "publishedAt": "2025-11-17T01:31:25Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "First POTA Activation in Canada! #shorts",
-        "description": "My first POTA activation in Canada! Activated 5 parks across Ontario and had a blast connecting with hunters. POTA really does get you out exploring. Which park should I hit next? 73 de K8JKU #POTA #HamRadio #AmateurRadio #Canada #Ontario #everydayham #k8jku",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sAGV73vzm24/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sAGV73vzm24/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sAGV73vzm24/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sAGV73vzm24/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sAGV73vzm24/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "POTA",
-          "Parks on the Air",
-          "ham radio",
-          "amateur radio",
-          "Canada",
-          "Ontario",
-          "K8JKU",
-          "portable radio",
-          "ham radio Canada",
-          "POTA activation",
-          "field radio",
-          "QRP",
-          "ham radio portable",
-          "outdoor radio",
-          "Canadian parks"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "First POTA Activation in Canada! #shorts",
-          "description": "My first POTA activation in Canada! Activated 5 parks across Ontario and had a blast connecting with hunters. POTA really does get you out exploring. Which park should I hit next? 73 de K8JKU #POTA #HamRadio #AmateurRadio #Canada #Ontario #everydayham #k8jku"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "949",
-        "likeCount": "20",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "S33dQYDGiS8ak3hEfxkyKpE2pEg",
-      "id": "RxgcxKk969g",
-      "snippet": {
-        "publishedAt": "2025-11-14T00:34:53Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "POTA Paradise: Ham Radio Beach Setup & Operation #shorts",
-        "description": "We found sun, a beach, and a cool spot for POTA! The 891's running in the back with Ham 2K on the iPad. Mast's on the tire, PackTenna's draping\u2014easy setup, great conditions. #HamRadio #AmateurRadio #EverydayHam",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RxgcxKk969g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RxgcxKk969g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RxgcxKk969g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RxgcxKk969g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RxgcxKk969g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "w8knx",
-          "amateur radio beginners",
-          "ham radio community",
-          "radio operators",
-          "HF",
-          "POTA",
-          "Parks On The Air",
-          "portable operations",
-          "FT-891",
-          "Yaesu",
-          "California POTA",
-          "flying with radio gear",
-          "Lake Mead",
-          "Malibu",
-          "Point Dume",
-          "Topanga State Park",
-          "POTA activation",
-          "W8KNX",
-          "PackTenna",
-          "Ham2K"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "POTA Paradise: Ham Radio Beach Setup & Operation #shorts",
-          "description": "We found sun, a beach, and a cool spot for POTA! The 891's running in the back with Ham 2K on the iPad. Mast's on the tire, PackTenna's draping\u2014easy setup, great conditions. #HamRadio #AmateurRadio #EverydayHam"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "1612",
-        "likeCount": "18",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ]

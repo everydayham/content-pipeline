@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-05-11 14:31 UTC*
+*Last updated: 2026-05-18 14:56 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| ⚡Радиосвязь во время отключения электричества📻 #ha... | 📻UB3PEH | 1,134,046 | 2026-05-06 |
-| Dadi Rocked Pota Shocked 🙆🏻‍♂️😯😅📈 #funny #funnymem... | ViralLifeLines | 860,090 | 2026-05-08 |
-| Dance Dram BMSG 2025 ,彼にまた会いたい人はいますか？#BEFIRST#SOTA | NINA_BESTY | 588,753 | 2026-05-05 |
-| Trend Bombale Sakura School Simulator😺✨🌸 | It's Naofi | 498,125 | 2026-05-06 |
-| #viral #"Papa ne kaha – Har waqt sota rehta ha ja ... | @Ai4you | 487,187 | 2026-05-05 |
-| Sachin Itna Zyada kyun Sota Hai Seema ko aaya Guss... | seemasachin10 | 334,882 | 2026-05-05 |
-| Part 2 ,BMSG Dance Dream, 車のハンドル#BEFIRST#SOTA | NINA_BESTY | 323,191 | 2026-05-07 |
-| Страна терпит поражение. Техники нет. Какое 9 мая?... | sotavision | 179,572 | 2026-05-06 |
-| 藤井聡太名人〝将棋史に残る毒饅頭〟　妙手4五歩に糸谷哲郎九段は「どういう意味だ…」 | 囲碁将棋TV -朝日新聞社- | 164,629 | 2026-05-09 |
-| Morse code trainer! #hobby #hamradio #morsecode #t... | Hobby Steve  | 161,779 | 2026-05-05 |
-| High Frequency inverter || Rebuild Tech 😁 | Rebuild Tech | 157,360 | 2026-05-05 |
-| 【プロも大絶賛！】藤井聡太の瞬殺35手詰！糸谷九段も頭を抱えた神業を解説【第84期名人戦七番勝負第３... | 将棋ニュース速報【元奨全国優勝&ウォーズ | 148,605 | 2026-05-08 |
-| tumhare baap ka Ghar hai Jo Tum yahan per sota hai... | DANCE DUNIYA | 144,236 | 2026-05-06 |
-| 注意に来た担任みたいな人いる。 #befirst #sota #junon #leo | BESTY FROM TOKYO | 138,241 | 2026-05-04 |
-| 藤井聡太名人が3連勝　桁外れの読みの速さと正確性　北浜健介八段が解説 | 将棋・囲碁ch 毎日新聞 | 114,517 | 2026-05-08 |
-| SP Ka Pota Missing… Police Mein Hahakar#shorts #vi... | Thedastaanix | 99,504 | 2026-05-07 |
-| POTA POTA VS BOMBAYE BEHIND THE SCENE | Regita Masri | 92,782 | 2026-05-05 |
-| THECHA POTA KALEJI | Pota Kaleji Thecha | Pota Kal... | ticket2 explore | 87,719 | 2026-05-06 |
-| amma pota dress ah podurangala 🥲💯 | Sandakaari_sisters | 75,866 | 2026-05-06 |
-| 🐐ஆடு புழுக🥔 pota mari😂 potute poriye daa 😅#vjsiddh... | Devz Vibezz | 62,716 | 2026-05-09 |
-| pota kalegi recipe by truck driver rajesh ji 😋😝🤤 | foody@vlogs | 60,818 | 2026-05-05 |
-| WOK DE POTA GLASEADA 🔥 | Porter4house | 48,886 | 2026-05-06 |
-| Just a few letters! #hobby #practice #hamradio #mo... | Hobby Steve  | 44,811 | 2026-05-10 |
-| 2kg chicken Leg 🍗 & pota Kaleji Curry rice 1 Min m... | Hungry Vishal Show | 43,053 | 2026-05-06 |
-| Drake Dominated Ham Radio for 20 Years — Then Made... | The History Archive | 39,851 | 2026-05-10 |
+| 【BE:FIRST】デビュー当時と現在 | JapanStarWorld🌟スターの軌 | 377,399 | 2026-05-13 |
+| Частота переменного тока в TIG — это не просто циф... | Welding Group | 266,117 | 2026-05-14 |
+| Gutter antenna 🔥 #hobby #morsecode #hamradio #ante... | Hobby Steve  | 245,397 | 2026-05-11 |
+| PRINCIPAL KA POTA 🤣😂#ansh #funny #like #subscribe ... | Fazal Fact7 | 224,758 | 2026-05-17 |
+| 【 BE:FIRST 】 SOTA MANATO しょーちゃんだけ踊らせる #BEFIRST #BE... | まる【 BE:FIRST 切り抜き】 | 206,339 | 2026-05-13 |
+| Nanu vaishu dagara pota antuna amma 😭😭💔 @VaishuAmm... | attitudeporis | 191,726 | 2026-05-12 |
+| Путин сказал, завершение: народ устал! Россияне о ... | sotavision | 166,486 | 2026-05-13 |
+| 【このラジオはやばい！】夢のラジオついに降臨！リピーター搭載 ZHIWHIS ZWS-802 | アマチュア無線でこんにちわっふる！JK3 | 160,180 | 2026-05-13 |
+| Sota Really Challenged Captain Cold Blood 😂🔥 | Hor... | Revere | 148,094 | 2026-05-12 |
+| BE:FIRST 'Rondo' SOTA verse #BF_Rondo #BEFIRST #SO... | BE:FIRST Official | 116,245 | 2026-05-14 |
+| Love a gutter antenna! #hobby #hamradio #experemen... | Hobby Steve  | 109,212 | 2026-05-12 |
+| Learn Morse Code in 16 seconds! #hamradio #hobby #... | The Radio Zoomer | 91,180 | 2026-05-15 |
+| I Turned This Electric Scooter Into a Mobile HAM S... | MrMuDs | 81,576 | 2026-05-12 |
+| Aese Sota #shorts | Just kidding  | 62,855 | 2026-05-16 |
+| 【解説37】進撃の棋神による鬼終盤【藤井聡太棋聖】 | tamakin将棋実況 | 52,871 | 2026-05-12 |
+| ♪BE:FIRST 'Rondo'  with Luuny muunyさん×LDH SCREAM 武... | LDH SCREAM OFFICIAL | 50,843 | 2026-05-12 |
+| #BEFIRST#味の素スタジアム SS最前参戦できた伝説の1日..③#SOTA#SHUNTO#MA... | BE:HAPPY | 42,990 | 2026-05-17 |
+| Pinky unakku enna paattu pota 🧑🏻‍🦱📱📺🎶💃🏻#comedy #fu... | RCMS_CHANNEL | 42,841 | 2026-05-11 |
+| How quickly can you learn Morse code? Day 1 #hamra... | The Radio Zoomer | 41,472 | 2026-05-13 |
+| Who lives on Dewberry lane. #morsecode | Forrest (KI7QCF) | 38,820 | 2026-05-13 |
+| Can you learn Morse code in 11 seconds? Pt 2 #hamr... | The Radio Zoomer | 37,954 | 2026-05-14 |
+| Ek Taraf beta ek taraf pota 🥰 #dipikakiduniya #ruh... | Pinki Bagani  | 37,079 | 2026-05-12 |
+| How to say Alex in Morse Code #hamradio #morsecode... | The Radio Zoomer | 33,409 | 2026-05-14 |
+| eating chicken curry|chicken leg piece|chicken pot... | Shiva07 foodie  | 31,111 | 2026-05-16 |
+| Dadi pota #shorts #shortsfeed #trending #viral #re... | Sonam vlogs | 28,921 | 2026-05-14 |
 
 ---
 
@@ -42,14 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (36 videos)
-- **License/Learning**: ████████████████████ (32 videos)
-- **HF Operating**: ████████████████████ (22 videos)
+- **License/Learning**: ████████████████████ (30 videos)
+- **POTA/Portable**: ████████████████████ (27 videos)
+- **HF Operating**: ████████████████████ (20 videos)
 - **Antennas**: █████████████████ (17 videos)
-- **Gear Reviews**: ████████████ (12 videos)
-- **Digital Modes**: ████████ (8 videos)
-- **QRP**: ████████ (8 videos)
-- **Contests**: █████ (5 videos)
+- **Gear Reviews**: ████████ (8 videos)
+- **QRP**: ██████ (6 videos)
+- **Digital Modes**: ██████ (6 videos)
+- **Contests**: ██ (2 videos)
 
 ---
 

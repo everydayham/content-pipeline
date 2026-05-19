@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-18 14:30 UTC*
+*Last updated: 2026-05-19 13:55 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Put an Anytone D890 on a mountain overlooking my city to use as a repeater to ta...](https://www.reddit.com/r/amateurradio/comments/1tg95ia/put_an_anytone_d890_on_a_mountain_overlooking_my/)**
+**3. [Clearing out my Grandparents house. I inherited a set with HISTORY.](https://www.reddit.com/r/amateurradio/comments/1th4gn3/clearing_out_my_grandparents_house_i_inherited_a/)**
+by u/Katsarsenal
+
+**4. [anybody know what this microphone is?](https://www.reddit.com/r/amateurradio/comments/1thbwu2/anybody_know_what_this_microphone_is/)**
+by u/bouncer423
+
+**5. [Our Hamvention forum about the history of Parks on the Air and the goals of the ...](https://www.reddit.com/r/amateurradio/comments/1th82ty/our_hamvention_forum_about_the_history_of_parks/)**
+by u/tamitall
+
+**6. [G90 Power Cable Unfinished?](https://www.reddit.com/r/amateurradio/comments/1thc4f1/g90_power_cable_unfinished/)**
+by u/charcuterDude
+
+**7. [What kind of antenna tower do I have?](https://www.reddit.com/r/amateurradio/comments/1tgs54j/what_kind_of_antenna_tower_do_i_have/)**
+by u/Hobbyman44
+
+**8. [MFJ Documentary Dayton Forum Presentation: Uploaded by Popular Request](https://www.reddit.com/r/amateurradio/comments/1tgpohl/mfj_documentary_dayton_forum_presentation/)**
+by u/MFJDocumentary
+
+**9. [Interference on 10 Meters](https://www.reddit.com/r/amateurradio/comments/1tgzc2l/interference_on_10_meters/)**
+by u/lokiloki0z
+
+**10. [New to shortwave radio. Any basic tips for listening to ham conversations?](https://www.reddit.com/r/amateurradio/comments/1tgvgb1/new_to_shortwave_radio_any_basic_tips_for/)**
+by u/One-Entertainer-5499
+
+**11. [Put an Anytone D890 on a mountain overlooking my city to use as a repeater to ta...](https://www.reddit.com/r/amateurradio/comments/1tg95ia/put_an_anytone_d890_on_a_mountain_overlooking_my/)**
 by u/get-off-my-frequency
 
-**4. [Got this VX3 at Hamvention for $50, no mic audio. Fixed!](https://www.reddit.com/r/amateurradio/comments/1tfzwz8/got_this_vx3_at_hamvention_for_50_no_mic_audio/)**
-by u/inquirewue
+**12. [Anyone else having problems with LotW today?](https://www.reddit.com/r/amateurradio/comments/1thd86n/anyone_else_having_problems_with_lotw_today/)**
+by u/GiantsNerd1
 
-**5. [Anyone know the name of this connector for the PRC77?](https://www.reddit.com/r/amateurradio/comments/1tgjz16/anyone_know_the_name_of_this_connector_for_the/)**
-by u/Lanky_Garbage_5353
+**13. [Bajeton bj8300 write error](https://www.reddit.com/r/amateurradio/comments/1thh6f6/bajeton_bj8300_write_error/)**
+by u/EnthusiasmHumble3424
 
-**6. [Another great Hamvention find. $25 and the guy said it didn't work. Tektronix 21...](https://www.reddit.com/r/amateurradio/comments/1tg2jko/another_great_hamvention_find_25_and_the_guy_said/)**
-by u/inquirewue
+**14. [Significant SSB / Fading this week on HF](https://www.reddit.com/r/amateurradio/comments/1tgvoua/significant_ssb_fading_this_week_on_hf/)**
+by u/blue-moto
 
-**7. [The skip is on fire today](https://www.reddit.com/r/amateurradio/comments/1tg4x6s/the_skip_is_on_fire_today/)**
-by u/Active_Emu_845
-
-**8. [6m open, US](https://www.reddit.com/r/amateurradio/comments/1tfruat/6m_open_us/)**
-by u/SwitchedOnNow
-
-**9. [Problemas com TX no Baofeng Uv5R com antena Moxon + satélite](https://www.reddit.com/r/amateurradio/comments/1tgkymj/problemas_com_tx_no_baofeng_uv5r_com_antena_moxon/)**
-by u/One-Bag-3980
-
-**10. [What constitutes a sufficient ground?](https://www.reddit.com/r/amateurradio/comments/1tfy5ns/what_constitutes_a_sufficient_ground/)**
-by u/NERDS_
-
-**11. [I passed my general class exam at hamvention 2026 this is "KE9EAZ/AG"](https://www.reddit.com/r/amateurradio/comments/1tf88hr/i_passed_my_general_class_exam_at_hamvention_2026/)**
-by u/TechRat2
-
-**12. [TS-850sAT Main Rig in 2026.](https://www.reddit.com/r/amateurradio/comments/1tg3c7r/ts850sat_main_rig_in_2026/)**
-by u/Professional-Virus10
-
-**13. [My first transmitter / fox hunt](https://www.reddit.com/r/amateurradio/comments/1tfy06n/my_first_transmitter_fox_hunt/)**
-by u/Unusual_Maize5369
-
-**14. [Ideas on how to hang this roll up Jpole](https://www.reddit.com/r/amateurradio/comments/1tfouez/ideas_on_how_to_hang_this_roll_up_jpole/)**
-by u/lonestar2222003
-
-**15. [Ist the Anytone UV878 II Plus APRS RX deaf?](https://www.reddit.com/r/amateurradio/comments/1tfzti1/ist_the_anytone_uv878_ii_plus_aprs_rx_deaf/)**
-by u/Phoenix-64
+**15. [Possibly stupid question](https://www.reddit.com/r/amateurradio/comments/1tharti/possibly_stupid_question/)**
+by u/tattedanddisturbed
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Random Antenna at Tire Dealership](https://www.reddit.com/r/HamRadio/comments/1tg5pa3/random_antenna_at_tire_dealership/)**
-by u/DMGMatWork
+**3. [There’s 5 repeaters in my town. And no one is on them.](https://www.reddit.com/r/HamRadio/comments/1thjb1v/theres_5_repeaters_in_my_town_and_no_one_is_on/)**
+by u/Straight-Sherbert604
 
-**4. [I went from a cupholder mounted amplifier, to a full out Harris VRC-110 VAA setu...](https://www.reddit.com/r/HamRadio/comments/1tg251f/i_went_from_a_cupholder_mounted_amplifier_to_a/)**
-by u/mctscott
-
-**5. [Just passed my Tech, which G90 or X6100?](https://www.reddit.com/r/HamRadio/comments/1tg5y52/just_passed_my_tech_which_g90_or_x6100/)**
-by u/DMGMatWork
-
-**6. [I passed my general class exam at hamvention 2026 this is "KE9EAZ/AG"](https://www.reddit.com/r/HamRadio/comments/1tf87ab/i_passed_my_general_class_exam_at_hamvention_2026/)**
-by u/TechRat2
-
-**7. [Does anyone use a mfj speech intelligibilty enhancer? Is it worth it?](https://www.reddit.com/r/HamRadio/comments/1tg8wyc/does_anyone_use_a_mfj_speech_intelligibilty/)**
-by u/PARENTHAM
-
-**8. [New HAM Ques: Can I coil my feed line?](https://www.reddit.com/r/HamRadio/comments/1tfzbet/new_ham_ques_can_i_coil_my_feed_line/)**
+**4. [Humble Brag: Passed Tech and General and Extra in 2 days!](https://www.reddit.com/r/HamRadio/comments/1th1hu7/humble_brag_passed_tech_and_general_and_extra_in/)**
 by u/ClownWorldOne
 
-**9. [[CA Specific] Trying to get the California DMV create a real vanity plate for am...](https://www.reddit.com/r/HamRadio/comments/1tfsqgy/ca_specific_trying_to_get_the_california_dmv/)**
-by u/owemeacent
+**5. [Best book to LEARN Technician content?](https://www.reddit.com/r/HamRadio/comments/1thcjy1/best_book_to_learn_technician_content/)**
+by u/AztecPilot1MY
 
-**10. [I designed a magnetic mount for the ICOM 7100](https://www.reddit.com/r/HamRadio/comments/1tfcnbn/i_designed_a_magnetic_mount_for_the_icom_7100/)**
-by u/Angelworks42
+**6. [Vanity Callsign application clarification](https://www.reddit.com/r/HamRadio/comments/1thl8k8/vanity_callsign_application_clarification/)**
+by u/_Cpoc_
 
-**11. [TM-D750A News from Dayton Hamvention](https://www.reddit.com/r/HamRadio/comments/1tfpruc/tmd750a_news_from_dayton_hamvention/)**
-by u/Absolute_Flatulence
+**7. [Consejo de un micrófono de sobre mesa o circuito para hacer y usar con un Luthor...](https://www.reddit.com/r/HamRadio/comments/1thl57w/consejo_de_un_micrófono_de_sobre_mesa_o_circuito/)**
+by u/No-Preparation-3262
 
-**12. [Trying to connect work walkie to my own personal walkie. How?](https://www.reddit.com/r/HamRadio/comments/1tgikmn/trying_to_connect_work_walkie_to_my_own_personal/)**
-by u/Ok_Screen2967
+**8. [History question about 1927 QSL card](https://www.reddit.com/r/HamRadio/comments/1th2oz3/history_question_about_1927_qsl_card/)**
+by u/stuugee
 
-**13. [Chirp next issue with new 20260515 release - scanlists have disappeared on Quans...](https://www.reddit.com/r/HamRadio/comments/1tg0sbf/chirp_next_issue_with_new_20260515_release/)**
-by u/small_trunks
+**9. [Looking for a rooftop space + internet from a HAM operator or homeowner in Austi...](https://www.reddit.com/r/HamRadio/comments/1th6ltc/looking_for_a_rooftop_space_internet_from_a_ham/)**
+by u/No_Theme_2360
 
-**14. [Pulsat DMR-10 (aka Tekk D-100) programming](https://www.reddit.com/r/HamRadio/comments/1tfubtg/pulsat_dmr10_aka_tekk_d100_programming/)**
-by u/Senior_Willingness15
+**10. [What is this on an frs frequency?](https://www.reddit.com/r/HamRadio/comments/1thj9bo/what_is_this_on_an_frs_frequency/)**
+by u/Former-Surprise3764
 
-**15. [Larger Antenna for Car Mesh, 40cm](https://www.reddit.com/r/HamRadio/comments/1tfs45x/larger_antenna_for_car_mesh_40cm/)**
-by u/Logical_Carrot267
+**11. [Logging Ham Radio repeater usage with a Baofeng and Adafruit IO #HamSunday](https://www.reddit.com/r/HamRadio/comments/1tgu3dl/logging_ham_radio_repeater_usage_with_a_baofeng/)**
+by u/EnergyLantern
+
+**12. [Random Antenna at Tire Dealership](https://www.reddit.com/r/HamRadio/comments/1tg5pa3/random_antenna_at_tire_dealership/)**
+by u/DMGMatWork
+
+**13. [Is my radio fried? JTDX is reading 180 dB](https://www.reddit.com/r/HamRadio/comments/1th1av1/is_my_radio_fried_jtdx_is_reading_180_db/)**
+by u/Daddy_050
+
+**14. [I went from a cupholder mounted amplifier, to a full out Harris VRC-110 VAA setu...](https://www.reddit.com/r/HamRadio/comments/1tg251f/i_went_from_a_cupholder_mounted_amplifier_to_a/)**
+by u/mctscott
+
+**15. [Just passed my Tech, which G90 or X6100?](https://www.reddit.com/r/HamRadio/comments/1tg5y52/just_passed_my_tech_which_g90_or_x6100/)**
+by u/DMGMatWork
 
 ---
 
@@ -110,14 +110,14 @@ by u/Logical_Carrot267
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tglxei/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Put an Anytone D890 on a mountain overlooking my city to use as a repe...](https://www.reddit.com/r/amateurradio/comments/1tg95ia/put_an_anytone_d890_on_a_mountain_overlooking_my/)** (r/amateurradio)
-- **[Got this VX3 at Hamvention for $50, no mic audio. Fixed!](https://www.reddit.com/r/amateurradio/comments/1tfzwz8/got_this_vx3_at_hamvention_for_50_no_mic_audio/)** (r/amateurradio)
-- **[Anyone know the name of this connector for the PRC77?](https://www.reddit.com/r/amateurradio/comments/1tgjz16/anyone_know_the_name_of_this_connector_for_the/)** (r/amateurradio)
-- **[Another great Hamvention find. $25 and the guy said it didn't work. Te...](https://www.reddit.com/r/amateurradio/comments/1tg2jko/another_great_hamvention_find_25_and_the_guy_said/)** (r/amateurradio)
-- **[The skip is on fire today](https://www.reddit.com/r/amateurradio/comments/1tg4x6s/the_skip_is_on_fire_today/)** (r/amateurradio)
-- **[6m open, US](https://www.reddit.com/r/amateurradio/comments/1tfruat/6m_open_us/)** (r/amateurradio)
-- **[Problemas com TX no Baofeng Uv5R com antena Moxon + satélite](https://www.reddit.com/r/amateurradio/comments/1tgkymj/problemas_com_tx_no_baofeng_uv5r_com_antena_moxon/)** (r/amateurradio)
-- **[What constitutes a sufficient ground?](https://www.reddit.com/r/amateurradio/comments/1tfy5ns/what_constitutes_a_sufficient_ground/)** (r/amateurradio)
+- **[Clearing out my Grandparents house. I inherited a set with HISTORY.](https://www.reddit.com/r/amateurradio/comments/1th4gn3/clearing_out_my_grandparents_house_i_inherited_a/)** (r/amateurradio)
+- **[anybody know what this microphone is?](https://www.reddit.com/r/amateurradio/comments/1thbwu2/anybody_know_what_this_microphone_is/)** (r/amateurradio)
+- **[Our Hamvention forum about the history of Parks on the Air and the goa...](https://www.reddit.com/r/amateurradio/comments/1th82ty/our_hamvention_forum_about_the_history_of_parks/)** (r/amateurradio)
+- **[G90 Power Cable Unfinished?](https://www.reddit.com/r/amateurradio/comments/1thc4f1/g90_power_cable_unfinished/)** (r/amateurradio)
+- **[What kind of antenna tower do I have?](https://www.reddit.com/r/amateurradio/comments/1tgs54j/what_kind_of_antenna_tower_do_i_have/)** (r/amateurradio)
+- **[MFJ Documentary Dayton Forum Presentation: Uploaded by Popular Request](https://www.reddit.com/r/amateurradio/comments/1tgpohl/mfj_documentary_dayton_forum_presentation/)** (r/amateurradio)
+- **[Interference on 10 Meters](https://www.reddit.com/r/amateurradio/comments/1tgzc2l/interference_on_10_meters/)** (r/amateurradio)
+- **[New to shortwave radio. Any basic tips for listening to ham conversati...](https://www.reddit.com/r/amateurradio/comments/1tgvgb1/new_to_shortwave_radio_any_basic_tips_for/)** (r/amateurradio)
 
 ---
 

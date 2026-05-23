@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-22 13:32 UTC*
+*Last updated: 2026-05-23 12:01 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Temporary 2M antenna for vehicle with aluminum body](https://www.reddit.com/r/amateurradio/comments/1tgxcag/temporary_2m_antenna_for_vehicle_with_aluminum/)**
-by u/Sharonsboytoy
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tglxei/weekly_information_mentor_new_license_thread/)**
+by u/AutoModerator
 
-**2. [I've updated my DMR Contacts Generator to support more radios](https://www.reddit.com/r/amateurradio/comments/1th44ex/ive_updated_my_dmr_contacts_generator_to_support/)**
-by u/HypostaticOnion
+**2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
+by u/ItsBail
 
-**3. [Finding WinLink RMS stations](https://www.reddit.com/r/amateurradio/comments/1th3py0/finding_winlink_rms_stations/)**
-by u/Legnovore
+**3. [Using polywatch to remove scratches from plastic displays on radios](https://www.reddit.com/r/amateurradio/comments/1tl2zce/using_polywatch_to_remove_scratches_from_plastic/)**
+by u/electragician
 
-**4. [Another great Hamvention find. $25 and the guy said it didn't work. Tektronix 21...](https://www.reddit.com/r/amateurradio/comments/1tg2jko/another_great_hamvention_find_25_and_the_guy_said/)**
-by u/inquirewue
+**4. [From RF System Diagram to Reality — Shack Phase 1](https://www.reddit.com/r/amateurradio/comments/1tkten9/from_rf_system_diagram_to_reality_shack_phase_1/)**
+by u/mmimo10
 
-**5. [17ft whip storage options for backpack](https://www.reddit.com/r/amateurradio/comments/1tgr1v5/17ft_whip_storage_options_for_backpack/)**
-by u/MrTomLegit
+**5. [Heathkit many, best way to move to a good home - Not about $](https://www.reddit.com/r/amateurradio/comments/1tldyo1/heathkit_many_best_way_to_move_to_a_good_home_not/)**
+by u/Top_Conversation_793
 
-**6. [Reusing dish JMount for antenna?](https://www.reddit.com/r/amateurradio/comments/1tgu7a5/reusing_dish_jmount_for_antenna/)**
-by u/cant_kill_us_all
+**6. [Mobile HF install question](https://www.reddit.com/r/amateurradio/comments/1tl890i/mobile_hf_install_question/)**
+by u/cheezelyoda
 
-**7. [Anyone know the name of this connector for the PRC77?](https://www.reddit.com/r/amateurradio/comments/1tgjz16/anyone_know_the_name_of_this_connector_for_the/)**
-by u/Lanky_Garbage_5353
+**7. [QSL de 9U1RU Russian expedition team Burundi](https://www.reddit.com/r/amateurradio/comments/1tl35rp/qsl_de_9u1ru_russian_expedition_team_burundi/)**
+by u/OliverDawgy
 
-**8. [The skip is on fire today](https://www.reddit.com/r/amateurradio/comments/1tg4x6s/the_skip_is_on_fire_today/)**
-by u/Active_Emu_845
+**8. [Meteo balloon as a gift for 41 bday :)](https://www.reddit.com/r/amateurradio/comments/1tkwhnj/meteo_balloon_as_a_gift_for_41_bday/)**
+by u/SuspiciousSardaukar
 
-**9. [6m open, US](https://www.reddit.com/r/amateurradio/comments/1tfruat/6m_open_us/)**
-by u/SwitchedOnNow
+**9. [40M FT8 heatmap from my antenna (all decodes I ever did)](https://www.reddit.com/r/amateurradio/comments/1tkvp2f/40m_ft8_heatmap_from_my_antenna_all_decodes_i/)**
+by u/HorrorFrank
 
-**10. [Any thoughts on the TYT-9800 Plus?](https://www.reddit.com/r/amateurradio/comments/1tgs3us/any_thoughts_on_the_tyt9800_plus/)**
-by u/Zestyclose-Pie-163
+**10. [Bipolar electrolytic capacitor replacement for vintage antenna rotor.](https://www.reddit.com/r/amateurradio/comments/1tlctag/bipolar_electrolytic_capacitor_replacement_for/)**
+by u/RodneyJason4
 
-**11. [Problemas com TX no Baofeng Uv5R com antena Moxon + satélite](https://www.reddit.com/r/amateurradio/comments/1tgkymj/problemas_com_tx_no_baofeng_uv5r_com_antena_moxon/)**
-by u/One-Bag-3980
+**11. [Parliamentary Petition to save Weather Radio (Canada)](https://www.reddit.com/r/amateurradio/comments/1tkxhxm/parliamentary_petition_to_save_weather_radio/)**
+by u/trubil
 
-**12. [What constitutes a sufficient ground?](https://www.reddit.com/r/amateurradio/comments/1tfy5ns/what_constitutes_a_sufficient_ground/)**
-by u/NERDS_
+**12. [RG8 Coax](https://www.reddit.com/r/amateurradio/comments/1tl4eex/rg8_coax/)**
+by u/AF0FR
 
-**13. [need help identifying these radios](https://www.reddit.com/r/amateurradio/comments/1tgwpdj/need_help_identifying_these_radios/)**
-by u/Swimming_Turnover242
+**13. [**Energy Cycle and Communication Loop: Digital Transmission of a Message through...](https://www.reddit.com/r/amateurradio/comments/1tld4q0/energy_cycle_and_communication_loop_digital/)**
+by u/Nervous_Bird4126
 
-**14. [Any HAM radio operators in Saudi Arabia? Please get in contact with me.](https://www.reddit.com/r/amateurradio/comments/1tgh8vx/any_ham_radio_operators_in_saudi_arabia_please/)**
-by u/Adwan4747
+**14. [Comet hfj-350m counterpoise](https://www.reddit.com/r/amateurradio/comments/1tlc1p0/comet_hfj350m_counterpoise/)**
+by u/Skovkatt-
 
-**15. [I passed my general class exam at hamvention 2026 this is "KE9EAZ/AG"](https://www.reddit.com/r/amateurradio/comments/1tf88hr/i_passed_my_general_class_exam_at_hamvention_2026/)**
-by u/TechRat2
+**15. [Amateur Radio Military Appreciation Day](https://www.reddit.com/r/amateurradio/comments/1tlc1d5/amateur_radio_military_appreciation_day/)**
+by u/alloydog
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Rig acting up depending on if audio cable is plugged in or not](https://www.reddit.com/r/HamRadio/comments/1tkbam5/rig_acting_up_depending_on_if_audio_cable_is/)**
+**3. [QSL de 9U1RU Russian expedition team Burundi](https://www.reddit.com/r/HamRadio/comments/1tl36hs/qsl_de_9u1ru_russian_expedition_team_burundi/)**
+by u/OliverDawgy
+
+**4. [What hamradio equipment is this? Found with other vintage hamradio equipment.](https://www.reddit.com/r/HamRadio/comments/1tl5bmh/what_hamradio_equipment_is_this_found_with_other/)**
+by u/Decent-Classroom-723
+
+**5. [HT Recommendations for new Ham?](https://www.reddit.com/r/HamRadio/comments/1tksyzg/ht_recommendations_for_new_ham/)**
+by u/Embarrassed_Motor_30
+
+**6. [Nvis antenna mast/center support](https://www.reddit.com/r/HamRadio/comments/1tl4ibr/nvis_antenna_mastcenter_support/)**
+by u/Sweendog2016
+
+**7. [Rig acting up depending on if audio cable is plugged in or not](https://www.reddit.com/r/HamRadio/comments/1tkbam5/rig_acting_up_depending_on_if_audio_cable_is/)**
 by u/1cubealot
 
-**4. [I converted ammo can into a toolbox for my radio and SDR equipment.](https://www.reddit.com/r/HamRadio/comments/1tjxo0i/i_converted_ammo_can_into_a_toolbox_for_my_radio/)**
-by u/kahvekokanfizikci
-
-**5. [I aced my test over the weekend and got my license and callsign today. I'm excit...](https://www.reddit.com/r/HamRadio/comments/1tjb9tt/i_aced_my_test_over_the_weekend_and_got_my/)**
-by u/Substantial-Cow1713
-
-**6. [Antenna SWR is good, but not good with feed line](https://www.reddit.com/r/HamRadio/comments/1tjv3oe/antenna_swr_is_good_but_not_good_with_feed_line/)**
+**8. [Calculator for top loaded vertical](https://www.reddit.com/r/HamRadio/comments/1tky6y3/calculator_for_top_loaded_vertical/)**
 by u/Throw20701
 
-**7. [Molex t connector identification](https://www.reddit.com/r/HamRadio/comments/1tjl6n8/molex_t_connector_identification/)**
+**9. [Tips for baluns on 2m full wave loop antenna](https://www.reddit.com/r/HamRadio/comments/1tkkjy6/tips_for_baluns_on_2m_full_wave_loop_antenna/)**
+by u/Throw20701
+
+**10. [I converted ammo can into a toolbox for my radio and SDR equipment.](https://www.reddit.com/r/HamRadio/comments/1tjxo0i/i_converted_ammo_can_into_a_toolbox_for_my_radio/)**
+by u/kahvekokanfizikci
+
+**11. [Antenna SWR is good, but not good with feed line](https://www.reddit.com/r/HamRadio/comments/1tjv3oe/antenna_swr_is_good_but_not_good_with_feed_line/)**
+by u/Throw20701
+
+**12. [Molex t connector identification](https://www.reddit.com/r/HamRadio/comments/1tjl6n8/molex_t_connector_identification/)**
 by u/Technical_Phrase2566
 
-**8. [Using a Yaesu FT-70DR keeps going FM when I want to go digital](https://www.reddit.com/r/HamRadio/comments/1tk1q84/using_a_yaesu_ft70dr_keeps_going_fm_when_i_want/)**
+**13. [Using a Yaesu FT-70DR keeps going FM when I want to go digital](https://www.reddit.com/r/HamRadio/comments/1tk1q84/using_a_yaesu_ft70dr_keeps_going_fm_when_i_want/)**
 by u/KB5JRC
 
-**9. [Home antenna question and comparison](https://www.reddit.com/r/HamRadio/comments/1tjspny/home_antenna_question_and_comparison/)**
+**14. [Home antenna question and comparison](https://www.reddit.com/r/HamRadio/comments/1tjspny/home_antenna_question_and_comparison/)**
 by u/Top_Performer1634
 
-**10. [How would you build and mount a Rebar Antenna?](https://www.reddit.com/r/HamRadio/comments/1tjud3z/how_would_you_build_and_mount_a_rebar_antenna/)**
+**15. [How would you build and mount a Rebar Antenna?](https://www.reddit.com/r/HamRadio/comments/1tjud3z/how_would_you_build_and_mount_a_rebar_antenna/)**
 by u/Redracerb18
-
-**11. [40M in East Europe/West Asia absolutely dominated by Russian stations in the eve...](https://www.reddit.com/r/HamRadio/comments/1tjfzhp/40m_in_east_europewest_asia_absolutely_dominated/)**
-by u/lassmanac
-
-**12. [Can we please make this constant stream of vibe-coded software just stop?](https://www.reddit.com/r/HamRadio/comments/1titz56/can_we_please_make_this_constant_stream_of/)**
-by u/CW3_OR_BUST
-
-**13. [11,000 Kilometers on a Wire I Built from Fence Insulators](https://www.reddit.com/r/HamRadio/comments/1tjqcli/11000_kilometers_on_a_wire_i_built_from_fence/)**
-by u/Overall-Junket5092
-
-**14. [Can I upgrade my license later from restricted to general grade](https://www.reddit.com/r/HamRadio/comments/1tjl7er/can_i_upgrade_my_license_later_from_restricted_to/)**
-by u/Complex-Purple4653
-
-**15. [How narrow can I make an inverted V dipole for 20m? First antenna build, open to...](https://www.reddit.com/r/HamRadio/comments/1tj2lgq/how_narrow_can_i_make_an_inverted_v_dipole_for/)**
-by u/Puzzleheaded-Bad8685
 
 ---
 
@@ -108,16 +108,16 @@ by u/Puzzleheaded-Bad8685
 
 *Latest posts across both subreddits:*
 
-- **[Temporary 2M antenna for vehicle with aluminum body](https://www.reddit.com/r/amateurradio/comments/1tgxcag/temporary_2m_antenna_for_vehicle_with_aluminum/)** (r/amateurradio)
-- **[I've updated my DMR Contacts Generator to support more radios](https://www.reddit.com/r/amateurradio/comments/1th44ex/ive_updated_my_dmr_contacts_generator_to_support/)** (r/amateurradio)
-- **[Finding WinLink RMS stations](https://www.reddit.com/r/amateurradio/comments/1th3py0/finding_winlink_rms_stations/)** (r/amateurradio)
-- **[Another great Hamvention find. $25 and the guy said it didn't work. Te...](https://www.reddit.com/r/amateurradio/comments/1tg2jko/another_great_hamvention_find_25_and_the_guy_said/)** (r/amateurradio)
-- **[17ft whip storage options for backpack](https://www.reddit.com/r/amateurradio/comments/1tgr1v5/17ft_whip_storage_options_for_backpack/)** (r/amateurradio)
-- **[Reusing dish JMount for antenna?](https://www.reddit.com/r/amateurradio/comments/1tgu7a5/reusing_dish_jmount_for_antenna/)** (r/amateurradio)
-- **[Anyone know the name of this connector for the PRC77?](https://www.reddit.com/r/amateurradio/comments/1tgjz16/anyone_know_the_name_of_this_connector_for_the/)** (r/amateurradio)
-- **[The skip is on fire today](https://www.reddit.com/r/amateurradio/comments/1tg4x6s/the_skip_is_on_fire_today/)** (r/amateurradio)
-- **[6m open, US](https://www.reddit.com/r/amateurradio/comments/1tfruat/6m_open_us/)** (r/amateurradio)
-- **[Any thoughts on the TYT-9800 Plus?](https://www.reddit.com/r/amateurradio/comments/1tgs3us/any_thoughts_on_the_tyt9800_plus/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tglxei/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[Using polywatch to remove scratches from plastic displays on radios](https://www.reddit.com/r/amateurradio/comments/1tl2zce/using_polywatch_to_remove_scratches_from_plastic/)** (r/amateurradio)
+- **[From RF System Diagram to Reality — Shack Phase 1](https://www.reddit.com/r/amateurradio/comments/1tkten9/from_rf_system_diagram_to_reality_shack_phase_1/)** (r/amateurradio)
+- **[Heathkit many, best way to move to a good home - Not about $](https://www.reddit.com/r/amateurradio/comments/1tldyo1/heathkit_many_best_way_to_move_to_a_good_home_not/)** (r/amateurradio)
+- **[Mobile HF install question](https://www.reddit.com/r/amateurradio/comments/1tl890i/mobile_hf_install_question/)** (r/amateurradio)
+- **[QSL de 9U1RU Russian expedition team Burundi](https://www.reddit.com/r/amateurradio/comments/1tl35rp/qsl_de_9u1ru_russian_expedition_team_burundi/)** (r/amateurradio)
+- **[Meteo balloon as a gift for 41 bday :)](https://www.reddit.com/r/amateurradio/comments/1tkwhnj/meteo_balloon_as_a_gift_for_41_bday/)** (r/amateurradio)
+- **[40M FT8 heatmap from my antenna (all decodes I ever did)](https://www.reddit.com/r/amateurradio/comments/1tkvp2f/40m_ft8_heatmap_from_my_antenna_all_decodes_i/)** (r/amateurradio)
+- **[Bipolar electrolytic capacitor replacement for vintage antenna rotor.](https://www.reddit.com/r/amateurradio/comments/1tlctag/bipolar_electrolytic_capacitor_replacement_for/)** (r/amateurradio)
 
 ---
 

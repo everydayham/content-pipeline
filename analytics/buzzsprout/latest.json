@@ -1,6 +1,29 @@
 {
-  "updated": "2026-05-18T14:56:39.198599",
+  "updated": "2026-05-25T14:38:19.652088",
   "episodes": [
+    {
+      "id": 19219333,
+      "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/19219333-hamvention-2026-recap-reactions-and-a-brewing-showdown.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/kau1g04wi8rmv5siu1gcrdooozus",
+      "description": "<p>A concept radio with \"almost nothing\" on display managed to dominate Hamvention 2026, and we can't stop talking about what that means for the future of ham radio. We're fresh back from Dayton, a little punchy, and ready to unpack the best conversations we had with vendors, makers, and listeners who recognized our voices across the noise of the fairgrounds. If you care about where mobile rigs, repeaters, and digital features are headed next, this recap is loaded with real impressions and honest skepticism.</p><p>We dig into the biggest manufacturer moments first: Yaesu's DR-3 repeater direction and the next steps for System Fusion, Kenwood's long-awaited TM-D750A progress and why \"ship it later\" can be the right call when firmware isn't ready, and Icom's X-026 concept strategy that had people cheering, arguing, and even storming away. We debate whether asking the community for feedback is a bold move or a frustrating tease, and why market size, R&amp;D timelines, and expectations at Hamvention don't always align.</p><p>Then we get practical with gear that feels closer to daily use, especially the Icom ID-5200. We talk interface upgrades, smart mobile touches like auto-dimming, and the big headline that grabbed our attention: native APRS encode and decode via firmware update. We also zoom out to the rest of the show, from Four Days in May and small vendor innovation to CW key makers, swap meet pricing, and what the flea market \"junk scale\" looked like this year.</p><p>If you like this kind of grounded ham radio coverage, subscribe, share the show with a friend headed to their next hamfest, and leave us a review on Apple Podcasts or Spotify. Then come hang out with us in Discord and drop your take: is the X-026 hype brilliant or annoying?</p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "Ham Radio, Amateur Radio, Hamvention 2026, Dayton Hamvention, Everyday Ham, Icom X-026, Icom ID-5200, Kenwood TM-D750A, Yaesu DR-3, Four Days in May, FDIM, Spooltenna, Begali, Flex Radio Aurora, POTA, CW",
+      "published_at": "2026-05-22T09:00:00.000-04:00",
+      "duration": 3097,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-19219333",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": null,
+      "season_number": null,
+      "episode_type": "full",
+      "explicit": false,
+      "private": false,
+      "total_plays": 470
+    },
     {
       "id": 19138519,
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 630
+      "total_plays": 717
     },
     {
       "id": 18980854,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 814
+      "total_plays": 837
     },
     {
       "id": 18903785,
@@ -68,7 +91,7 @@
       "episode_type": "bonus",
       "explicit": false,
       "private": false,
-      "total_plays": 768
+      "total_plays": 779
     },
     {
       "id": 18794950,
@@ -91,7 +114,7 @@
       "episode_type": "full",
       "explicit": true,
       "private": false,
-      "total_plays": 930
+      "total_plays": 938
     },
     {
       "id": 18629581,
@@ -114,7 +137,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1068
+      "total_plays": 1080
     },
     {
       "id": 18470399,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1103
+      "total_plays": 1115
     },
     {
       "id": 18296133,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1046
+      "total_plays": 1055
     },
     {
       "id": 18131359,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 835
+      "total_plays": 840
     },
     {
       "id": 17980624,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 872
+      "total_plays": 878
     },
     {
       "id": 17915090,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 684
+      "total_plays": 689
     },
     {
       "id": 17760784,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 874
+      "total_plays": 879
     },
     {
       "id": 17726132,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 647
+      "total_plays": 649
     },
     {
       "id": 17625014,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 674
+      "total_plays": 677
     },
     {
       "id": 17571459,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 607
+      "total_plays": 611
     },
     {
       "id": 17441669,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 743
+      "total_plays": 746
     },
     {
       "id": 17282578,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 605
+      "total_plays": 609
     },
     {
       "id": 17198150,
@@ -390,7 +413,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 528
+      "total_plays": 531
     },
     {
       "id": 17122535,
@@ -413,7 +436,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 494
+      "total_plays": 498
     },
     {
       "id": 16912708,
@@ -436,7 +459,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 592
+      "total_plays": 596
     },
     {
       "id": 16745714,
@@ -459,7 +482,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 497
+      "total_plays": 502
     },
     {
       "id": 16574585,
@@ -482,7 +505,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 500
+      "total_plays": 503
     },
     {
       "id": 16408083,
@@ -505,7 +528,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 501
+      "total_plays": 505
     }
   ]
 }

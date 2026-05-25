@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-24 12:01 UTC*
+*Last updated: 2026-05-25 14:10 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tglxei/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tn8hgl/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Why won’t my cb radio antenna work?](https://www.reddit.com/r/amateurradio/comments/1tlvpt2/why_wont_my_cb_radio_antenna_work/)**
-by u/sumevex
+**3. [Homebrewed Emergency Portable Ham Station](https://www.reddit.com/r/amateurradio/comments/1tn2vpl/homebrewed_emergency_portable_ham_station/)**
+by u/Educational-Law-6175
 
-**4. [Simple low-pass harmonics filter for 2m band](https://www.reddit.com/r/amateurradio/comments/1tlpw1o/simple_lowpass_harmonics_filter_for_2m_band/)**
-by u/RenegatEins
+**4. [My homebrewed Modular Bitx40 SSB TRX](https://www.reddit.com/r/amateurradio/comments/1tn3oqz/my_homebrewed_modular_bitx40_ssb_trx/)**
+by u/Educational-Law-6175
 
-**5. [Flexible, magnetic, non-slip morse base](https://www.reddit.com/r/amateurradio/comments/1tlwn80/flexible_magnetic_nonslip_morse_base/)**
-by u/newsINcinci
+**5. [My first balun (don't look at picture #2 if you have OCD)](https://www.reddit.com/r/amateurradio/comments/1tmwgz3/my_first_balun_dont_look_at_picture_2_if_you_have/)**
+by u/kc3zyt
 
-**6. [When you fly into PDX, forget driving down to HRO, how can a ham go wrong stoppi...](https://www.reddit.com/r/amateurradio/comments/1tlrbfn/when_you_fly_into_pdx_forget_driving_down_to_hro/)**
-by u/Old-Engineer854
+**6. [Hobby, tool or both](https://www.reddit.com/r/amateurradio/comments/1tmtec2/hobby_tool_or_both/)**
+by u/Ncwreck
 
-**7. [Using a quick connect camera mount for my HT](https://www.reddit.com/r/amateurradio/comments/1tm28j6/using_a_quick_connect_camera_mount_for_my_ht/)**
-by u/get-off-my-frequency
+**7. [Field day battery](https://www.reddit.com/r/amateurradio/comments/1tmwx7c/field_day_battery/)**
+by u/feed_me_tecate
 
-**8. [LinHT transmitting M17 at 3.5 watt](https://www.reddit.com/r/amateurradio/comments/1tlhavx/linht_transmitting_m17_at_35_watt/)**
-by u/SP5WWP
+**8. [6M Opens Up Crazy On May 22](https://www.reddit.com/r/amateurradio/comments/1tmxqw4/6m_opens_up_crazy_on_may_22/)**
+by u/Much-Specific3727
 
-**9. [Getting "No matching device was found" error when asking QDMR to detect my Retev...](https://www.reddit.com/r/amateurradio/comments/1tm35ot/getting_no_matching_device_was_found_error_when/)**
-by u/K3LOE
+**9. [spam to ham](https://www.reddit.com/r/amateurradio/comments/1tmkpfq/spam_to_ham/)**
+by u/InfiniteProgamers
 
-**10. [Amateur HF while on the boat](https://www.reddit.com/r/amateurradio/comments/1tlk6w2/amateur_hf_while_on_the_boat/)**
-by u/ThyDankest2
+**10. [And I thought lmr-400 was expensive.](https://www.reddit.com/r/amateurradio/comments/1tml5mn/and_i_thought_lmr400_was_expensive/)**
+by u/thehotshotpilot
 
-**11. [Announcing wfview version 2.22](https://www.reddit.com/r/amateurradio/comments/1tlrhod/announcing_wfview_version_222/)**
-by u/w6el
+**11. [HA2 turn on radio sound.](https://www.reddit.com/r/amateurradio/comments/1tn9zba/ha2_turn_on_radio_sound/)**
+by u/XxsirRexhunterxX
 
-**12. [Using polywatch to remove scratches from plastic displays on radios](https://www.reddit.com/r/amateurradio/comments/1tl2zce/using_polywatch_to_remove_scratches_from_plastic/)**
-by u/electragician
+**12. [Dipole above roof maintenance and placement](https://www.reddit.com/r/amateurradio/comments/1tmy5w6/dipole_above_roof_maintenance_and_placement/)**
+by u/paradoxsystems
 
-**13. [Looking to get help with QSO from Africa and Europe.](https://www.reddit.com/r/amateurradio/comments/1tm19ap/looking_to_get_help_with_qso_from_africa_and/)**
-by u/izzetguildmaster
+**13. [Struggles with Greyline](https://www.reddit.com/r/amateurradio/comments/1tmr1wc/struggles_with_greyline/)**
+by u/Impressive_Ant_5949
 
-**14. [FT5dr gps help](https://www.reddit.com/r/amateurradio/comments/1tlxxef/ft5dr_gps_help/)**
-by u/xdm21
+**14. [POTA Question](https://www.reddit.com/r/amateurradio/comments/1tmuuxu/pota_question/)**
+by u/CaptSpaulding73
 
-**15. [What is the strangest thing you have heard?h](https://www.reddit.com/r/amateurradio/comments/1tlvroh/what_is_the_strangest_thing_you_have_heardh/)**
-by u/Klutzy-Bass8366
+**15. [What's this beacon on 70cm national calling freq?](https://www.reddit.com/r/amateurradio/comments/1tmksha/whats_this_beacon_on_70cm_national_calling_freq/)**
+by u/Anonymous_Chipmunk
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [I guess no radio use at this stoplight 😬](https://www.reddit.com/r/HamRadio/comments/1tlzjez/i_guess_no_radio_use_at_this_stoplight/)**
+**3. [Getting overwhelmed with HF safety and haven't even hung my antenna](https://www.reddit.com/r/HamRadio/comments/1tn8ux9/getting_overwhelmed_with_hf_safety_and_havent/)**
+by u/FeralPlagueTroll
+
+**4. [New sealed screwdriver style antenna!](https://www.reddit.com/r/HamRadio/comments/1tmmuha/new_sealed_screwdriver_style_antenna/)**
+by u/McNeillTrevor
+
+**5. [Why does equipment cost so much?](https://www.reddit.com/r/HamRadio/comments/1tms20g/why_does_equipment_cost_so_much/)**
+by u/Spartan_Jackfruit
+
+**6. [240-51 mix torrid for a 49:1 homebrew EFHW antenna](https://www.reddit.com/r/HamRadio/comments/1tmqcqd/24051_mix_torrid_for_a_491_homebrew_efhw_antenna/)**
+by u/SouthMouth4
+
+**7. [And I thought lmr-400 was expensive.](https://www.reddit.com/r/HamRadio/comments/1tml558/and_i_thought_lmr400_was_expensive/)**
+by u/thehotshotpilot
+
+**8. [By essential, I mean overbuilt antennas rated at 10 jiggawatts that I'll only us...](https://www.reddit.com/r/HamRadio/comments/1tmk4j9/by_essential_i_mean_overbuilt_antennas_rated_at/)**
+by u/thehotshotpilot
+
+**9. [I guess no radio use at this stoplight 😬](https://www.reddit.com/r/HamRadio/comments/1tlzjez/i_guess_no_radio_use_at_this_stoplight/)**
 by u/artygo
 
-**4. [Is this a Ham radio arial? My brother got a new house and we are getting into ha...](https://www.reddit.com/r/HamRadio/comments/1tlx2i1/is_this_a_ham_radio_arial_my_brother_got_a_new/)**
+**10. [Having trouble programming DM1701, any tips?](https://www.reddit.com/r/HamRadio/comments/1tmtkyq/having_trouble_programming_dm1701_any_tips/)**
+by u/Printcrafted_3D
+
+**11. [Pota Power Couple Enjoys a New Antenna](https://www.reddit.com/r/HamRadio/comments/1tmc40l/pota_power_couple_enjoys_a_new_antenna/)**
+by u/ga-science
+
+**12. [Handheld Recommendation for Charity / Museum Use](https://www.reddit.com/r/HamRadio/comments/1tmqlgg/handheld_recommendation_for_charity_museum_use/)**
+by u/Medic118
+
+**13. [Beginner here, trying to figure out STEP](https://www.reddit.com/r/HamRadio/comments/1tmdvzp/beginner_here_trying_to_figure_out_step/)**
+by u/49indom
+
+**14. [Is this a Ham radio arial? My brother got a new house and we are getting into ha...](https://www.reddit.com/r/HamRadio/comments/1tlx2i1/is_this_a_ham_radio_arial_my_brother_got_a_new/)**
 by u/Savage20Alpha
 
-**5. [The infamous Baofeng UV-5R dillema](https://www.reddit.com/r/HamRadio/comments/1tljcxl/the_infamous_baofeng_uv5r_dillema/)**
-by u/NoPattern1259
-
-**6. [Antenna issues with a 20m square dipole](https://www.reddit.com/r/HamRadio/comments/1tlqxjb/antenna_issues_with_a_20m_square_dipole/)**
-by u/Throw20701
-
-**7. [Help identifying this portable rig.](https://www.reddit.com/r/HamRadio/comments/1tlxbsj/help_identifying_this_portable_rig/)**
-by u/saulwongawitz
-
-**8. [What hamradio equipment is this? Found with other vintage hamradio equipment.](https://www.reddit.com/r/HamRadio/comments/1tl5bmh/what_hamradio_equipment_is_this_found_with_other/)**
-by u/Decent-Classroom-723
-
-**9. [mAt-10 ATU with Yaesu FTDX-101d](https://www.reddit.com/r/HamRadio/comments/1tlnx50/mat10_atu_with_yaesu_ftdx101d/)**
-by u/This_Call_9920
-
-**10. [wavelog tuto installation pse .](https://www.reddit.com/r/HamRadio/comments/1tlopro/wavelog_tuto_installation_pse/)**
-by u/f4hxjseb
-
-**11. [QSL de 9U1RU Russian expedition team Burundi](https://www.reddit.com/r/HamRadio/comments/1tl36hs/qsl_de_9u1ru_russian_expedition_team_burundi/)**
-by u/OliverDawgy
-
-**12. [HT Recommendations for new Ham?](https://www.reddit.com/r/HamRadio/comments/1tksyzg/ht_recommendations_for_new_ham/)**
-by u/Embarrassed_Motor_30
-
-**13. [UNIDEN UBC75XLT cables and charging](https://www.reddit.com/r/HamRadio/comments/1tllfnu/uniden_ubc75xlt_cables_and_charging/)**
-by u/Gllfx
-
-**14. [Nvis antenna mast/center support](https://www.reddit.com/r/HamRadio/comments/1tl4ibr/nvis_antenna_mastcenter_support/)**
-by u/Sweendog2016
-
-**15. [Rig acting up depending on if audio cable is plugged in or not](https://www.reddit.com/r/HamRadio/comments/1tkbam5/rig_acting_up_depending_on_if_audio_cable_is/)**
-by u/1cubealot
+**15. [Using a auxiliary relay to power mobile uhf/vhf radio](https://www.reddit.com/r/HamRadio/comments/1tmgdok/using_a_auxiliary_relay_to_power_mobile_uhfvhf/)**
+by u/Key_Lengthiness4624
 
 ---
 
@@ -108,16 +108,16 @@ by u/1cubealot
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tglxei/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tn8hgl/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Why won’t my cb radio antenna work?](https://www.reddit.com/r/amateurradio/comments/1tlvpt2/why_wont_my_cb_radio_antenna_work/)** (r/amateurradio)
-- **[Simple low-pass harmonics filter for 2m band](https://www.reddit.com/r/amateurradio/comments/1tlpw1o/simple_lowpass_harmonics_filter_for_2m_band/)** (r/amateurradio)
-- **[Flexible, magnetic, non-slip morse base](https://www.reddit.com/r/amateurradio/comments/1tlwn80/flexible_magnetic_nonslip_morse_base/)** (r/amateurradio)
-- **[When you fly into PDX, forget driving down to HRO, how can a ham go wr...](https://www.reddit.com/r/amateurradio/comments/1tlrbfn/when_you_fly_into_pdx_forget_driving_down_to_hro/)** (r/amateurradio)
-- **[Using a quick connect camera mount for my HT](https://www.reddit.com/r/amateurradio/comments/1tm28j6/using_a_quick_connect_camera_mount_for_my_ht/)** (r/amateurradio)
-- **[LinHT transmitting M17 at 3.5 watt](https://www.reddit.com/r/amateurradio/comments/1tlhavx/linht_transmitting_m17_at_35_watt/)** (r/amateurradio)
-- **[Getting "No matching device was found" error when asking QDMR to detec...](https://www.reddit.com/r/amateurradio/comments/1tm35ot/getting_no_matching_device_was_found_error_when/)** (r/amateurradio)
-- **[Amateur HF while on the boat](https://www.reddit.com/r/amateurradio/comments/1tlk6w2/amateur_hf_while_on_the_boat/)** (r/amateurradio)
+- **[Homebrewed Emergency Portable Ham Station](https://www.reddit.com/r/amateurradio/comments/1tn2vpl/homebrewed_emergency_portable_ham_station/)** (r/amateurradio)
+- **[My homebrewed Modular Bitx40 SSB TRX](https://www.reddit.com/r/amateurradio/comments/1tn3oqz/my_homebrewed_modular_bitx40_ssb_trx/)** (r/amateurradio)
+- **[My first balun (don't look at picture #2 if you have OCD)](https://www.reddit.com/r/amateurradio/comments/1tmwgz3/my_first_balun_dont_look_at_picture_2_if_you_have/)** (r/amateurradio)
+- **[Hobby, tool or both](https://www.reddit.com/r/amateurradio/comments/1tmtec2/hobby_tool_or_both/)** (r/amateurradio)
+- **[Field day battery](https://www.reddit.com/r/amateurradio/comments/1tmwx7c/field_day_battery/)** (r/amateurradio)
+- **[6M Opens Up Crazy On May 22](https://www.reddit.com/r/amateurradio/comments/1tmxqw4/6m_opens_up_crazy_on_may_22/)** (r/amateurradio)
+- **[spam to ham](https://www.reddit.com/r/amateurradio/comments/1tmkpfq/spam_to_ham/)** (r/amateurradio)
+- **[And I thought lmr-400 was expensive.](https://www.reddit.com/r/amateurradio/comments/1tml5mn/and_i_thought_lmr400_was_expensive/)** (r/amateurradio)
 
 ---
 

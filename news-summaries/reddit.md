@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-05-26 13:54 UTC*
+*Last updated: 2026-05-27 14:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Neighbor called the cops on me](https://www.reddit.com/r/amateurradio/comments/1to2mmo/neighbor_called_the_cops_on_me/)**
+**3. [Stephen Colbert announces the Monroe, Michigan Hamfest, June 21](https://www.reddit.com/r/amateurradio/comments/1todsfu/stephen_colbert_announces_the_monroe_michigan/)**
+by u/kc2syk
+
+**4. [New radio day... 2m SSB here we come!](https://www.reddit.com/r/amateurradio/comments/1toeen9/new_radio_day_2m_ssb_here_we_come/)**
+by u/KhyberPasshole
+
+**5. [Neighbor called the cops on me](https://www.reddit.com/r/amateurradio/comments/1to2mmo/neighbor_called_the_cops_on_me/)**
 by u/Ej6rDsmBg4AdRl6eSQ
 
-**4. [Simple and Accurate HF VHF UHF SWR Meter DIY](https://www.reddit.com/r/amateurradio/comments/1to5kph/simple_and_accurate_hf_vhf_uhf_swr_meter_diy/)**
+**6. [Ever wondered what the actual feedpoint impedance of a doublet is?](https://www.reddit.com/r/amateurradio/comments/1tp325s/ever_wondered_what_the_actual_feedpoint_impedance/)**
+by u/thesoulless78
+
+**7. [I wound a dozen crystal radio coils so you don't have to](https://www.reddit.com/r/amateurradio/comments/1toalfu/i_wound_a_dozen_crystal_radio_coils_so_you_dont/)**
+by u/elpechos
+
+**8. [Alinco Codeplugs help!!](https://www.reddit.com/r/amateurradio/comments/1tp722i/alinco_codeplugs_help/)**
+by u/TheL0neHiker
+
+**9. [Unknown USB Device - Device Descriptor Request Failed](https://www.reddit.com/r/amateurradio/comments/1tp6z9m/unknown_usb_device_device_descriptor_request/)**
+by u/S0bIcEk
+
+**10. [New Chirp version issue](https://www.reddit.com/r/amateurradio/comments/1tp6mpl/new_chirp_version_issue/)**
+by u/TheL0neHiker
+
+**11. [Hello! I wanted to build a radio AM reciever from old CRT tv i got laying around](https://www.reddit.com/r/amateurradio/comments/1tp5992/hello_i_wanted_to_build_a_radio_am_reciever_from/)**
+by u/mans_zholaman
+
+**12. [Simple and Accurate HF VHF UHF SWR Meter DIY](https://www.reddit.com/r/amateurradio/comments/1to5kph/simple_and_accurate_hf_vhf_uhf_swr_meter_diy/)**
 by u/Educational-Law-6175
 
-**5. [Latest Home Office/Ham Shack Network Upgrade](https://www.reddit.com/r/amateurradio/comments/1tndv1v/latest_home_officeham_shack_network_upgrade/)**
-by u/Neither_Fennel8781
+**13. [Ideas for straightening out SignalStick antenn?](https://www.reddit.com/r/amateurradio/comments/1tof8wp/ideas_for_straightening_out_signalstick_antenn/)**
+by u/Phoenix-64
 
-**6. [This is my EFHW. There are many like it, but this one is mine.](https://www.reddit.com/r/amateurradio/comments/1tnvf1h/this_is_my_efhw_there_are_many_like_it_but_this/)**
-by u/BeCoolHoney-Bunny
+**14. [Ok, this is a real question](https://www.reddit.com/r/amateurradio/comments/1tofvte/ok_this_is_a_real_question/)**
+by u/Ncwreck
 
-**7. [Anyone interested in a free antenna? Would like tower removed as well. Located i...](https://www.reddit.com/r/amateurradio/comments/1tnlm9a/anyone_interested_in_a_free_antenna_would_like/)**
-by u/Aromatic-Pay-4982
-
-**8. [Today's adventure with a sad ham](https://www.reddit.com/r/amateurradio/comments/1tnjslp/todays_adventure_with_a_sad_ham/)**
-by u/CaptainSpez
-
-**9. [Boat anchor radios of the future](https://www.reddit.com/r/amateurradio/comments/1to5m8c/boat_anchor_radios_of_the_future/)**
-by u/eugenemah
-
-**10. [Thought my antenna fix would be appreciated in here](https://www.reddit.com/r/amateurradio/comments/1tnvzm1/thought_my_antenna_fix_would_be_appreciated_in/)**
-by u/hw999
-
-**11. [Homebrewed Emergency Portable Ham Station](https://www.reddit.com/r/amateurradio/comments/1tn2vpl/homebrewed_emergency_portable_ham_station/)**
-by u/Educational-Law-6175
-
-**12. [Wolf River Vertical](https://www.reddit.com/r/amateurradio/comments/1tnl9xw/wolf_river_vertical/)**
-by u/YetAnotherHobby
-
-**13. [Finally stopped caring about POTA "cheaters"](https://www.reddit.com/r/amateurradio/comments/1tnb9x4/finally_stopped_caring_about_pota_cheaters/)**
-by u/blue-moto
-
-**14. [ARCO Support for their Antenna Controllers.](https://www.reddit.com/r/amateurradio/comments/1to654s/arco_support_for_their_antenna_controllers/)**
-by u/CaptinKirk
-
-**15. [considering upgrading to the icom 7300 mk2](https://www.reddit.com/r/amateurradio/comments/1tnvp3r/considering_upgrading_to_the_icom_7300_mk2/)**
-by u/BallsOutKrunked
+**15. [microphone not working](https://www.reddit.com/r/amateurradio/comments/1toof0c/microphone_not_working/)**
+by u/BestCryptographer528
 
 ---
 
@@ -63,44 +63,44 @@ by u/SharkSapphire
 **2. [State of the Sub: Making r/HamRadio Cool Again (According to the Data)](https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/)**
 by u/SharkSapphire
 
-**3. [Building a portable SDR DX field laptop](https://www.reddit.com/r/HamRadio/comments/1tnvne2/building_a_portable_sdr_dx_field_laptop/)**
+**3. [Welcome to ham radio. The most rage inducing hobby ever had](https://www.reddit.com/r/HamRadio/comments/1totyq8/welcome_to_ham_radio_the_most_rage_inducing_hobby/)**
+by u/FlyCurious8305
+
+**4. [Love these old Icom radios. Got one for free, one for cheap.](https://www.reddit.com/r/HamRadio/comments/1toi55j/love_these_old_icom_radios_got_one_for_free_one/)**
+by u/Sonicgott
+
+**5. [Wide Bandwidth Yagi Uda Antenna](https://www.reddit.com/r/HamRadio/comments/1toxbj9/wide_bandwidth_yagi_uda_antenna/)**
+by u/electricitycat977
+
+**6. [A little better manners could be had](https://www.reddit.com/r/HamRadio/comments/1tofwg8/a_little_better_manners_could_be_had/)**
+by u/AliveHour1426
+
+**7. [Antenna cable feedthrough Aircell 5](https://www.reddit.com/r/HamRadio/comments/1tohobl/antenna_cable_feedthrough_aircell_5/)**
+by u/Logical_Carrot267
+
+**8. [Decent 80m-10m Unun build, with nanoVNA measurements](https://www.reddit.com/r/HamRadio/comments/1tokdqr/decent_80m10m_unun_build_with_nanovna_measurements/)**
+by u/in-your-own-words
+
+**9. [VHF/UHF antenna mounting - Mansard style roof](https://www.reddit.com/r/HamRadio/comments/1tojx7u/vhfuhf_antenna_mounting_mansard_style_roof/)**
+by u/I_Came_Back_Sadly
+
+**10. [41' Attic EFRW (end fed random wire) -- 9:1 Unun -- is it too long or short?](https://www.reddit.com/r/HamRadio/comments/1tomi2l/41_attic_efrw_end_fed_random_wire_91_unun_is_it/)**
+by u/LongGoner
+
+**11. [Is it possible to build a mobile vhf/uhf antenna?](https://www.reddit.com/r/HamRadio/comments/1too3bj/is_it_possible_to_build_a_mobile_vhfuhf_antenna/)**
+by u/Spartan_Jackfruit
+
+**12. [What do I have here? Someone gave me this equipment](https://www.reddit.com/r/HamRadio/comments/1tocyzv/what_do_i_have_here_someone_gave_me_this_equipment/)**
+by u/Appropriate_Taro_348
+
+**13. [Pontoon Boat Marine Mobile on PLX](https://www.reddit.com/r/HamRadio/comments/1tofjmb/pontoon_boat_marine_mobile_on_plx/)**
+by u/MarksArcArt
+
+**14. [Microphone not transmitting audio to radio when keying](https://www.reddit.com/r/HamRadio/comments/1top819/microphone_not_transmitting_audio_to_radio_when/)**
+by u/BestCryptographer528
+
+**15. [Building a portable SDR DX field laptop](https://www.reddit.com/r/HamRadio/comments/1tnvne2/building_a_portable_sdr_dx_field_laptop/)**
 by u/noakmilo
-
-**4. [How good are these AM loops antennas?](https://www.reddit.com/r/HamRadio/comments/1tnwra1/how_good_are_these_am_loops_antennas/)**
-by u/LeaveInfamous272
-
-**5. [What's up with HF propagation today?](https://www.reddit.com/r/HamRadio/comments/1tnhq2k/whats_up_with_hf_propagation_today/)**
-by u/greenwoody2018
-
-**6. [Asking For Equipment Suggestions](https://www.reddit.com/r/HamRadio/comments/1tnwspn/asking_for_equipment_suggestions/)**
-by u/Expensive_Dinner_597
-
-**7. [Yaesu FTM-150RASP Rx Gmrs Transmissions](https://www.reddit.com/r/HamRadio/comments/1tny8ui/yaesu_ftm150rasp_rx_gmrs_transmissions/)**
-by u/glitch666
-
-**8. [In india from where I can get the equiqments](https://www.reddit.com/r/HamRadio/comments/1tnx7gk/in_india_from_where_i_can_get_the_equiqments/)**
-by u/Complex-Purple4653
-
-**9. [Getting overwhelmed with HF safety and haven't even hung my antenna](https://www.reddit.com/r/HamRadio/comments/1tn8ux9/getting_overwhelmed_with_hf_safety_and_havent/)**
-by u/FeralPlagueTroll
-
-**10. [Thanks and Attic Safety Question](https://www.reddit.com/r/HamRadio/comments/1tnfiv1/thanks_and_attic_safety_question/)**
-by u/Throw20701
-
-**11. [Omni tilt mounting with hustler 6BTV](https://www.reddit.com/r/HamRadio/comments/1tnsg7c/omni_tilt_mounting_with_hustler_6btv/)**
-by u/beardfarkland
-
-**12. [ARCO Support for their Antenna Controllers.](https://www.reddit.com/r/HamRadio/comments/1tnmn7q/arco_support_for_their_antenna_controllers/)**
-by u/CaptinKirk
-
-**13. [CHIRP 260522 broke UV-5R mini support?](https://www.reddit.com/r/HamRadio/comments/1tnm66n/chirp_260522_broke_uv5r_mini_support/)**
-by u/Coxis67
-
-**14. [New sealed screwdriver style antenna!](https://www.reddit.com/r/HamRadio/comments/1tmmuha/new_sealed_screwdriver_style_antenna/)**
-by u/McNeillTrevor
-
-**15. [240-51 mix torrid for a 49:1 homebrew EFHW antenna](https://www.reddit.com/r/HamRadio/comments/1tmqcqd/24051_mix_torrid_for_a_491_homebrew_efhw_antenna/)**
-by u/SouthMouth4
 
 ---
 
@@ -110,14 +110,14 @@ by u/SouthMouth4
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1tn8hgl/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[Stephen Colbert announces the Monroe, Michigan Hamfest, June 21](https://www.reddit.com/r/amateurradio/comments/1todsfu/stephen_colbert_announces_the_monroe_michigan/)** (r/amateurradio)
+- **[New radio day... 2m SSB here we come!](https://www.reddit.com/r/amateurradio/comments/1toeen9/new_radio_day_2m_ssb_here_we_come/)** (r/amateurradio)
 - **[Neighbor called the cops on me](https://www.reddit.com/r/amateurradio/comments/1to2mmo/neighbor_called_the_cops_on_me/)** (r/amateurradio)
-- **[Simple and Accurate HF VHF UHF SWR Meter DIY](https://www.reddit.com/r/amateurradio/comments/1to5kph/simple_and_accurate_hf_vhf_uhf_swr_meter_diy/)** (r/amateurradio)
-- **[Latest Home Office/Ham Shack Network Upgrade](https://www.reddit.com/r/amateurradio/comments/1tndv1v/latest_home_officeham_shack_network_upgrade/)** (r/amateurradio)
-- **[This is my EFHW. There are many like it, but this one is mine.](https://www.reddit.com/r/amateurradio/comments/1tnvf1h/this_is_my_efhw_there_are_many_like_it_but_this/)** (r/amateurradio)
-- **[Anyone interested in a free antenna? Would like tower removed as well....](https://www.reddit.com/r/amateurradio/comments/1tnlm9a/anyone_interested_in_a_free_antenna_would_like/)** (r/amateurradio)
-- **[Today's adventure with a sad ham](https://www.reddit.com/r/amateurradio/comments/1tnjslp/todays_adventure_with_a_sad_ham/)** (r/amateurradio)
-- **[Boat anchor radios of the future](https://www.reddit.com/r/amateurradio/comments/1to5m8c/boat_anchor_radios_of_the_future/)** (r/amateurradio)
-- **[Thought my antenna fix would be appreciated in here](https://www.reddit.com/r/amateurradio/comments/1tnvzm1/thought_my_antenna_fix_would_be_appreciated_in/)** (r/amateurradio)
+- **[Ever wondered what the actual feedpoint impedance of a doublet is?](https://www.reddit.com/r/amateurradio/comments/1tp325s/ever_wondered_what_the_actual_feedpoint_impedance/)** (r/amateurradio)
+- **[I wound a dozen crystal radio coils so you don't have to](https://www.reddit.com/r/amateurradio/comments/1toalfu/i_wound_a_dozen_crystal_radio_coils_so_you_dont/)** (r/amateurradio)
+- **[Alinco Codeplugs help!!](https://www.reddit.com/r/amateurradio/comments/1tp722i/alinco_codeplugs_help/)** (r/amateurradio)
+- **[Unknown USB Device - Device Descriptor Request Failed](https://www.reddit.com/r/amateurradio/comments/1tp6z9m/unknown_usb_device_device_descriptor_request/)** (r/amateurradio)
+- **[New Chirp version issue](https://www.reddit.com/r/amateurradio/comments/1tp6mpl/new_chirp_version_issue/)** (r/amateurradio)
 
 ---
 

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-25T14:38:20.620365",
+  "updated": "2026-06-01T17:21:22.846844",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "W1_VRb-0ubr92oyBYlpTi2-Yy8Q",
+    "etag": "tMqQj4Xv1eAx7HWyLJE9Z8zU6M4",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,87 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "202286",
-      "subscriberCount": "1980",
+      "viewCount": "206721",
+      "subscriberCount": "2000",
       "hiddenSubscriberCount": false,
-      "videoCount": "137"
+      "videoCount": "138"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "yBQqdBHkSmj6tvG5_Uvws3fC-2k",
+      "etag": "LdnCVjqm5qiG44CYnJ_6nSVa_d8",
+      "id": "D83ErArGu6I",
+      "snippet": {
+        "publishedAt": "2026-05-28T12:50:03Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
+        "description": "Recently, the N8SL 70cm Fusion repeater was relocated to Jim (N8JRD)'s QTH.   To support the new machine in its temporary home, he needed to install a new antenna to dedicate to the 70cm UHF output frequency.   \n\nCome along as Jim installs the Diamond X300A Dual-Band 10ft vertical antenna on a a non-penetrating roof mounted platform.    Saving extra holes in the roof, and tidying up the installation with a few tricks along the way!\n\nProducts in this video:\n-Diamond X300A Antenna - https://www.dxengineering.com/parts/dmn-x300a\n-Commdeck Satellite Mount - https://www.amazon.com/Commdeck-Satellite-Dish-Mounting-System/dp/B000AA9ERU\n-Generic Starlink Non-Penetrating Roof Mount - https://www.amazon.com/dp/B0DCJBV1ZT\n-Bolton Technical LMR400 Cable - https://www.amazon.com/Bolton400-Coaxial-Cable-PL-259-Connectors/dp/B0GFGT3VJW\n-Lots of ZipTies\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nDiscord: https://discord.gg/4qvEUNPugy\nInstagram: https://www.instagram.com/everydayhampodcast/\nFacebook: https://www.facebook.com/groups/1655637925129442\n\n#AmateurRadio  #HamRadio #diy #antenna #diamond #x300a",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
+          "description": "Recently, the N8SL 70cm Fusion repeater was relocated to Jim (N8JRD)'s QTH.   To support the new machine in its temporary home, he needed to install a new antenna to dedicate to the 70cm UHF output frequency.   \n\nCome along as Jim installs the Diamond X300A Dual-Band 10ft vertical antenna on a a non-penetrating roof mounted platform.    Saving extra holes in the roof, and tidying up the installation with a few tricks along the way!\n\nProducts in this video:\n-Diamond X300A Antenna - https://www.dxengineering.com/parts/dmn-x300a\n-Commdeck Satellite Mount - https://www.amazon.com/Commdeck-Satellite-Dish-Mounting-System/dp/B000AA9ERU\n-Generic Starlink Non-Penetrating Roof Mount - https://www.amazon.com/dp/B0DCJBV1ZT\n-Bolton Technical LMR400 Cable - https://www.amazon.com/Bolton400-Coaxial-Cable-PL-259-Connectors/dp/B0GFGT3VJW\n-Lots of ZipTies\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nDiscord: https://discord.gg/4qvEUNPugy\nInstagram: https://www.instagram.com/everydayhampodcast/\nFacebook: https://www.facebook.com/groups/1655637925129442\n\n#AmateurRadio  #HamRadio #diy #antenna #diamond #x300a"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "362",
+        "likeCount": "40",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dWm0XZomaPJzVS2bSHTysSPQfpE",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -105,15 +176,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "200",
-        "likeCount": "14",
+        "viewCount": "262",
+        "likeCount": "16",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XdfdLTijlpW0AAZwZt5wLxY-6CQ",
+      "etag": "P6pxmGde0LjJyqTB4FvWsQ3M3Ik",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -177,15 +248,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "530",
-        "likeCount": "39",
+        "viewCount": "576",
+        "likeCount": "41",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ioQR2lyo3R0BZuXObYbTr3ZhlQA",
+      "etag": "JVsz_sUXqd8LPIGLQ-JhBkndKh0",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -249,15 +320,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2917",
-        "likeCount": "79",
+        "viewCount": "3152",
+        "likeCount": "84",
         "favoriteCount": "0",
         "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hcIOvC4mWzEsn9aIpo3EZJq5a0o",
+      "etag": "b_Pno8HzdOpSnkgvG24_2s5kgrY",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -320,15 +391,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "253",
-        "likeCount": "17",
+        "viewCount": "288",
+        "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "U-YqW4NW8FaFdctlRdxUUjZTY2U",
+      "etag": "WJNlJIHB193hQunUOsuwkqN9rQw",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -392,15 +463,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "6195",
-        "likeCount": "158",
+        "viewCount": "6663",
+        "likeCount": "165",
         "favoriteCount": "0",
-        "commentCount": "52"
+        "commentCount": "53"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ISAfyYwIL2Nw7qTEizx0kAubWzY",
+      "etag": "1dM4JkMKk9jPbj7EW76aWhnRaK8",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -464,15 +535,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1407",
-        "likeCount": "56",
+        "viewCount": "1493",
+        "likeCount": "58",
         "favoriteCount": "0",
-        "commentCount": "13"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ihzjRErvql5wBFkrL-JuWNNTdhA",
+      "etag": "PJU0dHfL3qPDOf4NVqt9GIRQJRE",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -536,15 +607,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "6960",
-        "likeCount": "151",
+        "viewCount": "7480",
+        "likeCount": "156",
         "favoriteCount": "0",
-        "commentCount": "43"
+        "commentCount": "48"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1Wu_88n5-cAW5anr97Sr3ydAT4E",
+      "etag": "h-vfRBPdSgUtX5SADT3cnk_g4iA",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -608,15 +679,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "6594",
-        "likeCount": "200",
+        "viewCount": "7014",
+        "likeCount": "208",
         "favoriteCount": "0",
-        "commentCount": "44"
+        "commentCount": "47"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "soljm41EVTKciB6qP5SHPLQgffc",
+      "etag": "9JWrkVhFt9vTcPZWXAr-mlF-3Fw",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -680,15 +751,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3918",
-        "likeCount": "122",
+        "viewCount": "4054",
+        "likeCount": "125",
         "favoriteCount": "0",
-        "commentCount": "25"
+        "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kxDe8s47TcpsaHDXOiXAO9H0g3w",
+      "etag": "kkM58vHshPeNvyy8XRGwbXLoMzg",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -749,15 +820,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "693",
-        "likeCount": "26",
+        "viewCount": "728",
+        "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kI-e23DVdbf9LXPJrNb2xbP1QOg",
+      "etag": "vIqn9atav_qFNhpoDbrtAQLz31c",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -820,15 +891,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1535",
-        "likeCount": "73",
+        "viewCount": "1566",
+        "likeCount": "74",
         "favoriteCount": "0",
         "commentCount": "8"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XUoANYdKbuolDdsO14d4XT8vCrI",
+      "etag": "y-q2PQjldDBp5sGOo6so_3zZYs4",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -889,7 +960,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1215",
+        "viewCount": "1240",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -897,7 +968,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jJirSpAALtf9cFIG_o8SkEuDwKw",
+      "etag": "OefUmTdCyWX-RLXSCNkXnkyjclg",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -960,7 +1031,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "872",
+        "viewCount": "880",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -968,7 +1039,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "O3da4mXFK3j_86tscbHRdd6QWDc",
+      "etag": "xcmZdsnF00deC43VEtLxnIHQhHg",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -1034,7 +1105,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "322",
+        "viewCount": "325",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1042,7 +1113,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XcbeyV7GManIn-clKktJo8QYoIU",
+      "etag": "k7QIwC6j6-fre0UoeyoFw7OjHBo",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -1090,7 +1161,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1358",
+        "viewCount": "1360",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1098,7 +1169,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "F6XpoqAv6xfdGzQdF8NS_qMWopk",
+      "etag": "vxjU9k9-6r23k-67nVKm6V1QmIA",
       "id": "nFmV750qMPY",
       "snippet": {
         "publishedAt": "2026-04-09T13:01:34Z",
@@ -1160,7 +1231,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "156",
+        "viewCount": "157",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1168,7 +1239,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8MgUsDgQqUoRxSXzlQVogJ-C62w",
+      "etag": "pfTVpMg9OMn3T6Ryhlow9GZfjsA",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -1231,7 +1302,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "586",
+        "viewCount": "596",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1239,7 +1310,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TRGLWuf4CvpQHwIfU1eALk6fPTY",
+      "etag": "VuubrqcOFKZnbblabl5hOr6Mwr0",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -1301,15 +1372,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1152",
-        "likeCount": "49",
+        "viewCount": "1208",
+        "likeCount": "51",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8oGuFZSM30WpcfwXUxjAgKLR7rs",
+      "etag": "vf8KCQn34coo2PHlF8tGoJqA32Y",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -1372,15 +1443,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "450",
-        "likeCount": "33",
+        "viewCount": "456",
+        "likeCount": "34",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dA5vJjkDtGC1WtoHgM2oIsn8r1g",
+      "etag": "n4AnjsKO8VH1lD-h6XJ7IS22it0",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -1443,7 +1514,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "871",
+        "viewCount": "880",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1523,7 +1594,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "J6qdSXvJGDbQQ4OSOnlM_j5uDp0",
+      "etag": "l9HvrEhEdjet1B9Cj_3cv3a3Hgw",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -1586,7 +1657,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1241",
+        "viewCount": "1243",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1735,7 +1806,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ha0m5ALm2UWidfzxItjlFox8gEc",
+      "etag": "62PMaCUAYscmDqrCFpxQV4VUfwk",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -1800,15 +1871,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1631",
-        "likeCount": "70",
+        "viewCount": "1639",
+        "likeCount": "71",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "s6ggpktpJuNCYIcGqkkoDC32SyY",
+      "etag": "6ZsxSgYzGr6EMp725HPQsQRMJYc",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -1871,15 +1942,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "502",
-        "likeCount": "24",
+        "viewCount": "527",
+        "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qiMC61tLefnBqrrPmn-9JnCvGyc",
+      "etag": "p5A0IR1Xn9VW8sk6ws9BdlooFDk",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -1942,15 +2013,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5202",
-        "likeCount": "180",
+        "viewCount": "5230",
+        "likeCount": "181",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4JADgaVEzdlDqAqoKLqheII6PWA",
+      "etag": "LMWba8YczNt-oXJ87NrHy0YXeXI",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -2012,7 +2083,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "329",
+        "viewCount": "330",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2020,7 +2091,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "C0ws6IfE5X8UZc2d8Wmw8Q5nmSs",
+      "etag": "hZ_cvbFg0ksuGpCHu_wUmO3KlRs",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -2073,7 +2144,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1138",
+        "viewCount": "1151",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2134,7 +2205,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bBiC29QNIn-u01WRwP_2G4n1jjE",
+      "etag": "D7vYjn3nTLv08odlEDFl5GSVFNw",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -2198,15 +2269,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1987",
-        "likeCount": "43",
+        "viewCount": "2069",
+        "likeCount": "47",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qp0qQENeRdGKWS1tEOKFoyuFsok",
+      "etag": "4wkYMcRLfYMBQrsuVfnPtI7PqqU",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -2269,15 +2340,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2720",
+        "viewCount": "2753",
         "likeCount": "101",
         "favoriteCount": "0",
-        "commentCount": "14"
+        "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "69rwQoox__p2NQHM23mbalRWc0k",
+      "etag": "W1keMbbxpMCLNXGG2J7-ybYlrYU",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -2339,7 +2410,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "318",
+        "viewCount": "323",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2471,7 +2542,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gtjPCdbsjCTzI9b3Y15HOtDaLdQ",
+      "etag": "Dl9sChG56Ob0vIKpztQAWkvw7gw",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -2535,7 +2606,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "582",
+        "viewCount": "585",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -2686,7 +2757,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CaMPaNd3sYycogHKAaw-KaAng-I",
+      "etag": "9J9URpOlGQrBESfi5KeGii4_NNI",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -2727,11 +2798,10 @@
         "localized": {
           "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
           "description": "The Kenwood TM-D750A is REAL! The FCC filing just dropped and the user manual reveals all the specs for this tri-band mobile radio. 20 watts on 220 MHz, 7-inch display, D-STAR, APRS, Wi-Fi, Bluetooth 5.0 \u2014 we break it all down. But how much will it cost? \ud83d\udcb8\n\nFull episode on YouTube!\n\n#hamradio #amateurradio #kenwood #tmd750a #triband #dstar #aprs #mobileradio #hamcation #fcc #radiolife #hamradiocommunity #everydayham #vhf #uhf #220mhz #newradio #techreveal"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
-        "viewCount": "892",
+        "viewCount": "899",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2739,7 +2809,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DjcpL-WRDWV17J869_sfvBy_hXM",
+      "etag": "xAS4T0txYj6lZUR8aTJ6ODFLkZ4",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -2803,15 +2873,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3850",
-        "likeCount": "120",
+        "viewCount": "3905",
+        "likeCount": "121",
         "favoriteCount": "0",
-        "commentCount": "60"
+        "commentCount": "62"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "y1c7Gk0O5ZOSQq9EctTPaQI3ZIc",
+      "etag": "8m2x-PkcOO85-DKTe2IaYv8Ri34",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -2856,7 +2926,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "279",
+        "viewCount": "281",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2864,7 +2934,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "oISChhbYv7On6YHEhPa1S_IXfyI",
+      "etag": "2ElEm5DxU_DpsFudIZ9GUJyEOWs",
       "id": "surYSffn1tE",
       "snippet": {
         "publishedAt": "2026-01-18T16:25:06Z",
@@ -2909,7 +2979,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1517",
+        "viewCount": "1518",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2970,7 +3040,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FblrdngjV-gawlhQUlvhfJSbJNk",
+      "etag": "Ps4Nd3vDMh8X1OUxzbBjdN19smo",
       "id": "cGQR0gc20OY",
       "snippet": {
         "publishedAt": "2026-01-08T15:01:16Z",
@@ -3037,15 +3107,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3425",
-        "likeCount": "146",
+        "viewCount": "3559",
+        "likeCount": "151",
         "favoriteCount": "0",
         "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n3KrmeDaSxhtl4MihkKICYjRuug",
+      "etag": "PcwMViCTr8A62CHVIprI2dWWcn4",
       "id": "VOzX6f-vYHk",
       "snippet": {
         "publishedAt": "2026-01-08T15:29:09Z",
@@ -3108,7 +3178,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "162",
+        "viewCount": "164",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -3169,7 +3239,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fYbGJWiknk4EReMLWoZB2Si8QJI",
+      "etag": "0Q93-VGAEpS3jVAk9Crs4CuCDEU",
       "id": "bnwByZ9Wjtk",
       "snippet": {
         "publishedAt": "2026-01-04T18:48:18Z",
@@ -3214,7 +3284,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1818",
+        "viewCount": "1870",
         "likeCount": "57",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -3293,7 +3363,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yb-Uqs-8yxR2qCI1e16rhE1kzUg",
+      "etag": "-AZYTUs7Mzr96miaSgqemxN_Ddc",
       "id": "KnuUhcPZ-0I",
       "snippet": {
         "publishedAt": "2025-12-29T19:00:16Z",
@@ -3351,81 +3421,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "987",
+        "viewCount": "990",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SrbGSAXuo9p3sFlWtuseJSAqCzA",
-      "id": "If9QQ4IMLtE",
-      "snippet": {
-        "publishedAt": "2025-12-25T03:48:17Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-        "description": "Merry Christmas and Happy New Year from the entire team at The Everyday Ham!\n\nIt\u2019s officially our first Christmas as a podcast, and we couldn't let the year end without hopping on the air to say a massive THANK YOU. 2025 has been an incredible start, and we are so grateful for every listener, subscriber, and contact we've made along the way.\n\nWhether you are celebrating with family, or sneaking away to the shack to tune the bands, we hope you have a fantastic holiday season.\n\nWe have some big plans for the show in 2026. Catch you on the air!\n\n73, James (K8JKU), Rory (W8KNX), and Jim (N8JRD)\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/If9QQ4IMLtE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/If9QQ4IMLtE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/If9QQ4IMLtE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/If9QQ4IMLtE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/If9QQ4IMLtE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-          "description": "Merry Christmas and Happy New Year from the entire team at The Everyday Ham!\n\nIt\u2019s officially our first Christmas as a podcast, and we couldn't let the year end without hopping on the air to say a massive THANK YOU. 2025 has been an incredible start, and we are so grateful for every listener, subscriber, and contact we've made along the way.\n\nWhether you are celebrating with family, or sneaking away to the shack to tune the bands, we hope you have a fantastic holiday season.\n\nWe have some big plans for the show in 2026. Catch you on the air!\n\n73, James (K8JKU), Rory (W8KNX), and Jim (N8JRD)\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1469",
-        "likeCount": "22",
-        "favoriteCount": "0",
-        "commentCount": "2"
       }
     }
   ]

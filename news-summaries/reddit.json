@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T16:39:53.639032",
+  "updated": "2026-06-02T14:56:18.409370",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,79 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Got my R-187-P1 in today and I\u2019ve been able to talk with other folks up to 25 miles out is wooded/plains areas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tujp2f/got_my_r187p1_in_today_and_ive_been_able_to_talk/",
+        "author": "/u/Firm-Instruction5790"
+      },
+      {
+        "title": "Finally ran a coax trench and learned something about SWR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tucbh1/finally_ran_a_coax_trench_and_learned_something/",
+        "author": "/u/ImaginaryDisplay599"
+      },
+      {
+        "title": "7300mkii Users. How\u2019s it going?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1turcra/7300mkii_users_hows_it_going/",
+        "author": "/u/munsterrr"
+      },
+      {
+        "title": "ANTENNA AND CABLE RECOMMENDATION",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tur7pz/antenna_and_cable_recommendation/",
+        "author": "/u/YKeremx"
+      },
+      {
+        "title": "TS-590s delayed full power",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tuqxyu/ts590s_delayed_full_power/",
+        "author": "/u/This_Call_9920"
+      },
+      {
+        "title": "My NanoVNA is reading this, what's wrong with my antenna???",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tubmbk/my_nanovna_is_reading_this_whats_wrong_with_my/",
+        "author": "/u/watchguy7929"
+      },
+      {
+        "title": "Learning Morse Code - Advice needed on Word training.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tup4tf/learning_morse_code_advice_needed_on_word_training/",
+        "author": "/u/tony2176"
+      },
+      {
+        "title": "Low cost fox hunting transmitter design",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tumz5p/low_cost_fox_hunting_transmitter_design/",
+        "author": "/u/cebess"
+      },
+      {
+        "title": "I made the AIOR, based on the AIOC but with an RJ45 jack for mobiles/HF rigs, now with built in KISS TNC / Digipeater / web config!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tub6k6/i_made_the_aior_based_on_the_aioc_but_with_an/",
+        "author": "/u/LinuxIsFree"
+      },
+      {
+        "title": "Radio Club or No Radio Club",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu2oh9/radio_club_or_no_radio_club/",
+        "author": "/u/CessnaDude82"
+      },
+      {
+        "title": "I built CAT control for the Quansheng UV-K5 and finally got a reliable AX.25 packet station working",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu7qpb/i_built_cat_control_for_the_quansheng_uvk5_and/",
+        "author": "/u/Ok-Space-5422"
+      },
+      {
         "title": "Antenna review",
         "link": "https://www.reddit.com/r/amateurradio/comments/1ttsqwu/antenna_review/",
         "author": "/u/idontknowwhoami12"
+      },
+      {
+        "title": "My uncle stuff part 2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu5vmi/my_uncle_stuff_part_2/",
+        "author": "/u/Original_Law_3793"
+      },
+      {
+        "title": "Remoterig en mis manos.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tulfi8/remoterig_en_mis_manos/",
+        "author": "/u/JOSS_KOLDOP"
+      },
+      {
+        "title": "Mount/holster for HT on a bicycle?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tubxx8/mountholster_for_ht_on_a_bicycle/",
+        "author": "/u/darktideDay1"
       },
       {
         "title": "Just got passes my HAM tech test",
@@ -27,14 +97,9 @@
         "author": "/u/External-Ad194"
       },
       {
-        "title": "I wanted to record audio from my HT and be able to listen to it at the same time while working satellites, but didn't want to pay $700 for a TH-D75A. So I built a device to do it for me.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttey5y/i_wanted_to_record_audio_from_my_ht_and_be_able/",
-        "author": "/u/kc3zyt"
-      },
-      {
-        "title": "Tried 1st POTA Again today. \ud83d\udc4d\ud83c\udffb",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tt8pr2/tried_1st_pota_again_today/",
-        "author": "/u/MKE1969"
+        "title": "Field Day is coming up. What are your plans?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu0s6e/field_day_is_coming_up_what_are_your_plans/",
+        "author": "/u/CaptainSpez"
       },
       {
         "title": "N9SAB \"Bouncing Betty\" End Fed Random Wire Antenna Testing",
@@ -42,94 +107,29 @@
         "author": "/u/ga-science"
       },
       {
+        "title": "I wanted to record audio from my HT and be able to listen to it at the same time while working satellites, but didn't want to pay $700 for a TH-D75A. So I built a device to do it for me.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ttey5y/i_wanted_to_record_audio_from_my_ht_and_be_able/",
+        "author": "/u/kc3zyt"
+      },
+      {
+        "title": "Learning by doing",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu8o9p/learning_by_doing/",
+        "author": "/u/actionfingerss"
+      },
+      {
         "title": "Homebrew 80m loaded vertical - great transmit, high noise on reception",
         "link": "https://www.reddit.com/r/amateurradio/comments/1ttw8r4/homebrew_80m_loaded_vertical_great_transmit_high/",
         "author": "/u/SupremeVinegar"
       },
       {
-        "title": "Pass Through!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttd46u/pass_through/",
-        "author": "/u/DependentSalt1330"
+        "title": "Una boomerang per i 144Mhz batte e di brutto una diamond x30",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tu9zzs/una_boomerang_per_i_144mhz_batte_e_di_brutto_una/",
+        "author": "/u/Specialist-Spray-436"
       },
       {
-        "title": "So ..",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tt8a0o/so/",
-        "author": "/u/Original_Law_3793"
-      },
-      {
-        "title": "How accurate is the Tiny SA?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttl2va/how_accurate_is_the_tiny_sa/",
-        "author": "/u/batfalconsv1"
-      },
-      {
-        "title": "PTT only transmitting audio on UHF.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttuzys/ptt_only_transmitting_audio_on_uhf/",
-        "author": "/u/gautham1070"
-      },
-      {
-        "title": "Small yard question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tthd3l/small_yard_question/",
-        "author": "/u/lazyoctupus47"
-      },
-      {
-        "title": "[Canada] High Altitude Balloons",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttjpt2/canada_high_altitude_balloons/",
-        "author": "/u/Impressive_Guava_119"
-      },
-      {
-        "title": "Are the bands crap right now or is it just me?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tt2c2r/are_the_bands_crap_right_now_or_is_it_just_me/",
-        "author": "/u/Active_Emu_845"
-      },
-      {
-        "title": "Im trying to make my first crystal radio, what I am doing wrong?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttdqs0/im_trying_to_make_my_first_crystal_radio_what_i/",
-        "author": "/u/Robotadri"
-      },
-      {
-        "title": "Getting licensed soon (hopefully)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttbt3o/getting_licensed_soon_hopefully/",
-        "author": "/u/Think-Ad-8169"
-      },
-      {
-        "title": "What is happening when you see a signal do this on FT8?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tsv851/what_is_happening_when_you_see_a_signal_do_this/",
-        "author": "/u/Prima13"
-      },
-      {
-        "title": "Weird frequency of sorts? I assume its harmonics and happens when I press PTT on walkie.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttailp/weird_frequency_of_sorts_i_assume_its_harmonics/",
-        "author": "/u/Adwan4747"
-      },
-      {
-        "title": "Nerding out at the park - taking my Tech exam Tuesday",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tsh155/nerding_out_at_the_park_taking_my_tech_exam/",
-        "author": "/u/Keeper4560"
-      },
-      {
-        "title": "400mhz eggbeater & 139mhz V-Dipole together",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tsron6/400mhz_eggbeater_139mhz_vdipole_together/",
-        "author": "/u/ozcet"
-      },
-      {
-        "title": "DIY Radio for ATC",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ttg1s8/diy_radio_for_atc/",
-        "author": "/u/facu3064"
-      },
-      {
-        "title": "That moment when a utility guy shows up to fix squirrel damage on a line and you get him to help you hang an antenna higher \ud83d\ude09",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tsacz2/that_moment_when_a_utility_guy_shows_up_to_fix/",
-        "author": "/u/Blueberry_Mancakes"
-      },
-      {
-        "title": "FT8 Question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tswo42/ft8_question/",
-        "author": "/u/TheUnkown696"
-      },
-      {
-        "title": "How to log a QSO if contact used /AG?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1tt8gx1/how_to_log_a_qso_if_contact_used_ag/",
-        "author": "/u/BeCoolHoney-Bunny"
+        "title": "Tried 1st POTA Again today. \ud83d\udc4d\ud83c\udffb",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1tt8pr2/tried_1st_pota_again_today/",
+        "author": "/u/MKE1969"
       }
     ],
     "HamRadio": [
@@ -144,6 +144,16 @@
         "author": "/u/SharkSapphire"
       },
       {
+        "title": "Low cost fox hunting transmitter design",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1tumyuw/low_cost_fox_hunting_transmitter_design/",
+        "author": "/u/cebess"
+      },
+      {
+        "title": "Holder/holster for HT on a bicycle?",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1tubzmc/holderholster_for_ht_on_a_bicycle/",
+        "author": "/u/darktideDay1"
+      },
+      {
         "title": "I WILL BUY/BORROW 2.4 GHz ANTHENNA IN VIRGINIA AND WASHINGTON FOR STUDENTS COMPETITION",
         "link": "https://www.reddit.com/r/HamRadio/comments/1ttuamz/i_will_buyborrow_24_ghz_anthenna_in_virginia_and/",
         "author": "/u/Horror-Type145"
@@ -154,14 +164,29 @@
         "author": "/u/ga-science"
       },
       {
-        "title": "Weird frequency of sorts? I assume its harmonics and happens when I press PTT on walkie.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1ttahhj/weird_frequency_of_sorts_i_assume_its_harmonics/",
-        "author": "/u/Adwan4747"
+        "title": "Looking for Radio(s) to Buy As A Gift",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1tueftt/looking_for_radios_to_buy_as_a_gift/",
+        "author": "/u/MrLanGT"
+      },
+      {
+        "title": "Making single frequency repeater with delay.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1tu0yrq/making_single_frequency_repeater_with_delay/",
+        "author": "/u/Valuable-Ad-1477"
+      },
+      {
+        "title": "N1HFX 70cm Collinear Coax Antenna",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1ttzfju/n1hfx_70cm_collinear_coax_antenna/",
+        "author": "/u/KipIngram"
       },
       {
         "title": "Budget Linear Amp and LNA Options",
         "link": "https://www.reddit.com/r/HamRadio/comments/1tts5jq/budget_linear_amp_and_lna_options/",
         "author": "/u/Throw20701"
+      },
+      {
+        "title": "Weird frequency of sorts? I assume its harmonics and happens when I press PTT on walkie.",
+        "link": "https://www.reddit.com/r/HamRadio/comments/1ttahhj/weird_frequency_of_sorts_i_assume_its_harmonics/",
+        "author": "/u/Adwan4747"
       },
       {
         "title": "Nice propagation on 2 meters this morning.",
@@ -232,31 +257,6 @@
         "title": "UPDATE with pictures of internals! Found ham radio equipment, looking for information.",
         "link": "https://www.reddit.com/r/HamRadio/comments/1trdfo4/update_with_pictures_of_internals_found_ham_radio/",
         "author": "/u/Decent-Classroom-723"
-      },
-      {
-        "title": "Transmitting to a pocsag pager (for a dummy without a license)?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1tsdird/transmitting_to_a_pocsag_pager_for_a_dummy/",
-        "author": "/u/slaapzacht"
-      },
-      {
-        "title": "What does everyone use for EME?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1tr5aln/what_does_everyone_use_for_eme/",
-        "author": "/u/a_PersonUnknown"
-      },
-      {
-        "title": "From Spot to Map: A New Way to Follow DXpeditions",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1tr1r8d/from_spot_to_map_a_new_way_to_follow_dxpeditions/",
-        "author": "/u/LiveSpread2190"
-      },
-      {
-        "title": "If you had to pick a nmo mag mount from Amazon which one would it be? It absolutely positively has to stay put.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1trl5bs/if_you_had_to_pick_a_nmo_mag_mount_from_amazon/",
-        "author": "/u/adhdff"
-      },
-      {
-        "title": "Quick antenna question from non-ham",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1tr3un9/quick_antenna_question_from_nonham/",
-        "author": "/u/FuzzyMolasses5686"
       }
     ]
   }

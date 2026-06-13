@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-12 14:10 UTC*
+*Last updated: 2026-06-13 12:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [The new shack takes shape](https://www.reddit.com/r/amateurradio/comments/1u3et65/the_new_shack_takes_shape/)**
-by u/DependentSalt1330
+**3. [Getting ready for field day!](https://www.reddit.com/r/amateurradio/comments/1u4blwu/getting_ready_for_field_day/)**
+by u/dippityshat
 
-**4. [My Experience with LDG Electronics Repair Service](https://www.reddit.com/r/amateurradio/comments/1u3kcgd/my_experience_with_ldg_electronics_repair_service/)**
-by u/DroidOnMars
+**4. [Hiking in Oregon](https://www.reddit.com/r/amateurradio/comments/1u4f73b/hiking_in_oregon/)**
+by u/sergeantpotato1
 
-**5. [Hi everyone just wondering because im crap at soldering can u add just the bare ...](https://www.reddit.com/r/amateurradio/comments/1u3upep/hi_everyone_just_wondering_because_im_crap_at/)**
-by u/Mrnerd12e
+**5. [I created a tiny radio-related app for the Apple Watch](https://www.reddit.com/r/amateurradio/comments/1u4ju40/i_created_a_tiny_radiorelated_app_for_the_apple/)**
+by u/scottearle
 
-**6. [ISED Proposes Major Changes to Antenna Tower Policy: What Canadian Amateurs Need...](https://www.reddit.com/r/amateurradio/comments/1u3s1y1/ised_proposes_major_changes_to_antenna_tower/)**
-by u/throw0101d
-
-**7. [Non-announcements from Icom on the new ID-5200 - will come in two models and it’...](https://www.reddit.com/r/amateurradio/comments/1u3pdzh/nonannouncements_from_icom_on_the_new_id5200_will/)**
-by u/andrewwoodward
-
-**8. [First multiband antenna](https://www.reddit.com/r/amateurradio/comments/1u3wdg9/first_multiband_antenna/)**
-by u/ITinnedUrMumLastNigh
-
-**9. [Help choosing antenna](https://www.reddit.com/r/amateurradio/comments/1u3t2pt/help_choosing_antenna/)**
-by u/MoleroInTheBrain
-
-**10. [Odd transmission on 20M Band in Austin](https://www.reddit.com/r/amateurradio/comments/1u38k4v/odd_transmission_on_20m_band_in_austin/)**
-by u/OKAUSTX
-
-**11. [Struggling with antenna tuning.](https://www.reddit.com/r/amateurradio/comments/1u3e08z/struggling_with_antenna_tuning/)**
-by u/CabinetMental6864
-
-**12. [Quansheng K6 vs Quansheng K1](https://www.reddit.com/r/amateurradio/comments/1u3r9el/quansheng_k6_vs_quansheng_k1/)**
-by u/pretendlama
-
-**13. [How do I listen in on planes and marine VHF?](https://www.reddit.com/r/amateurradio/comments/1u3fud9/how_do_i_listen_in_on_planes_and_marine_vhf/)**
-by u/105_irl
-
-**14. [Anyone planning on operating in the ARRL June VHF Contest? What's your strategy?](https://www.reddit.com/r/amateurradio/comments/1u35tdl/anyone_planning_on_operating_in_the_arrl_june_vhf/)**
+**6. [6m dipole with no balun. Think it'll be fine for vhf contest?](https://www.reddit.com/r/amateurradio/comments/1u4drr0/6m_dipole_with_no_balun_think_itll_be_fine_for/)**
 by u/n0fumar
 
-**15. [Open-source Powerline QRM Monitor](https://www.reddit.com/r/amateurradio/comments/1u31iz1/opensource_powerline_qrm_monitor/)**
-by u/spatula
+**7. [Ham Radio Windows Toolkit - Installation Wizard](https://www.reddit.com/r/amateurradio/comments/1u4jol1/ham_radio_windows_toolkit_installation_wizard/)**
+by u/noakmilo
+
+**8. [Producing a local maryland hamfest - Jun 21 2026](https://www.reddit.com/r/amateurradio/comments/1u4oifn/producing_a_local_maryland_hamfest_jun_21_2026/)**
+by u/Top_Conversation_793
+
+**9. [Just found this](https://www.reddit.com/r/amateurradio/comments/1u3xmov/just_found_this/)**
+by u/TheOriginalErewego
+
+**10. [Field Day! What's your plan?](https://www.reddit.com/r/amateurradio/comments/1u4hclm/field_day_whats_your_plan/)**
+by u/Zombie_Jim
+
+**11. [Ham Radio blue water cruising](https://www.reddit.com/r/amateurradio/comments/1u4n11j/ham_radio_blue_water_cruising/)**
+by u/Wandering_Pirate86
+
+**12. [Yaesu FTDX101MP - saving ATU adjustment separately for Antenna 1 & 2 possible?](https://www.reddit.com/r/amateurradio/comments/1u4mfop/yaesu_ftdx101mp_saving_atu_adjustment_separately/)**
+by u/Ornery-Selection-231
+
+**13. [My new ZOYI ZT-706S with AI. How to improve your measurement experience.](https://www.reddit.com/r/amateurradio/comments/1u4m4dq/my_new_zoyi_zt706s_with_ai_how_to_improve_your/)**
+by u/ComprehensiveTown15
+
+**14. [Is 20m dead right now?](https://www.reddit.com/r/amateurradio/comments/1u462od/is_20m_dead_right_now/)**
+by u/notajeweler
+
+**15. [Rolspoel als antenne tuning gebruiken.](https://www.reddit.com/r/amateurradio/comments/1u4l3ep/rolspoel_als_antenne_tuning_gebruiken/)**
+by u/InsideAlive8795
 
 ---
 
@@ -61,14 +61,14 @@ by u/spatula
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u077fx/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[The new shack takes shape](https://www.reddit.com/r/amateurradio/comments/1u3et65/the_new_shack_takes_shape/)** (r/amateurradio)
-- **[My Experience with LDG Electronics Repair Service](https://www.reddit.com/r/amateurradio/comments/1u3kcgd/my_experience_with_ldg_electronics_repair_service/)** (r/amateurradio)
-- **[Hi everyone just wondering because im crap at soldering can u add just...](https://www.reddit.com/r/amateurradio/comments/1u3upep/hi_everyone_just_wondering_because_im_crap_at/)** (r/amateurradio)
-- **[ISED Proposes Major Changes to Antenna Tower Policy: What Canadian Ama...](https://www.reddit.com/r/amateurradio/comments/1u3s1y1/ised_proposes_major_changes_to_antenna_tower/)** (r/amateurradio)
-- **[Non-announcements from Icom on the new ID-5200 - will come in two mode...](https://www.reddit.com/r/amateurradio/comments/1u3pdzh/nonannouncements_from_icom_on_the_new_id5200_will/)** (r/amateurradio)
-- **[First multiband antenna](https://www.reddit.com/r/amateurradio/comments/1u3wdg9/first_multiband_antenna/)** (r/amateurradio)
-- **[Help choosing antenna](https://www.reddit.com/r/amateurradio/comments/1u3t2pt/help_choosing_antenna/)** (r/amateurradio)
-- **[Odd transmission on 20M Band in Austin](https://www.reddit.com/r/amateurradio/comments/1u38k4v/odd_transmission_on_20m_band_in_austin/)** (r/amateurradio)
+- **[Getting ready for field day!](https://www.reddit.com/r/amateurradio/comments/1u4blwu/getting_ready_for_field_day/)** (r/amateurradio)
+- **[Hiking in Oregon](https://www.reddit.com/r/amateurradio/comments/1u4f73b/hiking_in_oregon/)** (r/amateurradio)
+- **[I created a tiny radio-related app for the Apple Watch](https://www.reddit.com/r/amateurradio/comments/1u4ju40/i_created_a_tiny_radiorelated_app_for_the_apple/)** (r/amateurradio)
+- **[6m dipole with no balun. Think it'll be fine for vhf contest?](https://www.reddit.com/r/amateurradio/comments/1u4drr0/6m_dipole_with_no_balun_think_itll_be_fine_for/)** (r/amateurradio)
+- **[Ham Radio Windows Toolkit - Installation Wizard](https://www.reddit.com/r/amateurradio/comments/1u4jol1/ham_radio_windows_toolkit_installation_wizard/)** (r/amateurradio)
+- **[Producing a local maryland hamfest - Jun 21 2026](https://www.reddit.com/r/amateurradio/comments/1u4oifn/producing_a_local_maryland_hamfest_jun_21_2026/)** (r/amateurradio)
+- **[Just found this](https://www.reddit.com/r/amateurradio/comments/1u3xmov/just_found_this/)** (r/amateurradio)
+- **[Field Day! What's your plan?](https://www.reddit.com/r/amateurradio/comments/1u4hclm/field_day_whats_your_plan/)** (r/amateurradio)
 
 ---
 

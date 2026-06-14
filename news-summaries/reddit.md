@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-13 12:27 UTC*
+*Last updated: 2026-06-14 13:02 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Getting ready for field day!](https://www.reddit.com/r/amateurradio/comments/1u4blwu/getting_ready_for_field_day/)**
-by u/dippityshat
+**3. [I bought an expensive math-doing box for myself on my birthing anniversary. No d...](https://www.reddit.com/r/amateurradio/comments/1u574as/i_bought_an_expensive_mathdoing_box_for_myself_on/)**
+by u/inquirewue
 
-**4. [Hiking in Oregon](https://www.reddit.com/r/amateurradio/comments/1u4f73b/hiking_in_oregon/)**
-by u/sergeantpotato1
+**4. [Passed Amateur Extra](https://www.reddit.com/r/amateurradio/comments/1u54ako/passed_amateur_extra/)**
+by u/MentalEggplant9275
 
-**5. [I created a tiny radio-related app for the Apple Watch](https://www.reddit.com/r/amateurradio/comments/1u4ju40/i_created_a_tiny_radiorelated_app_for_the_apple/)**
-by u/scottearle
+**5. [$2.59USD from a flea market!](https://www.reddit.com/r/amateurradio/comments/1u5b7ht/259usd_from_a_flea_market/)**
+by u/Exotic-Snow-7505
 
-**6. [6m dipole with no balun. Think it'll be fine for vhf contest?](https://www.reddit.com/r/amateurradio/comments/1u4drr0/6m_dipole_with_no_balun_think_itll_be_fine_for/)**
-by u/n0fumar
+**6. [Mini ugly balun for my go-bag](https://www.reddit.com/r/amateurradio/comments/1u576ho/mini_ugly_balun_for_my_gobag/)**
+by u/Active_Emu_845
 
-**7. [Ham Radio Windows Toolkit - Installation Wizard](https://www.reddit.com/r/amateurradio/comments/1u4jol1/ham_radio_windows_toolkit_installation_wizard/)**
-by u/noakmilo
+**7. [Just passed my technician exam!!](https://www.reddit.com/r/amateurradio/comments/1u4ysgw/just_passed_my_technician_exam/)**
+by u/NumerousProfiles17
 
-**8. [Producing a local maryland hamfest - Jun 21 2026](https://www.reddit.com/r/amateurradio/comments/1u4oifn/producing_a_local_maryland_hamfest_jun_21_2026/)**
-by u/Top_Conversation_793
+**8. [Trying to design 125Khz Large Antenna Driver](https://www.reddit.com/r/amateurradio/comments/1u5hw0t/trying_to_design_125khz_large_antenna_driver/)**
+by u/Fair_Mission_3323
 
-**9. [Just found this](https://www.reddit.com/r/amateurradio/comments/1u3xmov/just_found_this/)**
-by u/TheOriginalErewego
+**9. [The muggles are noticing that this is a VHF contest weekend](https://www.reddit.com/r/amateurradio/comments/1u4zznq/the_muggles_are_noticing_that_this_is_a_vhf/)**
+by u/MikeTheActuary
 
-**10. [Field Day! What's your plan?](https://www.reddit.com/r/amateurradio/comments/1u4hclm/field_day_whats_your_plan/)**
-by u/Zombie_Jim
+**10. [Anybody in the WNC/E TN area know what the hell’s going on w/ 144.200?](https://www.reddit.com/r/amateurradio/comments/1u51xst/anybody_in_the_wnce_tn_area_know_what_the_hells/)**
+by u/KhyberPasshole
 
-**11. [Ham Radio blue water cruising](https://www.reddit.com/r/amateurradio/comments/1u4n11j/ham_radio_blue_water_cruising/)**
-by u/Wandering_Pirate86
+**11. [What kind of radio is this?](https://www.reddit.com/r/amateurradio/comments/1u4yn4n/what_kind_of_radio_is_this/)**
+by u/Docfinkelstein
 
-**12. [Yaesu FTDX101MP - saving ATU adjustment separately for Antenna 1 & 2 possible?](https://www.reddit.com/r/amateurradio/comments/1u4mfop/yaesu_ftdx101mp_saving_atu_adjustment_separately/)**
-by u/Ornery-Selection-231
+**12. [Study tips for the Technician Exam](https://www.reddit.com/r/amateurradio/comments/1u59zjt/study_tips_for_the_technician_exam/)**
+by u/Michael-jikk
 
-**13. [My new ZOYI ZT-706S with AI. How to improve your measurement experience.](https://www.reddit.com/r/amateurradio/comments/1u4m4dq/my_new_zoyi_zt706s_with_ai_how_to_improve_your/)**
-by u/ComprehensiveTown15
+**13. [Sunday morning wakeup - Mr. N4TAT on 14.313](https://www.reddit.com/r/amateurradio/comments/1u5jmg2/sunday_morning_wakeup_mr_n4tat_on_14313/)**
+by u/untraceable-tortoise
 
-**14. [Is 20m dead right now?](https://www.reddit.com/r/amateurradio/comments/1u462od/is_20m_dead_right_now/)**
-by u/notajeweler
+**14. [Playing CW and…..](https://www.reddit.com/r/amateurradio/comments/1u4xgf8/playing_cw_and/)**
+by u/Small_Consequence320
 
-**15. [Rolspoel als antenne tuning gebruiken.](https://www.reddit.com/r/amateurradio/comments/1u4l3ep/rolspoel_als_antenne_tuning_gebruiken/)**
-by u/InsideAlive8795
+**15. [Pile-up sourpusses?](https://www.reddit.com/r/amateurradio/comments/1u50zyw/pileup_sourpusses/)**
+by u/MilwaukeeMax
 
 ---
 
@@ -61,14 +61,14 @@ by u/InsideAlive8795
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u077fx/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Getting ready for field day!](https://www.reddit.com/r/amateurradio/comments/1u4blwu/getting_ready_for_field_day/)** (r/amateurradio)
-- **[Hiking in Oregon](https://www.reddit.com/r/amateurradio/comments/1u4f73b/hiking_in_oregon/)** (r/amateurradio)
-- **[I created a tiny radio-related app for the Apple Watch](https://www.reddit.com/r/amateurradio/comments/1u4ju40/i_created_a_tiny_radiorelated_app_for_the_apple/)** (r/amateurradio)
-- **[6m dipole with no balun. Think it'll be fine for vhf contest?](https://www.reddit.com/r/amateurradio/comments/1u4drr0/6m_dipole_with_no_balun_think_itll_be_fine_for/)** (r/amateurradio)
-- **[Ham Radio Windows Toolkit - Installation Wizard](https://www.reddit.com/r/amateurradio/comments/1u4jol1/ham_radio_windows_toolkit_installation_wizard/)** (r/amateurradio)
-- **[Producing a local maryland hamfest - Jun 21 2026](https://www.reddit.com/r/amateurradio/comments/1u4oifn/producing_a_local_maryland_hamfest_jun_21_2026/)** (r/amateurradio)
-- **[Just found this](https://www.reddit.com/r/amateurradio/comments/1u3xmov/just_found_this/)** (r/amateurradio)
-- **[Field Day! What's your plan?](https://www.reddit.com/r/amateurradio/comments/1u4hclm/field_day_whats_your_plan/)** (r/amateurradio)
+- **[I bought an expensive math-doing box for myself on my birthing anniver...](https://www.reddit.com/r/amateurradio/comments/1u574as/i_bought_an_expensive_mathdoing_box_for_myself_on/)** (r/amateurradio)
+- **[Passed Amateur Extra](https://www.reddit.com/r/amateurradio/comments/1u54ako/passed_amateur_extra/)** (r/amateurradio)
+- **[$2.59USD from a flea market!](https://www.reddit.com/r/amateurradio/comments/1u5b7ht/259usd_from_a_flea_market/)** (r/amateurradio)
+- **[Mini ugly balun for my go-bag](https://www.reddit.com/r/amateurradio/comments/1u576ho/mini_ugly_balun_for_my_gobag/)** (r/amateurradio)
+- **[Just passed my technician exam!!](https://www.reddit.com/r/amateurradio/comments/1u4ysgw/just_passed_my_technician_exam/)** (r/amateurradio)
+- **[Trying to design 125Khz Large Antenna Driver](https://www.reddit.com/r/amateurradio/comments/1u5hw0t/trying_to_design_125khz_large_antenna_driver/)** (r/amateurradio)
+- **[The muggles are noticing that this is a VHF contest weekend](https://www.reddit.com/r/amateurradio/comments/1u4zznq/the_muggles_are_noticing_that_this_is_a_vhf/)** (r/amateurradio)
+- **[Anybody in the WNC/E TN area know what the hell’s going on w/ 144.200?](https://www.reddit.com/r/amateurradio/comments/1u51xst/anybody_in_the_wnce_tn_area_know_what_the_hells/)** (r/amateurradio)
 
 ---
 

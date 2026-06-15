@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-06-08 15:33 UTC*
+*Last updated: 2026-06-15 17:02 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| 5th month function kaga varshini Enaku Mehandi pot... | Soundarya with varsh | 3,453,409 | 2026-06-06 |
-| Na vathu ethu mela ara pota ippa break aga poguthu... | Voice of Santhosh | 1,094,275 | 2026-06-05 |
-| Tx to UT #hobby #hamradio #morsecode #hamradiolife... | Hobby Steve  | 473,965 | 2026-06-05 |
-| Naushad ko sota hi dra deta owl 🦉😂🤣😱#comedy #funny... | Minivines7860 | 470,262 | 2026-06-03 |
-| Har Maa ki same Problem sota hua baap #comedy #par... | PRATEEK BHARDWAJ | 418,472 | 2026-06-02 |
-| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 370,365 | 2026-06-04 |
-| Kya Aapko Yaad Hai? 90's Me Pura Parivaar Chhat Pa... | 90s Samay | 271,537 | 2026-06-02 |
-| Piyush Sabse Jyada Sota Hai😂 #piyushjoshi #souravj... | Sourav Joshi Infinit | 232,529 | 2026-06-04 |
-| Smart PTT Sim Card Two-Way Radios | Smart PTT South Afri | 204,818 | 2026-06-04 |
-| Secepat Apa Operator Kode Morse!😲 | loksa channel98 | 150,239 | 2026-06-07 |
-| Dada & Pota Raw Podcast on Content Creation Journe... | Shallu Nisha Podcast | 147,284 | 2026-06-03 |
-| Share to family ! Dada pota love #cricket #dadaji ... | MAHAVIR SPORTS  | 142,992 | 2026-06-05 |
-| 👴👦 Dada-Pota Ki iPhone Lottery! | #indiantheftauto | K90 GAMING  | 128,581 | 2026-06-06 |
-| बेचारे भईया 🫣😂🤣 #funny #comedy #comedy #baghelicom... | Prabhakar Vishwakarm | 117,616 | 2026-06-04 |
-| Sardar Ji Golu Bhai Ka Pota Kaleji Aur Chicken Mas... | ticket2 explore | 87,741 | 2026-06-05 |
-| पोटा कलेजी बनाए बिल्कुल नए तरीके से | pota Kaleji | Priyanka Ki Rasoi | 75,388 | 2026-06-04 |
-| SOTA HANAMURA /「Lose」Music Video | Da-iCE | 73,550 | 2026-06-03 |
-| QUI EST LE PLUS IDIOT DE LA CACABOX ? 🫵😂 (ft.Pota,... | Hugo Délire | 71,741 | 2026-06-06 |
-| Chath Par Sota Hua Raat Ko Barish AA Gayi | Villag... | Elegant Girls😎👠 | 70,270 | 2026-06-06 |
-| Main AC wale kamre Mein Nahin sota | Mufti Tariq M... | MTM Bayanat | 64,346 | 2026-06-04 |
-| 【 BE:FIRST 】 SOTA ' Rondo ' Dance Practice #BEFIRS... | まる【 BE:FIRST 切り抜き】 | 59,449 | 2026-06-02 |
-| ek restaurant ke bahar likha tha bill aapka pota d... | sa_rider_0 | 58,174 | 2026-06-03 |
-| Menin SOTAAN Hardcore Minecraft Palvelimella | Kreindal | 51,577 | 2026-06-06 |
-| On my bucket list #hamradio #hobby #military #expe... | Hobby Steve  | 38,001 | 2026-06-03 |
-| US License Warning To Modi Govt: End to Russian Oi... | Satya Hindi सत्य हिन | 32,636 | 2026-06-03 |
+| Cool Morse Code Trainer #hamradiooperator #morseco... | The Radio Zoomer | 8,853,176 | 2026-06-10 |
+| HUM CHALE APNE POTA POTI SE MILNE❤️ | SHEELA KE SHANKAR | 756,068 | 2026-06-10 |
+| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 414,466 | 2026-06-09 |
+| Kon kon aise sota hai? #sutharsisters #youtubeshor... | Suthar Sisters | 395,077 | 2026-06-14 |
+| Bhul pota Chola korasi pap কাঁঠাল ~Jackfruit #gojo... | AUTO BANGLA  | 385,058 | 2026-06-14 |
+| Itna koun sota hai maaa #shorts #shortvideos #mini... | Kamlesh vlog  | 209,524 | 2026-06-14 |
+| दादा 20 पोता 30 [ New Comedy ]Binesar chacha ke po... | BEROJGAR COMEDY 112  | 173,658 | 2026-06-12 |
+| SOTAとRYUHEIがフリースタイルを踊る#BEFIRST | NINA_BESTY | 169,473 | 2026-06-14 |
+| Принуждали, голосовали, теперь в жопе! Россияне о ... | sotavision | 161,820 | 2026-06-10 |
+| Here is where it started! #Hamradio #hobby #howitw... | Hobby Steve  | 130,442 | 2026-06-15 |
+| LE PIRE DES CONFÉRENCES DE 2026 ! 🤣 (ft.Terra, Pot... | Hugo Délire | 125,668 | 2026-06-13 |
+| Hudsonville Hamfest #chrisboden #comedy #engineeri... | Chris Boden | 120,706 | 2026-06-11 |
+| Skywarn  #chrisboden #comedy #educational #science... | Chris Boden | 119,027 | 2026-06-13 |
+| Tau Pota Train Comedy | Viral Short#TauPota #Train... | Unknown Journey | 114,193 | 2026-06-14 |
+| dadi Ko pota ki koshish 🥰🥳#keshavshashivlogs#famil... | keshav Shashi viral  | 104,504 | 2026-06-10 |
+| TX to AZ Container antenna! #hobby #hamradio #hamr... | Hobby Steve  | 97,730 | 2026-06-13 |
+| milagai killi pota sambar,potato fry,manga sebian,... | Mom And Daughter | 97,336 | 2026-06-13 |
+| Pota Ketakutan! Terjebak di Jalan Rahasia Serigala... | Marbel - Learning To | 95,093 | 2026-06-13 |
+| Top 6 cid actor | Actress ki favourite pota || New... | CID HERO SHORT VIDEO | 81,218 | 2026-06-13 |
+| Soto sota 3Ta Umbrella fun 🤩 #shorts | Badrul Shorts  | 64,159 | 2026-06-10 |
+| Pota chala gaya apna bag pack karke #ytshorts #min... | Rajasthan Wali Dadi | 63,377 | 2026-06-13 |
+| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 62,984 | 2026-06-13 |
+| Learn #0 in Morse Code #hamradio #hamradiooperator... | The Radio Zoomer | 54,529 | 2026-06-09 |
+| New Key from Palm Radio #morsecode #hamradio #hobb... | Radio Roamers | 49,970 | 2026-06-11 |
+| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Jinisha  | 48,699 | 2026-06-11 |
 
 ---
 
@@ -42,14 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (32 videos)
-- **License/Learning**: ████████████████████ (24 videos)
-- **HF Operating**: ██████████████████ (18 videos)
-- **Antennas**: ██████████████████ (18 videos)
-- **Gear Reviews**: ███████████ (11 videos)
-- **QRP**: ███████ (7 videos)
-- **Digital Modes**: █████ (5 videos)
-- **Contests**: █ (1 videos)
+- **POTA/Portable**: ████████████████████ (30 videos)
+- **License/Learning**: ████████████████████ (30 videos)
+- **HF Operating**: ███████████████████ (19 videos)
+- **Antennas**: ███████████████ (15 videos)
+- **QRP**: █████████ (9 videos)
+- **Digital Modes**: ████████ (8 videos)
+- **Gear Reviews**: ███████ (7 videos)
 
 ---
 

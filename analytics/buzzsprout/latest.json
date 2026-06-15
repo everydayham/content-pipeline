@@ -1,6 +1,29 @@
 {
-  "updated": "2026-06-08T15:33:13.334881",
+  "updated": "2026-06-15T17:01:55.285216",
   "episodes": [
+    {
+      "id": 19328548,
+      "title": "Ep. 18 \u2013 Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/19328548-ep-18-has-pota-peaked-campfires-community-and-the-future-of-parks-on-the-air.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/v7t0lo4slfwn7pv3iu646bxea7ut",
+      "description": "<p>Ep. 18 \u2013 Has Parks on the Air hit its peak? James (K8JKU), Jim (N8JRD), and Rory (W8KNX) debate the future of POTA, from its explosive growth to what the declining solar cycle means for portable operators, and whether the program is in its twilight or just entering its golden years.</p><p>The conversation comes fresh off the Third Annual Michigan POTA Meetup, where the guys spent a weekend camping, activating, and sharing campfire stories with about 70 POTA enthusiasts at Hartwick Pines State Park. They talk about what actually brings hams together, why community is the best part of this hobby, and how to find or start a meetup in your own area.</p><p>Also in this episode: the Everyday Ham merch store is officially live at everydayham.com, a Hamvention attendance stat correction, shout-outs to Penn (AC8XI) and Rob (N1RWJ), and around the shack updates from all three hosts.</p><p>Learn more about the meetup at michiganpotameetup.com, and if you love POTA, consider donating at parksontheair.com.</p><p>Don't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel at @EverydayHam.</p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "everyday ham, ham radio, amateur radio, parks on the air, POTA, michigan pota meetup, pota meetup, ham radio podcast, hartwick pines state park, pota activation, ham radio community, portable ham radio, hamvention 2026, solar cycle ham radio, new ham radi",
+      "published_at": "2026-06-11T09:00:00.000-04:00",
+      "duration": 3475,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-19328548",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": 18,
+      "season_number": 2,
+      "episode_type": "full",
+      "explicit": false,
+      "private": false,
+      "total_plays": 521
+    },
     {
       "id": 19219333,
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 854
+      "total_plays": 931
     },
     {
       "id": 19138519,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 788
+      "total_plays": 803
     },
     {
       "id": 18980854,
@@ -68,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 873
+      "total_plays": 883
     },
     {
       "id": 18903785,
@@ -91,7 +114,7 @@
       "episode_type": "bonus",
       "explicit": false,
       "private": false,
-      "total_plays": 805
+      "total_plays": 813
     },
     {
       "id": 18794950,
@@ -114,7 +137,7 @@
       "episode_type": "full",
       "explicit": true,
       "private": false,
-      "total_plays": 960
+      "total_plays": 970
     },
     {
       "id": 18629581,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1112
+      "total_plays": 1129
     },
     {
       "id": 18470399,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1144
+      "total_plays": 1161
     },
     {
       "id": 18296133,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1081
+      "total_plays": 1083
     },
     {
       "id": 18131359,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 853
+      "total_plays": 861
     },
     {
       "id": 17980624,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 892
+      "total_plays": 894
     },
     {
       "id": 17915090,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 700
+      "total_plays": 702
     },
     {
       "id": 17760784,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 898
+      "total_plays": 902
     },
     {
       "id": 17726132,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 657
+      "total_plays": 660
     },
     {
       "id": 17625014,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 685
+      "total_plays": 690
     },
     {
       "id": 17571459,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 621
+      "total_plays": 624
     },
     {
       "id": 17441669,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 754
+      "total_plays": 756
     },
     {
       "id": 17282578,
@@ -390,7 +413,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 617
+      "total_plays": 620
     },
     {
       "id": 17198150,
@@ -413,7 +436,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 540
+      "total_plays": 542
     },
     {
       "id": 17122535,
@@ -436,7 +459,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 505
+      "total_plays": 507
     },
     {
       "id": 16912708,
@@ -459,7 +482,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 605
+      "total_plays": 610
     },
     {
       "id": 16745714,
@@ -482,7 +505,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 507
+      "total_plays": 510
     },
     {
       "id": 16574585,
@@ -505,7 +528,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 509
+      "total_plays": 511
     },
     {
       "id": 16408083,
@@ -528,7 +551,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 514
+      "total_plays": 517
     }
   ]
 }

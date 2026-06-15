@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-14 13:02 UTC*
+*Last updated: 2026-06-15 16:18 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u077fx/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u6fxmk/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [I bought an expensive math-doing box for myself on my birthing anniversary. No d...](https://www.reddit.com/r/amateurradio/comments/1u574as/i_bought_an_expensive_mathdoing_box_for_myself_on/)**
-by u/inquirewue
+**3. [Found at a Pasadena CA, flee market](https://www.reddit.com/r/amateurradio/comments/1u620yy/found_at_a_pasadena_ca_flee_market/)**
+by u/tue-George
 
-**4. [Passed Amateur Extra](https://www.reddit.com/r/amateurradio/comments/1u54ako/passed_amateur_extra/)**
-by u/MentalEggplant9275
+**4. [I pride myself on operating anywhere.](https://www.reddit.com/r/amateurradio/comments/1u6jv85/i_pride_myself_on_operating_anywhere/)**
+by u/Historical-Risk-
 
-**5. [$2.59USD from a flea market!](https://www.reddit.com/r/amateurradio/comments/1u5b7ht/259usd_from_a_flea_market/)**
-by u/Exotic-Snow-7505
+**5. [Found this bad boy on a garage sale](https://www.reddit.com/r/amateurradio/comments/1u5tump/found_this_bad_boy_on_a_garage_sale/)**
+by u/felixzer0
 
-**6. [Mini ugly balun for my go-bag](https://www.reddit.com/r/amateurradio/comments/1u576ho/mini_ugly_balun_for_my_gobag/)**
-by u/Active_Emu_845
+**6. [Passed my General and Amateur Extra today](https://www.reddit.com/r/amateurradio/comments/1u6114d/passed_my_general_and_amateur_extra_today/)**
+by u/kyrimasan
 
-**7. [Just passed my technician exam!!](https://www.reddit.com/r/amateurradio/comments/1u4ysgw/just_passed_my_technician_exam/)**
-by u/NumerousProfiles17
+**7. [Has anyone done a mast from a gooseneck ball?](https://www.reddit.com/r/amateurradio/comments/1u6i41f/has_anyone_done_a_mast_from_a_gooseneck_ball/)**
+by u/Tgambob
 
-**8. [Trying to design 125Khz Large Antenna Driver](https://www.reddit.com/r/amateurradio/comments/1u5hw0t/trying_to_design_125khz_large_antenna_driver/)**
-by u/Fair_Mission_3323
+**8. [Does anyone know anything about these?](https://www.reddit.com/r/amateurradio/comments/1u6gedv/does_anyone_know_anything_about_these/)**
+by u/tempacct987321
 
-**9. [The muggles are noticing that this is a VHF contest weekend](https://www.reddit.com/r/amateurradio/comments/1u4zznq/the_muggles_are_noticing_that_this_is_a_vhf/)**
-by u/MikeTheActuary
+**9. [Bumper sticker](https://www.reddit.com/r/amateurradio/comments/1u5xyt1/bumper_sticker/)**
+by u/Whole-Hat-2213
 
-**10. [Anybody in the WNC/E TN area know what the hell’s going on w/ 144.200?](https://www.reddit.com/r/amateurradio/comments/1u51xst/anybody_in_the_wnce_tn_area_know_what_the_hells/)**
-by u/KhyberPasshole
+**10. [It was the best of times, it was the worst of times 😥](https://www.reddit.com/r/amateurradio/comments/1u67h5n/it_was_the_best_of_times_it_was_the_worst_of_times/)**
+by u/thevmcampos
 
-**11. [What kind of radio is this?](https://www.reddit.com/r/amateurradio/comments/1u4yn4n/what_kind_of_radio_is_this/)**
-by u/Docfinkelstein
+**11. [Looking for Hytera BD CPS V1.02.01.004 SA6 region and FlashBurn V5 for my BD505....](https://www.reddit.com/r/amateurradio/comments/1u6jq32/looking_for_hytera_bd_cps_v10201004_sa6_region/)**
+by u/CryptographerKind313
 
-**12. [Study tips for the Technician Exam](https://www.reddit.com/r/amateurradio/comments/1u59zjt/study_tips_for_the_technician_exam/)**
-by u/Michael-jikk
+**12. [Looking for an upgrade that isn’t $300](https://www.reddit.com/r/amateurradio/comments/1u6awnv/looking_for_an_upgrade_that_isnt_300/)**
+by u/uxcxplores
 
-**13. [Sunday morning wakeup - Mr. N4TAT on 14.313](https://www.reddit.com/r/amateurradio/comments/1u5jmg2/sunday_morning_wakeup_mr_n4tat_on_14313/)**
-by u/untraceable-tortoise
+**13. [Help with antenna setup](https://www.reddit.com/r/amateurradio/comments/1u6fjcc/help_with_antenna_setup/)**
+by u/ushanka-e-vodka
 
-**14. [Playing CW and…..](https://www.reddit.com/r/amateurradio/comments/1u4xgf8/playing_cw_and/)**
-by u/Small_Consequence320
+**14. [VHF contest in process, 2m FT8](https://www.reddit.com/r/amateurradio/comments/1u5ln8j/vhf_contest_in_process_2m_ft8/)**
+by u/SwitchedOnNow
 
-**15. [Pile-up sourpusses?](https://www.reddit.com/r/amateurradio/comments/1u50zyw/pileup_sourpusses/)**
-by u/MilwaukeeMax
+**15. [Ft991 knob repair](https://www.reddit.com/r/amateurradio/comments/1u5zv4a/ft991_knob_repair/)**
+by u/Parking_Media
 
 ---
 
@@ -59,16 +59,16 @@ by u/MilwaukeeMax
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u077fx/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u6fxmk/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[I bought an expensive math-doing box for myself on my birthing anniver...](https://www.reddit.com/r/amateurradio/comments/1u574as/i_bought_an_expensive_mathdoing_box_for_myself_on/)** (r/amateurradio)
-- **[Passed Amateur Extra](https://www.reddit.com/r/amateurradio/comments/1u54ako/passed_amateur_extra/)** (r/amateurradio)
-- **[$2.59USD from a flea market!](https://www.reddit.com/r/amateurradio/comments/1u5b7ht/259usd_from_a_flea_market/)** (r/amateurradio)
-- **[Mini ugly balun for my go-bag](https://www.reddit.com/r/amateurradio/comments/1u576ho/mini_ugly_balun_for_my_gobag/)** (r/amateurradio)
-- **[Just passed my technician exam!!](https://www.reddit.com/r/amateurradio/comments/1u4ysgw/just_passed_my_technician_exam/)** (r/amateurradio)
-- **[Trying to design 125Khz Large Antenna Driver](https://www.reddit.com/r/amateurradio/comments/1u5hw0t/trying_to_design_125khz_large_antenna_driver/)** (r/amateurradio)
-- **[The muggles are noticing that this is a VHF contest weekend](https://www.reddit.com/r/amateurradio/comments/1u4zznq/the_muggles_are_noticing_that_this_is_a_vhf/)** (r/amateurradio)
-- **[Anybody in the WNC/E TN area know what the hell’s going on w/ 144.200?](https://www.reddit.com/r/amateurradio/comments/1u51xst/anybody_in_the_wnce_tn_area_know_what_the_hells/)** (r/amateurradio)
+- **[Found at a Pasadena CA, flee market](https://www.reddit.com/r/amateurradio/comments/1u620yy/found_at_a_pasadena_ca_flee_market/)** (r/amateurradio)
+- **[I pride myself on operating anywhere.](https://www.reddit.com/r/amateurradio/comments/1u6jv85/i_pride_myself_on_operating_anywhere/)** (r/amateurradio)
+- **[Found this bad boy on a garage sale](https://www.reddit.com/r/amateurradio/comments/1u5tump/found_this_bad_boy_on_a_garage_sale/)** (r/amateurradio)
+- **[Passed my General and Amateur Extra today](https://www.reddit.com/r/amateurradio/comments/1u6114d/passed_my_general_and_amateur_extra_today/)** (r/amateurradio)
+- **[Has anyone done a mast from a gooseneck ball?](https://www.reddit.com/r/amateurradio/comments/1u6i41f/has_anyone_done_a_mast_from_a_gooseneck_ball/)** (r/amateurradio)
+- **[Does anyone know anything about these?](https://www.reddit.com/r/amateurradio/comments/1u6gedv/does_anyone_know_anything_about_these/)** (r/amateurradio)
+- **[Bumper sticker](https://www.reddit.com/r/amateurradio/comments/1u5xyt1/bumper_sticker/)** (r/amateurradio)
+- **[It was the best of times, it was the worst of times 😥](https://www.reddit.com/r/amateurradio/comments/1u67h5n/it_was_the_best_of_times_it_was_the_worst_of_times/)** (r/amateurradio)
 
 ---
 

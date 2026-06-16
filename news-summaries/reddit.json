@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:18:50.273087",
+  "updated": "2026-06-16T15:58:05.387210",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,24 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Found at a Pasadena CA, flee market",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u620yy/found_at_a_pasadena_ca_flee_market/",
-        "author": "/u/tue-George"
+        "title": "I found all this shit in a dumpster today. How quickly can I get chirping with boys?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6woe8/i_found_all_this_shit_in_a_dumpster_today_how/",
+        "author": "/u/Ratlabbb"
+      },
+      {
+        "title": "I am now licensed!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6ytb9/i_am_now_licensed/",
+        "author": "/u/Exotic-Snow-7505"
+      },
+      {
+        "title": "Update on my 75 ohm CATV feedline for HF",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7d98o/update_on_my_75_ohm_catv_feedline_for_hf/",
+        "author": "/u/ImaginaryDisplay599"
+      },
+      {
+        "title": "PSA: Vanity calls",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u707vy/psa_vanity_calls/",
+        "author": "/u/doktorhladnjak"
       },
       {
         "title": "I pride myself on operating anywhere.",
@@ -27,19 +42,64 @@
         "author": "/u/Historical-Risk-"
       },
       {
-        "title": "Found this bad boy on a garage sale",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5tump/found_this_bad_boy_on_a_garage_sale/",
-        "author": "/u/felixzer0"
+        "title": "Field day promotion avenues?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7d5uo/field_day_promotion_avenues/",
+        "author": "/u/CaptainSpez"
       },
       {
-        "title": "Passed my General and Amateur Extra today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6114d/passed_my_general_and_amateur_extra_today/",
-        "author": "/u/kyrimasan"
+        "title": "FT-897 losing memories and TX error, fixed",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u72j6l/ft897_losing_memories_and_tx_error_fixed/",
+        "author": "/u/darktideDay1"
       },
       {
-        "title": "Has anyone done a mast from a gooseneck ball?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6i41f/has_anyone_done_a_mast_from_a_gooseneck_ball/",
-        "author": "/u/Tgambob"
+        "title": "Six meter antenna time lapse during e-skip opening",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6rcij/six_meter_antenna_time_lapse_during_eskip_opening/",
+        "author": "/u/skillet256"
+      },
+      {
+        "title": "Antenna Ideas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7beu4/antenna_ideas/",
+        "author": "/u/TheUnkown696"
+      },
+      {
+        "title": "Best budget HF antenna for RTL-SDR in a city apartment?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7fpwl/best_budget_hf_antenna_for_rtlsdr_in_a_city/",
+        "author": "/u/nicolo_bagnasco"
+      },
+      {
+        "title": "Anybody still use eQSL.cc?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7fogh/anybody_still_use_eqslcc/",
+        "author": "/u/ItsJoeMomma"
+      },
+      {
+        "title": "What radio should I buy as a beginner technician?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7eua3/what_radio_should_i_buy_as_a_beginner_technician/",
+        "author": "/u/Agreeable-Force7065"
+      },
+      {
+        "title": "Found at a Pasadena CA, flee market",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u620yy/found_at_a_pasadena_ca_flee_market/",
+        "author": "/u/tue-George"
+      },
+      {
+        "title": "QMX help",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6zas3/qmx_help/",
+        "author": "/u/KC1PapaDrinksWhiskey"
+      },
+      {
+        "title": "Decisions decisions.....",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u702nb/decisions_decisions/",
+        "author": "/u/TheL0neHiker"
+      },
+      {
+        "title": "Can the Baofeng DM-32 (or similar) send GPS/APRS data to a phone app via Bluetooth?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7cn8c/can_the_baofeng_dm32_or_similar_send_gpsaprs_data/",
+        "author": "/u/Charming-Ad-860"
+      },
+      {
+        "title": "Update to low cost fox hunting transmitter software",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u78n69/update_to_low_cost_fox_hunting_transmitter/",
+        "author": "/u/cebess"
       },
       {
         "title": "Does anyone know anything about these?",
@@ -47,89 +107,29 @@
         "author": "/u/tempacct987321"
       },
       {
+        "title": "Has anyone done a mast from a gooseneck ball?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6i41f/has_anyone_done_a_mast_from_a_gooseneck_ball/",
+        "author": "/u/Tgambob"
+      },
+      {
+        "title": "Not really any 2m action near me, next steps?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6mi33/not_really_any_2m_action_near_me_next_steps/",
+        "author": "/u/streetwarpig"
+      },
+      {
+        "title": "Passed my General and Amateur Extra today",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6114d/passed_my_general_and_amateur_extra_today/",
+        "author": "/u/kyrimasan"
+      },
+      {
+        "title": "Found this bad boy on a garage sale",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u5tump/found_this_bad_boy_on_a_garage_sale/",
+        "author": "/u/felixzer0"
+      },
+      {
         "title": "Bumper sticker",
         "link": "https://www.reddit.com/r/amateurradio/comments/1u5xyt1/bumper_sticker/",
         "author": "/u/Whole-Hat-2213"
-      },
-      {
-        "title": "It was the best of times, it was the worst of times \ud83d\ude25",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u67h5n/it_was_the_best_of_times_it_was_the_worst_of_times/",
-        "author": "/u/thevmcampos"
-      },
-      {
-        "title": "Looking for Hytera BD CPS V1.02.01.004 SA6 region and FlashBurn V5 for my BD505. Firmware is V1.02.10.001. Anyone able to help?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6jq32/looking_for_hytera_bd_cps_v10201004_sa6_region/",
-        "author": "/u/CryptographerKind313"
-      },
-      {
-        "title": "Looking for an upgrade that isn\u2019t $300",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6awnv/looking_for_an_upgrade_that_isnt_300/",
-        "author": "/u/uxcxplores"
-      },
-      {
-        "title": "Help with antenna setup",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6fjcc/help_with_antenna_setup/",
-        "author": "/u/ushanka-e-vodka"
-      },
-      {
-        "title": "VHF contest in process, 2m FT8",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5ln8j/vhf_contest_in_process_2m_ft8/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "Ft991 knob repair",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5zv4a/ft991_knob_repair/",
-        "author": "/u/Parking_Media"
-      },
-      {
-        "title": "Let\u2019s see some pics of your VHF station for the weekend!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5ls3j/lets_see_some_pics_of_your_vhf_station_for_the/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "Question regarding old radios (SCR 300, SCR 536, or PRC 10)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u64sof/question_regarding_old_radios_scr_300_scr_536_or/",
-        "author": "/u/Glum-Contribution380"
-      },
-      {
-        "title": "EAS Station\u2122 \u2013 Open-Source Software-Defined Emergency Alert System",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6cwse/eas_station_opensource_softwaredefined_emergency/",
-        "author": "/u/k8tek"
-      },
-      {
-        "title": "I bought an expensive math-doing box for myself on my birthing anniversary. No duplexer or filter will go untuned.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u574as/i_bought_an_expensive_mathdoing_box_for_myself_on/",
-        "author": "/u/inquirewue"
-      },
-      {
-        "title": "$2.59USD from a flea market!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5b7ht/259usd_from_a_flea_market/",
-        "author": "/u/Exotic-Snow-7505"
-      },
-      {
-        "title": "I built a program to replace the Canadian government's amateur radio practice exam generator",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5xmyy/i_built_a_program_to_replace_the_canadian/",
-        "author": "/u/DiodeInc"
-      },
-      {
-        "title": "Passed Amateur Extra",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u54ako/passed_amateur_extra/",
-        "author": "/u/MentalEggplant9275"
-      },
-      {
-        "title": "Using the Pi Pico2 HSTX + PWM for polar modulation",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5pgw5/using_the_pi_pico2_hstx_pwm_for_polar_modulation/",
-        "author": "/u/Unusual_Maize5369"
-      },
-      {
-        "title": "Beginner with all the gear and no idea",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5mo2c/beginner_with_all_the_gear_and_no_idea/",
-        "author": "/u/AdminDogg"
-      },
-      {
-        "title": "\u0441 \u0447\u0435\u0433\u043e \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0430\u0442\u044c \u0432 \u0440\u0430\u0434\u0438\u043e\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6dx4w/\u0441_\u0447\u0435\u0433\u043e_\u043c\u043e\u0436\u043d\u043e_\u043d\u0430\u0447\u0430\u0442\u044c_\u0432_\u0440\u0430\u0434\u0438\u043e\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435/",
-        "author": "/u/c01lkidd"
       }
     ]
   }

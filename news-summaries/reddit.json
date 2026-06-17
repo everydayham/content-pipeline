@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T15:58:05.387210",
+  "updated": "2026-06-17T14:26:13.332309",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,69 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Sad hams think that my organizations radios and meshtastic devices are illegal",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u86yf0/sad_hams_think_that_my_organizations_radios_and/",
+        "author": "/u/Straight-Sherbert604"
+      },
+      {
+        "title": "iOS app to remote control your radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u89ww1/ios_app_to_remote_control_your_radio/",
+        "author": "/u/k3sbp"
+      },
+      {
+        "title": "Regarding QRP rigs",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u876hk/regarding_qrp_rigs/",
+        "author": "/u/DeGamiesaiKaiSy"
+      },
+      {
+        "title": "European Hams : where to find LiFePO4 battery ?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u86czh/european_hams_where_to_find_lifepo4_battery/",
+        "author": "/u/Gr3y4nt"
+      },
+      {
+        "title": "Remote FT8/FT4 without VPNs, audio streaming - working on a simple solution, need a sanity check",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u8b0bi/remote_ft8ft4_without_vpns_audio_streaming/",
+        "author": "/u/andybrandt"
+      },
+      {
+        "title": "Looking for a 1:1 Choke Balun for a 433 MHz Loop Yagi",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u88yc5/looking_for_a_11_choke_balun_for_a_433_mhz_loop/",
+        "author": "/u/Kerbineer"
+      },
+      {
+        "title": "COMTray - A light, Open-Source tool to always know what port your programming cable has (Windows only for now).",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u88fod/comtray_a_light_opensource_tool_to_always_know/",
+        "author": "/u/LinuxIsFree"
+      },
+      {
+        "title": "Outbacker antenna mount",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7sltr/outbacker_antenna_mount/",
+        "author": "/u/Whole-Hat-2213"
+      },
+      {
+        "title": "Is the Glow Good or Bad?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u8bogq/is_the_glow_good_or_bad/",
+        "author": "/u/Flashy_Gas9955"
+      },
+      {
+        "title": "How easy is it to transmit data over HF or VHF?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7phf9/how_easy_is_it_to_transmit_data_over_hf_or_vhf/",
+        "author": "/u/GoodDogBrent"
+      },
+      {
+        "title": "Ayuda colocando mi nagoya ut 72 en el balcon para recibir VHF UHF con rtl sdr sin perdidas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u82ksy/ayuda_colocando_mi_nagoya_ut_72_en_el_balcon_para/",
+        "author": "/u/Glum_Finish5509"
+      },
+      {
+        "title": "OEM battery on my used commercial DMR fell off a cliff at the 2-year mark, the aftermarket replacements have been disappointing",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u82jkd/oem_battery_on_my_used_commercial_dmr_fell_off_a/",
+        "author": "/u/JasonReed1"
+      },
+      {
         "title": "I found all this shit in a dumpster today. How quickly can I get chirping with boys?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1u6woe8/i_found_all_this_shit_in_a_dumpster_today_how/",
         "author": "/u/Ratlabbb"
-      },
-      {
-        "title": "I am now licensed!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6ytb9/i_am_now_licensed/",
-        "author": "/u/Exotic-Snow-7505"
       },
       {
         "title": "Update on my 75 ohm CATV feedline for HF",
@@ -32,104 +87,49 @@
         "author": "/u/ImaginaryDisplay599"
       },
       {
-        "title": "PSA: Vanity calls",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u707vy/psa_vanity_calls/",
-        "author": "/u/doktorhladnjak"
+        "title": "Flexible conduit instead of grey pvc (buried coax)?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u84nus/flexible_conduit_instead_of_grey_pvc_buried_coax/",
+        "author": "/u/QuickRefresher"
       },
       {
-        "title": "I pride myself on operating anywhere.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6jv85/i_pride_myself_on_operating_anywhere/",
-        "author": "/u/Historical-Risk-"
+        "title": "I am now licensed!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u6ytb9/i_am_now_licensed/",
+        "author": "/u/Exotic-Snow-7505"
       },
       {
-        "title": "Field day promotion avenues?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7d5uo/field_day_promotion_avenues/",
-        "author": "/u/CaptainSpez"
+        "title": "2M 70cm RFI in car",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7vu9v/2m_70cm_rfi_in_car/",
+        "author": "/u/CrappyGamingXD"
       },
       {
-        "title": "FT-897 losing memories and TX error, fixed",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u72j6l/ft897_losing_memories_and_tx_error_fixed/",
-        "author": "/u/darktideDay1"
+        "title": "My T-02 isolation transformer attenuates VLF signals too much",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7rvmj/my_t02_isolation_transformer_attenuates_vlf/",
+        "author": "/u/_philipus"
       },
       {
-        "title": "Six meter antenna time lapse during e-skip opening",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6rcij/six_meter_antenna_time_lapse_during_eskip_opening/",
-        "author": "/u/skillet256"
+        "title": "What are the difference's for the radioddity gs10b",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u829t5/what_are_the_differences_for_the_radioddity_gs10b/",
+        "author": "/u/Final-Teaching-4969"
       },
       {
-        "title": "Antenna Ideas",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7beu4/antenna_ideas/",
-        "author": "/u/TheUnkown696"
+        "title": "Another callsign question: 30 days after SK cancellation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7n784/another_callsign_question_30_days_after_sk/",
+        "author": "/u/MentalEggplant9275"
       },
       {
-        "title": "Best budget HF antenna for RTL-SDR in a city apartment?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7fpwl/best_budget_hf_antenna_for_rtlsdr_in_a_city/",
-        "author": "/u/nicolo_bagnasco"
+        "title": "My last activation June 6th @ US-10658",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7k5cd/my_last_activation_june_6th_us10658/",
+        "author": "/u/Josefius"
       },
       {
-        "title": "Anybody still use eQSL.cc?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7fogh/anybody_still_use_eqslcc/",
-        "author": "/u/ItsJoeMomma"
+        "title": "Repair services Dallas TX area",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7r9ok/repair_services_dallas_tx_area/",
+        "author": "/u/TexasAtari214"
       },
       {
-        "title": "What radio should I buy as a beginner technician?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7eua3/what_radio_should_i_buy_as_a_beginner_technician/",
-        "author": "/u/Agreeable-Force7065"
-      },
-      {
-        "title": "Found at a Pasadena CA, flee market",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u620yy/found_at_a_pasadena_ca_flee_market/",
-        "author": "/u/tue-George"
-      },
-      {
-        "title": "QMX help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6zas3/qmx_help/",
-        "author": "/u/KC1PapaDrinksWhiskey"
-      },
-      {
-        "title": "Decisions decisions.....",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u702nb/decisions_decisions/",
-        "author": "/u/TheL0neHiker"
-      },
-      {
-        "title": "Can the Baofeng DM-32 (or similar) send GPS/APRS data to a phone app via Bluetooth?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u7cn8c/can_the_baofeng_dm32_or_similar_send_gpsaprs_data/",
-        "author": "/u/Charming-Ad-860"
-      },
-      {
-        "title": "Update to low cost fox hunting transmitter software",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u78n69/update_to_low_cost_fox_hunting_transmitter/",
-        "author": "/u/cebess"
-      },
-      {
-        "title": "Does anyone know anything about these?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6gedv/does_anyone_know_anything_about_these/",
-        "author": "/u/tempacct987321"
-      },
-      {
-        "title": "Has anyone done a mast from a gooseneck ball?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6i41f/has_anyone_done_a_mast_from_a_gooseneck_ball/",
-        "author": "/u/Tgambob"
-      },
-      {
-        "title": "Not really any 2m action near me, next steps?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6mi33/not_really_any_2m_action_near_me_next_steps/",
-        "author": "/u/streetwarpig"
-      },
-      {
-        "title": "Passed my General and Amateur Extra today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u6114d/passed_my_general_and_amateur_extra_today/",
-        "author": "/u/kyrimasan"
-      },
-      {
-        "title": "Found this bad boy on a garage sale",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5tump/found_this_bad_boy_on_a_garage_sale/",
-        "author": "/u/felixzer0"
-      },
-      {
-        "title": "Bumper sticker",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1u5xyt1/bumper_sticker/",
-        "author": "/u/Whole-Hat-2213"
+        "title": "r/EmergencyManagement: Thoughts on amateur radio!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1u7r1jy/remergencymanagement_thoughts_on_amateur_radio/",
+        "author": "/u/autistic_psycho"
       }
     ]
   }

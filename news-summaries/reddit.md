@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-17 14:26 UTC*
+*Last updated: 2026-06-18 14:11 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Sad hams think that my organizations radios and meshtastic devices are illegal](https://www.reddit.com/r/amateurradio/comments/1u86yf0/sad_hams_think_that_my_organizations_radios_and/)**
-by u/Straight-Sherbert604
+**3. [Setup my own ADS-B receiver](https://www.reddit.com/r/amateurradio/comments/1u8m05w/setup_my_own_adsb_receiver/)**
+by u/Malkozaine
 
-**4. [iOS app to remote control your radio](https://www.reddit.com/r/amateurradio/comments/1u89ww1/ios_app_to_remote_control_your_radio/)**
+**4. [Just passed Tech & General](https://www.reddit.com/r/amateurradio/comments/1u8sdqr/just_passed_tech_general/)**
+by u/brickson98
+
+**5. [Finally got a Lab599 TX500MP](https://www.reddit.com/r/amateurradio/comments/1u8jw9v/finally_got_a_lab599_tx500mp/)**
+by u/TheSmurfSwag
+
+**6. [World wide DX on 17m during gray line.](https://www.reddit.com/r/amateurradio/comments/1u8qfw6/world_wide_dx_on_17m_during_gray_line/)**
+by u/SwitchedOnNow
+
+**7. [Is a trap at 300kHz below target frequency a do over?](https://www.reddit.com/r/amateurradio/comments/1u8vupk/is_a_trap_at_300khz_below_target_frequency_a_do/)**
+by u/MT-Estimator
+
+**8. [I’m new to Spokane, looking for fun Field Day sites.](https://www.reddit.com/r/amateurradio/comments/1u96s6r/im_new_to_spokane_looking_for_fun_field_day_sites/)**
+by u/priusjames
+
+**9. [Mirrored signals on waterfall in HDSDR](https://www.reddit.com/r/amateurradio/comments/1u8wiy4/mirrored_signals_on_waterfall_in_hdsdr/)**
+by u/Murky_Joke_4430
+
+**10. [6-metre LPF didn't work out, maybe good for 10-metres? 🤔](https://www.reddit.com/r/amateurradio/comments/1u8zj7c/6metre_lpf_didnt_work_out_maybe_good_for_10metres/)**
+by u/alloydog
+
+**11. [iOS app to remote control your radio](https://www.reddit.com/r/amateurradio/comments/1u89ww1/ios_app_to_remote_control_your_radio/)**
 by u/k3sbp
 
-**5. [Regarding QRP rigs](https://www.reddit.com/r/amateurradio/comments/1u876hk/regarding_qrp_rigs/)**
-by u/DeGamiesaiKaiSy
+**12. [Looking at buying an 857D is there a visual way to tell if it’s American?](https://www.reddit.com/r/amateurradio/comments/1u8xm7s/looking_at_buying_an_857d_is_there_a_visual_way/)**
+by u/smashsmashblue
 
-**6. [European Hams : where to find LiFePO4 battery ?](https://www.reddit.com/r/amateurradio/comments/1u86czh/european_hams_where_to_find_lifepo4_battery/)**
-by u/Gr3y4nt
+**13. [Let's Go! Ready for General](https://www.reddit.com/r/amateurradio/comments/1u8jiz5/lets_go_ready_for_general/)**
+by u/TragicDog
 
-**7. [Remote FT8/FT4 without VPNs, audio streaming - working on a simple solution, nee...](https://www.reddit.com/r/amateurradio/comments/1u8b0bi/remote_ft8ft4_without_vpns_audio_streaming/)**
-by u/andybrandt
+**14. [Browser based Baofeng 5R Mini BLE Programmer](https://www.reddit.com/r/amateurradio/comments/1u90w11/browser_based_baofeng_5r_mini_ble_programmer/)**
+by u/Miserable_Service868
 
-**8. [Looking for a 1:1 Choke Balun for a 433 MHz Loop Yagi](https://www.reddit.com/r/amateurradio/comments/1u88yc5/looking_for_a_11_choke_balun_for_a_433_mhz_loop/)**
-by u/Kerbineer
-
-**9. [COMTray - A light, Open-Source tool to always know what port your programming ca...](https://www.reddit.com/r/amateurradio/comments/1u88fod/comtray_a_light_opensource_tool_to_always_know/)**
-by u/LinuxIsFree
-
-**10. [Outbacker antenna mount](https://www.reddit.com/r/amateurradio/comments/1u7sltr/outbacker_antenna_mount/)**
-by u/Whole-Hat-2213
-
-**11. [Is the Glow Good or Bad?](https://www.reddit.com/r/amateurradio/comments/1u8bogq/is_the_glow_good_or_bad/)**
-by u/Flashy_Gas9955
-
-**12. [How easy is it to transmit data over HF or VHF?](https://www.reddit.com/r/amateurradio/comments/1u7phf9/how_easy_is_it_to_transmit_data_over_hf_or_vhf/)**
-by u/GoodDogBrent
-
-**13. [Ayuda colocando mi nagoya ut 72 en el balcon para recibir VHF UHF con rtl sdr si...](https://www.reddit.com/r/amateurradio/comments/1u82ksy/ayuda_colocando_mi_nagoya_ut_72_en_el_balcon_para/)**
-by u/Glum_Finish5509
-
-**14. [OEM battery on my used commercial DMR fell off a cliff at the 2-year mark, the a...](https://www.reddit.com/r/amateurradio/comments/1u82jkd/oem_battery_on_my_used_commercial_dmr_fell_off_a/)**
-by u/JasonReed1
-
-**15. [I found all this shit in a dumpster today. How quickly can I get chirping with b...](https://www.reddit.com/r/amateurradio/comments/1u6woe8/i_found_all_this_shit_in_a_dumpster_today_how/)**
-by u/Ratlabbb
+**15. [What are good sources for building "old school" radios?](https://www.reddit.com/r/amateurradio/comments/1u8kn77/what_are_good_sources_for_building_old_school/)**
+by u/RationallyDense
 
 ---
 
@@ -61,14 +61,14 @@ by u/Ratlabbb
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u6fxmk/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Sad hams think that my organizations radios and meshtastic devices are...](https://www.reddit.com/r/amateurradio/comments/1u86yf0/sad_hams_think_that_my_organizations_radios_and/)** (r/amateurradio)
-- **[iOS app to remote control your radio](https://www.reddit.com/r/amateurradio/comments/1u89ww1/ios_app_to_remote_control_your_radio/)** (r/amateurradio)
-- **[Regarding QRP rigs](https://www.reddit.com/r/amateurradio/comments/1u876hk/regarding_qrp_rigs/)** (r/amateurradio)
-- **[European Hams : where to find LiFePO4 battery ?](https://www.reddit.com/r/amateurradio/comments/1u86czh/european_hams_where_to_find_lifepo4_battery/)** (r/amateurradio)
-- **[Remote FT8/FT4 without VPNs, audio streaming - working on a simple sol...](https://www.reddit.com/r/amateurradio/comments/1u8b0bi/remote_ft8ft4_without_vpns_audio_streaming/)** (r/amateurradio)
-- **[Looking for a 1:1 Choke Balun for a 433 MHz Loop Yagi](https://www.reddit.com/r/amateurradio/comments/1u88yc5/looking_for_a_11_choke_balun_for_a_433_mhz_loop/)** (r/amateurradio)
-- **[COMTray - A light, Open-Source tool to always know what port your prog...](https://www.reddit.com/r/amateurradio/comments/1u88fod/comtray_a_light_opensource_tool_to_always_know/)** (r/amateurradio)
-- **[Outbacker antenna mount](https://www.reddit.com/r/amateurradio/comments/1u7sltr/outbacker_antenna_mount/)** (r/amateurradio)
+- **[Setup my own ADS-B receiver](https://www.reddit.com/r/amateurradio/comments/1u8m05w/setup_my_own_adsb_receiver/)** (r/amateurradio)
+- **[Just passed Tech & General](https://www.reddit.com/r/amateurradio/comments/1u8sdqr/just_passed_tech_general/)** (r/amateurradio)
+- **[Finally got a Lab599 TX500MP](https://www.reddit.com/r/amateurradio/comments/1u8jw9v/finally_got_a_lab599_tx500mp/)** (r/amateurradio)
+- **[World wide DX on 17m during gray line.](https://www.reddit.com/r/amateurradio/comments/1u8qfw6/world_wide_dx_on_17m_during_gray_line/)** (r/amateurradio)
+- **[Is a trap at 300kHz below target frequency a do over?](https://www.reddit.com/r/amateurradio/comments/1u8vupk/is_a_trap_at_300khz_below_target_frequency_a_do/)** (r/amateurradio)
+- **[I’m new to Spokane, looking for fun Field Day sites.](https://www.reddit.com/r/amateurradio/comments/1u96s6r/im_new_to_spokane_looking_for_fun_field_day_sites/)** (r/amateurradio)
+- **[Mirrored signals on waterfall in HDSDR](https://www.reddit.com/r/amateurradio/comments/1u8wiy4/mirrored_signals_on_waterfall_in_hdsdr/)** (r/amateurradio)
+- **[6-metre LPF didn't work out, maybe good for 10-metres? 🤔](https://www.reddit.com/r/amateurradio/comments/1u8zj7c/6metre_lpf_didnt_work_out_maybe_good_for_10metres/)** (r/amateurradio)
 
 ---
 

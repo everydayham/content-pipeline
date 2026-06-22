@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T17:01:55.285216",
+  "updated": "2026-06-22T16:40:05.208371",
   "episodes": [
     {
       "id": 19328548,
@@ -22,7 +22,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 521
+      "total_plays": 745
     },
     {
       "id": 19219333,
@@ -45,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 931
+      "total_plays": 965
     },
     {
       "id": 19138519,
@@ -68,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 803
+      "total_plays": 831
     },
     {
       "id": 18980854,
@@ -91,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 883
+      "total_plays": 888
     },
     {
       "id": 18903785,
@@ -114,7 +114,7 @@
       "episode_type": "bonus",
       "explicit": false,
       "private": false,
-      "total_plays": 813
+      "total_plays": 823
     },
     {
       "id": 18794950,
@@ -137,7 +137,7 @@
       "episode_type": "full",
       "explicit": true,
       "private": false,
-      "total_plays": 970
+      "total_plays": 980
     },
     {
       "id": 18629581,
@@ -160,7 +160,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1129
+      "total_plays": 1143
     },
     {
       "id": 18470399,
@@ -183,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1161
+      "total_plays": 1173
     },
     {
       "id": 18296133,
@@ -229,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 861
+      "total_plays": 865
     },
     {
       "id": 17980624,
@@ -252,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 894
+      "total_plays": 895
     },
     {
       "id": 17915090,
@@ -275,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 702
+      "total_plays": 709
     },
     {
       "id": 17760784,
@@ -298,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 902
+      "total_plays": 907
     },
     {
       "id": 17726132,
@@ -321,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 660
+      "total_plays": 662
     },
     {
       "id": 17625014,
@@ -344,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 690
+      "total_plays": 694
     },
     {
       "id": 17571459,
@@ -367,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 624
+      "total_plays": 625
     },
     {
       "id": 17441669,
@@ -390,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 756
+      "total_plays": 757
     },
     {
       "id": 17282578,
@@ -413,7 +413,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 620
+      "total_plays": 622
     },
     {
       "id": 17198150,
@@ -436,7 +436,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 542
+      "total_plays": 544
     },
     {
       "id": 17122535,
@@ -459,7 +459,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 507
+      "total_plays": 508
     },
     {
       "id": 16912708,
@@ -482,7 +482,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 610
+      "total_plays": 613
     },
     {
       "id": 16745714,
@@ -505,7 +505,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 510
+      "total_plays": 514
     },
     {
       "id": 16574585,
@@ -528,7 +528,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 511
+      "total_plays": 514
     },
     {
       "id": 16408083,
@@ -551,7 +551,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 517
+      "total_plays": 521
     }
   ]
 }

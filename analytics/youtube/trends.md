@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-06-15 17:02 UTC*
+*Last updated: 2026-06-22 16:40 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Cool Morse Code Trainer #hamradiooperator #morseco... | The Radio Zoomer | 8,853,176 | 2026-06-10 |
-| HUM CHALE APNE POTA POTI SE MILNE❤️ | SHEELA KE SHANKAR | 756,068 | 2026-06-10 |
-| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 414,466 | 2026-06-09 |
-| Kon kon aise sota hai? #sutharsisters #youtubeshor... | Suthar Sisters | 395,077 | 2026-06-14 |
-| Bhul pota Chola korasi pap কাঁঠাল ~Jackfruit #gojo... | AUTO BANGLA  | 385,058 | 2026-06-14 |
-| Itna koun sota hai maaa #shorts #shortvideos #mini... | Kamlesh vlog  | 209,524 | 2026-06-14 |
-| दादा 20 पोता 30 [ New Comedy ]Binesar chacha ke po... | BEROJGAR COMEDY 112  | 173,658 | 2026-06-12 |
-| SOTAとRYUHEIがフリースタイルを踊る#BEFIRST | NINA_BESTY | 169,473 | 2026-06-14 |
-| Принуждали, голосовали, теперь в жопе! Россияне о ... | sotavision | 161,820 | 2026-06-10 |
-| Here is where it started! #Hamradio #hobby #howitw... | Hobby Steve  | 130,442 | 2026-06-15 |
-| LE PIRE DES CONFÉRENCES DE 2026 ! 🤣 (ft.Terra, Pot... | Hugo Délire | 125,668 | 2026-06-13 |
-| Hudsonville Hamfest #chrisboden #comedy #engineeri... | Chris Boden | 120,706 | 2026-06-11 |
-| Skywarn  #chrisboden #comedy #educational #science... | Chris Boden | 119,027 | 2026-06-13 |
-| Tau Pota Train Comedy | Viral Short#TauPota #Train... | Unknown Journey | 114,193 | 2026-06-14 |
-| dadi Ko pota ki koshish 🥰🥳#keshavshashivlogs#famil... | keshav Shashi viral  | 104,504 | 2026-06-10 |
-| TX to AZ Container antenna! #hobby #hamradio #hamr... | Hobby Steve  | 97,730 | 2026-06-13 |
-| milagai killi pota sambar,potato fry,manga sebian,... | Mom And Daughter | 97,336 | 2026-06-13 |
-| Pota Ketakutan! Terjebak di Jalan Rahasia Serigala... | Marbel - Learning To | 95,093 | 2026-06-13 |
-| Top 6 cid actor | Actress ki favourite pota || New... | CID HERO SHORT VIDEO | 81,218 | 2026-06-13 |
-| Soto sota 3Ta Umbrella fun 🤩 #shorts | Badrul Shorts  | 64,159 | 2026-06-10 |
-| Pota chala gaya apna bag pack karke #ytshorts #min... | Rajasthan Wali Dadi | 63,377 | 2026-06-13 |
-| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 62,984 | 2026-06-13 |
-| Learn #0 in Morse Code #hamradio #hamradiooperator... | The Radio Zoomer | 54,529 | 2026-06-09 |
-| New Key from Palm Radio #morsecode #hamradio #hobb... | Radio Roamers | 49,970 | 2026-06-11 |
-| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Jinisha  | 48,699 | 2026-06-11 |
+| Самая загадочная радиостанция России | ПРЕМИЯ ДАРВИНА | 5,098,836 | 2026-06-18 |
+| Tractor Pe Baith Ke Gaane Lage Tau-Pota 😂 | Unknown Journey | 873,278 | 2026-06-16 |
+| 😱Bike-ku Kammala Pota Epdi Irukum?பைக்குக்கு கம்மல... | Vikram Rider | 718,845 | 2026-06-18 |
+| buoil pota chola korasi paip (খেজুর)~ Date-palm #g... | AUTO BANGLA  | 670,873 | 2026-06-16 |
+| bouol pota chola korlam pap (লিচু)~licche tree #go... |  Emon khan14 | 606,567 | 2026-06-21 |
+| vuoil pota chola qorasi pap (কমলা)~orange #gojol #... | AUTO BANGLA  | 599,195 | 2026-06-18 |
+| Vuol Pota Sola korasi pap ami (খেজুর)~dates #gojo ... | AUTO BANGLA  | 388,619 | 2026-06-18 |
+| voul pota chola korasi boul (নারিকেল)~coconut #goj... | AUTO BANGLA  | 376,914 | 2026-06-16 |
+| POTA POTI KO SUNBATH KARAANE KA SUKH❤️ | SHEELA KE SHANKAR | 357,008 | 2026-06-18 |
+| 감~자 봤습니다 푸드트럭 | 한동훈 | 339,399 | 2026-06-18 |
+| Naan pota order uhh 🔥 #shorts #food #briyani #biry... | Siri_Ishani_foodzone | 331,924 | 2026-06-20 |
+| KAJU PAPA KE JESE SOTA HE 😮👶🏻👶🏻#bhartisingh #cuteg... | AJS 0.2 | 248,942 | 2026-06-17 |
+| Kya Allah Paak sota hai 😱🥱 ||#sona ||#disaster ||#... | Khan_Writes. | 220,989 | 2026-06-18 |
+| My Town Sent Me A Ham Radio Antenna CITATION! | Ham Radio Crash Cour | 141,063 | 2026-06-18 |
+| Eww kon chipak ke sota hai ? #siblings #northeasti... | Glow with Akia 🌷  | 103,536 | 2026-06-19 |
+| I put up an antenna in the HOA, and Karen can’t se... | Paul "The Southern H | 87,898 | 2026-06-17 |
+| Minecraft TNT Sota OSA 3 w/ Applezzi 🧨 | Kakkuh | 78,645 | 2026-06-17 |
+| Дядя Вова спасёт нас! Ядерная стала ближе? Что дум... | sotavision | 46,926 | 2026-06-17 |
+| Naseeb Sotta VS Super King 🔥 टक्कर के बीच हुआ बड़ा... | ROHIT VSV | 45,366 | 2026-06-17 |
+| 【速報】 藤井聡太 vs 服部慎一郎 （棋聖戦 第2局） 2026/06/19 | たんたんチャンネル | 42,604 | 2026-06-19 |
+| Basketball antenna! #hobby #hamradio #hamradiolife... | Hobby Steve  | 42,259 | 2026-06-20 |
+| SOTA HANAMURA /「Lose」Dance Performance Video | Da-iCE | 39,394 | 2026-06-16 |
+| Hyderabad Me Noton Ke Dher Par Sota Afsar, Nikah K... | Miya Bhai News | 39,124 | 2026-06-16 |
+| Asiantuntija tyrmää yleisen käsityksen – "Oikeasti... | Ivan Puopolo | 38,174 | 2026-06-18 |
+| ISS Ham Radio Contact!  #hamradio #hobby #astrolog... | Radio Roamers | 35,208 | 2026-06-15 |
 
 ---
 
@@ -42,13 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (30 videos)
+- **POTA/Portable**: ████████████████████ (31 videos)
 - **License/Learning**: ████████████████████ (30 videos)
-- **HF Operating**: ███████████████████ (19 videos)
-- **Antennas**: ███████████████ (15 videos)
-- **QRP**: █████████ (9 videos)
-- **Digital Modes**: ████████ (8 videos)
-- **Gear Reviews**: ███████ (7 videos)
+- **HF Operating**: ████████████████████ (20 videos)
+- **Antennas**: ███████████████████ (19 videos)
+- **Digital Modes**: ██████████ (10 videos)
+- **Gear Reviews**: █████████ (9 videos)
+- **QRP**: ████████ (8 videos)
+- **Contests**: ██ (2 videos)
 
 ---
 

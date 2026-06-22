@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-21 13:08 UTC*
+*Last updated: 2026-06-22 15:55 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u6fxmk/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ucjxqv/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Amateur radio pride](https://www.reddit.com/r/amateurradio/comments/1ub7pdm/amateur_radio_pride/)**
-by u/raytsunob
+**3. [Please listen to your self](https://www.reddit.com/r/amateurradio/comments/1uc6w12/please_listen_to_your_self/)**
+by u/palthor33
 
-**4. [Just wanted to share my radio setup. I'm 15 and use it inside my DIY workshop!](https://www.reddit.com/r/amateurradio/comments/1ubj4dr/just_wanted_to_share_my_radio_setup_im_15_and_use/)**
-by u/RozzKiv
+**4. [PSA: This is NOT a crack pipe](https://www.reddit.com/r/amateurradio/comments/1ubrzkc/psa_this_is_not_a_crack_pipe/)**
+by u/Derf0293
 
-**5. [Manassas Hamfest was a gold mine. $20 for this "dead" 3457A. Two bad caps, and m...](https://www.reddit.com/r/amateurradio/comments/1ubahyy/manassas_hamfest_was_a_gold_mine_20_for_this_dead/)**
-by u/inquirewue
+**5. [Dear Om's, I will be on the air with the callsign TC26HOCA as digi (FT8 and FT4)...](https://www.reddit.com/r/amateurradio/comments/1ucbcra/dear_oms_i_will_be_on_the_air_with_the_callsign/)**
+by u/ridvanakin122
 
-**6. [It's a green thing. Fully refurbished.](https://www.reddit.com/r/amateurradio/comments/1ubjjb2/its_a_green_thing_fully_refurbished/)**
+**6. [What are my options?](https://www.reddit.com/r/amateurradio/comments/1uc5n9f/what_are_my_options/)**
+by u/clejeune
+
+**7. [What would you suggest to someone that 'just' wants to listen?](https://www.reddit.com/r/amateurradio/comments/1ucdj04/what_would_you_suggest_to_someone_that_just_wants/)**
+by u/satina_nix
+
+**8. [Recently obtained a G90 with questionable history. There are two local AM broadc...](https://www.reddit.com/r/amateurradio/comments/1ucnh2x/recently_obtained_a_g90_with_questionable_history/)**
+by u/f3333sh
+
+**9. [Logging App](https://www.reddit.com/r/amateurradio/comments/1ucn0e0/logging_app/)**
+by u/r45tgbvf
+
+**10. [Kenwood TK-880H paint job.](https://www.reddit.com/r/amateurradio/comments/1uc2wju/kenwood_tk880h_paint_job/)**
 by u/Kind_Requirement_645
 
-**7. [Got my center-fed dipole (from DX Engineering) up in the air today and buried my...](https://www.reddit.com/r/amateurradio/comments/1ubfoac/got_my_centerfed_dipole_from_dx_engineering_up_in/)**
-by u/IceManCraig
+**11. [Happy Father’s Day to all. My fiancé and kiddo nailed this year for me. 73.](https://www.reddit.com/r/amateurradio/comments/1uc1937/happy_fathers_day_to_all_my_fiancé_and_kiddo/)**
+by u/Historical-Risk-
 
-**8. [If doing Field day, what Radio/Antenna will you deply?](https://www.reddit.com/r/amateurradio/comments/1ubngnj/if_doing_field_day_what_radioantenna_will_you/)**
-by u/Careful_Pause8699
+**12. [Hearing the ISS downlink on a cheap HT with a gooseneck antenna](https://www.reddit.com/r/amateurradio/comments/1ubq5tt/hearing_the_iss_downlink_on_a_cheap_ht_with_a/)**
+by u/RozzKiv
 
-**9. [Kicked out of the shack and banned from the house.](https://www.reddit.com/r/amateurradio/comments/1ub8mlz/kicked_out_of_the_shack_and_banned_from_the_house/)**
-by u/_RandyBrown_
+**13. [6 Meters](https://www.reddit.com/r/amateurradio/comments/1uc311q/6_meters/)**
+by u/CitronTraining2114
 
-**10. [Spacing of FT4 & FT8 packets](https://www.reddit.com/r/amateurradio/comments/1ubj2ma/spacing_of_ft4_ft8_packets/)**
-by u/leicanthrope
+**14. [Would this work with DIY yagi? I can't get my hands on RG58 as of ryt now.](https://www.reddit.com/r/amateurradio/comments/1uclgic/would_this_work_with_diy_yagi_i_cant_get_my_hands/)**
+by u/Adwan4747
 
-**11. [Lollipop Mic for Yaesu 710](https://www.reddit.com/r/amateurradio/comments/1ubipc2/lollipop_mic_for_yaesu_710/)**
-by u/TheJZone22
-
-**12. [I converted pen source OpenEMS to o browser based Electromagnetic Simulation](https://www.reddit.com/r/amateurradio/comments/1ubnwbj/i_converted_pen_source_openems_to_o_browser_based/)**
-by u/nolilab
-
-**13. [What is this digital transmission?](https://www.reddit.com/r/amateurradio/comments/1ubnb0k/what_is_this_digital_transmission/)**
-by u/hmoff
-
-**14. [My setup in my 17 f150](https://www.reddit.com/r/amateurradio/comments/1ub0zgm/my_setup_in_my_17_f150/)**
-by u/Born-Performance9293
-
-**15. [curious about these antennas in japan](https://www.reddit.com/r/amateurradio/comments/1ubgtwi/curious_about_these_antennas_in_japan/)**
-by u/n__________n
+**15. [What’s going on with Yaesu prices (in the USA)?](https://www.reddit.com/r/amateurradio/comments/1ubtfdo/whats_going_on_with_yaesu_prices_in_the_usa/)**
+by u/get-off-my-frequency
 
 ---
 
@@ -59,16 +59,16 @@ by u/n__________n
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1u6fxmk/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ucjxqv/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Amateur radio pride](https://www.reddit.com/r/amateurradio/comments/1ub7pdm/amateur_radio_pride/)** (r/amateurradio)
-- **[Just wanted to share my radio setup. I'm 15 and use it inside my DIY w...](https://www.reddit.com/r/amateurradio/comments/1ubj4dr/just_wanted_to_share_my_radio_setup_im_15_and_use/)** (r/amateurradio)
-- **[Manassas Hamfest was a gold mine. $20 for this "dead" 3457A. Two bad c...](https://www.reddit.com/r/amateurradio/comments/1ubahyy/manassas_hamfest_was_a_gold_mine_20_for_this_dead/)** (r/amateurradio)
-- **[It's a green thing. Fully refurbished.](https://www.reddit.com/r/amateurradio/comments/1ubjjb2/its_a_green_thing_fully_refurbished/)** (r/amateurradio)
-- **[Got my center-fed dipole (from DX Engineering) up in the air today and...](https://www.reddit.com/r/amateurradio/comments/1ubfoac/got_my_centerfed_dipole_from_dx_engineering_up_in/)** (r/amateurradio)
-- **[If doing Field day, what Radio/Antenna will you deply?](https://www.reddit.com/r/amateurradio/comments/1ubngnj/if_doing_field_day_what_radioantenna_will_you/)** (r/amateurradio)
-- **[Kicked out of the shack and banned from the house.](https://www.reddit.com/r/amateurradio/comments/1ub8mlz/kicked_out_of_the_shack_and_banned_from_the_house/)** (r/amateurradio)
-- **[Spacing of FT4 & FT8 packets](https://www.reddit.com/r/amateurradio/comments/1ubj2ma/spacing_of_ft4_ft8_packets/)** (r/amateurradio)
+- **[Please listen to your self](https://www.reddit.com/r/amateurradio/comments/1uc6w12/please_listen_to_your_self/)** (r/amateurradio)
+- **[PSA: This is NOT a crack pipe](https://www.reddit.com/r/amateurradio/comments/1ubrzkc/psa_this_is_not_a_crack_pipe/)** (r/amateurradio)
+- **[Dear Om's, I will be on the air with the callsign TC26HOCA as digi (FT...](https://www.reddit.com/r/amateurradio/comments/1ucbcra/dear_oms_i_will_be_on_the_air_with_the_callsign/)** (r/amateurradio)
+- **[What are my options?](https://www.reddit.com/r/amateurradio/comments/1uc5n9f/what_are_my_options/)** (r/amateurradio)
+- **[What would you suggest to someone that 'just' wants to listen?](https://www.reddit.com/r/amateurradio/comments/1ucdj04/what_would_you_suggest_to_someone_that_just_wants/)** (r/amateurradio)
+- **[Recently obtained a G90 with questionable history. There are two local...](https://www.reddit.com/r/amateurradio/comments/1ucnh2x/recently_obtained_a_g90_with_questionable_history/)** (r/amateurradio)
+- **[Logging App](https://www.reddit.com/r/amateurradio/comments/1ucn0e0/logging_app/)** (r/amateurradio)
+- **[Kenwood TK-880H paint job.](https://www.reddit.com/r/amateurradio/comments/1uc2wju/kenwood_tk880h_paint_job/)** (r/amateurradio)
 
 ---
 

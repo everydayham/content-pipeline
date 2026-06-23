@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-22 15:55 UTC*
+*Last updated: 2026-06-23 13:43 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Please listen to your self](https://www.reddit.com/r/amateurradio/comments/1uc6w12/please_listen_to_your_self/)**
-by u/palthor33
+**3. [Satellite uplink jamming](https://www.reddit.com/r/amateurradio/comments/1ud0bb7/satellite_uplink_jamming/)**
+by u/GiantsNerd1
 
-**4. [PSA: This is NOT a crack pipe](https://www.reddit.com/r/amateurradio/comments/1ubrzkc/psa_this_is_not_a_crack_pipe/)**
-by u/Derf0293
+**4. [HLP-6 antenna holder for camera tripod](https://www.reddit.com/r/amateurradio/comments/1udezpv/hlp6_antenna_holder_for_camera_tripod/)**
+by u/WZab
 
-**5. [Dear Om's, I will be on the air with the callsign TC26HOCA as digi (FT8 and FT4)...](https://www.reddit.com/r/amateurradio/comments/1ucbcra/dear_oms_i_will_be_on_the_air_with_the_callsign/)**
-by u/ridvanakin122
+**5. [Passed my Amateur Extra today](https://www.reddit.com/r/amateurradio/comments/1ucsnqm/passed_my_amateur_extra_today/)**
+by u/backendbean
 
-**6. [What are my options?](https://www.reddit.com/r/amateurradio/comments/1uc5n9f/what_are_my_options/)**
-by u/clejeune
+**6. [From Extra Class & VE Team Founder to Radio Silence: My Journey Through Club Dra...](https://www.reddit.com/r/amateurradio/comments/1ud9ee0/from_extra_class_ve_team_founder_to_radio_silence/)**
+by u/Eollie
 
-**7. [What would you suggest to someone that 'just' wants to listen?](https://www.reddit.com/r/amateurradio/comments/1ucdj04/what_would_you_suggest_to_someone_that_just_wants/)**
-by u/satina_nix
+**7. [Gift for a relatively experienced radio amateur](https://www.reddit.com/r/amateurradio/comments/1udbsbw/gift_for_a_relatively_experienced_radio_amateur/)**
+by u/xV3rt
 
-**8. [Recently obtained a G90 with questionable history. There are two local AM broadc...](https://www.reddit.com/r/amateurradio/comments/1ucnh2x/recently_obtained_a_g90_with_questionable_history/)**
-by u/f3333sh
+**8. [Just passed my ham exams!](https://www.reddit.com/r/amateurradio/comments/1udb39f/just_passed_my_ham_exams/)**
+by u/nik_da_pro
 
-**9. [Logging App](https://www.reddit.com/r/amateurradio/comments/1ucn0e0/logging_app/)**
-by u/r45tgbvf
+**9. [Shack setup](https://www.reddit.com/r/amateurradio/comments/1ucud6m/shack_setup/)**
+by u/YaBoiQ115
 
-**10. [Kenwood TK-880H paint job.](https://www.reddit.com/r/amateurradio/comments/1uc2wju/kenwood_tk880h_paint_job/)**
-by u/Kind_Requirement_645
+**10. [Yet another young ham frustration post, but I tried (I swear)](https://www.reddit.com/r/amateurradio/comments/1uctvhd/yet_another_young_ham_frustration_post_but_i/)**
+by u/_sharpLimefox
 
-**11. [Happy Father’s Day to all. My fiancé and kiddo nailed this year for me. 73.](https://www.reddit.com/r/amateurradio/comments/1uc1937/happy_fathers_day_to_all_my_fiancé_and_kiddo/)**
-by u/Historical-Risk-
+**11. [2026 edition of the No Nonsense Technician Class License Study Guide Now Online ...](https://www.reddit.com/r/amateurradio/comments/1ucsej0/2026_edition_of_the_no_nonsense_technician_class/)**
+by u/dan_kb6nu
 
-**12. [Hearing the ISS downlink on a cheap HT with a gooseneck antenna](https://www.reddit.com/r/amateurradio/comments/1ubq5tt/hearing_the_iss_downlink_on_a_cheap_ht_with_a/)**
-by u/RozzKiv
+**12. [Super-Long Antennae](https://www.reddit.com/r/amateurradio/comments/1udgd60/superlong_antennae/)**
+by u/NotThePopeProbably
 
-**13. [6 Meters](https://www.reddit.com/r/amateurradio/comments/1uc311q/6_meters/)**
-by u/CitronTraining2114
+**13. [Curious about other examination requirements](https://www.reddit.com/r/amateurradio/comments/1udbmne/curious_about_other_examination_requirements/)**
+by u/Mulitpotentialite
 
-**14. [Would this work with DIY yagi? I can't get my hands on RG58 as of ryt now.](https://www.reddit.com/r/amateurradio/comments/1uclgic/would_this_work_with_diy_yagi_i_cant_get_my_hands/)**
-by u/Adwan4747
+**14. [Animal Radio telemetry Equipment check](https://www.reddit.com/r/amateurradio/comments/1udai1y/animal_radio_telemetry_equipment_check/)**
+by u/Firefly_Dafuq
 
-**15. [What’s going on with Yaesu prices (in the USA)?](https://www.reddit.com/r/amateurradio/comments/1ubtfdo/whats_going_on_with_yaesu_prices_in_the_usa/)**
-by u/get-off-my-frequency
+**15. [What does mobile operation actually look like?](https://www.reddit.com/r/amateurradio/comments/1ucxtsz/what_does_mobile_operation_actually_look_like/)**
+by u/BeCoolHoney-Bunny
 
 ---
 
@@ -61,14 +61,14 @@ by u/get-off-my-frequency
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1ucjxqv/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Please listen to your self](https://www.reddit.com/r/amateurradio/comments/1uc6w12/please_listen_to_your_self/)** (r/amateurradio)
-- **[PSA: This is NOT a crack pipe](https://www.reddit.com/r/amateurradio/comments/1ubrzkc/psa_this_is_not_a_crack_pipe/)** (r/amateurradio)
-- **[Dear Om's, I will be on the air with the callsign TC26HOCA as digi (FT...](https://www.reddit.com/r/amateurradio/comments/1ucbcra/dear_oms_i_will_be_on_the_air_with_the_callsign/)** (r/amateurradio)
-- **[What are my options?](https://www.reddit.com/r/amateurradio/comments/1uc5n9f/what_are_my_options/)** (r/amateurradio)
-- **[What would you suggest to someone that 'just' wants to listen?](https://www.reddit.com/r/amateurradio/comments/1ucdj04/what_would_you_suggest_to_someone_that_just_wants/)** (r/amateurradio)
-- **[Recently obtained a G90 with questionable history. There are two local...](https://www.reddit.com/r/amateurradio/comments/1ucnh2x/recently_obtained_a_g90_with_questionable_history/)** (r/amateurradio)
-- **[Logging App](https://www.reddit.com/r/amateurradio/comments/1ucn0e0/logging_app/)** (r/amateurradio)
-- **[Kenwood TK-880H paint job.](https://www.reddit.com/r/amateurradio/comments/1uc2wju/kenwood_tk880h_paint_job/)** (r/amateurradio)
+- **[Satellite uplink jamming](https://www.reddit.com/r/amateurradio/comments/1ud0bb7/satellite_uplink_jamming/)** (r/amateurradio)
+- **[HLP-6 antenna holder for camera tripod](https://www.reddit.com/r/amateurradio/comments/1udezpv/hlp6_antenna_holder_for_camera_tripod/)** (r/amateurradio)
+- **[Passed my Amateur Extra today](https://www.reddit.com/r/amateurradio/comments/1ucsnqm/passed_my_amateur_extra_today/)** (r/amateurradio)
+- **[From Extra Class & VE Team Founder to Radio Silence: My Journey Throug...](https://www.reddit.com/r/amateurradio/comments/1ud9ee0/from_extra_class_ve_team_founder_to_radio_silence/)** (r/amateurradio)
+- **[Gift for a relatively experienced radio amateur](https://www.reddit.com/r/amateurradio/comments/1udbsbw/gift_for_a_relatively_experienced_radio_amateur/)** (r/amateurradio)
+- **[Just passed my ham exams!](https://www.reddit.com/r/amateurradio/comments/1udb39f/just_passed_my_ham_exams/)** (r/amateurradio)
+- **[Shack setup](https://www.reddit.com/r/amateurradio/comments/1ucud6m/shack_setup/)** (r/amateurradio)
+- **[Yet another young ham frustration post, but I tried (I swear)](https://www.reddit.com/r/amateurradio/comments/1uctvhd/yet_another_young_ham_frustration_post_but_i/)** (r/amateurradio)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T13:43:30.931609",
+  "updated": "2026-06-24T13:23:44.271976",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -7,14 +7,84 @@
   "posts": {
     "amateurradio": [
       {
-        "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucjxqv/weekly_information_mentor_new_license_thread/",
-        "author": "/u/AutoModerator"
-      },
-      {
         "title": "Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/",
         "author": "/u/ItsBail"
+      },
+      {
+        "title": "[MEGA THREAD] ARRL FIELD DAY 2026 - June 27th - 28th",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udwtgq/mega_thread_arrl_field_day_2026_june_27th_28th/",
+        "author": "/u/ItsBail"
+      },
+      {
+        "title": "Got this mystery antenna at a swap.... Pretty sure it's 2M.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udvi9t/got_this_mystery_antenna_at_a_swap_pretty_sure/",
+        "author": "/u/tamitall"
+      },
+      {
+        "title": "Lost Paperwork : Update",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ue6tpp/lost_paperwork_update/",
+        "author": "/u/BackInJax"
+      },
+      {
+        "title": "Looking to build my first portable HF digital rig (like pic 1) but eBay prices for the FT-817ND (pic 2) are crazy. Any advice?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udjab5/looking_to_build_my_first_portable_hf_digital_rig/",
+        "author": "/u/Odd_Analyst1496"
+      },
+      {
+        "title": "How much of an upgrade...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ue1wh2/how_much_of_an_upgrade/",
+        "author": "/u/fcchambers"
+      },
+      {
+        "title": "Seiuchy CW trainer is back up (kind of) \u2014 archived copy at learn-cw.neocities.org",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udztsd/seiuchy_cw_trainer_is_back_up_kind_of_archived/",
+        "author": "/u/shootingcharlie8"
+      },
+      {
+        "title": "Lab599 TX500MP- speaker mic buzzing",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uecwha/lab599_tx500mp_speaker_mic_buzzing/",
+        "author": "/u/gregariouspilot"
+      },
+      {
+        "title": "Testing of 300Ah LiFePo4 packs",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udl03c/testing_of_300ah_lifepo4_packs/",
+        "author": "/u/CaptainSpez"
+      },
+      {
+        "title": "Kenwood TH-D74 for 350?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ue4fkx/kenwood_thd74_for_350/",
+        "author": "/u/muralof99oranges"
+      },
+      {
+        "title": "Prime Day",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udirf7/prime_day/",
+        "author": "/u/qbg"
+      },
+      {
+        "title": "How hard is it to learn Ham",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udq5c2/how_hard_is_it_to_learn_ham/",
+        "author": "/u/SevereTakiStorm"
+      },
+      {
+        "title": "At-200 Pro II not tuning",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udyjh1/at200_pro_ii_not_tuning/",
+        "author": "/u/SeaFaringPig"
+      },
+      {
+        "title": "From Extra Class & VE Team Founder to Radio Silence: My Journey Through Club Drama and Burnout",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ud9ee0/from_extra_class_ve_team_founder_to_radio_silence/",
+        "author": "/u/Eollie"
+      },
+      {
+        "title": "Radiowavz DX-40",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ue0z86/radiowavz_dx40/",
+        "author": "/u/xdm21"
+      },
+      {
+        "title": "Car ham radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udnqm7/car_ham_radio/",
+        "author": "/u/snowvulpix253"
       },
       {
         "title": "Satellite uplink jamming",
@@ -27,19 +97,9 @@
         "author": "/u/WZab"
       },
       {
-        "title": "Passed my Amateur Extra today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucsnqm/passed_my_amateur_extra_today/",
-        "author": "/u/backendbean"
-      },
-      {
-        "title": "From Extra Class & VE Team Founder to Radio Silence: My Journey Through Club Drama and Burnout",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ud9ee0/from_extra_class_ve_team_founder_to_radio_silence/",
-        "author": "/u/Eollie"
-      },
-      {
-        "title": "Gift for a relatively experienced radio amateur",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1udbsbw/gift_for_a_relatively_experienced_radio_amateur/",
-        "author": "/u/xV3rt"
+        "title": "WSJTX ft8 / digirig",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uduoi3/wsjtx_ft8_digirig/",
+        "author": "/u/No_Championship_5982"
       },
       {
         "title": "Just passed my ham exams!",
@@ -47,19 +107,19 @@
         "author": "/u/nik_da_pro"
       },
       {
-        "title": "Shack setup",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucud6m/shack_setup/",
-        "author": "/u/YaBoiQ115"
+        "title": "Passed my Amateur Extra today",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ucsnqm/passed_my_amateur_extra_today/",
+        "author": "/u/backendbean"
       },
       {
-        "title": "Yet another young ham frustration post, but I tried (I swear)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uctvhd/yet_another_young_ham_frustration_post_but_i/",
-        "author": "/u/_sharpLimefox"
+        "title": "Anyone in the Kansas City area familiar with Wires-X repeaters that aren\u2019t locked?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udlzwu/anyone_in_the_kansas_city_area_familiar_with/",
+        "author": "/u/Keeper4560"
       },
       {
-        "title": "2026 edition of the No Nonsense Technician Class License Study Guide Now Online and on Amazon",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucsej0/2026_edition_of_the_no_nonsense_technician_class/",
-        "author": "/u/dan_kb6nu"
+        "title": "Gift for a relatively experienced radio amateur",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udbsbw/gift_for_a_relatively_experienced_radio_amateur/",
+        "author": "/u/xV3rt"
       },
       {
         "title": "Super-Long Antennae",
@@ -67,69 +127,9 @@
         "author": "/u/NotThePopeProbably"
       },
       {
-        "title": "Curious about other examination requirements",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1udbmne/curious_about_other_examination_requirements/",
-        "author": "/u/Mulitpotentialite"
-      },
-      {
-        "title": "Animal Radio telemetry Equipment check",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1udai1y/animal_radio_telemetry_equipment_check/",
-        "author": "/u/Firefly_Dafuq"
-      },
-      {
-        "title": "What does mobile operation actually look like?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucxtsz/what_does_mobile_operation_actually_look_like/",
-        "author": "/u/BeCoolHoney-Bunny"
-      },
-      {
-        "title": "HT range isn\u2019t just a wattage stat",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ud48yn/ht_range_isnt_just_a_wattage_stat/",
-        "author": "/u/Plenty-Catch-3875"
-      },
-      {
-        "title": "Tecsun PL-330 LSB calibration",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ud3t9s/tecsun_pl330_lsb_calibration/",
-        "author": "/u/Top_Peach6455"
-      },
-      {
-        "title": "FreeDV RADEv1 on Field Day?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ud3kwu/freedv_radev1_on_field_day/",
-        "author": "/u/markjenkinswpg"
-      },
-      {
-        "title": "Please listen to your self",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uc6w12/please_listen_to_your_self/",
-        "author": "/u/palthor33"
-      },
-      {
-        "title": "Logging App",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucn0e0/logging_app/",
-        "author": "/u/r45tgbvf"
-      },
-      {
-        "title": "If intending to make a HAM transmission on a Part 15 compliant radiator doesn't make me an amateur operator then what does it make me?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ude36b/if_intending_to_make_a_ham_transmission_on_a_part/",
-        "author": "/u/Rich-Jaguar-5219"
-      },
-      {
-        "title": "What are my options?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uc5n9f/what_are_my_options/",
-        "author": "/u/clejeune"
-      },
-      {
-        "title": "RigControl Web - Remote SSB and CW Contacts From Anywhere",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucs42w/rigcontrol_web_remote_ssb_and_cw_contacts_from/",
-        "author": "/u/jbdubbsreddit"
-      },
-      {
-        "title": "Recently obtained a G90 with questionable history. There are two local AM broadcast stations appear over the whole HF spectrum with what seems like the carrier for the closest station peaking every 10-15kc or so. The video is with the attenuator on and RF gain @ 1%. Where do I start?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ucnh2x/recently_obtained_a_g90_with_questionable_history/",
-        "author": "/u/f3333sh"
-      },
-      {
-        "title": "PSA: This is NOT a crack pipe",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ubrzkc/psa_this_is_not_a_crack_pipe/",
-        "author": "/u/Derf0293"
+        "title": "What is your logbook missing?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1udvq06/what_is_your_logbook_missing/",
+        "author": "/u/Still_Emphasis_2393"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T12:09:59.897837",
+  "updated": "2026-06-28T12:17:32.971924",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,64 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Please keep 7.135MHz clear for Venuzuelan Earthquake support",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugnl3f/please_keep_7135mhz_clear_for_venuzuelan/",
-        "author": "/u/VE6LK"
+        "title": "Update on the HT-15; A fully open-source, modular HT.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhkf1z/update_on_the_ht15_a_fully_opensource_modular_ht/",
+        "author": "/u/bcpratt2000"
+      },
+      {
+        "title": "Field Day 2026",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhj75l/field_day_2026/",
+        "author": "/u/SeaJuggernaut8811"
+      },
+      {
+        "title": "An interesting note about Kenwood radios.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhmwkx/an_interesting_note_about_kenwood_radios/",
+        "author": "/u/AriaGingko"
+      },
+      {
+        "title": "Morse Trainer: an Android app for learning and practicing Morse code - junior learning project with react native",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhttu3/morse_trainer_an_android_app_for_learning_and/",
+        "author": "/u/Conscious_Corgi_6616"
+      },
+      {
+        "title": "G90 Custom Firmware Proof of Concept",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhgqkf/g90_custom_firmware_proof_of_concept/",
+        "author": "/u/jp0550"
+      },
+      {
+        "title": "Was able to make a contact 13.5 miles from the repeater",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhiz7n/was_able_to_make_a_contact_135_miles_from_the/",
+        "author": "/u/djw7wav"
+      },
+      {
+        "title": "Got a decommissioned R&S XU250A VHF transceiver from Sirte Airport (SRX) wanting to setting up a home ATC station",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhbm06/got_a_decommissioned_rs_xu250a_vhf_transceiver/",
+        "author": "/u/Designer-Cut5122"
+      },
+      {
+        "title": "Quick sanity check please",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhnfrb/quick_sanity_check_please/",
+        "author": "/u/Beneficial_Crow_5162"
+      },
+      {
+        "title": "Happy Ham when projects work out!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uh1fwl/happy_ham_when_projects_work_out/",
+        "author": "/u/Mulitpotentialite"
+      },
+      {
+        "title": "Multiple audio devices in Linux Mint",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhtr9f/multiple_audio_devices_in_linux_mint/",
+        "author": "/u/plankie79"
+      },
+      {
+        "title": "I couldn't move my house so I moved my antenna and split transmit and receive into separate devices. This slayed my noise floor from S7-S8 to S3, making HF usable.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uh744j/i_couldnt_move_my_house_so_i_moved_my_antenna_and/",
+        "author": "/u/Fun-Conclusion-4471"
+      },
+      {
+        "title": "Yaesu FT-900 FT-891 and many others no power up clicks on off.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhpsov/yaesu_ft900_ft891_and_many_others_no_power_up/",
+        "author": "/u/Last_Song8129"
       },
       {
         "title": "My new to me IC-756",
@@ -27,14 +82,9 @@
         "author": "/u/Cactacae420"
       },
       {
-        "title": "My wife made a custom SOTA/POTA LEGO build for my birthday.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugh2v8/my_wife_made_a_custom_sotapota_lego_build_for_my/",
-        "author": "/u/guy_in_nc"
-      },
-      {
-        "title": "Laminated some reference sheets and printed stickers for field day! Fingers crossed for good weather....",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugpqo5/laminated_some_reference_sheets_and_printed/",
-        "author": "/u/MaverickMan42"
+        "title": "We never work Hawaii from PA on Field Day. Any Hawaiians on the air?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhjggw/we_never_work_hawaii_from_pa_on_field_day_any/",
+        "author": "/u/Prima13"
       },
       {
         "title": "GK-2A LRIT, Custom SAW LNA, 3D printed antenna",
@@ -42,94 +92,44 @@
         "author": "/u/Lopsided-Ad434"
       },
       {
-        "title": "RadioShack Used to Sell Kids This Magnificent Madness",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugndu9/radioshack_used_to_sell_kids_this_magnificent/",
-        "author": "/u/ScamSchoolBrian"
+        "title": "Please keep 7.135MHz clear for Venuzuelan Earthquake support",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ugnl3f/please_keep_7135mhz_clear_for_venuzuelan/",
+        "author": "/u/VE6LK"
       },
       {
-        "title": "Field Day, 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugerpu/field_day_2026/",
-        "author": "/u/Natersozz"
+        "title": "Please keep 40Meters Clear 7135kHz for EMERGENCY COMMUNICATION \ud83d\udccdVenezuela",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhnz07/please_keep_40meters_clear_7135khz_for_emergency/",
+        "author": "/u/sailikhitcomms"
       },
       {
-        "title": "Harbor Freight PTT switch",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugep3w/harbor_freight_ptt_switch/",
-        "author": "/u/blue-moto"
+        "title": "Laminated some reference sheets and printed stickers for field day! Fingers crossed for good weather....",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ugpqo5/laminated_some_reference_sheets_and_printed/",
+        "author": "/u/MaverickMan42"
       },
       {
-        "title": "Overload proof LNA SAW filter for 1700MHz / L band Wx Sats now in production!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugvzjl/overload_proof_lna_saw_filter_for_1700mhz_l_band/",
-        "author": "/u/Lopsided-Ad434"
+        "title": "Antenna analysis paralysis",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uh95jo/antenna_analysis_paralysis/",
+        "author": "/u/grouchy_ham"
       },
       {
-        "title": "Is ham radio isolating",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugh1g8/is_ham_radio_isolating/",
-        "author": "/u/Horrorbythenumbers"
+        "title": "My wife made a custom SOTA/POTA LEGO build for my birthday.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ugh2v8/my_wife_made_a_custom_sotapota_lego_build_for_my/",
+        "author": "/u/guy_in_nc"
       },
       {
-        "title": "Am i eligible for Class -B today with a FT-710 set to 5W?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugyvgv/am_i_eligible_for_class_b_today_with_a_ft710_set/",
-        "author": "/u/crash5291"
+        "title": "SOTA POTA 150 broke after 6 months",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uherb8/sota_pota_150_broke_after_6_months/",
+        "author": "/u/shootingcharlie8"
       },
       {
-        "title": "DYECB",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ufvbta/dyecb/",
-        "author": "/u/Emotional_Complex196"
+        "title": "Any way to use my Murena 2 in the states?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uhrs2a/any_way_to_use_my_murena_2_in_the_states/",
+        "author": "/u/ChampionshipCrafty66"
       },
       {
-        "title": "Farewell BBC Radio 4 on 198 KHz LW",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ug8zp4/farewell_bbc_radio_4_on_198_khz_lw/",
-        "author": "/u/MiddleContext536"
-      },
-      {
-        "title": "Advice on antenna for Icom 7300 for outside of Melbourne Australia?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugwi13/advice_on_antenna_for_icom_7300_for_outside_of/",
-        "author": "/u/timetravellingspy"
-      },
-      {
-        "title": "Morse trainer",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ug29kr/morse_trainer/",
-        "author": "/u/Alternative-Hippo-53"
-      },
-      {
-        "title": "Suggestions for POTA/Apartment HF Mobile Rig for contacts?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugra9u/suggestions_for_potaapartment_hf_mobile_rig_for/",
-        "author": "/u/Keeper4560"
-      },
-      {
-        "title": "Can I use more than one class during Field Day?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugv7d3/can_i_use_more_than_one_class_during_field_day/",
-        "author": "/u/signofzeta"
-      },
-      {
-        "title": "Are you using JS8Call for fun or for real communication?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugcv6t/are_you_using_js8call_for_fun_or_for_real/",
-        "author": "/u/keehap"
-      },
-      {
-        "title": "TE Systems 1452G Amplifier Testing",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugs4q4/te_systems_1452g_amplifier_testing/",
-        "author": "/u/Cactacae420"
-      },
-      {
-        "title": "Great video for peeling back some of the black magic of RF design",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ug8b58/great_video_for_peeling_back_some_of_the_black/",
-        "author": "/u/jephthai"
-      },
-      {
-        "title": "Me now mobile",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ufmzcn/me_now_mobile/",
-        "author": "/u/nutskindrums"
-      },
-      {
-        "title": "Any android apps format FT8 for field day?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ugq1ep/any_android_apps_format_ft8_for_field_day/",
-        "author": "/u/blue-moto"
-      },
-      {
-        "title": "Time to start thinking of starting 2m convo nets on local repeaters",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ufxmyz/time_to_start_thinking_of_starting_2m_convo_nets/",
-        "author": "/u/greenwoody2018"
+        "title": "Z match tuner problem",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uh7b9m/z_match_tuner_problem/",
+        "author": "/u/Budget_Decision2508"
       }
     ]
   }

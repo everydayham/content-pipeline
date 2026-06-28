@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-06-27 12:09 UTC*
+*Last updated: 2026-06-28 12:17 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/ItsBail
 **2. [[MEGA THREAD] ARRL FIELD DAY 2026 - June 27th - 28th](https://www.reddit.com/r/amateurradio/comments/1udwtgq/mega_thread_arrl_field_day_2026_june_27th_28th/)**
 by u/ItsBail
 
-**3. [Please keep 7.135MHz clear for Venuzuelan Earthquake support](https://www.reddit.com/r/amateurradio/comments/1ugnl3f/please_keep_7135mhz_clear_for_venuzuelan/)**
-by u/VE6LK
+**3. [Update on the HT-15; A fully open-source, modular HT.](https://www.reddit.com/r/amateurradio/comments/1uhkf1z/update_on_the_ht15_a_fully_opensource_modular_ht/)**
+by u/bcpratt2000
 
-**4. [My new to me IC-756](https://www.reddit.com/r/amateurradio/comments/1ugs5nk/my_new_to_me_ic756/)**
+**4. [Field Day 2026](https://www.reddit.com/r/amateurradio/comments/1uhj75l/field_day_2026/)**
+by u/SeaJuggernaut8811
+
+**5. [An interesting note about Kenwood radios.](https://www.reddit.com/r/amateurradio/comments/1uhmwkx/an_interesting_note_about_kenwood_radios/)**
+by u/AriaGingko
+
+**6. [Morse Trainer: an Android app for learning and practicing Morse code - junior le...](https://www.reddit.com/r/amateurradio/comments/1uhttu3/morse_trainer_an_android_app_for_learning_and/)**
+by u/Conscious_Corgi_6616
+
+**7. [G90 Custom Firmware Proof of Concept](https://www.reddit.com/r/amateurradio/comments/1uhgqkf/g90_custom_firmware_proof_of_concept/)**
+by u/jp0550
+
+**8. [Was able to make a contact 13.5 miles from the repeater](https://www.reddit.com/r/amateurradio/comments/1uhiz7n/was_able_to_make_a_contact_135_miles_from_the/)**
+by u/djw7wav
+
+**9. [Got a decommissioned R&S XU250A VHF transceiver from Sirte Airport (SRX) wanting...](https://www.reddit.com/r/amateurradio/comments/1uhbm06/got_a_decommissioned_rs_xu250a_vhf_transceiver/)**
+by u/Designer-Cut5122
+
+**10. [Quick sanity check please](https://www.reddit.com/r/amateurradio/comments/1uhnfrb/quick_sanity_check_please/)**
+by u/Beneficial_Crow_5162
+
+**11. [Happy Ham when projects work out!](https://www.reddit.com/r/amateurradio/comments/1uh1fwl/happy_ham_when_projects_work_out/)**
+by u/Mulitpotentialite
+
+**12. [Multiple audio devices in Linux Mint](https://www.reddit.com/r/amateurradio/comments/1uhtr9f/multiple_audio_devices_in_linux_mint/)**
+by u/plankie79
+
+**13. [I couldn't move my house so I moved my antenna and split transmit and receive in...](https://www.reddit.com/r/amateurradio/comments/1uh744j/i_couldnt_move_my_house_so_i_moved_my_antenna_and/)**
+by u/Fun-Conclusion-4471
+
+**14. [Yaesu FT-900 FT-891 and many others no power up clicks on off.](https://www.reddit.com/r/amateurradio/comments/1uhpsov/yaesu_ft900_ft891_and_many_others_no_power_up/)**
+by u/Last_Song8129
+
+**15. [My new to me IC-756](https://www.reddit.com/r/amateurradio/comments/1ugs5nk/my_new_to_me_ic756/)**
 by u/Cactacae420
-
-**5. [My wife made a custom SOTA/POTA LEGO build for my birthday.](https://www.reddit.com/r/amateurradio/comments/1ugh2v8/my_wife_made_a_custom_sotapota_lego_build_for_my/)**
-by u/guy_in_nc
-
-**6. [Laminated some reference sheets and printed stickers for field day! Fingers cros...](https://www.reddit.com/r/amateurradio/comments/1ugpqo5/laminated_some_reference_sheets_and_printed/)**
-by u/MaverickMan42
-
-**7. [GK-2A LRIT, Custom SAW LNA, 3D printed antenna](https://www.reddit.com/r/amateurradio/comments/1ugw2r6/gk2a_lrit_custom_saw_lna_3d_printed_antenna/)**
-by u/Lopsided-Ad434
-
-**8. [RadioShack Used to Sell Kids This Magnificent Madness](https://www.reddit.com/r/amateurradio/comments/1ugndu9/radioshack_used_to_sell_kids_this_magnificent/)**
-by u/ScamSchoolBrian
-
-**9. [Field Day, 2026](https://www.reddit.com/r/amateurradio/comments/1ugerpu/field_day_2026/)**
-by u/Natersozz
-
-**10. [Harbor Freight PTT switch](https://www.reddit.com/r/amateurradio/comments/1ugep3w/harbor_freight_ptt_switch/)**
-by u/blue-moto
-
-**11. [Overload proof LNA SAW filter for 1700MHz / L band Wx Sats now in production!](https://www.reddit.com/r/amateurradio/comments/1ugvzjl/overload_proof_lna_saw_filter_for_1700mhz_l_band/)**
-by u/Lopsided-Ad434
-
-**12. [Is ham radio isolating](https://www.reddit.com/r/amateurradio/comments/1ugh1g8/is_ham_radio_isolating/)**
-by u/Horrorbythenumbers
-
-**13. [Am i eligible for Class -B today with a FT-710 set to 5W?](https://www.reddit.com/r/amateurradio/comments/1ugyvgv/am_i_eligible_for_class_b_today_with_a_ft710_set/)**
-by u/crash5291
-
-**14. [DYECB](https://www.reddit.com/r/amateurradio/comments/1ufvbta/dyecb/)**
-by u/Emotional_Complex196
-
-**15. [Farewell BBC Radio 4 on 198 KHz LW](https://www.reddit.com/r/amateurradio/comments/1ug8zp4/farewell_bbc_radio_4_on_198_khz_lw/)**
-by u/MiddleContext536
 
 ---
 
@@ -61,14 +61,14 @@ by u/MiddleContext536
 
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
 - **[[MEGA THREAD] ARRL FIELD DAY 2026 - June 27th - 28th](https://www.reddit.com/r/amateurradio/comments/1udwtgq/mega_thread_arrl_field_day_2026_june_27th_28th/)** (r/amateurradio)
-- **[Please keep 7.135MHz clear for Venuzuelan Earthquake support](https://www.reddit.com/r/amateurradio/comments/1ugnl3f/please_keep_7135mhz_clear_for_venuzuelan/)** (r/amateurradio)
-- **[My new to me IC-756](https://www.reddit.com/r/amateurradio/comments/1ugs5nk/my_new_to_me_ic756/)** (r/amateurradio)
-- **[My wife made a custom SOTA/POTA LEGO build for my birthday.](https://www.reddit.com/r/amateurradio/comments/1ugh2v8/my_wife_made_a_custom_sotapota_lego_build_for_my/)** (r/amateurradio)
-- **[Laminated some reference sheets and printed stickers for field day! Fi...](https://www.reddit.com/r/amateurradio/comments/1ugpqo5/laminated_some_reference_sheets_and_printed/)** (r/amateurradio)
-- **[GK-2A LRIT, Custom SAW LNA, 3D printed antenna](https://www.reddit.com/r/amateurradio/comments/1ugw2r6/gk2a_lrit_custom_saw_lna_3d_printed_antenna/)** (r/amateurradio)
-- **[RadioShack Used to Sell Kids This Magnificent Madness](https://www.reddit.com/r/amateurradio/comments/1ugndu9/radioshack_used_to_sell_kids_this_magnificent/)** (r/amateurradio)
-- **[Field Day, 2026](https://www.reddit.com/r/amateurradio/comments/1ugerpu/field_day_2026/)** (r/amateurradio)
-- **[Harbor Freight PTT switch](https://www.reddit.com/r/amateurradio/comments/1ugep3w/harbor_freight_ptt_switch/)** (r/amateurradio)
+- **[Update on the HT-15; A fully open-source, modular HT.](https://www.reddit.com/r/amateurradio/comments/1uhkf1z/update_on_the_ht15_a_fully_opensource_modular_ht/)** (r/amateurradio)
+- **[Field Day 2026](https://www.reddit.com/r/amateurradio/comments/1uhj75l/field_day_2026/)** (r/amateurradio)
+- **[An interesting note about Kenwood radios.](https://www.reddit.com/r/amateurradio/comments/1uhmwkx/an_interesting_note_about_kenwood_radios/)** (r/amateurradio)
+- **[Morse Trainer: an Android app for learning and practicing Morse code -...](https://www.reddit.com/r/amateurradio/comments/1uhttu3/morse_trainer_an_android_app_for_learning_and/)** (r/amateurradio)
+- **[G90 Custom Firmware Proof of Concept](https://www.reddit.com/r/amateurradio/comments/1uhgqkf/g90_custom_firmware_proof_of_concept/)** (r/amateurradio)
+- **[Was able to make a contact 13.5 miles from the repeater](https://www.reddit.com/r/amateurradio/comments/1uhiz7n/was_able_to_make_a_contact_135_miles_from_the/)** (r/amateurradio)
+- **[Got a decommissioned R&S XU250A VHF transceiver from Sirte Airport (SR...](https://www.reddit.com/r/amateurradio/comments/1uhbm06/got_a_decommissioned_rs_xu250a_vhf_transceiver/)** (r/amateurradio)
+- **[Quick sanity check please](https://www.reddit.com/r/amateurradio/comments/1uhnfrb/quick_sanity_check_please/)** (r/amateurradio)
 
 ---
 

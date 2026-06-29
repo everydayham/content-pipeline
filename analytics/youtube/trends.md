@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-06-22 16:40 UTC*
+*Last updated: 2026-06-29 15:33 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Самая загадочная радиостанция России | ПРЕМИЯ ДАРВИНА | 5,098,836 | 2026-06-18 |
-| Tractor Pe Baith Ke Gaane Lage Tau-Pota 😂 | Unknown Journey | 873,278 | 2026-06-16 |
-| 😱Bike-ku Kammala Pota Epdi Irukum?பைக்குக்கு கம்மல... | Vikram Rider | 718,845 | 2026-06-18 |
-| buoil pota chola korasi paip (খেজুর)~ Date-palm #g... | AUTO BANGLA  | 670,873 | 2026-06-16 |
-| bouol pota chola korlam pap (লিচু)~licche tree #go... |  Emon khan14 | 606,567 | 2026-06-21 |
-| vuoil pota chola qorasi pap (কমলা)~orange #gojol #... | AUTO BANGLA  | 599,195 | 2026-06-18 |
-| Vuol Pota Sola korasi pap ami (খেজুর)~dates #gojo ... | AUTO BANGLA  | 388,619 | 2026-06-18 |
-| voul pota chola korasi boul (নারিকেল)~coconut #goj... | AUTO BANGLA  | 376,914 | 2026-06-16 |
-| POTA POTI KO SUNBATH KARAANE KA SUKH❤️ | SHEELA KE SHANKAR | 357,008 | 2026-06-18 |
-| 감~자 봤습니다 푸드트럭 | 한동훈 | 339,399 | 2026-06-18 |
-| Naan pota order uhh 🔥 #shorts #food #briyani #biry... | Siri_Ishani_foodzone | 331,924 | 2026-06-20 |
-| KAJU PAPA KE JESE SOTA HE 😮👶🏻👶🏻#bhartisingh #cuteg... | AJS 0.2 | 248,942 | 2026-06-17 |
-| Kya Allah Paak sota hai 😱🥱 ||#sona ||#disaster ||#... | Khan_Writes. | 220,989 | 2026-06-18 |
-| My Town Sent Me A Ham Radio Antenna CITATION! | Ham Radio Crash Cour | 141,063 | 2026-06-18 |
-| Eww kon chipak ke sota hai ? #siblings #northeasti... | Glow with Akia 🌷  | 103,536 | 2026-06-19 |
-| I put up an antenna in the HOA, and Karen can’t se... | Paul "The Southern H | 87,898 | 2026-06-17 |
-| Minecraft TNT Sota OSA 3 w/ Applezzi 🧨 | Kakkuh | 78,645 | 2026-06-17 |
-| Дядя Вова спасёт нас! Ядерная стала ближе? Что дум... | sotavision | 46,926 | 2026-06-17 |
-| Naseeb Sotta VS Super King 🔥 टक्कर के बीच हुआ बड़ा... | ROHIT VSV | 45,366 | 2026-06-17 |
-| 【速報】 藤井聡太 vs 服部慎一郎 （棋聖戦 第2局） 2026/06/19 | たんたんチャンネル | 42,604 | 2026-06-19 |
-| Basketball antenna! #hobby #hamradio #hamradiolife... | Hobby Steve  | 42,259 | 2026-06-20 |
-| SOTA HANAMURA /「Lose」Dance Performance Video | Da-iCE | 39,394 | 2026-06-16 |
-| Hyderabad Me Noton Ke Dher Par Sota Afsar, Nikah K... | Miya Bhai News | 39,124 | 2026-06-16 |
-| Asiantuntija tyrmää yleisen käsityksen – "Oikeasti... | Ivan Puopolo | 38,174 | 2026-06-18 |
-| ISS Ham Radio Contact!  #hamradio #hobby #astrolog... | Radio Roamers | 35,208 | 2026-06-15 |
+| mangaru yadav khesari lal yadav ke pitaji ashirwad... | Nikhil Singh | 623,018 | 2026-06-24 |
+| ONE ANTENNA SHIELDED NINE HOUSES FOR TWENTY YEARS ... | Warm Heart Chronicle | 457,800 | 2026-06-28 |
+| Ракетный удар по заводу электроники для ракет в Во... | sotavision | 201,012 | 2026-06-22 |
+| Связь без интернета через радиостанциии VGC VR-N76 | OKHamRadio | 118,491 | 2026-06-25 |
+| 2026.07.01 BE:FIRST 'Missing' #BF_Missing #BEFIRST... | BE:FIRST Official | 113,653 | 2026-06-24 |
+| BE:FIRSTがW杯現地観戦⁉️選手たちとも写真撮ってる😳林陵平さん、大口貴弘さんInstagra... | beschii | 112,570 | 2026-06-26 |
+| Upar Pankha Chalta Hai Niche Munna Sota Hai | ऊपर ... | Hamari Madhu | 109,636 | 2026-06-23 |
+| Morse code training #morsecode #hamradio #hobby #p... | Hobby Steve  | 102,705 | 2026-06-24 |
+| TESTING DIFFERENT TELEGRAPH CONTROLLERS | Echoes of Honor | 98,485 | 2026-06-22 |
+| 【解説76】気持ちいい手【藤井聡太】 | tamakin将棋実況 | 93,389 | 2026-06-23 |
+| ＜DayDay.＞SOTA HANAMURA(花村想太)「Lose」テレビ初 生披露【アーティストL... | DayDay.【日テレ公式】 | 87,480 | 2026-06-26 |
+| Ini pota bee ku, mana pota bee mu? | Meitama Arief | 83,390 | 2026-06-27 |
+| Pota Rare Id Gift😂 - para SAMSUNG A3,A5,A6,A7,J2,J... | launda FF 2 | 80,499 | 2026-06-26 |
+| Pota ki bahu | Rohit&Varshavlogs  | 79,616 | 2026-06-25 |
+| saszety hari pota | Kate | 73,660 | 2026-06-26 |
+| Naushad ko sota hi dra deta owl 🦉😂🤣😱#comedy #funny... | Thevines30 | 64,054 | 2026-06-24 |
+| Dian makan pota bee, ayah minta disuapin | Dian Ayudia | 55,588 | 2026-06-27 |
+| 【解説78】飛車捕獲【藤井聡太】 | tamakin将棋実況 | 54,813 | 2026-06-25 |
+| Посылка от подписчика | Алексей Кострыкин | 53,781 | 2026-06-28 |
+| 【 BE:FIRST 】 SOTA ' USOTSUKI ' 【 STARGLOW 】 #BEFIR... | まる【 BE:FIRST 切り抜き】 | 50,332 | 2026-06-23 |
+| Suhail  ko sota hi dra deta owl 🦉😂🤣😱#comedy​ #funn... | Thevines30 | 46,897 | 2026-06-25 |
+| Dadi Ke Haath Se Khana Khate Hi Pota Khush Ho Gaya... | Mic On Ritik Vlogs  | 46,769 | 2026-06-23 |
+| Chicken kaleji pota#food #foddielover #eating #you... | Madhu cooking vlogs  | 45,125 | 2026-06-28 |
+| HamCube Mini #morsecode #hamradio #train | Forrest (KI7QCF) | 42,507 | 2026-06-26 |
+| glass pota na yar nu ungaluku theriyathu 😅😅😅😅 #sho... | Tamilgirl_portugal  | 42,139 | 2026-06-24 |
 
 ---
 
@@ -42,14 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (31 videos)
-- **License/Learning**: ████████████████████ (30 videos)
-- **HF Operating**: ████████████████████ (20 videos)
-- **Antennas**: ███████████████████ (19 videos)
-- **Digital Modes**: ██████████ (10 videos)
-- **Gear Reviews**: █████████ (9 videos)
+- **POTA/Portable**: ████████████████████ (28 videos)
+- **License/Learning**: ████████████████████ (22 videos)
+- **HF Operating**: █████████████████ (17 videos)
+- **Antennas**: █████████████ (13 videos)
+- **Gear Reviews**: ████████ (8 videos)
 - **QRP**: ████████ (8 videos)
-- **Contests**: ██ (2 videos)
+- **Digital Modes**: ██████ (6 videos)
+- **Contests**: ███ (3 videos)
 
 ---
 

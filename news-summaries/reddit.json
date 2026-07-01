@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T13:09:37.586264",
+  "updated": "2026-07-01T13:34:39.826565",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,49 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Field Day puts local amateur radio operators\u2019 emergency readiness to the test",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ukl3ov/field_day_puts_local_amateur_radio_operators/",
+        "author": "/u/ScaredGorilla902"
+      },
+      {
+        "title": "Lost motivation after my friend backed out. How to enjoy ham radio as a solo teen?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk0qpg/lost_motivation_after_my_friend_backed_out_how_to/",
+        "author": "/u/AstroS0lar_"
+      },
+      {
+        "title": "Cut YAGI too short, any remedy?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ukbd8b/cut_yagi_too_short_any_remedy/",
+        "author": "/u/AlanCui4080"
+      },
+      {
+        "title": "Repairing Manual Needed",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ukkpmr/repairing_manual_needed/",
+        "author": "/u/LegitimatePassion164"
+      },
+      {
+        "title": "Update on Yaesu Mobile Radios and Full Duplex.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk08wz/update_on_yaesu_mobile_radios_and_full_duplex/",
+        "author": "/u/apple4ever"
+      },
+      {
+        "title": "Where to find equipment/gear/radio stuff?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ukbibf/where_to_find_equipmentgearradio_stuff/",
+        "author": "/u/mr_nerd656"
+      },
+      {
+        "title": "My struggle with morse code",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ujwhcd/my_struggle_with_morse_code/",
+        "author": "/u/armchair_psycholog"
+      },
+      {
         "title": "Tape measure satellite Yagi antenna",
         "link": "https://www.reddit.com/r/amateurradio/comments/1ujgahu/tape_measure_satellite_yagi_antenna/",
         "author": "/u/Educational-Law-6175"
+      },
+      {
+        "title": "How would you safely raise a 12 m (40 ft) wooden mast?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ukiwgh/how_would_you_safely_raise_a_12_m_40_ft_wooden/",
+        "author": "/u/No_Nectarine_4367"
       },
       {
         "title": "Field notes from a portable Tier III DMR install at 4,200 m",
@@ -27,9 +67,54 @@
         "author": "/u/lifsbosu"
       },
       {
+        "title": "Can anyone help identify this portable HF vertical antenna?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ujrozv/can_anyone_help_identify_this_portable_hf/",
+        "author": "/u/Odd_Analyst1496"
+      },
+      {
+        "title": "G5RV LITE setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ujuwd0/g5rv_lite_setup/",
+        "author": "/u/just-a-guy-somewhere"
+      },
+      {
+        "title": "40M yagi. Where can I get one?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk2elp/40m_yagi_where_can_i_get_one/",
+        "author": "/u/whats_in_the_boxlady"
+      },
+      {
+        "title": "vhf / uhf / HF questions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk4u80/vhf_uhf_hf_questions/",
+        "author": "/u/velrin"
+      },
+      {
+        "title": "Quansheng UV-K5 clone with 27MHz CB antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ujrmk9/quansheng_uvk5_clone_with_27mhz_cb_antenna/",
+        "author": "/u/satina_nix"
+      },
+      {
+        "title": "Looking for community-Bristol Bay AK area",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk2cke/looking_for_communitybristol_bay_ak_area/",
+        "author": "/u/SocialSyphilis"
+      },
+      {
+        "title": "Feeing a Random Wire with 450 Ohm LL into my Shack",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk5vj2/feeing_a_random_wire_with_450_ohm_ll_into_my_shack/",
+        "author": "/u/Burtronic"
+      },
+      {
+        "title": "Ok doublet fans, I could use some validation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uk47ns/ok_doublet_fans_i_could_use_some_validation/",
+        "author": "/u/thesoulless78"
+      },
+      {
         "title": "Tower Information please and thank you.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uj5z9m/tower_information_please_and_thank_you/",
         "author": "/u/lonebearj"
+      },
+      {
+        "title": "Lightweight Allmon3 add-on that queries the Asterisk and returns mappable data of every node in your ASL network",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ujtzm4/lightweight_allmon3_addon_that_queries_the/",
+        "author": "/u/TalkOfTheRock"
       },
       {
         "title": "Another disappointment",
@@ -42,94 +127,9 @@
         "author": "/u/CerealLogiq13"
       },
       {
-        "title": "what y'all think about the baofeng AR-152 Pro?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ujnlcr/what_yall_think_about_the_baofeng_ar152_pro/",
-        "author": "/u/xX_NEVERER_Xx"
-      },
-      {
-        "title": "Is there a SWR meter somewhere in the middle of Nano VNA / RigExpert? I like the price of the Nano but it\u2019s too complicated. RigExpert is super simple but too expensive.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ujcpy5/is_there_a_swr_meter_somewhere_in_the_middle_of/",
-        "author": "/u/smeeg123"
-      },
-      {
-        "title": "Crystal Radio Fix?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj5zg8/crystal_radio_fix/",
-        "author": "/u/Famous-Woodpecker-72"
-      },
-      {
         "title": "147.450mhz Los Angeles",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uj9t5y/147450mhz_los_angeles/",
         "author": "/u/Mind_Matters_Most"
-      },
-      {
-        "title": "What tiny QRP radios are any good? Ideally not super expensive",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj15ax/what_tiny_qrp_radios_are_any_good_ideally_not/",
-        "author": "/u/thesoulless78"
-      },
-      {
-        "title": "Ground bus question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj8j93/ground_bus_question/",
-        "author": "/u/LumpyGravy123456789"
-      },
-      {
-        "title": "The sheer joy of a 6m QRP Field Day contact, operator is 92 year old",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ui3mwx/the_sheer_joy_of_a_6m_qrp_field_day_contact/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "I contacted the ISS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uins2i/i_contacted_the_iss/",
-        "author": "/u/Subject_Reindeer2394"
-      },
-      {
-        "title": "Is there any urgency to buy an IC-7300 now (rebate expires tomorrow)?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj0cdv/is_there_any_urgency_to_buy_an_ic7300_now_rebate/",
-        "author": "/u/WillieM96"
-      },
-      {
-        "title": "Has anyone worked FM satellites with the FTM-310D?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ujc1bk/has_anyone_worked_fm_satellites_with_the_ftm310d/",
-        "author": "/u/GiantsNerd1"
-      },
-      {
-        "title": "Dear canadians: I'll be in Toronto from Wed on, meet up?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj4ygz/dear_canadians_ill_be_in_toronto_from_wed_on_meet/",
-        "author": "/u/forteatoo1"
-      },
-      {
-        "title": "Seeking an Elmer to Experience Operating on my Dream Set, the Collins Gold Dust Twins",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uihvst/seeking_an_elmer_to_experience_operating_on_my/",
-        "author": "/u/texasbarkintrilobite"
-      },
-      {
-        "title": "Portable Antennae Clarity",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj226t/portable_antennae_clarity/",
-        "author": "/u/dleach4512"
-      },
-      {
-        "title": "Hacking together a power source for my UV-21R",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj1yry/hacking_together_a_power_source_for_my_uv21r/",
-        "author": "/u/pulybasa4"
-      },
-      {
-        "title": "Beam antenna for a car roof?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uirtdz/beam_antenna_for_a_car_roof/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Started a local Facebook group",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uj5yit/started_a_local_facebook_group/",
-        "author": "/u/Horrorbythenumbers"
-      },
-      {
-        "title": "Had to miss field day...",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uiii31/had_to_miss_field_day/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
-        "title": "I participated in my first Field Day for 3 hours from a RFI quiet, saltwater beach. I could almost hear too well. Highly recommend the experience, especially if you're usually in a major city.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uibe21/i_participated_in_my_first_field_day_for_3_hours/",
-        "author": "/u/CdrTaggert"
       }
     ]
   }

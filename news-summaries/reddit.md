@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-01 13:34 UTC*
+*Last updated: 2026-07-02 12:59 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -11,47 +11,47 @@ Hot posts from the amateur radio communities on Reddit.
 **1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uirult/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
-**2. [[MEGA THREAD] ARRL FIELD DAY 2026 - June 27th - 28th](https://www.reddit.com/r/amateurradio/comments/1udwtgq/mega_thread_arrl_field_day_2026_june_27th_28th/)**
+**2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Field Day puts local amateur radio operators’ emergency readiness to the test](https://www.reddit.com/r/amateurradio/comments/1ukl3ov/field_day_puts_local_amateur_radio_operators/)**
-by u/ScaredGorilla902
+**3. [“A little cable management won’t hurt”](https://www.reddit.com/r/amateurradio/comments/1ulbfiq/a_little_cable_management_wont_hurt/)**
+by u/oxvf
 
-**4. [Lost motivation after my friend backed out. How to enjoy ham radio as a solo tee...](https://www.reddit.com/r/amateurradio/comments/1uk0qpg/lost_motivation_after_my_friend_backed_out_how_to/)**
-by u/AstroS0lar_
+**4. [Repeater Troubleshooting](https://www.reddit.com/r/amateurradio/comments/1ul5fe5/repeater_troubleshooting/)**
+by u/avy_slayr
 
-**5. [Cut YAGI too short, any remedy?](https://www.reddit.com/r/amateurradio/comments/1ukbd8b/cut_yagi_too_short_any_remedy/)**
-by u/AlanCui4080
+**5. [Passed my tech](https://www.reddit.com/r/amateurradio/comments/1ul79hv/passed_my_tech/)**
+by u/SheepDog30542
 
-**6. [Repairing Manual Needed](https://www.reddit.com/r/amateurradio/comments/1ukkpmr/repairing_manual_needed/)**
-by u/LegitimatePassion164
+**6. [Any 100W HF radios that support the new non-channelized section of 60m (or have ...](https://www.reddit.com/r/amateurradio/comments/1ulgofi/any_100w_hf_radios_that_support_the_new/)**
+by u/thesoulless78
 
-**7. [Update on Yaesu Mobile Radios and Full Duplex.](https://www.reddit.com/r/amateurradio/comments/1uk08wz/update_on_yaesu_mobile_radios_and_full_duplex/)**
-by u/apple4ever
+**7. [WWA on WARC bands](https://www.reddit.com/r/amateurradio/comments/1ulb8j5/wwa_on_warc_bands/)**
+by u/Paddys
 
-**8. [Where to find equipment/gear/radio stuff?](https://www.reddit.com/r/amateurradio/comments/1ukbibf/where_to_find_equipmentgearradio_stuff/)**
-by u/mr_nerd656
-
-**9. [My struggle with morse code](https://www.reddit.com/r/amateurradio/comments/1ujwhcd/my_struggle_with_morse_code/)**
-by u/armchair_psycholog
-
-**10. [Tape measure satellite Yagi antenna](https://www.reddit.com/r/amateurradio/comments/1ujgahu/tape_measure_satellite_yagi_antenna/)**
-by u/Educational-Law-6175
-
-**11. [How would you safely raise a 12 m (40 ft) wooden mast?](https://www.reddit.com/r/amateurradio/comments/1ukiwgh/how_would_you_safely_raise_a_12_m_40_ft_wooden/)**
-by u/No_Nectarine_4367
-
-**12. [Field notes from a portable Tier III DMR install at 4,200 m](https://www.reddit.com/r/amateurradio/comments/1ujiwqn/field_notes_from_a_portable_tier_iii_dmr_install/)**
-by u/lifsbosu
-
-**13. [Can anyone help identify this portable HF vertical antenna?](https://www.reddit.com/r/amateurradio/comments/1ujrozv/can_anyone_help_identify_this_portable_hf/)**
-by u/Odd_Analyst1496
-
-**14. [G5RV LITE setup](https://www.reddit.com/r/amateurradio/comments/1ujuwd0/g5rv_lite_setup/)**
+**8. [Antenna fix?](https://www.reddit.com/r/amateurradio/comments/1ul4o1g/antenna_fix/)**
 by u/just-a-guy-somewhere
 
-**15. [40M yagi. Where can I get one?](https://www.reddit.com/r/amateurradio/comments/1uk2elp/40m_yagi_where_can_i_get_one/)**
-by u/whats_in_the_boxlady
+**9. [Radioddity Flash Bundle on Xiegu 6200 -- $729 including XPA125B cable & external...](https://www.reddit.com/r/amateurradio/comments/1ulbej3/radioddity_flash_bundle_on_xiegu_6200_729/)**
+by u/Bolt_EV
+
+**10. [13 Colonies](https://www.reddit.com/r/amateurradio/comments/1ul1cyy/13_colonies/)**
+by u/FarFigNewton007
+
+**11. [BANDWIDTH | National Film Board of Canada](https://www.reddit.com/r/amateurradio/comments/1ulehs7/bandwidth_national_film_board_of_canada/)**
+by u/herpesderpesdoodoo
+
+**12. [Need input](https://www.reddit.com/r/amateurradio/comments/1ukqrse/need_input/)**
+by u/West-Parsley-3172
+
+**13. [Mic fright](https://www.reddit.com/r/amateurradio/comments/1ukrj1n/mic_fright/)**
+by u/Dull-Machine-4946
+
+**14. [Alpha 77SX HF amplifier with two tubes model.](https://www.reddit.com/r/amateurradio/comments/1ukrc9a/alpha_77sx_hf_amplifier_with_two_tubes_model/)**
+by u/EfficientCookie7997
+
+**15. [Mobile UHF/VHF plus portable NVIS tips for a SAR guy?](https://www.reddit.com/r/amateurradio/comments/1ukru81/mobile_uhfvhf_plus_portable_nvis_tips_for_a_sar/)**
+by u/NotThePopeProbably
 
 ---
 
@@ -60,15 +60,15 @@ by u/whats_in_the_boxlady
 *Latest posts across both subreddits:*
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uirult/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[[MEGA THREAD] ARRL FIELD DAY 2026 - June 27th - 28th](https://www.reddit.com/r/amateurradio/comments/1udwtgq/mega_thread_arrl_field_day_2026_june_27th_28th/)** (r/amateurradio)
-- **[Field Day puts local amateur radio operators’ emergency readiness to t...](https://www.reddit.com/r/amateurradio/comments/1ukl3ov/field_day_puts_local_amateur_radio_operators/)** (r/amateurradio)
-- **[Lost motivation after my friend backed out. How to enjoy ham radio as ...](https://www.reddit.com/r/amateurradio/comments/1uk0qpg/lost_motivation_after_my_friend_backed_out_how_to/)** (r/amateurradio)
-- **[Cut YAGI too short, any remedy?](https://www.reddit.com/r/amateurradio/comments/1ukbd8b/cut_yagi_too_short_any_remedy/)** (r/amateurradio)
-- **[Repairing Manual Needed](https://www.reddit.com/r/amateurradio/comments/1ukkpmr/repairing_manual_needed/)** (r/amateurradio)
-- **[Update on Yaesu Mobile Radios and Full Duplex.](https://www.reddit.com/r/amateurradio/comments/1uk08wz/update_on_yaesu_mobile_radios_and_full_duplex/)** (r/amateurradio)
-- **[Where to find equipment/gear/radio stuff?](https://www.reddit.com/r/amateurradio/comments/1ukbibf/where_to_find_equipmentgearradio_stuff/)** (r/amateurradio)
-- **[My struggle with morse code](https://www.reddit.com/r/amateurradio/comments/1ujwhcd/my_struggle_with_morse_code/)** (r/amateurradio)
-- **[Tape measure satellite Yagi antenna](https://www.reddit.com/r/amateurradio/comments/1ujgahu/tape_measure_satellite_yagi_antenna/)** (r/amateurradio)
+- **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[“A little cable management won’t hurt”](https://www.reddit.com/r/amateurradio/comments/1ulbfiq/a_little_cable_management_wont_hurt/)** (r/amateurradio)
+- **[Repeater Troubleshooting](https://www.reddit.com/r/amateurradio/comments/1ul5fe5/repeater_troubleshooting/)** (r/amateurradio)
+- **[Passed my tech](https://www.reddit.com/r/amateurradio/comments/1ul79hv/passed_my_tech/)** (r/amateurradio)
+- **[Any 100W HF radios that support the new non-channelized section of 60m...](https://www.reddit.com/r/amateurradio/comments/1ulgofi/any_100w_hf_radios_that_support_the_new/)** (r/amateurradio)
+- **[WWA on WARC bands](https://www.reddit.com/r/amateurradio/comments/1ulb8j5/wwa_on_warc_bands/)** (r/amateurradio)
+- **[Antenna fix?](https://www.reddit.com/r/amateurradio/comments/1ul4o1g/antenna_fix/)** (r/amateurradio)
+- **[Radioddity Flash Bundle on Xiegu 6200 -- $729 including XPA125B cable ...](https://www.reddit.com/r/amateurradio/comments/1ulbej3/radioddity_flash_bundle_on_xiegu_6200_729/)** (r/amateurradio)
+- **[13 Colonies](https://www.reddit.com/r/amateurradio/comments/1ul1cyy/13_colonies/)** (r/amateurradio)
 
 ---
 

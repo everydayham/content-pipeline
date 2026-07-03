@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:59:33.674352",
+  "updated": "2026-07-03T12:57:10.024963",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,74 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "I bought a Xiegu G90, here's my opinion on it.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um96t9/i_bought_a_xiegu_g90_heres_my_opinion_on_it/",
+        "author": "/u/S52_DiDah"
+      },
+      {
+        "title": "CQ Field Day!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1umb7hp/cq_field_day/",
+        "author": "/u/kae13381"
+      },
+      {
+        "title": "Why is my DIY common mode choke spiking my SWR?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulxspu/why_is_my_diy_common_mode_choke_spiking_my_swr/",
+        "author": "/u/ali_j_ashraf"
+      },
+      {
+        "title": "Empire State Building climbers",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulm4ta/empire_state_building_climbers/",
+        "author": "/u/maz356"
+      },
+      {
+        "title": "My dog just had an operation and she got a cone",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulrog8/my_dog_just_had_an_operation_and_she_got_a_cone/",
+        "author": "/u/mustycups"
+      },
+      {
+        "title": "EFRW unun question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1umdgeu/efrw_unun_question/",
+        "author": "/u/Vader7071"
+      },
+      {
+        "title": "Matching feedpoint impedance on a coil loaded dipole",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1umd7a2/matching_feedpoint_impedance_on_a_coil_loaded/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "Is the topography of my property killing my signal?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulsdk2/is_the_topography_of_my_property_killing_my_signal/",
+        "author": "/u/BeCoolHoney-Bunny"
+      },
+      {
         "title": "\u201cA little cable management won\u2019t hurt\u201d",
         "link": "https://www.reddit.com/r/amateurradio/comments/1ulbfiq/a_little_cable_management_wont_hurt/",
         "author": "/u/oxvf"
+      },
+      {
+        "title": "First radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um01vr/first_radio/",
+        "author": "/u/Zfire-BR"
+      },
+      {
+        "title": "RTL-SDR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um8dbf/rtlsdr/",
+        "author": "/u/Ok_Bumblebee_7637"
+      },
+      {
+        "title": "Antenna ideas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um3p5j/antenna_ideas/",
+        "author": "/u/modernmarksman"
+      },
+      {
+        "title": "Reverse bulkhead adapter?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um7f0p/reverse_bulkhead_adapter/",
+        "author": "/u/nutskindrums"
+      },
+      {
+        "title": "Comments for magazine article",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulxpeb/comments_for_magazine_article/",
+        "author": "/u/Spudhorse2000"
       },
       {
         "title": "Repeater Troubleshooting",
@@ -27,9 +92,29 @@
         "author": "/u/avy_slayr"
       },
       {
-        "title": "Passed my tech",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ul79hv/passed_my_tech/",
-        "author": "/u/SheepDog30542"
+        "title": "Misc Equipment Valuable?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulrtqg/misc_equipment_valuable/",
+        "author": "/u/Messy_Yessi"
+      },
+      {
+        "title": "Cheap CW & FT8 transceiver",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulro5z/cheap_cw_ft8_transceiver/",
+        "author": "/u/trackmastack"
+      },
+      {
+        "title": "Single Transceiver Options for Linear Sats?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ulq26v/single_transceiver_options_for_linear_sats/",
+        "author": "/u/ThrowMeAway_eta_2MO"
+      },
+      {
+        "title": "So... my dipole experiment didn't work out. But, hey! I optimized my quarter wavelength!!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um3vrf/so_my_dipole_experiment_didnt_work_out_but_hey_i/",
+        "author": "/u/Educational-Kiwi8740"
+      },
+      {
+        "title": "FT-60 Issue",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um3tro/ft60_issue/",
+        "author": "/u/dingenium"
       },
       {
         "title": "Any 100W HF radios that support the new non-channelized section of 60m (or have known firmware updates coming)?",
@@ -37,99 +122,14 @@
         "author": "/u/thesoulless78"
       },
       {
-        "title": "WWA on WARC bands",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulb8j5/wwa_on_warc_bands/",
-        "author": "/u/Paddys"
+        "title": "Battery power for Retivis RT-95",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1um1s1v/battery_power_for_retivis_rt95/",
+        "author": "/u/bat_rastards"
       },
       {
-        "title": "Antenna fix?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ul4o1g/antenna_fix/",
-        "author": "/u/just-a-guy-somewhere"
-      },
-      {
-        "title": "Radioddity Flash Bundle on Xiegu 6200 -- $729 including XPA125B cable & external speaker",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulbej3/radioddity_flash_bundle_on_xiegu_6200_729/",
-        "author": "/u/Bolt_EV"
-      },
-      {
-        "title": "13 Colonies",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ul1cyy/13_colonies/",
-        "author": "/u/FarFigNewton007"
-      },
-      {
-        "title": "BANDWIDTH | National Film Board of Canada",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulehs7/bandwidth_national_film_board_of_canada/",
-        "author": "/u/herpesderpesdoodoo"
-      },
-      {
-        "title": "Need input",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukqrse/need_input/",
-        "author": "/u/West-Parsley-3172"
-      },
-      {
-        "title": "Mic fright",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukrj1n/mic_fright/",
-        "author": "/u/Dull-Machine-4946"
-      },
-      {
-        "title": "Alpha 77SX HF amplifier with two tubes model.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukrc9a/alpha_77sx_hf_amplifier_with_two_tubes_model/",
-        "author": "/u/EfficientCookie7997"
-      },
-      {
-        "title": "Mobile UHF/VHF plus portable NVIS tips for a SAR guy?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukru81/mobile_uhfvhf_plus_portable_nvis_tips_for_a_sar/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
-        "title": "Field Day puts local amateur radio operators\u2019 emergency readiness to the test",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukl3ov/field_day_puts_local_amateur_radio_operators/",
-        "author": "/u/ScaredGorilla902"
-      },
-      {
-        "title": "Whats your portable radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ul5ubj/whats_your_portable_radio/",
-        "author": "/u/sweetnessfnerk"
-      },
-      {
-        "title": "CW Software for Yaesu FT-710",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ul3opw/cw_software_for_yaesu_ft710/",
-        "author": "/u/ManyMixture826"
-      },
-      {
-        "title": "Cut YAGI too short, any remedy?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukbd8b/cut_yagi_too_short_any_remedy/",
-        "author": "/u/AlanCui4080"
-      },
-      {
-        "title": "Tower signage for club needs 3d Printing help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukxj85/tower_signage_for_club_needs_3d_printing_help/",
-        "author": "/u/mrsir79"
-      },
-      {
-        "title": "Icon ID5100 Ferrite Question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukr2cg/icon_id5100_ferrite_question/",
-        "author": "/u/Material-Sorbet8339"
-      },
-      {
-        "title": "Lost motivation after my friend backed out. How to enjoy ham radio as a solo teen?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uk0qpg/lost_motivation_after_my_friend_backed_out_how_to/",
-        "author": "/u/AstroS0lar_"
-      },
-      {
-        "title": "Where to find equipment/gear/radio stuff?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukbibf/where_to_find_equipmentgearradio_stuff/",
-        "author": "/u/mr_nerd656"
-      },
-      {
-        "title": "How would you safely raise a 12 m (40 ft) wooden mast?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ukiwgh/how_would_you_safely_raise_a_12_m_40_ft_wooden/",
-        "author": "/u/No_Nectarine_4367"
-      },
-      {
-        "title": "Update on Yaesu Mobile Radios and Full Duplex.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uk08wz/update_on_yaesu_mobile_radios_and_full_duplex/",
-        "author": "/u/apple4ever"
+        "title": "Passed my tech",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ul79hv/passed_my_tech/",
+        "author": "/u/SheepDog30542"
       }
     ]
   }

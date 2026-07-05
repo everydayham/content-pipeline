@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T12:08:42.032006",
+  "updated": "2026-07-05T12:18:34.654190",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,104 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Hey I saw this in a thrift store",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unbbdk/hey_i_saw_this_in_a_thrift_store/",
+        "author": "/u/M4KK0_7_"
+      },
+      {
+        "title": "Mobile Rig",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uncbba/mobile_rig/",
+        "author": "/u/Tounage"
+      },
+      {
+        "title": "Attic antenna is frying my 2nd floor LEDs",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unnh8v/attic_antenna_is_frying_my_2nd_floor_leds/",
+        "author": "/u/razor_train"
+      },
+      {
+        "title": "How much am I giving up by going for 20W instead of 100W?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unkgkj/how_much_am_i_giving_up_by_going_for_20w_instead/",
+        "author": "/u/RationallyDense"
+      },
+      {
+        "title": "Noise source all bands",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo0jou/noise_source_all_bands/",
+        "author": "/u/Chipper1685"
+      },
+      {
+        "title": "Anyone used vr for satellite SDR?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uneang/anyone_used_vr_for_satellite_sdr/",
+        "author": "/u/PrepYourselves"
+      },
+      {
+        "title": "Looks as if I'm the gingerbread man on this band in digital",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unukvj/looks_as_if_im_the_gingerbread_man_on_this_band/",
+        "author": "/u/root_127-0-0-1"
+      },
+      {
+        "title": "CYD Dashboard for Ham Use",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unwr1y/cyd_dashboard_for_ham_use/",
+        "author": "/u/MattHousley"
+      },
+      {
+        "title": "New HAM looking for first radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uny7oq/new_ham_looking_for_first_radio/",
+        "author": "/u/OldAbbreviations12"
+      },
+      {
+        "title": "Icom ic-746 (non pro) CAT cable",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unx9yy/icom_ic746_non_pro_cat_cable/",
+        "author": "/u/ViktorGamin"
+      },
+      {
+        "title": "Sony Color Watchman FDL-380 receives RF but won't lock onto video",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unhp0m/sony_color_watchman_fdl380_receives_rf_but_wont/",
+        "author": "/u/EducationalCover2100"
+      },
+      {
         "title": "Built my own power box",
         "link": "https://www.reddit.com/r/amateurradio/comments/1umxhsf/built_my_own_power_box/",
         "author": "/u/actionfingerss"
+      },
+      {
+        "title": "Anyone with experience with the Radiolink AT9S Pro?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unt0x3/anyone_with_experience_with_the_radiolink_at9s_pro/",
+        "author": "/u/Specific-Cancel-2534"
+      },
+      {
+        "title": "Does anyone know the model of these radio antennas? Or any information about them?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unhnq7/does_anyone_know_the_model_of_these_radio/",
+        "author": "/u/ketchup1345"
+      },
+      {
+        "title": "At what point is a Sprint no longer a \"sprint\" but just a week-long contest?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unc08l/at_what_point_is_a_sprint_no_longer_a_sprint_but/",
+        "author": "/u/grendelt"
+      },
+      {
+        "title": "Can't Understand HF Single Sideband Voice",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1una7lv/cant_understand_hf_single_sideband_voice/",
+        "author": "/u/longdog10"
+      },
+      {
+        "title": "RH-770 Antenna Does it really work?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unq12v/rh770_antenna_does_it_really_work/",
+        "author": "/u/kuduruk"
+      },
+      {
+        "title": "Looking for Xeigu G90 face plate and mic",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unfek7/looking_for_xeigu_g90_face_plate_and_mic/",
+        "author": "/u/BigEstablishment5122"
+      },
+      {
+        "title": "LNA for ADS-B",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unnimw/lna_for_adsb/",
+        "author": "/u/Malkozaine"
+      },
+      {
+        "title": "Hello. Does this seem like a job a \"IT guy\" could learn or is radio knowledge difficult to grasp without years of training/passion.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unhwu6/hello_does_this_seem_like_a_job_a_it_guy_could/",
+        "author": "/u/GreaterMetro"
       },
       {
         "title": "Sometimes you gotta do what you have to do",
@@ -27,109 +122,14 @@
         "author": "/u/CaptainSpez"
       },
       {
-        "title": "Hamfests vs. eBay/Craigslist",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umxopd/hamfests_vs_ebaycraigslist/",
-        "author": "/u/NotThePopeProbably"
+        "title": "VUURWERK v1.5.0 released: UV-K5 firmware with a voice-seeking spectrum",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unllab/vuurwerk_v150_released_uvk5_firmware_with_a/",
+        "author": "/u/Popular-Ad5171"
       },
       {
-        "title": "Tom Green & Ham Radio Enthusiasts Make Contact",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umghhx/tom_green_ham_radio_enthusiasts_make_contact/",
-        "author": "/u/SultanPepper"
-      },
-      {
-        "title": "FT-710 and FLDigi",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1un6hhv/ft710_and_fldigi/",
-        "author": "/u/ManyMixture826"
-      },
-      {
-        "title": "I bought a Xiegu G90, here's my opinion on it.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1um96t9/i_bought_a_xiegu_g90_heres_my_opinion_on_it/",
-        "author": "/u/S52_DiDah"
-      },
-      {
-        "title": "Never procrastinate on something that is important",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ummvcz/never_procrastinate_on_something_that_is_important/",
-        "author": "/u/NLCmanure"
-      },
-      {
-        "title": "CQ Field Day!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umb7hp/cq_field_day/",
-        "author": "/u/kae13381"
-      },
-      {
-        "title": "Any reccs for a easy-to-deploy sunshade for POTA?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umoy9o/any_reccs_for_a_easytodeploy_sunshade_for_pota/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "SE HF X-80 XP High Power 1kW Vertical Antenna and changing SWR's",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umt6bd/se_hf_x80_xp_high_power_1kw_vertical_antenna_and/",
-        "author": "/u/PaulTurkk"
-      },
-      {
-        "title": "Bird Model 82 Dummy Load connector adapter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umn6xs/bird_model_82_dummy_load_connector_adapter/",
-        "author": "/u/KB0NES-Phil"
-      },
-      {
-        "title": "Why is my DIY common mode choke spiking my SWR?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulxspu/why_is_my_diy_common_mode_choke_spiking_my_swr/",
-        "author": "/u/ali_j_ashraf"
-      },
-      {
-        "title": "my radtel rt-950 pro might come today, should i be worried?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1un08qr/my_radtel_rt950_pro_might_come_today_should_i_be/",
-        "author": "/u/kupasbob"
-      },
-      {
-        "title": "EFRW unun question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umdgeu/efrw_unun_question/",
-        "author": "/u/Vader7071"
-      },
-      {
-        "title": "Could putting a radio and a LiFePO4 battery in a hot car cuase one of them to blow a fuse when turned on?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umgsy7/could_putting_a_radio_and_a_lifepo4_battery_in_a/",
-        "author": "/u/kc3zyt"
-      },
-      {
-        "title": "Radio and antenna recommendations for listening to local airport traffic?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umpx3x/radio_and_antenna_recommendations_for_listening/",
-        "author": "/u/Psychological-Try920"
-      },
-      {
-        "title": "Empire State Building climbers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulm4ta/empire_state_building_climbers/",
-        "author": "/u/maz356"
-      },
-      {
-        "title": "My dog just had an operation and she got a cone",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulrog8/my_dog_just_had_an_operation_and_she_got_a_cone/",
-        "author": "/u/mustycups"
-      },
-      {
-        "title": "Matching feedpoint impedance on a coil loaded dipole",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umd7a2/matching_feedpoint_impedance_on_a_coil_loaded/",
-        "author": "/u/thesoulless78"
-      },
-      {
-        "title": "Is the topography of my property killing my signal?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulsdk2/is_the_topography_of_my_property_killing_my_signal/",
-        "author": "/u/BeCoolHoney-Bunny"
-      },
-      {
-        "title": "\u201cA little cable management won\u2019t hurt\u201d",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ulbfiq/a_little_cable_management_wont_hurt/",
-        "author": "/u/oxvf"
-      },
-      {
-        "title": "Antenna ideas",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1um3p5j/antenna_ideas/",
-        "author": "/u/modernmarksman"
-      },
-      {
-        "title": "First radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1um01vr/first_radio/",
-        "author": "/u/Zfire-BR"
+        "title": "Online testing recommendations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ungjyo/online_testing_recommendations/",
+        "author": "/u/EntropyNegotiator"
       }
     ]
   }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-29T15:33:23.047754",
+  "updated": "2026-07-06T15:15:09.256500",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "O51SpgG0lLarGYcFr8i1Yi3r7bo",
+    "etag": "A_NjtwEp-zRFZTTtMTH5iylY4VY",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,235 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "217959",
-      "subscriberCount": "2080",
+      "viewCount": "222053",
+      "subscriberCount": "2100",
       "hiddenSubscriberCount": false,
-      "videoCount": "140"
+      "videoCount": "143"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "iSOfIKIzMUW28P0ymHx99F8ZXYI",
+      "etag": "jb1yvQFM0s0-QhS72WI3Npx7t7c",
+      "id": "ldjar8aKMPM",
+      "snippet": {
+        "publishedAt": "2026-07-04T19:04:00Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
+        "description": "Has Parks on the Air already peaked? This clip is from Everyday Ham Episode 18. Watch the full episode here: https://youtu.be/xKMKYlSsglY?si=StD8OCJ-iOcVTrw6\n\nJames (K8JKU), Jim (N8JRD), and Rory (W8KNX) tackle the question every activator is quietly asking: is POTA still growing, or has the program hit its plateau? The guys debate whether Parks on the Air is in its twilight or its golden years, why the growth curve is flattening now that most active hams have already tried it, and what the declining solar cycle means for a program built around QRP and portable operating. They also get into why tougher band conditions may push more operators toward CW and FT8, why bringing every tool in the toolbox matters more than ever, and the volunteers and board members working to keep POTA running for the long haul.\n\nParks on the Air is a volunteer-run organization. If you love POTA, consider donating at https://parksontheair.com\n\nWatch the full episode, including our recap of the Third Annual Michigan POTA Meetup at Hartwick Pines State Park: https://youtu.be/xKMKYlSsglY?si=StD8OCJ-iOcVTrw6\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #parksontheair #amateurradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldjar8aKMPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldjar8aKMPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldjar8aKMPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ldjar8aKMPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ldjar8aKMPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "parks on the air",
+          "POTA",
+          "has pota peaked",
+          "future of pota",
+          "ham radio",
+          "amateur radio",
+          "pota activation",
+          "solar cycle ham radio",
+          "band conditions",
+          "FT8",
+          "CW",
+          "QRP",
+          "portable ham radio",
+          "everyday ham",
+          "ham radio podcast",
+          "pota hunter",
+          "ham radio debate"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
+          "description": "Has Parks on the Air already peaked? This clip is from Everyday Ham Episode 18. Watch the full episode here: https://youtu.be/xKMKYlSsglY?si=StD8OCJ-iOcVTrw6\n\nJames (K8JKU), Jim (N8JRD), and Rory (W8KNX) tackle the question every activator is quietly asking: is POTA still growing, or has the program hit its plateau? The guys debate whether Parks on the Air is in its twilight or its golden years, why the growth curve is flattening now that most active hams have already tried it, and what the declining solar cycle means for a program built around QRP and portable operating. They also get into why tougher band conditions may push more operators toward CW and FT8, why bringing every tool in the toolbox matters more than ever, and the volunteers and board members working to keep POTA running for the long haul.\n\nParks on the Air is a volunteer-run organization. If you love POTA, consider donating at https://parksontheair.com\n\nWatch the full episode, including our recap of the Third Annual Michigan POTA Meetup at Hartwick Pines State Park: https://youtu.be/xKMKYlSsglY?si=StD8OCJ-iOcVTrw6\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #parksontheair #amateurradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "223",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "p-F3l8WLcR27kXQgxnQChrCl-p8",
+      "id": "hcXOOwiPnr0",
+      "snippet": {
+        "publishedAt": "2026-07-03T18:47:29Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
+        "description": "A full walking tour of the South Lyon Area Amateur Radio Club's 2026 Field Day site at the historic Witch's Hat Depot in downtown South Lyon, MI. If you're looking for ideas on how to plan, set up, and run your own Field Day, this one's for you.\n\nWe moved Field Day into town this year and built the whole site from scratch, right across from the brewery. In this tour, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) walk you through every decision behind the South Lyon Area Amateur Radio Club (N8SL) operation, a 3A entry plus a Get On The Air station, so you can borrow what works.\n\nWhat you'll pick up for your own site:\n- How we laid out antennas across a tight in-town lot: the homebrew \"Larry\" 40m vertical, our first hex beam in years (the BuddiHEX), and a Spiderbeam mast stacking the BandHopper 4 on 80m over an Aerial-51 off-center fed dipole\n- A beginner-friendly GOTA setup (Icom IC-7300 + a visible, easy-to-adjust Buddistick) with a homemade exchange cheat sheet and paper logging sheet to get first-timers over mic fright\n- Keeping operators consistent: a matched fleet of Yaesu FTDX10s on N1MM+, networked with a live projector scoreboard so visitors can follow along\n- Cheap, effective site safety and public outreach: caution tape on $2 step-in fence posts, explanatory antenna signs, and a \"What is Field Day?\" welcome booth\n- Small-club realities: crew size, ease-of-setup ratings, and why we finally invested in a directional antenna\n\nChapters:\n00:00 Welcome to Field Day\n00:15 Arriving at The Depot, South Lyon\n01:01 Tour overview: 3A + GOTA\n01:38 The Depot's history\n02:02 The \"Larry\" 40m homebrew vertical\n03:31 The caboose & train museum\n03:50 Welcome tent + GOTA station (IC-7300, Buddistick)\n05:17 GOTA resources: cheat sheet & paper logging\n06:21 Live GOTA contact\n07:11 Education posters & Meet the club\n08:03 The BuddiHEX hex beam\n09:55 Spiderbeam mast: BandHopper 4 (80m) + Aerial-51 OCF dipole\n12:09 Cheap site safety: caution tape & step-in posts\n12:45 \"Bougie\" AC Field Day & under-18 GOTA credits\n13:06 Inside the operation: FTDX10s, N1MM+ & live stats\n14:17 Meet the operators\n15:38 Wrap-up\n\nGear & links mentioned:\n- BuddiHEX hex beam (Buddipole): https://www.buddipole.com/buddihex2.html\n- Buddistick PRO vertical (Buddipole): https://www.buddipole.com/buddistick.html\n- SOTABeams Band Hopper 4 linked dipole: https://www.sotabeams.co.uk/band-hopper-iv-four-band-20m-30m-40m-80m-portable-dipole-antenna-system/\n- Aerial-51 Model 807 off-center fed dipole: https://www.aerial-51.com/model-807-xx/\n- Spiderbeam fiberglass telescoping masts: https://www.spiderbeam.com/index.php?cat=c12_Aluminium+Masts.html\n- Yaesu FTDX10: https://www.yaesu.com/product-detail.aspx?Model=FTDX10&CatName=HF+Transceivers/Amplifiers\n- Icom IC-7300: https://www.icomamerica.com/lineup/products/IC-7300/\n- N1MM+ Logger (free): https://n1mmwp.hamdocs.com/downloads/\n- Step-in fence posts (Tractor Supply, 50-pack): https://www.tractorsupply.com/tsc/product/power-wizard-48-in-electric-fence-step-in-poly-post-black-50-pack-p-1b\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #POTA #hexbeam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "Field Day",
+          "ARRL Field Day",
+          "Field Day 2026",
+          "how to set up Field Day",
+          "Field Day setup",
+          "Field Day site tour",
+          "GOTA station",
+          "ham radio for beginners",
+          "South Lyon Area Amateur Radio Club",
+          "N8SL",
+          "hex beam",
+          "BuddiHex",
+          "BandHopper 4",
+          "off center fed dipole",
+          "Yaesu FTDX10",
+          "N1MM",
+          "ham radio antennas",
+          "portable HF setup"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
+          "description": "A full walking tour of the South Lyon Area Amateur Radio Club's 2026 Field Day site at the historic Witch's Hat Depot in downtown South Lyon, MI. If you're looking for ideas on how to plan, set up, and run your own Field Day, this one's for you.\n\nWe moved Field Day into town this year and built the whole site from scratch, right across from the brewery. In this tour, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) walk you through every decision behind the South Lyon Area Amateur Radio Club (N8SL) operation, a 3A entry plus a Get On The Air station, so you can borrow what works.\n\nWhat you'll pick up for your own site:\n- How we laid out antennas across a tight in-town lot: the homebrew \"Larry\" 40m vertical, our first hex beam in years (the BuddiHEX), and a Spiderbeam mast stacking the BandHopper 4 on 80m over an Aerial-51 off-center fed dipole\n- A beginner-friendly GOTA setup (Icom IC-7300 + a visible, easy-to-adjust Buddistick) with a homemade exchange cheat sheet and paper logging sheet to get first-timers over mic fright\n- Keeping operators consistent: a matched fleet of Yaesu FTDX10s on N1MM+, networked with a live projector scoreboard so visitors can follow along\n- Cheap, effective site safety and public outreach: caution tape on $2 step-in fence posts, explanatory antenna signs, and a \"What is Field Day?\" welcome booth\n- Small-club realities: crew size, ease-of-setup ratings, and why we finally invested in a directional antenna\n\nChapters:\n00:00 Welcome to Field Day\n00:15 Arriving at The Depot, South Lyon\n01:01 Tour overview: 3A + GOTA\n01:38 The Depot's history\n02:02 The \"Larry\" 40m homebrew vertical\n03:31 The caboose & train museum\n03:50 Welcome tent + GOTA station (IC-7300, Buddistick)\n05:17 GOTA resources: cheat sheet & paper logging\n06:21 Live GOTA contact\n07:11 Education posters & Meet the club\n08:03 The BuddiHEX hex beam\n09:55 Spiderbeam mast: BandHopper 4 (80m) + Aerial-51 OCF dipole\n12:09 Cheap site safety: caution tape & step-in posts\n12:45 \"Bougie\" AC Field Day & under-18 GOTA credits\n13:06 Inside the operation: FTDX10s, N1MM+ & live stats\n14:17 Meet the operators\n15:38 Wrap-up\n\nGear & links mentioned:\n- BuddiHEX hex beam (Buddipole): https://www.buddipole.com/buddihex2.html\n- Buddistick PRO vertical (Buddipole): https://www.buddipole.com/buddistick.html\n- SOTABeams Band Hopper 4 linked dipole: https://www.sotabeams.co.uk/band-hopper-iv-four-band-20m-30m-40m-80m-portable-dipole-antenna-system/\n- Aerial-51 Model 807 off-center fed dipole: https://www.aerial-51.com/model-807-xx/\n- Spiderbeam fiberglass telescoping masts: https://www.spiderbeam.com/index.php?cat=c12_Aluminium+Masts.html\n- Yaesu FTDX10: https://www.yaesu.com/product-detail.aspx?Model=FTDX10&CatName=HF+Transceivers/Amplifiers\n- Icom IC-7300: https://www.icomamerica.com/lineup/products/IC-7300/\n- N1MM+ Logger (free): https://n1mmwp.hamdocs.com/downloads/\n- Step-in fence posts (Tractor Supply, 50-pack): https://www.tractorsupply.com/tsc/product/power-wizard-48-in-electric-fence-step-in-poly-post-black-50-pack-p-1b\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #POTA #hexbeam"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "613",
+        "likeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "X9Af9RqfyE7I1kwugC6HBD3e6TY",
+      "id": "0oo2I7vziac",
+      "snippet": {
+        "publishedAt": "2026-07-02T22:36:43Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
+        "description": "We'd never built a BuddiHEX before, so we did it live at Field Day. Full first-time assembly here: https://www.buddipole.com/buddihex2.html\n\nJoin the Everyday Ham crew and the South Lyon Area Amateur Radio Club (SLAARC) as we unbox and build a Buddipole BuddiHEX 6-band portable hex beam for the very first time during ARRL Field Day 2026, set up at the historic Witch's Hat Depot in Downtown South Lyon, Michigan. This is a long-form club antenna build walkthrough: every wire element, every guy line, the lost hardware in the tall grass, the near-miss with a mast section, and the lessons we learned along the way. If you like honest, in-depth antenna setups from people figuring it out as they go, this one's for you. Final verdict: an 8/10 setup that goes together smoothly once you know the steps, but bring a buddy.\n\nIn this video:\nUnboxing the BuddiHEX and laying out the pre-tuned wire elements\nSetting up the 7m Mastwerks rotating tripod and mast\nLeveling the tripod (and when to actually do it)\nAttaching the 6 band-specific wire elements to the spreader arms\nThe lost hook hunt and a re-soldering repair\nGuying the mast without snapping a section\nRaising the antenna and final thoughts\n\n\nGEAR MENTIONED\nBuddipole BuddiHEX (6-band portable hex beam, 20/17/15/12/10/6m, 9.5 lbs, 1.5 kW, BNC feed, $749): https://www.buddipole.com/buddihex2.html\nBuddipole 7m Mastwerks rotating tripod & mast system (23 ft / 7 m, 10.9 lbs, $789): https://www.buddipole.com/7mmatrandmas.html\n\n\nHuge thanks to every volunteer who showed up. Field Day doesn't happen without you.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #BuddiHEX #hexbeam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "BuddiHEX",
+          "Buddipole BuddiHEX",
+          "hex beam",
+          "hex beam antenna",
+          "portable hex beam",
+          "ARRL Field Day 2026",
+          "Field Day",
+          "South Lyon Area Amateur Radio Club",
+          "SLAARC",
+          "7m Mastwerks",
+          "portable HF antenna",
+          "antenna setup",
+          "ham radio",
+          "amateur radio",
+          "first time BuddiHEX setup",
+          "ham radio antenna build",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
+          "description": "We'd never built a BuddiHEX before, so we did it live at Field Day. Full first-time assembly here: https://www.buddipole.com/buddihex2.html\n\nJoin the Everyday Ham crew and the South Lyon Area Amateur Radio Club (SLAARC) as we unbox and build a Buddipole BuddiHEX 6-band portable hex beam for the very first time during ARRL Field Day 2026, set up at the historic Witch's Hat Depot in Downtown South Lyon, Michigan. This is a long-form club antenna build walkthrough: every wire element, every guy line, the lost hardware in the tall grass, the near-miss with a mast section, and the lessons we learned along the way. If you like honest, in-depth antenna setups from people figuring it out as they go, this one's for you. Final verdict: an 8/10 setup that goes together smoothly once you know the steps, but bring a buddy.\n\nIn this video:\nUnboxing the BuddiHEX and laying out the pre-tuned wire elements\nSetting up the 7m Mastwerks rotating tripod and mast\nLeveling the tripod (and when to actually do it)\nAttaching the 6 band-specific wire elements to the spreader arms\nThe lost hook hunt and a re-soldering repair\nGuying the mast without snapping a section\nRaising the antenna and final thoughts\n\n\nGEAR MENTIONED\nBuddipole BuddiHEX (6-band portable hex beam, 20/17/15/12/10/6m, 9.5 lbs, 1.5 kW, BNC feed, $749): https://www.buddipole.com/buddihex2.html\nBuddipole 7m Mastwerks rotating tripod & mast system (23 ft / 7 m, 10.9 lbs, $789): https://www.buddipole.com/7mmatrandmas.html\n\n\nHuge thanks to every volunteer who showed up. Field Day doesn't happen without you.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #BuddiHEX #hexbeam"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "620",
+        "likeCount": "47",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t5Nkh_xTzYmVFF5Pp3uM62dvWwQ",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -106,15 +325,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "214",
-        "likeCount": "17",
+        "viewCount": "286",
+        "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yfH2Ro8Hxdp0TiWcPYtNNGK_kaM",
+      "etag": "D17DAYDWQfAca0raqIMjaTV3r4s",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -177,15 +396,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "370",
-        "likeCount": "29",
+        "viewCount": "390",
+        "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "17"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xzN8qBKw09K0ztbCj7uTGcvwJNE",
+      "etag": "GsmiH68ZTkchlDC_aeua2_PVB1g",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -249,15 +468,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "730",
-        "likeCount": "33",
+        "viewCount": "798",
+        "likeCount": "34",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TOzwADbH5ZFT9FmcjrfZff8n5rU",
+      "etag": "JPC3hDu47erWkW6K30O9xZ5KYZ8",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -320,7 +539,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "476",
+        "viewCount": "489",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -328,7 +547,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L7pm2crL07SgK6q8_4sG3ZL_0go",
+      "etag": "7TTmSRsdKTZs-uZaHaJSH1iL7t0",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -391,7 +610,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "301",
+        "viewCount": "306",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -399,7 +618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rkMsOMecDyIQN9INPj3j5x4xzyA",
+      "etag": "E1YW8FUGjS_-JoTc8mmZzkzpseM",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -463,7 +682,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "609",
+        "viewCount": "615",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -471,7 +690,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d8jiB9CFfvxElds8ynQ3eUCTf_o",
+      "etag": "xNLOkUZSyWQWaXTv7LGg4MK7YOQ",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -535,7 +754,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3313",
+        "viewCount": "3329",
         "likeCount": "90",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -543,7 +762,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PbD_EFzNkyvr3KVrSRP3STFgzXU",
+      "etag": "3UxCqSUEGdYX51_lSlZQxmvO9fg",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -606,15 +825,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "389",
-        "likeCount": "20",
+        "viewCount": "410",
+        "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nCrG63-HAEtqHd6vLtUakstG8ZA",
+      "etag": "_bV4-bSC4CTFvjhJNHIqwxoe6NE",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -678,15 +897,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "7869",
-        "likeCount": "178",
+        "viewCount": "8114",
+        "likeCount": "180",
         "favoriteCount": "0",
-        "commentCount": "53"
+        "commentCount": "55"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "71NeH68AwHVq2hb5fGXgn0J0fAo",
+      "etag": "QUjzjUOKTBXSBxeRqyZy9vO5O1o",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -750,7 +969,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1668",
+        "viewCount": "1701",
         "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -758,7 +977,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lBA_e5wBBfcq8DhHzMBOmNZHxqU",
+      "etag": "k15_DIH4kSjrG-iPPcS4W3imu8g",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -822,15 +1041,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9034",
-        "likeCount": "174",
+        "viewCount": "9337",
+        "likeCount": "178",
         "favoriteCount": "0",
         "commentCount": "49"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lAqrGqIZwfiWEl25oHIUSY4k5yg",
+      "etag": "om-KWX8Mm_2tsxQRmiVr4mPsvVc",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -894,15 +1113,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8073",
-        "likeCount": "224",
+        "viewCount": "8392",
+        "likeCount": "230",
         "favoriteCount": "0",
         "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bdfCrxhYslLksl2S-3rO0Mgj-3Q",
+      "etag": "q1PbCjULBC8iZILYoSfkAAekf9Q",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -966,15 +1185,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4274",
-        "likeCount": "131",
+        "viewCount": "4312",
+        "likeCount": "132",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uk7DyHBZ2WBQwVCHZtUk5ybYEW4",
+      "etag": "s8pvZcGCJnPEKIM181pfBC1TAxU",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -1035,7 +1254,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "798",
+        "viewCount": "822",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1043,7 +1262,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nO_TSwMP0z8LBHwDgcIFqYNpeBE",
+      "etag": "6zRqEKKQqs4yRZxNVDgMvEe8EG8",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -1106,15 +1325,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1602",
-        "likeCount": "74",
+        "viewCount": "1626",
+        "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aJp4BIVjIyQBcn9XbXLR8ItKNRc",
+      "etag": "dpczi5E4uH3HuhF72BOHGYCsULM",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -1175,7 +1394,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1327",
+        "viewCount": "1341",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1183,7 +1402,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5LobYErDjtemMoN2R8B8ada0ra0",
+      "etag": "g1IyQGqDjKffVjSbm7j3S1-pvUA",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -1246,7 +1465,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "897",
+        "viewCount": "901",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1328,7 +1547,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rvL-jbf619ONreSYlryIbUeXzT0",
+      "etag": "7IPHwzY24c9ht-cbJpt34nhsec0",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -1376,7 +1595,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1369",
+        "viewCount": "1370",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1525,7 +1744,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WWqh20M-ypTeHRSoE-lX7v5Z1n8",
+      "etag": "Y03DtAe2LRO2yYwd5MCCH2GM5pU",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -1587,15 +1806,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1450",
-        "likeCount": "60",
+        "viewCount": "1519",
+        "likeCount": "62",
         "favoriteCount": "0",
         "commentCount": "28"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rHBArx5_1I-ywjjOYS6FQXpTL0w",
+      "etag": "zJyZIzlr4WMsgM8uJVR0h_jIMnU",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -1658,15 +1877,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "482",
-        "likeCount": "37",
+        "viewCount": "487",
+        "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "68aLOtVv9C7_cpNPMRyPg9g1Q64",
+      "etag": "tMOY9rLXFQfajKgiyAMyHKmjGW4",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -1729,7 +1948,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "929",
+        "viewCount": "935",
         "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1809,7 +2028,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ifIqx6oOFjVPtO-sJZcSLJBXu6o",
+      "etag": "1U4m2CdjBi9GTyRnF-8zkd_sVs8",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -1872,7 +2091,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1247",
+        "viewCount": "1249",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1880,7 +2099,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8qQ-wIofHxXcVrX9LAjw-p0XdyA",
+      "etag": "sfTquXBZsGWHVJ7poq7z-HNgKyA",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -1942,7 +2161,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "594",
+        "viewCount": "599",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2021,7 +2240,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4cwMvbdJnuuZvGtC50dlRGg14jI",
+      "etag": "SiBSGTl1gaZt4ZweitBuG32V_Tw",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -2086,7 +2305,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1671",
+        "viewCount": "1681",
         "likeCount": "71",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2094,7 +2313,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "k-tzPTS0msWKRmjgzfNsL5H3w2s",
+      "etag": "h-k4rF9IMSbddIGKKnKkOEW9zaY",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -2157,7 +2376,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "560",
+        "viewCount": "573",
         "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2165,7 +2384,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jamsC88OZj7ZOBecRF1a5DiMqdM",
+      "etag": "AUzzs6VlialQiUVHPXbL7VdOtaE",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -2228,7 +2447,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5344",
+        "viewCount": "5379",
         "likeCount": "182",
         "favoriteCount": "0",
         "commentCount": "25"
@@ -2236,7 +2455,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EYXBe9AIF38yl9xDY1vxHtYKRtY",
+      "etag": "KS3ZXRDRUSV2cwXgLbxAQJKg7N4",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -2298,7 +2517,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "348",
+        "viewCount": "354",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2306,7 +2525,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UVZ_Z-bZxWFiApfSx7lgI5a9hG0",
+      "etag": "zgL7JCQsv9cZmdQop7ye57M429Y",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -2359,7 +2578,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1167",
+        "viewCount": "1170",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2420,7 +2639,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kJhMBVT_oChZ6I9VAfz-0mZ3wH4",
+      "etag": "qCBJsrsGPOqtXE6LNpbJKiOclII",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -2484,15 +2703,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2266",
-        "likeCount": "52",
+        "viewCount": "2306",
+        "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OKrlNR-0vR55FAbogWHQNco0FuQ",
+      "etag": "Dz9hXrV0mA3dtGPaa26hP0rv2o4",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -2555,7 +2774,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2849",
+        "viewCount": "2879",
         "likeCount": "102",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -2563,7 +2782,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eA3VZZyYWHEvT4zsXxZkMHBD1_M",
+      "etag": "_EuRmlwZfDKzlHCr2Ng_k3YEDrc",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -2625,7 +2844,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "345",
+        "viewCount": "350",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2757,7 +2976,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "n0RaoBQc0LwVeK1PZsAESZEvy7o",
+      "etag": "zGnNpVgz9NEkPkRF2fl1Icr56Bg",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -2821,7 +3040,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "589",
+        "viewCount": "592",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -2900,7 +3119,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BAOfSE6L5bWy2GAa7erjSJ0VAeU",
+      "etag": "jnLyN4lk7eTgEGKafIg-QJ6Byb0",
       "id": "XPVfh05ifPI",
       "snippet": {
         "publishedAt": "2026-02-03T15:01:03Z",
@@ -2964,7 +3183,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "462",
+        "viewCount": "464",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2972,7 +3191,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "v-JjG7OzY_uWiegeFceofIfUV40",
+      "etag": "L9YDFfX7US8q5A-Yi41b6anXTFs",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -3016,7 +3235,7 @@
         }
       },
       "statistics": {
-        "viewCount": "920",
+        "viewCount": "921",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -3024,7 +3243,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dkBtNcoRsYxD-AN2SBk30TRvNUM",
+      "etag": "8AqJ9XMIXd5jDr_bxCB3bqMHf04",
       "id": "vGcmAxr-eFM",
       "snippet": {
         "publishedAt": "2026-01-29T23:52:37Z",
@@ -3088,15 +3307,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4071",
-        "likeCount": "125",
+        "viewCount": "4104",
+        "likeCount": "126",
         "favoriteCount": "0",
         "commentCount": "63"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sV0_Lzwf_o74LAmdymV7blQiTlU",
+      "etag": "ThLj4AYHAtQLzkg0bfAzd58iUyc",
       "id": "AXDTXJFOSb0",
       "snippet": {
         "publishedAt": "2026-01-24T18:52:44Z",
@@ -3141,7 +3360,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "282",
+        "viewCount": "284",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -3202,7 +3421,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_IldwoDrF4Bq5WOb9ugXPmsHGog",
+      "etag": "jnOS6GCOHuFVtMVlkGrD7lcXkb4",
       "id": "vXq5KRjkcw8",
       "snippet": {
         "publishedAt": "2026-01-17T22:08:58Z",
@@ -3247,207 +3466,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1123",
+        "viewCount": "1124",
         "likeCount": "22",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "T7qhXQRwfHrHsbz9mK4tI049djU",
-      "id": "cGQR0gc20OY",
-      "snippet": {
-        "publishedAt": "2026-01-08T15:01:16Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-        "description": "Five watts, a tiny coil antenna on a travel tripod, and a camera-bag station that reaches across states\u2014CW isn't a relic, it's a practical advantage. In this episode, we invited Terry W8TMB to walk us through how he learned Morse code without drowning in drills, why CW pairs perfectly with POTA and QRP, and what actually works when your sending is solid but your copy lags behind.\n\nWe compare two popular learning paths: CW Academy and Long Island CW Club. CW Academy offers a free, semester-style program with fixed class times and steady accountability\u2014great if you thrive with structure. Long Island CW Club takes a different approach with flexible, year-round carousels, multiple time slots each week, and an emphasis on getting on the air early. Their $30/year (or $90 lifetime) membership includes about 170 classes per week, a powerful browser-based practice tool, and thoughtful accessibility options for autistic, visually impaired, and hearing-impaired hams.\n\nFrom there we dig into practical tactics: stop counting dits and dahs\u2014train your ear to recognize full characters. Use Farnsworth spacing to create breathing room. Drill random call signs to break predictability. Send back what you copy immediately to lock it in. Ditch the decoders and cheat sheets; they slow your ear. Code-talk license plates on road trips, work short daily sessions, and aim your practice at real exchanges like POTA and simple contests.\n\nTerry's field kit shows what's possible when you combine clean CW signals with smart packing: a five-band QRP rig (the CFT-1), a lightweight 3D-printed coil antenna from Ham Radio Duo, and a 16Wh battery that lasted through two hours of contacts with 75% remaining. As bands shift with the solar cycle, CW keeps you in the game with narrow bandwidth, stronger SNR, and easy-to-carry gear.\n\nTIMESTAMPS:\n0:00 - Introduction & Happy New Year 2026\n1:06 - Meet Terry W8TMB: COVID Ham Journey to Extra Class\n2:48 - Terry's Portable CW Setup: Antenna & CFT-1 Radio\n4:17 - The Advantages of QRP CW: Camera Bag Station\n6:57 - Jim's DXCC Chase: 99 Entities on Digital\n8:10 - QRZ USA 250 Award: Number 6 in 72 Hours\n9:24 - Rory's POTA Activations at Island Lake\n11:21 - Rory's CW Journey Begins: Venture Paddle & Morse Mania\n13:40 - What Inspired Terry to Learn CW\n17:07 - CW Academy Overview: Structure & Levels\n20:09 - Where Terry Is Now: 16 WPM Sending\n21:49 - Why Learn CW: The 10-20dB Advantage\n23:05 - Portable CW for Backpacking & Hiking\n25:05 - CW Efficiency: 16Wh Battery for All-Day Operation\n26:17 - Long Island CW Club: Flexible Carousel System\n28:00 - 170 Classes Per Week: Finding Your Schedule\n30:00 - Multiple Instructors, Multiple Techniques\n31:37 - Getting On Air Fast with LICW\n33:04 - The Copy vs Send Challenge\n34:11 - LICW's Straight Key Philosophy\n35:17 - LICW Accessibility: Autism, Vision & Hearing Programs\n37:30 - Ed W4EMB Shoutout: Another LICW Advocate\n38:00 - Equipment Needed to Start CW\n40:14 - Code Talk: Practice Without a Key\n41:02 - License Plate Practice While Driving\n43:07 - Why CW Matters: Solar Cycle Prep & Completionism\n46:33 - Finding Your Learning Style: Both Programs Work\n47:04 - What Didn't Work: Cheat Sheets & Decoders\n48:34 - Don't Count Dits and Dahs: Hear the Whole Letter\n50:45 - Don't Stop, Keep Moving: Forward Momentum\n52:55 - Terry's Best Tip: Send Back Immediately What You Copy\n55:19 - Comparing to Morse Mania App Experience\n55:48 - Listener Shoutouts & Discord Community\n58:16 - Wrap Up: Hamcation Coming Next Month\n\n\ud83d\udd17 RESOURCES MENTIONED:\nCW Academy: https://cwops.org/cw-academy/\nLong Island CW Club: https://longislandcwclub.org/\nLICW Morse Practice Page: https://longislandcwclub.org/cw-practice/\nMorse Mania App: https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196\nLCWO (Learn CW Online): https://lcwo.net/\nV-Band: https://hamradio.solutions/vband/\nCFT-1 Transceiver: https://hamgadgets.com/cft1-by-km4cft.html\nJust OK Mini Antenna: https://www.hamradioduo.com/the-just-ok-mini-antenna/\nHam Radio Duo YouTube (Antenna): https://www.youtube.com/@HamRadioDuo\nK8MRD YouTube: https://www.youtube.com/@hamradiotube\n\n\ud83c\udfa7 LISTEN AS AN AUDIO PODCAST:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\nFind all links at: https://www.everydayham.com\n\n\ud83d\udcf1 FOLLOW EVERYDAY HAM:\nWebsite: https://www.everydayham.com\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: Join our growing community! Link at everydayham.com\n\n\ud83c\udf99\ufe0f YOUR HOSTS:\nJames Mills K8JKU\nJim Davis N8JRD\nRory Locke W8KNX\nGuest: Terry Bone W8TMB\n\nIf you've wanted to stretch your signal, travel lighter, and add a deep new skill, this is your playbook. Subscribe, share with a friend who's CW-curious, and leave a comment with your current WPM and next milestone\u2014we'll cheer you on!\n\n#HamRadio #CW #MorseCode #POTA #QRP #AmateurRadio #EverydayHam #LongIslandCWClub #CWAcademy #LearnCW #contesting #qrz #usa250 #dxcc",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cGQR0gc20OY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cGQR0gc20OY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cGQR0gc20OY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cGQR0gc20OY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cGQR0gc20OY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "CW",
-          "Morse code",
-          "learn CW",
-          "Long Island CW Club",
-          "CW Academy",
-          "ham radio",
-          "amateur radio",
-          "QRP",
-          "POTA",
-          "Parks on the Air",
-          "morse code tutorial",
-          "how to learn morse code",
-          "CW for beginners",
-          "ham radio CW",
-          "QRP CW",
-          "Farnsworth",
-          "k8jku",
-          "w8knx",
-          "n8jrd",
-          "w8tmb"
-        ],
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-          "description": "Five watts, a tiny coil antenna on a travel tripod, and a camera-bag station that reaches across states\u2014CW isn't a relic, it's a practical advantage. In this episode, we invited Terry W8TMB to walk us through how he learned Morse code without drowning in drills, why CW pairs perfectly with POTA and QRP, and what actually works when your sending is solid but your copy lags behind.\n\nWe compare two popular learning paths: CW Academy and Long Island CW Club. CW Academy offers a free, semester-style program with fixed class times and steady accountability\u2014great if you thrive with structure. Long Island CW Club takes a different approach with flexible, year-round carousels, multiple time slots each week, and an emphasis on getting on the air early. Their $30/year (or $90 lifetime) membership includes about 170 classes per week, a powerful browser-based practice tool, and thoughtful accessibility options for autistic, visually impaired, and hearing-impaired hams.\n\nFrom there we dig into practical tactics: stop counting dits and dahs\u2014train your ear to recognize full characters. Use Farnsworth spacing to create breathing room. Drill random call signs to break predictability. Send back what you copy immediately to lock it in. Ditch the decoders and cheat sheets; they slow your ear. Code-talk license plates on road trips, work short daily sessions, and aim your practice at real exchanges like POTA and simple contests.\n\nTerry's field kit shows what's possible when you combine clean CW signals with smart packing: a five-band QRP rig (the CFT-1), a lightweight 3D-printed coil antenna from Ham Radio Duo, and a 16Wh battery that lasted through two hours of contacts with 75% remaining. As bands shift with the solar cycle, CW keeps you in the game with narrow bandwidth, stronger SNR, and easy-to-carry gear.\n\nTIMESTAMPS:\n0:00 - Introduction & Happy New Year 2026\n1:06 - Meet Terry W8TMB: COVID Ham Journey to Extra Class\n2:48 - Terry's Portable CW Setup: Antenna & CFT-1 Radio\n4:17 - The Advantages of QRP CW: Camera Bag Station\n6:57 - Jim's DXCC Chase: 99 Entities on Digital\n8:10 - QRZ USA 250 Award: Number 6 in 72 Hours\n9:24 - Rory's POTA Activations at Island Lake\n11:21 - Rory's CW Journey Begins: Venture Paddle & Morse Mania\n13:40 - What Inspired Terry to Learn CW\n17:07 - CW Academy Overview: Structure & Levels\n20:09 - Where Terry Is Now: 16 WPM Sending\n21:49 - Why Learn CW: The 10-20dB Advantage\n23:05 - Portable CW for Backpacking & Hiking\n25:05 - CW Efficiency: 16Wh Battery for All-Day Operation\n26:17 - Long Island CW Club: Flexible Carousel System\n28:00 - 170 Classes Per Week: Finding Your Schedule\n30:00 - Multiple Instructors, Multiple Techniques\n31:37 - Getting On Air Fast with LICW\n33:04 - The Copy vs Send Challenge\n34:11 - LICW's Straight Key Philosophy\n35:17 - LICW Accessibility: Autism, Vision & Hearing Programs\n37:30 - Ed W4EMB Shoutout: Another LICW Advocate\n38:00 - Equipment Needed to Start CW\n40:14 - Code Talk: Practice Without a Key\n41:02 - License Plate Practice While Driving\n43:07 - Why CW Matters: Solar Cycle Prep & Completionism\n46:33 - Finding Your Learning Style: Both Programs Work\n47:04 - What Didn't Work: Cheat Sheets & Decoders\n48:34 - Don't Count Dits and Dahs: Hear the Whole Letter\n50:45 - Don't Stop, Keep Moving: Forward Momentum\n52:55 - Terry's Best Tip: Send Back Immediately What You Copy\n55:19 - Comparing to Morse Mania App Experience\n55:48 - Listener Shoutouts & Discord Community\n58:16 - Wrap Up: Hamcation Coming Next Month\n\n\ud83d\udd17 RESOURCES MENTIONED:\nCW Academy: https://cwops.org/cw-academy/\nLong Island CW Club: https://longislandcwclub.org/\nLICW Morse Practice Page: https://longislandcwclub.org/cw-practice/\nMorse Mania App: https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196\nLCWO (Learn CW Online): https://lcwo.net/\nV-Band: https://hamradio.solutions/vband/\nCFT-1 Transceiver: https://hamgadgets.com/cft1-by-km4cft.html\nJust OK Mini Antenna: https://www.hamradioduo.com/the-just-ok-mini-antenna/\nHam Radio Duo YouTube (Antenna): https://www.youtube.com/@HamRadioDuo\nK8MRD YouTube: https://www.youtube.com/@hamradiotube\n\n\ud83c\udfa7 LISTEN AS AN AUDIO PODCAST:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\nFind all links at: https://www.everydayham.com\n\n\ud83d\udcf1 FOLLOW EVERYDAY HAM:\nWebsite: https://www.everydayham.com\nInstagram: https://www.instagram.com/everydayhampodcast/\nDiscord: Join our growing community! Link at everydayham.com\n\n\ud83c\udf99\ufe0f YOUR HOSTS:\nJames Mills K8JKU\nJim Davis N8JRD\nRory Locke W8KNX\nGuest: Terry Bone W8TMB\n\nIf you've wanted to stretch your signal, travel lighter, and add a deep new skill, this is your playbook. Subscribe, share with a friend who's CW-curious, and leave a comment with your current WPM and next milestone\u2014we'll cheer you on!\n\n#HamRadio #CW #MorseCode #POTA #QRP #AmateurRadio #EverydayHam #LongIslandCWClub #CWAcademy #LearnCW #contesting #qrz #usa250 #dxcc"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "4170",
-        "likeCount": "163",
-        "favoriteCount": "0",
-        "commentCount": "24"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "dL2bOx1FeEtKZ1f9duuT4YoZaQ8",
-      "id": "VOzX6f-vYHk",
-      "snippet": {
-        "publishedAt": "2026-01-08T15:29:09Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-        "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nFive watts, a tiny coil antenna on a travel tripod, and a camera-bag station that reaches across states\u2014CW isn't a relic, it's a practical advantage. In this episode, we invited Terry W8TMB to walk us through how he learned Morse code without drowning in drills, why CW pairs perfectly with POTA and QRP, and what actually works when your sending is solid but your copy lags behind.\n\n\nWe compare two popular learning paths: CW Academy and Long Island CW Club. CW Academy offers a free, semester-style program with fixed class times and steady accountability\u2014great if you thrive with structure. Long Island CW Club takes a different approach with flexible, year-round carousels, multiple time slots each week, and an emphasis on getting on the air early. Their $30/year (or $90 lifetime) membership includes about 170 classes per week, a powerful browser-based practice tool, and thoughtful accessibility options for autistic, visually impaired, and hearing-impaired hams.\n\n\nFrom there we dig into practical tactics: stop counting dits and dahs\u2014train your ear to recognize full characters. Use Farnsworth spacing to create breathing room. Drill random call signs to break predictability. Send back what you copy immediately to lock it in. Ditch the decoders and cheat sheets; they slow your ear. Code-talk license plates on road trips, work short daily sessions, and aim your practice at real exchanges like POTA and simple contests.\n\n\nTerry's field kit shows what's possible: a CFT-1 five-band QRP rig, a 3D-printed coil antenna from Ham Radio Duo, and a 16Wh battery that lasted two hours with 75% remaining. As bands shift with the solar cycle, CW keeps you in the game.\n\n\n\ud83d\udd17 RESOURCES:\n\n  \u2022  CW Academy: https://cwops.org/cw-academy/\n  \u2022  Long Island CW Club: https://longislandcwclub.org/\n  \u2022  Morse Mania App: https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196\n  \u2022  LCWO: https://lcwo.net/\n  \u2022  V-Band: https://hamradio.solutions/vband/\n\nDon't miss an episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and subscribe to our YouTube channel.\n\n\n\ud83c\udf99\ufe0f Hosts: James K8JKU, Jim N8JRD, Rory W8KNX Guest: Terry W8TMB\n\n\nWebsite: https://www.everydayham.com Instagram: https://www.instagram.com/everydayhampodcast/\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VOzX6f-vYHk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VOzX6f-vYHk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VOzX6f-vYHk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VOzX6f-vYHk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VOzX6f-vYHk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-          "description": "Send us a text (https://www.buzzsprout.com/twilio/text_messages/2438895/open_sms) \n\n\nFive watts, a tiny coil antenna on a travel tripod, and a camera-bag station that reaches across states\u2014CW isn't a relic, it's a practical advantage. In this episode, we invited Terry W8TMB to walk us through how he learned Morse code without drowning in drills, why CW pairs perfectly with POTA and QRP, and what actually works when your sending is solid but your copy lags behind.\n\n\nWe compare two popular learning paths: CW Academy and Long Island CW Club. CW Academy offers a free, semester-style program with fixed class times and steady accountability\u2014great if you thrive with structure. Long Island CW Club takes a different approach with flexible, year-round carousels, multiple time slots each week, and an emphasis on getting on the air early. Their $30/year (or $90 lifetime) membership includes about 170 classes per week, a powerful browser-based practice tool, and thoughtful accessibility options for autistic, visually impaired, and hearing-impaired hams.\n\n\nFrom there we dig into practical tactics: stop counting dits and dahs\u2014train your ear to recognize full characters. Use Farnsworth spacing to create breathing room. Drill random call signs to break predictability. Send back what you copy immediately to lock it in. Ditch the decoders and cheat sheets; they slow your ear. Code-talk license plates on road trips, work short daily sessions, and aim your practice at real exchanges like POTA and simple contests.\n\n\nTerry's field kit shows what's possible: a CFT-1 five-band QRP rig, a 3D-printed coil antenna from Ham Radio Duo, and a 16Wh battery that lasted two hours with 75% remaining. As bands shift with the solar cycle, CW keeps you in the game.\n\n\n\ud83d\udd17 RESOURCES:\n\n  \u2022  CW Academy: https://cwops.org/cw-academy/\n  \u2022  Long Island CW Club: https://longislandcwclub.org/\n  \u2022  Morse Mania App: https://apps.apple.com/us/app/morse-mania-learn-morse-code/id1511042196\n  \u2022  LCWO: https://lcwo.net/\n  \u2022  V-Band: https://hamradio.solutions/vband/\n\nDon't miss an episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and subscribe to our YouTube channel.\n\n\n\ud83c\udf99\ufe0f Hosts: James K8JKU, Jim N8JRD, Rory W8KNX Guest: Terry W8TMB\n\n\nWebsite: https://www.everydayham.com Instagram: https://www.instagram.com/everydayhampodcast/\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist. \n \n\nFollow us at: Website: https://www.everydayham.com/ \n \n\nInstagram: https://www.instagram.com/everydayhampodcast/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "177",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ydYu_2R0gpRYVQmFTXB1HSI48lA",
-      "id": "t5lZVONnmyw",
-      "snippet": {
-        "publishedAt": "2026-01-05T02:42:29Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t5lZVONnmyw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t5lZVONnmyw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t5lZVONnmyw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/t5lZVONnmyw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/t5lZVONnmyw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "4539",
-        "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "3"
       }

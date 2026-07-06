@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T12:18:34.654190",
+  "updated": "2026-07-06T14:27:22.217570",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uirult/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uowokp/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,24 +17,54 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Hey I saw this in a thrift store",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unbbdk/hey_i_saw_this_in_a_thrift_store/",
-        "author": "/u/M4KK0_7_"
+        "title": "Happy day\ud83d\ude0a",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uox5i2/happy_day/",
+        "author": "/u/FishermanEastern6048"
       },
       {
-        "title": "Mobile Rig",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uncbba/mobile_rig/",
-        "author": "/u/Tounage"
+        "title": "I did a thing",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uopk2y/i_did_a_thing/",
+        "author": "/u/DoughnutRelevant9798"
       },
       {
-        "title": "Attic antenna is frying my 2nd floor LEDs",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unnh8v/attic_antenna_is_frying_my_2nd_floor_leds/",
-        "author": "/u/razor_train"
+        "title": "Skywarn radio for my daughter.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uojnaj/skywarn_radio_for_my_daughter/",
+        "author": "/u/kelevra1441"
       },
       {
-        "title": "How much am I giving up by going for 20W instead of 100W?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unkgkj/how_much_am_i_giving_up_by_going_for_20w_instead/",
-        "author": "/u/RationallyDense"
+        "title": "Schematic for DIY 4 tube radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uotjgl/schematic_for_diy_4_tube_radio/",
+        "author": "/u/TheRealDirtyDan256"
+      },
+      {
+        "title": "FRG 8800",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo79kl/frg_8800/",
+        "author": "/u/Docfinkelstein"
+      },
+      {
+        "title": "Portable mast recommendation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uoma0j/portable_mast_recommendation/",
+        "author": "/u/LaMarr-Bruister"
+      },
+      {
+        "title": "i just got the radtel rt 950 pro, any tips?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uounaw/i_just_got_the_radtel_rt_950_pro_any_tips/",
+        "author": "/u/kupasbob"
+      },
+      {
+        "title": "Help with a foxhole radio (science fair project)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uoiu9t/help_with_a_foxhole_radio_science_fair_project/",
+        "author": "/u/RubboO555"
+      },
+      {
+        "title": "Help. Xiegu G90 digital mode issues",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uop246/help_xiegu_g90_digital_mode_issues/",
+        "author": "/u/Alternative-Ad2864"
+      },
+      {
+        "title": "SWR, Antenna Tuners and Efficiency.......",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uoaxo8/swr_antenna_tuners_and_efficiency/",
+        "author": "/u/ArthurQBryan"
       },
       {
         "title": "Noise source all bands",
@@ -42,9 +72,54 @@
         "author": "/u/Chipper1685"
       },
       {
-        "title": "Anyone used vr for satellite SDR?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uneang/anyone_used_vr_for_satellite_sdr/",
-        "author": "/u/PrepYourselves"
+        "title": "Hey I saw this in a thrift store",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unbbdk/hey_i_saw_this_in_a_thrift_store/",
+        "author": "/u/M4KK0_7_"
+      },
+      {
+        "title": "Preamp recommendations for VHF",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uodgjv/preamp_recommendations_for_vhf/",
+        "author": "/u/DiscountMinute8939"
+      },
+      {
+        "title": "VUURWERK v1.5.0 released: UV-K5 firmware with a voice-seeking spectrum",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo7ngx/vuurwerk_v150_released_uvk5_firmware_with_a/",
+        "author": "/u/Popular-Ad5171"
+      },
+      {
+        "title": "Kenwood TM-741A 220mhz",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uobjy8/kenwood_tm741a_220mhz/",
+        "author": "/u/Maldivesblue"
+      },
+      {
+        "title": "Linear loaded doublet",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo8nw7/linear_loaded_doublet/",
+        "author": "/u/Non_resonant"
+      },
+      {
+        "title": "Using DroidStar and EchoLink from the US with a foreign callsign",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo8jpv/using_droidstar_and_echolink_from_the_us_with_a/",
+        "author": "/u/Tris_Memba"
+      },
+      {
+        "title": "Attic antenna is frying my 2nd floor LEDs",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unnh8v/attic_antenna_is_frying_my_2nd_floor_leds/",
+        "author": "/u/razor_train"
+      },
+      {
+        "title": "Mobile Rig",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uncbba/mobile_rig/",
+        "author": "/u/Tounage"
+      },
+      {
+        "title": "How much am I giving up by going for 20W instead of 100W?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1unkgkj/how_much_am_i_giving_up_by_going_for_20w_instead/",
+        "author": "/u/RationallyDense"
+      },
+      {
+        "title": "Gridtracker2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uohsv2/gridtracker2/",
+        "author": "/u/dbgreen"
       },
       {
         "title": "Looks as if I'm the gingerbread man on this band in digital",
@@ -52,84 +127,9 @@
         "author": "/u/root_127-0-0-1"
       },
       {
-        "title": "CYD Dashboard for Ham Use",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unwr1y/cyd_dashboard_for_ham_use/",
-        "author": "/u/MattHousley"
-      },
-      {
-        "title": "New HAM looking for first radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uny7oq/new_ham_looking_for_first_radio/",
-        "author": "/u/OldAbbreviations12"
-      },
-      {
-        "title": "Icom ic-746 (non pro) CAT cable",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unx9yy/icom_ic746_non_pro_cat_cable/",
-        "author": "/u/ViktorGamin"
-      },
-      {
-        "title": "Sony Color Watchman FDL-380 receives RF but won't lock onto video",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unhp0m/sony_color_watchman_fdl380_receives_rf_but_wont/",
-        "author": "/u/EducationalCover2100"
-      },
-      {
-        "title": "Built my own power box",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umxhsf/built_my_own_power_box/",
-        "author": "/u/actionfingerss"
-      },
-      {
-        "title": "Anyone with experience with the Radiolink AT9S Pro?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unt0x3/anyone_with_experience_with_the_radiolink_at9s_pro/",
-        "author": "/u/Specific-Cancel-2534"
-      },
-      {
-        "title": "Does anyone know the model of these radio antennas? Or any information about them?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unhnq7/does_anyone_know_the_model_of_these_radio/",
-        "author": "/u/ketchup1345"
-      },
-      {
-        "title": "At what point is a Sprint no longer a \"sprint\" but just a week-long contest?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unc08l/at_what_point_is_a_sprint_no_longer_a_sprint_but/",
-        "author": "/u/grendelt"
-      },
-      {
-        "title": "Can't Understand HF Single Sideband Voice",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1una7lv/cant_understand_hf_single_sideband_voice/",
-        "author": "/u/longdog10"
-      },
-      {
-        "title": "RH-770 Antenna Does it really work?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unq12v/rh770_antenna_does_it_really_work/",
-        "author": "/u/kuduruk"
-      },
-      {
-        "title": "Looking for Xeigu G90 face plate and mic",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unfek7/looking_for_xeigu_g90_face_plate_and_mic/",
-        "author": "/u/BigEstablishment5122"
-      },
-      {
-        "title": "LNA for ADS-B",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unnimw/lna_for_adsb/",
-        "author": "/u/Malkozaine"
-      },
-      {
-        "title": "Hello. Does this seem like a job a \"IT guy\" could learn or is radio knowledge difficult to grasp without years of training/passion.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unhwu6/hello_does_this_seem_like_a_job_a_it_guy_could/",
-        "author": "/u/GreaterMetro"
-      },
-      {
-        "title": "Sometimes you gotta do what you have to do",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1umfywh/sometimes_you_gotta_do_what_you_have_to_do/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "VUURWERK v1.5.0 released: UV-K5 firmware with a voice-seeking spectrum",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1unllab/vuurwerk_v150_released_uvk5_firmware_with_a/",
-        "author": "/u/Popular-Ad5171"
-      },
-      {
-        "title": "Online testing recommendations",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ungjyo/online_testing_recommendations/",
-        "author": "/u/EntropyNegotiator"
+        "title": "Off-grid digital modes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uo945h/offgrid_digital_modes/",
+        "author": "/u/Sweendog2016"
       }
     ]
   }

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-08 12:22 UTC*
+*Last updated: 2026-07-09 13:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Absolutely chuffed to bits..](https://www.reddit.com/r/amateurradio/comments/1uqcmwy/absolutely_chuffed_to_bits/)**
-by u/firekeeper23
+**3. [Radios Of The Venezuelan SARs Efforts](https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/)**
+by u/Lanky_Guard_6088
 
-**4. [I am on a roll with fixing broken test equipment. 5/6 so far.](https://www.reddit.com/r/amateurradio/comments/1uqe9vs/i_am_on_a_roll_with_fixing_broken_test_equipment/)**
-by u/inquirewue
+**4. [Wanted to see if an attic antenna was viable, results are... Not promising](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)**
+by u/thesoulless78
 
-**5. [Why aren't antenna modeling programs being modernized?](https://www.reddit.com/r/amateurradio/comments/1uqimo3/why_arent_antenna_modeling_programs_being/)**
-by u/KhyberPasshole
+**5. [I put together a small, friendly contest for new hams, or hams who don't usually...](https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/)**
+by u/K3CAN
 
-**6. [UV-PRO / VR-N76 + Look4Sat Doppler auto-tuning — needs my Look4Sat fork](https://www.reddit.com/r/amateurradio/comments/1uqoupp/uvpro_vrn76_look4sat_doppler_autotuning_needs_my/)**
-by u/casfoust
+**6. [Recent RFI was intermittent, now permanent](https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/)**
+by u/chrisgtl
 
-**7. [Why is WhatsApp PC tab interfering with my handheld?](https://www.reddit.com/r/amateurradio/comments/1uqod3w/why_is_whatsapp_pc_tab_interfering_with_my/)**
-by u/nongenerative
+**7. [Forensic Sciences Car?](https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/)**
+by u/kiloo520
 
-**8. [Upgrade from Technician class to General Class license](https://www.reddit.com/r/amateurradio/comments/1uq4d9p/upgrade_from_technician_class_to_general_class/)**
-by u/No_Entrance6152
+**8. [Need help removing tower](https://www.reddit.com/r/amateurradio/comments/1ur7ocp/need_help_removing_tower/)**
+by u/WPThrowaway1
 
-**9. [Help me help a recent widower out](https://www.reddit.com/r/amateurradio/comments/1uqfu0h/help_me_help_a_recent_widower_out/)**
-by u/Rough-Mango8233
+**9. [Does anyone know what kind of antenna this is?](https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/)**
+by u/Sparkymaccc
 
 **10. [Hilltop repeater on solar running unattended for 3 months](https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/)**
 by u/Federal-Turnip3563
 
-**11. [If you're stuck as new ham, you might want to watch this.](https://www.reddit.com/r/amateurradio/comments/1uqq0lq/if_youre_stuck_as_new_ham_you_might_want_to_watch/)**
-by u/rquick123
+**11. [Modeling/simulating a dual-band PCB meander monopole? No ground plane under ante...](https://www.reddit.com/r/amateurradio/comments/1urqkib/modelingsimulating_a_dualband_pcb_meander/)**
+by u/-Big_Test_Icicles-
 
-**12. [[MEME] Summer Operating in Alaska](https://www.reddit.com/r/amateurradio/comments/1upnam0/meme_summer_operating_in_alaska/)**
-by u/thehotshotpilot
+**12. [Free CW practice tool in the browser — proper Farnsworth timing and WAV export](https://www.reddit.com/r/amateurradio/comments/1urop3u/free_cw_practice_tool_in_the_browser_proper/)**
+by u/aptal_orospu
 
-**13. [Field day with 500W and the Blue Yeti Power Cube -repost with corrected link](https://www.reddit.com/r/amateurradio/comments/1uqextc/field_day_with_500w_and_the_blue_yeti_power_cube/)**
-by u/VE6LK
+**13. [I really want to learn CW, need some guidance where to start.](https://www.reddit.com/r/amateurradio/comments/1ur6e6h/i_really_want_to_learn_cw_need_some_guidance/)**
+by u/KhyberPasshole
 
-**14. [New POTA antenna 👍🏻](https://www.reddit.com/r/amateurradio/comments/1upm0uj/new_pota_antenna/)**
-by u/mbeare0885
+**14. [Japanese version of panasonic radio](https://www.reddit.com/r/amateurradio/comments/1urjkru/japanese_version_of_panasonic_radio/)**
+by u/Insinkeratornerd
 
-**15. [Bayite project voltmeter wipes out 6 meters near 50.313](https://www.reddit.com/r/amateurradio/comments/1uqe23r/bayite_project_voltmeter_wipes_out_6_meters_near/)**
-by u/SignalWalker
+**15. [FTX-1 vs. FT-891 vs. G90 as first transceiver](https://www.reddit.com/r/amateurradio/comments/1ur0pfb/ftx1_vs_ft891_vs_g90_as_first_transceiver/)**
+by u/steamyy_ga
 
 ---
 
@@ -61,13 +61,13 @@ by u/SignalWalker
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uowokp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Absolutely chuffed to bits..](https://www.reddit.com/r/amateurradio/comments/1uqcmwy/absolutely_chuffed_to_bits/)** (r/amateurradio)
-- **[I am on a roll with fixing broken test equipment. 5/6 so far.](https://www.reddit.com/r/amateurradio/comments/1uqe9vs/i_am_on_a_roll_with_fixing_broken_test_equipment/)** (r/amateurradio)
-- **[Why aren't antenna modeling programs being modernized?](https://www.reddit.com/r/amateurradio/comments/1uqimo3/why_arent_antenna_modeling_programs_being/)** (r/amateurradio)
-- **[UV-PRO / VR-N76 + Look4Sat Doppler auto-tuning — needs my Look4Sat for...](https://www.reddit.com/r/amateurradio/comments/1uqoupp/uvpro_vrn76_look4sat_doppler_autotuning_needs_my/)** (r/amateurradio)
-- **[Why is WhatsApp PC tab interfering with my handheld?](https://www.reddit.com/r/amateurradio/comments/1uqod3w/why_is_whatsapp_pc_tab_interfering_with_my/)** (r/amateurradio)
-- **[Upgrade from Technician class to General Class license](https://www.reddit.com/r/amateurradio/comments/1uq4d9p/upgrade_from_technician_class_to_general_class/)** (r/amateurradio)
-- **[Help me help a recent widower out](https://www.reddit.com/r/amateurradio/comments/1uqfu0h/help_me_help_a_recent_widower_out/)** (r/amateurradio)
+- **[Radios Of The Venezuelan SARs Efforts](https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/)** (r/amateurradio)
+- **[Wanted to see if an attic antenna was viable, results are... Not promi...](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)** (r/amateurradio)
+- **[I put together a small, friendly contest for new hams, or hams who don...](https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/)** (r/amateurradio)
+- **[Recent RFI was intermittent, now permanent](https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/)** (r/amateurradio)
+- **[Forensic Sciences Car?](https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/)** (r/amateurradio)
+- **[Need help removing tower](https://www.reddit.com/r/amateurradio/comments/1ur7ocp/need_help_removing_tower/)** (r/amateurradio)
+- **[Does anyone know what kind of antenna this is?](https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/)** (r/amateurradio)
 - **[Hilltop repeater on solar running unattended for 3 months](https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/)** (r/amateurradio)
 
 ---

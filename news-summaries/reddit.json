@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T13:50:38.899285",
+  "updated": "2026-07-10T13:13:34.137273",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,24 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "I am about to give up, I am not getting out there.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us8wyw/i_am_about_to_give_up_i_am_not_getting_out_there/",
+        "author": "/u/Jet_Fixxxer"
+      },
+      {
+        "title": "[Yaesu FT-891] 891app - CAT control via WebSerial directly from the browser",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usmz8x/yaesu_ft891_891app_cat_control_via_webserial/",
+        "author": "/u/No-Pudding-1353"
+      },
+      {
+        "title": "24hr Spectral scan finished yesterday at AZ87 EL58 from EN61vq. We have 69,71,73,75,77,79,81,83 and 85 too. All will be reassembled into the 3D radio terrain HTMI model. I need sun declination to move a bit more to rescan 79AZ to eliminate some side lobe illumination.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usk0ur/24hr_spectral_scan_finished_yesterday_at_az87/",
+        "author": "/u/DeepSpace1420MHZ"
+      },
+      {
         "title": "Radios Of The Venezuelan SARs Efforts",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/",
         "author": "/u/Lanky_Guard_6088"
-      },
-      {
-        "title": "Wanted to see if an attic antenna was viable, results are... Not promising",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/",
-        "author": "/u/thesoulless78"
       },
       {
         "title": "I put together a small, friendly contest for new hams, or hams who don't usually work contests.",
@@ -32,14 +42,44 @@
         "author": "/u/K3CAN"
       },
       {
+        "title": "80m POTA Frequency Etiquette?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us8ijw/80m_pota_frequency_etiquette/",
+        "author": "/u/KhyberPasshole"
+      },
+      {
+        "title": "Wanted to see if an attic antenna was viable, results are... Not promising",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "Night of Nights is Saturday. I wrote about DA, the first woman commercial op at KPH, who died in May.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ursy9o/night_of_nights_is_saturday_i_wrote_about_da_the/",
+        "author": "/u/Dependent_Run_6410"
+      },
+      {
+        "title": "Selling HAM Radio gear",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us4syn/selling_ham_radio_gear/",
+        "author": "/u/Shrimp_Seance619"
+      },
+      {
         "title": "Recent RFI was intermittent, now permanent",
         "link": "https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/",
         "author": "/u/chrisgtl"
       },
       {
-        "title": "Forensic Sciences Car?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/",
-        "author": "/u/kiloo520"
+        "title": "Baofeng UV-32 Tri-Band or Dual-Band???",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us5e39/baofeng_uv32_triband_or_dualband/",
+        "author": "/u/Charming-Jelly-3365"
+      },
+      {
+        "title": "I open-sourced my FT8 autopilot (Python/PyQt, auto CQ/answer, ADIF, optional ESP32 PTT) \u2014 feedback welcome",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usiusf/i_opensourced_my_ft8_autopilot_pythonpyqt_auto/",
+        "author": "/u/MrSzarkaszta"
+      },
+      {
+        "title": "Can feel the VHF energy being transmitted at high power besides antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usitg3/can_feel_the_vhf_energy_being_transmitted_at_high/",
+        "author": "/u/AlanCui4080"
       },
       {
         "title": "Need help removing tower",
@@ -47,14 +87,39 @@
         "author": "/u/WPThrowaway1"
       },
       {
+        "title": "Forensic Sciences Car?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/",
+        "author": "/u/kiloo520"
+      },
+      {
+        "title": "An app I built for radio amateurs tracking satellites",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usfyqg/an_app_i_built_for_radio_amateurs_tracking/",
+        "author": "/u/nxugget"
+      },
+      {
+        "title": "Help, Guidance, ect. I have this interference",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us4huy/help_guidance_ect_i_have_this_interference/",
+        "author": "/u/Cia_office_921E"
+      },
+      {
+        "title": "Getting started on an amateur project",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us3xvp/getting_started_on_an_amateur_project/",
+        "author": "/u/Major-Awareness-60"
+      },
+      {
+        "title": "Can I do a Nvis configuration with spooltenna Park model on 40m?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1urulie/can_i_do_a_nvis_configuration_with_spooltenna/",
+        "author": "/u/Lz3YaRiEl"
+      },
+      {
         "title": "Does anyone know what kind of antenna this is?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/",
         "author": "/u/Sparkymaccc"
       },
       {
-        "title": "Hilltop repeater on solar running unattended for 3 months",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/",
-        "author": "/u/Federal-Turnip3563"
+        "title": "Motorola DP4400 and PTT with connector",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1urz9yf/motorola_dp4400_and_ptt_with_connector/",
+        "author": "/u/Leather-Escape513"
       },
       {
         "title": "Modeling/simulating a dual-band PCB meander monopole? No ground plane under antenna?",
@@ -62,74 +127,9 @@
         "author": "/u/-Big_Test_Icicles-"
       },
       {
-        "title": "Free CW practice tool in the browser \u2014 proper Farnsworth timing and WAV export",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urop3u/free_cw_practice_tool_in_the_browser_proper/",
-        "author": "/u/aptal_orospu"
-      },
-      {
-        "title": "I really want to learn CW, need some guidance where to start.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur6e6h/i_really_want_to_learn_cw_need_some_guidance/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "Japanese version of panasonic radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urjkru/japanese_version_of_panasonic_radio/",
-        "author": "/u/Insinkeratornerd"
-      },
-      {
-        "title": "FTX-1 vs. FT-891 vs. G90 as first transceiver",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur0pfb/ftx1_vs_ft891_vs_g90_as_first_transceiver/",
-        "author": "/u/steamyy_ga"
-      },
-      {
-        "title": "Best antenna option",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur09pd/best_antenna_option/",
-        "author": "/u/petersenman21"
-      },
-      {
-        "title": "I wanna start and i have some equipment already",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urhqhv/i_wanna_start_and_i_have_some_equipment_already/",
-        "author": "/u/Russian_Guy47"
-      },
-      {
-        "title": "Why aren't antenna modeling programs being modernized?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqimo3/why_arent_antenna_modeling_programs_being/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "Absolutely chuffed to bits..",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqcmwy/absolutely_chuffed_to_bits/",
-        "author": "/u/firekeeper23"
-      },
-      {
-        "title": "Crystal Radio Detectors/Diodes: ramblings and questions",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur38hj/crystal_radio_detectorsdiodes_ramblings_and/",
-        "author": "/u/MultiSubjectExpert"
-      },
-      {
-        "title": "I am on a roll with fixing broken test equipment. 5/6 so far.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqe9vs/i_am_on_a_roll_with_fixing_broken_test_equipment/",
-        "author": "/u/inquirewue"
-      },
-      {
-        "title": "Valence LiFePO4 Batteries",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ura9zn/valence_lifepo4_batteries/",
-        "author": "/u/Fitch9392"
-      },
-      {
-        "title": "POTA USB Power Access Using a 12v Life4Po Battery",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur4ahq/pota_usb_power_access_using_a_12v_life4po_battery/",
-        "author": "/u/Bolt_EV"
-      },
-      {
-        "title": "Digital processing of ultra-weak signals",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqv4rz/digital_processing_of_ultraweak_signals/",
-        "author": "/u/Ill_Chocolate4294"
-      },
-      {
-        "title": "Brighton to Isle of Wight on 5W",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqsmxv/brighton_to_isle_of_wight_on_5w/",
-        "author": "/u/DutchOfBurdock"
+        "title": "Hilltop repeater on solar running unattended for 3 months",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/",
+        "author": "/u/Federal-Turnip3563"
       }
     ]
   }

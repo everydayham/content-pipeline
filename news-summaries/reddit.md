@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-09 13:50 UTC*
+*Last updated: 2026-07-10 13:13 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Radios Of The Venezuelan SARs Efforts](https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/)**
+**3. [I am about to give up, I am not getting out there.](https://www.reddit.com/r/amateurradio/comments/1us8wyw/i_am_about_to_give_up_i_am_not_getting_out_there/)**
+by u/Jet_Fixxxer
+
+**4. [[Yaesu FT-891] 891app - CAT control via WebSerial directly from the browser](https://www.reddit.com/r/amateurradio/comments/1usmz8x/yaesu_ft891_891app_cat_control_via_webserial/)**
+by u/No-Pudding-1353
+
+**5. [24hr Spectral scan finished yesterday at AZ87 EL58 from EN61vq. We have 69,71,73...](https://www.reddit.com/r/amateurradio/comments/1usk0ur/24hr_spectral_scan_finished_yesterday_at_az87/)**
+by u/DeepSpace1420MHZ
+
+**6. [Radios Of The Venezuelan SARs Efforts](https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/)**
 by u/Lanky_Guard_6088
 
-**4. [Wanted to see if an attic antenna was viable, results are... Not promising](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)**
-by u/thesoulless78
-
-**5. [I put together a small, friendly contest for new hams, or hams who don't usually...](https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/)**
+**7. [I put together a small, friendly contest for new hams, or hams who don't usually...](https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/)**
 by u/K3CAN
 
-**6. [Recent RFI was intermittent, now permanent](https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/)**
-by u/chrisgtl
-
-**7. [Forensic Sciences Car?](https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/)**
-by u/kiloo520
-
-**8. [Need help removing tower](https://www.reddit.com/r/amateurradio/comments/1ur7ocp/need_help_removing_tower/)**
-by u/WPThrowaway1
-
-**9. [Does anyone know what kind of antenna this is?](https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/)**
-by u/Sparkymaccc
-
-**10. [Hilltop repeater on solar running unattended for 3 months](https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/)**
-by u/Federal-Turnip3563
-
-**11. [Modeling/simulating a dual-band PCB meander monopole? No ground plane under ante...](https://www.reddit.com/r/amateurradio/comments/1urqkib/modelingsimulating_a_dualband_pcb_meander/)**
-by u/-Big_Test_Icicles-
-
-**12. [Free CW practice tool in the browser — proper Farnsworth timing and WAV export](https://www.reddit.com/r/amateurradio/comments/1urop3u/free_cw_practice_tool_in_the_browser_proper/)**
-by u/aptal_orospu
-
-**13. [I really want to learn CW, need some guidance where to start.](https://www.reddit.com/r/amateurradio/comments/1ur6e6h/i_really_want_to_learn_cw_need_some_guidance/)**
+**8. [80m POTA Frequency Etiquette?](https://www.reddit.com/r/amateurradio/comments/1us8ijw/80m_pota_frequency_etiquette/)**
 by u/KhyberPasshole
 
-**14. [Japanese version of panasonic radio](https://www.reddit.com/r/amateurradio/comments/1urjkru/japanese_version_of_panasonic_radio/)**
-by u/Insinkeratornerd
+**9. [Wanted to see if an attic antenna was viable, results are... Not promising](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)**
+by u/thesoulless78
 
-**15. [FTX-1 vs. FT-891 vs. G90 as first transceiver](https://www.reddit.com/r/amateurradio/comments/1ur0pfb/ftx1_vs_ft891_vs_g90_as_first_transceiver/)**
-by u/steamyy_ga
+**10. [Night of Nights is Saturday. I wrote about DA, the first woman commercial op at ...](https://www.reddit.com/r/amateurradio/comments/1ursy9o/night_of_nights_is_saturday_i_wrote_about_da_the/)**
+by u/Dependent_Run_6410
+
+**11. [Selling HAM Radio gear](https://www.reddit.com/r/amateurradio/comments/1us4syn/selling_ham_radio_gear/)**
+by u/Shrimp_Seance619
+
+**12. [Recent RFI was intermittent, now permanent](https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/)**
+by u/chrisgtl
+
+**13. [Baofeng UV-32 Tri-Band or Dual-Band???](https://www.reddit.com/r/amateurradio/comments/1us5e39/baofeng_uv32_triband_or_dualband/)**
+by u/Charming-Jelly-3365
+
+**14. [I open-sourced my FT8 autopilot (Python/PyQt, auto CQ/answer, ADIF, optional ESP...](https://www.reddit.com/r/amateurradio/comments/1usiusf/i_opensourced_my_ft8_autopilot_pythonpyqt_auto/)**
+by u/MrSzarkaszta
+
+**15. [Can feel the VHF energy being transmitted at high power besides antenna](https://www.reddit.com/r/amateurradio/comments/1usitg3/can_feel_the_vhf_energy_being_transmitted_at_high/)**
+by u/AlanCui4080
 
 ---
 
@@ -61,14 +61,14 @@ by u/steamyy_ga
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uowokp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[I am about to give up, I am not getting out there.](https://www.reddit.com/r/amateurradio/comments/1us8wyw/i_am_about_to_give_up_i_am_not_getting_out_there/)** (r/amateurradio)
+- **[[Yaesu FT-891] 891app - CAT control via WebSerial directly from the br...](https://www.reddit.com/r/amateurradio/comments/1usmz8x/yaesu_ft891_891app_cat_control_via_webserial/)** (r/amateurradio)
+- **[24hr Spectral scan finished yesterday at AZ87 EL58 from EN61vq. We hav...](https://www.reddit.com/r/amateurradio/comments/1usk0ur/24hr_spectral_scan_finished_yesterday_at_az87/)** (r/amateurradio)
 - **[Radios Of The Venezuelan SARs Efforts](https://www.reddit.com/r/amateurradio/comments/1uripox/radios_of_the_venezuelan_sars_efforts/)** (r/amateurradio)
-- **[Wanted to see if an attic antenna was viable, results are... Not promi...](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)** (r/amateurradio)
 - **[I put together a small, friendly contest for new hams, or hams who don...](https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/)** (r/amateurradio)
-- **[Recent RFI was intermittent, now permanent](https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/)** (r/amateurradio)
-- **[Forensic Sciences Car?](https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/)** (r/amateurradio)
-- **[Need help removing tower](https://www.reddit.com/r/amateurradio/comments/1ur7ocp/need_help_removing_tower/)** (r/amateurradio)
-- **[Does anyone know what kind of antenna this is?](https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/)** (r/amateurradio)
-- **[Hilltop repeater on solar running unattended for 3 months](https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/)** (r/amateurradio)
+- **[80m POTA Frequency Etiquette?](https://www.reddit.com/r/amateurradio/comments/1us8ijw/80m_pota_frequency_etiquette/)** (r/amateurradio)
+- **[Wanted to see if an attic antenna was viable, results are... Not promi...](https://www.reddit.com/r/amateurradio/comments/1urnvx4/wanted_to_see_if_an_attic_antenna_was_viable/)** (r/amateurradio)
+- **[Night of Nights is Saturday. I wrote about DA, the first woman commerc...](https://www.reddit.com/r/amateurradio/comments/1ursy9o/night_of_nights_is_saturday_i_wrote_about_da_the/)** (r/amateurradio)
 
 ---
 

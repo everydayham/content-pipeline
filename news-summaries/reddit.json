@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T13:13:34.137273",
+  "updated": "2026-07-11T11:54:50.381209",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,39 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "I am about to give up, I am not getting out there.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1us8wyw/i_am_about_to_give_up_i_am_not_getting_out_there/",
-        "author": "/u/Jet_Fixxxer"
+        "title": "A HamClock-inspired ham radio dashboard for the esp32 Cheap Yellow Display.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1utg0q7/a_hamclockinspired_ham_radio_dashboard_for_the/",
+        "author": "/u/enormousaardvark"
+      },
+      {
+        "title": "146.52 is alive and well",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usutf3/14652_is_alive_and_well/",
+        "author": "/u/Wonderful_Dish7429"
+      },
+      {
+        "title": "No desire to study for extra",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut6t41/no_desire_to_study_for_extra/",
+        "author": "/u/actionfingerss"
+      },
+      {
+        "title": "If you're new to the hobby or you've been here a while and you're worried that you've only got 100w and can only put up a wire antenna take a look at these maps!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usp23e/if_youre_new_to_the_hobby_or_youve_been_here_a/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "LDG Tuner - is there any reason not to make a smaller plastic box?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut2yk1/ldg_tuner_is_there_any_reason_not_to_make_a/",
+        "author": "/u/sparkgappingjawa"
+      },
+      {
+        "title": "Remote station transmitter shutdown over vhf",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut943p/remote_station_transmitter_shutdown_over_vhf/",
+        "author": "/u/Quick-Log-4166"
+      },
+      {
+        "title": "Can I do digital modes with an FT897D or just look to a new rig?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1utejhj/can_i_do_digital_modes_with_an_ft897d_or_just/",
+        "author": "/u/Giuanniello"
       },
       {
         "title": "[Yaesu FT-891] 891app - CAT control via WebSerial directly from the browser",
@@ -27,9 +57,54 @@
         "author": "/u/No-Pudding-1353"
       },
       {
+        "title": "I'm a noob. What radio or walkie talkie could I get so that all of my neighbors on my street could communicate? Is that possible?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut5xr7/im_a_noob_what_radio_or_walkie_talkie_could_i_get/",
+        "author": "/u/Whoa1Whoa1"
+      },
+      {
+        "title": "Just found a kenwood th-75a",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut75un/just_found_a_kenwood_th75a/",
+        "author": "/u/sseraxin"
+      },
+      {
+        "title": "LEO Satellite Ground Station",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usqmby/leo_satellite_ground_station/",
+        "author": "/u/tejeswar_5678"
+      },
+      {
+        "title": "Issue programming FT-65R with CHIRP",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut98yx/issue_programming_ft65r_with_chirp/",
+        "author": "/u/Knubinator"
+      },
+      {
+        "title": "Codeplugs UK",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut082o/codeplugs_uk/",
+        "author": "/u/tommykw"
+      },
+      {
+        "title": "Anyone used DESHIBO WV-601 for transmitting?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ut5bpw/anyone_used_deshibo_wv601_for_transmitting/",
+        "author": "/u/SpecialistFew4621"
+      },
+      {
+        "title": "I am about to give up, I am not getting out there.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us8wyw/i_am_about_to_give_up_i_am_not_getting_out_there/",
+        "author": "/u/Jet_Fixxxer"
+      },
+      {
+        "title": "Is an FT-140-43 enough for 100W SSB? For a 4:1 balun",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1usnehd/is_an_ft14043_enough_for_100w_ssb_for_a_41_balun/",
+        "author": "/u/thesoulless78"
+      },
+      {
         "title": "24hr Spectral scan finished yesterday at AZ87 EL58 from EN61vq. We have 69,71,73,75,77,79,81,83 and 85 too. All will be reassembled into the 3D radio terrain HTMI model. I need sun declination to move a bit more to rescan 79AZ to eliminate some side lobe illumination.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1usk0ur/24hr_spectral_scan_finished_yesterday_at_az87/",
         "author": "/u/DeepSpace1420MHZ"
+      },
+      {
+        "title": "80m POTA Frequency Etiquette?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1us8ijw/80m_pota_frequency_etiquette/",
+        "author": "/u/KhyberPasshole"
       },
       {
         "title": "Radios Of The Venezuelan SARs Efforts",
@@ -40,11 +115,6 @@
         "title": "I put together a small, friendly contest for new hams, or hams who don't usually work contests.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1urqcpk/i_put_together_a_small_friendly_contest_for_new/",
         "author": "/u/K3CAN"
-      },
-      {
-        "title": "80m POTA Frequency Etiquette?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1us8ijw/80m_pota_frequency_etiquette/",
-        "author": "/u/KhyberPasshole"
       },
       {
         "title": "Wanted to see if an attic antenna was viable, results are... Not promising",
@@ -60,76 +130,6 @@
         "title": "Selling HAM Radio gear",
         "link": "https://www.reddit.com/r/amateurradio/comments/1us4syn/selling_ham_radio_gear/",
         "author": "/u/Shrimp_Seance619"
-      },
-      {
-        "title": "Recent RFI was intermittent, now permanent",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urlbsn/recent_rfi_was_intermittent_now_permanent/",
-        "author": "/u/chrisgtl"
-      },
-      {
-        "title": "Baofeng UV-32 Tri-Band or Dual-Band???",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1us5e39/baofeng_uv32_triband_or_dualband/",
-        "author": "/u/Charming-Jelly-3365"
-      },
-      {
-        "title": "I open-sourced my FT8 autopilot (Python/PyQt, auto CQ/answer, ADIF, optional ESP32 PTT) \u2014 feedback welcome",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1usiusf/i_opensourced_my_ft8_autopilot_pythonpyqt_auto/",
-        "author": "/u/MrSzarkaszta"
-      },
-      {
-        "title": "Can feel the VHF energy being transmitted at high power besides antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1usitg3/can_feel_the_vhf_energy_being_transmitted_at_high/",
-        "author": "/u/AlanCui4080"
-      },
-      {
-        "title": "Need help removing tower",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur7ocp/need_help_removing_tower/",
-        "author": "/u/WPThrowaway1"
-      },
-      {
-        "title": "Forensic Sciences Car?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ur4wl4/forensic_sciences_car/",
-        "author": "/u/kiloo520"
-      },
-      {
-        "title": "An app I built for radio amateurs tracking satellites",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1usfyqg/an_app_i_built_for_radio_amateurs_tracking/",
-        "author": "/u/nxugget"
-      },
-      {
-        "title": "Help, Guidance, ect. I have this interference",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1us4huy/help_guidance_ect_i_have_this_interference/",
-        "author": "/u/Cia_office_921E"
-      },
-      {
-        "title": "Getting started on an amateur project",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1us3xvp/getting_started_on_an_amateur_project/",
-        "author": "/u/Major-Awareness-60"
-      },
-      {
-        "title": "Can I do a Nvis configuration with spooltenna Park model on 40m?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urulie/can_i_do_a_nvis_configuration_with_spooltenna/",
-        "author": "/u/Lz3YaRiEl"
-      },
-      {
-        "title": "Does anyone know what kind of antenna this is?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urjht0/does_anyone_know_what_kind_of_antenna_this_is/",
-        "author": "/u/Sparkymaccc"
-      },
-      {
-        "title": "Motorola DP4400 and PTT with connector",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urz9yf/motorola_dp4400_and_ptt_with_connector/",
-        "author": "/u/Leather-Escape513"
-      },
-      {
-        "title": "Modeling/simulating a dual-band PCB meander monopole? No ground plane under antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1urqkib/modelingsimulating_a_dualband_pcb_meander/",
-        "author": "/u/-Big_Test_Icicles-"
-      },
-      {
-        "title": "Hilltop repeater on solar running unattended for 3 months",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uqqtg3/hilltop_repeater_on_solar_running_unattended_for/",
-        "author": "/u/Federal-Turnip3563"
       }
     ]
   }

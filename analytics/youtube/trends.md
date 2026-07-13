@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-07-06 15:15 UTC*
+*Last updated: 2026-07-13 14:11 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| swmming pool me kon sota h 😇🤪😇#luckygameplay #craz... | crazy avinash | 1,231,000 | 2026-07-02 |
-| SOTAが中心となると、ダンスは別次元のものとなる。#BEFIRST | NINA_BESTY | 307,937 | 2026-07-02 |
-| 10+ Ghante Ki Flight Mein Pilot Sota Kaha Hai? 😱 A... | Quick Fact Lab | 292,912 | 2026-07-03 |
-| बच्ची ने सबको हंसा के पागल कर दिया 😃😝😂😀♥️ #funnyst... | The Status Point | 189,824 | 2026-06-30 |
-| SOTA,🍝🌹出汁,を取るのにハマっちゃって 最近#BEFIRST | NINA_BESTY | 185,948 | 2026-07-03 |
-| Happy 250 America! #hobby #hamradio #hamradiolife ... | Hobby Steve  | 159,430 | 2026-07-04 |
-| 🔥♨️ தரமான MUTTON varuval + NATTUKOZHI pichu pota k... | RIDE WITH SARAN | 155,118 | 2026-07-05 |
-| Dadi pota khet ch enjoy krde hoe #familybond #fami... | Pind Wali Dadi | 151,188 | 2026-07-04 |
-| dada pota ⚽ 🔥 don't missed end ⚽️ 😱 #footballvideo... | Jota_sujjon | 126,940 | 2026-07-01 |
-| BE:FIRST 'Missing' SOTA & JUNON w/ KEIGO #JI_BLUE ... | BE:FIRST Official | 117,841 | 2026-07-04 |
-| Piyush Sota He Rehta Hai Poora Din 😂 #souravjoshiv... | Sourav Joshi Infinit | 102,059 | 2026-07-03 |
-| HF Radio: The OP Weapon of Modern Minutemen | Civil Defense Engine | 96,908 | 2026-06-30 |
-| Pota Fisal kar gir gaya #ytshorts #minivlog #short... | Rajasthan Wali Dadi | 86,623 | 2026-07-02 |
-| SOTA,MANATO, 🌹歌唱力のレベルが別格だ。#BEFIRST | NINA_BESTY | 84,308 | 2026-07-05 |
-| Dada pota  bestfriends #babydevelopment #newmommys... | Nikita Yogesh Vlogs | 80,917 | 2026-06-30 |
-| 【特別対談・前編】将棋AI開発者 たややんさんが驚いた 藤井聡太名人のAI活用術 | 将棋・囲碁ch 毎日新聞 | 71,777 | 2026-06-30 |
-| Il CILIEGIO si POTA in ESTATE: ecco cosa bisogna f... | Orto Da Coltivare | 70,234 | 2026-07-02 |
-| #BEFIRST#missing ①爽やか切な曲かと思ったのにダンプラ騒がしすぎたw部活？#LEO ... | BE:HAPPY | 67,642 | 2026-07-02 |
-| #BEFIRST#missing ②ダンプラ緩急すごくてついていけない騒がしいと思ったら急にかっこよ... | BE:HAPPY | 63,919 | 2026-07-02 |
-| Kalyanathu kupitta kolla adika pota mathiri vararu... | Sanus Real World | 55,730 | 2026-07-05 |
-| kalidas ka pota 🤣😁 #funny #viral #memes #shorts #t... | Neha  | 55,304 | 2026-07-01 |
-| GME XRS-370 GMRS Radio & GME AE4704B-U GMRS Antenn... | NotaRubicon Producti | 38,400 | 2026-06-30 |
-| Aku punya pota bee adikku gak kebagian hahahaha | Meitama Arief | 34,477 | 2026-07-03 |
-| Beautiful and amazing fishing rod to catch big fis... | FANTA DAY 2.2 | 32,040 | 2026-07-02 |
-| 1999| First Watch with GPS, CASIO PRO TREK PRT-1 #... | Watch Time Traveler | 31,547 | 2026-06-29 |
+| Sai enaku pota strict order😳#ytshorts #minivlog #v... | Thehappyvlogs | 646,844 | 2026-07-07 |
+| Itna Kon Sota Hai 😭💔 #comedy #funny #ytshorts #com... | Dev Singh | 570,495 | 2026-07-07 |
+| Dadi and pota gurudwara jande hoye #familybond #fa... | Pind Wali Dadi | 423,465 | 2026-07-07 |
+| Dadi Pota abhi lende hoye #familybond #familylove ... | Pind Wali Dadi | 390,587 | 2026-07-07 |
+| Dada vs Pota 😂 ( Reality Check ) | Kuldeep Singhan... | 🖤 A D ♥️ | 331,813 | 2026-07-07 |
+| Cycle chlo de hoye dadi and pota #familybond #fami... | Pind Wali Dadi | 282,499 | 2026-07-08 |
+| Aise kaun sota hai 🥲#sleepposition | Oyedivya | 209,658 | 2026-07-08 |
+| Dadi🧑🏻‍🦳👵🏻Vs Pota👦🏻 Look Challenge🙏 🌸🥳🎈Prashant Sh... | Prashant Sharma Ente | 185,625 | 2026-07-11 |
+| Maths Teacher Mandai pota tharunam😭#tamil #tamilsh... | Nasreen's Journey | 161,910 | 2026-07-08 |
+| SOTAだけでも100万人規模のダンスと歌のショーを開催できる。#BEFIRST | NINA_BESTY | 133,356 | 2026-07-10 |
+| Dadi and pota Gurudwara Langer di sewa krde hoye #... | Pind Wali Dadi | 118,705 | 2026-07-08 |
+| Made Pota Kaleji today! #chickenlivermasala #easyr... | Sana And Ayaana | 112,313 | 2026-07-11 |
+| Rudransh raat ko kya dekh kr sota h @Rudransh-kata... | Rudransh kataria | 86,264 | 2026-07-10 |
+| Отжать Крым обратно! Победить всё-таки! Россияне о... | sotavision | 80,849 | 2026-07-09 |
+| 💥DAY-26 YA BRO HACK POTA🥲POGA YA| ROLEXJOD |#freef... | ROLEX FF LIVE ! | 78,686 | 2026-07-06 |
+| Upar Pankha Chalta Hai | ऊपर पंखा चलता है |  Niche... | Hamari Madhu | 70,076 | 2026-07-07 |
+| SOTA!!! 音楽は彼の体から発せられる。Thank you for 20,000 ,#BEFIR... | NINA_BESTY | 68,276 | 2026-07-11 |
+| 【 BE:FIRST 】 告知頑張る JUNON と踊り出す SOTA #BEFIRST #BEFI... | まる【 BE:FIRST 切り抜き】 | 61,533 | 2026-07-08 |
+| Jab lok sota ha tab mobile ka aram ha #shorts #ree... | New Funny Videos | 60,317 | 2026-07-11 |
+| QRQ CW #morsecode #hamradio #quansheng | Forrest (KI7QCF) | 46,167 | 2026-07-08 |
+| Walkie Talkie Working Principle in Hindi | Walkie ... | JUNIOR ENGINEER HK | 45,438 | 2026-07-12 |
+| Tx to Ca! #hobby #hamradio #antenna #radio #morsec... | Hobby Steve  | 40,509 | 2026-07-08 |
+| Morse training #hobby #hamradio #hamradiolife #mor... | Hobby Steve  | 35,029 | 2026-07-11 |
+| BEFIRST SOTA & JUNON MILLION BILLION  ビーファースト ラジオ ... | BMSG Fans | 28,748 | 2026-07-11 |
+| The Morse Code Shortcut Nobody Tells You | TTM-III | 28,734 | 2026-07-09 |
 
 ---
 
@@ -42,14 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (33 videos)
-- **License/Learning**: ████████████████████ (26 videos)
-- **Antennas**: ████████████████████ (21 videos)
-- **HF Operating**: ████████████████████ (20 videos)
+- **POTA/Portable**: ████████████████████ (29 videos)
+- **License/Learning**: ████████████████████ (27 videos)
+- **HF Operating**: ████████████████████ (21 videos)
+- **Antennas**: ███████████████ (15 videos)
+- **Digital Modes**: █████████████ (13 videos)
 - **Gear Reviews**: ███████████ (11 videos)
-- **Digital Modes**: █████████ (9 videos)
-- **Contests**: █████ (5 videos)
 - **QRP**: █████ (5 videos)
+- **Contests**: █ (1 videos)
 
 ---
 

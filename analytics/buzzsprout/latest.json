@@ -1,6 +1,29 @@
 {
-  "updated": "2026-07-06T15:15:08.302098",
+  "updated": "2026-07-13T14:11:42.390356",
   "episodes": [
+    {
+      "id": 19466291,
+      "title": "Ep. 19 \u2013 How We Made Field Day Our Best One Yet",
+      "audio_url": "https://www.buzzsprout.com/2438895/episodes/19466291-ep-19-how-we-made-field-day-our-best-one-yet.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/9k0nxt8l3qdexcujobtgj9ogwm32",
+      "description": "<p>What happens when a club stops treating Field Day like an endurance contest and starts treating it like a neighborhood open house? In this episode, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) unpack the South Lyon Area Amateur Radio Club's reinvented Field Day, a community-first event in the middle of town with big printed signs at every antenna, a Get On The Air station, and newcomers like Cruz (KF8GNL) making their first HF contacts. The club nearly doubled last year's score with 1,193 contacts across three stations, but the real win was the dog walkers, museum visitors, and first-timers who stopped to see what ham radio is all about.</p><p>Before that, the crew recaps chasing the 13 Colonies Special Event through a wild solar storm, including a last-minute D-Star scramble to bag the Great Britain bonus station. They also give an honest, no-hype first look at the Buddipole BuddiHEX hex beam, cold solder joint and all, and break down the brewing showdown between the Icom ID-5200 and Kenwood TM-D750A mobile radios.</p><p>Topics in this episode:<br>13 Colonies Special Event and rough band conditions<br>Monroe Ham Swap finds<br>Reinventing Field Day around community<br>Getting new operators on the air<br>Buddipole BuddiHEX first impressions<br>Icom ID-5200 vs Kenwood TM-D750A</p><p>Don't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.</p>",
+      "summary": null,
+      "artist": "Rory Locke (W8KNX), Jim Davis (N8JRD), & James Mills (K8JKU)",
+      "tags": "ham radio, amateur radio, Field Day, ARRL Field Day, 13 Colonies, 13 Colonies special event, BuddiHEX, hex beam, Buddipole, ham radio antennas, CW, Icom ID-5200, Kenwood TM-D750A, mobile ham radio, ham radio club, Monroe Ham Swap, Everyday Ham",
+      "published_at": "2026-07-09T08:00:00.000-04:00",
+      "duration": 3912,
+      "hq": false,
+      "magic_mastering": true,
+      "guid": "Buzzsprout-19466291",
+      "inactive_at": null,
+      "custom_url": "",
+      "episode_number": 19,
+      "season_number": 2,
+      "episode_type": "full",
+      "explicit": false,
+      "private": false,
+      "total_plays": 589
+    },
     {
       "id": 19328548,
       "title": "Ep. 18 \u2013 Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
@@ -22,7 +45,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1034
+      "total_plays": 1157
     },
     {
       "id": 19219333,
@@ -45,7 +68,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1034
+      "total_plays": 1083
     },
     {
       "id": 19138519,
@@ -68,7 +91,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 878
+      "total_plays": 901
     },
     {
       "id": 18980854,
@@ -91,7 +114,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 909
+      "total_plays": 924
     },
     {
       "id": 18903785,
@@ -114,7 +137,7 @@
       "episode_type": "bonus",
       "explicit": false,
       "private": false,
-      "total_plays": 843
+      "total_plays": 854
     },
     {
       "id": 18794950,
@@ -137,7 +160,7 @@
       "episode_type": "full",
       "explicit": true,
       "private": false,
-      "total_plays": 1003
+      "total_plays": 1015
     },
     {
       "id": 18629581,
@@ -160,7 +183,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1177
+      "total_plays": 1191
     },
     {
       "id": 18470399,
@@ -183,7 +206,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1198
+      "total_plays": 1219
     },
     {
       "id": 18296133,
@@ -206,7 +229,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 1100
+      "total_plays": 1112
     },
     {
       "id": 18131359,
@@ -229,7 +252,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 879
+      "total_plays": 885
     },
     {
       "id": 17980624,
@@ -252,7 +275,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 906
+      "total_plays": 914
     },
     {
       "id": 17915090,
@@ -275,7 +298,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 717
+      "total_plays": 725
     },
     {
       "id": 17760784,
@@ -298,7 +321,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 914
+      "total_plays": 924
     },
     {
       "id": 17726132,
@@ -321,7 +344,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 666
+      "total_plays": 672
     },
     {
       "id": 17625014,
@@ -344,7 +367,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 710
+      "total_plays": 716
     },
     {
       "id": 17571459,
@@ -367,7 +390,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 639
+      "total_plays": 644
     },
     {
       "id": 17441669,
@@ -390,7 +413,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 769
+      "total_plays": 777
     },
     {
       "id": 17282578,
@@ -413,7 +436,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 626
+      "total_plays": 636
     },
     {
       "id": 17198150,
@@ -436,7 +459,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 547
+      "total_plays": 555
     },
     {
       "id": 17122535,
@@ -459,7 +482,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 512
+      "total_plays": 518
     },
     {
       "id": 16912708,
@@ -482,7 +505,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 622
+      "total_plays": 629
     },
     {
       "id": 16745714,
@@ -505,7 +528,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 521
+      "total_plays": 527
     },
     {
       "id": 16574585,
@@ -528,7 +551,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 525
+      "total_plays": 533
     },
     {
       "id": 16408083,
@@ -551,7 +574,7 @@
       "episode_type": "full",
       "explicit": false,
       "private": false,
-      "total_plays": 534
+      "total_plays": 546
     }
   ]
 }

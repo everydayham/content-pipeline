@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:16:27.822747",
+  "updated": "2026-07-15T12:17:33.034922",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,84 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "New video by Veritasium is a great educational tool for radio amateurs!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwhgj8/new_video_by_veritasium_is_a_great_educational/",
+        "author": "/u/Blueberry_Mancakes"
+      },
+      {
+        "title": "What licence is better for SSTV",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ux0z55/what_licence_is_better_for_sstv/",
+        "author": "/u/Euphoric-Fox6899"
+      },
+      {
+        "title": "6m open from US to EU!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uw8u6l/6m_open_from_us_to_eu/",
+        "author": "/u/SwitchedOnNow"
+      },
+      {
+        "title": "Used Old Yaesu FT-1500M Price",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwquo3/used_old_yaesu_ft1500m_price/",
+        "author": "/u/No-Ambition7389"
+      },
+      {
+        "title": "Antenna options for LoS issues for UHF/VHF - RX only",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ux2hy6/antenna_options_for_los_issues_for_uhfvhf_rx_only/",
+        "author": "/u/AsdaFan1"
+      },
+      {
+        "title": "First antenna beginner questions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ux14ho/first_antenna_beginner_questions/",
+        "author": "/u/Bubbly_Raccoon_1323"
+      },
+      {
+        "title": "Power supply modulation with E-class amplifier",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwsdoh/power_supply_modulation_with_eclass_amplifier/",
+        "author": "/u/Budget_Decision2508"
+      },
+      {
         "title": "Passed my Technician and General exams tonight 100% Both",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uvyck3/passed_my_technician_and_general_exams_tonight/",
         "author": "/u/Charming-Jelly-3365"
       },
       {
-        "title": "Bedside ham and aircraft scanner. 's",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvr92u/bedside_ham_and_aircraft_scanner_s/",
-        "author": "/u/dogem_forever"
+        "title": "Veritasium's take on the Smith chart.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwh4zn/veritasiums_take_on_the_smith_chart/",
+        "author": "/u/DENelson83"
+      },
+      {
+        "title": "What do you think about Mercury, the VARA alternative now that it's been out a couple months?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwa483/what_do_you_think_about_mercury_the_vara/",
+        "author": "/u/NR8E"
+      },
+      {
+        "title": "Qual \u00e9 mais confi\u00e1vel para medir o SWR?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwixzr/qual_\u00e9_mais_confi\u00e1vel_para_medir_o_swr/",
+        "author": "/u/Marllopes"
+      },
+      {
+        "title": "Uplink/Downlink Question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwpozp/uplinkdownlink_question/",
+        "author": "/u/EdVenture42"
+      },
+      {
+        "title": "20 Meters QRN",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwp9vr/20_meters_qrn/",
+        "author": "/u/Weekly_Narwhal1588"
+      },
+      {
+        "title": "Got the radio. Now what antennae?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uww4e3/got_the_radio_now_what_antennae/",
+        "author": "/u/tmaspen"
+      },
+      {
+        "title": "FT8 QRM, but what\u2019s the cause?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwnjpj/ft8_qrm_but_whats_the_cause/",
+        "author": "/u/vstarkweather57"
+      },
+      {
+        "title": "Mountain Field camp",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwisxd/mountain_field_camp/",
+        "author": "/u/shanebou24"
       },
       {
         "title": "Chased down a mystery noise on 430MHz \u2014 turned out to be my neighbor\u2019s solar panel?",
@@ -32,104 +102,34 @@
         "author": "/u/450450450450"
       },
       {
-        "title": "If you're in the SF Bay Area on 2m FT8, try calling CQ!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvsvgj/if_youre_in_the_sf_bay_area_on_2m_ft8_try_calling/",
-        "author": "/u/CdrTaggert"
+        "title": "FT-8 on a Yaesu FTdx1200. Do I need a USB interface module?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwp394/ft8_on_a_yaesu_ftdx1200_do_i_need_a_usb_interface/",
+        "author": "/u/Hic_Mos_Noster"
       },
       {
-        "title": "Weird Idea",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uw226x/weird_idea/",
-        "author": "/u/No_Anxiety_311"
+        "title": "Controlling a mobile UHF TX with an ESP32 / Arduino",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwnmzo/controlling_a_mobile_uhf_tx_with_an_esp32_arduino/",
+        "author": "/u/Impressive_Echo_3557"
       },
       {
-        "title": "Yaesu FT-290RII",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvxju0/yaesu_ft290rii/",
-        "author": "/u/_JayWalk_"
+        "title": "Bedside ham and aircraft scanner. 's",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uvr92u/bedside_ham_and_aircraft_scanner_s/",
+        "author": "/u/dogem_forever"
       },
       {
-        "title": "Just theoretically",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uw1dqy/just_theoretically/",
-        "author": "/u/Busy_Ad5224"
+        "title": "Are there any good water resistant 1090Mhz LNA&Filters?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwge1x/are_there_any_good_water_resistant_1090mhz/",
+        "author": "/u/Ed_From_Accounting"
       },
       {
-        "title": "Is there any way to make noise manageable in a townhouse with an EFHW on HF?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvrrkl/is_there_any_way_to_make_noise_manageable_in_a/",
-        "author": "/u/kooler_duck"
+        "title": "Xiegu g106c",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwijz9/xiegu_g106c/",
+        "author": "/u/patradio56"
       },
       {
-        "title": "Ham radio receiver for shortwave reception use.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uw6fh1/ham_radio_receiver_for_shortwave_reception_use/",
-        "author": "/u/gcopter1"
-      },
-      {
-        "title": "retevis rt3s gps cps error check if device is in use",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uw56lu/retevis_rt3s_gps_cps_error_check_if_device_is_in/",
-        "author": "/u/casualcatloaf"
-      },
-      {
-        "title": "The Dragon Labs CR-8, an 8 Channel Coherent SDR Receiver",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvxnt3/the_dragon_labs_cr8_an_8_channel_coherent_sdr/",
-        "author": "/u/DragonLabsLtd"
-      },
-      {
-        "title": "Battery recommendations",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvpdl6/battery_recommendations/",
-        "author": "/u/jamhob"
-      },
-      {
-        "title": "Getting back into it after a 30 year break. Some Questions.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvbowk/getting_back_into_it_after_a_30_year_break_some/",
-        "author": "/u/Im_Still_Here12"
-      },
-      {
-        "title": "Looking for an Amateur Radio Speaker!!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvvpag/looking_for_an_amateur_radio_speaker/",
-        "author": "/u/kanushidesai"
-      },
-      {
-        "title": "This might be a silly question, but... why can't you just check for spurious emissions with a standard scanner?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvrntm/this_might_be_a_silly_question_but_why_cant_you/",
-        "author": "/u/Function_Unknown_Yet"
-      },
-      {
-        "title": "Looking for 80M to 27Mh Mixer up-converter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvxrjl/looking_for_80m_to_27mh_mixer_upconverter/",
-        "author": "/u/Diligent_Tackle5335"
-      },
-      {
-        "title": "Cable for uSDX+ V2",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvvigy/cable_for_usdx_v2/",
-        "author": "/u/United-Leader9076"
-      },
-      {
-        "title": "Looking for feedback on a practical GMRS/ham/scanner setup before I waste more money",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvktvu/looking_for_feedback_on_a_practical/",
-        "author": "/u/distractedbyshinyobj"
-      },
-      {
-        "title": "Getting back into HF, choosing portable verticals",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvfxo1/getting_back_into_hf_choosing_portable_verticals/",
-        "author": "/u/spillman777"
-      },
-      {
-        "title": "100W SSB with a ~12Ah battery",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uv69j4/100w_ssb_with_a_12ah_battery/",
-        "author": "/u/DB8LE"
-      },
-      {
-        "title": "K1USN SST",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uuy6te/k1usn_sst/",
-        "author": "/u/InstrumentRated"
-      },
-      {
-        "title": "What am i looking at here?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uug5ng/what_am_i_looking_at_here/",
-        "author": "/u/HoodieNL"
-      },
-      {
-        "title": "Shopping list for a first base station",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uvl0fj/shopping_list_for_a_first_base_station/",
-        "author": "/u/_patroc"
+        "title": "Xiegu g106c",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uwij7c/xiegu_g106c/",
+        "author": "/u/patradio56"
       }
     ]
   }

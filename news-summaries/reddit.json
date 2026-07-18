@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T12:11:33.156989",
+  "updated": "2026-07-18T11:54:20.549870",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,74 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "What do you think of my DIY 1:1 dipole balun",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzdwuv/what_do_you_think_of_my_diy_11_dipole_balun/",
+        "author": "/u/ali_j_ashraf"
+      },
+      {
+        "title": "Parks on the Air, Fallout New Vegas style",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz752d/parks_on_the_air_fallout_new_vegas_style/",
+        "author": "/u/Sea_Specific9533"
+      },
+      {
+        "title": "Smallest Portable HF Radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzrx0e/smallest_portable_hf_radio/",
+        "author": "/u/craynerd"
+      },
+      {
+        "title": "Need contest scoring system",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzro4u/need_contest_scoring_system/",
+        "author": "/u/abidly"
+      },
+      {
+        "title": "Signal Link/FT891 issues",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzhrmh/signal_linkft891_issues/",
+        "author": "/u/Big-Tutor-3060"
+      },
+      {
+        "title": "I built a 24/7 \"Mission Control\" dashboard aggregating public SWPC/NASA feeds. Looking for feedback",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzq7gc/i_built_a_247_mission_control_dashboard/",
+        "author": "/u/Inaction-Potential"
+      },
+      {
         "title": "Experience with 5 W vs. 10 W (and/or more) in 2m?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uywaty/experience_with_5_w_vs_10_w_andor_more_in_2m/",
         "author": "/u/killing__me__softly"
+      },
+      {
+        "title": "Radiogram Portal",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz5z20/radiogram_portal/",
+        "author": "/u/Eschew-obfuscation99"
+      },
+      {
+        "title": "Signal Link/FT891 issues",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzhjgf/signal_linkft891_issues/",
+        "author": "/u/Big-Tutor-3060"
+      },
+      {
+        "title": "Can i connect WSJT-X to pskreporter without having a callsign?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz7xiy/can_i_connect_wsjtx_to_pskreporter_without_having/",
+        "author": "/u/MrPumpkin326"
+      },
+      {
+        "title": "My radio has a 18650 with a over charge protection circuit - how can I replace it - or can I go without protection? Seems to work with unprotected battery. Radio charges from usb.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzburl/my_radio_has_a_18650_with_a_over_charge/",
+        "author": "/u/DowntownJerseyCity"
+      },
+      {
+        "title": "Soviet-Belarusians multichannel Walkie-Talkies \u00abVolna\u00bb (Wave)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz8vd4/sovietbelarusians_multichannel_walkietalkies/",
+        "author": "/u/Ill_Engineering1522"
+      },
+      {
+        "title": "First time radio recommendation?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz4phb/first_time_radio_recommendation/",
+        "author": "/u/NXTangl"
+      },
+      {
+        "title": "Can anyone fix this?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzgbiy/can_anyone_fix_this/",
+        "author": "/u/JoshuaSimo"
       },
       {
         "title": "Struggling to get my first CW contact",
@@ -27,14 +92,29 @@
         "author": "/u/Maxsmog"
       },
       {
+        "title": "In praise of Bioenno battery replacement procedure",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uypl75/in_praise_of_bioenno_battery_replacement_procedure/",
+        "author": "/u/Ok_Fondant1079"
+      },
+      {
+        "title": "HAM Radio Prep",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uzlj2s/ham_radio_prep/",
+        "author": "/u/No_Championship_5982"
+      },
+      {
         "title": "Is it possible to change my callsign",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uye3st/is_it_possible_to_change_my_callsign/",
         "author": "/u/Reaper_one1"
       },
       {
-        "title": "In praise of Bioenno battery replacement procedure",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uypl75/in_praise_of_bioenno_battery_replacement_procedure/",
-        "author": "/u/Ok_Fondant1079"
+        "title": "Radtel RT-880g adapters and accessories, where to buy?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uyxqkj/radtel_rt880g_adapters_and_accessories_where_to/",
+        "author": "/u/finbar38"
+      },
+      {
+        "title": "A/N dyslexic ears",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1uz9qqb/an_dyslexic_ears/",
+        "author": "/u/AutofluorescentPuku"
       },
       {
         "title": "Shortwave regenerative reciever",
@@ -50,86 +130,6 @@
         "title": "Question about pawn shop radios?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1uyh0kr/question_about_pawn_shop_radios/",
         "author": "/u/silverwerk"
-      },
-      {
-        "title": "Qu\u2019est ce que vous pensez de cette antenne d\u00e9pliante",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uxyduv/quest_ce_que_vous_pensez_de_cette_antenne/",
-        "author": "/u/Odd_Analyst1496"
-      },
-      {
-        "title": "Radtel RT-880g adapters and accessories, where to buy?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uyxqkj/radtel_rt880g_adapters_and_accessories_where_to/",
-        "author": "/u/finbar38"
-      },
-      {
-        "title": "Are ARRL Memberships processed manually?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uyfm4x/are_arrl_memberships_processed_manually/",
-        "author": "/u/IndyScan"
-      },
-      {
-        "title": "POTA Loadout - What do you bring?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy52jf/pota_loadout_what_do_you_bring/",
-        "author": "/u/Hic_Mos_Noster"
-      },
-      {
-        "title": "I built a Linux control software for the Uniden BC125AT / UBC125XLT (open source)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy5mvy/i_built_a_linux_control_software_for_the_uniden/",
-        "author": "/u/devrunn"
-      },
-      {
-        "title": "VHF harmonics can interfere with full-duplex operation on ISS voice repeaters",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy7kc8/vhf_harmonics_can_interfere_with_fullduplex/",
-        "author": "/u/AlanCui4080"
-      },
-      {
-        "title": "Ft8 and gridtracker2",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uyli55/ft8_and_gridtracker2/",
-        "author": "/u/dbgreen"
-      },
-      {
-        "title": "6m was banging",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uxhz50/6m_was_banging/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "Wildland Fire Frequencies?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy0veu/wildland_fire_frequencies/",
-        "author": "/u/EnoughClue3251"
-      },
-      {
-        "title": "East Coast Reflector",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy46od/east_coast_reflector/",
-        "author": "/u/sweetnessfnerk"
-      },
-      {
-        "title": "Flagpole Antennas: how well do they resonate?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uxovgd/flagpole_antennas_how_well_do_they_resonate/",
-        "author": "/u/greenwoody2018"
-      },
-      {
-        "title": "PSA For newly licensed hams: Speak up, talk louder.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uxe0gl/psa_for_newly_licensed_hams_speak_up_talk_louder/",
-        "author": "/u/Well_Sorted8173"
-      },
-      {
-        "title": "Best ht for cw",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy52t8/best_ht_for_cw/",
-        "author": "/u/just-a-guy-somewhere"
-      },
-      {
-        "title": "6m packet/aprs",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy0mwy/6m_packetaprs/",
-        "author": "/u/wo8e"
-      },
-      {
-        "title": "Need to take a diff on two cabrillo files?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uy8lfi/need_to_take_a_diff_on_two_cabrillo_files/",
-        "author": "/u/Vastator69"
-      },
-      {
-        "title": "Daiwa DR7500A antenna load capacity",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1uxomvs/daiwa_dr7500a_antenna_load_capacity/",
-        "author": "/u/Own_Valuable_6131"
       }
     ]
   }

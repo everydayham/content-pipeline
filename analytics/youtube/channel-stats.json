@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13T14:11:43.308920",
+  "updated": "2026-07-20T13:50:47.152519",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "PllBdBe_r7JTKZ0QGuXYHTq45ZE",
+    "etag": "6iRGizj-9kLzdJGnzWXyiNlfVxg",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,229 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "224849",
-      "subscriberCount": "2120",
+      "viewCount": "227810",
+      "subscriberCount": "2140",
       "hiddenSubscriberCount": false,
-      "videoCount": "143"
+      "videoCount": "144"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "3F3n_dXQb2ld-5RRoos7I7xAqSY",
+      "etag": "Ybh-Wvy9UP3Y7bA1MunsOsb6XPY",
+      "id": "mdOTgixDm6o",
+      "snippet": {
+        "publishedAt": "2026-07-17T12:00:19Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Heil BM-17 Unboxing & Review: Is the Reissue Worth $165?",
+        "description": "The bright-yellow Heil BM-17 was a POTA favorite for years, then it disappeared. Now it's back in black, and we put the new single-sided version to the test.\n\nGet the BM-17 at DX Engineering: https://www.dxengineering.com/parts/hls-bm-17s-dy-b\n\nJames (K8JKU) unboxes the reissued Heil BM-17 single-sided headset and compares it head to head with Rory's (W8KNX) original, a unit that's been beaten around in his POTA kit for four years and still works. We get into what actually changed on the reissue: the boom going from metal to all-plastic, the new full-swivel design, and that $165 price. Then we put it on the air for a real audio check.\n\nChapters:\n00:00 The BM-17 is back\n01:38 Unboxing the new single-sided version\n02:14 Rory's 4-year-old original, side by side\n03:17 What changed (and the $165 price)\n06:02 On-air test: working KN4AL on POTA\n07:33 Final verdict: is it worth it?\n\nGear in this video:\n- Heil BM-17 single-sided, dynamic (Heil Ham Radio, black): https://www.dxengineering.com/parts/hls-bm-17s-dy-b\n- Heil AD-1-YM Yaesu adapter cable: https://www.dxengineering.com/parts/hls-ad-1-ym\n- Yaesu FTDX10 HF/50 MHz transceiver: https://www.dxengineering.com/parts/ysu-ftdx-10\n- Parks on the Air (POTA): https://pota.app\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #amateurradio #Heil #hamradiogear",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Heil BM-17",
+          "Heil BM-17 review",
+          "Heil BM-17 unboxing",
+          "Heil Ham Radio",
+          "Heil headset",
+          "ham radio headset",
+          "POTA headset",
+          "BM-17 reissue",
+          "Heil BM-17 vs original",
+          "amateur radio headset",
+          "Yaesu FTDX10",
+          "DX Engineering",
+          "POTA",
+          "ham radio",
+          "boom mic headset",
+          "amateur radio",
+          "single sided headset"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Heil BM-17 Unboxing & Review: Is the Reissue Worth $165?",
+          "description": "The bright-yellow Heil BM-17 was a POTA favorite for years, then it disappeared. Now it's back in black, and we put the new single-sided version to the test.\n\nGet the BM-17 at DX Engineering: https://www.dxengineering.com/parts/hls-bm-17s-dy-b\n\nJames (K8JKU) unboxes the reissued Heil BM-17 single-sided headset and compares it head to head with Rory's (W8KNX) original, a unit that's been beaten around in his POTA kit for four years and still works. We get into what actually changed on the reissue: the boom going from metal to all-plastic, the new full-swivel design, and that $165 price. Then we put it on the air for a real audio check.\n\nChapters:\n00:00 The BM-17 is back\n01:38 Unboxing the new single-sided version\n02:14 Rory's 4-year-old original, side by side\n03:17 What changed (and the $165 price)\n06:02 On-air test: working KN4AL on POTA\n07:33 Final verdict: is it worth it?\n\nGear in this video:\n- Heil BM-17 single-sided, dynamic (Heil Ham Radio, black): https://www.dxengineering.com/parts/hls-bm-17s-dy-b\n- Heil AD-1-YM Yaesu adapter cable: https://www.dxengineering.com/parts/hls-ad-1-ym\n- Yaesu FTDX10 HF/50 MHz transceiver: https://www.dxengineering.com/parts/ysu-ftdx-10\n- Parks on the Air (POTA): https://pota.app\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #amateurradio #Heil #hamradiogear"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "334",
+        "likeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PSeqhp7lo5_allKCbCJF0Og2Al8",
+      "id": "qqV5zexJB64",
+      "snippet": {
+        "publishedAt": "2026-07-16T19:06:16Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
+        "description": "We reported that Hy-Gain and Cushcraft were acquired by ITU a few months ago, and we're happy to be back to report that Mirage and Ameritron amplifiers will live on as well! \n\nSource: https://www.lintonnews.com/itu-corporation-acquires-ameritron-and-mirage-rf-amplifier-brands-from-mfj-enterprises-free-article/\n\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqV5zexJB64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqV5zexJB64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqV5zexJB64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqV5zexJB64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qqV5zexJB64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
+          "description": "We reported that Hy-Gain and Cushcraft were acquired by ITU a few months ago, and we're happy to be back to report that Mirage and Ameritron amplifiers will live on as well! \n\nSource: https://www.lintonnews.com/itu-corporation-acquires-ameritron-and-mirage-rf-amplifier-brands-from-mfj-enterprises-free-article/\n\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "88",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tEO4LSlOGnvVmpcjszmOSm_6wYA",
+      "id": "hu1R7Exlf3w",
+      "snippet": {
+        "publishedAt": "2026-07-14T12:00:02Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
+        "description": "Is ARRL Field Day still worth it? We think it is, if clubs are willing to rethink what it is for. From Episode 19: https://youtu.be/m5aILG8IEd0\n\nIn this clip, the South Lyon Area Amateur Radio Club takes Field Day out of the rustic cabin and into town, trading an emergency-prep campout for a community open house at the historic depot. The payoff was not just the score, 1,193 contacts on three stations at 100 watts and nearly double last year, it was the dog walkers, the museum visitors, and the neighbors who stopped to see what ham radio is all about. The lesson for your club: poll your members, set realistic expectations, and make it accessible.\n\nWatch the full Episode 19: https://youtu.be/m5aILG8IEd0\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #hamradiocommunity #ARRL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hu1R7Exlf3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hu1R7Exlf3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hu1R7Exlf3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hu1R7Exlf3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hu1R7Exlf3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "ARRL Field Day",
+          "Field Day",
+          "field day 2026",
+          "ham radio club",
+          "club engagement",
+          "ham radio community",
+          "getting new hams on the air",
+          "community outreach",
+          "is field day still relevant",
+          "ham radio field day setup",
+          "POTA",
+          "club field day ideas",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
+          "description": "Is ARRL Field Day still worth it? We think it is, if clubs are willing to rethink what it is for. From Episode 19: https://youtu.be/m5aILG8IEd0\n\nIn this clip, the South Lyon Area Amateur Radio Club takes Field Day out of the rustic cabin and into town, trading an emergency-prep campout for a community open house at the historic depot. The payoff was not just the score, 1,193 contacts on three stations at 100 watts and nearly double last year, it was the dog walkers, the museum visitors, and the neighbors who stopped to see what ham radio is all about. The lesson for your club: poll your members, set realistic expectations, and make it accessible.\n\nWatch the full Episode 19: https://youtu.be/m5aILG8IEd0\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #FieldDay #amateurradio #hamradiocommunity #ARRL"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "103",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3KO-WJHc3ce_SDAVY4nRHCVbCgU",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -106,15 +319,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "205",
-        "likeCount": "17",
+        "viewCount": "246",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CN8R5oBLplw9a0CCdrjUKPVgq5s",
+      "etag": "wBTdkWJPrJj5cXhv982IIaBl-z8",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -178,7 +391,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "288",
+        "viewCount": "304",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -186,7 +399,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cqjZxC12Q50G7e6BZHTWgozGmRU",
+      "etag": "u2KEaOX9dDlOLcnsyM5siZPl_nI",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -253,15 +466,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "839",
-        "likeCount": "55",
+        "viewCount": "866",
+        "likeCount": "57",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RJS_-qZbGAWXgKcuS9N2qzJVSfM",
+      "etag": "zFE6KxE98_Om65EoGiDJ3i0hjR4",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -325,15 +538,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "825",
-        "likeCount": "57",
+        "viewCount": "855",
+        "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FpsZHwAm3L4vuOOwaiBCyHVQ2wU",
+      "etag": "x4-clXsAHgPRYpULsVbWho6SouU",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -397,7 +610,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "311",
+        "viewCount": "322",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -405,7 +618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HCvyqeuPak5hcaVi3D-hYQtmKVY",
+      "etag": "3zxB03aW1aXHzP-HR1EzWKwHXxc",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -468,7 +681,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "408",
+        "viewCount": "417",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -476,7 +689,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xvlo2V6rL_psiwa_wd5vmlow3ZU",
+      "etag": "RbuQOOmQOHpRuydPB4BvOJUAQhM",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -540,15 +753,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "839",
-        "likeCount": "35",
+        "viewCount": "896",
+        "likeCount": "37",
         "favoriteCount": "0",
-        "commentCount": "7"
+        "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0nIEnDP_V4hjQNIaWyiFzjrMDJY",
+      "etag": "J6BYyYtBfPJ8jPJ0IK27D_pqhCA",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -611,7 +824,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "506",
+        "viewCount": "522",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -619,7 +832,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mZh_h0-6PeNUdHYzA3PueKz2pyk",
+      "etag": "sOCYiMZ4EE5RVfAeXrGdEz7abfY",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -682,7 +895,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "313",
+        "viewCount": "316",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -690,7 +903,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xXbdxyqCsfL6jiO27a6FK0HGMdY",
+      "etag": "PYNOfarblDuY_jVknHvlZx0sNHA",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -754,7 +967,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "618",
+        "viewCount": "621",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -762,7 +975,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NDxXOjtriAztf_ng-t6YpknL2r8",
+      "etag": "5qRm2PrZJiQrhFgRQS_0WG68ALc",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -826,7 +1039,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3341",
+        "viewCount": "3356",
         "likeCount": "90",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -834,7 +1047,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7q8_s6It4s7f8ZIChH9dPwcdhno",
+      "etag": "rgNhgLbUE2d6taOCHQldQIIyvDs",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -897,7 +1110,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "428",
+        "viewCount": "452",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -905,7 +1118,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0mT1KWdjHtQpmSKulFfRr_TmcCk",
+      "etag": "CQbmQDlq-iya_jzASUnPKwJwqto",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -969,15 +1182,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8294",
-        "likeCount": "182",
+        "viewCount": "8408",
+        "likeCount": "183",
         "favoriteCount": "0",
         "commentCount": "55"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8VTYwLVc-sU_VqeekO3vbCXvDVo",
+      "etag": "QQto6e1DlxeLULgoe1iXpEFPw_U",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -1041,7 +1254,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1730",
+        "viewCount": "1755",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1049,7 +1262,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3G-Hl1NxL8XzBh5GmSfOsCk_ajI",
+      "etag": "Rix3tYHxhO9A9m9eX8GAH6sSIfw",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -1113,15 +1326,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9523",
-        "likeCount": "179",
+        "viewCount": "9771",
+        "likeCount": "184",
         "favoriteCount": "0",
-        "commentCount": "49"
+        "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e7a0ClQ6ymjtebIv88nIM6fx7V4",
+      "etag": "k96DcZs7XE78uLBYmyITiTG96hI",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -1185,15 +1398,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8601",
-        "likeCount": "232",
+        "viewCount": "8843",
+        "likeCount": "234",
         "favoriteCount": "0",
-        "commentCount": "50"
+        "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7WXqi8QHzGAeLZU9fbMekKbmAYc",
+      "etag": "3XXPUMy-CUvKBZwMpkKurUCDpnk",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -1257,15 +1470,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4359",
-        "likeCount": "133",
+        "viewCount": "4419",
+        "likeCount": "134",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_EMXz7AiWsGVoj5R80YJGcrcH1M",
+      "etag": "e0RyLv8vbErRKhQ77WUXWN_w7O8",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -1326,15 +1539,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "835",
-        "likeCount": "28",
+        "viewCount": "846",
+        "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-KMZ3-He_JFfFr-5vSbhQQ145n4",
+      "etag": "kcKaGUF5NNL3L1Zz30nI6lDEQEs",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -1397,7 +1610,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1651",
+        "viewCount": "1654",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1405,7 +1618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sMLmhCBdIr0mZOrDE8gVnYLjeAk",
+      "etag": "iaeE0wG_ULSAOdwu3avpM2K-8w4",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -1466,7 +1679,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1364",
+        "viewCount": "1368",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1474,7 +1687,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Sj7XtDtMQxY3KyTd--wnCKIpGGg",
+      "etag": "3e6xwb4Qdhqd0E7r-gEYb9HYByc",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -1537,7 +1750,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "905",
+        "viewCount": "906",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1545,7 +1758,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FT3JFydwzEAZB7Ulm365vUOV21U",
+      "etag": "COdcAXzl78mI97FHNl3fhYPvD9w",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -1611,7 +1824,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "348",
+        "viewCount": "349",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1619,7 +1832,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QcEYEjHX9KrRRtnPYKM70SikBz0",
+      "etag": "vRDLQ-S4dsZfEEsAy6pl7qWZKfo",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -1667,7 +1880,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1372",
+        "viewCount": "1371",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1745,7 +1958,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rg577Mw8Y1EKwc8pBLLhnzdhfi4",
+      "etag": "3OUBTjdlXavW2otrauun8p8rwPg",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -1808,7 +2021,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "608",
+        "viewCount": "603",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1816,7 +2029,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1xLrycgYH_4cf4AL047FKDSgUNA",
+      "etag": "Abhkd9XWW9A_kGer8ypy-MoGE4k",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -1878,15 +2091,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1593",
-        "likeCount": "62",
+        "viewCount": "1660",
+        "likeCount": "63",
         "favoriteCount": "0",
-        "commentCount": "28"
+        "commentCount": "31"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IZwcSB88q6_jgm-BoRZ_XdNnpK8",
+      "etag": "DHFISIHR5yVlEcyz8Qo9YFqvEGM",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -1949,7 +2162,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "490",
+        "viewCount": "493",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1957,7 +2170,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bQqs0QayGk0bPrlInmHvngDo2mc",
+      "etag": "9gRtcKLAsM_2y6uKtQSu1y0L9RA",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -2020,7 +2233,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "947",
+        "viewCount": "958",
         "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2312,7 +2525,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_xlNSaSbnQ-1_NxFkedAHrz1pLc",
+      "etag": "QoJBwhbO8lqJHae2_pCBGwP_bj8",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -2377,15 +2590,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1690",
-        "likeCount": "71",
+        "viewCount": "1701",
+        "likeCount": "72",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "tv-9jVu11_3BGBAY74T1FAlPGeM",
+      "etag": "tN5kfmPNq44npitpuuB-s33VdEE",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -2448,7 +2661,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "584",
+        "viewCount": "595",
         "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2456,7 +2669,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zEqb7sh8XP1nXMis4xmtt2TKHRg",
+      "etag": "gjz2laXyxm8A6loAblGWsxUmEOA",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -2519,15 +2732,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5400",
-        "likeCount": "182",
+        "viewCount": "5427",
+        "likeCount": "184",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "UloXXRSXcMPBzKyVLOed4DcTNYQ",
+      "etag": "mFP60nX-2W6Utn2AtVQRWXRL6Mo",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -2589,7 +2802,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "357",
+        "viewCount": "359",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2597,7 +2810,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bKZrs7cMTiwojcq6Hk1KsN2cYHU",
+      "etag": "IZKwT84LltD-0_Jg5NB49ORm7aM",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -2650,7 +2863,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1172",
+        "viewCount": "1176",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2658,7 +2871,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fEtkG_Cb_uoHB8ONVinr8GVGf6k",
+      "etag": "t1PPnRTm94z24NR9IIXTxf9UL_o",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -2703,7 +2916,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "470",
+        "viewCount": "473",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2711,7 +2924,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7rsOd3p1w8RWGrGJ8z0_NYbHa4I",
+      "etag": "Z-qM-Qctx977KKLDEbKgs-QgnJM",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -2775,7 +2988,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2341",
+        "viewCount": "2381",
         "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2783,7 +2996,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lGnS3TvKoDjy_60lr0fGC01rQl0",
+      "etag": "sswomRUma93vWJbT0LeLwtEmR-w",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -2846,15 +3059,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2906",
-        "likeCount": "102",
+        "viewCount": "2930",
+        "likeCount": "103",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TL9c1o8vnTY_7JVC7sNRza1RZMc",
+      "etag": "ZFuR2TenRZr13BkNMWvyJ2tgkGU",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -2916,15 +3129,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "363",
-        "likeCount": "13",
+        "viewCount": "370",
+        "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xtR1babTsPp5a6C39G3E4FNSYvA",
+      "etag": "3Tn02stWSt0PolCdo9-OM482sU4",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -2987,7 +3200,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3260",
+        "viewCount": "3261",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -3048,7 +3261,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2y-Q1wsFt4vLDSDtLK6PDybMAhk",
+      "etag": "-yfm6IKACacvSXOKWcG-1TPIY2A",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -3112,7 +3325,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "593",
+        "viewCount": "594",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -3263,7 +3476,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IZNR1m0DPyuvXTw_qoNlnglbm5Y",
+      "etag": "PShB9mtuVq8ouwODj48RprcAjm8",
       "id": "4xdfHO-DHlo",
       "snippet": {
         "publishedAt": "2026-01-30T20:46:17Z",
@@ -3307,188 +3520,10 @@
         }
       },
       "statistics": {
-        "viewCount": "924",
+        "viewCount": "929",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SZ21FIQFADvy5eAQnnRRwQCMOM4",
-      "id": "vGcmAxr-eFM",
-      "snippet": {
-        "publishedAt": "2026-01-29T23:52:37Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-        "description": "The Kenwood TM-D750A is officially real! The FCC filing has been approved and the user guide has been posted online, revealing key specifications for this highly anticipated tri-band mobile radio. Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we break down everything we learned from the FCC documents.\n\nIn this episode, we discuss our price predictions (will it be $999, $1299, or even $1500?), the 7-inch display, 220 MHz power output (20 watts!), Wi-Fi and Bluetooth 5.0 capabilities, GPS, D-STAR features, and why the microphone port placement has us scratching our heads.\nPlus, we talk tri-band antenna options and whether Rory will actually buy one at Hamcation!\n\nTimestamps:\n0:00 - It's not vaporware! FCC filing confirmed\n0:49 - Price predictions: What will it cost?\n2:03 - Hamcation availability discussion\n2:55 - FCC photos breakdown: Ports and connections\n4:01 - Heat sink and fan noise concerns\n5:26 - MicroSD and USB-C on the head unit\n6:20 - Build quality impressions from Hamvention prototype\n7:13 - Speaker and audio quality expectations\n7:53 - Feature summary: APRS, D-STAR, Wi-Fi\n9:27 - Bluetooth 5.0 and wireless standards\n10:20 - The big question: 220 MHz power output\n12:10 - Tri-band antenna recommendations\n13:35 - The mic port placement problem\n15:38 - Physical buttons vs touchscreen debate\n16:15 - Display visibility in sunlight\n17:14 - Diamond CR320B tri-band antenna option\n18:52 - Final thoughts: Will Rory buy one?\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\n\ud83d\udd17 https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com\n\n#Kenwood #TMD750A #TriBandRadio #HamRadio #AmateurRadio #EverydayHam #DSTAR #APRS #MobileRadio #Hamcation #FCCFiling #KenwoodRadio #220MHz #VHF #UHF",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vGcmAxr-eFM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Kenwood TM-D750A",
-          "TM-D750A",
-          "tri-band mobile radio",
-          "ham radio",
-          "amateur radio",
-          "D-STAR",
-          "APRS",
-          "Kenwood",
-          "220 MHz",
-          "VHF UHF",
-          "mobile ham radio",
-          "FCC filing",
-          "Hamcation 2026",
-          "Everyday Ham",
-          "ham radio podcast",
-          "Kenwood D75",
-          "tri-band antenna"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-          "description": "The Kenwood TM-D750A is officially real! The FCC filing has been approved and the user guide has been posted online, revealing key specifications for this highly anticipated tri-band mobile radio. Join James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we break down everything we learned from the FCC documents.\n\nIn this episode, we discuss our price predictions (will it be $999, $1299, or even $1500?), the 7-inch display, 220 MHz power output (20 watts!), Wi-Fi and Bluetooth 5.0 capabilities, GPS, D-STAR features, and why the microphone port placement has us scratching our heads.\nPlus, we talk tri-band antenna options and whether Rory will actually buy one at Hamcation!\n\nTimestamps:\n0:00 - It's not vaporware! FCC filing confirmed\n0:49 - Price predictions: What will it cost?\n2:03 - Hamcation availability discussion\n2:55 - FCC photos breakdown: Ports and connections\n4:01 - Heat sink and fan noise concerns\n5:26 - MicroSD and USB-C on the head unit\n6:20 - Build quality impressions from Hamvention prototype\n7:13 - Speaker and audio quality expectations\n7:53 - Feature summary: APRS, D-STAR, Wi-Fi\n9:27 - Bluetooth 5.0 and wireless standards\n10:20 - The big question: 220 MHz power output\n12:10 - Tri-band antenna recommendations\n13:35 - The mic port placement problem\n15:38 - Physical buttons vs touchscreen debate\n16:15 - Display visibility in sunlight\n17:14 - Diamond CR320B tri-band antenna option\n18:52 - Final thoughts: Will Rory buy one?\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast:\nAvailable on Apple Podcasts, Spotify, Overcast, and more!\n\n\ud83d\udd17 https://www.everydayham.com\n\n\ud83d\udcf1 Follow Everyday Ham:\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com\n\n#Kenwood #TMD750A #TriBandRadio #HamRadio #AmateurRadio #EverydayHam #DSTAR #APRS #MobileRadio #Hamcation #FCCFiling #KenwoodRadio #220MHz #VHF #UHF"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "4142",
-        "likeCount": "126",
-        "favoriteCount": "0",
-        "commentCount": "63"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ThLj4AYHAtQLzkg0bfAzd58iUyc",
-      "id": "AXDTXJFOSb0",
-      "snippet": {
-        "publishedAt": "2026-01-24T18:52:44Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-        "description": "W8EDH is running Winter Field Day 2026 at US-3315 Island Lake Recreation, take a walk around with N8JRD and K8JKU.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AXDTXJFOSb0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AXDTXJFOSb0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AXDTXJFOSb0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/AXDTXJFOSb0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AXDTXJFOSb0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-          "description": "W8EDH is running Winter Field Day 2026 at US-3315 Island Lake Recreation, take a walk around with N8JRD and K8JKU."
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "284",
-        "likeCount": "18",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "k3qzf9ayaf0lPSrtU3qPnh6-fOM",
-      "id": "surYSffn1tE",
-      "snippet": {
-        "publishedAt": "2026-01-18T16:25:06Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/surYSffn1tE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/surYSffn1tE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/surYSffn1tE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/surYSffn1tE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/surYSffn1tE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1521",
-        "likeCount": "20",
-        "favoriteCount": "0",
-        "commentCount": "1"
       }
     }
   ]

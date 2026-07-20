@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-19 12:01 UTC*
+*Last updated: 2026-07-20 13:08 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uvavzj/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v1kv88/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Got tired of juggling five apps in my Mac shack, so I spent a year building one ...](https://www.reddit.com/r/amateurradio/comments/1v0jhqc/got_tired_of_juggling_five_apps_in_my_mac_shack/)**
-by u/HB9HJI
+**3. [Irradiate Yourself](https://www.reddit.com/r/amateurradio/comments/1v0xlge/irradiate_yourself/)**
+by u/futureman2004
 
-**4. [It's 2026 and I get to build a Heathkit.](https://www.reddit.com/r/amateurradio/comments/1v05kql/its_2026_and_i_get_to_build_a_heathkit/)**
-by u/inquirewue
+**4. [Best way to remove this?](https://www.reddit.com/r/amateurradio/comments/1v16yy4/best_way_to_remove_this/)**
+by u/Some_random_guy381
 
-**5. [Local radio signal from 2000 km away](https://www.reddit.com/r/amateurradio/comments/1v0kttr/local_radio_signal_from_2000_km_away/)**
-by u/Levanter-Wind
+**5. [Oregon Public Broadcasting: Youth needed to ensure future PNW ham radio emergenc...](https://www.reddit.com/r/amateurradio/comments/1v1b9hj/oregon_public_broadcasting_youth_needed_to_ensure/)**
+by u/NotThePopeProbably
 
-**6. [What am I experiencing on 40 meters?](https://www.reddit.com/r/amateurradio/comments/1v0fre4/what_am_i_experiencing_on_40_meters/)**
-by u/Beneficial_Crow_5162
+**6. [Let my G90 run without an antenna, how f'ed am I?](https://www.reddit.com/r/amateurradio/comments/1v1ekrf/let_my_g90_run_without_an_antenna_how_fed_am_i/)**
+by u/fidepus
 
-**7. [RTTY contest this weekend](https://www.reddit.com/r/amateurradio/comments/1v09l4n/rtty_contest_this_weekend/)**
-by u/greenwoody2018
+**7. [First setup after getting license.](https://www.reddit.com/r/amateurradio/comments/1v0vbjq/first_setup_after_getting_license/)**
+by u/SearchPlane561
 
-**8. [Passes my general exam](https://www.reddit.com/r/amateurradio/comments/1uzuuxh/passes_my_general_exam/)**
-by u/peanut_918
+**8. [Is there anybody here living in Germany who could help me with a few details for...](https://www.reddit.com/r/amateurradio/comments/1v1ilu4/is_there_anybody_here_living_in_germany_who_could/)**
+by u/Ezechiell
 
-**9. [Is FT-857 still a viable option?](https://www.reddit.com/r/amateurradio/comments/1v0fk4c/is_ft857_still_a_viable_option/)**
-by u/Ok_Rich2268
+**9. [Unexpected FM DX in Banff National Park on Friday. Nebraska Public Media, MyBrid...](https://www.reddit.com/r/amateurradio/comments/1v16qe6/unexpected_fm_dx_in_banff_national_park_on_friday/)**
+by u/Cute-Low4996
 
-**10. [Question about 10-10.5GHz no pulsed emissions](https://www.reddit.com/r/amateurradio/comments/1v08029/question_about_10105ghz_no_pulsed_emissions/)**
-by u/ellie_cinderelly
+**10. [Should I get the mid or high band QMX](https://www.reddit.com/r/amateurradio/comments/1v1h9lp/should_i_get_the_mid_or_high_band_qmx/)**
+by u/highspeed_steel
 
-**11. [Radio Hobbyist's Designbook by K6LHA](https://www.reddit.com/r/amateurradio/comments/1uzy1hb/radio_hobbyists_designbook_by_k6lha/)**
-by u/Parker51MKII
+**11. [found these at a free yard sale. what is it? (if this is the wrong sub pls tell ...](https://www.reddit.com/r/amateurradio/comments/1v17p0w/found_these_at_a_free_yard_sale_what_is_it_if/)**
+by u/Solnight99
 
-**12. [Any Hints on Tuning Hamsticks?](https://www.reddit.com/r/amateurradio/comments/1v0fwpd/any_hints_on_tuning_hamsticks/)**
-by u/GVDub2
+**12. [How would I go about grounding this?](https://www.reddit.com/r/amateurradio/comments/1v186xx/how_would_i_go_about_grounding_this/)**
+by u/ExampleAfter1224
 
-**13. [New listener, quick question](https://www.reddit.com/r/amateurradio/comments/1v0fu6j/new_listener_quick_question/)**
-by u/DerBananenHammer
+**13. [Any 220 activity?](https://www.reddit.com/r/amateurradio/comments/1v19p69/any_220_activity/)**
+by u/dantodd
 
-**14. [SpaceX Starbase Frequencies](https://www.reddit.com/r/amateurradio/comments/1v04ykw/spacex_starbase_frequencies/)**
-by u/MentalEggplant9275
+**14. [Need Help to Do a Foxhole Radio](https://www.reddit.com/r/amateurradio/comments/1v1dpiu/need_help_to_do_a_foxhole_radio/)**
+by u/Linkeli
 
-**15. [How do you keep a small shack alive during multi hour grid flickers?](https://www.reddit.com/r/amateurradio/comments/1v01un8/how_do_you_keep_a_small_shack_alive_during_multi/)**
-by u/Mobile_Distance_9598
+**15. [Question: log and share SWL how?](https://www.reddit.com/r/amateurradio/comments/1v1h93i/question_log_and_share_swl_how/)**
+by u/tdi
 
 ---
 
@@ -59,16 +59,16 @@ by u/Mobile_Distance_9598
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1uvavzj/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v1kv88/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Got tired of juggling five apps in my Mac shack, so I spent a year bui...](https://www.reddit.com/r/amateurradio/comments/1v0jhqc/got_tired_of_juggling_five_apps_in_my_mac_shack/)** (r/amateurradio)
-- **[It's 2026 and I get to build a Heathkit.](https://www.reddit.com/r/amateurradio/comments/1v05kql/its_2026_and_i_get_to_build_a_heathkit/)** (r/amateurradio)
-- **[Local radio signal from 2000 km away](https://www.reddit.com/r/amateurradio/comments/1v0kttr/local_radio_signal_from_2000_km_away/)** (r/amateurradio)
-- **[What am I experiencing on 40 meters?](https://www.reddit.com/r/amateurradio/comments/1v0fre4/what_am_i_experiencing_on_40_meters/)** (r/amateurradio)
-- **[RTTY contest this weekend](https://www.reddit.com/r/amateurradio/comments/1v09l4n/rtty_contest_this_weekend/)** (r/amateurradio)
-- **[Passes my general exam](https://www.reddit.com/r/amateurradio/comments/1uzuuxh/passes_my_general_exam/)** (r/amateurradio)
-- **[Is FT-857 still a viable option?](https://www.reddit.com/r/amateurradio/comments/1v0fk4c/is_ft857_still_a_viable_option/)** (r/amateurradio)
-- **[Question about 10-10.5GHz no pulsed emissions](https://www.reddit.com/r/amateurradio/comments/1v08029/question_about_10105ghz_no_pulsed_emissions/)** (r/amateurradio)
+- **[Irradiate Yourself](https://www.reddit.com/r/amateurradio/comments/1v0xlge/irradiate_yourself/)** (r/amateurradio)
+- **[Best way to remove this?](https://www.reddit.com/r/amateurradio/comments/1v16yy4/best_way_to_remove_this/)** (r/amateurradio)
+- **[Oregon Public Broadcasting: Youth needed to ensure future PNW ham radi...](https://www.reddit.com/r/amateurradio/comments/1v1b9hj/oregon_public_broadcasting_youth_needed_to_ensure/)** (r/amateurradio)
+- **[Let my G90 run without an antenna, how f'ed am I?](https://www.reddit.com/r/amateurradio/comments/1v1ekrf/let_my_g90_run_without_an_antenna_how_fed_am_i/)** (r/amateurradio)
+- **[First setup after getting license.](https://www.reddit.com/r/amateurradio/comments/1v0vbjq/first_setup_after_getting_license/)** (r/amateurradio)
+- **[Is there anybody here living in Germany who could help me with a few d...](https://www.reddit.com/r/amateurradio/comments/1v1ilu4/is_there_anybody_here_living_in_germany_who_could/)** (r/amateurradio)
+- **[Unexpected FM DX in Banff National Park on Friday. Nebraska Public Med...](https://www.reddit.com/r/amateurradio/comments/1v16qe6/unexpected_fm_dx_in_banff_national_park_on_friday/)** (r/amateurradio)
+- **[Should I get the mid or high band QMX](https://www.reddit.com/r/amateurradio/comments/1v1h9lp/should_i_get_the_mid_or_high_band_qmx/)** (r/amateurradio)
 
 ---
 

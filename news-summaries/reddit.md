@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-20 13:08 UTC*
+*Last updated: 2026-07-21 12:24 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Irradiate Yourself](https://www.reddit.com/r/amateurradio/comments/1v0xlge/irradiate_yourself/)**
-by u/futureman2004
-
-**4. [Best way to remove this?](https://www.reddit.com/r/amateurradio/comments/1v16yy4/best_way_to_remove_this/)**
+**3. [Follow up to the antenna tower from yesterday.....](https://www.reddit.com/r/amateurradio/comments/1v22m8e/follow_up_to_the_antenna_tower_from_yesterday/)**
 by u/Some_random_guy381
 
-**5. [Oregon Public Broadcasting: Youth needed to ensure future PNW ham radio emergenc...](https://www.reddit.com/r/amateurradio/comments/1v1b9hj/oregon_public_broadcasting_youth_needed_to_ensure/)**
-by u/NotThePopeProbably
+**4. [Just about mobile](https://www.reddit.com/r/amateurradio/comments/1v29eqz/just_about_mobile/)**
+by u/wire_crafter
 
-**6. [Let my G90 run without an antenna, how f'ed am I?](https://www.reddit.com/r/amateurradio/comments/1v1ekrf/let_my_g90_run_without_an_antenna_how_fed_am_i/)**
-by u/fidepus
+**5. [Ham Radios at Disneyland](https://www.reddit.com/r/amateurradio/comments/1v1u7e5/ham_radios_at_disneyland/)**
+by u/pyrofox79
 
-**7. [First setup after getting license.](https://www.reddit.com/r/amateurradio/comments/1v0vbjq/first_setup_after_getting_license/)**
-by u/SearchPlane561
+**6. [Strange! A.I. Ham radio. Artificial intelligence making contacts.](https://www.reddit.com/r/amateurradio/comments/1v1wb1d/strange_ai_ham_radio_artificial_intelligence/)**
+by u/InvisibleWatcherExo
 
-**8. [Is there anybody here living in Germany who could help me with a few details for...](https://www.reddit.com/r/amateurradio/comments/1v1ilu4/is_there_anybody_here_living_in_germany_who_could/)**
-by u/Ezechiell
+**7. [Turning zip line into antenna](https://www.reddit.com/r/amateurradio/comments/1v1ws4z/turning_zip_line_into_antenna/)**
+by u/LoganC4
 
-**9. [Unexpected FM DX in Banff National Park on Friday. Nebraska Public Media, MyBrid...](https://www.reddit.com/r/amateurradio/comments/1v16qe6/unexpected_fm_dx_in_banff_national_park_on_friday/)**
-by u/Cute-Low4996
+**8. [Cobbled together multi-bander with SS Whips](https://www.reddit.com/r/amateurradio/comments/1v24a74/cobbled_together_multibander_with_ss_whips/)**
+by u/numberman2000
 
-**10. [Should I get the mid or high band QMX](https://www.reddit.com/r/amateurradio/comments/1v1h9lp/should_i_get_the_mid_or_high_band_qmx/)**
-by u/highspeed_steel
+**9. [Looking for a Bay Area POTA activator to host my 88-year-old dad (surprise gift!...](https://www.reddit.com/r/amateurradio/comments/1v27wdr/looking_for_a_bay_area_pota_activator_to_host_my/)**
+by u/Thin_Asparagus_4166
 
-**11. [found these at a free yard sale. what is it? (if this is the wrong sub pls tell ...](https://www.reddit.com/r/amateurradio/comments/1v17p0w/found_these_at_a_free_yard_sale_what_is_it_if/)**
-by u/Solnight99
+**10. [Logging 2m/70cm contacts?](https://www.reddit.com/r/amateurradio/comments/1v21fhi/logging_2m70cm_contacts/)**
+by u/AutofluorescentPuku
 
-**12. [How would I go about grounding this?](https://www.reddit.com/r/amateurradio/comments/1v186xx/how_would_i_go_about_grounding_this/)**
-by u/ExampleAfter1224
+**11. [I know it’s not, but wouldn’t it be Grand?](https://www.reddit.com/r/amateurradio/comments/1v2aae4/i_know_its_not_but_wouldnt_it_be_grand/)**
+by u/gallonsofhairspray
 
-**13. [Any 220 activity?](https://www.reddit.com/r/amateurradio/comments/1v19p69/any_220_activity/)**
-by u/dantodd
+**12. [What are these?!](https://www.reddit.com/r/amateurradio/comments/1v23hvd/what_are_these/)**
+by u/Determined_Mills
 
-**14. [Need Help to Do a Foxhole Radio](https://www.reddit.com/r/amateurradio/comments/1v1dpiu/need_help_to_do_a_foxhole_radio/)**
-by u/Linkeli
+**13. [Not sure what to do about grounding and kind of lost in an info overload.](https://www.reddit.com/r/amateurradio/comments/1v24y5y/not_sure_what_to_do_about_grounding_and_kind_of/)**
+by u/DTDude
 
-**15. [Question: log and share SWL how?](https://www.reddit.com/r/amateurradio/comments/1v1h93i/question_log_and_share_swl_how/)**
-by u/tdi
+**14. [6 Meters](https://www.reddit.com/r/amateurradio/comments/1v1x26x/6_meters/)**
+by u/CitronTraining2114
+
+**15. [Contest Setup Evolution : 2000m Grenoble, France](https://www.reddit.com/r/amateurradio/comments/1v1uz0x/contest_setup_evolution_2000m_grenoble_france/)**
+by u/Landot_Omunn
 
 ---
 
@@ -61,14 +61,14 @@ by u/tdi
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v1kv88/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Irradiate Yourself](https://www.reddit.com/r/amateurradio/comments/1v0xlge/irradiate_yourself/)** (r/amateurradio)
-- **[Best way to remove this?](https://www.reddit.com/r/amateurradio/comments/1v16yy4/best_way_to_remove_this/)** (r/amateurradio)
-- **[Oregon Public Broadcasting: Youth needed to ensure future PNW ham radi...](https://www.reddit.com/r/amateurradio/comments/1v1b9hj/oregon_public_broadcasting_youth_needed_to_ensure/)** (r/amateurradio)
-- **[Let my G90 run without an antenna, how f'ed am I?](https://www.reddit.com/r/amateurradio/comments/1v1ekrf/let_my_g90_run_without_an_antenna_how_fed_am_i/)** (r/amateurradio)
-- **[First setup after getting license.](https://www.reddit.com/r/amateurradio/comments/1v0vbjq/first_setup_after_getting_license/)** (r/amateurradio)
-- **[Is there anybody here living in Germany who could help me with a few d...](https://www.reddit.com/r/amateurradio/comments/1v1ilu4/is_there_anybody_here_living_in_germany_who_could/)** (r/amateurradio)
-- **[Unexpected FM DX in Banff National Park on Friday. Nebraska Public Med...](https://www.reddit.com/r/amateurradio/comments/1v16qe6/unexpected_fm_dx_in_banff_national_park_on_friday/)** (r/amateurradio)
-- **[Should I get the mid or high band QMX](https://www.reddit.com/r/amateurradio/comments/1v1h9lp/should_i_get_the_mid_or_high_band_qmx/)** (r/amateurradio)
+- **[Follow up to the antenna tower from yesterday.....](https://www.reddit.com/r/amateurradio/comments/1v22m8e/follow_up_to_the_antenna_tower_from_yesterday/)** (r/amateurradio)
+- **[Just about mobile](https://www.reddit.com/r/amateurradio/comments/1v29eqz/just_about_mobile/)** (r/amateurradio)
+- **[Ham Radios at Disneyland](https://www.reddit.com/r/amateurradio/comments/1v1u7e5/ham_radios_at_disneyland/)** (r/amateurradio)
+- **[Strange! A.I. Ham radio. Artificial intelligence making contacts.](https://www.reddit.com/r/amateurradio/comments/1v1wb1d/strange_ai_ham_radio_artificial_intelligence/)** (r/amateurradio)
+- **[Turning zip line into antenna](https://www.reddit.com/r/amateurradio/comments/1v1ws4z/turning_zip_line_into_antenna/)** (r/amateurradio)
+- **[Cobbled together multi-bander with SS Whips](https://www.reddit.com/r/amateurradio/comments/1v24a74/cobbled_together_multibander_with_ss_whips/)** (r/amateurradio)
+- **[Looking for a Bay Area POTA activator to host my 88-year-old dad (surp...](https://www.reddit.com/r/amateurradio/comments/1v27wdr/looking_for_a_bay_area_pota_activator_to_host_my/)** (r/amateurradio)
+- **[Logging 2m/70cm contacts?](https://www.reddit.com/r/amateurradio/comments/1v21fhi/logging_2m70cm_contacts/)** (r/amateurradio)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:08:49.555584",
+  "updated": "2026-07-21T12:24:12.495966",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,6 +17,101 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Follow up to the antenna tower from yesterday.....",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v22m8e/follow_up_to_the_antenna_tower_from_yesterday/",
+        "author": "/u/Some_random_guy381"
+      },
+      {
+        "title": "Just about mobile",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v29eqz/just_about_mobile/",
+        "author": "/u/wire_crafter"
+      },
+      {
+        "title": "Ham Radios at Disneyland",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1u7e5/ham_radios_at_disneyland/",
+        "author": "/u/pyrofox79"
+      },
+      {
+        "title": "Strange! A.I. Ham radio. Artificial intelligence making contacts.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1wb1d/strange_ai_ham_radio_artificial_intelligence/",
+        "author": "/u/InvisibleWatcherExo"
+      },
+      {
+        "title": "Turning zip line into antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1ws4z/turning_zip_line_into_antenna/",
+        "author": "/u/LoganC4"
+      },
+      {
+        "title": "Cobbled together multi-bander with SS Whips",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v24a74/cobbled_together_multibander_with_ss_whips/",
+        "author": "/u/numberman2000"
+      },
+      {
+        "title": "Looking for a Bay Area POTA activator to host my 88-year-old dad (surprise gift!)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v27wdr/looking_for_a_bay_area_pota_activator_to_host_my/",
+        "author": "/u/Thin_Asparagus_4166"
+      },
+      {
+        "title": "Logging 2m/70cm contacts?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v21fhi/logging_2m70cm_contacts/",
+        "author": "/u/AutofluorescentPuku"
+      },
+      {
+        "title": "I know it\u2019s not, but wouldn\u2019t it be Grand?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v2aae4/i_know_its_not_but_wouldnt_it_be_grand/",
+        "author": "/u/gallonsofhairspray"
+      },
+      {
+        "title": "What are these?!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v23hvd/what_are_these/",
+        "author": "/u/Determined_Mills"
+      },
+      {
+        "title": "Not sure what to do about grounding and kind of lost in an info overload.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v24y5y/not_sure_what_to_do_about_grounding_and_kind_of/",
+        "author": "/u/DTDude"
+      },
+      {
+        "title": "6 Meters",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1x26x/6_meters/",
+        "author": "/u/CitronTraining2114"
+      },
+      {
+        "title": "Contest Setup Evolution : 2000m Grenoble, France",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1uz0x/contest_setup_evolution_2000m_grenoble_france/",
+        "author": "/u/Landot_Omunn"
+      },
+      {
+        "title": "RS41-NFW - custom firmware for Vaisala RS41 radiosondes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1zdma/rs41nfw_custom_firmware_for_vaisala_rs41/",
+        "author": "/u/Nevvman"
+      },
+      {
+        "title": "Sirio Gain Master auf dem 10 Meter Band",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v2ehya/sirio_gain_master_auf_dem_10_meter_band/",
+        "author": "/u/AlPacino_01"
+      },
+      {
+        "title": "Do you prefer male or female SMA on a hand-held radio?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v22o5a/do_you_prefer_male_or_female_sma_on_a_handheld/",
+        "author": "/u/VK2ZJ"
+      },
+      {
+        "title": "Looking for an Icelandic Ham (TF) to join high-altitude balloon mission for the Aug 12 Total Solar Eclipse! \ud83c\udf88\ud83d\udcfb\ud83c\uddee\ud83c\uddf8",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1qrkj/looking_for_an_icelandic_ham_tf_to_join/",
+        "author": "/u/Dependent_Duty4704"
+      },
+      {
+        "title": "POTA Antenna Setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v256nu/pota_antenna_setup/",
+        "author": "/u/TurbulentSquirrel804"
+      },
+      {
+        "title": "Arizona Digital UHF/VHF Recommendations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v28zlp/arizona_digital_uhfvhf_recommendations/",
+        "author": "/u/OrangeTuono"
+      },
+      {
         "title": "Irradiate Yourself",
         "link": "https://www.reddit.com/r/amateurradio/comments/1v0xlge/irradiate_yourself/",
         "author": "/u/futureman2004"
@@ -27,109 +122,14 @@
         "author": "/u/Some_random_guy381"
       },
       {
-        "title": "Oregon Public Broadcasting: Youth needed to ensure future PNW ham radio emergency coverage",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1b9hj/oregon_public_broadcasting_youth_needed_to_ensure/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
         "title": "Let my G90 run without an antenna, how f'ed am I?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1v1ekrf/let_my_g90_run_without_an_antenna_how_fed_am_i/",
         "author": "/u/fidepus"
       },
       {
-        "title": "First setup after getting license.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v0vbjq/first_setup_after_getting_license/",
-        "author": "/u/SearchPlane561"
-      },
-      {
-        "title": "Is there anybody here living in Germany who could help me with a few details for an art project?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1ilu4/is_there_anybody_here_living_in_germany_who_could/",
-        "author": "/u/Ezechiell"
-      },
-      {
-        "title": "Unexpected FM DX in Banff National Park on Friday. Nebraska Public Media, MyBridge Radio and Iowa Public Radio on a stock Toyota radio.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v16qe6/unexpected_fm_dx_in_banff_national_park_on_friday/",
-        "author": "/u/Cute-Low4996"
-      },
-      {
-        "title": "Should I get the mid or high band QMX",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1h9lp/should_i_get_the_mid_or_high_band_qmx/",
-        "author": "/u/highspeed_steel"
-      },
-      {
-        "title": "found these at a free yard sale. what is it? (if this is the wrong sub pls tell me what the right one is)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v17p0w/found_these_at_a_free_yard_sale_what_is_it_if/",
-        "author": "/u/Solnight99"
-      },
-      {
-        "title": "How would I go about grounding this?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v186xx/how_would_i_go_about_grounding_this/",
-        "author": "/u/ExampleAfter1224"
-      },
-      {
-        "title": "Any 220 activity?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v19p69/any_220_activity/",
-        "author": "/u/dantodd"
-      },
-      {
-        "title": "Need Help to Do a Foxhole Radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1dpiu/need_help_to_do_a_foxhole_radio/",
-        "author": "/u/Linkeli"
-      },
-      {
-        "title": "Question: log and share SWL how?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1h93i/question_log_and_share_swl_how/",
-        "author": "/u/tdi"
-      },
-      {
-        "title": "Amateur radio on Formentera, any hams here?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1ccki/amateur_radio_on_formentera_any_hams_here/",
-        "author": "/u/LargeHardonCollider_"
-      },
-      {
-        "title": "Antenna mount for house renters",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v19i5p/antenna_mount_for_house_renters/",
-        "author": "/u/pickles_lowkey_suck"
-      },
-      {
-        "title": "Ham Radio inside a geocache!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v0tswg/ham_radio_inside_a_geocache/",
-        "author": "/u/themann00"
-      },
-      {
-        "title": "Speaking of hamlib rigctld, some zsh scripts",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1ayg3/speaking_of_hamlib_rigctld_some_zsh_scripts/",
-        "author": "/u/These-Math1384"
-      },
-      {
-        "title": "Is anyone still using POTACAT?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v14fww/is_anyone_still_using_potacat/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Is real time amateur TV a thing in the Philly area?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v15htp/is_real_time_amateur_tv_a_thing_in_the_philly_area/",
-        "author": "/u/Greg6800"
-      },
-      {
-        "title": "FT-710 USB serial ports are missing",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v14xha/ft710_usb_serial_ports_are_missing/",
-        "author": "/u/thesoulless78"
-      },
-      {
-        "title": "Unexpected FM DX in Banff National Park on Friday. Nebraska Public Media, MyBridge Radio and Iowa Public Radio on a stock Toyota radio.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v16nt2/unexpected_fm_dx_in_banff_national_park_on_friday/",
-        "author": "/u/Cute-Low4996"
-      },
-      {
-        "title": "mtr3000 repeater firmware",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v161pe/mtr3000_repeater_firmware/",
-        "author": "/u/Rashnet"
-      },
-      {
-        "title": "Testing a cable",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1a95o/testing_a_cable/",
-        "author": "/u/Someone_Username"
+        "title": "Icom 5200 manuals, software and firmware on Icom Japan",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v1ul6p/icom_5200_manuals_software_and_firmware_on_icom/",
+        "author": "/u/jsisbell"
       }
     ]
   }

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-23 12:24 UTC*
+*Last updated: 2026-07-24 12:21 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Got that sweet /AE today!](https://www.reddit.com/r/amateurradio/comments/1v3vxky/got_that_sweet_ae_today/)**
+**3. [I saw this FT-847 on QRZ and the guy said it was sold. Two weeks later, I found ...](https://www.reddit.com/r/amateurradio/comments/1v4uqcy/i_saw_this_ft847_on_qrz_and_the_guy_said_it_was/)**
+by u/inquirewue
+
+**4. [Trouble Shooting MX-P50M HF Amp](https://www.reddit.com/r/amateurradio/comments/1v4z4xq/trouble_shooting_mxp50m_hf_amp/)**
+by u/Achris_B
+
+**5. [Icom 5200 has received FCC approval](https://www.reddit.com/r/amateurradio/comments/1v4otqe/icom_5200_has_received_fcc_approval/)**
+by u/jsisbell
+
+**6. [58ft end feed Random Wire antenna without tuning](https://www.reddit.com/r/amateurradio/comments/1v59s6j/58ft_end_feed_random_wire_antenna_without_tuning/)**
+by u/AlanCui4080
+
+**7. [Tips for actually getting 12awg wire into a 30a PowerPole contact?](https://www.reddit.com/r/amateurradio/comments/1v58rgl/tips_for_actually_getting_12awg_wire_into_a_30a/)**
+by u/thesoulless78
+
+**8. [Looking for a used NetAlly NXT-2000 (Spectrum Analyzer)](https://www.reddit.com/r/amateurradio/comments/1v58oth/looking_for_a_used_netally_nxt2000_spectrum/)**
+by u/MandP-Inthewild
+
+**9. [We are trying to tune in from adypu college in pune Lohegaon](https://www.reddit.com/r/amateurradio/comments/1v55zog/we_are_trying_to_tune_in_from_adypu_college_in/)**
+by u/Magicalhentoiurs
+
+**10. [How do you interpret vague POTA boundaries?](https://www.reddit.com/r/amateurradio/comments/1v4gtru/how_do_you_interpret_vague_pota_boundaries/)**
+by u/xergm
+
+**11. [Anyone else getting spam from QSL World/QTH Page?](https://www.reddit.com/r/amateurradio/comments/1v4t220/anyone_else_getting_spam_from_qsl_worldqth_page/)**
+by u/amsams
+
+**12. [Got that sweet /AE today!](https://www.reddit.com/r/amateurradio/comments/1v3vxky/got_that_sweet_ae_today/)**
 by u/keeplosingmyusername
 
-**4. [Two wheels, five watts, endless range. My bike-portable QRP setup!](https://www.reddit.com/r/amateurradio/comments/1v3ou6d/two_wheels_five_watts_endless_range_my/)**
+**13. [60s/70s Amateur Radio](https://www.reddit.com/r/amateurradio/comments/1v4nfkz/60s70s_amateur_radio/)**
+by u/Rudeboy_Info2883
+
+**14. [Two wheels, five watts, endless range. My bike-portable QRP setup!](https://www.reddit.com/r/amateurradio/comments/1v3ou6d/two_wheels_five_watts_endless_range_my/)**
 by u/_sadme_
 
-**5. [is this a good $80 amazon tuner for a yaedu 891?](https://www.reddit.com/r/amateurradio/comments/1v40c6b/is_this_a_good_80_amazon_tuner_for_a_yaedu_891/)**
-by u/zippoknives26
-
-**6. [EFHW “W” SWR Curve](https://www.reddit.com/r/amateurradio/comments/1v42ltd/efhw_w_swr_curve/)**
-by u/Separate_Strike_9633
-
-**7. [RCI 2970 DX Middle Keypad Buttons Not Workimg](https://www.reddit.com/r/amateurradio/comments/1v4agao/rci_2970_dx_middle_keypad_buttons_not_workimg/)**
-by u/FunnySwimming5343
-
-**8. [WSPR Beacon using signal generator and DIY 5W amp](https://www.reddit.com/r/amateurradio/comments/1v45wlh/wspr_beacon_using_signal_generator_and_diy_5w_amp/)**
-by u/External-Quarter2147
-
-**9. [Blursed CW weeknd bootcamp](https://www.reddit.com/r/amateurradio/comments/1v32cpl/blursed_cw_weeknd_bootcamp/)**
-by u/blue-moto
-
-**10. [Tones and Shifts on Simplex Freqs](https://www.reddit.com/r/amateurradio/comments/1v4bn04/tones_and_shifts_on_simplex_freqs/)**
-by u/Scary-Reads67
-
-**11. [Question about wierd signal recieved](https://www.reddit.com/r/amateurradio/comments/1v4axar/question_about_wierd_signal_recieved/)**
-by u/Jeff_Cheese_Man
-
-**12. [Ubuntu Maniax on Facebook](https://www.reddit.com/r/amateurradio/comments/1v3npl4/ubuntu_maniax_on_facebook/)**
-by u/EfficiencyThis325
-
-**13. [Morse Pro - FCC Exams](https://www.reddit.com/r/amateurradio/comments/1v4603k/morse_pro_fcc_exams/)**
-by u/vladIakimov
-
-**14. [Are Batteries America brand Yaesu batteries good?](https://www.reddit.com/r/amateurradio/comments/1v3vhsm/are_batteries_america_brand_yaesu_batteries_good/)**
-by u/get-off-my-frequency
-
-**15. [Can you recommend me a stubby/flat antenna for Motorola XPR5550e?](https://www.reddit.com/r/amateurradio/comments/1v3x8nt/can_you_recommend_me_a_stubbyflat_antenna_for/)**
-by u/echocall2
+**15. [Impedance matching via cable and t-connector](https://www.reddit.com/r/amateurradio/comments/1v4xqox/impedance_matching_via_cable_and_tconnector/)**
+by u/KF0WOF
 
 ---
 
@@ -61,14 +61,14 @@ by u/echocall2
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v1kv88/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Got that sweet /AE today!](https://www.reddit.com/r/amateurradio/comments/1v3vxky/got_that_sweet_ae_today/)** (r/amateurradio)
-- **[Two wheels, five watts, endless range. My bike-portable QRP setup!](https://www.reddit.com/r/amateurradio/comments/1v3ou6d/two_wheels_five_watts_endless_range_my/)** (r/amateurradio)
-- **[is this a good $80 amazon tuner for a yaedu 891?](https://www.reddit.com/r/amateurradio/comments/1v40c6b/is_this_a_good_80_amazon_tuner_for_a_yaedu_891/)** (r/amateurradio)
-- **[EFHW “W” SWR Curve](https://www.reddit.com/r/amateurradio/comments/1v42ltd/efhw_w_swr_curve/)** (r/amateurradio)
-- **[RCI 2970 DX Middle Keypad Buttons Not Workimg](https://www.reddit.com/r/amateurradio/comments/1v4agao/rci_2970_dx_middle_keypad_buttons_not_workimg/)** (r/amateurradio)
-- **[WSPR Beacon using signal generator and DIY 5W amp](https://www.reddit.com/r/amateurradio/comments/1v45wlh/wspr_beacon_using_signal_generator_and_diy_5w_amp/)** (r/amateurradio)
-- **[Blursed CW weeknd bootcamp](https://www.reddit.com/r/amateurradio/comments/1v32cpl/blursed_cw_weeknd_bootcamp/)** (r/amateurradio)
-- **[Tones and Shifts on Simplex Freqs](https://www.reddit.com/r/amateurradio/comments/1v4bn04/tones_and_shifts_on_simplex_freqs/)** (r/amateurradio)
+- **[I saw this FT-847 on QRZ and the guy said it was sold. Two weeks later...](https://www.reddit.com/r/amateurradio/comments/1v4uqcy/i_saw_this_ft847_on_qrz_and_the_guy_said_it_was/)** (r/amateurradio)
+- **[Trouble Shooting MX-P50M HF Amp](https://www.reddit.com/r/amateurradio/comments/1v4z4xq/trouble_shooting_mxp50m_hf_amp/)** (r/amateurradio)
+- **[Icom 5200 has received FCC approval](https://www.reddit.com/r/amateurradio/comments/1v4otqe/icom_5200_has_received_fcc_approval/)** (r/amateurradio)
+- **[58ft end feed Random Wire antenna without tuning](https://www.reddit.com/r/amateurradio/comments/1v59s6j/58ft_end_feed_random_wire_antenna_without_tuning/)** (r/amateurradio)
+- **[Tips for actually getting 12awg wire into a 30a PowerPole contact?](https://www.reddit.com/r/amateurradio/comments/1v58rgl/tips_for_actually_getting_12awg_wire_into_a_30a/)** (r/amateurradio)
+- **[Looking for a used NetAlly NXT-2000 (Spectrum Analyzer)](https://www.reddit.com/r/amateurradio/comments/1v58oth/looking_for_a_used_netally_nxt2000_spectrum/)** (r/amateurradio)
+- **[We are trying to tune in from adypu college in pune Lohegaon](https://www.reddit.com/r/amateurradio/comments/1v55zog/we_are_trying_to_tune_in_from_adypu_college_in/)** (r/amateurradio)
+- **[How do you interpret vague POTA boundaries?](https://www.reddit.com/r/amateurradio/comments/1v4gtru/how_do_you_interpret_vague_pota_boundaries/)** (r/amateurradio)
 
 ---
 

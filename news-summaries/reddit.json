@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T12:05:00.724206",
+  "updated": "2026-07-27T13:39:42.717886",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v1kv88/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,104 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "QSO half QTH half KiwiSDR? Cheating?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7ujv6/qso_half_qth_half_kiwisdr_cheating/",
+        "author": "/u/SpiritualTadpole4269"
+      },
+      {
+        "title": "My first solo POTA Activation!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v77f34/my_first_solo_pota_activation/",
+        "author": "/u/Keeper4560"
+      },
+      {
+        "title": "Update",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7hbie/update/",
+        "author": "/u/xdm21"
+      },
+      {
+        "title": "New Q code: QROca",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7omqd/new_q_code_qroca/",
+        "author": "/u/blue-moto"
+      },
+      {
+        "title": "10km LoRa link on stock antennas, unlicensed 915MHz ISM band \u2014 some real-world notes on ground-reflection loss vs. line-of-sight",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7rkki/10km_lora_link_on_stock_antennas_unlicensed/",
+        "author": "/u/benj_180"
+      },
+      {
+        "title": "CB or Amateur Radio in the Skoda Enyaq",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7zbjj/cb_or_amateur_radio_in_the_skoda_enyaq/",
+        "author": "/u/g8rxu"
+      },
+      {
+        "title": "MURS + GRMS Combo?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7upid/murs_grms_combo/",
+        "author": "/u/xYGx"
+      },
+      {
+        "title": "Repeater courtesy tone?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7fu6h/repeater_courtesy_tone/",
+        "author": "/u/Single-Mechanic3954"
+      },
+      {
+        "title": "Successful 8.8-meter (29-foot) end-fed wire operating on 27 MHz",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v753u1/successful_88meter_29foot_endfed_wire_operating/",
+        "author": "/u/Flat_Exercise4177"
+      },
+      {
+        "title": "I have a 220 Repeater located in Lake City, Florida. Try it out when passing through the area on I-75 and/or I10",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v78xtx/i_have_a_220_repeater_located_in_lake_city/",
+        "author": "/u/Mobile_Thanks6182"
+      },
+      {
+        "title": "Cylindrical Resonator",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7qy8z/cylindrical_resonator/",
+        "author": "/u/Automatic-Half3713"
+      },
+      {
+        "title": "Motorola programming software",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7qanu/motorola_programming_software/",
+        "author": "/u/Lz3YaRiEl"
+      },
+      {
+        "title": "LiFePO4 battery - low voltage but full?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7i0u8/lifepo4_battery_low_voltage_but_full/",
+        "author": "/u/Legnovore"
+      },
+      {
+        "title": "My first cristal radio - wird phenomenon",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7kcpg/my_first_cristal_radio_wird_phenomenon/",
+        "author": "/u/InformalCat7168"
+      },
+      {
+        "title": "Did a real world test today with my Retevis RT-95 mobile rig and a Kenwood TK-7180 LMR radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7cm49/did_a_real_world_test_today_with_my_retevis_rt95/",
+        "author": "/u/CaptainSpez"
+      },
+      {
         "title": "Family of KY student says deputy seized child\u2019s radios without warrant. They\u2019re suing",
         "link": "https://www.reddit.com/r/amateurradio/comments/1v6gq9g/family_of_ky_student_says_deputy_seized_childs/",
         "author": "/u/thejasonhowell"
+      },
+      {
+        "title": "Adapter help needed",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v74uic/adapter_help_needed/",
+        "author": "/u/Ok-Calendar-5728"
+      },
+      {
+        "title": "Balun Designs Review, model 49134e 49:1 EFHW",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7fvr6/balun_designs_review_model_49134e_491_efhw/",
+        "author": "/u/These-Math1384"
+      },
+      {
+        "title": "How can you figure out how much power someone is using to broadcast?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7cyy2/how_can_you_figure_out_how_much_power_someone_is/",
+        "author": "/u/magnificent_limit"
+      },
+      {
+        "title": "Echolink & Android Auto",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7b8pz/echolink_android_auto/",
+        "author": "/u/Sarcastic-Human"
       },
       {
         "title": "The sun giveth and the sun taketh away",
@@ -27,236 +122,14 @@
         "author": "/u/fidepus"
       },
       {
-        "title": "WTR Browser (UK Ofcom Database)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v70bxj/wtr_browser_uk_ofcom_database/",
-        "author": "/u/mehflick"
+        "title": "Building the K6JCA Directional Coupler",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7gw13/building_the_k6jca_directional_coupler/",
+        "author": "/u/These-Math1384"
       },
       {
-        "title": "Outdoor Weekend",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6av96/outdoor_weekend/",
-        "author": "/u/HB9HJI"
-      },
-      {
-        "title": "Another fantastic day on 6m, before the band faded at noon I got 81 QSOs from 78 grids, 8 countries, and 2 continents",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6e9k4/another_fantastic_day_on_6m_before_the_band_faded/",
-        "author": "/u/EmotioneelKlootzak"
-      },
-      {
-        "title": "WRTC log public analysis creates question of possible pirate station",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6q0rs/wrtc_log_public_analysis_creates_question_of/",
-        "author": "/u/FarFigNewton007"
-      },
-      {
-        "title": "Finally got my tech",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v68skq/finally_got_my_tech/",
-        "author": "/u/silverwerk"
-      },
-      {
-        "title": "[UK] GB3CV Repeater",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6yc08/uk_gb3cv_repeater/",
-        "author": "/u/davidinterest"
-      },
-      {
-        "title": "Do You Answer CQ Calls for Awards?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6n9cd/do_you_answer_cq_calls_for_awards/",
-        "author": "/u/ThatChucklehead"
-      },
-      {
-        "title": "New Technician, studying for General. Help me plan a rig for FT8 with limited antenna options please",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6jnq7/new_technician_studying_for_general_help_me_plan/",
-        "author": "/u/Gigem1987"
-      },
-      {
-        "title": "Language translator",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6z3on/language_translator/",
-        "author": "/u/BigV8Dave"
-      },
-      {
-        "title": "Issue with POTA spotting... wrong freqs and modes keep showing up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6srwt/issue_with_pota_spotting_wrong_freqs_and_modes/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "This looks like a scanner antenna. But it's off a public highway. Can't see what it would be used for?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5qwnn/this_looks_like_a_scanner_antenna_but_its_off_a/",
-        "author": "/u/ToshPointNo"
-      },
-      {
-        "title": "Im looking for help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6jvus/im_looking_for_help/",
-        "author": "/u/bobbylarson80"
-      },
-      {
-        "title": "Thinking about selling my ft-891 to buy an ic-705",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6afja/thinking_about_selling_my_ft891_to_buy_an_ic705/",
-        "author": "/u/10_LETTERS_BOT"
-      },
-      {
-        "title": "Are there any regular digital 'broadcasts' of data on HF?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v673ht/are_there_any_regular_digital_broadcasts_of_data/",
-        "author": "/u/busterghost65"
-      },
-      {
-        "title": "Why so little activity in 'eastern' Asia, and Oceania",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v630h5/why_so_little_activity_in_eastern_asia_and_oceania/",
-        "author": "/u/OTPguy"
-      },
-      {
-        "title": "Looking for 3 german articles from the 90's",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6c3xi/looking_for_3_german_articles_from_the_90s/",
-        "author": "/u/Klutzy-Brush4991"
-      },
-      {
-        "title": "2m FT8 opening",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5qz08/2m_ft8_opening/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "Olivia Digital Mode on HF: News",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5zutf/olivia_digital_mode_on_hf_news/",
-        "author": "/u/NW7US"
-      },
-      {
-        "title": "New Open HF Digital mode: H-mode",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5usd7/new_open_hf_digital_mode_hmode/",
-        "author": "/u/BookkeeperOk5457"
-      },
-      {
-        "title": "Today's 6m opening. 62 QSOs across 3 continents, 8 countries, 60 grid squares, 21 states, 3 provinces, and it's still going!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5tzde/todays_6m_opening_62_qsos_across_3_continents_8/",
-        "author": "/u/EmotioneelKlootzak"
-      },
-      {
-        "title": "General for 12 minutes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v5w30d/general_for_12_minutes/",
-        "author": "/u/bob_pipe_layer"
-      }
-    ],
-    "HamRadio": [
-      {
-        "title": "A reminder about voting, awards, and keeping r/HamRadio welcoming",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1q6xiih/a_reminder_about_voting_awards_and_keeping/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "State of the Sub: Making r/HamRadio Cool Again (According to the Data)",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1q1kqtx/state_of_the_sub_making_rhamradio_cool_again/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "[UK] Is GB3CV Repeater working?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v6ye8j/uk_is_gb3cv_repeater_working/",
-        "author": "/u/davidinterest"
-      },
-      {
-        "title": "News About Olivia Digital Mode on HF",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5zw8y/news_about_olivia_digital_mode_on_hf/",
-        "author": "/u/NW7US"
-      },
-      {
-        "title": "Appropriate effective speed for Farnsworth timing?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v64npb/appropriate_effective_speed_for_farnsworth_timing/",
-        "author": "/u/kqr"
-      },
-      {
-        "title": "Grandpas Ham Radio Equipment and what to do",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5femg/grandpas_ham_radio_equipment_and_what_to_do/",
-        "author": "/u/Johnanana"
-      },
-      {
-        "title": "New Ham here, any cool/useful equipment recommendations that won't overwhelm me?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5s08b/new_ham_here_any_cooluseful_equipment/",
-        "author": "/u/back_on_my_nonsense"
-      },
-      {
-        "title": "Eskip season on 2 meters has been hoping the last couple of weeks",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5rt8r/eskip_season_on_2_meters_has_been_hoping_the_last/",
-        "author": "/u/krispzz"
-      },
-      {
-        "title": "How to support my husband as he gets into Ham?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v58sym/how_to_support_my_husband_as_he_gets_into_ham/",
-        "author": "/u/hollyofhori"
-      },
-      {
-        "title": "Grounding and Lightening Protection",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v60gzs/grounding_and_lightening_protection/",
-        "author": "/u/reickmey"
-      },
-      {
-        "title": "i just got my license and got anytone u878ii plus and very underwhelmed",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5kao2/i_just_got_my_license_and_got_anytone_u878ii_plus/",
-        "author": "/u/PsychoMantisKw"
-      },
-      {
-        "title": "testing of my Android app, SCU LAN Remote",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v669fr/testing_of_my_android_app_scu_lan_remote/",
-        "author": "/u/General_Ad2559"
-      },
-      {
-        "title": "Signal not going anywhere? Xiegu G90",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5qwl8/signal_not_going_anywhere_xiegu_g90/",
-        "author": "/u/S52_DiDah"
-      },
-      {
-        "title": "HT-only Road Trip Setup: What would you recommend?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5m9ey/htonly_road_trip_setup_what_would_you_recommend/",
-        "author": "/u/WhatInDaWorldDog110"
-      },
-      {
-        "title": "10M is HOT today! Why?",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5cque/10m_is_hot_today_why/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "Road trip advise for new ham Tidradio h9",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5hwi4/road_trip_advise_for_new_ham_tidradio_h9/",
-        "author": "/u/bdubs791"
-      },
-      {
-        "title": "I got all of these solely using FT8 on 10M. Once I earn the \u2018250th Anniversary of the United States of America\u2019 award, I\u2019ll share my simple setup that I\u2019ve been using for this.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v5r98r/i_got_all_of_these_solely_using_ft8_on_10m_once_i/",
-        "author": "/u/SharkSapphire"
-      },
-      {
-        "title": "FT-857 powerpole conversion/mod",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v513rs/ft857_powerpole_conversionmod/",
-        "author": "/u/Ok_Rich2268"
-      },
-      {
-        "title": "A lesson in skip mechanics--just a single 20m FT8 signal from the UK/Ireland in ~6 hours",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v4s08y/a_lesson_in_skip_mechanicsjust_a_single_20m_ft8/",
-        "author": "/u/sac_boy"
-      },
-      {
-        "title": "Pulling back out the extension cable random wire and tecsun today (no unun)",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v4uv17/pulling_back_out_the_extension_cable_random_wire/",
-        "author": "/u/Clear_Act_290"
-      },
-      {
-        "title": "Advice on obtaining silent ham call sign",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v49eu5/advice_on_obtaining_silent_ham_call_sign/",
-        "author": "/u/mcal1"
-      },
-      {
-        "title": "Bearpaw: A cross-platform control app for Uniden BC125AT",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v4n6qm/bearpaw_a_crossplatform_control_app_for_uniden/",
-        "author": "/u/fox-four-gilwell"
-      },
-      {
-        "title": "Morse Pro - FCC Exam practice mode",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v464qt/morse_pro_fcc_exam_practice_mode/",
-        "author": "/u/vladIakimov"
-      },
-      {
-        "title": "I found this weird radio station on 6096 KhZ AM, It's not pirate radio because I'm hearing proper ADS and everything, hosts talking, and other things that identify a proper radio station, it's playing this weird mix of the genres Phycadelic and Egyptian type music, I don't know.",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v3vamz/i_found_this_weird_radio_station_on_6096_khz_am/",
-        "author": "/u/HuntGT"
-      },
-      {
-        "title": "Can you really go wrong? GET ON THE AIR!",
-        "link": "https://www.reddit.com/r/HamRadio/comments/1v3td22/can_you_really_go_wrong_get_on_the_air/",
-        "author": "/u/Similar-Jaguar-8908"
+        "title": "What recording mixer equipment is best for multiple radio hosts?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7sucd/what_recording_mixer_equipment_is_best_for/",
+        "author": "/u/EnablingMarvels"
       }
     ]
   }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-20T13:50:47.152519",
+  "updated": "2026-07-27T14:13:22.532468",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "6iRGizj-9kLzdJGnzWXyiNlfVxg",
+    "etag": "EminxfuKdnDf-T6wcTb_qXCJ1Rc",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,228 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "227810",
-      "subscriberCount": "2140",
+      "viewCount": "234964",
+      "subscriberCount": "2190",
       "hiddenSubscriberCount": false,
-      "videoCount": "144"
+      "videoCount": "149"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "Ybh-Wvy9UP3Y7bA1MunsOsb6XPY",
+      "etag": "hFJuywtyGdBKU3K5aiBh6r4Tk7g",
+      "id": "SgptaI9RCHE",
+      "snippet": {
+        "publishedAt": "2026-07-23T12:00:09Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "How Tornado Sirens Get Tested: Ham Radio's Monthly Siren Check",
+        "description": "Ever wonder how those tornado warning sirens actually get tested? On the first Saturday of every month, ham radio volunteers fan out across Oakland County, Michigan to check every siren, and this time Jim (N8JRD) brought a camera.\nWant to help test the sirens? Oakland County ARPSC: https://arpsc.com/sirennet.php\n\nIt's the 4th of July, but siren test day doesn't take a holiday. Jim rides along for Oakland County's monthly outdoor warning siren test: listening as net control runs check-ins over the radio, watching a siren spin up and sound off (Cash the poodle was not a fan), and then collecting reports from the volunteers stationed at each siren. Every tester confirms three things: the siren rotated smoothly, it sounded for the full three minutes, and it's physically undamaged and clear of obstructions. One siren this round didn't sound at all, which is exactly the point of testing. That one gets reported to the county for repair and a re-test.\n\nLearn more / get involved:\n- Oakland County ARPSC siren test net (how to volunteer): https://arpsc.com/sirennet.php\n- Oakland County Outdoor Warning Siren System: https://www.oakgov.com/community/emergency-management/need-to-know/alerts/outdoor-warning-siren-system\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #tornadosiren #amateurradio #emergencyprep #Michigan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "tornado siren test",
+          "outdoor warning siren",
+          "Oakland County sirens",
+          "Oakland County Michigan",
+          "how tornado sirens work",
+          "siren test",
+          "ham radio",
+          "amateur radio",
+          "ARPSC",
+          "emergency management",
+          "severe weather",
+          "tornado warning",
+          "N8JRD",
+          "Everyday Ham",
+          "storm siren",
+          "Michigan ham radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Tornado Sirens Get Tested: Ham Radio's Monthly Siren Check",
+          "description": "Ever wonder how those tornado warning sirens actually get tested? On the first Saturday of every month, ham radio volunteers fan out across Oakland County, Michigan to check every siren, and this time Jim (N8JRD) brought a camera.\nWant to help test the sirens? Oakland County ARPSC: https://arpsc.com/sirennet.php\n\nIt's the 4th of July, but siren test day doesn't take a holiday. Jim rides along for Oakland County's monthly outdoor warning siren test: listening as net control runs check-ins over the radio, watching a siren spin up and sound off (Cash the poodle was not a fan), and then collecting reports from the volunteers stationed at each siren. Every tester confirms three things: the siren rotated smoothly, it sounded for the full three minutes, and it's physically undamaged and clear of obstructions. One siren this round didn't sound at all, which is exactly the point of testing. That one gets reported to the county for repair and a re-test.\n\nLearn more / get involved:\n- Oakland County ARPSC siren test net (how to volunteer): https://arpsc.com/sirennet.php\n- Oakland County Outdoor Warning Siren System: https://www.oakgov.com/community/emergency-management/need-to-know/alerts/outdoor-warning-siren-system\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #tornadosiren #amateurradio #emergencyprep #Michigan"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "210",
+        "likeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kjznNhWpH0pqJ_wq3vPaNuR28jc",
+      "id": "r08dZat4bOU",
+      "snippet": {
+        "publishedAt": "2026-07-21T22:52:09Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
+        "description": "This morning, Radioddity published the cursory product page for the upcoming Xiegu G7250 HF Radio.   Is this a game changer for shacks where antennas and power are hard to access? Does the Xiegu G7250 look like a baby Flex Radio or ICOM 7760?   \n\nThis direct sampling, 100w HF Rig came out of nowhere and has some potential to really shake up the affordable, remote-head capable HF radio market.\n\nProduct Page: https://www.radioddity.com/products/xiegu-g7250\nGroups.IO: https://groups.io/g/xiegu-g7250/topic/radio_over_all_i_ve_got/120382403\n\nLet us know what you think of this announce down in the comments!\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #g7250 #hamradio #AmateurRadio #POTA #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
+          "description": "This morning, Radioddity published the cursory product page for the upcoming Xiegu G7250 HF Radio.   Is this a game changer for shacks where antennas and power are hard to access? Does the Xiegu G7250 look like a baby Flex Radio or ICOM 7760?   \n\nThis direct sampling, 100w HF Rig came out of nowhere and has some potential to really shake up the affordable, remote-head capable HF radio market.\n\nProduct Page: https://www.radioddity.com/products/xiegu-g7250\nGroups.IO: https://groups.io/g/xiegu-g7250/topic/radio_over_all_i_ve_got/120382403\n\nLet us know what you think of this announce down in the comments!\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #g7250 #hamradio #AmateurRadio #POTA #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "4679",
+        "likeCount": "165",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ocMp53eclErLzOveGQy0-GsbQpc",
+      "id": "G9nW8S4y2Xs",
+      "snippet": {
+        "publishedAt": "2026-07-21T12:00:05Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
+        "description": "We finally got the Buddipole BuddiHEX in the air, and our first try was equal parts fun and lessons learned. First impressions from Episode 19: https://youtu.be/m5aILG8IEd0\n\nJames picked up the BuddiHEX with the 7m Mastwerks mast for roughly $1,600, and the crew raised it for the first time at Field Day. In this clip: why it took six of us on the guy lines that first go, why it is a special-event antenna more than a grab-and-go POTA setup, how many people you really need to raise it safely, and the cold solder joint on the 6 meter element that we had to fix straight out of the box. We keep it honest, it was not all rainbows, but there is a lot to like, and a lot still to test before any real performance verdict.\n\nWatch the full Episode 19: https://youtu.be/m5aILG8IEd0\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #BuddiHEX #hexbeam #amateurradio #POTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9nW8S4y2Xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9nW8S4y2Xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9nW8S4y2Xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G9nW8S4y2Xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G9nW8S4y2Xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "BuddiHEX",
+          "Buddipole",
+          "hex beam",
+          "hex beam antenna",
+          "portable antenna",
+          "ham radio antenna",
+          "Mastwerks mast",
+          "ham radio field day",
+          "antenna setup",
+          "is the buddihex worth it",
+          "ham radio gear",
+          "directional antenna",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
+          "description": "We finally got the Buddipole BuddiHEX in the air, and our first try was equal parts fun and lessons learned. First impressions from Episode 19: https://youtu.be/m5aILG8IEd0\n\nJames picked up the BuddiHEX with the 7m Mastwerks mast for roughly $1,600, and the crew raised it for the first time at Field Day. In this clip: why it took six of us on the guy lines that first go, why it is a special-event antenna more than a grab-and-go POTA setup, how many people you really need to raise it safely, and the cold solder joint on the 6 meter element that we had to fix straight out of the box. We keep it honest, it was not all rainbows, but there is a lot to like, and a lot still to test before any real performance verdict.\n\nWatch the full Episode 19: https://youtu.be/m5aILG8IEd0\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #BuddiHEX #hexbeam #amateurradio #POTA"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "407",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NVuSE1F_sRZs_jfpK750HZpfKm4",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -106,15 +318,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "334",
-        "likeCount": "22",
+        "viewCount": "394",
+        "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PSeqhp7lo5_allKCbCJF0Og2Al8",
+      "etag": "13oVMB9vxXdbkgKoXBRl_NxpUV0",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -177,7 +389,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "88",
+        "viewCount": "103",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -185,7 +397,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tEO4LSlOGnvVmpcjszmOSm_6wYA",
+      "etag": "fpJdS8JVixeNW_nwmknT2JIBJGE",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -247,7 +459,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "110",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -255,7 +467,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3KO-WJHc3ce_SDAVY4nRHCVbCgU",
+      "etag": "DIC7ZPycTuDUCaYeTOEmfdXrlN4",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -319,7 +531,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "246",
+        "viewCount": "263",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -327,7 +539,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wBTdkWJPrJj5cXhv982IIaBl-z8",
+      "etag": "1aq-yuvdxWHw0OSyAFNNAxwwrAg",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -391,15 +603,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "304",
-        "likeCount": "29",
+        "viewCount": "312",
+        "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "u2KEaOX9dDlOLcnsyM5siZPl_nI",
+      "etag": "sGsMlqpqZcVv5EPP0vWT6eUdZ-w",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -466,15 +678,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "866",
+        "viewCount": "892",
         "likeCount": "57",
         "favoriteCount": "0",
-        "commentCount": "10"
+        "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zFE6KxE98_Om65EoGiDJ3i0hjR4",
+      "etag": "ECRPbY1e2NyLnPsh8cUqImicVpM",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -538,7 +750,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "855",
+        "viewCount": "888",
         "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -546,7 +758,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "x4-clXsAHgPRYpULsVbWho6SouU",
+      "etag": "5GcwuJyxmKcurLppzIHQG5tS9yU",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -610,7 +822,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "322",
+        "viewCount": "326",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -618,7 +830,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3zxB03aW1aXHzP-HR1EzWKwHXxc",
+      "etag": "C6ROkPefk0Dt0xm0b8M5Rjd5M44",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -681,7 +893,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "417",
+        "viewCount": "420",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -689,7 +901,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RbuQOOmQOHpRuydPB4BvOJUAQhM",
+      "etag": "ZEUOpnUhR50_MbSxb3LrJ8KPUFk",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -753,15 +965,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "896",
-        "likeCount": "37",
+        "viewCount": "941",
+        "likeCount": "39",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "J6BYyYtBfPJ8jPJ0IK27D_pqhCA",
+      "etag": "LvqLNdQEUZ0NmAJGr2sOrPxSXqE",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -824,7 +1036,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "522",
+        "viewCount": "527",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -832,7 +1044,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sOCYiMZ4EE5RVfAeXrGdEz7abfY",
+      "etag": "rEC_RLrwIcugO3qpHiF3PZ1vTr0",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -895,7 +1107,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "316",
+        "viewCount": "318",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -903,7 +1115,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PYNOfarblDuY_jVknHvlZx0sNHA",
+      "etag": "dvxkjnKsfJ8E-J4qVYEp1-YNojI",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -967,7 +1179,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "621",
+        "viewCount": "624",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -975,7 +1187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5qRm2PrZJiQrhFgRQS_0WG68ALc",
+      "etag": "RcQElh4rwHrjw1-jz8VfCf9ggnE",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -1039,7 +1251,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3356",
+        "viewCount": "3370",
         "likeCount": "90",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -1047,7 +1259,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rgNhgLbUE2d6taOCHQldQIIyvDs",
+      "etag": "9wswcjVWlEdiMZzvOR7c0n9rv8A",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -1110,7 +1322,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "452",
+        "viewCount": "474",
         "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1118,7 +1330,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CQbmQDlq-iya_jzASUnPKwJwqto",
+      "etag": "ab3Y416C4n3iiIeflyH75RrnbXY",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -1182,15 +1394,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8408",
-        "likeCount": "183",
+        "viewCount": "8548",
+        "likeCount": "185",
         "favoriteCount": "0",
         "commentCount": "55"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QQto6e1DlxeLULgoe1iXpEFPw_U",
+      "etag": "krgcGTH2tctNF88GDnI0OnedRlg",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -1254,7 +1466,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1755",
+        "viewCount": "1776",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1262,7 +1474,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Rix3tYHxhO9A9m9eX8GAH6sSIfw",
+      "etag": "iNNPdv3FlKXbPFskuh42NTPhjgo",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -1326,15 +1538,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9771",
-        "likeCount": "184",
+        "viewCount": "9986",
+        "likeCount": "185",
         "favoriteCount": "0",
         "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "k96DcZs7XE78uLBYmyITiTG96hI",
+      "etag": "oifLgddYL3Uce0qo2t397V8h2KU",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -1398,15 +1610,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8843",
+        "viewCount": "9048",
         "likeCount": "234",
         "favoriteCount": "0",
-        "commentCount": "51"
+        "commentCount": "53"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3XXPUMy-CUvKBZwMpkKurUCDpnk",
+      "etag": "bAhihQqBh5oW5Y5hbKisyf4qE4U",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -1470,7 +1682,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4419",
+        "viewCount": "4451",
         "likeCount": "134",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -1478,7 +1690,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "e0RyLv8vbErRKhQ77WUXWN_w7O8",
+      "etag": "m18MkB4aZdnlTgv8q2Qwv9E51Tc",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -1539,7 +1751,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "846",
+        "viewCount": "853",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1547,7 +1759,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kcKaGUF5NNL3L1Zz30nI6lDEQEs",
+      "etag": "m26mGMO8t0PpplNxk1BLovY3f9g",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -1610,7 +1822,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1654",
+        "viewCount": "1656",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1618,7 +1830,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iaeE0wG_ULSAOdwu3avpM2K-8w4",
+      "etag": "wQ2AY8X-mCDjCMd4JIhiyNzyPeM",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -1679,7 +1891,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1368",
+        "viewCount": "1376",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1687,7 +1899,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3e6xwb4Qdhqd0E7r-gEYb9HYByc",
+      "etag": "K8u1Mh1CB6MoiFk5zANVQqOMsVk",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -1750,7 +1962,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "906",
+        "viewCount": "910",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1758,7 +1970,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "COdcAXzl78mI97FHNl3fhYPvD9w",
+      "etag": "w6kUbGSnDK0CEzRmU8KJmHBvagQ",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -1824,7 +2036,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "349",
+        "viewCount": "354",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1832,7 +2044,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vRDLQ-S4dsZfEEsAy6pl7qWZKfo",
+      "etag": "3v12rmCJ-goHssVqqok5l3hAl8s",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -1880,7 +2092,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1371",
+        "viewCount": "1373",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1888,7 +2100,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lNR441fNElEGnHm384tWKKQ5dh8",
+      "etag": "yQosl5MHOHujMDtxagqZdwFUWlE",
       "id": "nFmV750qMPY",
       "snippet": {
         "publishedAt": "2026-04-09T13:01:34Z",
@@ -1950,7 +2162,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "169",
+        "viewCount": "170",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1958,7 +2170,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3OUBTjdlXavW2otrauun8p8rwPg",
+      "etag": "NE3wuhGoDBohe3MJn62ubq-TV28",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -2021,7 +2233,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "603",
+        "viewCount": "606",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2029,7 +2241,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Abhkd9XWW9A_kGer8ypy-MoGE4k",
+      "etag": "Nm8bl9cmiXQYQI4peVEu9cgHbvE",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -2091,15 +2303,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1660",
+        "viewCount": "1704",
         "likeCount": "63",
         "favoriteCount": "0",
-        "commentCount": "31"
+        "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DHFISIHR5yVlEcyz8Qo9YFqvEGM",
+      "etag": "OP9TzXpzNQDMQaZAojhlOa1D5j0",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -2162,7 +2374,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "493",
+        "viewCount": "496",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2170,7 +2382,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9gRtcKLAsM_2y6uKtQSu1y0L9RA",
+      "etag": "dZ4Q8AoASywjR2UvcPbNxq7MCjU",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -2233,8 +2445,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "958",
-        "likeCount": "23",
+        "viewCount": "965",
+        "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
       }
@@ -2313,7 +2525,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "55f7lamTNsDRJc-NEMOHmBxX0Gs",
+      "etag": "X106Meb6NTQAbHap_dL1FQHxm-s",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -2376,7 +2588,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1250",
+        "viewCount": "1251",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2525,7 +2737,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QoJBwhbO8lqJHae2_pCBGwP_bj8",
+      "etag": "4cn7qdkUwzl4xc4wDKzpJ8hb5hQ",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -2590,7 +2802,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1701",
+        "viewCount": "1709",
         "likeCount": "72",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2598,7 +2810,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tN5kfmPNq44npitpuuB-s33VdEE",
+      "etag": "Fe1ej1HaKNXPyLmm_Pp-qbFQ8o0",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -2661,15 +2873,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "595",
-        "likeCount": "26",
+        "viewCount": "604",
+        "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gjz2laXyxm8A6loAblGWsxUmEOA",
+      "etag": "EMV8Ssn9HLYIKCvdhI34W7AIL64",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -2732,15 +2944,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5427",
-        "likeCount": "184",
+        "viewCount": "5455",
+        "likeCount": "185",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "mFP60nX-2W6Utn2AtVQRWXRL6Mo",
+      "etag": "fkJOU3icIO1gAg7j3VWg_Qx4RFQ",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -2802,15 +3014,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "359",
-        "likeCount": "14",
+        "viewCount": "368",
+        "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IZKwT84LltD-0_Jg5NB49ORm7aM",
+      "etag": "RQXhCu2AMTAZRblwAW_jB9I_0d0",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -2863,7 +3075,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1176",
+        "viewCount": "1178",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2871,7 +3083,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t1PPnRTm94z24NR9IIXTxf9UL_o",
+      "etag": "TL4qPdFx4LgPCbGyQwbr23usTZk",
       "id": "RpKnlTc2Lo4",
       "snippet": {
         "publishedAt": "2026-02-14T15:36:28Z",
@@ -2916,7 +3128,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "473",
+        "viewCount": "475",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2924,7 +3136,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Z-qM-Qctx977KKLDEbKgs-QgnJM",
+      "etag": "jpg3DOp6Hv3iYgscvDH5iSsGXB8",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -2988,15 +3200,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2381",
-        "likeCount": "53",
+        "viewCount": "2403",
+        "likeCount": "54",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sswomRUma93vWJbT0LeLwtEmR-w",
+      "etag": "7qeIbJfsQcecA2zzbfyy395gOO8",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -3059,7 +3271,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2930",
+        "viewCount": "2952",
         "likeCount": "103",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -3067,7 +3279,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZFuR2TenRZr13BkNMWvyJ2tgkGU",
+      "etag": "1eFtQQuwzQbh6rudzlgXo6Akz40",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -3129,7 +3341,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "370",
+        "viewCount": "376",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3137,7 +3349,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3Tn02stWSt0PolCdo9-OM482sU4",
+      "etag": "UPHfuxL5hgpOJ5fQJ-okzboVv2s",
       "id": "dq8p3Blm4Ts",
       "snippet": {
         "publishedAt": "2026-02-07T19:03:13Z",
@@ -3201,7 +3413,7 @@
       },
       "statistics": {
         "viewCount": "3261",
-        "likeCount": "13",
+        "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
       }
@@ -3261,7 +3473,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-yfm6IKACacvSXOKWcG-1TPIY2A",
+      "etag": "mjDrt46pRA1392yOqUTX6cgu5qM",
       "id": "OhsGTEIVIE8",
       "snippet": {
         "publishedAt": "2026-02-05T15:02:11Z",
@@ -3325,205 +3537,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "594",
+        "viewCount": "598",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "14"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SqFJs4U3AvLScS8I_FDCdZmMA-w",
-      "id": "i_55Kt8PtJo",
-      "snippet": {
-        "publishedAt": "2026-02-05T15:25:03Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/i_55Kt8PtJo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nDo you really need that new radio? In Episode 14, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio gear and share what they\u2019ve learned from their own buying mistakes.\n\n\nWe begin with a moment of remembrance for Elwood Downey, creator of HamClock, and share what his contributions meant to the community. Then we catch up around the shack \u2014 Jim\u2019s new CW trainer, James\u2019s hotel radio experiments from Germany, and Rory\u2019s progress with Morse code through the Long Island CW Club.\n\n\nThe main topic digs into upgrade pressure. Jim confesses his $10K shack might not outperform his old $890 FT-DX10 and $99 end-fed combo. Rory makes the case that antennas matter more than radios. James shares his FTX-1F disappointment and why he went crawling back to his trusted FT-891. The unanimous takeaway: more antenna, less radio.\n\n\nWe also talk BuddiHEX plans, hamfest buying strategies heading into Hamcation and Hamvention season, and preview our upcoming trip to Orlando.\n\n\nDon\u2019t miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\nhttps://www.everydayham.com\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "142",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "R_f1TbFkWNYLyR8HgRvsPjXTxiE",
-      "id": "XPVfh05ifPI",
-      "snippet": {
-        "publishedAt": "2026-02-03T15:01:03Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-        "description": "What happens when you try to operate ham radio during one of the coldest winter weekends Michigan has seen in years? We found out!\n\nJoin James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we recap our 2026 Winter Field Day experience operating as the Everyday Ham Amateur Radio Club using callsign W8EDH. With temperatures plunging to -17\u00b0F (-27\u00b0C) and dangerous winter storms sweeping the country, we set up at a cabin in the woods with 8 total operators and logged 845 QSOs across multiple bands.\n\n\u23f1\ufe0f TIMESTAMPS\n0:00 - Driving to Winter Field Day in -17\u00b0F\n0:15 - What is Winter Field Day?\n0:42 - Why the Everyday Ham Club decided to participate\n1:18 - The brutal Michigan weather conditions\n2:03 - Jim's Winter Field Day experience\n3:09 - Heating problems at the cabin (51\u00b0F inside!)\n3:53 - James arrives after the heating crisis\n4:18 - First time doing a real contest\n4:56 - Our antenna setup strategy\n5:54 - The 40m monster vertical antenna\n6:06 - Antenna walkthrough (40m vertical, Aerial-51 OCFD, Band Hopper)\n7:21 - Results: 845 QSOs and contest stats\n7:55 - Using World Radio League logger\n8:43 - Stats breakdown (110 QSOs in fastest hour, 28 average)\n9:24 - Bands we operated (40m, 20m, 80m, 15m, 10m, 2m, 220, 440)\n10:06 - Getting CW contacts with Terry W8TMB\n10:36 - Multipliers and bonus objectives\n11:01 - Running on alternative power (battery vs generator RFI)\n11:28 - Winlink email adventure (and the Nigerian prince joke)\n12:30 - More multipliers: six bands, multiple modes, continuous operation\n12:54 - Objectives we missed (satellites, WFD bulletin, QRP)\n13:12 - Total operators (8) and visitors (16+)\n13:30 - The W8EDH club callsign\n13:44 - Coaching new operators\n14:04 - Join our Discord for event info\n14:24 - Looking ahead to Summer Field Day & QSO parties\n15:06 - Closing montage: Final contacts and packing up\n\n\ud83d\udcfb WHAT WE COVERED\n- Setting up a multi-operator station in extreme cold\n- Running three radios on battery and generator power\n- Tips for first-time contesters using World Radio League\n- The importance of resonant antennas for contesting\n- How to encourage and coach new operators\n- Winlink email bonus objective (and the Nigerian prince joke)\n\n\ud83d\udd17 RESOURCES\nWinter Field Day Association: https://winterfieldday.org/\nWorld Radio League: https://www.worldradioleague.com/\nSouth Lyon Area Amateur Radio Club (SLAARC): https://www.slaarc.com/\n\n\ud83c\udf99\ufe0f ABOUT EVERYDAY HAM\nThree friends diving into amateur radio with a casual, lighthearted twist. From current events and lessons learned to our gripes and off-topic banter, we bring fun, relatable conversations and radio expertise.\n\n\ud83d\udcf1 FOLLOW US\nWebsite: https://www.everydayham.com/\n\nDon't miss an episode! Subscribe to our YouTube channel and follow Everyday Ham on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more).\n\n#WinterFieldDay #WFD2026 #HamRadio #AmateurRadio #W8EDH #Contesting #EmergencyComms #PortableRadio #MichiganHam #EverydayHam",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XPVfh05ifPI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Winter Field Day",
-          "WFD 2026",
-          "ham radio contesting",
-          "amateur radio field day",
-          "W8EDH",
-          "portable ham radio",
-          "cold weather radio operation",
-          "ham radio contest",
-          "World Radio League",
-          "40 meter antenna",
-          "multi-operator station",
-          "emergency communications",
-          "Winlink",
-          "ham radio Michigan",
-          "Everyday Ham",
-          "amateur radio club",
-          "winter ham radio"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-          "description": "What happens when you try to operate ham radio during one of the coldest winter weekends Michigan has seen in years? We found out!\n\nJoin James (K8JKU), Jim (N8JRD), and Rory (W8KNX) as we recap our 2026 Winter Field Day experience operating as the Everyday Ham Amateur Radio Club using callsign W8EDH. With temperatures plunging to -17\u00b0F (-27\u00b0C) and dangerous winter storms sweeping the country, we set up at a cabin in the woods with 8 total operators and logged 845 QSOs across multiple bands.\n\n\u23f1\ufe0f TIMESTAMPS\n0:00 - Driving to Winter Field Day in -17\u00b0F\n0:15 - What is Winter Field Day?\n0:42 - Why the Everyday Ham Club decided to participate\n1:18 - The brutal Michigan weather conditions\n2:03 - Jim's Winter Field Day experience\n3:09 - Heating problems at the cabin (51\u00b0F inside!)\n3:53 - James arrives after the heating crisis\n4:18 - First time doing a real contest\n4:56 - Our antenna setup strategy\n5:54 - The 40m monster vertical antenna\n6:06 - Antenna walkthrough (40m vertical, Aerial-51 OCFD, Band Hopper)\n7:21 - Results: 845 QSOs and contest stats\n7:55 - Using World Radio League logger\n8:43 - Stats breakdown (110 QSOs in fastest hour, 28 average)\n9:24 - Bands we operated (40m, 20m, 80m, 15m, 10m, 2m, 220, 440)\n10:06 - Getting CW contacts with Terry W8TMB\n10:36 - Multipliers and bonus objectives\n11:01 - Running on alternative power (battery vs generator RFI)\n11:28 - Winlink email adventure (and the Nigerian prince joke)\n12:30 - More multipliers: six bands, multiple modes, continuous operation\n12:54 - Objectives we missed (satellites, WFD bulletin, QRP)\n13:12 - Total operators (8) and visitors (16+)\n13:30 - The W8EDH club callsign\n13:44 - Coaching new operators\n14:04 - Join our Discord for event info\n14:24 - Looking ahead to Summer Field Day & QSO parties\n15:06 - Closing montage: Final contacts and packing up\n\n\ud83d\udcfb WHAT WE COVERED\n- Setting up a multi-operator station in extreme cold\n- Running three radios on battery and generator power\n- Tips for first-time contesters using World Radio League\n- The importance of resonant antennas for contesting\n- How to encourage and coach new operators\n- Winlink email bonus objective (and the Nigerian prince joke)\n\n\ud83d\udd17 RESOURCES\nWinter Field Day Association: https://winterfieldday.org/\nWorld Radio League: https://www.worldradioleague.com/\nSouth Lyon Area Amateur Radio Club (SLAARC): https://www.slaarc.com/\n\n\ud83c\udf99\ufe0f ABOUT EVERYDAY HAM\nThree friends diving into amateur radio with a casual, lighthearted twist. From current events and lessons learned to our gripes and off-topic banter, we bring fun, relatable conversations and radio expertise.\n\n\ud83d\udcf1 FOLLOW US\nWebsite: https://www.everydayham.com/\n\nDon't miss an episode! Subscribe to our YouTube channel and follow Everyday Ham on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more).\n\n#WinterFieldDay #WFD2026 #HamRadio #AmateurRadio #W8EDH #Contesting #EmergencyComms #PortableRadio #MichiganHam #EverydayHam"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "465",
-        "likeCount": "32",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PShB9mtuVq8ouwODj48RprcAjm8",
-      "id": "4xdfHO-DHlo",
-      "snippet": {
-        "publishedAt": "2026-01-30T20:46:17Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-        "description": "The Kenwood TM-D750A is REAL! The FCC filing just dropped and the user manual reveals all the specs for this tri-band mobile radio. 20 watts on 220 MHz, 7-inch display, D-STAR, APRS, Wi-Fi, Bluetooth 5.0 \u2014 we break it all down. But how much will it cost? \ud83d\udcb8\n\nFull episode on YouTube!\n\n#hamradio #amateurradio #kenwood #tmd750a #triband #dstar #aprs #mobileradio #hamcation #fcc #radiolife #hamradiocommunity #everydayham #vhf #uhf #220mhz #newradio #techreveal",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4xdfHO-DHlo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-          "description": "The Kenwood TM-D750A is REAL! The FCC filing just dropped and the user manual reveals all the specs for this tri-band mobile radio. 20 watts on 220 MHz, 7-inch display, D-STAR, APRS, Wi-Fi, Bluetooth 5.0 \u2014 we break it all down. But how much will it cost? \ud83d\udcb8\n\nFull episode on YouTube!\n\n#hamradio #amateurradio #kenwood #tmd750a #triband #dstar #aprs #mobileradio #hamcation #fcc #radiolife #hamradiocommunity #everydayham #vhf #uhf #220mhz #newradio #techreveal"
-        }
-      },
-      "statistics": {
-        "viewCount": "929",
-        "likeCount": "11",
-        "favoriteCount": "0",
-        "commentCount": "3"
       }
     }
   ]

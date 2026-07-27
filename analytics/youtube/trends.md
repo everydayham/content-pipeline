@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-07-20 13:50 UTC*
+*Last updated: 2026-07-27 14:13 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Dadi and pota pizza 🍕 khande hoye #villagelife #vi... | Pind Wali Dadi | 471,874 | 2026-07-15 |
-| Mama punya roti aoka,ayah punya eskrim pota bee | abidzar channel | 457,260 | 2026-07-18 |
-| SOTA、SHUNTO、RYUHEIの入場は伝説的だった。#BEFIRST | NINA_BESTY | 269,150 | 2026-07-18 |
-| itna kon sota hai ❤️😃@FukraInsaan #youtubeshorts | The Malhan Hub | 228,830 | 2026-07-17 |
-| Bhammu-Pie ne ki Pota-Poti ki Demand | Risky Ricky | 187,604 | 2026-07-14 |
-| bhabhi se pota poti ki demand #riskyricky #family | Risky Ricky | 163,358 | 2026-07-18 |
-| live ,⚰️🌹SOTAとMANATOの部分は傑作だ。#BEFIRST | NINA_BESTY | 128,693 | 2026-07-14 |
-| Dadi POTA 🥰 #kanikaranavlogs #kanikarana #cutebaby... | Yuvaan Rohit Chhikar | 108,721 | 2026-07-15 |
-| Зачем менять Путина? У нас всегда жопа! На фронте ... | sotavision | 106,189 | 2026-07-16 |
-| Yellowstone bison tosses visitor into air during e... | CBS19 | 104,978 | 2026-07-14 |
-| Granny ka pota pit gya😂 | Granny Funny Gameplay 😂 ... | Anaya Gamer 2.0 | 92,148 | 2026-07-13 |
-| Bed Kharab Na Ho Jaye... Is Liye Us Ke Neeche Sota... | Afzal Ki Vines •  | 88,405 | 2026-07-15 |
-| Upar Pankha Chalta Hai | ऊपर पंखा चलता है |  Niche... | Hamari Madhu | 86,555 | 2026-07-14 |
-| tu meri nindo me sota h | Priya Biswas | 86,476 | 2026-07-17 |
-| Dadi pota Ludo khelde hoye #villagelife #familybon... | Pind Wali Dadi | 81,335 | 2026-07-17 |
-| ye mummy ban ke kon sota hai😂 |Vizware| #shorts | Vizware | 71,401 | 2026-07-16 |
-| SOTA, SHUNTO,RYUHEI 14秒,彼らの偉大さのオーラを感じさせるには十分だ#BEFI... | NINA_BESTY | 67,987 | 2026-07-19 |
-| Learn G in Morse Code #morsecode #hamradio #hobby | The Radio Zoomer | 47,131 | 2026-07-15 |
-| pota or bakri #shorts | AI Toon Studio | 42,049 | 2026-07-16 |
-| Pota Rare Id Hack 😂 || XIAOMI Para poco -f1, f2, m... | launda FF 2 | 41,067 | 2026-07-18 |
-| Texas to HI! #hamradio #morsecode #hobby #radioope... | Hobby Steve  | 41,023 | 2026-07-17 |
-| Антенна Бевереджа за 200руб. Как сделать. #hamradi... | RAZA | 38,124 | 2026-07-16 |
-| Learn F in Morse Code #morsecode #hamradio #hobby | The Radio Zoomer | 34,642 | 2026-07-14 |
-| Do you? #morsecode #hamradio #hobby | Forrest (KI7QCF) | 34,596 | 2026-07-14 |
-| Upar Pankha Chalta Hai | ऊपर पंखा चलता है |  Niche... | Hamari Madhu | 33,544 | 2026-07-19 |
+| [BMSG The Boogie]  YAO - 777 (feat. Awich, CHICO C... | BMSG | 1,036,076 | 2026-07-21 |
+| SOTA 常に揺れてる🌹hhh, これがもうSOTA #BEFIRST | NINA_BESTY | 607,650 | 2026-07-22 |
+| class mai sota | Korean drama product | 519,224 | 2026-07-23 |
+| class mein sota Hai isko to amrud se | Cute Life | 436,331 | 2026-07-25 |
+| SOTA🌹⚰️の振り付けは別格だ!!!信じられないほど素晴らしい#BEFIRST | NINA_BESTY | 321,339 | 2026-07-21 |
+| «Идет уничтожение русского народа». Атака БПЛА на ... | sotavision | 263,975 | 2026-07-21 |
+| Windmill antenna! #hamradio #experement #hobby #ra... | Hobby Steve  | 208,905 | 2026-07-25 |
+| Alag hi level ka pota 😅 | RANA 2.O | 178,937 | 2026-07-20 |
+| SOTAとRYUHEIの歌声は信じられないほど素晴らしい。#BEFIRST | NINA_BESTY | 138,432 | 2026-07-25 |
+| Olha a IMPORTÂNCIA do RÁDIO PX #shorts #caminhonei... | Conexão 009 | 116,148 | 2026-07-23 |
+| school room mein sota hai | Cute Life | 114,971 | 2026-07-20 |
+| SOTAがMasterplanで閃いた「神コレオ」をはじめとするトリック的コレオ 見て楽しくて大好き... | mics | 113,005 | 2026-07-22 |
+| «Уверена в работе ПВО и в победе». Атака БПЛА на с... | sotavision | 98,049 | 2026-07-22 |
+| पोटा कलेजी बनाने का ये नया तरीका जो की 99% लोगो को... | Priyanka Ki Rasoi | 97,272 | 2026-07-21 |
+| ЗАГЛУШИТ ЛЮБУЮ СВЯЗЬ! ЧЕХОЛ ГЛУШИЛКА #рация #hamra... | ОЛЕГОВИЧ НА СВЯЗИ | 76,907 | 2026-07-21 |
+| This Secret Radio Device Still Works After 40 Year... | Ringway Manchester | 64,313 | 2026-07-23 |
+| Why Walls STOP Light Waves But Not Radio Waves? | Brain Station Advanc | 63,834 | 2026-07-24 |
+| Dadi pota movie dekhde hoyeb #villagelife #familyl... | Pind Wali Dadi | 54,389 | 2026-07-22 |
+| Rate my form #hamradio #morsecode #hobby | The Radio Zoomer | 51,027 | 2026-07-24 |
+| The Filter We Built for Ham Radio Is Now in Every ... | The History Archive | 47,317 | 2026-07-21 |
+| dadi ore pota ka market #shortvideo | Chanda Rai007 | 45,218 | 2026-07-21 |
+| MAI POTA KANNALA 🤏🏼 #status #love #tamilsong #vira... | Mukul Ram | 40,120 | 2026-07-21 |
+| Dadi pota ki funny story #viralvideo #utubeshorts ... | Real shaan | 38,385 | 2026-07-22 |
+| Dada or pota 😂  #viral #shorts | Acha Baccha | 38,173 | 2026-07-22 |
+| How quickly can you learn? #morsecode #hamradio #h... | The Radio Zoomer | 35,062 | 2026-07-26 |
 
 ---
 
@@ -42,13 +42,14 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **License/Learning**: ████████████████████ (30 videos)
-- **POTA/Portable**: ████████████████████ (26 videos)
-- **HF Operating**: ████████████████████ (21 videos)
-- **Antennas**: ██████████████ (14 videos)
-- **Gear Reviews**: ███████ (7 videos)
+- **License/Learning**: ████████████████████ (28 videos)
+- **POTA/Portable**: ████████████████████ (25 videos)
+- **HF Operating**: ████████████████████ (20 videos)
+- **Antennas**: █████████████████ (17 videos)
 - **Digital Modes**: ███████ (7 videos)
+- **Gear Reviews**: ██████ (6 videos)
 - **QRP**: ███ (3 videos)
+- **Contests**: █ (1 videos)
 
 ---
 

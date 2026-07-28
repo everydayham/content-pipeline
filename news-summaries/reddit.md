@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-27 13:39 UTC*
+*Last updated: 2026-07-28 12:55 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [QSO half QTH half KiwiSDR? Cheating?](https://www.reddit.com/r/amateurradio/comments/1v7ujv6/qso_half_qth_half_kiwisdr_cheating/)**
+**3. [I made an AFSK RTTY Encoder for the Sony PSP](https://www.reddit.com/r/amateurradio/comments/1v8qojc/i_made_an_afsk_rtty_encoder_for_the_sony_psp/)**
+by u/X3asYG
+
+**4. [Surge Protection](https://www.reddit.com/r/amateurradio/comments/1v8u131/surge_protection/)**
+by u/TheUnkown696
+
+**5. [Ham radio license plates (in the US)?](https://www.reddit.com/r/amateurradio/comments/1v8fk2g/ham_radio_license_plates_in_the_us/)**
+by u/Knubinator
+
+**6. [QSO card query](https://www.reddit.com/r/amateurradio/comments/1v8jeu8/qso_card_query/)**
+by u/Infinite-Carry-9773
+
+**7. [Automatic DX Cluster Spotting for Voice Modes](https://www.reddit.com/r/amateurradio/comments/1v8eq18/automatic_dx_cluster_spotting_for_voice_modes/)**
+by u/gerald_artner
+
+**8. [2.5mm→3.5mm adapter giving flaky audio output into MT8870 module - bad adapter o...](https://www.reddit.com/r/amateurradio/comments/1v8tevm/25mm35mm_adapter_giving_flaky_audio_output_into/)**
+by u/stoficek814
+
+**9. [Can the Kenwood TH-D75 monitor APRS on the typical 144.39 MHz and another VHF fr...](https://www.reddit.com/r/amateurradio/comments/1v8qsur/can_the_kenwood_thd75_monitor_aprs_on_the_typical/)**
+by u/american_engineer
+
+**10. [New Beta / Looking for Feedback - Repeater elevation profile](https://www.reddit.com/r/amateurradio/comments/1v8pwym/new_beta_looking_for_feedback_repeater_elevation/)**
+by u/LukeHere
+
+**11. [Licensing in Austria](https://www.reddit.com/r/amateurradio/comments/1v8e9hv/licensing_in_austria/)**
+by u/the-lame-eloquence
+
+**12. [QSO half QTH half KiwiSDR? Cheating?](https://www.reddit.com/r/amateurradio/comments/1v7ujv6/qso_half_qth_half_kiwisdr_cheating/)**
 by u/SpiritualTadpole4269
 
-**4. [My first solo POTA Activation!](https://www.reddit.com/r/amateurradio/comments/1v77f34/my_first_solo_pota_activation/)**
-by u/Keeper4560
+**13. [Uniden Atlantis 155 Barrel size](https://www.reddit.com/r/amateurradio/comments/1v8b1yu/uniden_atlantis_155_barrel_size/)**
+by u/BeheryUsefull
 
-**5. [Update](https://www.reddit.com/r/amateurradio/comments/1v7hbie/update/)**
+**14. [Sun noise check at 11:17am EDT was a quick +10db confirmation that things are wo...](https://www.reddit.com/r/amateurradio/comments/1v83z6l/sun_noise_check_at_1117am_edt_was_a_quick_10db/)**
+by u/DeepSpace1420MHZ
+
+**15. [Wood to hold antenna](https://www.reddit.com/r/amateurradio/comments/1v8kr1w/wood_to_hold_antenna/)**
 by u/xdm21
-
-**6. [New Q code: QROca](https://www.reddit.com/r/amateurradio/comments/1v7omqd/new_q_code_qroca/)**
-by u/blue-moto
-
-**7. [10km LoRa link on stock antennas, unlicensed 915MHz ISM band — some real-world n...](https://www.reddit.com/r/amateurradio/comments/1v7rkki/10km_lora_link_on_stock_antennas_unlicensed/)**
-by u/benj_180
-
-**8. [CB or Amateur Radio in the Skoda Enyaq](https://www.reddit.com/r/amateurradio/comments/1v7zbjj/cb_or_amateur_radio_in_the_skoda_enyaq/)**
-by u/g8rxu
-
-**9. [MURS + GRMS Combo?](https://www.reddit.com/r/amateurradio/comments/1v7upid/murs_grms_combo/)**
-by u/xYGx
-
-**10. [Repeater courtesy tone?](https://www.reddit.com/r/amateurradio/comments/1v7fu6h/repeater_courtesy_tone/)**
-by u/Single-Mechanic3954
-
-**11. [Successful 8.8-meter (29-foot) end-fed wire operating on 27 MHz](https://www.reddit.com/r/amateurradio/comments/1v753u1/successful_88meter_29foot_endfed_wire_operating/)**
-by u/Flat_Exercise4177
-
-**12. [I have a 220 Repeater located in Lake City, Florida. Try it out when passing thr...](https://www.reddit.com/r/amateurradio/comments/1v78xtx/i_have_a_220_repeater_located_in_lake_city/)**
-by u/Mobile_Thanks6182
-
-**13. [Cylindrical Resonator](https://www.reddit.com/r/amateurradio/comments/1v7qy8z/cylindrical_resonator/)**
-by u/Automatic-Half3713
-
-**14. [Motorola programming software](https://www.reddit.com/r/amateurradio/comments/1v7qanu/motorola_programming_software/)**
-by u/Lz3YaRiEl
-
-**15. [LiFePO4 battery - low voltage but full?](https://www.reddit.com/r/amateurradio/comments/1v7i0u8/lifepo4_battery_low_voltage_but_full/)**
-by u/Legnovore
 
 ---
 
@@ -61,14 +61,14 @@ by u/Legnovore
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[QSO half QTH half KiwiSDR? Cheating?](https://www.reddit.com/r/amateurradio/comments/1v7ujv6/qso_half_qth_half_kiwisdr_cheating/)** (r/amateurradio)
-- **[My first solo POTA Activation!](https://www.reddit.com/r/amateurradio/comments/1v77f34/my_first_solo_pota_activation/)** (r/amateurradio)
-- **[Update](https://www.reddit.com/r/amateurradio/comments/1v7hbie/update/)** (r/amateurradio)
-- **[New Q code: QROca](https://www.reddit.com/r/amateurradio/comments/1v7omqd/new_q_code_qroca/)** (r/amateurradio)
-- **[10km LoRa link on stock antennas, unlicensed 915MHz ISM band — some re...](https://www.reddit.com/r/amateurradio/comments/1v7rkki/10km_lora_link_on_stock_antennas_unlicensed/)** (r/amateurradio)
-- **[CB or Amateur Radio in the Skoda Enyaq](https://www.reddit.com/r/amateurradio/comments/1v7zbjj/cb_or_amateur_radio_in_the_skoda_enyaq/)** (r/amateurradio)
-- **[MURS + GRMS Combo?](https://www.reddit.com/r/amateurradio/comments/1v7upid/murs_grms_combo/)** (r/amateurradio)
-- **[Repeater courtesy tone?](https://www.reddit.com/r/amateurradio/comments/1v7fu6h/repeater_courtesy_tone/)** (r/amateurradio)
+- **[I made an AFSK RTTY Encoder for the Sony PSP](https://www.reddit.com/r/amateurradio/comments/1v8qojc/i_made_an_afsk_rtty_encoder_for_the_sony_psp/)** (r/amateurradio)
+- **[Surge Protection](https://www.reddit.com/r/amateurradio/comments/1v8u131/surge_protection/)** (r/amateurradio)
+- **[Ham radio license plates (in the US)?](https://www.reddit.com/r/amateurradio/comments/1v8fk2g/ham_radio_license_plates_in_the_us/)** (r/amateurradio)
+- **[QSO card query](https://www.reddit.com/r/amateurradio/comments/1v8jeu8/qso_card_query/)** (r/amateurradio)
+- **[Automatic DX Cluster Spotting for Voice Modes](https://www.reddit.com/r/amateurradio/comments/1v8eq18/automatic_dx_cluster_spotting_for_voice_modes/)** (r/amateurradio)
+- **[2.5mm→3.5mm adapter giving flaky audio output into MT8870 module - bad...](https://www.reddit.com/r/amateurradio/comments/1v8tevm/25mm35mm_adapter_giving_flaky_audio_output_into/)** (r/amateurradio)
+- **[Can the Kenwood TH-D75 monitor APRS on the typical 144.39 MHz and anot...](https://www.reddit.com/r/amateurradio/comments/1v8qsur/can_the_kenwood_thd75_monitor_aprs_on_the_typical/)** (r/amateurradio)
+- **[New Beta / Looking for Feedback - Repeater elevation profile](https://www.reddit.com/r/amateurradio/comments/1v8pwym/new_beta_looking_for_feedback_repeater_elevation/)** (r/amateurradio)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T13:39:42.717886",
+  "updated": "2026-07-28T12:55:42.627780",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,74 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "I made an AFSK RTTY Encoder for the Sony PSP",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8qojc/i_made_an_afsk_rtty_encoder_for_the_sony_psp/",
+        "author": "/u/X3asYG"
+      },
+      {
+        "title": "Surge Protection",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8u131/surge_protection/",
+        "author": "/u/TheUnkown696"
+      },
+      {
+        "title": "Ham radio license plates (in the US)?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8fk2g/ham_radio_license_plates_in_the_us/",
+        "author": "/u/Knubinator"
+      },
+      {
+        "title": "QSO card query",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8jeu8/qso_card_query/",
+        "author": "/u/Infinite-Carry-9773"
+      },
+      {
+        "title": "Automatic DX Cluster Spotting for Voice Modes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8eq18/automatic_dx_cluster_spotting_for_voice_modes/",
+        "author": "/u/gerald_artner"
+      },
+      {
+        "title": "2.5mm\u21923.5mm adapter giving flaky audio output into MT8870 module - bad adapter or something else?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8tevm/25mm35mm_adapter_giving_flaky_audio_output_into/",
+        "author": "/u/stoficek814"
+      },
+      {
+        "title": "Can the Kenwood TH-D75 monitor APRS on the typical 144.39 MHz and another VHF frequency at the same time?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8qsur/can_the_kenwood_thd75_monitor_aprs_on_the_typical/",
+        "author": "/u/american_engineer"
+      },
+      {
+        "title": "New Beta / Looking for Feedback - Repeater elevation profile",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8pwym/new_beta_looking_for_feedback_repeater_elevation/",
+        "author": "/u/LukeHere"
+      },
+      {
+        "title": "Licensing in Austria",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8e9hv/licensing_in_austria/",
+        "author": "/u/the-lame-eloquence"
+      },
+      {
         "title": "QSO half QTH half KiwiSDR? Cheating?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1v7ujv6/qso_half_qth_half_kiwisdr_cheating/",
         "author": "/u/SpiritualTadpole4269"
       },
       {
-        "title": "My first solo POTA Activation!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v77f34/my_first_solo_pota_activation/",
-        "author": "/u/Keeper4560"
+        "title": "Uniden Atlantis 155 Barrel size",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8b1yu/uniden_atlantis_155_barrel_size/",
+        "author": "/u/BeheryUsefull"
+      },
+      {
+        "title": "Sun noise check at 11:17am EDT was a quick +10db confirmation that things are working good. This was not measured from coldest sky or calculating today\u2019s SFI. Just a quick remote log in to confirm sensitivity.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v83z6l/sun_noise_check_at_1117am_edt_was_a_quick_10db/",
+        "author": "/u/DeepSpace1420MHZ"
+      },
+      {
+        "title": "Wood to hold antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8kr1w/wood_to_hold_antenna/",
+        "author": "/u/xdm21"
+      },
+      {
+        "title": "New Q code: QROca",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v7omqd/new_q_code_qroca/",
+        "author": "/u/blue-moto"
       },
       {
         "title": "Update",
@@ -32,9 +92,29 @@
         "author": "/u/xdm21"
       },
       {
-        "title": "New Q code: QROca",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7omqd/new_q_code_qroca/",
-        "author": "/u/blue-moto"
+        "title": "My first solo POTA Activation!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v77f34/my_first_solo_pota_activation/",
+        "author": "/u/Keeper4560"
+      },
+      {
+        "title": "SDRTerm - a curses SDR receiver with plugin decoders",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v89s3n/sdrterm_a_curses_sdr_receiver_with_plugin_decoders/",
+        "author": "/u/Next-Asparagus-2559"
+      },
+      {
+        "title": "Qft8 app for ft8",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8tgwv/qft8_app_for_ft8/",
+        "author": "/u/Temporary-Meal8319"
+      },
+      {
+        "title": "Retevis H1 and the Elite Antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v88zko/retevis_h1_and_the_elite_antenna/",
+        "author": "/u/paspro"
+      },
+      {
+        "title": "ARRL Technicians Study Guide 6th Edition, e-book?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v82emy/arrl_technicians_study_guide_6th_edition_ebook/",
+        "author": "/u/apachevoyeur"
       },
       {
         "title": "10km LoRa link on stock antennas, unlicensed 915MHz ISM band \u2014 some real-world notes on ground-reflection loss vs. line-of-sight",
@@ -47,89 +127,9 @@
         "author": "/u/g8rxu"
       },
       {
-        "title": "MURS + GRMS Combo?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7upid/murs_grms_combo/",
-        "author": "/u/xYGx"
-      },
-      {
-        "title": "Repeater courtesy tone?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7fu6h/repeater_courtesy_tone/",
-        "author": "/u/Single-Mechanic3954"
-      },
-      {
-        "title": "Successful 8.8-meter (29-foot) end-fed wire operating on 27 MHz",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v753u1/successful_88meter_29foot_endfed_wire_operating/",
-        "author": "/u/Flat_Exercise4177"
-      },
-      {
-        "title": "I have a 220 Repeater located in Lake City, Florida. Try it out when passing through the area on I-75 and/or I10",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v78xtx/i_have_a_220_repeater_located_in_lake_city/",
-        "author": "/u/Mobile_Thanks6182"
-      },
-      {
-        "title": "Cylindrical Resonator",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7qy8z/cylindrical_resonator/",
-        "author": "/u/Automatic-Half3713"
-      },
-      {
-        "title": "Motorola programming software",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7qanu/motorola_programming_software/",
-        "author": "/u/Lz3YaRiEl"
-      },
-      {
-        "title": "LiFePO4 battery - low voltage but full?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7i0u8/lifepo4_battery_low_voltage_but_full/",
-        "author": "/u/Legnovore"
-      },
-      {
-        "title": "My first cristal radio - wird phenomenon",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7kcpg/my_first_cristal_radio_wird_phenomenon/",
-        "author": "/u/InformalCat7168"
-      },
-      {
-        "title": "Did a real world test today with my Retevis RT-95 mobile rig and a Kenwood TK-7180 LMR radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7cm49/did_a_real_world_test_today_with_my_retevis_rt95/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Family of KY student says deputy seized child\u2019s radios without warrant. They\u2019re suing",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v6gq9g/family_of_ky_student_says_deputy_seized_childs/",
-        "author": "/u/thejasonhowell"
-      },
-      {
-        "title": "Adapter help needed",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v74uic/adapter_help_needed/",
-        "author": "/u/Ok-Calendar-5728"
-      },
-      {
-        "title": "Balun Designs Review, model 49134e 49:1 EFHW",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7fvr6/balun_designs_review_model_49134e_491_efhw/",
-        "author": "/u/These-Math1384"
-      },
-      {
-        "title": "How can you figure out how much power someone is using to broadcast?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7cyy2/how_can_you_figure_out_how_much_power_someone_is/",
-        "author": "/u/magnificent_limit"
-      },
-      {
-        "title": "Echolink & Android Auto",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7b8pz/echolink_android_auto/",
-        "author": "/u/Sarcastic-Human"
-      },
-      {
-        "title": "The sun giveth and the sun taketh away",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v67tik/the_sun_giveth_and_the_sun_taketh_away/",
-        "author": "/u/fidepus"
-      },
-      {
-        "title": "Building the K6JCA Directional Coupler",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7gw13/building_the_k6jca_directional_coupler/",
-        "author": "/u/These-Math1384"
-      },
-      {
-        "title": "What recording mixer equipment is best for multiple radio hosts?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1v7sucd/what_recording_mixer_equipment_is_best_for/",
-        "author": "/u/EnablingMarvels"
+        "title": "Using Claude AI to determine signal loss in coax?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1v8l1pv/using_claude_ai_to_determine_signal_loss_in_coax/",
+        "author": "/u/get-off-my-frequency"
       }
     ]
   }

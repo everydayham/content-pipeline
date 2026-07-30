@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-29 13:01 UTC*
+*Last updated: 2026-07-30 12:46 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [tech exam passed!](https://www.reddit.com/r/amateurradio/comments/1v9kho1/tech_exam_passed/)**
-by u/tmaspen
+**3. [Give slow CW ops a break](https://www.reddit.com/r/amateurradio/comments/1vafwl8/give_slow_cw_ops_a_break/)**
+by u/YetAnotherHobby
 
-**4. [Why is 7.2 mhz so messed up](https://www.reddit.com/r/amateurradio/comments/1v9gnts/why_is_72_mhz_so_messed_up/)**
-by u/mustycups
+**4. [Passed my General today thanks to this community + Amateur Radio Watch update](https://www.reddit.com/r/amateurradio/comments/1va6ptx/passed_my_general_today_thanks_to_this_community/)**
+by u/DirtDiver37
 
-**5. [Made the mistake of taking my 7300 out for a POTA activation.](https://www.reddit.com/r/amateurradio/comments/1v97enm/made_the_mistake_of_taking_my_7300_out_for_a_pota/)**
-by u/KhyberPasshole
+**5. [Go get it, boys.](https://www.reddit.com/r/amateurradio/comments/1valctc/go_get_it_boys/)**
+by u/NotThePopeProbably
 
-**6. [I like FT8!](https://www.reddit.com/r/amateurradio/comments/1v9jnmt/i_like_ft8/)**
-by u/Competitive-Face-615
+**6. [Just finished my HAM corner of the man cave. Lots to do next](https://www.reddit.com/r/amateurradio/comments/1va07wi/just_finished_my_ham_corner_of_the_man_cave_lots/)**
+by u/Serbian_Hobbyist_95
 
-**7. [Yaesu FT5D programming is crap - so I fixed it](https://www.reddit.com/r/amateurradio/comments/1v9svhj/yaesu_ft5d_programming_is_crap_so_i_fixed_it/)**
-by u/AdminDogg
+**7. [Passed the General Exam!](https://www.reddit.com/r/amateurradio/comments/1v9z9up/passed_the_general_exam/)**
+by u/Bert_Maklin
 
-**8. [160 Meter POTA Activation for Western & SoWestern States 1.840 MHz FT8](https://www.reddit.com/r/amateurradio/comments/1v9h80y/160_meter_pota_activation_for_western_sowestern/)**
-by u/Bolt_EV
+**8. [First pota activation, can't be happier](https://www.reddit.com/r/amateurradio/comments/1v9vv2z/first_pota_activation_cant_be_happier/)**
+by u/rossog93
 
-**9. [It’s working! Sort of.](https://www.reddit.com/r/amateurradio/comments/1v913ym/its_working_sort_of/)**
-by u/CloudgazerTX
+**9. [Need pointers with these old motorola HTs](https://www.reddit.com/r/amateurradio/comments/1vaefh9/need_pointers_with_these_old_motorola_hts/)**
+by u/t81843
 
-**10. [Hey! I'm beginning the amateur radio hobby and have a few questions regarding th...](https://www.reddit.com/r/amateurradio/comments/1v9fbfh/hey_im_beginning_the_amateur_radio_hobby_and_have/)**
-by u/davidcventura
+**10. [Antenna Options?](https://www.reddit.com/r/amateurradio/comments/1vaajrm/antenna_options/)**
+by u/CodenameWalrus
 
-**11. [Does anyone have a photo of the palladium version of the magnetic Begali classic...](https://www.reddit.com/r/amateurradio/comments/1v9sh74/does_anyone_have_a_photo_of_the_palladium_version/)**
-by u/manos5246
+**11. [Good solder](https://www.reddit.com/r/amateurradio/comments/1vapop8/good_solder/)**
+by u/just-a-guy-somewhere
 
-**12. [Two Radtels RT-950 Pro radios work on PMR446 but not on 2m/70cm – can't hear or ...](https://www.reddit.com/r/amateurradio/comments/1v9s8kx/two_radtels_rt950_pro_radios_work_on_pmr446_but/)**
-by u/SandMan810
+**12. [Excellent Video about Standing Waves and Impedance Matching](https://www.reddit.com/r/amateurradio/comments/1vag18l/excellent_video_about_standing_waves_and/)**
+by u/HiOscillation
 
-**13. [Приобрел радио приемник](https://www.reddit.com/r/amateurradio/comments/1v9pkpo/приобрел_радио_приемник/)**
-by u/FromTheTime
+**13. [Icom ID-5200 Listed At $999.95, Shipping In September, 2026](https://www.reddit.com/r/amateurradio/comments/1va5bje/icom_id5200_listed_at_99995_shipping_in_september/)**
+by u/Hey19TheCuervoGold
 
-**14. [APRSMY Net](https://www.reddit.com/r/amateurradio/comments/1v9vhdo/aprsmy_net/)**
-by u/GarbageAdept2465
+**14. [Icom ID-5200A](https://www.reddit.com/r/amateurradio/comments/1va0nv7/icom_id5200a/)**
+by u/Financial_Advance_33
 
-**15. [My experience with Rigol DSA815 licensing](https://www.reddit.com/r/amateurradio/comments/1v9vetd/my_experience_with_rigol_dsa815_licensing/)**
-by u/CaptainSpez
+**15. [Help with QCX-mini](https://www.reddit.com/r/amateurradio/comments/1vaex9i/help_with_qcxmini/)**
+by u/arcane-Design
 
 ---
 
@@ -61,14 +61,14 @@ by u/CaptainSpez
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[tech exam passed!](https://www.reddit.com/r/amateurradio/comments/1v9kho1/tech_exam_passed/)** (r/amateurradio)
-- **[Why is 7.2 mhz so messed up](https://www.reddit.com/r/amateurradio/comments/1v9gnts/why_is_72_mhz_so_messed_up/)** (r/amateurradio)
-- **[Made the mistake of taking my 7300 out for a POTA activation.](https://www.reddit.com/r/amateurradio/comments/1v97enm/made_the_mistake_of_taking_my_7300_out_for_a_pota/)** (r/amateurradio)
-- **[I like FT8!](https://www.reddit.com/r/amateurradio/comments/1v9jnmt/i_like_ft8/)** (r/amateurradio)
-- **[Yaesu FT5D programming is crap - so I fixed it](https://www.reddit.com/r/amateurradio/comments/1v9svhj/yaesu_ft5d_programming_is_crap_so_i_fixed_it/)** (r/amateurradio)
-- **[160 Meter POTA Activation for Western & SoWestern States 1.840 MHz FT8](https://www.reddit.com/r/amateurradio/comments/1v9h80y/160_meter_pota_activation_for_western_sowestern/)** (r/amateurradio)
-- **[It’s working! Sort of.](https://www.reddit.com/r/amateurradio/comments/1v913ym/its_working_sort_of/)** (r/amateurradio)
-- **[Hey! I'm beginning the amateur radio hobby and have a few questions re...](https://www.reddit.com/r/amateurradio/comments/1v9fbfh/hey_im_beginning_the_amateur_radio_hobby_and_have/)** (r/amateurradio)
+- **[Give slow CW ops a break](https://www.reddit.com/r/amateurradio/comments/1vafwl8/give_slow_cw_ops_a_break/)** (r/amateurradio)
+- **[Passed my General today thanks to this community + Amateur Radio Watch...](https://www.reddit.com/r/amateurradio/comments/1va6ptx/passed_my_general_today_thanks_to_this_community/)** (r/amateurradio)
+- **[Go get it, boys.](https://www.reddit.com/r/amateurradio/comments/1valctc/go_get_it_boys/)** (r/amateurradio)
+- **[Just finished my HAM corner of the man cave. Lots to do next](https://www.reddit.com/r/amateurradio/comments/1va07wi/just_finished_my_ham_corner_of_the_man_cave_lots/)** (r/amateurradio)
+- **[Passed the General Exam!](https://www.reddit.com/r/amateurradio/comments/1v9z9up/passed_the_general_exam/)** (r/amateurradio)
+- **[First pota activation, can't be happier](https://www.reddit.com/r/amateurradio/comments/1v9vv2z/first_pota_activation_cant_be_happier/)** (r/amateurradio)
+- **[Need pointers with these old motorola HTs](https://www.reddit.com/r/amateurradio/comments/1vaefh9/need_pointers_with_these_old_motorola_hts/)** (r/amateurradio)
+- **[Antenna Options?](https://www.reddit.com/r/amateurradio/comments/1vaajrm/antenna_options/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-07-31 12:57 UTC*
+*Last updated: 2026-08-01 12:03 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Find of the day Vintage radio crystals FT-241-A set](https://www.reddit.com/r/amateurradio/comments/1vbiyy3/find_of_the_day_vintage_radio_crystals_ft241a_set/)**
-by u/taggat
+**3. [Holy F have you ever seen anything like thus? Recorded during a storm](https://www.reddit.com/r/amateurradio/comments/1vcfehv/holy_f_have_you_ever_seen_anything_like_thus/)**
+by u/Murgavideo
 
-**4. [General tomorrow, I think I'm ready](https://www.reddit.com/r/amateurradio/comments/1vb6cwq/general_tomorrow_i_think_im_ready/)**
-by u/Gigem1987
+**4. [30m FT8 into Europe tonite.](https://www.reddit.com/r/amateurradio/comments/1vc9763/30m_ft8_into_europe_tonite/)**
+by u/SwitchedOnNow
 
-**5. [Experienced HAMs - please advise. Feeling stuck. Kinda long winded post please s...](https://www.reddit.com/r/amateurradio/comments/1vbmrl2/experienced_hams_please_advise_feeling_stuck/)**
-by u/LostInLeSauce86
+**5. [Why is nobody responding to my cq’s???](https://www.reddit.com/r/amateurradio/comments/1vcdcef/why_is_nobody_responding_to_my_cqs/)**
+by u/Admirable_Drummer486
 
-**6. [What is this/is it worth anything](https://www.reddit.com/r/amateurradio/comments/1vbg893/what_is_thisis_it_worth_anything/)**
-by u/SandWeekly5333
+**6. [What could be causing such strong interference?](https://www.reddit.com/r/amateurradio/comments/1vcfyye/what_could_be_causing_such_strong_interference/)**
+by u/FLAK_b8
 
-**7. [ICOM IC-705](https://www.reddit.com/r/amateurradio/comments/1vbfsdv/icom_ic705/)**
-by u/2ndRandom8675309
+**7. [Does this look like it should work as a 1:1 one balun?](https://www.reddit.com/r/amateurradio/comments/1vcbaun/does_this_look_like_it_should_work_as_a_11_one/)**
+by u/FLAK_b8
 
-**8. [ICOM 706 MKIIG misaligned ribbon cable](https://www.reddit.com/r/amateurradio/comments/1vaw5zk/icom_706_mkiig_misaligned_ribbon_cable/)**
-by u/AlanCui4080
+**8. [Antenna mounting](https://www.reddit.com/r/amateurradio/comments/1vcg2zn/antenna_mounting/)**
+by u/Bearded_Tech
 
-**9. [Frustration with learning cw](https://www.reddit.com/r/amateurradio/comments/1vbeekz/frustration_with_learning_cw/)**
-by u/sheynasty30
+**9. [New LastHeard DV app](https://www.reddit.com/r/amateurradio/comments/1vcjwcj/new_lastheard_dv_app/)**
+by u/MostlyGordon
 
-**10. [Good morse speed objective *before* going on the air?](https://www.reddit.com/r/amateurradio/comments/1vb6zae/good_morse_speed_objective_before_going_on_the_air/)**
-by u/_sharpLimefox
+**10. [Great opportunity for US schools.](https://www.reddit.com/r/amateurradio/comments/1vc0g4l/great_opportunity_for_us_schools/)**
+by u/N4BFR
 
-**11. [Lahaina, Maui - Yaesu FT5D charger needed](https://www.reddit.com/r/amateurradio/comments/1vbm54j/lahaina_maui_yaesu_ft5d_charger_needed/)**
-by u/ickyshuffle42
+**11. [ICOM 5200 999.95](https://www.reddit.com/r/amateurradio/comments/1vc6z05/icom_5200_99995/)**
+by u/Hamradio70
 
-**12. [Give slow CW ops a break](https://www.reddit.com/r/amateurradio/comments/1vafwl8/give_slow_cw_ops_a_break/)**
-by u/YetAnotherHobby
+**12. [Do you need radio programming software?](https://www.reddit.com/r/amateurradio/comments/1vcd5ni/do_you_need_radio_programming_software/)**
+by u/MostlyGordon
 
-**13. [Go get it, boys.](https://www.reddit.com/r/amateurradio/comments/1valctc/go_get_it_boys/)**
-by u/NotThePopeProbably
+**13. [Diamond D130 antenna](https://www.reddit.com/r/amateurradio/comments/1vcgvkn/diamond_d130_antenna/)**
+by u/Disastrous-Car-1889
 
-**14. [Best beginner radios for a long road trip and birding?](https://www.reddit.com/r/amateurradio/comments/1vazzj1/best_beginner_radios_for_a_long_road_trip_and/)**
-by u/11maxwe11
+**14. [X2Griffon platform: About the build](https://www.reddit.com/r/amateurradio/comments/1vcceg4/x2griffon_platform_about_the_build/)**
+by u/Similar_Current5036
 
-**15. [ISO E.F. Johnson 9800/98xx programing info](https://www.reddit.com/r/amateurradio/comments/1vb62hl/iso_ef_johnson_980098xx_programing_info/)**
-by u/Frequent_Elephant307
+**15. [Technician Exam](https://www.reddit.com/r/amateurradio/comments/1vc1twd/technician_exam/)**
+by u/bdub7681
 
 ---
 
@@ -61,14 +61,14 @@ by u/Frequent_Elephant307
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Find of the day Vintage radio crystals FT-241-A set](https://www.reddit.com/r/amateurradio/comments/1vbiyy3/find_of_the_day_vintage_radio_crystals_ft241a_set/)** (r/amateurradio)
-- **[General tomorrow, I think I'm ready](https://www.reddit.com/r/amateurradio/comments/1vb6cwq/general_tomorrow_i_think_im_ready/)** (r/amateurradio)
-- **[Experienced HAMs - please advise. Feeling stuck. Kinda long winded pos...](https://www.reddit.com/r/amateurradio/comments/1vbmrl2/experienced_hams_please_advise_feeling_stuck/)** (r/amateurradio)
-- **[What is this/is it worth anything](https://www.reddit.com/r/amateurradio/comments/1vbg893/what_is_thisis_it_worth_anything/)** (r/amateurradio)
-- **[ICOM IC-705](https://www.reddit.com/r/amateurradio/comments/1vbfsdv/icom_ic705/)** (r/amateurradio)
-- **[ICOM 706 MKIIG misaligned ribbon cable](https://www.reddit.com/r/amateurradio/comments/1vaw5zk/icom_706_mkiig_misaligned_ribbon_cable/)** (r/amateurradio)
-- **[Frustration with learning cw](https://www.reddit.com/r/amateurradio/comments/1vbeekz/frustration_with_learning_cw/)** (r/amateurradio)
-- **[Good morse speed objective *before* going on the air?](https://www.reddit.com/r/amateurradio/comments/1vb6zae/good_morse_speed_objective_before_going_on_the_air/)** (r/amateurradio)
+- **[Holy F have you ever seen anything like thus? Recorded during a storm](https://www.reddit.com/r/amateurradio/comments/1vcfehv/holy_f_have_you_ever_seen_anything_like_thus/)** (r/amateurradio)
+- **[30m FT8 into Europe tonite.](https://www.reddit.com/r/amateurradio/comments/1vc9763/30m_ft8_into_europe_tonite/)** (r/amateurradio)
+- **[Why is nobody responding to my cq’s???](https://www.reddit.com/r/amateurradio/comments/1vcdcef/why_is_nobody_responding_to_my_cqs/)** (r/amateurradio)
+- **[What could be causing such strong interference?](https://www.reddit.com/r/amateurradio/comments/1vcfyye/what_could_be_causing_such_strong_interference/)** (r/amateurradio)
+- **[Does this look like it should work as a 1:1 one balun?](https://www.reddit.com/r/amateurradio/comments/1vcbaun/does_this_look_like_it_should_work_as_a_11_one/)** (r/amateurradio)
+- **[Antenna mounting](https://www.reddit.com/r/amateurradio/comments/1vcg2zn/antenna_mounting/)** (r/amateurradio)
+- **[New LastHeard DV app](https://www.reddit.com/r/amateurradio/comments/1vcjwcj/new_lastheard_dv_app/)** (r/amateurradio)
+- **[Great opportunity for US schools.](https://www.reddit.com/r/amateurradio/comments/1vc0g4l/great_opportunity_for_us_schools/)** (r/amateurradio)
 
 ---
 

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-27T14:13:22.532468",
+  "updated": "2026-08-03T14:19:56.562258",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "EminxfuKdnDf-T6wcTb_qXCJ1Rc",
+    "etag": "oo2pZNHgGlCwJVpjw_6OLtEjMvk",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,21 +33,150 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "234964",
-      "subscriberCount": "2190",
+      "viewCount": "238296",
+      "subscriberCount": "2220",
       "hiddenSubscriberCount": false,
-      "videoCount": "149"
+      "videoCount": "151"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "hFJuywtyGdBKU3K5aiBh6r4Tk7g",
+      "etag": "mjouu0N3eEAp4qTKW_MAANhV3CE",
+      "id": "L87ANHho5vQ",
+      "snippet": {
+        "publishedAt": "2026-07-28T12:15:22Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "\"I'm Now a Professional Amateur\" | Ham2K's KI2D",
+        "description": "Sebasti\u00e1n Delmont (KI2D) had been an independent developer for about two weeks when we sat down with him.\n\nIn the full episode he lays out the three-month plan he's given himself, demos the new desktop logger and syncs it to a phone over a QR code on camera, and names the next-generation app for the first time.\n\nWatch the full episode: https://youtu.be/JivWdc2BbIs\n\nHam2K Portable Logger: https://polo.ham2k.com/\n\nSupport the project: https://www.buymeacoffee.com/ham2k\n\nEveryday Ham: https://www.everydayham.com/\n\n#hamradio #amateurradio #POTA #Ham2K #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L87ANHho5vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L87ANHho5vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L87ANHho5vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L87ANHho5vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L87ANHho5vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"I'm Now a Professional Amateur\" | Ham2K's KI2D",
+          "description": "Sebasti\u00e1n Delmont (KI2D) had been an independent developer for about two weeks when we sat down with him.\n\nIn the full episode he lays out the three-month plan he's given himself, demos the new desktop logger and syncs it to a phone over a QR code on camera, and names the next-generation app for the first time.\n\nWatch the full episode: https://youtu.be/JivWdc2BbIs\n\nHam2K Portable Logger: https://polo.ham2k.com/\n\nSupport the project: https://www.buymeacoffee.com/ham2k\n\nEveryday Ham: https://www.everydayham.com/\n\n#hamradio #amateurradio #POTA #Ham2K #shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "172",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uRqe7YmpcpsmEcQ_QzMDCW0fSJE",
+      "id": "JivWdc2BbIs",
+      "snippet": {
+        "publishedAt": "2026-07-28T12:00:32Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+        "description": "Sebasti\u00e1n Delmont KI2D quit his job to work on Ham2K full time, and two weeks later he had the Portable Logger running on Windows, Mac and Linux.\n\nAll the links and ways to support the project: https://polo.ham2k.com/\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down with Sebasti\u00e1n Delmont (KI2D), the developer behind Ham2K Portable Logger, two weeks after he went independent. He lays out the three-month plan he has given himself, shows the new desktop version running live on a Windows laptop, syncs it to James's phone over a QR code on camera, and explains why he threw out the old code base and rewrote PoLo from scratch. He also names the next-generation app for the first time: HaLo, short for Ham2K Logger. Along the way: the pay-what-you-can business model, why open source is an insurance policy for your logs, CAT control plans, a Raspberry Pi style bridge for radio control over Wi-Fi, multi-operator logging for Field Day, a public API for anyone who wants to build on top of Ham2K, and a public beta targeted for mid-August.\n\nChapters:\n00:00 Sebasti\u00e1n KI2D goes full time\n02:13 Desktop means Windows, Mac and Linux\n03:37 The three-month plan and the revenue math\n06:42 Why free beat a $5 app\n07:46 Open source as an insurance policy\n09:06 Rewriting PoLo from scratch with agentic coding\n10:22 What the AI tooling actually cost\n11:26 Demo: the new logger running on Windows\n12:53 One code base, and a beta targeted for mid-August\n13:38 Live demo: QR-code sync to a phone\n15:04 CAT control, and running IARU HF from a phone\n15:46 The name: HaLo, short for Ham2K Logger\n16:17 Movable windows and layouts that adapt\n18:56 CAT control everywhere, plus a bridge device\n19:32 Easier log exports and one-tap activity setup\n22:47 GPS when you're logging on a laptop\n23:29 Will HaLo be a general logger?\n25:11 A dedicated hunting mode\n26:19 QRZ, Club Log, Wavelog and one-click uploads\n28:37 A public API and SDKs\n30:21 SO2R contesting and multi-op Field Day logging\n31:51 No roadmap, and 200 hours in two weeks\n34:39 How the community can help\n37:04 Testing the alpha on Windows and Linux\n\nLinks from this episode:\n- Ham2K Portable Logger (PoLo): https://polo.ham2k.com/\n- Ham2K Discord (early Windows and Linux builds live here): https://discord.gg/c4Th9QkByJ\n- Ham2K forums: https://forums.ham2k.com/\n- Support Sebasti\u00e1n on Buy Me a Coffee: https://www.buymeacoffee.com/ham2k\n- Ham2K on YouTube: https://www.youtube.com/@Ham2KApps\n- PoLo source code on GitHub: https://github.com/ham2k/app-polo\n- Parks on the Air (POTA): https://pota.app\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #amateurradio #Ham2K #hamradiologging #windows",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JivWdc2BbIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JivWdc2BbIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JivWdc2BbIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JivWdc2BbIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JivWdc2BbIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham2K",
+          "Ham2K PoLo",
+          "Ham2K Portable Logger",
+          "Ham2K HaLo",
+          "Sebastian Delmont KI2D",
+          "KI2D",
+          "POTA logging app",
+          "POTA logger",
+          "ham radio logging software",
+          "ham radio desktop logger",
+          "CAT control",
+          "amateur radio logger",
+          "open source ham radio",
+          "POTA",
+          "ham radio",
+          "amateur radio software",
+          "ham radio app",
+          "desktop edition",
+          "windows",
+          "Mac OS",
+          "Linux"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+          "description": "Sebasti\u00e1n Delmont KI2D quit his job to work on Ham2K full time, and two weeks later he had the Portable Logger running on Windows, Mac and Linux.\n\nAll the links and ways to support the project: https://polo.ham2k.com/\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down with Sebasti\u00e1n Delmont (KI2D), the developer behind Ham2K Portable Logger, two weeks after he went independent. He lays out the three-month plan he has given himself, shows the new desktop version running live on a Windows laptop, syncs it to James's phone over a QR code on camera, and explains why he threw out the old code base and rewrote PoLo from scratch. He also names the next-generation app for the first time: HaLo, short for Ham2K Logger. Along the way: the pay-what-you-can business model, why open source is an insurance policy for your logs, CAT control plans, a Raspberry Pi style bridge for radio control over Wi-Fi, multi-operator logging for Field Day, a public API for anyone who wants to build on top of Ham2K, and a public beta targeted for mid-August.\n\nChapters:\n00:00 Sebasti\u00e1n KI2D goes full time\n02:13 Desktop means Windows, Mac and Linux\n03:37 The three-month plan and the revenue math\n06:42 Why free beat a $5 app\n07:46 Open source as an insurance policy\n09:06 Rewriting PoLo from scratch with agentic coding\n10:22 What the AI tooling actually cost\n11:26 Demo: the new logger running on Windows\n12:53 One code base, and a beta targeted for mid-August\n13:38 Live demo: QR-code sync to a phone\n15:04 CAT control, and running IARU HF from a phone\n15:46 The name: HaLo, short for Ham2K Logger\n16:17 Movable windows and layouts that adapt\n18:56 CAT control everywhere, plus a bridge device\n19:32 Easier log exports and one-tap activity setup\n22:47 GPS when you're logging on a laptop\n23:29 Will HaLo be a general logger?\n25:11 A dedicated hunting mode\n26:19 QRZ, Club Log, Wavelog and one-click uploads\n28:37 A public API and SDKs\n30:21 SO2R contesting and multi-op Field Day logging\n31:51 No roadmap, and 200 hours in two weeks\n34:39 How the community can help\n37:04 Testing the alpha on Windows and Linux\n\nLinks from this episode:\n- Ham2K Portable Logger (PoLo): https://polo.ham2k.com/\n- Ham2K Discord (early Windows and Linux builds live here): https://discord.gg/c4Th9QkByJ\n- Ham2K forums: https://forums.ham2k.com/\n- Support Sebasti\u00e1n on Buy Me a Coffee: https://www.buymeacoffee.com/ham2k\n- Ham2K on YouTube: https://www.youtube.com/@Ham2KApps\n- PoLo source code on GitHub: https://github.com/ham2k/app-polo\n- Parks on the Air (POTA): https://pota.app\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #POTA #amateurradio #Ham2K #hamradiologging #windows"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1232",
+        "likeCount": "84",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "__32zRBLUG7j2vWGKGB9dLTPsvc",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
         "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "How Tornado Sirens Get Tested: Ham Radio's Monthly Siren Check",
+        "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
         "description": "Ever wonder how those tornado warning sirens actually get tested? On the first Saturday of every month, ham radio volunteers fan out across Oakland County, Michigan to check every siren, and this time Jim (N8JRD) brought a camera.\nWant to help test the sirens? Oakland County ARPSC: https://arpsc.com/sirennet.php\n\nIt's the 4th of July, but siren test day doesn't take a holiday. Jim rides along for Oakland County's monthly outdoor warning siren test: listening as net control runs check-ins over the radio, watching a siren spin up and sound off (Cash the poodle was not a fan), and then collecting reports from the volunteers stationed at each siren. Every tester confirms three things: the siren rotated smoothly, it sounded for the full three minutes, and it's physically undamaged and clear of obstructions. One siren this round didn't sound at all, which is exactly the point of testing. That one gets reported to the county for repair and a re-test.\n\nLearn more / get involved:\n- Oakland County ARPSC siren test net (how to volunteer): https://arpsc.com/sirennet.php\n- Oakland County Outdoor Warning Siren System: https://www.oakgov.com/community/emergency-management/need-to-know/alerts/outdoor-warning-siren-system\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #tornadosiren #amateurradio #emergencyprep #Michigan",
         "thumbnails": {
           "default": {
@@ -99,21 +228,21 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "How Tornado Sirens Get Tested: Ham Radio's Monthly Siren Check",
+          "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
           "description": "Ever wonder how those tornado warning sirens actually get tested? On the first Saturday of every month, ham radio volunteers fan out across Oakland County, Michigan to check every siren, and this time Jim (N8JRD) brought a camera.\nWant to help test the sirens? Oakland County ARPSC: https://arpsc.com/sirennet.php\n\nIt's the 4th of July, but siren test day doesn't take a holiday. Jim rides along for Oakland County's monthly outdoor warning siren test: listening as net control runs check-ins over the radio, watching a siren spin up and sound off (Cash the poodle was not a fan), and then collecting reports from the volunteers stationed at each siren. Every tester confirms three things: the siren rotated smoothly, it sounded for the full three minutes, and it's physically undamaged and clear of obstructions. One siren this round didn't sound at all, which is exactly the point of testing. That one gets reported to the county for repair and a re-test.\n\nLearn more / get involved:\n- Oakland County ARPSC siren test net (how to volunteer): https://arpsc.com/sirennet.php\n- Oakland County Outdoor Warning Siren System: https://www.oakgov.com/community/emergency-management/need-to-know/alerts/outdoor-warning-siren-system\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #tornadosiren #amateurradio #emergencyprep #Michigan"
         },
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "210",
-        "likeCount": "21",
+        "viewCount": "315",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kjznNhWpH0pqJ_wq3vPaNuR28jc",
+      "etag": "n_dZM_cCaaswG2Pwm21-b8OI5YQ",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -176,15 +305,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4679",
-        "likeCount": "165",
+        "viewCount": "4895",
+        "likeCount": "168",
         "favoriteCount": "0",
-        "commentCount": "50"
+        "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ocMp53eclErLzOveGQy0-GsbQpc",
+      "etag": "DI3T0Zw7ULcPV1MUOrcIJlG46ek",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -246,15 +375,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "407",
-        "likeCount": "23",
+        "viewCount": "458",
+        "likeCount": "25",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NVuSE1F_sRZs_jfpK750HZpfKm4",
+      "etag": "-SyjUs-M_yFJJ-OB2br72bkxCBA",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -318,15 +447,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "394",
-        "likeCount": "24",
+        "viewCount": "463",
+        "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "13oVMB9vxXdbkgKoXBRl_NxpUV0",
+      "etag": "HAD4AC2j8PMrmd8VP5eYxjxNMCU",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -389,7 +518,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "114",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -397,7 +526,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fpJdS8JVixeNW_nwmknT2JIBJGE",
+      "etag": "rcajDsOhNCV648JJzgNLNsbUv6k",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -459,7 +588,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "110",
+        "viewCount": "112",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -467,7 +596,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DIC7ZPycTuDUCaYeTOEmfdXrlN4",
+      "etag": "b3WoJ2n9S8ytLNK0-k7VHvJfJJQ",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -531,7 +660,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "263",
+        "viewCount": "268",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -539,7 +668,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1aq-yuvdxWHw0OSyAFNNAxwwrAg",
+      "etag": "Q9kmBAIWFxV_d_kpqLgqxK2X7Zg",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -603,7 +732,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "312",
+        "viewCount": "320",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -611,7 +740,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sGsMlqpqZcVv5EPP0vWT6eUdZ-w",
+      "etag": "bHEh5uOC2RnLU33YqDl-u0yj5M4",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -678,7 +807,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "892",
+        "viewCount": "906",
         "likeCount": "57",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -686,7 +815,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ECRPbY1e2NyLnPsh8cUqImicVpM",
+      "etag": "SioSAeML3CtiYbzyk9tlKqtx_2I",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -750,7 +879,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "888",
+        "viewCount": "903",
         "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -758,7 +887,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5GcwuJyxmKcurLppzIHQG5tS9yU",
+      "etag": "8BVmRps8MAfmPLGvzHOBIYk_9b8",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -822,7 +951,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "326",
+        "viewCount": "333",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -830,7 +959,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "C6ROkPefk0Dt0xm0b8M5Rjd5M44",
+      "etag": "qrJxW8BpLNpHheFIGTb7iuXWIgw",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -893,7 +1022,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "420",
+        "viewCount": "429",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -901,7 +1030,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZEUOpnUhR50_MbSxb3LrJ8KPUFk",
+      "etag": "3IEJg3sZ2jiuyyKV3B7TMHI8cdk",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -965,15 +1094,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "941",
-        "likeCount": "39",
+        "viewCount": "971",
+        "likeCount": "40",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "LvqLNdQEUZ0NmAJGr2sOrPxSXqE",
+      "etag": "GZGIGwiPPcBQ6mfrdfvAKIUxoO8",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -1036,7 +1165,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "527",
+        "viewCount": "535",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1044,7 +1173,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rEC_RLrwIcugO3qpHiF3PZ1vTr0",
+      "etag": "WDFC5rXCeAGfOtJsD4H3arS3B6A",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -1107,7 +1236,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "318",
+        "viewCount": "324",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1115,7 +1244,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dvxkjnKsfJ8E-J4qVYEp1-YNojI",
+      "etag": "eOSoca4mSqxR1an1sLdQgLl9wYs",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -1179,7 +1308,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "624",
+        "viewCount": "628",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1187,7 +1316,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RcQElh4rwHrjw1-jz8VfCf9ggnE",
+      "etag": "suEKEgMi-6rZO0uUyBpYMkG7abM",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -1251,7 +1380,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3370",
+        "viewCount": "3382",
         "likeCount": "90",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -1259,7 +1388,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9wswcjVWlEdiMZzvOR7c0n9rv8A",
+      "etag": "-v0PmqBgb9DNzlY1pjl4QDduRCY",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -1322,15 +1451,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "474",
-        "likeCount": "21",
+        "viewCount": "505",
+        "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ab3Y416C4n3iiIeflyH75RrnbXY",
+      "etag": "GkT35j1OrgfPHqU6dv59pcFhD9I",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -1394,15 +1523,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8548",
-        "likeCount": "185",
+        "viewCount": "8679",
+        "likeCount": "190",
         "favoriteCount": "0",
-        "commentCount": "55"
+        "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "krgcGTH2tctNF88GDnI0OnedRlg",
+      "etag": "GJv7Gi-ENJHX7cNM_i-DBY_in_s",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -1466,7 +1595,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1776",
+        "viewCount": "1805",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1474,7 +1603,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iNNPdv3FlKXbPFskuh42NTPhjgo",
+      "etag": "T3bIXNBm-z16OWM69wGt6lsTO1g",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -1538,15 +1667,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9986",
-        "likeCount": "185",
+        "viewCount": "10332",
+        "likeCount": "188",
         "favoriteCount": "0",
-        "commentCount": "51"
+        "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "oifLgddYL3Uce0qo2t397V8h2KU",
+      "etag": "RP-FlX090kIq59JEytxZTt7YKc0",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -1610,15 +1739,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9048",
-        "likeCount": "234",
+        "viewCount": "9296",
+        "likeCount": "236",
         "favoriteCount": "0",
         "commentCount": "53"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bAhihQqBh5oW5Y5hbKisyf4qE4U",
+      "etag": "ZoiZDmViQrKER2ZYCA_L2fvLYag",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -1682,15 +1811,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4451",
-        "likeCount": "134",
+        "viewCount": "4485",
+        "likeCount": "135",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m18MkB4aZdnlTgv8q2Qwv9E51Tc",
+      "etag": "KmiP_9HUpdD-esFyNkftrD3vH7E",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -1751,7 +1880,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "853",
+        "viewCount": "870",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1759,7 +1888,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "m26mGMO8t0PpplNxk1BLovY3f9g",
+      "etag": "HxC4lvPX_mckadfWb9-RtJpIDL4",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -1822,7 +1951,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1656",
+        "viewCount": "1657",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1830,7 +1959,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wQ2AY8X-mCDjCMd4JIhiyNzyPeM",
+      "etag": "xTPWpSC-j6H6wHby_YxULO6Sdjk",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -1891,7 +2020,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1376",
+        "viewCount": "1384",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1899,7 +2028,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "K8u1Mh1CB6MoiFk5zANVQqOMsVk",
+      "etag": "1oViiPpKgN_PmzLn4FP1vkr9WOI",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -1962,7 +2091,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "910",
+        "viewCount": "914",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1970,7 +2099,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w6kUbGSnDK0CEzRmU8KJmHBvagQ",
+      "etag": "jw-t36Rr-GQ2XMuACYZhgkh2B-8",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -2036,7 +2165,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "354",
+        "viewCount": "355",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2241,7 +2370,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Nm8bl9cmiXQYQI4peVEu9cgHbvE",
+      "etag": "C3Hj5UFgpjArvFLneF3NXR3cpeQ",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -2303,15 +2432,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1704",
-        "likeCount": "63",
+        "viewCount": "1738",
+        "likeCount": "66",
         "favoriteCount": "0",
         "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OP9TzXpzNQDMQaZAojhlOa1D5j0",
+      "etag": "Dq6owisusEC4UssFq-GQAf7rDBY",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -2374,7 +2503,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "496",
+        "viewCount": "506",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2382,7 +2511,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dZ4Q8AoASywjR2UvcPbNxq7MCjU",
+      "etag": "xARV8jd8kPnKqSCk3ZNkpwuU6XA",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -2445,7 +2574,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "965",
+        "viewCount": "972",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2596,7 +2725,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NfN3yZnVo9BPOOe_zPJB0QBhxpA",
+      "etag": "k9odM2jL1GPCYlYH6LQors-nki0",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -2658,7 +2787,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "600",
+        "viewCount": "601",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2666,7 +2795,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WKWZtABTYzCrmUW5FXTvYOXZD_U",
+      "etag": "3L5gHDwNF9Et9FtHZ0LC8ykSyfI",
       "id": "Koz7XST0tKw",
       "snippet": {
         "publishedAt": "2026-03-05T15:31:48Z",
@@ -2729,7 +2858,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "182",
+        "viewCount": "183",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2737,7 +2866,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4cn7qdkUwzl4xc4wDKzpJ8hb5hQ",
+      "etag": "grDYiJfWDFmd66ednj0AIhuFJUA",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -2802,7 +2931,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1709",
+        "viewCount": "1720",
         "likeCount": "72",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2810,7 +2939,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Fe1ej1HaKNXPyLmm_Pp-qbFQ8o0",
+      "etag": "Oq4i0oJ8a89AQK4fHZZD0oCO5v0",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -2873,15 +3002,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "604",
-        "likeCount": "27",
+        "viewCount": "617",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EMV8Ssn9HLYIKCvdhI34W7AIL64",
+      "etag": "EXEJ4RrcvBx0nYuRaMg_FFxcaJA",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -2944,15 +3073,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5455",
-        "likeCount": "185",
+        "viewCount": "5490",
+        "likeCount": "186",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fkJOU3icIO1gAg7j3VWg_Qx4RFQ",
+      "etag": "L4KnWlO_8w-OJltUqgTkZDJbP-A",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -3014,7 +3143,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "368",
+        "viewCount": "371",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3022,7 +3151,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RQXhCu2AMTAZRblwAW_jB9I_0d0",
+      "etag": "Adsw-IvV3FNNNZ_xFfnwoe1KGRI",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -3075,7 +3204,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1178",
+        "viewCount": "1179",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3136,7 +3265,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jpg3DOp6Hv3iYgscvDH5iSsGXB8",
+      "etag": "-hJGx3QmoUSJevy8_Bk7b0XHqJI",
       "id": "BGiDdHdL7-s",
       "snippet": {
         "publishedAt": "2026-02-14T00:59:14Z",
@@ -3200,15 +3329,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2403",
-        "likeCount": "54",
+        "viewCount": "2433",
+        "likeCount": "55",
         "favoriteCount": "0",
-        "commentCount": "7"
+        "commentCount": "8"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7qeIbJfsQcecA2zzbfyy395gOO8",
+      "etag": "zv3vRKl1nVDeY503QJXtm7cbIjg",
       "id": "d_2-kWWuiaY",
       "snippet": {
         "publishedAt": "2026-02-14T00:53:21Z",
@@ -3271,15 +3400,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2952",
-        "likeCount": "103",
+        "viewCount": "2980",
+        "likeCount": "105",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1eFtQQuwzQbh6rudzlgXo6Akz40",
+      "etag": "DLHfALQOYx_0LPN8D03zkolD9mw",
       "id": "1EumigRB1Vg",
       "snippet": {
         "publishedAt": "2026-02-14T00:47:01Z",
@@ -3341,7 +3470,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "376",
+        "viewCount": "385",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3416,131 +3545,6 @@
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "koUSaBjmJNPTMuAheaSuf1hIslY",
-      "id": "ZScvDM3YLWY",
-      "snippet": {
-        "publishedAt": "2026-02-05T16:36:24Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-        "description": "This month Rory, James and Jim take a critical look at past shack purchases as we head into the sale and buying season with Hamvention, Hamcation and more!   Join us for a lighthearted discussion about the things we've learned about our gear purchases, and perhaps some of our regrets!\n\n#hamradio #yaesu #ftdx101mp #newgear #amateurradio #hamcation #hamvention #podcast #radiocommunication #geartalk #money",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZScvDM3YLWY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-          "description": "This month Rory, James and Jim take a critical look at past shack purchases as we head into the sale and buying season with Hamvention, Hamcation and more!   Join us for a lighthearted discussion about the things we've learned about our gear purchases, and perhaps some of our regrets!\n\n#hamradio #yaesu #ftdx101mp #newgear #amateurradio #hamcation #hamvention #podcast #radiocommunication #geartalk #money"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "617",
-        "likeCount": "8",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mjDrt46pRA1392yOqUTX6cgu5qM",
-      "id": "OhsGTEIVIE8",
-      "snippet": {
-        "publishedAt": "2026-02-05T15:02:11Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-        "description": "Do you really need that new radio? In Episode 14 of the Everyday Ham Podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio equipment \u2014 and what they\u2019ve learned from their own buying mistakes.\n\nWe start with a moment of remembrance for Elwood Downey, creator of the beloved HamClock, and share what his work meant to the amateur radio community.\n\n\ud83d\udcfb What\u2019s in this episode:\n0:00 Remembering HamClock creator Elwood Downey\n3:40 Around the shack \u2014 CW practice updates and the Hamgeek CW Morse Pokemon HamCube Pro trainer review\n7:33 James tries hotel radio from Germany with a QRP rig and an end-fed out the window\n9:26 Winter Field Day recap and shout-outs\n11:07 The big topic \u2014 When was the last time you felt pressure to upgrade a radio?\n18:41 Why antenna upgrades beat radio upgrades every time\n20:47 Jim\u2019s honest $10K shack confession \u2014 what he\u2019d do differently\n23:43 Taking advantage of band openings with any station\n27:37 Embrace the journey \u2014 there\u2019s no wrong way to ham\n31:08 Hamcation and Hamvention buying season advice\n33:29 Rory\u2019s BuddiHEX plans \u2014 next great antenna or next regrettable purchase?\n44:25 Backpacking gear, adapters, and hamfest bargain hunting\n46:33 Hamcation Orlando 2026 preview \u2014 come say hello!\n\n\ud83d\udd17 Links & Resources:\nHamgeek CW Morse Pokemon HamCube Pro: https://www.hamgeek.com\nLong Island CW Club: https://longislandcwclub.org\nBuddiPole / BuddiHEX: https://www.buddipole.com/buddihex2.html\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Don\u2019t miss an episode!\nFollow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel. Hit LIKE if you enjoyed this episode!\n\n\ud83d\udcac Tell us in the comments \u2014 what\u2019s the best and worst ham radio purchase you\u2019ve ever made?\n\n\ud83c\udf99 Follow Everyday Ham:\n\u2022 YouTube: @EverydayHam\n\u2022 Instagram: @EverydayHamPodcast\n\u2022 Website: https://www.everydayham.com\n\u2022 Discord: https://www.everydayham.com\n\nHosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) from the South Lyon Area Amateur Radio Club (SLAARC, W8EDH).\n\n#hamradio  #AmateurRadio #EverydayHam #POTA #HamRadioGear #CW #MorseCode #BuddiHEX #Yaesu #FT891 #Hamcation #Hamvention #HamClock #RadioUpgrade #AntennaFirst #QRP #HamRadioPodcast",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OhsGTEIVIE8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "ham radio upgrade",
-          "ham radio gear",
-          "Everyday Ham Podcast",
-          "POTA",
-          "CW morse code",
-          "BuddiHEX",
-          "Yaesu FT-891",
-          "ham radio tips",
-          "Hamcation 2026",
-          "ham radio buying advice",
-          "HamClock Elwood Downey",
-          "antenna vs radio",
-          "ham radio podcast",
-          "QRP radio",
-          "hamfest deals"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-          "description": "Do you really need that new radio? In Episode 14 of the Everyday Ham Podcast, James (K8JKU), Jim (N8JRD), and Rory (W8KNX) get honest about the pressure to upgrade ham radio equipment \u2014 and what they\u2019ve learned from their own buying mistakes.\n\nWe start with a moment of remembrance for Elwood Downey, creator of the beloved HamClock, and share what his work meant to the amateur radio community.\n\n\ud83d\udcfb What\u2019s in this episode:\n0:00 Remembering HamClock creator Elwood Downey\n3:40 Around the shack \u2014 CW practice updates and the Hamgeek CW Morse Pokemon HamCube Pro trainer review\n7:33 James tries hotel radio from Germany with a QRP rig and an end-fed out the window\n9:26 Winter Field Day recap and shout-outs\n11:07 The big topic \u2014 When was the last time you felt pressure to upgrade a radio?\n18:41 Why antenna upgrades beat radio upgrades every time\n20:47 Jim\u2019s honest $10K shack confession \u2014 what he\u2019d do differently\n23:43 Taking advantage of band openings with any station\n27:37 Embrace the journey \u2014 there\u2019s no wrong way to ham\n31:08 Hamcation and Hamvention buying season advice\n33:29 Rory\u2019s BuddiHEX plans \u2014 next great antenna or next regrettable purchase?\n44:25 Backpacking gear, adapters, and hamfest bargain hunting\n46:33 Hamcation Orlando 2026 preview \u2014 come say hello!\n\n\ud83d\udd17 Links & Resources:\nHamgeek CW Morse Pokemon HamCube Pro: https://www.hamgeek.com\nLong Island CW Club: https://longislandcwclub.org\nBuddiPole / BuddiHEX: https://www.buddipole.com/buddihex2.html\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\n\ud83d\udd17 All links: https://www.everydayham.com\n\n\ud83d\udce2 Don\u2019t miss an episode!\nFollow the Everyday Ham Podcast on your favorite podcast platform and subscribe to our YouTube channel. Hit LIKE if you enjoyed this episode!\n\n\ud83d\udcac Tell us in the comments \u2014 what\u2019s the best and worst ham radio purchase you\u2019ve ever made?\n\n\ud83c\udf99 Follow Everyday Ham:\n\u2022 YouTube: @EverydayHam\n\u2022 Instagram: @EverydayHamPodcast\n\u2022 Website: https://www.everydayham.com\n\u2022 Discord: https://www.everydayham.com\n\nHosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) from the South Lyon Area Amateur Radio Club (SLAARC, W8EDH).\n\n#hamradio  #AmateurRadio #EverydayHam #POTA #HamRadioGear #CW #MorseCode #BuddiHEX #Yaesu #FT891 #Hamcation #Hamvention #HamClock #RadioUpgrade #AntennaFirst #QRP #HamRadioPodcast"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "598",
-        "likeCount": "36",
-        "favoriteCount": "0",
-        "commentCount": "14"
       }
     }
   ]

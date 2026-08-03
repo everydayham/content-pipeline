@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-02 12:04 UTC*
+*Last updated: 2026-08-03 13:41 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [My new hamstick seems to work](https://www.reddit.com/r/amateurradio/comments/1vd30zk/my_new_hamstick_seems_to_work/)**
-by u/CaptainSpez
+**3. [Strange frequency on FRS/GMRS](https://www.reddit.com/r/amateurradio/comments/1ve6o66/strange_frequency_on_frsgmrs/)**
+by u/Pineappleman123456
 
-**4. [Holy F have you ever seen anything like thus? Recorded during a storm](https://www.reddit.com/r/amateurradio/comments/1vcfehv/holy_f_have_you_ever_seen_anything_like_thus/)**
-by u/Murgavideo
+**4. [Frog](https://www.reddit.com/r/amateurradio/comments/1ve9aue/frog/)**
+by u/Admirable_Drummer486
 
-**5. [UK Foundation exam, question on joining a net](https://www.reddit.com/r/amateurradio/comments/1vdefsb/uk_foundation_exam_question_on_joining_a_net/)**
-by u/r0bbbo
+**5. [Any wire antennas that have good low angle gain but also good gain overhead for ...](https://www.reddit.com/r/amateurradio/comments/1veds0s/any_wire_antennas_that_have_good_low_angle_gain/)**
+by u/thesoulless78
 
-**6. [Got this beaut for $65](https://www.reddit.com/r/amateurradio/comments/1vcwb0x/got_this_beaut_for_65/)**
-by u/TheMorganDev
+**6. [Another Kenwood Hybrid Repaired](https://www.reddit.com/r/amateurradio/comments/1vduor8/another_kenwood_hybrid_repaired/)**
+by u/kd5pda
 
-**7. [QRPGuys has shut down](https://www.reddit.com/r/amateurradio/comments/1vcqalf/qrpguys_has_shut_down/)**
-by u/CSpilot
+**7. [Left handed operators: how to use HT?](https://www.reddit.com/r/amateurradio/comments/1ve6mzj/left_handed_operators_how_to_use_ht/)**
+by u/RadioGuyXD
 
-**8. [Should I throw away this old microwave dish?](https://www.reddit.com/r/amateurradio/comments/1vdemre/should_i_throw_away_this_old_microwave_dish/)**
-by u/moefinley
+**8. [NTS PenPal](https://www.reddit.com/r/amateurradio/comments/1vdzta5/nts_penpal/)**
+by u/JoesCorsage
 
-**9. [New to this: what did everyone find most difficult to learn?](https://www.reddit.com/r/amateurradio/comments/1vd75xj/new_to_this_what_did_everyone_find_most_difficult/)**
-by u/unwanted_crisis
+**9. [...I didn't realize a gutter could do this. I think it's pulled me back in.](https://www.reddit.com/r/amateurradio/comments/1vdnozu/i_didnt_realize_a_gutter_could_do_this_i_think/)**
+by u/XediDC
 
-**10. [XLX Reflector Dashboard Design](https://www.reddit.com/r/amateurradio/comments/1vd7vb6/xlx_reflector_dashboard_design/)**
-by u/Brentc1717
+**10. [Where to get Bandpass Filters?](https://www.reddit.com/r/amateurradio/comments/1vdn0ly/where_to_get_bandpass_filters/)**
+by u/Hic_Mos_Noster
 
-**11. [Using 18650s vs. AAs on (tr)uSDX](https://www.reddit.com/r/amateurradio/comments/1vdfqj8/using_18650s_vs_aas_on_trusdx/)**
-by u/aeioujohnmaddenaeiou
+**11. [LIGHTNING - and getting it to ground?](https://www.reddit.com/r/amateurradio/comments/1vdz3pt/lightning_and_getting_it_to_ground/)**
+by u/mrsir79
 
-**12. [Is my SDS100 still worth anything?](https://www.reddit.com/r/amateurradio/comments/1vdf98a/is_my_sds100_still_worth_anything/)**
-by u/Curiouhoss
+**12. [Hand-held signal generator plans needed](https://www.reddit.com/r/amateurradio/comments/1vdxzcb/handheld_signal_generator_plans_needed/)**
+by u/iLikeIke1956
 
-**13. [Found a bunch of scrap aluminium, I am thinking of homebrewing a Yagi-uda](https://www.reddit.com/r/amateurradio/comments/1vd3sgl/found_a_bunch_of_scrap_aluminium_i_am_thinking_of/)**
-by u/kcsebby
+**13. [z3dmr app](https://www.reddit.com/r/amateurradio/comments/1ve60pi/z3dmr_app/)**
+by u/Tris_Memba
 
-**14. [Update: I added CW mode and a manual CW keyer to the Sony PSP Ham Project](https://www.reddit.com/r/amateurradio/comments/1vcprif/update_i_added_cw_mode_and_a_manual_cw_keyer_to/)**
-by u/X3asYG
+**14. [Moses code still required to enter hobby in the voice mode?](https://www.reddit.com/r/amateurradio/comments/1ve8wn2/moses_code_still_required_to_enter_hobby_in_the/)**
+by u/NolanRoad
 
-**15. [Lightning protection suggestions?](https://www.reddit.com/r/amateurradio/comments/1vczybs/lightning_protection_suggestions/)**
-by u/sf_sf_sf
+**15. [disruptive groans (?) on HF bands](https://www.reddit.com/r/amateurradio/comments/1vdly01/disruptive_groans_on_hf_bands/)**
+by u/CORPRAUST
 
 ---
 
@@ -59,16 +59,16 @@ by u/sf_sf_sf
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1v7zqcp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[My new hamstick seems to work](https://www.reddit.com/r/amateurradio/comments/1vd30zk/my_new_hamstick_seems_to_work/)** (r/amateurradio)
-- **[Holy F have you ever seen anything like thus? Recorded during a storm](https://www.reddit.com/r/amateurradio/comments/1vcfehv/holy_f_have_you_ever_seen_anything_like_thus/)** (r/amateurradio)
-- **[UK Foundation exam, question on joining a net](https://www.reddit.com/r/amateurradio/comments/1vdefsb/uk_foundation_exam_question_on_joining_a_net/)** (r/amateurradio)
-- **[Got this beaut for $65](https://www.reddit.com/r/amateurradio/comments/1vcwb0x/got_this_beaut_for_65/)** (r/amateurradio)
-- **[QRPGuys has shut down](https://www.reddit.com/r/amateurradio/comments/1vcqalf/qrpguys_has_shut_down/)** (r/amateurradio)
-- **[Should I throw away this old microwave dish?](https://www.reddit.com/r/amateurradio/comments/1vdemre/should_i_throw_away_this_old_microwave_dish/)** (r/amateurradio)
-- **[New to this: what did everyone find most difficult to learn?](https://www.reddit.com/r/amateurradio/comments/1vd75xj/new_to_this_what_did_everyone_find_most_difficult/)** (r/amateurradio)
-- **[XLX Reflector Dashboard Design](https://www.reddit.com/r/amateurradio/comments/1vd7vb6/xlx_reflector_dashboard_design/)** (r/amateurradio)
+- **[Strange frequency on FRS/GMRS](https://www.reddit.com/r/amateurradio/comments/1ve6o66/strange_frequency_on_frsgmrs/)** (r/amateurradio)
+- **[Frog](https://www.reddit.com/r/amateurradio/comments/1ve9aue/frog/)** (r/amateurradio)
+- **[Any wire antennas that have good low angle gain but also good gain ove...](https://www.reddit.com/r/amateurradio/comments/1veds0s/any_wire_antennas_that_have_good_low_angle_gain/)** (r/amateurradio)
+- **[Another Kenwood Hybrid Repaired](https://www.reddit.com/r/amateurradio/comments/1vduor8/another_kenwood_hybrid_repaired/)** (r/amateurradio)
+- **[Left handed operators: how to use HT?](https://www.reddit.com/r/amateurradio/comments/1ve6mzj/left_handed_operators_how_to_use_ht/)** (r/amateurradio)
+- **[NTS PenPal](https://www.reddit.com/r/amateurradio/comments/1vdzta5/nts_penpal/)** (r/amateurradio)
+- **[...I didn't realize a gutter could do this. I think it's pulled me bac...](https://www.reddit.com/r/amateurradio/comments/1vdnozu/i_didnt_realize_a_gutter_could_do_this_i_think/)** (r/amateurradio)
+- **[Where to get Bandpass Filters?](https://www.reddit.com/r/amateurradio/comments/1vdn0ly/where_to_get_bandpass_filters/)** (r/amateurradio)
 
 ---
 

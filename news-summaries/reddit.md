@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-03 13:41 UTC*
+*Last updated: 2026-08-04 13:04 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Strange frequency on FRS/GMRS](https://www.reddit.com/r/amateurradio/comments/1ve6o66/strange_frequency_on_frsgmrs/)**
-by u/Pineappleman123456
+**3. [This is why we make checklists!](https://www.reddit.com/r/amateurradio/comments/1veucgg/this_is_why_we_make_checklists/)**
+by u/filkerdave
 
-**4. [Frog](https://www.reddit.com/r/amateurradio/comments/1ve9aue/frog/)**
-by u/Admirable_Drummer486
+**4. [146.520 - you had to be there.](https://www.reddit.com/r/amateurradio/comments/1veqt33/146520_you_had_to_be_there/)**
+by u/NE5B
 
-**5. [Any wire antennas that have good low angle gain but also good gain overhead for ...](https://www.reddit.com/r/amateurradio/comments/1veds0s/any_wire_antennas_that_have_good_low_angle_gain/)**
-by u/thesoulless78
+**5. [SWR Magazine](https://www.reddit.com/r/amateurradio/comments/1vf9fmi/swr_magazine/)**
+by u/MaxOverdrive6969
 
-**6. [Another Kenwood Hybrid Repaired](https://www.reddit.com/r/amateurradio/comments/1vduor8/another_kenwood_hybrid_repaired/)**
-by u/kd5pda
+**6. [Walkie Talkie for US road trip consisting of 2 cars](https://www.reddit.com/r/amateurradio/comments/1vf9qd2/walkie_talkie_for_us_road_trip_consisting_of_2/)**
+by u/BlueSparkzz
 
-**7. [Left handed operators: how to use HT?](https://www.reddit.com/r/amateurradio/comments/1ve6mzj/left_handed_operators_how_to_use_ht/)**
-by u/RadioGuyXD
+**7. [Is this a place where I can ask about this?](https://www.reddit.com/r/amateurradio/comments/1veotqh/is_this_a_place_where_i_can_ask_about_this/)**
+by u/Matrix010
 
-**8. [NTS PenPal](https://www.reddit.com/r/amateurradio/comments/1vdzta5/nts_penpal/)**
-by u/JoesCorsage
+**8. [Operating on/near Native American reservations?](https://www.reddit.com/r/amateurradio/comments/1vejf57/operating_onnear_native_american_reservations/)**
+by u/radakul
 
-**9. [...I didn't realize a gutter could do this. I think it's pulled me back in.](https://www.reddit.com/r/amateurradio/comments/1vdnozu/i_didnt_realize_a_gutter_could_do_this_i_think/)**
-by u/XediDC
+**9. [Do I have a brass or copper key…?](https://www.reddit.com/r/amateurradio/comments/1vewy7i/do_i_have_a_brass_or_copper_key/)**
+by u/greymallard
 
-**10. [Where to get Bandpass Filters?](https://www.reddit.com/r/amateurradio/comments/1vdn0ly/where_to_get_bandpass_filters/)**
-by u/Hic_Mos_Noster
+**10. [motorola cp1660 software](https://www.reddit.com/r/amateurradio/comments/1vf7qlm/motorola_cp1660_software/)**
+by u/Kristianph-kamukhako
 
-**11. [LIGHTNING - and getting it to ground?](https://www.reddit.com/r/amateurradio/comments/1vdz3pt/lightning_and_getting_it_to_ground/)**
-by u/mrsir79
+**11. [Help with Yaesu 857 power-on troubleshooting](https://www.reddit.com/r/amateurradio/comments/1vevvg1/help_with_yaesu_857_poweron_troubleshooting/)**
+by u/AeroDork
 
-**12. [Hand-held signal generator plans needed](https://www.reddit.com/r/amateurradio/comments/1vdxzcb/handheld_signal_generator_plans_needed/)**
-by u/iLikeIke1956
+**12. [Hallicrafters sx100](https://www.reddit.com/r/amateurradio/comments/1velj34/hallicrafters_sx100/)**
+by u/Unique-Profile-7379
 
-**13. [z3dmr app](https://www.reddit.com/r/amateurradio/comments/1ve60pi/z3dmr_app/)**
-by u/Tris_Memba
+**13. [Winlink via FM in the St. Louis area?](https://www.reddit.com/r/amateurradio/comments/1vezttj/winlink_via_fm_in_the_st_louis_area/)**
+by u/DTDude
 
-**14. [Moses code still required to enter hobby in the voice mode?](https://www.reddit.com/r/amateurradio/comments/1ve8wn2/moses_code_still_required_to_enter_hobby_in_the/)**
-by u/NolanRoad
+**14. [Interesting noise + mirror on 20m](https://www.reddit.com/r/amateurradio/comments/1vej5ik/interesting_noise_mirror_on_20m/)**
+by u/jotapeh
 
-**15. [disruptive groans (?) on HF bands](https://www.reddit.com/r/amateurradio/comments/1vdly01/disruptive_groans_on_hf_bands/)**
-by u/CORPRAUST
+**15. [Connecting a power cord to a battery terminal.](https://www.reddit.com/r/amateurradio/comments/1veut97/connecting_a_power_cord_to_a_battery_terminal/)**
+by u/Defiant-Strength-697
 
 ---
 
@@ -61,14 +61,14 @@ by u/CORPRAUST
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Strange frequency on FRS/GMRS](https://www.reddit.com/r/amateurradio/comments/1ve6o66/strange_frequency_on_frsgmrs/)** (r/amateurradio)
-- **[Frog](https://www.reddit.com/r/amateurradio/comments/1ve9aue/frog/)** (r/amateurradio)
-- **[Any wire antennas that have good low angle gain but also good gain ove...](https://www.reddit.com/r/amateurradio/comments/1veds0s/any_wire_antennas_that_have_good_low_angle_gain/)** (r/amateurradio)
-- **[Another Kenwood Hybrid Repaired](https://www.reddit.com/r/amateurradio/comments/1vduor8/another_kenwood_hybrid_repaired/)** (r/amateurradio)
-- **[Left handed operators: how to use HT?](https://www.reddit.com/r/amateurradio/comments/1ve6mzj/left_handed_operators_how_to_use_ht/)** (r/amateurradio)
-- **[NTS PenPal](https://www.reddit.com/r/amateurradio/comments/1vdzta5/nts_penpal/)** (r/amateurradio)
-- **[...I didn't realize a gutter could do this. I think it's pulled me bac...](https://www.reddit.com/r/amateurradio/comments/1vdnozu/i_didnt_realize_a_gutter_could_do_this_i_think/)** (r/amateurradio)
-- **[Where to get Bandpass Filters?](https://www.reddit.com/r/amateurradio/comments/1vdn0ly/where_to_get_bandpass_filters/)** (r/amateurradio)
+- **[This is why we make checklists!](https://www.reddit.com/r/amateurradio/comments/1veucgg/this_is_why_we_make_checklists/)** (r/amateurradio)
+- **[146.520 - you had to be there.](https://www.reddit.com/r/amateurradio/comments/1veqt33/146520_you_had_to_be_there/)** (r/amateurradio)
+- **[SWR Magazine](https://www.reddit.com/r/amateurradio/comments/1vf9fmi/swr_magazine/)** (r/amateurradio)
+- **[Walkie Talkie for US road trip consisting of 2 cars](https://www.reddit.com/r/amateurradio/comments/1vf9qd2/walkie_talkie_for_us_road_trip_consisting_of_2/)** (r/amateurradio)
+- **[Is this a place where I can ask about this?](https://www.reddit.com/r/amateurradio/comments/1veotqh/is_this_a_place_where_i_can_ask_about_this/)** (r/amateurradio)
+- **[Operating on/near Native American reservations?](https://www.reddit.com/r/amateurradio/comments/1vejf57/operating_onnear_native_american_reservations/)** (r/amateurradio)
+- **[Do I have a brass or copper key…?](https://www.reddit.com/r/amateurradio/comments/1vewy7i/do_i_have_a_brass_or_copper_key/)** (r/amateurradio)
+- **[motorola cp1660 software](https://www.reddit.com/r/amateurradio/comments/1vf7qlm/motorola_cp1660_software/)** (r/amateurradio)
 
 ---
 

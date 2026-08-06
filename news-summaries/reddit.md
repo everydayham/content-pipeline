@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-05 12:55 UTC*
+*Last updated: 2026-08-06 12:57 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [I Passed Chinese Ham Radio Exam as a Foreigner](https://www.reddit.com/r/amateurradio/comments/1vfyqim/i_passed_chinese_ham_radio_exam_as_a_foreigner/)**
-by u/Gilgamesh_259109
+**3. [AE7Q.com throws in the towel](https://www.reddit.com/r/amateurradio/comments/1vglpib/ae7qcom_throws_in_the_towel/)**
+by u/kc2syk
 
-**4. [For those who own 4Runners or just like to operate in the car....](https://www.reddit.com/r/amateurradio/comments/1vfp1rl/for_those_who_own_4runners_or_just_like_to/)**
-by u/Ep1cure
+**4. [Can someone explain this hobby for me?](https://www.reddit.com/r/amateurradio/comments/1vgqrpe/can_someone_explain_this_hobby_for_me/)**
+by u/PrairiePuppies
 
-**5. [What happened to ham radio?](https://www.reddit.com/r/amateurradio/comments/1vfuc0b/what_happened_to_ham_radio/)**
+**5. [I turned a cheap tarp pole into an antenna mast](https://www.reddit.com/r/amateurradio/comments/1vgtz68/i_turned_a_cheap_tarp_pole_into_an_antenna_mast/)**
+by u/TruthSpecialist4416
+
+**6. [Where are There Young Hams?](https://www.reddit.com/r/amateurradio/comments/1vg7som/where_are_there_young_hams/)**
 by u/Doooooovid
 
-**6. [Getting them interested](https://www.reddit.com/r/amateurradio/comments/1vfvocb/getting_them_interested/)**
-by u/justplainbrian
+**7. [XYL ok’d a new soldering iron: help me spend my money!](https://www.reddit.com/r/amateurradio/comments/1vguw5x/xyl_okd_a_new_soldering_iron_help_me_spend_my/)**
+by u/frog37_
 
-**7. [Bored old ham.](https://www.reddit.com/r/amateurradio/comments/1vg0e70/bored_old_ham/)**
-by u/Nemo1956
+**8. [Hi, newbie here I want to study for my foundation licence, any recommendations o...](https://www.reddit.com/r/amateurradio/comments/1vh0qtc/hi_newbie_here_i_want_to_study_for_my_foundation/)**
+by u/Lost_Doctor_678
 
-**8. [Oh come onnnnnnn](https://www.reddit.com/r/amateurradio/comments/1vfsxh2/oh_come_onnnnnnn/)**
-by u/JanglyBangles
+**9. [I Passed Chinese Ham Radio Exam as a Foreigner](https://www.reddit.com/r/amateurradio/comments/1vfyqim/i_passed_chinese_ham_radio_exam_as_a_foreigner/)**
+by u/Gilgamesh_259109
 
-**9. [What HF Radio to pick](https://www.reddit.com/r/amateurradio/comments/1vfvg2p/what_hf_radio_to_pick/)**
-by u/No_Entrance6152
+**10. [In spite of ham radio tradition.](https://www.reddit.com/r/amateurradio/comments/1vgokr5/in_spite_of_ham_radio_tradition/)**
+by u/Sea-Perspective2754
 
-**10. [IARU R1 Codes of Conduct ed. 4 published](https://www.reddit.com/r/amateurradio/comments/1vfzstx/iaru_r1_codes_of_conduct_ed_4_published/)**
-by u/rquick123
+**11. [How to debug Zetron / Motorola Max Trac setup?](https://www.reddit.com/r/amateurradio/comments/1vgrs22/how_to_debug_zetron_motorola_max_trac_setup/)**
+by u/cfinke
 
-**11. [vlf transmitting experiment in Berkley uni 70s era, any info?](https://www.reddit.com/r/amateurradio/comments/1vg2yq3/vlf_transmitting_experiment_in_berkley_uni_70s/)**
-by u/dplivesound
+**12. [So just how bad are asphalt shingles for RF?](https://www.reddit.com/r/amateurradio/comments/1vgdvmt/so_just_how_bad_are_asphalt_shingles_for_rf/)**
+by u/thesoulless78
 
-**12. [Which antenna should I buy?](https://www.reddit.com/r/amateurradio/comments/1vg4qr8/which_antenna_should_i_buy/)**
-by u/Technical-Ad-3387
+**13. [Neutral Hydrogen (1420 MHz) RA Comparison from Six Consecutive Daily Surveys at ...](https://www.reddit.com/r/amateurradio/comments/1vgck0x/neutral_hydrogen_1420_mhz_ra_comparison_from_six/)**
+by u/DeepSpace1420MHZ
 
-**13. [Quick sweep of three AliExpress bandpass filters](https://www.reddit.com/r/amateurradio/comments/1vfphhj/quick_sweep_of_three_aliexpress_bandpass_filters/)**
-by u/CaptainSpez
+**14. [Just bought the Sangean HDT-20, I am currently looking for a good antenna!](https://www.reddit.com/r/amateurradio/comments/1vgunsm/just_bought_the_sangean_hdt20_i_am_currently/)**
+by u/GentleDruid
 
-**14. [Made a POTA/SOTA setup with a broken down E-scooter](https://www.reddit.com/r/amateurradio/comments/1vfe8oy/made_a_potasota_setup_with_a_broken_down_escooter/)**
-by u/Ok_Lavishness_3745
-
-**15. [Buying advice needed](https://www.reddit.com/r/amateurradio/comments/1vg1eh3/buying_advice_needed/)**
-by u/Nickko_G
+**15. [Icom IC-7300 with a technician license](https://www.reddit.com/r/amateurradio/comments/1vg9l2u/icom_ic7300_with_a_technician_license/)**
+by u/Legal-Excitement4432
 
 ---
 
@@ -61,14 +61,14 @@ by u/Nickko_G
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[AE7Q.com throws in the towel](https://www.reddit.com/r/amateurradio/comments/1vglpib/ae7qcom_throws_in_the_towel/)** (r/amateurradio)
+- **[Can someone explain this hobby for me?](https://www.reddit.com/r/amateurradio/comments/1vgqrpe/can_someone_explain_this_hobby_for_me/)** (r/amateurradio)
+- **[I turned a cheap tarp pole into an antenna mast](https://www.reddit.com/r/amateurradio/comments/1vgtz68/i_turned_a_cheap_tarp_pole_into_an_antenna_mast/)** (r/amateurradio)
+- **[Where are There Young Hams?](https://www.reddit.com/r/amateurradio/comments/1vg7som/where_are_there_young_hams/)** (r/amateurradio)
+- **[XYL ok’d a new soldering iron: help me spend my money!](https://www.reddit.com/r/amateurradio/comments/1vguw5x/xyl_okd_a_new_soldering_iron_help_me_spend_my/)** (r/amateurradio)
+- **[Hi, newbie here I want to study for my foundation licence, any recomme...](https://www.reddit.com/r/amateurradio/comments/1vh0qtc/hi_newbie_here_i_want_to_study_for_my_foundation/)** (r/amateurradio)
 - **[I Passed Chinese Ham Radio Exam as a Foreigner](https://www.reddit.com/r/amateurradio/comments/1vfyqim/i_passed_chinese_ham_radio_exam_as_a_foreigner/)** (r/amateurradio)
-- **[For those who own 4Runners or just like to operate in the car....](https://www.reddit.com/r/amateurradio/comments/1vfp1rl/for_those_who_own_4runners_or_just_like_to/)** (r/amateurradio)
-- **[What happened to ham radio?](https://www.reddit.com/r/amateurradio/comments/1vfuc0b/what_happened_to_ham_radio/)** (r/amateurradio)
-- **[Getting them interested](https://www.reddit.com/r/amateurradio/comments/1vfvocb/getting_them_interested/)** (r/amateurradio)
-- **[Bored old ham.](https://www.reddit.com/r/amateurradio/comments/1vg0e70/bored_old_ham/)** (r/amateurradio)
-- **[Oh come onnnnnnn](https://www.reddit.com/r/amateurradio/comments/1vfsxh2/oh_come_onnnnnnn/)** (r/amateurradio)
-- **[What HF Radio to pick](https://www.reddit.com/r/amateurradio/comments/1vfvg2p/what_hf_radio_to_pick/)** (r/amateurradio)
-- **[IARU R1 Codes of Conduct ed. 4 published](https://www.reddit.com/r/amateurradio/comments/1vfzstx/iaru_r1_codes_of_conduct_ed_4_published/)** (r/amateurradio)
+- **[In spite of ham radio tradition.](https://www.reddit.com/r/amateurradio/comments/1vgokr5/in_spite_of_ham_radio_tradition/)** (r/amateurradio)
 
 ---
 

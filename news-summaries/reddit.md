@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-07 11:48 UTC*
+*Last updated: 2026-08-08 11:31 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Ham Radio Outlet Sam’s Club ‼️](https://www.reddit.com/r/amateurradio/comments/1vhdg4p/ham_radio_outlet_sams_club/)**
-by u/idiotswalkamongus
+**3. [first setup](https://www.reddit.com/r/amateurradio/comments/1vifj2v/first_setup/)**
+by u/Pleb_1an
 
-**4. [Antena vhf de 5 elemento](https://www.reddit.com/r/amateurradio/comments/1vhpd39/antena_vhf_de_5_elemento/)**
-by u/Marllopes
+**4. [Found tha thing tossed under the bench in the park](https://www.reddit.com/r/amateurradio/comments/1vi88nz/found_tha_thing_tossed_under_the_bench_in_the_park/)**
+by u/morty517
 
-**5. [My first HF rig has been ordered](https://www.reddit.com/r/amateurradio/comments/1vh9zr4/my_first_hf_rig_has_been_ordered/)**
-by u/Gigem1987
+**5. [Interesting Whipscone You Have There…](https://www.reddit.com/r/amateurradio/comments/1vifpcd/interesting_whipscone_you_have_there/)**
+by u/Even_Somewhere_7947
 
-**6. [80’s ICOM Help](https://www.reddit.com/r/amateurradio/comments/1vh8bo9/80s_icom_help/)**
-by u/isthatabrisk
+**6. [FT8 Session on the Cyberdeck](https://www.reddit.com/r/amateurradio/comments/1viig3n/ft8_session_on_the_cyberdeck/)**
+by u/DatMafk
 
-**7. [TM-D750A Late August?](https://www.reddit.com/r/amateurradio/comments/1vhydx7/tmd750a_late_august/)**
-by u/John_Hughes_Product
+**7. [Issues with Helical Antenna for L-band Satellite reception.](https://www.reddit.com/r/amateurradio/comments/1visfey/issues_with_helical_antenna_for_lband_satellite/)**
+by u/Adwan4747
 
-**8. [Tam 1410 and cable](https://www.reddit.com/r/amateurradio/comments/1vhu2e4/tam_1410_and_cable/)**
-by u/Any_Examination5643
+**8. [Is it okay to secure coax cable with magnets?](https://www.reddit.com/r/amateurradio/comments/1viclly/is_it_okay_to_secure_coax_cable_with_magnets/)**
+by u/get-off-my-frequency
 
-**9. [Looks like HRO Anaheim may have lost credit card data?](https://www.reddit.com/r/amateurradio/comments/1vhislm/looks_like_hro_anaheim_may_have_lost_credit_card/)**
-by u/SpiritualWeight4032
-
-**10. [Question about Type Acceptance and Ham licenses [serious]](https://www.reddit.com/r/amateurradio/comments/1vhqied/question_about_type_acceptance_and_ham_licenses/)**
-by u/KB5JRC
-
-**11. [Identification of PCB kit](https://www.reddit.com/r/amateurradio/comments/1vhfbke/identification_of_pcb_kit/)**
-by u/parkjv1
-
-**12. [QRP Build question](https://www.reddit.com/r/amateurradio/comments/1vhh4zd/qrp_build_question/)**
-by u/Jstrott
-
-**13. [NanoVNA Selection](https://www.reddit.com/r/amateurradio/comments/1vhpe0x/nanovna_selection/)**
-by u/Chimbo84
-
-**14. [Best HT For Old Ham](https://www.reddit.com/r/amateurradio/comments/1vhdrn9/best_ht_for_old_ham/)**
-by u/Frjeff
-
-**15. [AE7Q.com throws in the towel](https://www.reddit.com/r/amateurradio/comments/1vglpib/ae7qcom_throws_in_the_towel/)**
+**9. [new ae7q.com replacement mirror hosted by W5YI-VEC](https://www.reddit.com/r/amateurradio/comments/1vicph3/new_ae7qcom_replacement_mirror_hosted_by_w5yivec/)**
 by u/kc2syk
+
+**10. [Quite the antenna collection on this government building in Romania](https://www.reddit.com/r/amateurradio/comments/1vi13or/quite_the_antenna_collection_on_this_government/)**
+by u/novamber
+
+**11. [Gigaparts](https://www.reddit.com/r/amateurradio/comments/1vihd97/gigaparts/)**
+by u/lanceman111521
+
+**12. [Digital voice recorder makes noise in UHF](https://www.reddit.com/r/amateurradio/comments/1vijmd6/digital_voice_recorder_makes_noise_in_uhf/)**
+by u/GiantsNerd1
+
+**13. [Odd transmission heard on 40 meters in the uk...](https://www.reddit.com/r/amateurradio/comments/1vif3bo/odd_transmission_heard_on_40_meters_in_the_uk/)**
+by u/firekeeper23
+
+**14. [Survey on contesting - please help us learn!](https://www.reddit.com/r/amateurradio/comments/1vi6tjw/survey_on_contesting_please_help_us_learn/)**
+by u/Spirited-Reaction429
+
+**15. [AliExpress 50 watt amplifier & Xiegu G106](https://www.reddit.com/r/amateurradio/comments/1vi4npx/aliexpress_50_watt_amplifier_xiegu_g106/)**
+by u/Bolt_EV
 
 ---
 
@@ -61,14 +61,14 @@ by u/kc2syk
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Ham Radio Outlet Sam’s Club ‼️](https://www.reddit.com/r/amateurradio/comments/1vhdg4p/ham_radio_outlet_sams_club/)** (r/amateurradio)
-- **[Antena vhf de 5 elemento](https://www.reddit.com/r/amateurradio/comments/1vhpd39/antena_vhf_de_5_elemento/)** (r/amateurradio)
-- **[My first HF rig has been ordered](https://www.reddit.com/r/amateurradio/comments/1vh9zr4/my_first_hf_rig_has_been_ordered/)** (r/amateurradio)
-- **[80’s ICOM Help](https://www.reddit.com/r/amateurradio/comments/1vh8bo9/80s_icom_help/)** (r/amateurradio)
-- **[TM-D750A Late August?](https://www.reddit.com/r/amateurradio/comments/1vhydx7/tmd750a_late_august/)** (r/amateurradio)
-- **[Tam 1410 and cable](https://www.reddit.com/r/amateurradio/comments/1vhu2e4/tam_1410_and_cable/)** (r/amateurradio)
-- **[Looks like HRO Anaheim may have lost credit card data?](https://www.reddit.com/r/amateurradio/comments/1vhislm/looks_like_hro_anaheim_may_have_lost_credit_card/)** (r/amateurradio)
-- **[Question about Type Acceptance and Ham licenses [serious]](https://www.reddit.com/r/amateurradio/comments/1vhqied/question_about_type_acceptance_and_ham_licenses/)** (r/amateurradio)
+- **[first setup](https://www.reddit.com/r/amateurradio/comments/1vifj2v/first_setup/)** (r/amateurradio)
+- **[Found tha thing tossed under the bench in the park](https://www.reddit.com/r/amateurradio/comments/1vi88nz/found_tha_thing_tossed_under_the_bench_in_the_park/)** (r/amateurradio)
+- **[Interesting Whipscone You Have There…](https://www.reddit.com/r/amateurradio/comments/1vifpcd/interesting_whipscone_you_have_there/)** (r/amateurradio)
+- **[FT8 Session on the Cyberdeck](https://www.reddit.com/r/amateurradio/comments/1viig3n/ft8_session_on_the_cyberdeck/)** (r/amateurradio)
+- **[Issues with Helical Antenna for L-band Satellite reception.](https://www.reddit.com/r/amateurradio/comments/1visfey/issues_with_helical_antenna_for_lband_satellite/)** (r/amateurradio)
+- **[Is it okay to secure coax cable with magnets?](https://www.reddit.com/r/amateurradio/comments/1viclly/is_it_okay_to_secure_coax_cable_with_magnets/)** (r/amateurradio)
+- **[new ae7q.com replacement mirror hosted by W5YI-VEC](https://www.reddit.com/r/amateurradio/comments/1vicph3/new_ae7qcom_replacement_mirror_hosted_by_w5yivec/)** (r/amateurradio)
+- **[Quite the antenna collection on this government building in Romania](https://www.reddit.com/r/amateurradio/comments/1vi13or/quite_the_antenna_collection_on_this_government/)** (r/amateurradio)
 
 ---
 

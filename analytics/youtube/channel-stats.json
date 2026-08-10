@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-03T14:19:56.562258",
+  "updated": "2026-08-10T12:50:08.744942",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "oo2pZNHgGlCwJVpjw_6OLtEjMvk",
+    "etag": "IJqJ_MbnT9Fzn3DKdWvbF_m9NSM",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,265 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "238296",
-      "subscriberCount": "2220",
+      "viewCount": "244698",
+      "subscriberCount": "2240",
       "hiddenSubscriberCount": false,
-      "videoCount": "151"
+      "videoCount": "155"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "mjouu0N3eEAp4qTKW_MAANhV3CE",
+      "etag": "z7mVbNtlER94BHG4iijcKCgu56U",
+      "id": "R1YDR0cqRN8",
+      "snippet": {
+        "publishedAt": "2026-08-10T12:00:21Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
+        "description": "A QRZ logbook takes about five seconds to start. Logbook of the World takes a postcard in the mail. Both are worth having, and the order you do them in matters.\n\nWatch the full episode: https://youtu.be/HhhoVukJI3s\n\nJim N8JRD, Rory W8KNX and James K8JKU work through where a newly licensed ham should actually begin with online logging. QRZ gets the case for the easy on-ramp: a page already exists for you the moment you are licensed, a logbook is one button away, and because so many operators started there, confirmations come back fast. Then the turn to Logbook of the World, the ARRL system the serious awards run on. It looks and feels like an older site, the callsign certificate and the password that arrives by post are a real hurdle, and the guys are honest that it is the clunkier of the two. Rory puts that in context by explaining what it replaced, which was bundling up paper cards and standing in line at a hamfest for a card checker to verify them. Jim also raises the part people miss, that LoTW is free to set up but claiming awards from it means ARRL membership and per contact fees. Rory closes on the argument that runs through the whole episode: getting your logs uploaded is not only about your own totals, because somewhere out there it is the contact that finally gives someone else a state or a country.\n\nQRZ: https://www.qrz.com/\nLogbook of the World: https://lotw.arrl.org/\nARRL LoTW information and setup guides: https://www.arrl.org/logbook-of-the-world\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #logbookoftheworld #amateurradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R1YDR0cqRN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R1YDR0cqRN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R1YDR0cqRN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R1YDR0cqRN8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R1YDR0cqRN8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "QRZ",
+          "QRZ logbook",
+          "logbook of the world",
+          "LoTW",
+          "ARRL",
+          "QSL",
+          "QSLing",
+          "ham radio logging",
+          "ham radio logbook",
+          "ADIF",
+          "DXCC",
+          "worked all states",
+          "ham radio for beginners",
+          "Everyday Ham",
+          "ham radio podcast"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
+          "description": "A QRZ logbook takes about five seconds to start. Logbook of the World takes a postcard in the mail. Both are worth having, and the order you do them in matters.\n\nWatch the full episode: https://youtu.be/HhhoVukJI3s\n\nJim N8JRD, Rory W8KNX and James K8JKU work through where a newly licensed ham should actually begin with online logging. QRZ gets the case for the easy on-ramp: a page already exists for you the moment you are licensed, a logbook is one button away, and because so many operators started there, confirmations come back fast. Then the turn to Logbook of the World, the ARRL system the serious awards run on. It looks and feels like an older site, the callsign certificate and the password that arrives by post are a real hurdle, and the guys are honest that it is the clunkier of the two. Rory puts that in context by explaining what it replaced, which was bundling up paper cards and standing in line at a hamfest for a card checker to verify them. Jim also raises the part people miss, that LoTW is free to set up but claiming awards from it means ARRL membership and per contact fees. Rory closes on the argument that runs through the whole episode: getting your logs uploaded is not only about your own totals, because somewhere out there it is the contact that finally gives someone else a state or a country.\n\nQRZ: https://www.qrz.com/\nLogbook of the World: https://lotw.arrl.org/\nARRL LoTW information and setup guides: https://www.arrl.org/logbook-of-the-world\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #logbookoftheworld #amateurradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2br6dxveJTMkCnF_1ZaxH2D6tF0",
+      "id": "jEMEbgEv1zM",
+      "snippet": {
+        "publishedAt": "2026-08-08T09:00:16Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Clip - \"I've Been a Ham 70 Years, I'm Not QSLing Anymore\"",
+        "description": "Rory W8KNX pulled up a QRZ page during a CW contest and found that line in big letters. He gets it. After enough decades, confirming every contact turns into a chore. But he draws the line somewhere else: not QSLing is one thing, not keeping a log at all is a disservice to yourself.\n\nWatch the full episode:\u00a0https://youtu.be/HhhoVukJI3s\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite:\u00a0https://www.everydayham.com/\nInstagram:\u00a0https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jEMEbgEv1zM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jEMEbgEv1zM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jEMEbgEv1zM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jEMEbgEv1zM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jEMEbgEv1zM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Clip - \"I've Been a Ham 70 Years, I'm Not QSLing Anymore\"",
+          "description": "Rory W8KNX pulled up a QRZ page during a CW contest and found that line in big letters. He gets it. After enough decades, confirming every contact turns into a chore. But he draws the line somewhere else: not QSLing is one thing, not keeping a log at all is a disservice to yourself.\n\nWatch the full episode:\u00a0https://youtu.be/HhhoVukJI3s\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite:\u00a0https://www.everydayham.com/\nInstagram:\u00a0https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio #Shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1251",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RMMUn7ar32U8Gk68bUhoPs7b72g",
+      "id": "VcbRTsjRx28",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:30:59Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Clip - He Waited 42 Years for One QSL Card",
+        "description": "Rory W8KNX activated Oscoda County, Michigan, and heard from an operator in Oregon who wrote him a letter asking for a physical card. That one county was the last he needed to finish Worked All Counties for Michigan, and he had been waiting 42 years for it. Rory made him a custom card with a photo of the cabin he operated from.\n\nWatch the full episode:\u00a0https://youtu.be/HhhoVukJI3s\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite:\u00a0https://www.everydayham.com/\nInstagram:\u00a0https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VcbRTsjRx28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VcbRTsjRx28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VcbRTsjRx28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VcbRTsjRx28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VcbRTsjRx28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Clip - He Waited 42 Years for One QSL Card",
+          "description": "Rory W8KNX activated Oscoda County, Michigan, and heard from an operator in Oregon who wrote him a letter asking for a physical card. That one county was the last he needed to finish Worked All Counties for Michigan, and he had been waiting 42 years for it. Rory made him a custom card with a photo of the cabin he operated from.\n\nWatch the full episode:\u00a0https://youtu.be/HhhoVukJI3s\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite:\u00a0https://www.everydayham.com/\nInstagram:\u00a0https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio #Shorts"
+        }
+      },
+      "statistics": {
+        "viewCount": "925",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "55INohp_Xt3TMQOKtj3gqrFd1HQ",
+      "id": "HhhoVukJI3s",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:00:31Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
+        "description": "QSL is one of the most used words on the air, and when Jim asked what it actually stands for, all three of us went quiet. So we spent an episode on it.\nJoin the conversation on our Discord: https://discord.gg/4qvEUNPugy\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) break down what QSL really means, why keeping a log and confirming a contact are two completely different things, and how to work through paper cards, QRZ Logbook, Logbook of the World and Club Log without getting buried. Rory tells the story of the operator who waited 42 years for one Michigan county, and we both walk through our actual, unglamorous QSLing workflows start to finish. Before that: Rory pre-orders the Icom ID-5200A and defends the price, Icom teases the X-026 ahead of HAM Fair 2026, Kenwood's TM-D750A firms up for September, Radioddity posts new photos of the Xiegu G7250, and James makes the case for the MacBook Neo as a portable ham radio laptop.\n\nChapters:\n00:00 Welcome to Episode 20\n01:11 Listener shoutouts\n01:59 Rory pre-orders the Icom ID-5200A\n03:24 Is $999.95 too much for a dual-band mobile?\n05:36 The Icom X-026 teaser and HAM Fair 2026\n07:26 Kenwood TM-D750A: FCC, September and day-one APRS\n09:25 Around the Shack: the MacBook Neo\n14:23 Jim's $85 Alinco DJ-C5 find\n19:07 Xiegu G7250: new photos, Ethernet and remote ops\n24:26 Discord, the website and the merch store\n26:20 What does QSL actually mean?\n30:48 Logging is not the same as QSLing\n35:47 42 years for one county\n36:58 Paper QSL cards\n42:06 QRZ Logbook and Logbook of the World\n50:19 Club Log and paid QSL services\n51:58 Our actual QSLing workflows\n1:00:06 Ohio and Hawaii QSO Parties, August 22\n\nCorrection:\n10:52 The MacBook Neo launched at $599 in March 2026 and rose $100 to $699 on June 25, not $200. Education pricing is $599, and Apple's refurbished store has been listing it at the original $599.\n\nQSLing and logging:\nQRZ Logbook: https://www.qrz.com/\nARRL Logbook of the World: https://lotw.arrl.org/\nLoTW getting started guides: https://www.arrl.org/logbook-of-the-world\nClub Log: https://clublog.org/\nWorld Radio League: https://worldradioleague.com/\nHam2K Portable Logger (PoLo): https://polo.ham2k.com/\nWavelog: https://www.wavelog.org/\nNexus by KD9TAW: https://hamradiotools.io\nParks on the Air: https://pota.app\nQSL Concept, card printing: https://www.qslconcept.com\n\nGear and news from this episode:\nIcom ID-5200A: https://www.hamradio.com/detail.cfm?pid=71-005028\nIcom ID-5200A at GigaParts: https://www.gigaparts.com/icom-id-5200-50w-144-430mhz-dual-band-transceiver.html\nOur Hamvention hands-on with the ID-5200: https://youtu.be/LIM0hjXez1Q\nIcom X-026 teaser: https://www.facebook.com/reel/1079845914395633\nIcom America on Facebook: https://www.facebook.com/IcomAmericaInc\nIcom Japan on Facebook: https://www.facebook.com/Icom.Incorporated\nHAM Fair 2026, August 29 to 30, Ariake GYM-EX: https://www.jarl.org/English/4_Library/A-4-6_ham-fair/Ham-Fair_2026,Tokyo.html\nHam Radio Crash Course, streaming the X-026 reveal: https://www.youtube.com/channel/UChAu6Cof9KlfFxSbL9ytosQ\nKenwood TM-D750A: https://www.dxengineering.com/parts/rsv-tm-d750a\nXiegu G7250: https://www.radioddity.com/products/xiegu-g7250\nOur full G7250 breakdown: https://youtu.be/r08dZat4bOU\nMacBook Neo: https://www.apple.com/macbook-neo/\n\nAlso mentioned:\nOur Ham2K interview with Sebasti\u00e1n KI2D: https://youtu.be/JivWdc2BbIs\nSyber Radio: https://www.youtube.com/@SyberRadio\nOhio QSO Party, Saturday August 22: https://www.ohqp.org/\nHawaii QSO Party, August 22 to 23: https://www.hawaiiqsoparty.org/\nEveryday Ham merch: https://www.everydayham.com/merch\n\nShop Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/?ref=EVERYDAYHAM\nAffiliate disclosure: we earn a commission on Radioddity purchases made through that link.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HhhoVukJI3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HhhoVukJI3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HhhoVukJI3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HhhoVukJI3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HhhoVukJI3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "QSL",
+          "QSLing",
+          "QSL cards",
+          "Logbook of the World",
+          "LoTW",
+          "QRZ logbook",
+          "ham radio logging",
+          "POTA logging",
+          "ADIF",
+          "Club Log",
+          "amateur radio",
+          "ham radio",
+          "Icom ID-5200",
+          "Xiegu G7250",
+          "Kenwood TM-D750A",
+          "MacBook Neo ham radio",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
+          "description": "QSL is one of the most used words on the air, and when Jim asked what it actually stands for, all three of us went quiet. So we spent an episode on it.\nJoin the conversation on our Discord: https://discord.gg/4qvEUNPugy\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) break down what QSL really means, why keeping a log and confirming a contact are two completely different things, and how to work through paper cards, QRZ Logbook, Logbook of the World and Club Log without getting buried. Rory tells the story of the operator who waited 42 years for one Michigan county, and we both walk through our actual, unglamorous QSLing workflows start to finish. Before that: Rory pre-orders the Icom ID-5200A and defends the price, Icom teases the X-026 ahead of HAM Fair 2026, Kenwood's TM-D750A firms up for September, Radioddity posts new photos of the Xiegu G7250, and James makes the case for the MacBook Neo as a portable ham radio laptop.\n\nChapters:\n00:00 Welcome to Episode 20\n01:11 Listener shoutouts\n01:59 Rory pre-orders the Icom ID-5200A\n03:24 Is $999.95 too much for a dual-band mobile?\n05:36 The Icom X-026 teaser and HAM Fair 2026\n07:26 Kenwood TM-D750A: FCC, September and day-one APRS\n09:25 Around the Shack: the MacBook Neo\n14:23 Jim's $85 Alinco DJ-C5 find\n19:07 Xiegu G7250: new photos, Ethernet and remote ops\n24:26 Discord, the website and the merch store\n26:20 What does QSL actually mean?\n30:48 Logging is not the same as QSLing\n35:47 42 years for one county\n36:58 Paper QSL cards\n42:06 QRZ Logbook and Logbook of the World\n50:19 Club Log and paid QSL services\n51:58 Our actual QSLing workflows\n1:00:06 Ohio and Hawaii QSO Parties, August 22\n\nCorrection:\n10:52 The MacBook Neo launched at $599 in March 2026 and rose $100 to $699 on June 25, not $200. Education pricing is $599, and Apple's refurbished store has been listing it at the original $599.\n\nQSLing and logging:\nQRZ Logbook: https://www.qrz.com/\nARRL Logbook of the World: https://lotw.arrl.org/\nLoTW getting started guides: https://www.arrl.org/logbook-of-the-world\nClub Log: https://clublog.org/\nWorld Radio League: https://worldradioleague.com/\nHam2K Portable Logger (PoLo): https://polo.ham2k.com/\nWavelog: https://www.wavelog.org/\nNexus by KD9TAW: https://hamradiotools.io\nParks on the Air: https://pota.app\nQSL Concept, card printing: https://www.qslconcept.com\n\nGear and news from this episode:\nIcom ID-5200A: https://www.hamradio.com/detail.cfm?pid=71-005028\nIcom ID-5200A at GigaParts: https://www.gigaparts.com/icom-id-5200-50w-144-430mhz-dual-band-transceiver.html\nOur Hamvention hands-on with the ID-5200: https://youtu.be/LIM0hjXez1Q\nIcom X-026 teaser: https://www.facebook.com/reel/1079845914395633\nIcom America on Facebook: https://www.facebook.com/IcomAmericaInc\nIcom Japan on Facebook: https://www.facebook.com/Icom.Incorporated\nHAM Fair 2026, August 29 to 30, Ariake GYM-EX: https://www.jarl.org/English/4_Library/A-4-6_ham-fair/Ham-Fair_2026,Tokyo.html\nHam Radio Crash Course, streaming the X-026 reveal: https://www.youtube.com/channel/UChAu6Cof9KlfFxSbL9ytosQ\nKenwood TM-D750A: https://www.dxengineering.com/parts/rsv-tm-d750a\nXiegu G7250: https://www.radioddity.com/products/xiegu-g7250\nOur full G7250 breakdown: https://youtu.be/r08dZat4bOU\nMacBook Neo: https://www.apple.com/macbook-neo/\n\nAlso mentioned:\nOur Ham2K interview with Sebasti\u00e1n KI2D: https://youtu.be/JivWdc2BbIs\nSyber Radio: https://www.youtube.com/@SyberRadio\nOhio QSO Party, Saturday August 22: https://www.ohqp.org/\nHawaii QSO Party, August 22 to 23: https://www.hawaiiqsoparty.org/\nEveryday Ham merch: https://www.everydayham.com/merch\n\nShop Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/?ref=EVERYDAYHAM\nAffiliate disclosure: we earn a commission on Radioddity purchases made through that link.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "164",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EbslWjnEBq23DkQmBmRX47iBjSc",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -83,11 +332,10 @@
         "localized": {
           "title": "\"I'm Now a Professional Amateur\" | Ham2K's KI2D",
           "description": "Sebasti\u00e1n Delmont (KI2D) had been an independent developer for about two weeks when we sat down with him.\n\nIn the full episode he lays out the three-month plan he's given himself, demos the new desktop logger and syncs it to a phone over a QR code on camera, and names the next-generation app for the first time.\n\nWatch the full episode: https://youtu.be/JivWdc2BbIs\n\nHam2K Portable Logger: https://polo.ham2k.com/\n\nSupport the project: https://www.buymeacoffee.com/ham2k\n\nEveryday Ham: https://www.everydayham.com/\n\n#hamradio #amateurradio #POTA #Ham2K #shorts"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
-        "viewCount": "172",
+        "viewCount": "175",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -95,7 +343,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uRqe7YmpcpsmEcQ_QzMDCW0fSJE",
+      "etag": "1J8R0ZPCjX9RMxyI8WVAYxAhYkY",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -163,15 +411,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1232",
-        "likeCount": "84",
+        "viewCount": "1450",
+        "likeCount": "93",
         "favoriteCount": "0",
-        "commentCount": "17"
+        "commentCount": "18"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "__32zRBLUG7j2vWGKGB9dLTPsvc",
+      "etag": "WPVKBqz-yC6oVeM_mV8wRpGJJrI",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -234,15 +482,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "315",
-        "likeCount": "28",
+        "viewCount": "324",
+        "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n_dZM_cCaaswG2Pwm21-b8OI5YQ",
+      "etag": "A6Qah4X8h4HCsq6IEZmVtEd7lBY",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -305,15 +553,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4895",
-        "likeCount": "168",
+        "viewCount": "5022",
+        "likeCount": "170",
         "favoriteCount": "0",
-        "commentCount": "51"
+        "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DI3T0Zw7ULcPV1MUOrcIJlG46ek",
+      "etag": "M2Lw6q4xj5N3RnsIJO0m5OTF63g",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -375,7 +623,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "458",
+        "viewCount": "467",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -383,7 +631,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-SyjUs-M_yFJJ-OB2br72bkxCBA",
+      "etag": "oDna-2Fjgki0kF37BUa9DqMywQ4",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -447,7 +695,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "463",
+        "viewCount": "481",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -455,7 +703,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HAD4AC2j8PMrmd8VP5eYxjxNMCU",
+      "etag": "OnPWh81_84hLOUeBM92kfIeZM7w",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -518,15 +766,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "114",
-        "likeCount": "5",
+        "viewCount": "129",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rcajDsOhNCV648JJzgNLNsbUv6k",
+      "etag": "KZoCX41lpSMGvnsbzUywrx57rwI",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -588,7 +836,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "112",
+        "viewCount": "115",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -596,7 +844,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b3WoJ2n9S8ytLNK0-k7VHvJfJJQ",
+      "etag": "ZLOdq28-9fVVfm6N7rGpjrqXywM",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -660,7 +908,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "268",
+        "viewCount": "273",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -668,7 +916,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Q9kmBAIWFxV_d_kpqLgqxK2X7Zg",
+      "etag": "HWKpaNEOFYb4VEaKqEPhNF0tOKc",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -732,7 +980,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "320",
+        "viewCount": "322",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -740,7 +988,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bHEh5uOC2RnLU33YqDl-u0yj5M4",
+      "etag": "TPfZFoOWuQ2VQpIX9b4OqBq2pdw",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -807,15 +1055,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "906",
-        "likeCount": "57",
+        "viewCount": "914",
+        "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SioSAeML3CtiYbzyk9tlKqtx_2I",
+      "etag": "FaGPQiGLFyGQ6f2I4cofRhZmo_I",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -879,15 +1127,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "903",
-        "likeCount": "59",
+        "viewCount": "924",
+        "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8BVmRps8MAfmPLGvzHOBIYk_9b8",
+      "etag": "t4PfuZdDnASNbp38UYi3HzClcN0",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -951,7 +1199,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "333",
+        "viewCount": "334",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1030,7 +1278,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3IEJg3sZ2jiuyyKV3B7TMHI8cdk",
+      "etag": "YMGNzmQ7vfspoR0TiROzlVu4mOg",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -1094,15 +1342,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "971",
-        "likeCount": "40",
+        "viewCount": "999",
+        "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GZGIGwiPPcBQ6mfrdfvAKIUxoO8",
+      "etag": "u83A_rRN2ydzWh19KoYF0uTvMCg",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -1165,7 +1413,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "535",
+        "viewCount": "554",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1173,7 +1421,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WDFC5rXCeAGfOtJsD4H3arS3B6A",
+      "etag": "wXCNJHsP_ammoy3Nvxv6Mq_sEpw",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -1236,7 +1484,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "324",
+        "viewCount": "325",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1244,7 +1492,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eOSoca4mSqxR1an1sLdQgLl9wYs",
+      "etag": "KwoppcVczCWHcKKWRXDDKKl2Cbw",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -1308,7 +1556,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "628",
+        "viewCount": "633",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1316,7 +1564,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "suEKEgMi-6rZO0uUyBpYMkG7abM",
+      "etag": "91GTILwMz0yEHP7767rgle_Usao",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -1380,15 +1628,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3382",
-        "likeCount": "90",
+        "viewCount": "3391",
+        "likeCount": "91",
         "favoriteCount": "0",
         "commentCount": "21"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-v0PmqBgb9DNzlY1pjl4QDduRCY",
+      "etag": "1iDsFu045Gs7AdwsdGA4IhrDUi0",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -1451,7 +1699,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "505",
+        "viewCount": "512",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1459,7 +1707,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GkT35j1OrgfPHqU6dv59pcFhD9I",
+      "etag": "FmfmZ8dUh3-g43PDXHZKEC8QqA4",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -1523,15 +1771,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8679",
-        "likeCount": "190",
+        "viewCount": "8801",
+        "likeCount": "191",
         "favoriteCount": "0",
-        "commentCount": "56"
+        "commentCount": "55"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GJv7Gi-ENJHX7cNM_i-DBY_in_s",
+      "etag": "SKL7PPqxW3TX3hKeD7FqcQ5Frnc",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -1595,7 +1843,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1805",
+        "viewCount": "1830",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1603,7 +1851,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T3bIXNBm-z16OWM69wGt6lsTO1g",
+      "etag": "PIWjUKuW2-m8J6wuTUjtr9oOUx4",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -1667,15 +1915,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10332",
-        "likeCount": "188",
+        "viewCount": "10561",
+        "likeCount": "189",
         "favoriteCount": "0",
         "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RP-FlX090kIq59JEytxZTt7YKc0",
+      "etag": "IXZEoQmX6f31t2DJkUS94yIazmE",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -1739,15 +1987,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9296",
-        "likeCount": "236",
+        "viewCount": "9520",
+        "likeCount": "238",
         "favoriteCount": "0",
-        "commentCount": "53"
+        "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZoiZDmViQrKER2ZYCA_L2fvLYag",
+      "etag": "RflrHxLwmw8qC9n9tzh0FO73v6U",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -1811,7 +2059,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4485",
+        "viewCount": "4516",
         "likeCount": "135",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -1819,7 +2067,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KmiP_9HUpdD-esFyNkftrD3vH7E",
+      "etag": "bQzWBNdlmqcItSFKUPIshSVeT4Q",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -1880,7 +2128,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "870",
+        "viewCount": "888",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1888,7 +2136,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HxC4lvPX_mckadfWb9-RtJpIDL4",
+      "etag": "qDUwFRN9pBLblQFp_uGk3tWEoAI",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -1951,7 +2199,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1657",
+        "viewCount": "1664",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1959,7 +2207,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xTPWpSC-j6H6wHby_YxULO6Sdjk",
+      "etag": "nioEkt_F97i8QEHg7FGzP84t_4k",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -2020,7 +2268,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1384",
+        "viewCount": "1403",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2028,7 +2276,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1oViiPpKgN_PmzLn4FP1vkr9WOI",
+      "etag": "fDpKKVSCS15HCusK4FmOreX-q1Q",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -2091,7 +2339,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "914",
+        "viewCount": "913",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -2099,7 +2347,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jw-t36Rr-GQ2XMuACYZhgkh2B-8",
+      "etag": "KGVZg9HVDSWkIsd8UlNcZkZcODk",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -2165,7 +2413,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "355",
+        "viewCount": "359",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2173,7 +2421,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3v12rmCJ-goHssVqqok5l3hAl8s",
+      "etag": "Y_Vgi0xvR3VlaPvQqjbt4kYPF_I",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -2221,7 +2469,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1373",
+        "viewCount": "1375",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2299,7 +2547,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NE3wuhGoDBohe3MJn62ubq-TV28",
+      "etag": "-cnK5DqdTA_NYD4CLmt59cVx9ow",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -2362,7 +2610,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "606",
+        "viewCount": "607",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2370,7 +2618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "C3Hj5UFgpjArvFLneF3NXR3cpeQ",
+      "etag": "-1kkTzf-GHH86-s-6XJyi6BhKVw",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -2432,15 +2680,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1738",
-        "likeCount": "66",
+        "viewCount": "1778",
+        "likeCount": "68",
         "favoriteCount": "0",
         "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Dq6owisusEC4UssFq-GQAf7rDBY",
+      "etag": "lvtlvhxXVwc5I3mYQJ1pz5_4Urw",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -2503,7 +2751,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "506",
+        "viewCount": "507",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2511,7 +2759,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xARV8jd8kPnKqSCk3ZNkpwuU6XA",
+      "etag": "jpsDkKEV-IJeiAHB00hMSwTTJD4",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -2574,7 +2822,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "972",
+        "viewCount": "976",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2725,7 +2973,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "k9odM2jL1GPCYlYH6LQors-nki0",
+      "etag": "vleqSQfEMiszMy2rG8_5_Gv8UrY",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -2787,7 +3035,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "601",
+        "viewCount": "602",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2866,7 +3114,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "grDYiJfWDFmd66ednj0AIhuFJUA",
+      "etag": "3BFml2_nd-RlodaWnqC3rjaIXT4",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -2931,7 +3179,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1720",
+        "viewCount": "1732",
         "likeCount": "72",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2939,7 +3187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Oq4i0oJ8a89AQK4fHZZD0oCO5v0",
+      "etag": "DtAD6smMb9wSF1hawwWCRNvL_4Q",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -3002,7 +3250,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "617",
+        "viewCount": "628",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -3010,7 +3258,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EXEJ4RrcvBx0nYuRaMg_FFxcaJA",
+      "etag": "VLGmQ9mWZ-Z3PHazvzTSYAgyZR8",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -3073,15 +3321,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5490",
-        "likeCount": "186",
+        "viewCount": "5514",
+        "likeCount": "187",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "L4KnWlO_8w-OJltUqgTkZDJbP-A",
+      "etag": "pC_SbK9OFIUnzDeTmt30hpWN9rw",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -3143,7 +3391,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "371",
+        "viewCount": "375",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3151,7 +3399,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Adsw-IvV3FNNNZ_xFfnwoe1KGRI",
+      "etag": "QtHXmbxP1-EL0biEIY1h333133E",
       "id": "rHev6bDGSWg",
       "snippet": {
         "publishedAt": "2026-02-14T17:27:02Z",
@@ -3204,7 +3452,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1179",
+        "viewCount": "1185",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3261,290 +3509,6 @@
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-hJGx3QmoUSJevy8_Bk7b0XHqJI",
-      "id": "BGiDdHdL7-s",
-      "snippet": {
-        "publishedAt": "2026-02-14T00:59:14Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-        "description": "Jim (N8JRD) talks with Tony (K1KP) from FlexRadio at Hamcation 2026 about the Aurora AU-510M, a 500W integrated SDR transceiver with a built-in Maestro front panel, power supply, and automatic antenna tuner all in one chassis. Covering HF through 6 meters, the AU-510M features SmartSignal adaptive predistortion, MultiFlex dual-operator capability, and SmartLink for remote operation. Priced at $7,349.\n\n\ud83d\udd17 FlexRadio: https://www.flexradio.com\n\ud83d\udd17 Aurora AU-510M: https://www.flexradio.com/products/aurora-au-510m-signature-series/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BGiDdHdL7-s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "FlexRadio",
-          "Aurora AU-510M",
-          "SDR transceiver",
-          "software defined radio",
-          "500W amplifier",
-          "Maestro",
-          "SmartSDR",
-          "HF radio",
-          "ham radio",
-          "amateur radio",
-          "Hamcation 2026",
-          "FlexRadio Aurora",
-          "integrated transceiver",
-          "remote ham radio",
-          "SmartLink",
-          "Everyday Ham",
-          "ham radio podcast"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-          "description": "Jim (N8JRD) talks with Tony (K1KP) from FlexRadio at Hamcation 2026 about the Aurora AU-510M, a 500W integrated SDR transceiver with a built-in Maestro front panel, power supply, and automatic antenna tuner all in one chassis. Covering HF through 6 meters, the AU-510M features SmartSignal adaptive predistortion, MultiFlex dual-operator capability, and SmartLink for remote operation. Priced at $7,349.\n\n\ud83d\udd17 FlexRadio: https://www.flexradio.com\n\ud83d\udd17 Aurora AU-510M: https://www.flexradio.com/products/aurora-au-510m-signature-series/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "2433",
-        "likeCount": "55",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "zv3vRKl1nVDeY503QJXtm7cbIjg",
-      "id": "d_2-kWWuiaY",
-      "snippet": {
-        "publishedAt": "2026-02-14T00:53:21Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-        "description": "Rory (W8KNX) sits down with Chris Drummond (W6HFP) and John Nagel (W5EXJ) from Buddipole at Hamcation 2026 to check out the new Buddihex Mini, a 3-band hex beam covering 12, 10, and 6 meters, available for pre-order at $450. They also get a first look at the Mastwerks Precision Antenna Rotator (MWR), a field-ready azimuth rotator designed specifically for the Buddihex and Mastwerks tripod/mast systems, with an introductory price of $285. Plus, a closer look at the full-size Buddihex.\n\n\ud83d\udd17 Buddipole: https://www.buddipole.com\n\ud83d\udd17 Mastwerks: https://www.mastwerks.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/d_2-kWWuiaY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Buddipole",
-          "Buddihex",
-          "Buddihex Mini",
-          "Mastwerks",
-          "Mastwerks Precision Antenna Rotator",
-          "hex beam antenna",
-          "portable ham radio antenna",
-          "Hamcation 2026",
-          "amateur radio",
-          "ham radio",
-          "POTA antenna",
-          "field day antenna",
-          "antenna rotator",
-          "portable antenna setup",
-          "Everyday Ham",
-          "ham radio podcast"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-          "description": "Rory (W8KNX) sits down with Chris Drummond (W6HFP) and John Nagel (W5EXJ) from Buddipole at Hamcation 2026 to check out the new Buddihex Mini, a 3-band hex beam covering 12, 10, and 6 meters, available for pre-order at $450. They also get a first look at the Mastwerks Precision Antenna Rotator (MWR), a field-ready azimuth rotator designed specifically for the Buddihex and Mastwerks tripod/mast systems, with an introductory price of $285. Plus, a closer look at the full-size Buddihex.\n\n\ud83d\udd17 Buddipole: https://www.buddipole.com\n\ud83d\udd17 Mastwerks: https://www.mastwerks.com"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "2980",
-        "likeCount": "105",
-        "favoriteCount": "0",
-        "commentCount": "16"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DLHfALQOYx_0LPN8D03zkolD9mw",
-      "id": "1EumigRB1Vg",
-      "snippet": {
-        "publishedAt": "2026-02-14T00:47:01Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
-        "description": "Jim (N8JRD) talks with George (KO4HVI), creator of The Laser Ham, at Hamcation 2026 about his Folding Ground Plane Antenna, also known as the \u201cJungle\u201d Antenna. George walks us through what makes this specialty radio antenna unique and how it stands out for portable operations.\n\n\ud83d\udd17 The Laser Ham: https://www.TheLaserHam.com\n\ud83d\udd17 Etsy Shop: https://TheLaserHam.Etsy.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1EumigRB1Vg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "The Laser Ham",
-          "folding ground plane antenna",
-          "Jungle Antenna",
-          "portable ham radio antenna",
-          "specialty radio antenna",
-          "ham radio",
-          "amateur radio",
-          "Hamcation 2026",
-          "portable antenna",
-          "POTA antenna",
-          "ham radio gear",
-          "antenna review",
-          "KO4HVI",
-          "Everyday Ham",
-          "ham radio podcast"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
-          "description": "Jim (N8JRD) talks with George (KO4HVI), creator of The Laser Ham, at Hamcation 2026 about his Folding Ground Plane Antenna, also known as the \u201cJungle\u201d Antenna. George walks us through what makes this specialty radio antenna unique and how it stands out for portable operations.\n\n\ud83d\udd17 The Laser Ham: https://www.TheLaserHam.com\n\ud83d\udd17 Etsy Shop: https://TheLaserHam.Etsy.com"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "385",
-        "likeCount": "14",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UPHfuxL5hgpOJ5fQJ-okzboVv2s",
-      "id": "dq8p3Blm4Ts",
-      "snippet": {
-        "publishedAt": "2026-02-07T19:03:13Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-        "description": "The Everyday Ham crew volunteered to help hang a new projector screen at the historic Witch's Hat Depot in South Lyon! Just your friendly neighborhood hams from the South Lyon Area Amateur Radio Club giving back to the community, one questionable measurement at a time. Turns out we're better at hanging antennas, but we got it done! \ud83d\udcaa\n\n#TheEverydayHam #SLAARC #SouthLyon #WitchsHatDepot #AmateurRadio #HamRadio #HamRadioCommunity #CommunityService #VolunteerWork #GivingBack #ClubProject #SouthLyonMI #73 #HamsDoingThings #SmallTownVolunteers #NotAnAntennaButCloseEnough",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dq8p3Blm4Ts/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "TheEverydayHam",
-          "SLAARC",
-          "SouthLyon",
-          "WitchsHatDepot",
-          "AmateurRadio",
-          "HamRadio",
-          "HamRadioCommunity",
-          "CommunityService",
-          "VolunteerWork",
-          "GivingBack",
-          "ClubProject",
-          "SouthLyonMI",
-          "73",
-          "HamsDoingThings",
-          "SmallTownVolunteers",
-          "NotAnAntennaButCloseEnough"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-          "description": "The Everyday Ham crew volunteered to help hang a new projector screen at the historic Witch's Hat Depot in South Lyon! Just your friendly neighborhood hams from the South Lyon Area Amateur Radio Club giving back to the community, one questionable measurement at a time. Turns out we're better at hanging antennas, but we got it done! \ud83d\udcaa\n\n#TheEverydayHam #SLAARC #SouthLyon #WitchsHatDepot #AmateurRadio #HamRadio #HamRadioCommunity #CommunityService #VolunteerWork #GivingBack #ClubProject #SouthLyonMI #73 #HamsDoingThings #SmallTownVolunteers #NotAnAntennaButCloseEnough"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "3261",
-        "likeCount": "12",
-        "favoriteCount": "0",
-        "commentCount": "1"
       }
     }
   ]

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-10 11:49 UTC*
+*Last updated: 2026-08-11 11:45 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Just got my first ham radio…](https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/)**
+**3. [TIL that Arcade Fire used the ARRL logo for their album “The Suburbs”](https://www.reddit.com/r/amateurradio/comments/1vkzmg8/til_that_arcade_fire_used_the_arrl_logo_for_their/)**
+by u/SonicResidue
+
+**4. [WM7X exam.. great experience!](https://www.reddit.com/r/amateurradio/comments/1vl3dem/wm7x_exam_great_experience/)**
+by u/Robs_Backyard_BBQ
+
+**5. [CAT adapter for ICOM 13pACC&CI-V](https://www.reddit.com/r/amateurradio/comments/1vl9b05/cat_adapter_for_icom_13paccciv/)**
+by u/AlanCui4080
+
+**6. [FCC Blocking scripted ULS Queries](https://www.reddit.com/r/amateurradio/comments/1vkztfv/fcc_blocking_scripted_uls_queries/)**
+by u/MentalEggplant9275
+
+**7. [How and where does an electromagnetic „Transfer“ into an electrical Signal?](https://www.reddit.com/r/amateurradio/comments/1vlagv0/how_and_where_does_an_electromagnetic_transfer/)**
+by u/Force-8938
+
+**8. [OpenRepeater.org is offering a 100% FREE Repeater API for developers.](https://www.reddit.com/r/amateurradio/comments/1vl3hf0/openrepeaterorg_is_offering_a_100_free_repeater/)**
+by u/GarbageAdept2465
+
+**9. [Antenna build ideas](https://www.reddit.com/r/amateurradio/comments/1vkyhnc/antenna_build_ideas/)**
+by u/actionfingerss
+
+**10. [Just got my first ham radio…](https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/)**
 by u/hiistakes
 
-**4. [Made a DIY vertical antenna using RG-6 75 Ohm cable.](https://www.reddit.com/r/amateurradio/comments/1vke2ao/made_a_diy_vertical_antenna_using_rg6_75_ohm_cable/)**
-by u/Adwan4747
+**11. [FT2](https://www.reddit.com/r/amateurradio/comments/1vl9cyx/ft2/)**
+by u/noddy51
 
-**5. [Yaesu FT-65R Teardown, and Why It's Just a Baofeng](https://www.reddit.com/r/amateurradio/comments/1vk886c/yaesu_ft65r_teardown_and_why_its_just_a_baofeng/)**
-by u/CrappyGamingXD
+**12. [Help me with FT8 on WSJT-X please! I'm not getting responses.](https://www.reddit.com/r/amateurradio/comments/1vkzd0w/help_me_with_ft8_on_wsjtx_please_im_not_getting/)**
+by u/Gigem1987
 
-**6. [Getting started!!!](https://www.reddit.com/r/amateurradio/comments/1vk5oz1/getting_started/)**
-by u/Ajaymach
+**13. [EFHW](https://www.reddit.com/r/amateurradio/comments/1vkm4bw/efhw/)**
+by u/bdub7681
 
-**7. [Passed my foundation exam (UK)](https://www.reddit.com/r/amateurradio/comments/1vk4mjg/passed_my_foundation_exam_uk/)**
-by u/ironphreak
+**14. [Can any of the simple modulation methods transmit audio signals down to DC?](https://www.reddit.com/r/amateurradio/comments/1vkuey2/can_any_of_the_simple_modulation_methods_transmit/)**
+by u/cheater00
 
-**8. [Fieldday as a radio operator](https://www.reddit.com/r/amateurradio/comments/1vkdvnl/fieldday_as_a_radio_operator/)**
-by u/LordofNorse
-
-**9. [Looking for testimony from World Radio League paid members. Is it worth it?](https://www.reddit.com/r/amateurradio/comments/1vk77pf/looking_for_testimony_from_world_radio_league/)**
-by u/MarinerMouth
-
-**10. [LoRA APRS UK](https://www.reddit.com/r/amateurradio/comments/1vkg1oz/lora_aprs_uk/)**
-by u/Advanced_Ad_6816
-
-**11. [CHIRP on Linux?](https://www.reddit.com/r/amateurradio/comments/1vk7ddq/chirp_on_linux/)**
-by u/CaptainSpez
-
-**12. [Suggestions for iOS apps to use with Digirig for FT8/4 & PSK31?](https://www.reddit.com/r/amateurradio/comments/1vk839u/suggestions_for_ios_apps_to_use_with_digirig_for/)**
-by u/Keeper4560
-
-**13. [QO-100](https://www.reddit.com/r/amateurradio/comments/1vke3z0/qo100/)**
-by u/PrepYourselves
-
-**14. [Yeasu FTM 510 and Wolfbox Dashcam](https://www.reddit.com/r/amateurradio/comments/1vk76my/yeasu_ftm_510_and_wolfbox_dashcam/)**
-by u/Tnflyboy
-
-**15. [Where best to sell radios? I have a Kenwood D75 I'd like to part with.](https://www.reddit.com/r/amateurradio/comments/1vk7269/where_best_to_sell_radios_i_have_a_kenwood_d75_id/)**
-by u/GayClaiken
+**15. [Mppt charge controller?](https://www.reddit.com/r/amateurradio/comments/1vktn1e/mppt_charge_controller/)**
+by u/Automatic_Relief7909
 
 ---
 
@@ -59,16 +59,16 @@ by u/GayClaiken
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[TIL that Arcade Fire used the ARRL logo for their album “The Suburbs”](https://www.reddit.com/r/amateurradio/comments/1vkzmg8/til_that_arcade_fire_used_the_arrl_logo_for_their/)** (r/amateurradio)
+- **[WM7X exam.. great experience!](https://www.reddit.com/r/amateurradio/comments/1vl3dem/wm7x_exam_great_experience/)** (r/amateurradio)
+- **[CAT adapter for ICOM 13pACC&CI-V](https://www.reddit.com/r/amateurradio/comments/1vl9b05/cat_adapter_for_icom_13paccciv/)** (r/amateurradio)
+- **[FCC Blocking scripted ULS Queries](https://www.reddit.com/r/amateurradio/comments/1vkztfv/fcc_blocking_scripted_uls_queries/)** (r/amateurradio)
+- **[How and where does an electromagnetic „Transfer“ into an electrical Si...](https://www.reddit.com/r/amateurradio/comments/1vlagv0/how_and_where_does_an_electromagnetic_transfer/)** (r/amateurradio)
+- **[OpenRepeater.org is offering a 100% FREE Repeater API for developers.](https://www.reddit.com/r/amateurradio/comments/1vl3hf0/openrepeaterorg_is_offering_a_100_free_repeater/)** (r/amateurradio)
+- **[Antenna build ideas](https://www.reddit.com/r/amateurradio/comments/1vkyhnc/antenna_build_ideas/)** (r/amateurradio)
 - **[Just got my first ham radio…](https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/)** (r/amateurradio)
-- **[Made a DIY vertical antenna using RG-6 75 Ohm cable.](https://www.reddit.com/r/amateurradio/comments/1vke2ao/made_a_diy_vertical_antenna_using_rg6_75_ohm_cable/)** (r/amateurradio)
-- **[Yaesu FT-65R Teardown, and Why It's Just a Baofeng](https://www.reddit.com/r/amateurradio/comments/1vk886c/yaesu_ft65r_teardown_and_why_its_just_a_baofeng/)** (r/amateurradio)
-- **[Getting started!!!](https://www.reddit.com/r/amateurradio/comments/1vk5oz1/getting_started/)** (r/amateurradio)
-- **[Passed my foundation exam (UK)](https://www.reddit.com/r/amateurradio/comments/1vk4mjg/passed_my_foundation_exam_uk/)** (r/amateurradio)
-- **[Fieldday as a radio operator](https://www.reddit.com/r/amateurradio/comments/1vkdvnl/fieldday_as_a_radio_operator/)** (r/amateurradio)
-- **[Looking for testimony from World Radio League paid members. Is it wort...](https://www.reddit.com/r/amateurradio/comments/1vk77pf/looking_for_testimony_from_world_radio_league/)** (r/amateurradio)
-- **[LoRA APRS UK](https://www.reddit.com/r/amateurradio/comments/1vkg1oz/lora_aprs_uk/)** (r/amateurradio)
 
 ---
 

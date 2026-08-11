@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:49:19.575577",
+  "updated": "2026-08-11T11:45:52.340214",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vecrg1/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,69 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "TIL that Arcade Fire used the ARRL logo for their album \u201cThe Suburbs\u201d",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkzmg8/til_that_arcade_fire_used_the_arrl_logo_for_their/",
+        "author": "/u/SonicResidue"
+      },
+      {
+        "title": "WM7X exam.. great experience!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vl3dem/wm7x_exam_great_experience/",
+        "author": "/u/Robs_Backyard_BBQ"
+      },
+      {
+        "title": "CAT adapter for ICOM 13pACC&CI-V",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vl9b05/cat_adapter_for_icom_13paccciv/",
+        "author": "/u/AlanCui4080"
+      },
+      {
+        "title": "FCC Blocking scripted ULS Queries",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkztfv/fcc_blocking_scripted_uls_queries/",
+        "author": "/u/MentalEggplant9275"
+      },
+      {
+        "title": "How and where does an electromagnetic \u201eTransfer\u201c into an electrical Signal?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vlagv0/how_and_where_does_an_electromagnetic_transfer/",
+        "author": "/u/Force-8938"
+      },
+      {
+        "title": "OpenRepeater.org is offering a 100% FREE Repeater API for developers.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vl3hf0/openrepeaterorg_is_offering_a_100_free_repeater/",
+        "author": "/u/GarbageAdept2465"
+      },
+      {
+        "title": "Antenna build ideas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkyhnc/antenna_build_ideas/",
+        "author": "/u/actionfingerss"
+      },
+      {
         "title": "Just got my first ham radio\u2026",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/",
         "author": "/u/hiistakes"
+      },
+      {
+        "title": "FT2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vl9cyx/ft2/",
+        "author": "/u/noddy51"
+      },
+      {
+        "title": "Help me with FT8 on WSJT-X please! I'm not getting responses.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkzd0w/help_me_with_ft8_on_wsjtx_please_im_not_getting/",
+        "author": "/u/Gigem1987"
+      },
+      {
+        "title": "EFHW",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkm4bw/efhw/",
+        "author": "/u/bdub7681"
+      },
+      {
+        "title": "Can any of the simple modulation methods transmit audio signals down to DC?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkuey2/can_any_of_the_simple_modulation_methods_transmit/",
+        "author": "/u/cheater00"
+      },
+      {
+        "title": "Mppt charge controller?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vktn1e/mppt_charge_controller/",
+        "author": "/u/Automatic_Relief7909"
       },
       {
         "title": "Made a DIY vertical antenna using RG-6 75 Ohm cable.",
@@ -32,14 +92,29 @@
         "author": "/u/CrappyGamingXD"
       },
       {
-        "title": "Getting started!!!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk5oz1/getting_started/",
-        "author": "/u/Ajaymach"
+        "title": "SWR mismatch between G90 and WSJT-X",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkth6g/swr_mismatch_between_g90_and_wsjtx/",
+        "author": "/u/Riluske"
+      },
+      {
+        "title": "Operating Remotely w Starlink Standby",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vklhii/operating_remotely_w_starlink_standby/",
+        "author": "/u/Separate_Strike_9633"
       },
       {
         "title": "Passed my foundation exam (UK)",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vk4mjg/passed_my_foundation_exam_uk/",
         "author": "/u/ironphreak"
+      },
+      {
+        "title": "Getting started!!!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vk5oz1/getting_started/",
+        "author": "/u/Ajaymach"
+      },
+      {
+        "title": "FT-5D cracking issue",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vkof32/ft5d_cracking_issue/",
+        "author": "/u/Alternative3d"
       },
       {
         "title": "Fieldday as a radio operator",
@@ -55,81 +130,6 @@
         "title": "LoRA APRS UK",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vkg1oz/lora_aprs_uk/",
         "author": "/u/Advanced_Ad_6816"
-      },
-      {
-        "title": "CHIRP on Linux?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk7ddq/chirp_on_linux/",
-        "author": "/u/CaptainSpez"
-      },
-      {
-        "title": "Suggestions for iOS apps to use with Digirig for FT8/4 & PSK31?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk839u/suggestions_for_ios_apps_to_use_with_digirig_for/",
-        "author": "/u/Keeper4560"
-      },
-      {
-        "title": "QO-100",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vke3z0/qo100/",
-        "author": "/u/PrepYourselves"
-      },
-      {
-        "title": "Yeasu FTM 510 and Wolfbox Dashcam",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk76my/yeasu_ftm_510_and_wolfbox_dashcam/",
-        "author": "/u/Tnflyboy"
-      },
-      {
-        "title": "Where best to sell radios? I have a Kenwood D75 I'd like to part with.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk7269/where_best_to_sell_radios_i_have_a_kenwood_d75_id/",
-        "author": "/u/GayClaiken"
-      },
-      {
-        "title": "This earned an eye roll from the wife but I couldn\u2019t help myself \ud83d\udc76",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjbt16/this_earned_an_eye_roll_from_the_wife_but_i/",
-        "author": "/u/Thoreaushadeau"
-      },
-      {
-        "title": "Wire measuring technique",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjtyvh/wire_measuring_technique/",
-        "author": "/u/Big_Rabbit_933"
-      },
-      {
-        "title": "Looking for software to operate an AEA PK-900",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk9kjt/looking_for_software_to_operate_an_aea_pk900/",
-        "author": "/u/Flaky-Ad-9033"
-      },
-      {
-        "title": "Spare Batteries for the Upgraded 5 Mini?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk8qna/spare_batteries_for_the_upgraded_5_mini/",
-        "author": "/u/Fksgyccdhb156"
-      },
-      {
-        "title": "Money and Radio Advice",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk8kiq/money_and_radio_advice/",
-        "author": "/u/rhouse2008"
-      },
-      {
-        "title": "Need help building a dual band yagi",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjv544/need_help_building_a_dual_band_yagi/",
-        "author": "/u/Fantastic-Trainer-84"
-      },
-      {
-        "title": "Radials",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vk07gh/radials/",
-        "author": "/u/xdm21"
-      },
-      {
-        "title": "difference between copper and gold SMA flanges",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjtn0m/difference_between_copper_and_gold_sma_flanges/",
-        "author": "/u/CachedAdministrator"
-      },
-      {
-        "title": "Reverse engineering Motorola PMKN4012 DS2433 EEPROM dynamic bytes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjtma8/reverse_engineering_motorola_pmkn4012_ds2433/",
-        "author": "/u/bi7cbk"
-      },
-      {
-        "title": "Century Club HF Net",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vjef49/century_club_hf_net/",
-        "author": "/u/ThatBigSkeptic"
       }
     ]
   }

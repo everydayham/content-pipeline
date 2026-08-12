@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-11 11:45 UTC*
+*Last updated: 2026-08-12 11:49 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [TIL that Arcade Fire used the ARRL logo for their album “The Suburbs”](https://www.reddit.com/r/amateurradio/comments/1vkzmg8/til_that_arcade_fire_used_the_arrl_logo_for_their/)**
-by u/SonicResidue
+**3. [A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)**
+by u/filkerdave
 
-**4. [WM7X exam.. great experience!](https://www.reddit.com/r/amateurradio/comments/1vl3dem/wm7x_exam_great_experience/)**
-by u/Robs_Backyard_BBQ
+**4. [Expat operating from the UAE, sharing some notes after 3 months of trying to get...](https://www.reddit.com/r/amateurradio/comments/1vm2s89/expat_operating_from_the_uae_sharing_some_notes/)**
+by u/Rosa-Starks
 
-**5. [CAT adapter for ICOM 13pACC&CI-V](https://www.reddit.com/r/amateurradio/comments/1vl9b05/cat_adapter_for_icom_13paccciv/)**
-by u/AlanCui4080
+**5. [My mobile setup.](https://www.reddit.com/r/amateurradio/comments/1vlig53/my_mobile_setup/)**
+by u/Bingo_Pants
 
-**6. [FCC Blocking scripted ULS Queries](https://www.reddit.com/r/amateurradio/comments/1vkztfv/fcc_blocking_scripted_uls_queries/)**
-by u/MentalEggplant9275
+**6. [Crystal radio works!!!](https://www.reddit.com/r/amateurradio/comments/1vlsx9r/crystal_radio_works/)**
+by u/Inevitable-Neck6114
 
-**7. [How and where does an electromagnetic „Transfer“ into an electrical Signal?](https://www.reddit.com/r/amateurradio/comments/1vlagv0/how_and_where_does_an_electromagnetic_transfer/)**
-by u/Force-8938
+**7. [Update: Case Dismissed - Cowan v. FCC Case No. D.D.C. 24-CV-3099-ACR](https://www.reddit.com/r/amateurradio/comments/1vlw09d/update_case_dismissed_cowan_v_fcc_case_no_ddc/)**
+by u/rimsinni
 
-**8. [OpenRepeater.org is offering a 100% FREE Repeater API for developers.](https://www.reddit.com/r/amateurradio/comments/1vl3hf0/openrepeaterorg_is_offering_a_100_free_repeater/)**
-by u/GarbageAdept2465
+**8. [what type of connector is this?](https://www.reddit.com/r/amateurradio/comments/1vlkr7j/what_type_of_connector_is_this/)**
+by u/Ok_Elevator9948
 
-**9. [Antenna build ideas](https://www.reddit.com/r/amateurradio/comments/1vkyhnc/antenna_build_ideas/)**
-by u/actionfingerss
+**9. [Problemi con il mixer della radio AM](https://www.reddit.com/r/amateurradio/comments/1vm61t9/problemi_con_il_mixer_della_radio_am/)**
+by u/Which_Paramedic_2117
 
-**10. [Just got my first ham radio…](https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/)**
-by u/hiistakes
+**10. [CB radio on Tecsun PL-330?](https://www.reddit.com/r/amateurradio/comments/1vm5vop/cb_radio_on_tecsun_pl330/)**
+by u/Cybrand_
 
-**11. [FT2](https://www.reddit.com/r/amateurradio/comments/1vl9cyx/ft2/)**
-by u/noddy51
+**11. [Auriculares de alta impedancia con un buzzer para una radio de cristal](https://www.reddit.com/r/amateurradio/comments/1vm5ge5/auriculares_de_alta_impedancia_con_un_buzzer_para/)**
+by u/Ness22itoi
 
-**12. [Help me with FT8 on WSJT-X please! I'm not getting responses.](https://www.reddit.com/r/amateurradio/comments/1vkzd0w/help_me_with_ft8_on_wsjtx_please_im_not_getting/)**
-by u/Gigem1987
+**12. [Found this somewhat recently. Works great(Just listening) and holds a charge. BA...](https://www.reddit.com/r/amateurradio/comments/1vlk93l/found_this_somewhat_recently_works_greatjust/)**
+by u/GrimIntention91
 
-**13. [EFHW](https://www.reddit.com/r/amateurradio/comments/1vkm4bw/efhw/)**
-by u/bdub7681
+**13. [Coax thru wall](https://www.reddit.com/r/amateurradio/comments/1vm224o/coax_thru_wall/)**
+by u/No-Fun6351
 
-**14. [Can any of the simple modulation methods transmit audio signals down to DC?](https://www.reddit.com/r/amateurradio/comments/1vkuey2/can_any_of_the_simple_modulation_methods_transmit/)**
-by u/cheater00
+**14. [Questions on RF grounding, SWR, tuners, and how to get on HF in an apartment bui...](https://www.reddit.com/r/amateurradio/comments/1vlyk1e/questions_on_rf_grounding_swr_tuners_and_how_to/)**
+by u/Puzzleheaded_Mud_213
 
-**15. [Mppt charge controller?](https://www.reddit.com/r/amateurradio/comments/1vktn1e/mppt_charge_controller/)**
-by u/Automatic_Relief7909
+**15. [Need some help w/ battery selection for my FTDX10](https://www.reddit.com/r/amateurradio/comments/1vm4731/need_some_help_w_battery_selection_for_my_ftdx10/)**
+by u/KhyberPasshole
 
 ---
 
@@ -61,14 +61,14 @@ by u/Automatic_Relief7909
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[TIL that Arcade Fire used the ARRL logo for their album “The Suburbs”](https://www.reddit.com/r/amateurradio/comments/1vkzmg8/til_that_arcade_fire_used_the_arrl_logo_for_their/)** (r/amateurradio)
-- **[WM7X exam.. great experience!](https://www.reddit.com/r/amateurradio/comments/1vl3dem/wm7x_exam_great_experience/)** (r/amateurradio)
-- **[CAT adapter for ICOM 13pACC&CI-V](https://www.reddit.com/r/amateurradio/comments/1vl9b05/cat_adapter_for_icom_13paccciv/)** (r/amateurradio)
-- **[FCC Blocking scripted ULS Queries](https://www.reddit.com/r/amateurradio/comments/1vkztfv/fcc_blocking_scripted_uls_queries/)** (r/amateurradio)
-- **[How and where does an electromagnetic „Transfer“ into an electrical Si...](https://www.reddit.com/r/amateurradio/comments/1vlagv0/how_and_where_does_an_electromagnetic_transfer/)** (r/amateurradio)
-- **[OpenRepeater.org is offering a 100% FREE Repeater API for developers.](https://www.reddit.com/r/amateurradio/comments/1vl3hf0/openrepeaterorg_is_offering_a_100_free_repeater/)** (r/amateurradio)
-- **[Antenna build ideas](https://www.reddit.com/r/amateurradio/comments/1vkyhnc/antenna_build_ideas/)** (r/amateurradio)
-- **[Just got my first ham radio…](https://www.reddit.com/r/amateurradio/comments/1vk5dkw/just_got_my_first_ham_radio/)** (r/amateurradio)
+- **[A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)** (r/amateurradio)
+- **[Expat operating from the UAE, sharing some notes after 3 months of try...](https://www.reddit.com/r/amateurradio/comments/1vm2s89/expat_operating_from_the_uae_sharing_some_notes/)** (r/amateurradio)
+- **[My mobile setup.](https://www.reddit.com/r/amateurradio/comments/1vlig53/my_mobile_setup/)** (r/amateurradio)
+- **[Crystal radio works!!!](https://www.reddit.com/r/amateurradio/comments/1vlsx9r/crystal_radio_works/)** (r/amateurradio)
+- **[Update: Case Dismissed - Cowan v. FCC Case No. D.D.C. 24-CV-3099-ACR](https://www.reddit.com/r/amateurradio/comments/1vlw09d/update_case_dismissed_cowan_v_fcc_case_no_ddc/)** (r/amateurradio)
+- **[what type of connector is this?](https://www.reddit.com/r/amateurradio/comments/1vlkr7j/what_type_of_connector_is_this/)** (r/amateurradio)
+- **[Problemi con il mixer della radio AM](https://www.reddit.com/r/amateurradio/comments/1vm61t9/problemi_con_il_mixer_della_radio_am/)** (r/amateurradio)
+- **[CB radio on Tecsun PL-330?](https://www.reddit.com/r/amateurradio/comments/1vm5vop/cb_radio_on_tecsun_pl330/)** (r/amateurradio)
 
 ---
 

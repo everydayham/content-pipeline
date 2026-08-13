@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-12 11:49 UTC*
+*Last updated: 2026-08-13 11:49 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)**
-by u/filkerdave
+**3. [First SSB contact to ZL from CT USA... By all means it shouldn't have worked... ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)**
+by u/adhdff
 
-**4. [Expat operating from the UAE, sharing some notes after 3 months of trying to get...](https://www.reddit.com/r/amateurradio/comments/1vm2s89/expat_operating_from_the_uae_sharing_some_notes/)**
-by u/Rosa-Starks
+**4. ["Tower for sale, worked perfectly when I last used it." /s](https://www.reddit.com/r/amateurradio/comments/1vmk35m/tower_for_sale_worked_perfectly_when_i_last_used/)**
+by u/KC_Que
 
-**5. [My mobile setup.](https://www.reddit.com/r/amateurradio/comments/1vlig53/my_mobile_setup/)**
-by u/Bingo_Pants
+**5. [Newly minted Technician having trouble with repeaters](https://www.reddit.com/r/amateurradio/comments/1vmvrkr/newly_minted_technician_having_trouble_with/)**
+by u/whiskeylover
 
-**6. [Crystal radio works!!!](https://www.reddit.com/r/amateurradio/comments/1vlsx9r/crystal_radio_works/)**
+**6. [I got some sexy diodes](https://www.reddit.com/r/amateurradio/comments/1vmii9t/i_got_some_sexy_diodes/)**
 by u/Inevitable-Neck6114
 
-**7. [Update: Case Dismissed - Cowan v. FCC Case No. D.D.C. 24-CV-3099-ACR](https://www.reddit.com/r/amateurradio/comments/1vlw09d/update_case_dismissed_cowan_v_fcc_case_no_ddc/)**
-by u/rimsinni
+**7. [Q: Is the X6100 SWR meter not actually accurate?](https://www.reddit.com/r/amateurradio/comments/1vmzt8z/q_is_the_x6100_swr_meter_not_actually_accurate/)**
+by u/thevmcampos
 
-**8. [what type of connector is this?](https://www.reddit.com/r/amateurradio/comments/1vlkr7j/what_type_of_connector_is_this/)**
-by u/Ok_Elevator9948
+**8. [Is Yaesu 991/991a really bad?](https://www.reddit.com/r/amateurradio/comments/1vmvlgl/is_yaesu_991991a_really_bad/)**
+by u/Profesional_Pie45
 
-**9. [Problemi con il mixer della radio AM](https://www.reddit.com/r/amateurradio/comments/1vm61t9/problemi_con_il_mixer_della_radio_am/)**
-by u/Which_Paramedic_2117
+**9. [A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)**
+by u/filkerdave
 
-**10. [CB radio on Tecsun PL-330?](https://www.reddit.com/r/amateurradio/comments/1vm5vop/cb_radio_on_tecsun_pl330/)**
-by u/Cybrand_
+**10. [Finished my QMX assembly](https://www.reddit.com/r/amateurradio/comments/1vmlsst/finished_my_qmx_assembly/)**
+by u/blue-moto
 
-**11. [Auriculares de alta impedancia con un buzzer para una radio de cristal](https://www.reddit.com/r/amateurradio/comments/1vm5ge5/auriculares_de_alta_impedancia_con_un_buzzer_para/)**
-by u/Ness22itoi
+**11. [Best 17 foot telescopic whip?](https://www.reddit.com/r/amateurradio/comments/1vmlsru/best_17_foot_telescopic_whip/)**
+by u/kc3zyt
 
-**12. [Found this somewhat recently. Works great(Just listening) and holds a charge. BA...](https://www.reddit.com/r/amateurradio/comments/1vlk93l/found_this_somewhat_recently_works_greatjust/)**
-by u/GrimIntention91
+**12. [Baofeng AR-5RM Philippines](https://www.reddit.com/r/amateurradio/comments/1vn53bz/baofeng_ar5rm_philippines/)**
+by u/the_shell_
 
-**13. [Coax thru wall](https://www.reddit.com/r/amateurradio/comments/1vm224o/coax_thru_wall/)**
-by u/No-Fun6351
+**13. [Yaesu G450A Issue](https://www.reddit.com/r/amateurradio/comments/1vmxhdm/yaesu_g450a_issue/)**
+by u/Existential-Boredom
 
-**14. [Questions on RF grounding, SWR, tuners, and how to get on HF in an apartment bui...](https://www.reddit.com/r/amateurradio/comments/1vlyk1e/questions_on_rf_grounding_swr_tuners_and_how_to/)**
-by u/Puzzleheaded_Mud_213
+**14. [Search and Rescue Radio Architecture: Amateur, Part 90, Mesh, etc. Help me Learn](https://www.reddit.com/r/amateurradio/comments/1vmr9oi/search_and_rescue_radio_architecture_amateur_part/)**
+by u/John_Hughes_Product
 
-**15. [Need some help w/ battery selection for my FTDX10](https://www.reddit.com/r/amateurradio/comments/1vm4731/need_some_help_w_battery_selection_for_my_ftdx10/)**
-by u/KhyberPasshole
+**15. [Best practice for needing multiple CAT instances](https://www.reddit.com/r/amateurradio/comments/1vmtyki/best_practice_for_needing_multiple_cat_instances/)**
+by u/jboogie81
 
 ---
 
@@ -61,14 +61,14 @@ by u/KhyberPasshole
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[First SSB contact to ZL from CT USA... By all means it shouldn't have ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)** (r/amateurradio)
+- **["Tower for sale, worked perfectly when I last used it." /s](https://www.reddit.com/r/amateurradio/comments/1vmk35m/tower_for_sale_worked_perfectly_when_i_last_used/)** (r/amateurradio)
+- **[Newly minted Technician having trouble with repeaters](https://www.reddit.com/r/amateurradio/comments/1vmvrkr/newly_minted_technician_having_trouble_with/)** (r/amateurradio)
+- **[I got some sexy diodes](https://www.reddit.com/r/amateurradio/comments/1vmii9t/i_got_some_sexy_diodes/)** (r/amateurradio)
+- **[Q: Is the X6100 SWR meter not actually accurate?](https://www.reddit.com/r/amateurradio/comments/1vmzt8z/q_is_the_x6100_swr_meter_not_actually_accurate/)** (r/amateurradio)
+- **[Is Yaesu 991/991a really bad?](https://www.reddit.com/r/amateurradio/comments/1vmvlgl/is_yaesu_991991a_really_bad/)** (r/amateurradio)
 - **[A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)** (r/amateurradio)
-- **[Expat operating from the UAE, sharing some notes after 3 months of try...](https://www.reddit.com/r/amateurradio/comments/1vm2s89/expat_operating_from_the_uae_sharing_some_notes/)** (r/amateurradio)
-- **[My mobile setup.](https://www.reddit.com/r/amateurradio/comments/1vlig53/my_mobile_setup/)** (r/amateurradio)
-- **[Crystal radio works!!!](https://www.reddit.com/r/amateurradio/comments/1vlsx9r/crystal_radio_works/)** (r/amateurradio)
-- **[Update: Case Dismissed - Cowan v. FCC Case No. D.D.C. 24-CV-3099-ACR](https://www.reddit.com/r/amateurradio/comments/1vlw09d/update_case_dismissed_cowan_v_fcc_case_no_ddc/)** (r/amateurradio)
-- **[what type of connector is this?](https://www.reddit.com/r/amateurradio/comments/1vlkr7j/what_type_of_connector_is_this/)** (r/amateurradio)
-- **[Problemi con il mixer della radio AM](https://www.reddit.com/r/amateurradio/comments/1vm61t9/problemi_con_il_mixer_della_radio_am/)** (r/amateurradio)
-- **[CB radio on Tecsun PL-330?](https://www.reddit.com/r/amateurradio/comments/1vm5vop/cb_radio_on_tecsun_pl330/)** (r/amateurradio)
+- **[Finished my QMX assembly](https://www.reddit.com/r/amateurradio/comments/1vmlsst/finished_my_qmx_assembly/)** (r/amateurradio)
 
 ---
 

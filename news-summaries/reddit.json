@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T11:49:56.301786",
+  "updated": "2026-08-14T11:46:06.967548",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,84 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "An 81-Year-Old Ham, His Two Sons, and Route 66",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/",
+        "author": "/u/Eni_Revlow"
+      },
+      {
+        "title": "BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/",
+        "author": "/u/CQWarbler"
+      },
+      {
+        "title": "I got an old Czechoslovak handheld radiotransmitter - need some help identifying what antenna port they use",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/",
+        "author": "/u/Milokoj_Jones"
+      },
+      {
+        "title": "HamCQ: An active Chinese amateur radio community with 10,000+ members, multilingual discussions, and Wavelog cloud hosting",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo1scl/hamcq_an_active_chinese_amateur_radio_community/",
+        "author": "/u/Environmental-Gate63"
+      },
+      {
+        "title": "n6jet.com is a free searchable website for guides/notes to amateur digital voice (DMR, D-STAR, Fusion, M17, P25, NXDN)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/",
+        "author": "/u/Chris7AA"
+      },
+      {
+        "title": "Antenna Mast Design",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnh5yh/antenna_mast_design/",
+        "author": "/u/Zek-The-Man"
+      },
+      {
+        "title": "Learning to use iambic paddles: am I just bad",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnsd1e/learning_to_use_iambic_paddles_am_i_just_bad/",
+        "author": "/u/sac_boy"
+      },
+      {
+        "title": "LCWO Rx Settings For India ASOC General License Exam",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo2bvr/lcwo_rx_settings_for_india_asoc_general_license/",
+        "author": "/u/tony2176"
+      },
+      {
+        "title": "Ferrite Toroid for Medium Wave?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo1x0p/ferrite_toroid_for_medium_wave/",
+        "author": "/u/Novel_Intention_5061"
+      },
+      {
         "title": "First SSB contact to ZL from CT USA... By all means it shouldn't have worked... SFI only 100, 20 meters after midnight, storm related band crashes. But somehow I got it done.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/",
         "author": "/u/adhdff"
+      },
+      {
+        "title": "QMX or Mountain Topper for a do anything mini go setup?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnphzv/qmx_or_mountain_topper_for_a_do_anything_mini_go/",
+        "author": "/u/groovinhighness"
+      },
+      {
+        "title": "Procedural Strategy in Cowan v. FCC (Case No. 26-5293): Why a Jurisdictional Dismissal Was the Key to Dragging the FCC Into a Statutory Appeal of Right",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vo3fcs/procedural_strategy_in_cowan_v_fcc_case_no_265293/",
+        "author": "/u/CaptKirk2021"
+      },
+      {
+        "title": "Outlets all have open grounds: solutions?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vndlvw/outlets_all_have_open_grounds_solutions/",
+        "author": "/u/JanglyBangles"
+      },
+      {
+        "title": "Software modems in ham radio \u2014 Part 1: Two kinds of burst",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnu1mh/software_modems_in_ham_radio_part_1_two_kinds_of/",
+        "author": "/u/Yeti7"
+      },
+      {
+        "title": "Ailunce HD2 Antena Recommendations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vns91t/ailunce_hd2_antena_recommendations/",
+        "author": "/u/SharpSeaworthiness56"
+      },
+      {
+        "title": "Winlink on 2 meter",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vn9jt6/winlink_on_2_meter/",
+        "author": "/u/SeadawgVB"
       },
       {
         "title": "\"Tower for sale, worked perfectly when I last used it.\" /s",
@@ -27,109 +102,34 @@
         "author": "/u/KC_Que"
       },
       {
+        "title": "Studying for the UK Intermediate exam",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnan76/studying_for_the_uk_intermediate_exam/",
+        "author": "/u/r0bbbo"
+      },
+      {
         "title": "Newly minted Technician having trouble with repeaters",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vmvrkr/newly_minted_technician_having_trouble_with/",
         "author": "/u/whiskeylover"
       },
       {
-        "title": "I got some sexy diodes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmii9t/i_got_some_sexy_diodes/",
-        "author": "/u/Inevitable-Neck6114"
+        "title": "Education links or notes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnab33/education_links_or_notes/",
+        "author": "/u/Infinite-Ad6663"
       },
       {
-        "title": "Q: Is the X6100 SWR meter not actually accurate?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmzt8z/q_is_the_x6100_swr_meter_not_actually_accurate/",
-        "author": "/u/thevmcampos"
+        "title": "Browser for QRZ (Android App, Chrome Extension, Google Sheets Add-on)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnplqv/browser_for_qrz_android_app_chrome_extension/",
+        "author": "/u/Neither-Brush-9287"
       },
       {
-        "title": "Is Yaesu 991/991a really bad?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmvlgl/is_yaesu_991991a_really_bad/",
-        "author": "/u/Profesional_Pie45"
+        "title": "Looking for a TX/RX relay that allows dual RX",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vnemfz/looking_for_a_txrx_relay_that_allows_dual_rx/",
+        "author": "/u/crash5291"
       },
       {
-        "title": "A few pics from today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/",
-        "author": "/u/filkerdave"
-      },
-      {
-        "title": "Finished my QMX assembly",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmlsst/finished_my_qmx_assembly/",
-        "author": "/u/blue-moto"
-      },
-      {
-        "title": "Best 17 foot telescopic whip?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmlsru/best_17_foot_telescopic_whip/",
-        "author": "/u/kc3zyt"
-      },
-      {
-        "title": "Baofeng AR-5RM Philippines",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vn53bz/baofeng_ar5rm_philippines/",
-        "author": "/u/the_shell_"
-      },
-      {
-        "title": "Yaesu G450A Issue",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmxhdm/yaesu_g450a_issue/",
-        "author": "/u/Existential-Boredom"
-      },
-      {
-        "title": "Search and Rescue Radio Architecture: Amateur, Part 90, Mesh, etc. Help me Learn",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmr9oi/search_and_rescue_radio_architecture_amateur_part/",
-        "author": "/u/John_Hughes_Product"
-      },
-      {
-        "title": "Best practice for needing multiple CAT instances",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmtyki/best_practice_for_needing_multiple_cat_instances/",
-        "author": "/u/jboogie81"
-      },
-      {
-        "title": "Antenna Spacing Question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmkofl/antenna_spacing_question/",
-        "author": "/u/EdVenture42"
-      },
-      {
-        "title": "Want to add 2m/70cm mobile to shack. Good models to watch for?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmniw8/want_to_add_2m70cm_mobile_to_shack_good_models_to/",
-        "author": "/u/fullautohotdog"
-      },
-      {
-        "title": "Newly Licensed",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmld3a/newly_licensed/",
-        "author": "/u/Zek-The-Man"
-      },
-      {
-        "title": "Ferrite Mix 31 Chokes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmrdsr/ferrite_mix_31_chokes/",
-        "author": "/u/Frjeff"
-      },
-      {
-        "title": "Update / Recap: Teardown of my custom-shielded RTL-SDR v4 vs. stock v4c - V4 and V4C are the same?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmt5iv/update_recap_teardown_of_my_customshielded_rtlsdr/",
-        "author": "/u/Automatic_Village954"
-      },
-      {
-        "title": "how to make a simple bfo for beginners with zero experience on soldering?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vml4yt/how_to_make_a_simple_bfo_for_beginners_with_zero/",
-        "author": "/u/SwitchNo1445"
-      },
-      {
-        "title": "Expat operating from the UAE, sharing some notes after 3 months of trying to get a station up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vm2s89/expat_operating_from_the_uae_sharing_some_notes/",
-        "author": "/u/Rosa-Starks"
-      },
-      {
-        "title": "Hustler 6BTV grounding rod needed?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmo0n4/hustler_6btv_grounding_rod_needed/",
-        "author": "/u/Im_Still_Here12"
-      },
-      {
-        "title": "Weird new interference coming from dad's radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vmhkhl/weird_new_interference_coming_from_dads_radio/",
-        "author": "/u/Octopusnautical"
-      },
-      {
-        "title": "My mobile setup.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vlig53/my_mobile_setup/",
-        "author": "/u/Bingo_Pants"
+        "title": "Looking for Communications Outfitters FT-817 Bag",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vndy3b/looking_for_communications_outfitters_ft817_bag/",
+        "author": "/u/FeliksKrzeminski"
       }
     ]
   }

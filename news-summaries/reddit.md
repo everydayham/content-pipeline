@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-13 11:49 UTC*
+*Last updated: 2026-08-14 11:46 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [First SSB contact to ZL from CT USA... By all means it shouldn't have worked... ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)**
+**3. [An 81-Year-Old Ham, His Two Sons, and Route 66](https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/)**
+by u/Eni_Revlow
+
+**4. [BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880](https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/)**
+by u/CQWarbler
+
+**5. [I got an old Czechoslovak handheld radiotransmitter - need some help identifying...](https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/)**
+by u/Milokoj_Jones
+
+**6. [HamCQ: An active Chinese amateur radio community with 10,000+ members, multiling...](https://www.reddit.com/r/amateurradio/comments/1vo1scl/hamcq_an_active_chinese_amateur_radio_community/)**
+by u/Environmental-Gate63
+
+**7. [n6jet.com is a free searchable website for guides/notes to amateur digital voice...](https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/)**
+by u/Chris7AA
+
+**8. [Antenna Mast Design](https://www.reddit.com/r/amateurradio/comments/1vnh5yh/antenna_mast_design/)**
+by u/Zek-The-Man
+
+**9. [Learning to use iambic paddles: am I just bad](https://www.reddit.com/r/amateurradio/comments/1vnsd1e/learning_to_use_iambic_paddles_am_i_just_bad/)**
+by u/sac_boy
+
+**10. [LCWO Rx Settings For India ASOC General License Exam](https://www.reddit.com/r/amateurradio/comments/1vo2bvr/lcwo_rx_settings_for_india_asoc_general_license/)**
+by u/tony2176
+
+**11. [Ferrite Toroid for Medium Wave?](https://www.reddit.com/r/amateurradio/comments/1vo1x0p/ferrite_toroid_for_medium_wave/)**
+by u/Novel_Intention_5061
+
+**12. [First SSB contact to ZL from CT USA... By all means it shouldn't have worked... ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)**
 by u/adhdff
 
-**4. ["Tower for sale, worked perfectly when I last used it." /s](https://www.reddit.com/r/amateurradio/comments/1vmk35m/tower_for_sale_worked_perfectly_when_i_last_used/)**
-by u/KC_Que
+**13. [QMX or Mountain Topper for a do anything mini go setup?](https://www.reddit.com/r/amateurradio/comments/1vnphzv/qmx_or_mountain_topper_for_a_do_anything_mini_go/)**
+by u/groovinhighness
 
-**5. [Newly minted Technician having trouble with repeaters](https://www.reddit.com/r/amateurradio/comments/1vmvrkr/newly_minted_technician_having_trouble_with/)**
-by u/whiskeylover
+**14. [Procedural Strategy in Cowan v. FCC (Case No. 26-5293): Why a Jurisdictional Dis...](https://www.reddit.com/r/amateurradio/comments/1vo3fcs/procedural_strategy_in_cowan_v_fcc_case_no_265293/)**
+by u/CaptKirk2021
 
-**6. [I got some sexy diodes](https://www.reddit.com/r/amateurradio/comments/1vmii9t/i_got_some_sexy_diodes/)**
-by u/Inevitable-Neck6114
-
-**7. [Q: Is the X6100 SWR meter not actually accurate?](https://www.reddit.com/r/amateurradio/comments/1vmzt8z/q_is_the_x6100_swr_meter_not_actually_accurate/)**
-by u/thevmcampos
-
-**8. [Is Yaesu 991/991a really bad?](https://www.reddit.com/r/amateurradio/comments/1vmvlgl/is_yaesu_991991a_really_bad/)**
-by u/Profesional_Pie45
-
-**9. [A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)**
-by u/filkerdave
-
-**10. [Finished my QMX assembly](https://www.reddit.com/r/amateurradio/comments/1vmlsst/finished_my_qmx_assembly/)**
-by u/blue-moto
-
-**11. [Best 17 foot telescopic whip?](https://www.reddit.com/r/amateurradio/comments/1vmlsru/best_17_foot_telescopic_whip/)**
-by u/kc3zyt
-
-**12. [Baofeng AR-5RM Philippines](https://www.reddit.com/r/amateurradio/comments/1vn53bz/baofeng_ar5rm_philippines/)**
-by u/the_shell_
-
-**13. [Yaesu G450A Issue](https://www.reddit.com/r/amateurradio/comments/1vmxhdm/yaesu_g450a_issue/)**
-by u/Existential-Boredom
-
-**14. [Search and Rescue Radio Architecture: Amateur, Part 90, Mesh, etc. Help me Learn](https://www.reddit.com/r/amateurradio/comments/1vmr9oi/search_and_rescue_radio_architecture_amateur_part/)**
-by u/John_Hughes_Product
-
-**15. [Best practice for needing multiple CAT instances](https://www.reddit.com/r/amateurradio/comments/1vmtyki/best_practice_for_needing_multiple_cat_instances/)**
-by u/jboogie81
+**15. [Outlets all have open grounds: solutions?](https://www.reddit.com/r/amateurradio/comments/1vndlvw/outlets_all_have_open_grounds_solutions/)**
+by u/JanglyBangles
 
 ---
 
@@ -61,14 +61,14 @@ by u/jboogie81
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[First SSB contact to ZL from CT USA... By all means it shouldn't have ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)** (r/amateurradio)
-- **["Tower for sale, worked perfectly when I last used it." /s](https://www.reddit.com/r/amateurradio/comments/1vmk35m/tower_for_sale_worked_perfectly_when_i_last_used/)** (r/amateurradio)
-- **[Newly minted Technician having trouble with repeaters](https://www.reddit.com/r/amateurradio/comments/1vmvrkr/newly_minted_technician_having_trouble_with/)** (r/amateurradio)
-- **[I got some sexy diodes](https://www.reddit.com/r/amateurradio/comments/1vmii9t/i_got_some_sexy_diodes/)** (r/amateurradio)
-- **[Q: Is the X6100 SWR meter not actually accurate?](https://www.reddit.com/r/amateurradio/comments/1vmzt8z/q_is_the_x6100_swr_meter_not_actually_accurate/)** (r/amateurradio)
-- **[Is Yaesu 991/991a really bad?](https://www.reddit.com/r/amateurradio/comments/1vmvlgl/is_yaesu_991991a_really_bad/)** (r/amateurradio)
-- **[A few pics from today](https://www.reddit.com/r/amateurradio/comments/1vm5pkw/a_few_pics_from_today/)** (r/amateurradio)
-- **[Finished my QMX assembly](https://www.reddit.com/r/amateurradio/comments/1vmlsst/finished_my_qmx_assembly/)** (r/amateurradio)
+- **[An 81-Year-Old Ham, His Two Sons, and Route 66](https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/)** (r/amateurradio)
+- **[BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880](https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/)** (r/amateurradio)
+- **[I got an old Czechoslovak handheld radiotransmitter - need some help i...](https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/)** (r/amateurradio)
+- **[HamCQ: An active Chinese amateur radio community with 10,000+ members,...](https://www.reddit.com/r/amateurradio/comments/1vo1scl/hamcq_an_active_chinese_amateur_radio_community/)** (r/amateurradio)
+- **[n6jet.com is a free searchable website for guides/notes to amateur dig...](https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/)** (r/amateurradio)
+- **[Antenna Mast Design](https://www.reddit.com/r/amateurradio/comments/1vnh5yh/antenna_mast_design/)** (r/amateurradio)
+- **[Learning to use iambic paddles: am I just bad](https://www.reddit.com/r/amateurradio/comments/1vnsd1e/learning_to_use_iambic_paddles_am_i_just_bad/)** (r/amateurradio)
+- **[LCWO Rx Settings For India ASOC General License Exam](https://www.reddit.com/r/amateurradio/comments/1vo2bvr/lcwo_rx_settings_for_india_asoc_general_license/)** (r/amateurradio)
 
 ---
 

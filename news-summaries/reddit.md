@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-14 11:46 UTC*
+*Last updated: 2026-08-15 11:22 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [An 81-Year-Old Ham, His Two Sons, and Route 66](https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/)**
-by u/Eni_Revlow
+**3. [Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of All The N...](https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/)**
+by u/stephen_neuville
 
-**4. [BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880](https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/)**
-by u/CQWarbler
+**4. [Icom SDR firmware wishlist?](https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/)**
+by u/v81
 
-**5. [I got an old Czechoslovak handheld radiotransmitter - need some help identifying...](https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/)**
-by u/Milokoj_Jones
+**5. [Help with parallel lines RFI](https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/)**
+by u/TheJZone22
 
-**6. [HamCQ: An active Chinese amateur radio community with 10,000+ members, multiling...](https://www.reddit.com/r/amateurradio/comments/1vo1scl/hamcq_an_active_chinese_amateur_radio_community/)**
-by u/Environmental-Gate63
+**6. [15yo homebrew enthusiast here! Just finished two RX antennas in my workshop](https://www.reddit.com/r/amateurradio/comments/1voxf4k/15yo_homebrew_enthusiast_here_just_finished_two/)**
+by u/RozzKiv
 
-**7. [n6jet.com is a free searchable website for guides/notes to amateur digital voice...](https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/)**
-by u/Chris7AA
+**7. [XT60 power socket in Icom](https://www.reddit.com/r/amateurradio/comments/1vo592h/xt60_power_socket_in_icom/)**
+by u/ComprehensiveTown15
 
-**8. [Antenna Mast Design](https://www.reddit.com/r/amateurradio/comments/1vnh5yh/antenna_mast_design/)**
-by u/Zek-The-Man
+**8. [Icom SDR users - requesting input regarding Presets (eg FT8).](https://www.reddit.com/r/amateurradio/comments/1vox4ht/icom_sdr_users_requesting_input_regarding_presets/)**
+by u/v81
 
-**9. [Learning to use iambic paddles: am I just bad](https://www.reddit.com/r/amateurradio/comments/1vnsd1e/learning_to_use_iambic_paddles_am_i_just_bad/)**
-by u/sac_boy
+**9. [Just a little experiment I did, I hope some of you can appreciate it.](https://www.reddit.com/r/amateurradio/comments/1vo6w18/just_a_little_experiment_i_did_i_hope_some_of_you/)**
+by u/robertooh04
 
-**10. [LCWO Rx Settings For India ASOC General License Exam](https://www.reddit.com/r/amateurradio/comments/1vo2bvr/lcwo_rx_settings_for_india_asoc_general_license/)**
-by u/tony2176
+**10. [My biggest gripe with searching for different radio models is the lack of clear ...](https://www.reddit.com/r/amateurradio/comments/1vo93xt/my_biggest_gripe_with_searching_for_different/)**
+by u/n0fumar
 
-**11. [Ferrite Toroid for Medium Wave?](https://www.reddit.com/r/amateurradio/comments/1vo1x0p/ferrite_toroid_for_medium_wave/)**
-by u/Novel_Intention_5061
+**11. [Packaway Weekend!](https://www.reddit.com/r/amateurradio/comments/1voxx17/packaway_weekend/)**
+by u/LectureRemote4733
 
-**12. [First SSB contact to ZL from CT USA... By all means it shouldn't have worked... ...](https://www.reddit.com/r/amateurradio/comments/1vn1ubp/first_ssb_contact_to_zl_from_ct_usa_by_all_means/)**
-by u/adhdff
+**12. [Huge victory for me!!!](https://www.reddit.com/r/amateurradio/comments/1voruj1/huge_victory_for_me/)**
+by u/KC5SDY
 
-**13. [QMX or Mountain Topper for a do anything mini go setup?](https://www.reddit.com/r/amateurradio/comments/1vnphzv/qmx_or_mountain_topper_for_a_do_anything_mini_go/)**
-by u/groovinhighness
+**13. [Just bought a TID-H9 TidRadio and looking to get into this hobby! I have no clue...](https://www.reddit.com/r/amateurradio/comments/1vou0va/just_bought_a_tidh9_tidradio_and_looking_to_get/)**
+by u/sethaub
 
-**14. [Procedural Strategy in Cowan v. FCC (Case No. 26-5293): Why a Jurisdictional Dis...](https://www.reddit.com/r/amateurradio/comments/1vo3fcs/procedural_strategy_in_cowan_v_fcc_case_no_265293/)**
-by u/CaptKirk2021
+**14. [Ottawa, ON DMR Activity](https://www.reddit.com/r/amateurradio/comments/1vopcbw/ottawa_on_dmr_activity/)**
+by u/T_622
 
-**15. [Outlets all have open grounds: solutions?](https://www.reddit.com/r/amateurradio/comments/1vndlvw/outlets_all_have_open_grounds_solutions/)**
-by u/JanglyBangles
+**15. [Got an antenna your modeling programs disagree about?](https://www.reddit.com/r/amateurradio/comments/1vojypo/got_an_antenna_your_modeling_programs_disagree/)**
+by u/Zealousideal-Pen9091
 
 ---
 
@@ -61,14 +61,14 @@ by u/JanglyBangles
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[An 81-Year-Old Ham, His Two Sons, and Route 66](https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/)** (r/amateurradio)
-- **[BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880](https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/)** (r/amateurradio)
-- **[I got an old Czechoslovak handheld radiotransmitter - need some help i...](https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/)** (r/amateurradio)
-- **[HamCQ: An active Chinese amateur radio community with 10,000+ members,...](https://www.reddit.com/r/amateurradio/comments/1vo1scl/hamcq_an_active_chinese_amateur_radio_community/)** (r/amateurradio)
-- **[n6jet.com is a free searchable website for guides/notes to amateur dig...](https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/)** (r/amateurradio)
-- **[Antenna Mast Design](https://www.reddit.com/r/amateurradio/comments/1vnh5yh/antenna_mast_design/)** (r/amateurradio)
-- **[Learning to use iambic paddles: am I just bad](https://www.reddit.com/r/amateurradio/comments/1vnsd1e/learning_to_use_iambic_paddles_am_i_just_bad/)** (r/amateurradio)
-- **[LCWO Rx Settings For India ASOC General License Exam](https://www.reddit.com/r/amateurradio/comments/1vo2bvr/lcwo_rx_settings_for_india_asoc_general_license/)** (r/amateurradio)
+- **[Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of...](https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/)** (r/amateurradio)
+- **[Icom SDR firmware wishlist?](https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/)** (r/amateurradio)
+- **[Help with parallel lines RFI](https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/)** (r/amateurradio)
+- **[15yo homebrew enthusiast here! Just finished two RX antennas in my wor...](https://www.reddit.com/r/amateurradio/comments/1voxf4k/15yo_homebrew_enthusiast_here_just_finished_two/)** (r/amateurradio)
+- **[XT60 power socket in Icom](https://www.reddit.com/r/amateurradio/comments/1vo592h/xt60_power_socket_in_icom/)** (r/amateurradio)
+- **[Icom SDR users - requesting input regarding Presets (eg FT8).](https://www.reddit.com/r/amateurradio/comments/1vox4ht/icom_sdr_users_requesting_input_regarding_presets/)** (r/amateurradio)
+- **[Just a little experiment I did, I hope some of you can appreciate it.](https://www.reddit.com/r/amateurradio/comments/1vo6w18/just_a_little_experiment_i_did_i_hope_some_of_you/)** (r/amateurradio)
+- **[My biggest gripe with searching for different radio models is the lack...](https://www.reddit.com/r/amateurradio/comments/1vo93xt/my_biggest_gripe_with_searching_for_different/)** (r/amateurradio)
 
 ---
 

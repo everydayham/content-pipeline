@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T11:22:32.508351",
+  "updated": "2026-08-16T11:22:16.868690",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,19 +17,79 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of All The New Do-It-All Ham Radio Programs!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/",
-        "author": "/u/stephen_neuville"
+        "title": "Is this legit? Nothing about the badges seem to make sense.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpg6vo/is_this_legit_nothing_about_the_badges_seem_to/",
+        "author": "/u/askmewhyihateyou"
       },
       {
-        "title": "Icom SDR firmware wishlist?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/",
-        "author": "/u/v81"
+        "title": "Weird message in WSJT-X FT8 last night",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp75tp/weird_message_in_wsjtx_ft8_last_night/",
+        "author": "/u/Gigem1987"
       },
       {
-        "title": "Help with parallel lines RFI",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/",
-        "author": "/u/TheJZone22"
+        "title": "Playing in my station",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp206h/playing_in_my_station/",
+        "author": "/u/RefrigeratorLess9786"
+      },
+      {
+        "title": "Rebuild of my SB-220 Heathkit Linear amp.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpdjq0/rebuild_of_my_sb220_heathkit_linear_amp/",
+        "author": "/u/RefrigeratorLess9786"
+      },
+      {
+        "title": "I'm working on a project to predict ISS repeater windows between two locations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpqzzy/im_working_on_a_project_to_predict_iss_repeater/",
+        "author": "/u/get-off-my-frequency"
+      },
+      {
+        "title": "Picked up two 803 tubes yesterday. Both dated January 1943.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp8oq4/picked_up_two_803_tubes_yesterday_both_dated/",
+        "author": "/u/2E26"
+      },
+      {
+        "title": "ESP32 CYD Ham Clock Dashboard, new pages new features and fixes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp5k0f/esp32_cyd_ham_clock_dashboard_new_pages_new/",
+        "author": "/u/enormousaardvark"
+      },
+      {
+        "title": "HF Reciever - Amateur setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpk3e7/hf_reciever_amateur_setup/",
+        "author": "/u/matheuswrcx"
+      },
+      {
+        "title": "What signal generators are useful for amateur radio hobbyists?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vprpll/what_signal_generators_are_useful_for_amateur/",
+        "author": "/u/coderemover"
+      },
+      {
+        "title": "Portland Oregon system 3CC",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vphaep/portland_oregon_system_3cc/",
+        "author": "/u/Exciting_Concert7125"
+      },
+      {
+        "title": "Do I need a ground wire?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp190s/do_i_need_a_ground_wire/",
+        "author": "/u/Jvinsnes"
+      },
+      {
+        "title": "Loop Antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpgfxs/loop_antenna/",
+        "author": "/u/horsesethawk"
+      },
+      {
+        "title": "Window line into Coax?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpgh3f/window_line_into_coax/",
+        "author": "/u/mackle-mas"
+      },
+      {
+        "title": "Available on Crowd Supply, RFGEN44 Open Programmable RF Signal Source is",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp6b54/available_on_crowd_supply_rfgen44_open/",
+        "author": "/u/circuitvalley"
+      },
+      {
+        "title": "Need tips on how to build collapsible 40m quarter-wave trapped vertical antenna.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vpd2oz/need_tips_on_how_to_build_collapsible_40m/",
+        "author": "/u/kooler_duck"
       },
       {
         "title": "15yo homebrew enthusiast here! Just finished two RX antennas in my workshop",
@@ -37,34 +97,29 @@
         "author": "/u/RozzKiv"
       },
       {
-        "title": "XT60 power socket in Icom",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo592h/xt60_power_socket_in_icom/",
-        "author": "/u/ComprehensiveTown15"
+        "title": "Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of All The New Do-It-All Ham Radio Programs!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/",
+        "author": "/u/stephen_neuville"
       },
       {
-        "title": "Icom SDR users - requesting input regarding Presets (eg FT8).",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vox4ht/icom_sdr_users_requesting_input_regarding_presets/",
+        "title": "HF Antenna Help",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp9m22/hf_antenna_help/",
+        "author": "/u/CrappyGamingXD"
+      },
+      {
+        "title": "Help with parallel lines RFI",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/",
+        "author": "/u/TheJZone22"
+      },
+      {
+        "title": "Icom SDR firmware wishlist?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/",
         "author": "/u/v81"
       },
       {
-        "title": "Just a little experiment I did, I hope some of you can appreciate it.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo6w18/just_a_little_experiment_i_did_i_hope_some_of_you/",
-        "author": "/u/robertooh04"
-      },
-      {
-        "title": "My biggest gripe with searching for different radio models is the lack of clear progression of model numbers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo93xt/my_biggest_gripe_with_searching_for_different/",
-        "author": "/u/n0fumar"
-      },
-      {
-        "title": "Packaway Weekend!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1voxx17/packaway_weekend/",
-        "author": "/u/LectureRemote4733"
-      },
-      {
-        "title": "Huge victory for me!!!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1voruj1/huge_victory_for_me/",
-        "author": "/u/KC5SDY"
+        "title": "CHA Hybrid Mini",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp7d3h/cha_hybrid_mini/",
+        "author": "/u/AlwaysTheNewb"
       },
       {
         "title": "Just bought a TID-H9 TidRadio and looking to get into this hobby! I have no clue where to start. I\u2019m a complete newby so please be nice.",
@@ -72,64 +127,9 @@
         "author": "/u/sethaub"
       },
       {
-        "title": "Ottawa, ON DMR Activity",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vopcbw/ottawa_on_dmr_activity/",
-        "author": "/u/T_622"
-      },
-      {
-        "title": "Got an antenna your modeling programs disagree about?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vojypo/got_an_antenna_your_modeling_programs_disagree/",
-        "author": "/u/Zealousideal-Pen9091"
-      },
-      {
-        "title": "Yaesu FTDX10",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo56rb/yaesu_ftdx10/",
-        "author": "/u/ArtVandelay365"
-      },
-      {
-        "title": "An 81-Year-Old Ham, His Two Sons, and Route 66",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vnuj2r/an_81yearold_ham_his_two_sons_and_route_66/",
-        "author": "/u/Eni_Revlow"
-      },
-      {
-        "title": "BBC World Service on 17745kHz with ICOM IC-R8600 and MLite-880",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo26gd/bbc_world_service_on_17745khz_with_icom_icr8600/",
-        "author": "/u/CQWarbler"
-      },
-      {
-        "title": "My YT channel with recordings of radio ham QSOs made with Raddy RF 919",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vowhav/my_yt_channel_with_recordings_of_radio_ham_qsos/",
-        "author": "/u/PeterDigitalTwin"
-      },
-      {
-        "title": "FTDX1200 + SCU-17 + WSTJ-X - What settings do I need?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vomfxx/ftdx1200_scu17_wstjx_what_settings_do_i_need/",
-        "author": "/u/Minimum_Impressive"
-      },
-      {
-        "title": "n6jet.com is a free searchable website for guides/notes to amateur digital voice (DMR, D-STAR, Fusion, M17, P25, NXDN)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo07qg/n6jetcom_is_a_free_searchable_website_for/",
-        "author": "/u/Chris7AA"
-      },
-      {
-        "title": "Fighting municipal antenna regulations - Good video",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo5u3o/fighting_municipal_antenna_regulations_good_video/",
-        "author": "/u/Slotgoopy"
-      },
-      {
-        "title": "I got an old Czechoslovak handheld radiotransmitter - need some help identifying what antenna port they use",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vnnilp/i_got_an_old_czechoslovak_handheld/",
-        "author": "/u/Milokoj_Jones"
-      },
-      {
-        "title": "Radio tips",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vo6uox/radio_tips/",
-        "author": "/u/Beginning-Grass-8148"
-      },
-      {
-        "title": "Troubles with my morse setup (connecting to PC)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1voe3er/troubles_with_my_morse_setup_connecting_to_pc/",
-        "author": "/u/Murky_Shape_2863"
+        "title": "Radio Truck Mount",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vp4kcp/radio_truck_mount/",
+        "author": "/u/rnsimmons"
       }
     ]
   }

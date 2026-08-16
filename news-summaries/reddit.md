@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-15 11:22 UTC*
+*Last updated: 2026-08-16 11:22 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of All The N...](https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/)**
-by u/stephen_neuville
+**3. [Is this legit? Nothing about the badges seem to make sense.](https://www.reddit.com/r/amateurradio/comments/1vpg6vo/is_this_legit_nothing_about_the_badges_seem_to/)**
+by u/askmewhyihateyou
 
-**4. [Icom SDR firmware wishlist?](https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/)**
-by u/v81
+**4. [Weird message in WSJT-X FT8 last night](https://www.reddit.com/r/amateurradio/comments/1vp75tp/weird_message_in_wsjtx_ft8_last_night/)**
+by u/Gigem1987
 
-**5. [Help with parallel lines RFI](https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/)**
-by u/TheJZone22
+**5. [Playing in my station](https://www.reddit.com/r/amateurradio/comments/1vp206h/playing_in_my_station/)**
+by u/RefrigeratorLess9786
 
-**6. [15yo homebrew enthusiast here! Just finished two RX antennas in my workshop](https://www.reddit.com/r/amateurradio/comments/1voxf4k/15yo_homebrew_enthusiast_here_just_finished_two/)**
-by u/RozzKiv
+**6. [Rebuild of my SB-220 Heathkit Linear amp.](https://www.reddit.com/r/amateurradio/comments/1vpdjq0/rebuild_of_my_sb220_heathkit_linear_amp/)**
+by u/RefrigeratorLess9786
 
-**7. [XT60 power socket in Icom](https://www.reddit.com/r/amateurradio/comments/1vo592h/xt60_power_socket_in_icom/)**
-by u/ComprehensiveTown15
+**7. [I'm working on a project to predict ISS repeater windows between two locations](https://www.reddit.com/r/amateurradio/comments/1vpqzzy/im_working_on_a_project_to_predict_iss_repeater/)**
+by u/get-off-my-frequency
 
-**8. [Icom SDR users - requesting input regarding Presets (eg FT8).](https://www.reddit.com/r/amateurradio/comments/1vox4ht/icom_sdr_users_requesting_input_regarding_presets/)**
-by u/v81
+**8. [Picked up two 803 tubes yesterday. Both dated January 1943.](https://www.reddit.com/r/amateurradio/comments/1vp8oq4/picked_up_two_803_tubes_yesterday_both_dated/)**
+by u/2E26
 
-**9. [Just a little experiment I did, I hope some of you can appreciate it.](https://www.reddit.com/r/amateurradio/comments/1vo6w18/just_a_little_experiment_i_did_i_hope_some_of_you/)**
-by u/robertooh04
+**9. [ESP32 CYD Ham Clock Dashboard, new pages new features and fixes](https://www.reddit.com/r/amateurradio/comments/1vp5k0f/esp32_cyd_ham_clock_dashboard_new_pages_new/)**
+by u/enormousaardvark
 
-**10. [My biggest gripe with searching for different radio models is the lack of clear ...](https://www.reddit.com/r/amateurradio/comments/1vo93xt/my_biggest_gripe_with_searching_for_different/)**
-by u/n0fumar
+**10. [HF Reciever - Amateur setup](https://www.reddit.com/r/amateurradio/comments/1vpk3e7/hf_reciever_amateur_setup/)**
+by u/matheuswrcx
 
-**11. [Packaway Weekend!](https://www.reddit.com/r/amateurradio/comments/1voxx17/packaway_weekend/)**
-by u/LectureRemote4733
+**11. [What signal generators are useful for amateur radio hobbyists?](https://www.reddit.com/r/amateurradio/comments/1vprpll/what_signal_generators_are_useful_for_amateur/)**
+by u/coderemover
 
-**12. [Huge victory for me!!!](https://www.reddit.com/r/amateurradio/comments/1voruj1/huge_victory_for_me/)**
-by u/KC5SDY
+**12. [Portland Oregon system 3CC](https://www.reddit.com/r/amateurradio/comments/1vphaep/portland_oregon_system_3cc/)**
+by u/Exciting_Concert7125
 
-**13. [Just bought a TID-H9 TidRadio and looking to get into this hobby! I have no clue...](https://www.reddit.com/r/amateurradio/comments/1vou0va/just_bought_a_tidh9_tidradio_and_looking_to_get/)**
-by u/sethaub
+**13. [Do I need a ground wire?](https://www.reddit.com/r/amateurradio/comments/1vp190s/do_i_need_a_ground_wire/)**
+by u/Jvinsnes
 
-**14. [Ottawa, ON DMR Activity](https://www.reddit.com/r/amateurradio/comments/1vopcbw/ottawa_on_dmr_activity/)**
-by u/T_622
+**14. [Loop Antenna](https://www.reddit.com/r/amateurradio/comments/1vpgfxs/loop_antenna/)**
+by u/horsesethawk
 
-**15. [Got an antenna your modeling programs disagree about?](https://www.reddit.com/r/amateurradio/comments/1vojypo/got_an_antenna_your_modeling_programs_disagree/)**
-by u/Zealousideal-Pen9091
+**15. [Window line into Coax?](https://www.reddit.com/r/amateurradio/comments/1vpgh3f/window_line_into_coax/)**
+by u/mackle-mas
 
 ---
 
@@ -61,14 +61,14 @@ by u/Zealousideal-Pen9091
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Introducing HamWorldSpectrumToolsTracker - A New Site To Keep Track Of...](https://www.reddit.com/r/amateurradio/comments/1vol9r1/introducing_hamworldspectrumtoolstracker_a_new/)** (r/amateurradio)
-- **[Icom SDR firmware wishlist?](https://www.reddit.com/r/amateurradio/comments/1voxems/icom_sdr_firmware_wishlist/)** (r/amateurradio)
-- **[Help with parallel lines RFI](https://www.reddit.com/r/amateurradio/comments/1vovp7g/help_with_parallel_lines_rfi/)** (r/amateurradio)
-- **[15yo homebrew enthusiast here! Just finished two RX antennas in my wor...](https://www.reddit.com/r/amateurradio/comments/1voxf4k/15yo_homebrew_enthusiast_here_just_finished_two/)** (r/amateurradio)
-- **[XT60 power socket in Icom](https://www.reddit.com/r/amateurradio/comments/1vo592h/xt60_power_socket_in_icom/)** (r/amateurradio)
-- **[Icom SDR users - requesting input regarding Presets (eg FT8).](https://www.reddit.com/r/amateurradio/comments/1vox4ht/icom_sdr_users_requesting_input_regarding_presets/)** (r/amateurradio)
-- **[Just a little experiment I did, I hope some of you can appreciate it.](https://www.reddit.com/r/amateurradio/comments/1vo6w18/just_a_little_experiment_i_did_i_hope_some_of_you/)** (r/amateurradio)
-- **[My biggest gripe with searching for different radio models is the lack...](https://www.reddit.com/r/amateurradio/comments/1vo93xt/my_biggest_gripe_with_searching_for_different/)** (r/amateurradio)
+- **[Is this legit? Nothing about the badges seem to make sense.](https://www.reddit.com/r/amateurradio/comments/1vpg6vo/is_this_legit_nothing_about_the_badges_seem_to/)** (r/amateurradio)
+- **[Weird message in WSJT-X FT8 last night](https://www.reddit.com/r/amateurradio/comments/1vp75tp/weird_message_in_wsjtx_ft8_last_night/)** (r/amateurradio)
+- **[Playing in my station](https://www.reddit.com/r/amateurradio/comments/1vp206h/playing_in_my_station/)** (r/amateurradio)
+- **[Rebuild of my SB-220 Heathkit Linear amp.](https://www.reddit.com/r/amateurradio/comments/1vpdjq0/rebuild_of_my_sb220_heathkit_linear_amp/)** (r/amateurradio)
+- **[I'm working on a project to predict ISS repeater windows between two l...](https://www.reddit.com/r/amateurradio/comments/1vpqzzy/im_working_on_a_project_to_predict_iss_repeater/)** (r/amateurradio)
+- **[Picked up two 803 tubes yesterday. Both dated January 1943.](https://www.reddit.com/r/amateurradio/comments/1vp8oq4/picked_up_two_803_tubes_yesterday_both_dated/)** (r/amateurradio)
+- **[ESP32 CYD Ham Clock Dashboard, new pages new features and fixes](https://www.reddit.com/r/amateurradio/comments/1vp5k0f/esp32_cyd_ham_clock_dashboard_new_pages_new/)** (r/amateurradio)
+- **[HF Reciever - Amateur setup](https://www.reddit.com/r/amateurradio/comments/1vpk3e7/hf_reciever_amateur_setup/)** (r/amateurradio)
 
 ---
 

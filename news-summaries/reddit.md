@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-16 11:22 UTC*
+*Last updated: 2026-08-17 11:28 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Is this legit? Nothing about the badges seem to make sense.](https://www.reddit.com/r/amateurradio/comments/1vpg6vo/is_this_legit_nothing_about_the_badges_seem_to/)**
-by u/askmewhyihateyou
+**3. [Man. Some of y'all go hard.](https://www.reddit.com/r/amateurradio/comments/1vq9qlr/man_some_of_yall_go_hard/)**
+by u/NotThePopeProbably
 
-**4. [Weird message in WSJT-X FT8 last night](https://www.reddit.com/r/amateurradio/comments/1vp75tp/weird_message_in_wsjtx_ft8_last_night/)**
-by u/Gigem1987
+**4. [Free Antenna](https://www.reddit.com/r/amateurradio/comments/1vqhzhe/free_antenna/)**
+by u/LaDukey
 
-**5. [Playing in my station](https://www.reddit.com/r/amateurradio/comments/1vp206h/playing_in_my_station/)**
-by u/RefrigeratorLess9786
+**5. [We will possibly never see this level of commitment from Kenwood again and that ...](https://www.reddit.com/r/amateurradio/comments/1vqc59k/we_will_possibly_never_see_this_level_of/)**
+by u/SonicResidue
 
-**6. [Rebuild of my SB-220 Heathkit Linear amp.](https://www.reddit.com/r/amateurradio/comments/1vpdjq0/rebuild_of_my_sb220_heathkit_linear_amp/)**
-by u/RefrigeratorLess9786
+**6. [It was me. I cancelled all those 5th Region Callsigns](https://www.reddit.com/r/amateurradio/comments/1vq5shi/it_was_me_i_cancelled_all_those_5th_region/)**
+by u/MentalEggplant9275
 
-**7. [I'm working on a project to predict ISS repeater windows between two locations](https://www.reddit.com/r/amateurradio/comments/1vpqzzy/im_working_on_a_project_to_predict_iss_repeater/)**
-by u/get-off-my-frequency
+**7. [160 Meter POTA Activation TONIGHT 8:30pm PDT Sunday, August 16th](https://www.reddit.com/r/amateurradio/comments/1vqchbt/160_meter_pota_activation_tonight_830pm_pdt/)**
+by u/Bolt_EV
 
-**8. [Picked up two 803 tubes yesterday. Both dated January 1943.](https://www.reddit.com/r/amateurradio/comments/1vp8oq4/picked_up_two_803_tubes_yesterday_both_dated/)**
-by u/2E26
+**8. [Basement find follow-up](https://www.reddit.com/r/amateurradio/comments/1vq5t08/basement_find_followup/)**
+by u/bc170707
 
-**9. [ESP32 CYD Ham Clock Dashboard, new pages new features and fixes](https://www.reddit.com/r/amateurradio/comments/1vp5k0f/esp32_cyd_ham_clock_dashboard_new_pages_new/)**
-by u/enormousaardvark
+**9. [I may need just 1 more antenna or 2](https://www.reddit.com/r/amateurradio/comments/1vqf8if/i_may_need_just_1_more_antenna_or_2/)**
+by u/No_Entrepreneur_3059
 
-**10. [HF Reciever - Amateur setup](https://www.reddit.com/r/amateurradio/comments/1vpk3e7/hf_reciever_amateur_setup/)**
-by u/matheuswrcx
+**10. [Just passed all three exams with WM7X](https://www.reddit.com/r/amateurradio/comments/1vq3qgx/just_passed_all_three_exams_with_wm7x/)**
+by u/EntropyNegotiator
 
-**11. [What signal generators are useful for amateur radio hobbyists?](https://www.reddit.com/r/amateurradio/comments/1vprpll/what_signal_generators_are_useful_for_amateur/)**
-by u/coderemover
+**11. [W6R Route 66 Update — Day 2 and Thanks for All the Contacts](https://www.reddit.com/r/amateurradio/comments/1vqipbg/w6r_route_66_update_day_2_and_thanks_for_all_the/)**
+by u/Eni_Revlow
 
-**12. [Portland Oregon system 3CC](https://www.reddit.com/r/amateurradio/comments/1vphaep/portland_oregon_system_3cc/)**
-by u/Exciting_Concert7125
+**12. [Whip wrangling](https://www.reddit.com/r/amateurradio/comments/1vqewq7/whip_wrangling/)**
+by u/bigfrappe
 
-**13. [Do I need a ground wire?](https://www.reddit.com/r/amateurradio/comments/1vp190s/do_i_need_a_ground_wire/)**
-by u/Jvinsnes
+**13. [Is an LNA needed for Meteor satellites?](https://www.reddit.com/r/amateurradio/comments/1vqo8cb/is_an_lna_needed_for_meteor_satellites/)**
+by u/Dull-Orange2493
 
-**14. [Loop Antenna](https://www.reddit.com/r/amateurradio/comments/1vpgfxs/loop_antenna/)**
-by u/horsesethawk
+**14. [Just build a quick Echolink interface. It'll be fun they said.](https://www.reddit.com/r/amateurradio/comments/1vqebik/just_build_a_quick_echolink_interface_itll_be_fun/)**
+by u/CaptainSpez
 
-**15. [Window line into Coax?](https://www.reddit.com/r/amateurradio/comments/1vpgh3f/window_line_into_coax/)**
-by u/mackle-mas
+**15. [XT60 power socket in Icom. Part 2](https://www.reddit.com/r/amateurradio/comments/1vpuldp/xt60_power_socket_in_icom_part_2/)**
+by u/ComprehensiveTown15
 
 ---
 
@@ -61,14 +61,14 @@ by u/mackle-mas
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vkk6r7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Is this legit? Nothing about the badges seem to make sense.](https://www.reddit.com/r/amateurradio/comments/1vpg6vo/is_this_legit_nothing_about_the_badges_seem_to/)** (r/amateurradio)
-- **[Weird message in WSJT-X FT8 last night](https://www.reddit.com/r/amateurradio/comments/1vp75tp/weird_message_in_wsjtx_ft8_last_night/)** (r/amateurradio)
-- **[Playing in my station](https://www.reddit.com/r/amateurradio/comments/1vp206h/playing_in_my_station/)** (r/amateurradio)
-- **[Rebuild of my SB-220 Heathkit Linear amp.](https://www.reddit.com/r/amateurradio/comments/1vpdjq0/rebuild_of_my_sb220_heathkit_linear_amp/)** (r/amateurradio)
-- **[I'm working on a project to predict ISS repeater windows between two l...](https://www.reddit.com/r/amateurradio/comments/1vpqzzy/im_working_on_a_project_to_predict_iss_repeater/)** (r/amateurradio)
-- **[Picked up two 803 tubes yesterday. Both dated January 1943.](https://www.reddit.com/r/amateurradio/comments/1vp8oq4/picked_up_two_803_tubes_yesterday_both_dated/)** (r/amateurradio)
-- **[ESP32 CYD Ham Clock Dashboard, new pages new features and fixes](https://www.reddit.com/r/amateurradio/comments/1vp5k0f/esp32_cyd_ham_clock_dashboard_new_pages_new/)** (r/amateurradio)
-- **[HF Reciever - Amateur setup](https://www.reddit.com/r/amateurradio/comments/1vpk3e7/hf_reciever_amateur_setup/)** (r/amateurradio)
+- **[Man. Some of y'all go hard.](https://www.reddit.com/r/amateurradio/comments/1vq9qlr/man_some_of_yall_go_hard/)** (r/amateurradio)
+- **[Free Antenna](https://www.reddit.com/r/amateurradio/comments/1vqhzhe/free_antenna/)** (r/amateurradio)
+- **[We will possibly never see this level of commitment from Kenwood again...](https://www.reddit.com/r/amateurradio/comments/1vqc59k/we_will_possibly_never_see_this_level_of/)** (r/amateurradio)
+- **[It was me. I cancelled all those 5th Region Callsigns](https://www.reddit.com/r/amateurradio/comments/1vq5shi/it_was_me_i_cancelled_all_those_5th_region/)** (r/amateurradio)
+- **[160 Meter POTA Activation TONIGHT 8:30pm PDT Sunday, August 16th](https://www.reddit.com/r/amateurradio/comments/1vqchbt/160_meter_pota_activation_tonight_830pm_pdt/)** (r/amateurradio)
+- **[Basement find follow-up](https://www.reddit.com/r/amateurradio/comments/1vq5t08/basement_find_followup/)** (r/amateurradio)
+- **[I may need just 1 more antenna or 2](https://www.reddit.com/r/amateurradio/comments/1vqf8if/i_may_need_just_1_more_antenna_or_2/)** (r/amateurradio)
+- **[Just passed all three exams with WM7X](https://www.reddit.com/r/amateurradio/comments/1vq3qgx/just_passed_all_three_exams_with_wm7x/)** (r/amateurradio)
 
 ---
 

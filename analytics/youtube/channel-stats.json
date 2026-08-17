@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T12:50:08.744942",
+  "updated": "2026-08-17T12:25:48.044065",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "IJqJ_MbnT9Fzn3DKdWvbF_m9NSM",
+    "etag": "SriqrjQE8mtZcRr8Imby-qH341k",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,153 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "244698",
-      "subscriberCount": "2240",
+      "viewCount": "247567",
+      "subscriberCount": "2260",
       "hiddenSubscriberCount": false,
-      "videoCount": "155"
+      "videoCount": "157"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "z7mVbNtlER94BHG4iijcKCgu56U",
+      "etag": "SLyeJWyZK1rJ0vZHKqY6J948er4",
+      "id": "nYPSyZzZcDY",
+      "snippet": {
+        "publishedAt": "2026-08-15T18:28:54Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
+        "description": "Join N8JRD as he breaks into the pinnacle of Alinco's weirdness with an absolute time capsule HT radio.  At it's peak, Alinco was known to do things that no other brand was willing to do, or ever desired to follow.  The result was some of the coolest ODDWARE from an original Japanese Radio Manufacturer that the hobby ever saw!\n\nThis is a Unboxing, Deep-Dive and Technical Tear-Down of the legendary DJ-C5 HT, with a little bit of N8JRD Nostalgia sprinkled on top.\n\nTable of Contents:\n00:00 - Introduction to the Brand\n03:25 - Original Exhibitor/Retail Spec Sheet\n05:00 - Unboxing the Time-Capsule C5\n11:49 - The Charging Cradle\n13:05 - The Original Paperwork\n14:25 - The Wall Charger (9v, 500ma Positive Tip)\n15:54 - Pressing the Buttons, Programming, Interface\n21:12 - Hardware, Disassembled - Let's take it apart!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "n8jrd",
+          "ham radio tips",
+          "VHF",
+          "UHF",
+          "ALINCO",
+          "DJ-C5",
+          "HT"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
+          "description": "Join N8JRD as he breaks into the pinnacle of Alinco's weirdness with an absolute time capsule HT radio.  At it's peak, Alinco was known to do things that no other brand was willing to do, or ever desired to follow.  The result was some of the coolest ODDWARE from an original Japanese Radio Manufacturer that the hobby ever saw!\n\nThis is a Unboxing, Deep-Dive and Technical Tear-Down of the legendary DJ-C5 HT, with a little bit of N8JRD Nostalgia sprinkled on top.\n\nTable of Contents:\n00:00 - Introduction to the Brand\n03:25 - Original Exhibitor/Retail Spec Sheet\n05:00 - Unboxing the Time-Capsule C5\n11:49 - The Charging Cradle\n13:05 - The Original Paperwork\n14:25 - The Wall Charger (9v, 500ma Positive Tip)\n15:54 - Pressing the Buttons, Programming, Interface\n21:12 - Hardware, Disassembled - Let's take it apart!\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "426",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ddZKNssNf903_ZdFuXPRi4G7qHE",
+      "id": "LEmN65zuSK0",
+      "snippet": {
+        "publishedAt": "2026-08-14T12:00:12Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Paper QSL Cards: Still Worth Sending?",
+        "description": "The oldest way to confirm a contact is also the only one you can hold. Postage is not cheap and the turnaround is measured in weeks, so why do all three of us still print them?\n\nWatch the full episode: https://youtu.be/HhhoVukJI3s\n\nJames K8JKU makes the case for paper: postcard sized, a design of your choosing on the front, the contact details on the back, and a rare chance in this hobby to show a bit of individuality. He prints scenes from places he has actually been, like the Upper Peninsula, and points out that a card doubles as your business card for an eyeball QSO at a hamfest. Jim N8JRD draws the important line underneath all of it, which is that not every method of QSLing counts the same. An eQSL email is a nice thing to receive and some people treat it as junk mail, but it will not earn you Worked All States or DXCC credit. The three of them hold up their own cards, including Jim's with his poodle and Michigan Tech on the front and the W8EDH club card, and talk through the printing options if you want your own. Rory W8KNX closes it out from the other side of the wait, staring at a South Cook Islands contact and an Alaska CW contact that still have not been confirmed and may never be.\n\nQSL Concept, the printer James uses, not sponsored: https://www.qslconcept.com/\nARRL QSL bureau services: https://www.arrl.org/qsl-service\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LEmN65zuSK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LEmN65zuSK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LEmN65zuSK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LEmN65zuSK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LEmN65zuSK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "QSL",
+          "QSL card",
+          "QSL cards",
+          "paper QSL",
+          "eQSL",
+          "QSL bureau",
+          "ARRL",
+          "DXCC",
+          "worked all states",
+          "ham radio for beginners",
+          "hamfest",
+          "Everyday Ham",
+          "ham radio podcast",
+          "W8EDH",
+          "QSLing"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Paper QSL Cards: Still Worth Sending?",
+          "description": "The oldest way to confirm a contact is also the only one you can hold. Postage is not cheap and the turnaround is measured in weeks, so why do all three of us still print them?\n\nWatch the full episode: https://youtu.be/HhhoVukJI3s\n\nJames K8JKU makes the case for paper: postcard sized, a design of your choosing on the front, the contact details on the back, and a rare chance in this hobby to show a bit of individuality. He prints scenes from places he has actually been, like the Upper Peninsula, and points out that a card doubles as your business card for an eyeball QSO at a hamfest. Jim N8JRD draws the important line underneath all of it, which is that not every method of QSLing counts the same. An eQSL email is a nice thing to receive and some people treat it as junk mail, but it will not earn you Worked All States or DXCC credit. The three of them hold up their own cards, including Jim's with his poodle and Michigan Tech on the front and the W8EDH club card, and talk through the printing options if you want your own. Rory W8KNX closes it out from the other side of the wait, staring at a South Cook Islands contact and an Alaska CW contact that still have not been confirmed and may never be.\n\nQSL Concept, the printer James uses, not sponsored: https://www.qslconcept.com/\nARRL QSL bureau services: https://www.arrl.org/qsl-service\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZUv_WN30BQRWP_JT9xrinL2M9ug",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -106,15 +243,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4",
-        "likeCount": "0",
+        "viewCount": "153",
+        "likeCount": "10",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2br6dxveJTMkCnF_1ZaxH2D6tF0",
+      "etag": "Cw_kS_QTKCtlBcmYwWvZsQgjuh4",
       "id": "jEMEbgEv1zM",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:16Z",
@@ -155,19 +292,18 @@
         "localized": {
           "title": "Clip - \"I've Been a Ham 70 Years, I'm Not QSLing Anymore\"",
           "description": "Rory W8KNX pulled up a QRZ page during a CW contest and found that line in big letters. He gets it. After enough decades, confirming every contact turns into a chore. But he draws the line somewhere else: not QSLing is one thing, not keeping a log at all is a disservice to yourself.\n\nWatch the full episode:\u00a0https://youtu.be/HhhoVukJI3s\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite:\u00a0https://www.everydayham.com/\nInstagram:\u00a0https://www.instagram.com/everydayhampodcast/\n\n#hamradio #QSL #amateurradio #Shorts"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
-        "viewCount": "1251",
+        "viewCount": "1340",
         "likeCount": "3",
         "favoriteCount": "0",
-        "commentCount": "1"
+        "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RMMUn7ar32U8Gk68bUhoPs7b72g",
+      "etag": "Kbl7_D9J0LJ6XcWySJXwU4mIOF8",
       "id": "VcbRTsjRx28",
       "snippet": {
         "publishedAt": "2026-08-06T12:30:59Z",
@@ -211,7 +347,7 @@
         }
       },
       "statistics": {
-        "viewCount": "925",
+        "viewCount": "935",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -219,7 +355,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "55INohp_Xt3TMQOKtj3gqrFd1HQ",
+      "etag": "CqXIQphprxK2MNh7pgrWcG-LI4k",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -283,7 +419,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "164",
+        "viewCount": "185",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -343,7 +479,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1J8R0ZPCjX9RMxyI8WVAYxAhYkY",
+      "etag": "ACkDiaMMPpkjGGbgJPlX_RC5JT0",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -411,15 +547,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1450",
-        "likeCount": "93",
+        "viewCount": "1517",
+        "likeCount": "94",
         "favoriteCount": "0",
         "commentCount": "18"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WPVKBqz-yC6oVeM_mV8wRpGJJrI",
+      "etag": "Dlvo_-KHWtSjBNtRYAHUN8qXSlo",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -482,7 +618,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "324",
+        "viewCount": "332",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -490,7 +626,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A6Qah4X8h4HCsq6IEZmVtEd7lBY",
+      "etag": "SGXUzSVlYUNNyj1GTfmwrGInRng",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -553,7 +689,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5022",
+        "viewCount": "5066",
         "likeCount": "170",
         "favoriteCount": "0",
         "commentCount": "50"
@@ -561,7 +697,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M2Lw6q4xj5N3RnsIJO0m5OTF63g",
+      "etag": "9L9wY6TiSfkvm80voMvTjy8qoYQ",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -623,7 +759,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "467",
+        "viewCount": "478",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -631,7 +767,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "oDna-2Fjgki0kF37BUa9DqMywQ4",
+      "etag": "-a1kdVat0mnfX-jcoVod0g48H2k",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -695,15 +831,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "481",
-        "likeCount": "27",
+        "viewCount": "511",
+        "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OnPWh81_84hLOUeBM92kfIeZM7w",
+      "etag": "p8fGW7CCJyR3RyeN-8Lkvxgq7wU",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -766,7 +902,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "129",
+        "viewCount": "130",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -774,7 +910,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KZoCX41lpSMGvnsbzUywrx57rwI",
+      "etag": "M6or32-B_Wpp_fQTsaKluyQTgC0",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -844,7 +980,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZLOdq28-9fVVfm6N7rGpjrqXywM",
+      "etag": "BQqDnAQl6rbjVj3Gr2MkAj_DiE8",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -908,7 +1044,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "273",
+        "viewCount": "278",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -916,7 +1052,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HWKpaNEOFYb4VEaKqEPhNF0tOKc",
+      "etag": "tGYr4cEkbI86pKtB4eZerjlfGdE",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -980,7 +1116,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "322",
+        "viewCount": "323",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -988,7 +1124,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TPfZFoOWuQ2VQpIX9b4OqBq2pdw",
+      "etag": "Iy6g_6MBOweS3yEDO4m53NW9L2g",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -1055,7 +1191,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "914",
+        "viewCount": "920",
         "likeCount": "59",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1063,7 +1199,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FaGPQiGLFyGQ6f2I4cofRhZmo_I",
+      "etag": "zPR_5Q4KEW7LMzODql8Q1u50dVw",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -1127,7 +1263,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "924",
+        "viewCount": "930",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1135,7 +1271,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t4PfuZdDnASNbp38UYi3HzClcN0",
+      "etag": "-2WP3DiY48M85POvfW67Y29OYE4",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -1199,7 +1335,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "334",
+        "viewCount": "339",
         "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1207,7 +1343,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qrJxW8BpLNpHheFIGTb7iuXWIgw",
+      "etag": "jnAw5BRKPZUfrG6HYwDnFG11kJs",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -1270,7 +1406,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "429",
+        "viewCount": "432",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1278,7 +1414,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YMGNzmQ7vfspoR0TiROzlVu4mOg",
+      "etag": "iY9oCKNOT74asjuldEFr7umOM-g",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -1342,7 +1478,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "999",
+        "viewCount": "1032",
         "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1350,7 +1486,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "u83A_rRN2ydzWh19KoYF0uTvMCg",
+      "etag": "CCi6KyUIKYwzrVHh4GXnvnJGRD0",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -1413,7 +1549,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "554",
+        "viewCount": "568",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1421,7 +1557,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wXCNJHsP_ammoy3Nvxv6Mq_sEpw",
+      "etag": "Az2zT3LJSEk10ofnhPs10uIz7E0",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -1484,7 +1620,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "325",
+        "viewCount": "327",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1492,7 +1628,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KwoppcVczCWHcKKWRXDDKKl2Cbw",
+      "etag": "3xcjb6-fXIC6fBgrvo9rQRFbO-U",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -1556,7 +1692,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "633",
+        "viewCount": "636",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1564,7 +1700,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "91GTILwMz0yEHP7767rgle_Usao",
+      "etag": "ndux9hiYzDcjc-mtCf41khq8Iu4",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -1628,15 +1764,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3391",
-        "likeCount": "91",
+        "viewCount": "3400",
+        "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "21"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1iDsFu045Gs7AdwsdGA4IhrDUi0",
+      "etag": "sKvQcrizagt6ZYibulsoL-2MYdg",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -1699,15 +1835,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "512",
+        "viewCount": "525",
         "likeCount": "22",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FmfmZ8dUh3-g43PDXHZKEC8QqA4",
+      "etag": "uwSl9OuZeYoJutUCbBVNk_E2PXs",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -1771,15 +1907,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "8801",
+        "viewCount": "8922",
         "likeCount": "191",
         "favoriteCount": "0",
-        "commentCount": "55"
+        "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SKL7PPqxW3TX3hKeD7FqcQ5Frnc",
+      "etag": "nZevt-EqCWg5hsS-Hf1GdEpZlnk",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -1843,7 +1979,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1830",
+        "viewCount": "1843",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1851,7 +1987,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PIWjUKuW2-m8J6wuTUjtr9oOUx4",
+      "etag": "-uygBsvHEvKfpBJeunTPN9NXEJ8",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -1915,15 +2051,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10561",
-        "likeCount": "189",
+        "viewCount": "10732",
+        "likeCount": "191",
         "favoriteCount": "0",
         "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IXZEoQmX6f31t2DJkUS94yIazmE",
+      "etag": "1-V5YkIZSyFUrwu9KIsb2LIHPXo",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -1987,15 +2123,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9520",
-        "likeCount": "238",
+        "viewCount": "9746",
+        "likeCount": "240",
         "favoriteCount": "0",
         "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RflrHxLwmw8qC9n9tzh0FO73v6U",
+      "etag": "EzifWlJ1FSB5IWL5-QJnNeZWtgQ",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -2059,7 +2195,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4516",
+        "viewCount": "4563",
         "likeCount": "135",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -2067,7 +2203,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bQzWBNdlmqcItSFKUPIshSVeT4Q",
+      "etag": "8Vzd4aXhAwJN-HYPOMapkl07kzc",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -2128,7 +2264,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "888",
+        "viewCount": "903",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2136,7 +2272,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qDUwFRN9pBLblQFp_uGk3tWEoAI",
+      "etag": "RKyrCizEq9nyK2z88RBgmFOO0TM",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -2199,7 +2335,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1664",
+        "viewCount": "1666",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -2207,7 +2343,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nioEkt_F97i8QEHg7FGzP84t_4k",
+      "etag": "X9idLTFAum-cPei0Opz_TxfxHoY",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -2268,7 +2404,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1403",
+        "viewCount": "1423",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2276,7 +2412,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fDpKKVSCS15HCusK4FmOreX-q1Q",
+      "etag": "EKVTawYhi6ELHZod7HsEX7aUOMk",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -2347,7 +2483,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KGVZg9HVDSWkIsd8UlNcZkZcODk",
+      "etag": "-XfmfzSUtfbd8n0d7-mlJB8CHAE",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -2413,7 +2549,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "359",
+        "viewCount": "362",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2421,7 +2557,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Y_Vgi0xvR3VlaPvQqjbt4kYPF_I",
+      "etag": "-M109MnsQ6mH-c2b7ut65mL1VsI",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -2469,7 +2605,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1375",
+        "viewCount": "1377",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2547,7 +2683,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-cnK5DqdTA_NYD4CLmt59cVx9ow",
+      "etag": "u7ZCruMsjawDGY1H-Yu2pQ_2TnI",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -2610,7 +2746,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "607",
+        "viewCount": "610",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2618,7 +2754,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-1kkTzf-GHH86-s-6XJyi6BhKVw",
+      "etag": "dQS4j74qZsyFd-GMg145oeU0taM",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -2680,7 +2816,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1778",
+        "viewCount": "1801",
         "likeCount": "68",
         "favoriteCount": "0",
         "commentCount": "32"
@@ -2688,7 +2824,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lvtlvhxXVwc5I3mYQJ1pz5_4Urw",
+      "etag": "-lwK-Y0HaUrzDMs5Y4LPLLfHxiQ",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -2751,7 +2887,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "507",
+        "viewCount": "512",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2759,7 +2895,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jpsDkKEV-IJeiAHB00hMSwTTJD4",
+      "etag": "oycEJlQEmdh5SHlVjfhc42Ha_Wk",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -2822,7 +2958,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "976",
+        "viewCount": "983",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2902,7 +3038,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "X106Meb6NTQAbHap_dL1FQHxm-s",
+      "etag": "Ci0HvykcIDWJMi14GAXc8hswaLM",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -2965,7 +3101,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1251",
+        "viewCount": "1252",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3114,7 +3250,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3BFml2_nd-RlodaWnqC3rjaIXT4",
+      "etag": "Dsp0Kd1L4WgWC5aAHjh8YTaqtUk",
       "id": "pn-6WtI41MI",
       "snippet": {
         "publishedAt": "2026-02-26T14:08:30Z",
@@ -3179,7 +3315,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1732",
+        "viewCount": "1745",
         "likeCount": "72",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -3187,7 +3323,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DtAD6smMb9wSF1hawwWCRNvL_4Q",
+      "etag": "UwJxBjW9HI0RQuEdmqWxTGaGlJI",
       "id": "r6CgCAViM_c",
       "snippet": {
         "publishedAt": "2026-02-15T03:55:46Z",
@@ -3250,7 +3386,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "628",
+        "viewCount": "636",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -3258,7 +3394,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VLGmQ9mWZ-Z3PHazvzTSYAgyZR8",
+      "etag": "8WzhFToDYLHvaNGh3MkGD752Lv4",
       "id": "_5gsI9KuvEI",
       "snippet": {
         "publishedAt": "2026-02-14T23:39:30Z",
@@ -3321,7 +3457,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5514",
+        "viewCount": "5530",
         "likeCount": "187",
         "favoriteCount": "0",
         "commentCount": "25"
@@ -3329,7 +3465,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pC_SbK9OFIUnzDeTmt30hpWN9rw",
+      "etag": "qYCo6eJ_m7-_mmaC-j8y2W2UrMg",
       "id": "Vqx57KovKXs",
       "snippet": {
         "publishedAt": "2026-02-14T23:21:37Z",
@@ -3391,122 +3527,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "375",
+        "viewCount": "377",
         "likeCount": "15",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "QtHXmbxP1-EL0biEIY1h333133E",
-      "id": "rHev6bDGSWg",
-      "snippet": {
-        "publishedAt": "2026-02-14T17:27:02Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-        "description": "Jim (N8JRD) talks with David (KB5UTY) and Jinger Zeng from Seeed Studio at Hamcation 2026. They explain what Seeed Studio does, walk us through their line of mesh networking products including the L1 \u201ctiny\u201d node available in 4 versions, and break down the advantages of Meshtastic versus Meshcore. Seeed Studio offers solid products at very reasonable prices, making mesh networking accessible for everyone. @SeeedStudioSZ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rHev6bDGSWg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Seeed Studio",
-          "Meshtastic",
-          "Meshcore",
-          "mesh networking",
-          "mesh node",
-          "L1 node",
-          "ham radio",
-          "amateur radio",
-          "Hamcation 2026",
-          "LoRa",
-          "off-grid communication",
-          "emergency communications",
-          "Everyday Ham",
-          "ham radio podcast",
-          "portable mesh network",
-          "radio technology"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-          "description": "Jim (N8JRD) talks with David (KB5UTY) and Jinger Zeng from Seeed Studio at Hamcation 2026. They explain what Seeed Studio does, walk us through their line of mesh networking products including the L1 \u201ctiny\u201d node available in 4 versions, and break down the advantages of Meshtastic versus Meshcore. Seeed Studio offers solid products at very reasonable prices, making mesh networking accessible for everyone. @SeeedStudioSZ"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1185",
-        "likeCount": "39",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "TL4qPdFx4LgPCbGyQwbr23usTZk",
-      "id": "RpKnlTc2Lo4",
-      "snippet": {
-        "publishedAt": "2026-02-14T15:36:28Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-        "description": "Walking the flea market at Hamcation 2026! The swap is always a great time, whether you\u2019re hunting for deals or just browsing the treasures. You never know what you\u2019ll find. Don\u2019t miss our full Hamcation coverage on the channel!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RpKnlTc2Lo4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-          "description": "Walking the flea market at Hamcation 2026! The swap is always a great time, whether you\u2019re hunting for deals or just browsing the treasures. You never know what you\u2019ll find. Don\u2019t miss our full Hamcation coverage on the channel!"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "475",
-        "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "2"
       }

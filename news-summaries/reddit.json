@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T11:27:36.763752",
+  "updated": "2026-08-19T11:27:17.050626",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,49 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "I asked for advice a couple months ago, and the results couldn't be better! Thanks!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vsbiij/i_asked_for_advice_a_couple_months_ago_and_the/",
+        "author": "/u/Pure-Plantain-5483"
+      },
+      {
+        "title": "How do DMR radios keep timeslots in sync?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vs95a8/how_do_dmr_radios_keep_timeslots_in_sync/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "G90 firmware update",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vs52xa/g90_firmware_update/",
+        "author": "/u/Jstrott"
+      },
+      {
+        "title": "FT8, FT4, FT2, JS8, for Android, free, name qFT8",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vsdrak/ft8_ft4_ft2_js8_for_android_free_name_qft8/",
+        "author": "/u/Rich_Sun_4514"
+      },
+      {
+        "title": "Grounding/lightning arrestor placement",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrvbx7/groundinglightning_arrestor_placement/",
+        "author": "/u/MarinerMouth"
+      },
+      {
+        "title": "Looking to seriously get into the hobbie and learn what I need to finally get a license.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vs03f4/looking_to_seriously_get_into_the_hobbie_and/",
+        "author": "/u/abandonedguitar"
+      },
+      {
+        "title": "Is DX-Patrol still in business?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vsg02e/is_dxpatrol_still_in_business/",
+        "author": "/u/160MeterBand"
+      },
+      {
         "title": "The contest RST (esp CW)",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vr91xf/the_contest_rst_esp_cw/",
         "author": "/u/grendelt"
+      },
+      {
+        "title": "Should I get into HAM?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrqbhw/should_i_get_into_ham/",
+        "author": "/u/Killrade"
       },
       {
         "title": "My Amateur Radio EDC",
@@ -27,9 +67,24 @@
         "author": "/u/bluebagles"
       },
       {
+        "title": "BktTimeSync",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vs6mcc/bkttimesync/",
+        "author": "/u/Chimbo84"
+      },
+      {
+        "title": "Noob question: What connectors do I need for these antennae?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrmyou/noob_question_what_connectors_do_i_need_for_these/",
+        "author": "/u/NightshadeJam"
+      },
+      {
         "title": "Anyone know where I can get a crystal for this thing?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vqy52g/anyone_know_where_i_can_get_a_crystal_for_this/",
         "author": "/u/Derf0293"
+      },
+      {
+        "title": "antennae suggestions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vs1wmw/antennae_suggestions/",
+        "author": "/u/PatienceBackground64"
       },
       {
         "title": "Built a Pi + RTL-SDR node that demods all 16 marine VHF channels at once and feeds an AI that finds all the interesting stories. One harbor down, looking for more!",
@@ -37,14 +92,29 @@
         "author": "/u/Michaelxavierd"
       },
       {
-        "title": "[ Removed by Reddit ]",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vrezre/removed_by_reddit/",
-        "author": "/u/Altruistic-News8331"
+        "title": "Expecting my vanity call to be processed today. Logged in the ULS and see...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrwi81/expecting_my_vanity_call_to_be_processed_today/",
+        "author": "/u/AnonymousDweeb"
+      },
+      {
+        "title": "BBC Documentary Podcast : The Sound of Soft Power - the history and role of international shortwave broadcasts",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vregoi/bbc_documentary_podcast_the_sound_of_soft_power/",
+        "author": "/u/grendelt"
       },
       {
         "title": "Help with antenna placement (HF + VHF/UHF + 6m)",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vrcf8d/help_with_antenna_placement_hf_vhfuhf_6m/",
         "author": "/u/apple4ever"
+      },
+      {
+        "title": "Electronics question about TX GND pin for sequencer use on Yaesu radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrfdxu/electronics_question_about_tx_gnd_pin_for/",
+        "author": "/u/PlainCheeser"
+      },
+      {
+        "title": "[ Removed by Reddit ]",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vrezre/removed_by_reddit/",
+        "author": "/u/Altruistic-News8331"
       },
       {
         "title": "Free Antenna",
@@ -57,79 +127,9 @@
         "author": "/u/Malanow"
       },
       {
-        "title": "Man. Some of y'all go hard.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vq9qlr/man_some_of_yall_go_hard/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
         "title": "Is there sufficient market for starting a new Youtube channel?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1vr0et7/is_there_sufficient_market_for_starting_a_new/",
         "author": "/u/Doooooovid"
-      },
-      {
-        "title": "Electronics question about TX GND pin for sequencer use on Yaesu radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vrfdxu/electronics_question_about_tx_gnd_pin_for/",
-        "author": "/u/PlainCheeser"
-      },
-      {
-        "title": "BBC Documentary Podcast : The Sound of Soft Power - the history and role of international shortwave broadcasts",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vregoi/bbc_documentary_podcast_the_sound_of_soft_power/",
-        "author": "/u/grendelt"
-      },
-      {
-        "title": "We will possibly never see this level of commitment from Kenwood again and that makes me sad",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqc59k/we_will_possibly_never_see_this_level_of/",
-        "author": "/u/SonicResidue"
-      },
-      {
-        "title": "New ham looking at pota",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vrbmob/new_ham_looking_at_pota/",
-        "author": "/u/Ok_Discount_5100"
-      },
-      {
-        "title": "Log FT8 without grid square?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqs483/log_ft8_without_grid_square/",
-        "author": "/u/MarinerMouth"
-      },
-      {
-        "title": "OpenGD77 on DM-1701: DCS Tones Wrong",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vradxq/opengd77_on_dm1701_dcs_tones_wrong/",
-        "author": "/u/aeturnum"
-      },
-      {
-        "title": "It was me. I cancelled all those 5th Region Callsigns",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vq5shi/it_was_me_i_cancelled_all_those_5th_region/",
-        "author": "/u/MentalEggplant9275"
-      },
-      {
-        "title": "W6R Route 66 Update \u2014 Day 2 and Thanks for All the Contacts",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqipbg/w6r_route_66_update_day_2_and_thanks_for_all_the/",
-        "author": "/u/Eni_Revlow"
-      },
-      {
-        "title": "Anytone 578 Man Down alarm keeps randomly going off",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vr2h82/anytone_578_man_down_alarm_keeps_randomly_going/",
-        "author": "/u/KhyberPasshole"
-      },
-      {
-        "title": "160 Meter POTA Activation TONIGHT 8:30pm PDT Sunday, August 16th",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqchbt/160_meter_pota_activation_tonight_830pm_pdt/",
-        "author": "/u/Bolt_EV"
-      },
-      {
-        "title": "Is an LNA needed for Meteor satellites?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqo8cb/is_an_lna_needed_for_meteor_satellites/",
-        "author": "/u/Dull-Orange2493"
-      },
-      {
-        "title": "I may need just 1 more antenna or 2",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vqf8if/i_may_need_just_1_more_antenna_or_2/",
-        "author": "/u/No_Entrepreneur_3059"
-      },
-      {
-        "title": "Basement find follow-up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vq5t08/basement_find_followup/",
-        "author": "/u/bc170707"
       }
     ]
   }

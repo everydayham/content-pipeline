@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-21 11:29 UTC*
+*Last updated: 2026-08-22 11:22 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Just Passed - Love WM7X Remote Testing](https://www.reddit.com/r/amateurradio/comments/1vu5hlt/just_passed_love_wm7x_remote_testing/)**
+**3. [It finally happened, and I’m not happy about it!](https://www.reddit.com/r/amateurradio/comments/1vv3l1s/it_finally_happened_and_im_not_happy_about_it/)**
+by u/CoastalRadio
+
+**4. [Holy cow, I'm old.](https://www.reddit.com/r/amateurradio/comments/1vusj39/holy_cow_im_old/)**
+by u/Hinermad
+
+**5. [Go fast when learning CW](https://www.reddit.com/r/amateurradio/comments/1vv7zk4/go_fast_when_learning_cw/)**
+by u/axhoff_
+
+**6. [W6R Route 66, One Last Stop Before Santa Monica](https://www.reddit.com/r/amateurradio/comments/1vv3fs0/w6r_route_66_one_last_stop_before_santa_monica/)**
+by u/Eni_Revlow
+
+**7. [Tunnel antenna - is this a cell phone repeater system?](https://www.reddit.com/r/amateurradio/comments/1vuduvj/tunnel_antenna_is_this_a_cell_phone_repeater/)**
+by u/spacemark
+
+**8. [Foreign Ham Radio Operators in Barcelona?](https://www.reddit.com/r/amateurradio/comments/1vv9rvt/foreign_ham_radio_operators_in_barcelona/)**
+by u/Damaso21
+
+**9. [Thinking about starting the hobby](https://www.reddit.com/r/amateurradio/comments/1vuq92h/thinking_about_starting_the_hobby/)**
+by u/TheRaftRider
+
+**10. [In Your Opinion How Accurate Do You Believe The Reddit Ham Community As A Whole ...](https://www.reddit.com/r/amateurradio/comments/1vuzld9/in_your_opinion_how_accurate_do_you_believe_the/)**
+by u/Lanky_Guard_6088
+
+**11. [scam alert - facebook - 'ham radio marketplace'](https://www.reddit.com/r/amateurradio/comments/1vuvmhn/scam_alert_facebook_ham_radio_marketplace/)**
+by u/Appropriate-Set-1877
+
+**12. [zBITX v2](https://www.reddit.com/r/amateurradio/comments/1vuv8px/zbitx_v2/)**
+by u/Sunset1hiker
+
+**13. [Tiny SA Spectrum Analyzer](https://www.reddit.com/r/amateurradio/comments/1vv2ts8/tiny_sa_spectrum_analyzer/)**
+by u/beef_jerky00
+
+**14. [Mobile Station](https://www.reddit.com/r/amateurradio/comments/1vupuv4/mobile_station/)**
+by u/SignificantCarry9964
+
+**15. [Just Passed - Love WM7X Remote Testing](https://www.reddit.com/r/amateurradio/comments/1vu5hlt/just_passed_love_wm7x_remote_testing/)**
 by u/minorinc
-
-**4. [Do you need a ham radio to understand enough to take the test?](https://www.reddit.com/r/amateurradio/comments/1vu2qsi/do_you_need_a_ham_radio_to_understand_enough_to/)**
-by u/i_hate_agile
-
-**5. [Not exactly a setup just yet but it's a really cool functional piece of history ...](https://www.reddit.com/r/amateurradio/comments/1vtmxjx/not_exactly_a_setup_just_yet_but_its_a_really/)**
-by u/Willing-Society-4123
-
-**6. [FTDX10 touch screen issue](https://www.reddit.com/r/amateurradio/comments/1vu6biq/ftdx10_touch_screen_issue/)**
-by u/stinky_nutsack
-
-**7. [Extremely specific radio software question](https://www.reddit.com/r/amateurradio/comments/1vu7lt7/extremely_specific_radio_software_question/)**
-by u/Book_of_Beasts
-
-**8. [Advice for EFHW antenna](https://www.reddit.com/r/amateurradio/comments/1vuana9/advice_for_efhw_antenna/)**
-by u/pmcn500
-
-**9. [Radios purchasers anonymous anyone?](https://www.reddit.com/r/amateurradio/comments/1vu2oqm/radios_purchasers_anonymous_anyone/)**
-by u/Equivalent-Entry485
-
-**10. [You CAN do SSB as an introvert. It's not smalltalk and colonoscopies.](https://www.reddit.com/r/amateurradio/comments/1vtf0fq/you_can_do_ssb_as_an_introvert_its_not_smalltalk/)**
-by u/radicalCentrist3
-
-**11. [Icom 718 only outputing around 45 watts with max rf power setting](https://www.reddit.com/r/amateurradio/comments/1vubqw4/icom_718_only_outputing_around_45_watts_with_max/)**
-by u/Own_Valuable_6131
-
-**12. [Tech exam helped me in interview](https://www.reddit.com/r/amateurradio/comments/1vtll1k/tech_exam_helped_me_in_interview/)**
-by u/grm3
-
-**13. [80-6m doublet from dx eng advice?](https://www.reddit.com/r/amateurradio/comments/1vua7kp/806m_doublet_from_dx_eng_advice/)**
-by u/KCdir321
-
-**14. [LemurKey CW trainer & Live DX update](https://www.reddit.com/r/amateurradio/comments/1vu36uu/lemurkey_cw_trainer_live_dx_update/)**
-by u/NF0E-CW
-
-**15. [HamGeek 4-Channel SDR](https://www.reddit.com/r/amateurradio/comments/1vu96wu/hamgeek_4channel_sdr/)**
-by u/ozzyysss
 
 ---
 
@@ -61,14 +61,14 @@ by u/ozzyysss
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vqroxd/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Just Passed - Love WM7X Remote Testing](https://www.reddit.com/r/amateurradio/comments/1vu5hlt/just_passed_love_wm7x_remote_testing/)** (r/amateurradio)
-- **[Do you need a ham radio to understand enough to take the test?](https://www.reddit.com/r/amateurradio/comments/1vu2qsi/do_you_need_a_ham_radio_to_understand_enough_to/)** (r/amateurradio)
-- **[Not exactly a setup just yet but it's a really cool functional piece o...](https://www.reddit.com/r/amateurradio/comments/1vtmxjx/not_exactly_a_setup_just_yet_but_its_a_really/)** (r/amateurradio)
-- **[FTDX10 touch screen issue](https://www.reddit.com/r/amateurradio/comments/1vu6biq/ftdx10_touch_screen_issue/)** (r/amateurradio)
-- **[Extremely specific radio software question](https://www.reddit.com/r/amateurradio/comments/1vu7lt7/extremely_specific_radio_software_question/)** (r/amateurradio)
-- **[Advice for EFHW antenna](https://www.reddit.com/r/amateurradio/comments/1vuana9/advice_for_efhw_antenna/)** (r/amateurradio)
-- **[Radios purchasers anonymous anyone?](https://www.reddit.com/r/amateurradio/comments/1vu2oqm/radios_purchasers_anonymous_anyone/)** (r/amateurradio)
-- **[You CAN do SSB as an introvert. It's not smalltalk and colonoscopies.](https://www.reddit.com/r/amateurradio/comments/1vtf0fq/you_can_do_ssb_as_an_introvert_its_not_smalltalk/)** (r/amateurradio)
+- **[It finally happened, and I’m not happy about it!](https://www.reddit.com/r/amateurradio/comments/1vv3l1s/it_finally_happened_and_im_not_happy_about_it/)** (r/amateurradio)
+- **[Holy cow, I'm old.](https://www.reddit.com/r/amateurradio/comments/1vusj39/holy_cow_im_old/)** (r/amateurradio)
+- **[Go fast when learning CW](https://www.reddit.com/r/amateurradio/comments/1vv7zk4/go_fast_when_learning_cw/)** (r/amateurradio)
+- **[W6R Route 66, One Last Stop Before Santa Monica](https://www.reddit.com/r/amateurradio/comments/1vv3fs0/w6r_route_66_one_last_stop_before_santa_monica/)** (r/amateurradio)
+- **[Tunnel antenna - is this a cell phone repeater system?](https://www.reddit.com/r/amateurradio/comments/1vuduvj/tunnel_antenna_is_this_a_cell_phone_repeater/)** (r/amateurradio)
+- **[Foreign Ham Radio Operators in Barcelona?](https://www.reddit.com/r/amateurradio/comments/1vv9rvt/foreign_ham_radio_operators_in_barcelona/)** (r/amateurradio)
+- **[Thinking about starting the hobby](https://www.reddit.com/r/amateurradio/comments/1vuq92h/thinking_about_starting_the_hobby/)** (r/amateurradio)
+- **[In Your Opinion How Accurate Do You Believe The Reddit Ham Community A...](https://www.reddit.com/r/amateurradio/comments/1vuzld9/in_your_opinion_how_accurate_do_you_believe_the/)** (r/amateurradio)
 
 ---
 

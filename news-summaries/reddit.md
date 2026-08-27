@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-08-26 11:32 UTC*
+*Last updated: 2026-08-27 20:55 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [I added APRS RX to my board of many things.](https://www.reddit.com/r/amateurradio/comments/1vya0fe/i_added_aprs_rx_to_my_board_of_many_things/)**
-by u/inquirewue
+**3. [Final message from the guy who had my callsign before me](https://www.reddit.com/r/amateurradio/comments/1vzcbei/final_message_from_the_guy_who_had_my_callsign/)**
+by u/Gigem1987
 
-**4. [Pakistan's amateur radios are tuned in for the apocalypse](https://www.reddit.com/r/amateurradio/comments/1vys7na/pakistans_amateur_radios_are_tuned_in_for_the/)**
-by u/Black_Scholes_Merton
+**4. [The reason you joined a Radio Club?](https://www.reddit.com/r/amateurradio/comments/1w00bat/the_reason_you_joined_a_radio_club/)**
+by u/Zek-The-Man
 
-**5. [Where have all the QSO's gone....long time passing](https://www.reddit.com/r/amateurradio/comments/1vy92ku/where_have_all_the_qsos_gonelong_time_passing/)**
-by u/David_13247
+**5. [FT-710 CAT Waterfall App](https://www.reddit.com/r/amateurradio/comments/1vzouqu/ft710_cat_waterfall_app/)**
+by u/Underwurlder
 
-**6. [How does digital messaging forward systems work exactly?](https://www.reddit.com/r/amateurradio/comments/1vyqk90/how_does_digital_messaging_forward_systems_work/)**
-by u/clumpytrack711
+**6. [What actually makes loops quieter?](https://www.reddit.com/r/amateurradio/comments/1vztngs/what_actually_makes_loops_quieter/)**
+by u/thesoulless78
 
-**7. [FT-710 to Ameritron ALS 600:](https://www.reddit.com/r/amateurradio/comments/1vypp11/ft710_to_ameritron_als_600/)**
-by u/Acceptable-Load6607
+**7. [Dolly in 1979](https://www.reddit.com/r/amateurradio/comments/1vz3emz/dolly_in_1979/)**
+by u/firekeeper23
 
-**8. [Having a CAT problem with flrig and the G90, but WSJTX works fine](https://www.reddit.com/r/amateurradio/comments/1vyqtbm/having_a_cat_problem_with_flrig_and_the_g90_but/)**
-by u/MarinerMouth
+**8. [Unique dual band mobile rig?](https://www.reddit.com/r/amateurradio/comments/1vzvu5k/unique_dual_band_mobile_rig/)**
+by u/Conscious-Trip-4490
 
-**9. [Getting coax from outside inside](https://www.reddit.com/r/amateurradio/comments/1vy8ykt/getting_coax_from_outside_inside/)**
-by u/_sp00ky_
+**9. [33cm](https://www.reddit.com/r/amateurradio/comments/1vzcpre/33cm/)**
+by u/hariet_thugman
 
-**10. [Making radio work from inside a cave (Caves on the air, anyone?)](https://www.reddit.com/r/amateurradio/comments/1vy2ej3/making_radio_work_from_inside_a_cave_caves_on_the/)**
-by u/chunt42
+**10. [Looking for a callsign](https://www.reddit.com/r/amateurradio/comments/1vzml7t/looking_for_a_callsign/)**
+by u/Chuckindetroitmi
 
-**11. [Another Yaesu VX-6R question and transmitting etiquette](https://www.reddit.com/r/amateurradio/comments/1vypf0j/another_yaesu_vx6r_question_and_transmitting/)**
-by u/snignalintel_69420
+**11. [Questions about HAM band vs GRMS](https://www.reddit.com/r/amateurradio/comments/1vzlxqa/questions_about_ham_band_vs_grms/)**
+by u/One-Trust-7167
 
-**12. [A QSO made in heaven](https://www.reddit.com/r/amateurradio/comments/1vxfk60/a_qso_made_in_heaven/)**
-by u/TheArthritisGuy
+**12. [Problema con lo stadio oscillatore della mia radio supereterodina](https://www.reddit.com/r/amateurradio/comments/1w03ha2/problema_con_lo_stadio_oscillatore_della_mia/)**
+by u/Which_Paramedic_2117
 
-**13. [Passed test, what do do while waiting?](https://www.reddit.com/r/amateurradio/comments/1vy8y9o/passed_test_what_do_do_while_waiting/)**
-by u/NoWealth5743
+**13. [700 Mhz to 900 Mhz Transverter Merit](https://www.reddit.com/r/amateurradio/comments/1vzvj85/700_mhz_to_900_mhz_transverter_merit/)**
+by u/WandererInTheNight
 
-**14. [0$ 2-Element UV Yagi from 4 coat hangers + RG-174: 5dBi on 144/430MHz for SOTA](https://www.reddit.com/r/amateurradio/comments/1vy38zr/0_2element_uv_yagi_from_4_coat_hangers_rg174_5dbi/)**
-by u/HL1UKO
+**14. [Never trust the last guy](https://www.reddit.com/r/amateurradio/comments/1w03s58/never_trust_the_last_guy/)**
+by u/CaptainSpez
 
-**15. [Question: Performance of "POTA portable tripod verticals"??](https://www.reddit.com/r/amateurradio/comments/1vxyx7q/question_performance_of_pota_portable_tripod/)**
-by u/3J77
+**15. [A badge for ham radio?](https://www.reddit.com/r/amateurradio/comments/1vz79jv/a_badge_for_ham_radio/)**
+by u/dan_kb6nu
 
 ---
 
@@ -61,14 +61,14 @@ by u/3J77
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1vx25ia/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[I added APRS RX to my board of many things.](https://www.reddit.com/r/amateurradio/comments/1vya0fe/i_added_aprs_rx_to_my_board_of_many_things/)** (r/amateurradio)
-- **[Pakistan's amateur radios are tuned in for the apocalypse](https://www.reddit.com/r/amateurradio/comments/1vys7na/pakistans_amateur_radios_are_tuned_in_for_the/)** (r/amateurradio)
-- **[Where have all the QSO's gone....long time passing](https://www.reddit.com/r/amateurradio/comments/1vy92ku/where_have_all_the_qsos_gonelong_time_passing/)** (r/amateurradio)
-- **[How does digital messaging forward systems work exactly?](https://www.reddit.com/r/amateurradio/comments/1vyqk90/how_does_digital_messaging_forward_systems_work/)** (r/amateurradio)
-- **[FT-710 to Ameritron ALS 600:](https://www.reddit.com/r/amateurradio/comments/1vypp11/ft710_to_ameritron_als_600/)** (r/amateurradio)
-- **[Having a CAT problem with flrig and the G90, but WSJTX works fine](https://www.reddit.com/r/amateurradio/comments/1vyqtbm/having_a_cat_problem_with_flrig_and_the_g90_but/)** (r/amateurradio)
-- **[Getting coax from outside inside](https://www.reddit.com/r/amateurradio/comments/1vy8ykt/getting_coax_from_outside_inside/)** (r/amateurradio)
-- **[Making radio work from inside a cave (Caves on the air, anyone?)](https://www.reddit.com/r/amateurradio/comments/1vy2ej3/making_radio_work_from_inside_a_cave_caves_on_the/)** (r/amateurradio)
+- **[Final message from the guy who had my callsign before me](https://www.reddit.com/r/amateurradio/comments/1vzcbei/final_message_from_the_guy_who_had_my_callsign/)** (r/amateurradio)
+- **[The reason you joined a Radio Club?](https://www.reddit.com/r/amateurradio/comments/1w00bat/the_reason_you_joined_a_radio_club/)** (r/amateurradio)
+- **[FT-710 CAT Waterfall App](https://www.reddit.com/r/amateurradio/comments/1vzouqu/ft710_cat_waterfall_app/)** (r/amateurradio)
+- **[What actually makes loops quieter?](https://www.reddit.com/r/amateurradio/comments/1vztngs/what_actually_makes_loops_quieter/)** (r/amateurradio)
+- **[Dolly in 1979](https://www.reddit.com/r/amateurradio/comments/1vz3emz/dolly_in_1979/)** (r/amateurradio)
+- **[Unique dual band mobile rig?](https://www.reddit.com/r/amateurradio/comments/1vzvu5k/unique_dual_band_mobile_rig/)** (r/amateurradio)
+- **[33cm](https://www.reddit.com/r/amateurradio/comments/1vzcpre/33cm/)** (r/amateurradio)
+- **[Looking for a callsign](https://www.reddit.com/r/amateurradio/comments/1vzml7t/looking_for_a_callsign/)** (r/amateurradio)
 
 ---
 

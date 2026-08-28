@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T20:55:57.946116",
+  "updated": "2026-08-28T21:19:29.031687",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,74 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Final message from the guy who had my callsign before me",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzcbei/final_message_from_the_guy_who_had_my_callsign/",
-        "author": "/u/Gigem1987"
+        "title": "Operated W1AW yesterday. If you are ever near ARRL HQ, you should stop and give it a try.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0qqri/operated_w1aw_yesterday_if_you_are_ever_near_arrl/",
+        "author": "/u/inquirewue"
+      },
+      {
+        "title": "Help generating a comprehensive cheatsheet of niche hangouts / calling frequencies?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0zoau/help_generating_a_comprehensive_cheatsheet_of/",
+        "author": "/u/thehotshotpilot"
+      },
+      {
+        "title": "I made a zero install browser tool that uses display pixel clock EMI leakage to transmit VHF Morse code to a ham radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w10l72/i_made_a_zero_install_browser_tool_that_uses/",
+        "author": "/u/RixyPham"
+      },
+      {
+        "title": "Holy pelicanish cases",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0tx0n/holy_pelicanish_cases/",
+        "author": "/u/WD4TOM"
+      },
+      {
+        "title": "Is it frustrating to be a ham in Australia or any smaller remote island?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0m8l5/is_it_frustrating_to_be_a_ham_in_australia_or_any/",
+        "author": "/u/DauphDaddy"
+      },
+      {
+        "title": "Thinking about getting into amateur radio, don't know where to start",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0si9z/thinking_about_getting_into_amateur_radio_dont/",
+        "author": "/u/ikoniq93"
+      },
+      {
+        "title": "Notes from an SFR install we did last week for a mountain shuttle fleet in Korea",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0iq43/notes_from_an_sfr_install_we_did_last_week_for_a/",
+        "author": "/u/chamhezar"
+      },
+      {
+        "title": "Tokyo Ham Fair tomorrow",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0srnk/tokyo_ham_fair_tomorrow/",
+        "author": "/u/the2belo"
+      },
+      {
+        "title": "Thank you all for your feedback",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0v4ze/thank_you_all_for_your_feedback/",
+        "author": "/u/ThatFlipperGuy"
+      },
+      {
+        "title": "Desk top mic ?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0yx0m/desk_top_mic/",
+        "author": "/u/Keysurfer64"
+      },
+      {
+        "title": "What entry to use for this field?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0ypzs/what_entry_to_use_for_this_field/",
+        "author": "/u/Fuffy_Katja"
+      },
+      {
+        "title": "Need advice on modeling and building a half-wave dipole antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w11obf/need_advice_on_modeling_and_building_a_halfwave/",
+        "author": "/u/menginventor"
+      },
+      {
+        "title": "Mechanical Implementation of Antennas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w112g6/mechanical_implementation_of_antennas/",
+        "author": "/u/ChromeToiletPaper"
+      },
+      {
+        "title": "Trouble trying to receive HRPT/LRPT",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0tjyk/trouble_trying_to_receive_hrptlrpt/",
+        "author": "/u/ivM2000"
       },
       {
         "title": "The reason you joined a Radio Club?",
@@ -27,49 +92,34 @@
         "author": "/u/Zek-The-Man"
       },
       {
-        "title": "FT-710 CAT Waterfall App",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzouqu/ft710_cat_waterfall_app/",
-        "author": "/u/Underwurlder"
+        "title": "TETRA DMO repeater now in operation in Timi\u0219oara, Western Romania, details below.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0mb5k/tetra_dmo_repeater_now_in_operation_in_timi\u0219oara/",
+        "author": "/u/Trumpton2023"
       },
       {
-        "title": "What actually makes loops quieter?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vztngs/what_actually_makes_loops_quieter/",
-        "author": "/u/thesoulless78"
+        "title": "Final message from the guy who had my callsign before me",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vzcbei/final_message_from_the_guy_who_had_my_callsign/",
+        "author": "/u/Gigem1987"
       },
       {
-        "title": "Dolly in 1979",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vz3emz/dolly_in_1979/",
-        "author": "/u/firekeeper23"
+        "title": "Logging for POTA & TOTA - Parks On The Air & Tiles On The Air",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0v6tp/logging_for_pota_tota_parks_on_the_air_tiles_on/",
+        "author": "/u/wretchedwarrior1"
       },
       {
-        "title": "Unique dual band mobile rig?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzvu5k/unique_dual_band_mobile_rig/",
-        "author": "/u/Conscious-Trip-4490"
+        "title": "Xiegu x6100 cord handle",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w06gs2/xiegu_x6100_cord_handle/",
+        "author": "/u/wdx907"
       },
       {
-        "title": "33cm",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzcpre/33cm/",
-        "author": "/u/hariet_thugman"
+        "title": "The Robert F. Heytow Memorial Radio Club and the The K9YA Telegraph published once a month. Free to subscribers",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w07pgm/the_robert_f_heytow_memorial_radio_club_and_the/",
+        "author": "/u/galaxiexl500"
       },
       {
-        "title": "Looking for a callsign",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzml7t/looking_for_a_callsign/",
-        "author": "/u/Chuckindetroitmi"
-      },
-      {
-        "title": "Questions about HAM band vs GRMS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzlxqa/questions_about_ham_band_vs_grms/",
-        "author": "/u/One-Trust-7167"
-      },
-      {
-        "title": "Problema con lo stadio oscillatore della mia radio supereterodina",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w03ha2/problema_con_lo_stadio_oscillatore_della_mia/",
-        "author": "/u/Which_Paramedic_2117"
-      },
-      {
-        "title": "700 Mhz to 900 Mhz Transverter Merit",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzvj85/700_mhz_to_900_mhz_transverter_merit/",
-        "author": "/u/WandererInTheNight"
+        "title": "Colpitts AM Regenerative Reciever Build",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w0cudw/colpitts_am_regenerative_reciever_build/",
+        "author": "/u/lo_mein_devourer"
       },
       {
         "title": "Never trust the last guy",
@@ -77,59 +127,9 @@
         "author": "/u/CaptainSpez"
       },
       {
-        "title": "A badge for ham radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vz79jv/a_badge_for_ham_radio/",
-        "author": "/u/dan_kb6nu"
-      },
-      {
-        "title": "First time decoding FT8! Built a 100% DIY dipole from scrap aluminum and decoded US/Japan (ATS-20+ Receiver)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vywc1t/first_time_decoding_ft8_built_a_100_diy_dipole/",
-        "author": "/u/RozzKiv"
-      },
-      {
-        "title": "[DIY] Coat Hanger Yagi Gap & Material Study (2cm vs 3cm, Steel vs Copper) - 5 Repeaters Tested, SWR 1.1",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzevz8/diy_coat_hanger_yagi_gap_material_study_2cm_vs/",
-        "author": "/u/HL1UKO"
-      },
-      {
-        "title": "Pakistan's amateur radios are tuned in for the apocalypse",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vys7na/pakistans_amateur_radios_are_tuned_in_for_the/",
-        "author": "/u/Black_Scholes_Merton"
-      },
-      {
-        "title": "RI1FJL \u2013 Franz Josef Land DXpedition",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vz52sg/ri1fjl_franz_josef_land_dxpedition/",
-        "author": "/u/sayilir"
-      },
-      {
-        "title": "MFJ contact",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vyyfln/mfj_contact/",
-        "author": "/u/kk4yel"
-      },
-      {
-        "title": "DIY antenna mast materials choice?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzbip7/diy_antenna_mast_materials_choice/",
-        "author": "/u/Cobra__Commander"
-      },
-      {
-        "title": "Ideas for a Kenwood TM-V71",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vz3st2/ideas_for_a_kenwood_tmv71/",
-        "author": "/u/EnterSadman"
-      },
-      {
-        "title": "HRO has Kenwood 750As",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vzbwg0/hro_has_kenwood_750as/",
-        "author": "/u/jsisbell"
-      },
-      {
-        "title": "FCC says 100+ applications affected by payment-linking glitch",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vyxcdy/fcc_says_100_applications_affected_by/",
-        "author": "/u/Time_Building_2354"
-      },
-      {
-        "title": "I added APRS RX to my board of many things.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vya0fe/i_added_aprs_rx_to_my_board_of_many_things/",
-        "author": "/u/inquirewue"
+        "title": "What actually makes loops quieter?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1vztngs/what_actually_makes_loops_quieter/",
+        "author": "/u/thesoulless78"
       }
     ]
   }

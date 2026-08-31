@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T15:14:26.834131",
+  "updated": "2026-08-31T17:56:38.142962",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1vx25ia/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3d4dd/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,84 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "FreeDV RADE: A New Approach to Digital Voice over HF, Now Integrated into Popular Radios",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3gtaj/freedv_rade_a_new_approach_to_digital_voice_over/",
+        "author": "/u/ARDC_73"
+      },
+      {
+        "title": "CB\u00b4ers uses ham call at 27 MHz?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w387c8/cbers_uses_ham_call_at_27_mhz/",
+        "author": "/u/Dario-mesked"
+      },
+      {
+        "title": "Help identifying a pre-1958 Harmon Electronics Model 100 tube unit",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3jpia/help_identifying_a_pre1958_harmon_electronics/",
+        "author": "/u/j8koBallHard18"
+      },
+      {
+        "title": "Why do you do Ham Radio?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2zqb4/why_do_you_do_ham_radio/",
+        "author": "/u/texasbarkintrilobite"
+      },
+      {
+        "title": "Hey lads, I might have asked this before but what is the current consensus on Faraday cloths.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3hblz/hey_lads_i_might_have_asked_this_before_but_what/",
+        "author": "/u/3rdGenHam"
+      },
+      {
+        "title": "Old Icelandic ship radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2t2kv/old_icelandic_ship_radio/",
+        "author": "/u/EatenEntropy"
+      },
+      {
+        "title": "Radae (RADE V1) - Anyone doing DX?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3elqg/radae_rade_v1_anyone_doing_dx/",
+        "author": "/u/Radio-Bench"
+      },
+      {
+        "title": "Yaesu FT-102 restoration suggestions wanted",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w38x5c/yaesu_ft102_restoration_suggestions_wanted/",
+        "author": "/u/ychen6"
+      },
+      {
         "title": "Pota Day",
         "link": "https://www.reddit.com/r/amateurradio/comments/1w2gqkm/pota_day/",
         "author": "/u/rossog93"
+      },
+      {
+        "title": "Anyone want to talk me out of getting a D168-UV Pro?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3kby0/anyone_want_to_talk_me_out_of_getting_a_d168uv_pro/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "The Goubau Line (single wire transmission line)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2yprj/the_goubau_line_single_wire_transmission_line/",
+        "author": "/u/qbg"
+      },
+      {
+        "title": "Handi-Talky Commander - Now on Linux, macOS, Windows, iOS, Android and Web.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2olde/handitalky_commander_now_on_linux_macos_windows/",
+        "author": "/u/ylianst"
+      },
+      {
+        "title": "NA6D All In One Cable (AIOC) question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w3gqld/na6d_all_in_one_cable_aioc_question/",
+        "author": "/u/No_Change_4499"
+      },
+      {
+        "title": "WeFax met app RadioSilenceSDR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w380n2/wefax_met_app_radiosilencesdr/",
+        "author": "/u/SpecialistFew4621"
+      },
+      {
+        "title": "Just got 2 Clansman PRC-349s",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w31bpt/just_got_2_clansman_prc349s/",
+        "author": "/u/Azbo3005"
+      },
+      {
+        "title": "OKC Metro",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w34mxg/okc_metro/",
+        "author": "/u/Slight-Reception2700"
       },
       {
         "title": "Built a simple paddle key and USB interface",
@@ -27,109 +102,34 @@
         "author": "/u/Cute-Log-2026"
       },
       {
+        "title": "Alpha Antenna HOA buster",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w32dau/alpha_antenna_hoa_buster/",
+        "author": "/u/No-Fun6351"
+      },
+      {
+        "title": "What is everyone\u2019s best tip for studying for extra when bad at math?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2l5uo/what_is_everyones_best_tip_for_studying_for_extra/",
+        "author": "/u/bluebagles"
+      },
+      {
         "title": "I'm getting VERY tired of the AI generated slop I keep seeing at meetings and other ham events.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1w1wz90/im_getting_very_tired_of_the_ai_generated_slop_i/",
         "author": "/u/SpiritFederation"
       },
       {
-        "title": "2M SSB and CW. When to use?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2dccw/2m_ssb_and_cw_when_to_use/",
-        "author": "/u/Whole-Hat-2213"
+        "title": "Has anyone actually used the Hustler BM-1 antenna mount?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2ypbr/has_anyone_actually_used_the_hustler_bm1_antenna/",
+        "author": "/u/Gandalf_D_Blue"
       },
       {
-        "title": "Today\u2019s NCRG Hamfest At Bassendean VK6. We had a great turnout. Well done to the organisers!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w292ye/todays_ncrg_hamfest_at_bassendean_vk6_we_had_a/",
-        "author": "/u/Uluru-Dreaming"
+        "title": "Gary, IN Operators able to make contact?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2yj2q/gary_in_operators_able_to_make_contact/",
+        "author": "/u/EsoPrivate"
       },
       {
-        "title": "Tokyo Ham Fair 2026 MEGA-REPORT",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1o608/tokyo_ham_fair_2026_megareport/",
-        "author": "/u/the2belo"
-      },
-      {
-        "title": "HRD satellite prediction if off by like 30 minutes?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2j5am/hrd_satellite_prediction_if_off_by_like_30_minutes/",
-        "author": "/u/Saxman31"
-      },
-      {
-        "title": "I bombed my first CW QSO today.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1ua9h/i_bombed_my_first_cw_qso_today/",
-        "author": "/u/axhoff_"
-      },
-      {
-        "title": "Why are there no clubs for youth",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1otm6/why_are_there_no_clubs_for_youth/",
-        "author": "/u/DmitryE"
-      },
-      {
-        "title": "UK CB radio community",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2je3o/uk_cb_radio_community/",
-        "author": "/u/LightBlazeMC"
-      },
-      {
-        "title": "Cool Antenna I Saw Today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1u06q/cool_antenna_i_saw_today/",
-        "author": "/u/canelbir1"
-      },
-      {
-        "title": "Getting a Baofeng UV-5R",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2bad2/getting_a_baofeng_uv5r/",
-        "author": "/u/Ilovetech_0625"
-      },
-      {
-        "title": "Home brew antenna tuner project",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w237x5/home_brew_antenna_tuner_project/",
-        "author": "/u/SonicResidue"
-      },
-      {
-        "title": "OpenSourceSdr Lab",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w26n3h/opensourcesdr_lab/",
-        "author": "/u/Thin_Wealth_9160"
-      },
-      {
-        "title": "Need help with antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1ztc2/need_help_with_antenna/",
-        "author": "/u/Keysurfer64"
-      },
-      {
-        "title": "M-90D mic ? Need help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w24jf1/m90d_mic_need_help/",
-        "author": "/u/Keysurfer64"
-      },
-      {
-        "title": "J28SK Djibouti",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w212ih/j28sk_djibouti/",
-        "author": "/u/craynerd"
-      },
-      {
-        "title": "VGC VR-N7600 as a first mobile radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1xx35/vgc_vrn7600_as_a_first_mobile_radio/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
-        "title": "CB-Logbuch f\u00fcr Android \u2013 Werde Teil der Test-Crew!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2c0us/cblogbuch_f\u00fcr_android_werde_teil_der_testcrew/",
-        "author": "/u/Glass_Hospital7209"
-      },
-      {
-        "title": "I thought I was doing Ham radio right... Then I worked DL\u00d8IL/p and realized I'm doing it all wrong.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w19qg8/i_thought_i_was_doing_ham_radio_right_then_i/",
-        "author": "/u/adhdff"
-      },
-      {
-        "title": "Listen to GeminiDX from Canterbury live on Radio Garden",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w2d8hk/listen_to_geminidx_from_canterbury_live_on_radio/",
-        "author": "/u/Background-Pepper870"
-      },
-      {
-        "title": "IC-7110 (X-026) announced",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w19n6b/ic7110_x026_announced/",
-        "author": "/u/Dependent_Isopod2818"
-      },
-      {
-        "title": "Is it legal to drive the ground rod of this antenna to the ground in a public park in England?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w1o2ap/is_it_legal_to_drive_the_ground_rod_of_this/",
-        "author": "/u/busterghost65"
+        "title": "Will this bend/kink in my antenna affect my range significantly?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w2y8my/will_this_bendkink_in_my_antenna_affect_my_range/",
+        "author": "/u/JoshTheRPGod"
       }
     ]
   }

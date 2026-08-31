@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-24T12:31:07.076194",
+  "updated": "2026-08-31T18:30:59.924122",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "BqBchSGnO8F0twqYnXlYBYi2cSo",
+    "etag": "DMhY4yoHdQVIFOZg0QVnDVZFHwU",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,288 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "252166",
-      "subscriberCount": "2290",
+      "viewCount": "261161",
+      "subscriberCount": "2310",
       "hiddenSubscriberCount": false,
-      "videoCount": "158"
+      "videoCount": "162"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "zpn_QkeziSH2nmzK0nyPbXiW-V0",
+      "etag": "N5P1Gyg1nd0PDa4H6ijwd-IvUmE",
+      "id": "N9i7XudEuyw",
+      "snippet": {
+        "publishedAt": "2026-08-31T09:01:52Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "IC-7110 - Is It What You Wanted It To Be",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9i7XudEuyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9i7XudEuyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9i7XudEuyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9i7XudEuyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9i7XudEuyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Ham radio",
+          "IC-7110",
+          "Icom",
+          "X-026",
+          "Amateur Radio"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "IC-7110 - Is It What You Wanted It To Be",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "53",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sQWMOBMSGNgZDkitskqOGniDWcI",
+      "id": "wJ9ApHXBlWE",
+      "snippet": {
+        "publishedAt": "2026-08-30T01:43:12Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "The IC-7110 Is Not For Everyone",
+        "description": "Who is this radio for?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wJ9ApHXBlWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wJ9ApHXBlWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wJ9ApHXBlWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wJ9ApHXBlWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wJ9ApHXBlWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "#hamradio",
+          "#amateurradio",
+          "#icom",
+          "#ic7110",
+          "#internaltuner",
+          "#atas",
+          "#fullduplex",
+          "#satellite",
+          "#ftx1optima",
+          "#everydayham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The IC-7110 Is Not For Everyone",
+          "description": "Who is this radio for?"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "258",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BcmjV1mGhyZ5TPp3DEj8OkkEZ9s",
+      "id": "FGMP-r6Kwq0",
+      "snippet": {
+        "publishedAt": "2026-08-29T15:00:11Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
+        "description": "Icom finally pulled the covers off the X-026 at Tokyo Ham Fair 2026, and we met the IC-7110. \n\nWe stayed up late to watch the reveal live from Japan and reacted to it in real time.\n\nWatch Icom's official unveiling: https://www.youtube.com/watch?v=u7QGMbUNB2k\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down for a late night watch party as Icom announces the successor to the IC-7100. We take it in as it lands: HF, 50, 144 and 430 MHz all mode, 100 watts on HF and 6 meters, 50 watts on VHF and UHF, a 4.3 inch color touchscreen with a speaker built into the control head, dualwatch across HF and VHF, CW decode, an FT8 preset, dual band Wi-Fi, Bluetooth, GPS and remote control software. We also get into what is not there: no APRS in this announcement, no internal tuner, no display output, and no full duplex for the satellite crowd. Then we do what we always do and guess the price, somewhere between $1,999 and $2,600, and argue about when it will actually ship.\n\nChapters:\n00:00 Late night watch party for the X-026 reveal\n01:07 The stream starts, and it is the IC-7110\n02:17 First look at the head and the 4.3 inch screen\n03:08 100 watts on HF, 50 watts on VHF and UHF\n05:21 Audio scope, independent receive and dual band watch\n06:06 CW decode, FT8 presets, and the APRS question\n07:20 Wi-Fi, Bluetooth, GPS and D-STAR access point mode\n08:18 Remote software and that built-in speaker\n10:36 USB-C, microSD, and no display output\n11:28 The screen it shares with the ID-5200A\n12:57 An auto tune button, but no internal tuner\n14:39 Price guesses: $1,999, $2,399 or $2,600\n17:17 When does it actually ship?\n19:50 Could APRS arrive in a firmware update?\n21:09 Mobile antennas: the ATAS-120A and the AX-17\n22:44 Final thoughts: is this the rig to beat?\n26:06 A good time to be in the hobby\n\nStreams we watched:\n- Icom, X-026: The Unveiling on 29th August, 2026 (English version): https://www.youtube.com/watch?v=u7QGMbUNB2k\n- Ham Radio DX, FIRST LOOK: The New Icom IC-7110 Live from Tokyo: https://www.youtube.com/watch?v=J-h38RUrhJM\n- Ham Radio Crash Course: https://www.youtube.com/@HamRadioCrashCourse\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #IC7110 #Icom #amateurradio #TokyoHamFair\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#ICOM #IC7110 #X026 #REVEAL #TOKYOHAMFAIR #IC-7100 #MobileHFRadio #AmateurRadio #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGMP-r6Kwq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGMP-r6Kwq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGMP-r6Kwq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGMP-r6Kwq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGMP-r6Kwq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
+          "description": "Icom finally pulled the covers off the X-026 at Tokyo Ham Fair 2026, and we met the IC-7110. \n\nWe stayed up late to watch the reveal live from Japan and reacted to it in real time.\n\nWatch Icom's official unveiling: https://www.youtube.com/watch?v=u7QGMbUNB2k\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down for a late night watch party as Icom announces the successor to the IC-7100. We take it in as it lands: HF, 50, 144 and 430 MHz all mode, 100 watts on HF and 6 meters, 50 watts on VHF and UHF, a 4.3 inch color touchscreen with a speaker built into the control head, dualwatch across HF and VHF, CW decode, an FT8 preset, dual band Wi-Fi, Bluetooth, GPS and remote control software. We also get into what is not there: no APRS in this announcement, no internal tuner, no display output, and no full duplex for the satellite crowd. Then we do what we always do and guess the price, somewhere between $1,999 and $2,600, and argue about when it will actually ship.\n\nChapters:\n00:00 Late night watch party for the X-026 reveal\n01:07 The stream starts, and it is the IC-7110\n02:17 First look at the head and the 4.3 inch screen\n03:08 100 watts on HF, 50 watts on VHF and UHF\n05:21 Audio scope, independent receive and dual band watch\n06:06 CW decode, FT8 presets, and the APRS question\n07:20 Wi-Fi, Bluetooth, GPS and D-STAR access point mode\n08:18 Remote software and that built-in speaker\n10:36 USB-C, microSD, and no display output\n11:28 The screen it shares with the ID-5200A\n12:57 An auto tune button, but no internal tuner\n14:39 Price guesses: $1,999, $2,399 or $2,600\n17:17 When does it actually ship?\n19:50 Could APRS arrive in a firmware update?\n21:09 Mobile antennas: the ATAS-120A and the AX-17\n22:44 Final thoughts: is this the rig to beat?\n26:06 A good time to be in the hobby\n\nStreams we watched:\n- Icom, X-026: The Unveiling on 29th August, 2026 (English version): https://www.youtube.com/watch?v=u7QGMbUNB2k\n- Ham Radio DX, FIRST LOOK: The New Icom IC-7110 Live from Tokyo: https://www.youtube.com/watch?v=J-h38RUrhJM\n- Ham Radio Crash Course: https://www.youtube.com/@HamRadioCrashCourse\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #IC7110 #Icom #amateurradio #TokyoHamFair\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#ICOM #IC7110 #X026 #REVEAL #TOKYOHAMFAIR #IC-7100 #MobileHFRadio #AmateurRadio #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3232",
+        "likeCount": "40",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GI7085UZrRu4mT5uDuFLm0OL8Xs",
+      "id": "6bfpd7tNemg",
+      "snippet": {
+        "publishedAt": "2026-08-27T11:18:31Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
+        "description": "This time on the Everyday Ham, we head into the shop to build an external GPS Solution for the Mach-E.   Solving two problems with N8JRD's mobile radio installation and getting him back on the APRS Air!\n\nThis video details the specifications and required parts to build an external gps solution for the popular FTM-500 Series of radios.   This solution will work with the FTM-400, FTM-510, and other Yaesu radios that utilize a similar input specification.\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#YaesuFTM500 #ExternalGPS #APRS #MACHE #mobileradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/6bfpd7tNemg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
+          "description": "This time on the Everyday Ham, we head into the shop to build an external GPS Solution for the Mach-E.   Solving two problems with N8JRD's mobile radio installation and getting him back on the APRS Air!\n\nThis video details the specifications and required parts to build an external gps solution for the popular FTM-500 Series of radios.   This solution will work with the FTM-400, FTM-510, and other Yaesu radios that utilize a similar input specification.\n\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#YaesuFTM500 #ExternalGPS #APRS #MACHE #mobileradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "971",
+        "likeCount": "36",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BxTODwQuYjLxC3nBAQqncp3ZTOk",
       "id": "bi5ceZWvSfg",
       "snippet": {
         "publishedAt": "2026-08-18T15:56:48Z",
@@ -95,7 +367,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1226",
+        "viewCount": "1259",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -103,7 +375,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7xmF-2IWKxq5jy9JfU3GA-OxPTE",
+      "etag": "UR9sotSW9brQ8s3tZ-w7hANPIxM",
       "id": "nYPSyZzZcDY",
       "snippet": {
         "publishedAt": "2026-08-15T18:28:54Z",
@@ -135,6 +407,11 @@
             "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/nYPSyZzZcDY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -160,7 +437,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "787",
+        "viewCount": "816",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -168,7 +445,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w_TV94qat3s9UOyelSyju4xPV24",
+      "etag": "lM604uAjkz0Bnb2lEwtWBKOX2_Y",
       "id": "LEmN65zuSK0",
       "snippet": {
         "publishedAt": "2026-08-14T12:00:12Z",
@@ -232,7 +509,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "73",
+        "viewCount": "85",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -240,7 +517,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Mw5QtxadotZbWYzWsJU4DsDcsjY",
+      "etag": "4GsQrLHkO8REAqIx4GTExbmmEIo",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -304,7 +581,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "168",
+        "viewCount": "178",
         "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -312,7 +589,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "x7gT7iqS4P2CguEuqLvqf6K5KDI",
+      "etag": "AzqsMtvtuNY8hFBRVsHDeY1mvZ4",
       "id": "jEMEbgEv1zM",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:16Z",
@@ -356,7 +633,7 @@
         }
       },
       "statistics": {
-        "viewCount": "1350",
+        "viewCount": "1356",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -364,7 +641,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L2sLr1A_BYqy3g5z_iGkK251CZk",
+      "etag": "25fFHdo4fxQx4t4FXbif54kimcw",
       "id": "VcbRTsjRx28",
       "snippet": {
         "publishedAt": "2026-08-06T12:30:59Z",
@@ -408,7 +685,7 @@
         }
       },
       "statistics": {
-        "viewCount": "940",
+        "viewCount": "942",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -416,7 +693,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nqy3NOl7wtDongmnY4WmFxGzyzw",
+      "etag": "GYl9wlEiUE-mCufKNgBGoiTwbfA",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -480,7 +757,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "204",
+        "viewCount": "229",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -488,7 +765,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nLoHhFIUsn7gYJbN2jPX8T9p_S0",
+      "etag": "NTLWQE8psTSdqHuEwfIjb2m0nP0",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -532,7 +809,7 @@
         }
       },
       "statistics": {
-        "viewCount": "180",
+        "viewCount": "190",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -540,7 +817,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vWp-_kgK8mmVwkWhTjolwAwjrEA",
+      "etag": "9a3_XiP3dByDyXu19aTqF1BDd9k",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -608,15 +885,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1584",
-        "likeCount": "96",
+        "viewCount": "1689",
+        "likeCount": "100",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dkKSNH9eKtRasuPCbqoUS-iclN8",
+      "etag": "_rcc_uEDCiSWiZ1vvGuRGzQEQEA",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -648,6 +925,11 @@
             "url": "https://i.ytimg.com/vi/SgptaI9RCHE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/SgptaI9RCHE/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
           }
         },
         "channelTitle": "Everyday Ham",
@@ -679,7 +961,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "342",
+        "viewCount": "345",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -687,7 +969,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EVlKIQgNBOtWgrGuitnDHS9VkUQ",
+      "etag": "1hmfEXheurDZtsPNM1Fe1hIjOBY",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -719,6 +1001,11 @@
             "url": "https://i.ytimg.com/vi/r08dZat4bOU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/r08dZat4bOU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -750,15 +1037,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5098",
-        "likeCount": "171",
+        "viewCount": "5165",
+        "likeCount": "172",
         "favoriteCount": "0",
         "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ENGIW-H76aGBypREw5A8uwSei5Y",
+      "etag": "AdpUB9jjpEPK29fvXNHBvUwlKKI",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -820,7 +1107,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "487",
+        "viewCount": "513",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -828,7 +1115,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HlzDXcEfyIxzj_L6QstUOWMcaGQ",
+      "etag": "FFqnvv8E5fiF902gadIbltXt2X8",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -860,6 +1147,11 @@
             "url": "https://i.ytimg.com/vi/mdOTgixDm6o/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/mdOTgixDm6o/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -892,7 +1184,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "526",
+        "viewCount": "540",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1041,7 +1333,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "knsUxALaCZbefadMDMKDsttWUH0",
+      "etag": "uSvRXktIxgRZcJQ3X4rL80B5SJw",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -1105,7 +1397,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "280",
+        "viewCount": "283",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1113,7 +1405,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A4Tk10GEoRSmG4UNoMl18fMKa2Y",
+      "etag": "4V02-V59rR5ecxCa8JFt_POx-B4",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -1177,7 +1469,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "329",
+        "viewCount": "330",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1185,7 +1477,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xF9paoYluuDkLDGn1AoeVSs1mBY",
+      "etag": "z70mukDVOoPdrrh-cLm_R8VszZ0",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -1217,6 +1509,11 @@
             "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/hcXOOwiPnr0/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1252,7 +1549,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "927",
+        "viewCount": "942",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1260,7 +1557,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XnOUibq3yUxVWG-OpAjSLxbkoqk",
+      "etag": "Xx5cuFiO-C6eScWRGc8Wu6XuAcM",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -1292,6 +1589,11 @@
             "url": "https://i.ytimg.com/vi/0oo2I7vziac/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/0oo2I7vziac/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1324,7 +1626,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "941",
+        "viewCount": "952",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1332,7 +1634,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W9ul1MxopZkoqpPSOnfvNMPsSS4",
+      "etag": "JCrWiPFhcExZ-uJoqR51amNW2wI",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -1364,6 +1666,11 @@
             "url": "https://i.ytimg.com/vi/HN3sKVL2DSU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/HN3sKVL2DSU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1396,7 +1703,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "343",
+        "viewCount": "346",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1404,7 +1711,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0mCej8_IXSAddR-JDpKs4g4r6Lk",
+      "etag": "nW9w_4v5WBZvXTtMYAjKLBmzWqY",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -1436,6 +1743,11 @@
             "url": "https://i.ytimg.com/vi/xKMKYlSsglY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/xKMKYlSsglY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1467,7 +1779,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "436",
+        "viewCount": "440",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1475,7 +1787,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yLzDXVF8tiAK4u88xqkjJjRBCeg",
+      "etag": "VDcZLDYbJLx55ERaPuzr3I7x19A",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -1507,6 +1819,11 @@
             "url": "https://i.ytimg.com/vi/UtSuCqs9p74/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/UtSuCqs9p74/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1539,15 +1856,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1077",
-        "likeCount": "45",
+        "viewCount": "1126",
+        "likeCount": "47",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Xe76HhO_BXCAdefilyUyiLisITw",
+      "etag": "adR9rWn2F5g1oK-h2xHu88C79i4",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -1579,6 +1896,11 @@
             "url": "https://i.ytimg.com/vi/D83ErArGu6I/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/D83ErArGu6I/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1610,7 +1932,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "580",
+        "viewCount": "605",
         "likeCount": "43",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -1618,7 +1940,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KdDu0qfKJFxq8oOxIU7Ua4dpqNw",
+      "etag": "H-hC2U7-_3t13SSa3GKXW7EsvWI",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -1681,7 +2003,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "330",
+        "viewCount": "335",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1689,7 +2011,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mH6evaMZeP_JSQCTYvHSkmSqm9w",
+      "etag": "MSWTb_qMqE08eQpWmoIbNKyalZ8",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -1721,6 +2043,11 @@
             "url": "https://i.ytimg.com/vi/fZkumHnnbGI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1753,7 +2080,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "637",
+        "viewCount": "644",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1761,7 +2088,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2hotXVNwHanR8-FwaNU3Vg8zObg",
+      "etag": "AvHIQCuyGYR0x4Z5DjZmJjsAst4",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -1793,6 +2120,11 @@
             "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1825,7 +2157,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3418",
+        "viewCount": "3446",
         "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -1833,7 +2165,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MnwDr2RUJ8KDzmco032Wen5Kh2Q",
+      "etag": "U_S6yxk0r-WZ8vHMTIkaEzmjXqs",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -1865,6 +2197,11 @@
             "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/BM7TGhOEgZ8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1896,15 +2233,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "527",
-        "likeCount": "22",
+        "viewCount": "540",
+        "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "7"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qerefdByGyIAFNoDk-mTVkeIgxU",
+      "etag": "VZiKu8HzVqBuy4ucKvFFsrewOr4",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -1936,6 +2273,11 @@
             "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -1968,15 +2310,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9164",
-        "likeCount": "196",
+        "viewCount": "9815",
+        "likeCount": "198",
         "favoriteCount": "0",
-        "commentCount": "56"
+        "commentCount": "58"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KL-m1u-XW690ut_pGSfolQUiuK0",
+      "etag": "-cwnojV65DYnIidtZPtE52aOPdA",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -2008,6 +2350,11 @@
             "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2040,7 +2387,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1866",
+        "viewCount": "1920",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -2048,7 +2395,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Lo6pVbsjkbeeh6v6xpDwFojGr_U",
+      "etag": "433l6KPl6oJgDjpSwYE6RHoigxs",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -2080,6 +2427,11 @@
             "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2112,15 +2464,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10953",
-        "likeCount": "193",
+        "viewCount": "11238",
+        "likeCount": "196",
         "favoriteCount": "0",
-        "commentCount": "55"
+        "commentCount": "57"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "H1nLg7_1esra_qw8vfMRxvG0bCw",
+      "etag": "iq5q0rEdHr4Z3UmtM0up2dvio0E",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -2152,6 +2504,11 @@
             "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2184,15 +2541,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10202",
-        "likeCount": "244",
+        "viewCount": "10778",
+        "likeCount": "253",
         "favoriteCount": "0",
         "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gt-mhfwGFG16N9zK5kFIkjE-35M",
+      "etag": "zc1frXS-4IRdr2z8C7_JAozlA1U",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -2224,6 +2581,11 @@
             "url": "https://i.ytimg.com/vi/u_4p34yJlvk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2256,15 +2618,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4592",
-        "likeCount": "135",
+        "viewCount": "4646",
+        "likeCount": "136",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2iwl9L-D23l2MEOHlgJW08IG7Mk",
+      "etag": "wjmM8a6UEFL2GCWyCoPNbtBBOZg",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -2325,15 +2687,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "917",
+        "viewCount": "938",
         "likeCount": "30",
         "favoriteCount": "0",
-        "commentCount": "2"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "66vsJNeEMbdSEDCYUYlukMgkN9I",
+      "etag": "B6NLBnaB3YMwfU5qFDI3zGzcrwk",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -2365,6 +2727,11 @@
             "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/YrE4SytLYNQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2396,7 +2763,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1670",
+        "viewCount": "1675",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -2404,7 +2771,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kGoZa9OWPVOi8g8N9p5M7cfaz_A",
+      "etag": "RuthF06Vzzx_uppjWQNkp4l9zIw",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -2465,7 +2832,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1447",
+        "viewCount": "1566",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2473,7 +2840,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LoGarLFW300sEWTgx3LisKTTAT0",
+      "etag": "kA4Yg8kETqTtkuKHrruCYWYUSRM",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -2505,6 +2872,11 @@
             "url": "https://i.ytimg.com/vi/b5WcO1lnuck/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2536,7 +2908,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "916",
+        "viewCount": "920",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -2544,7 +2916,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T6qSTTyWqUYHIY9GEctg4PuR0gg",
+      "etag": "bjTLjrD1ul9PhxDLd-A2DWghOeQ",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -2610,7 +2982,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "367",
+        "viewCount": "374",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2618,7 +2990,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tEW1Sc5WDuhIkVGvvm5iGU3m4xE",
+      "etag": "h0CTEKrsdv_2D07dFC2MprQzyrs",
       "id": "YSZ2yiiWRGo",
       "snippet": {
         "publishedAt": "2026-04-09T19:31:01Z",
@@ -2666,7 +3038,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1382",
+        "viewCount": "1385",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2744,7 +3116,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ayaSwtHG_kGMvx76I3Y6Me1fDp4",
+      "etag": "LaQSzaHkjJoaSDzKbYUGKRGyBXc",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -2807,7 +3179,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "611",
+        "viewCount": "614",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2815,7 +3187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "exDf_mZ_YLJry0jnyoNK6_EiUwA",
+      "etag": "VZBd4X88aRvpVJ-MPtyPM6C6JYk",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -2877,15 +3249,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1840",
-        "likeCount": "68",
+        "viewCount": "1894",
+        "likeCount": "71",
         "favoriteCount": "0",
         "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3GuNyeJCyEq66g3DDABWDq4SYVs",
+      "etag": "cVi6Pm8857dzzznBPrgM_m36QRU",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -2917,6 +3289,11 @@
             "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/_rpb3BFjV-A/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
           }
         },
         "channelTitle": "Everyday Ham",
@@ -2948,7 +3325,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "521",
+        "viewCount": "540",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2956,7 +3333,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7XhhSELj7L9OsqXHcWy7yGLmPmc",
+      "etag": "ksH-ih0l1rr4ii4ciUQfxg218EE",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -3019,7 +3396,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "989",
+        "viewCount": "1006",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -3099,7 +3476,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WtootF_cuiA2DRJOgJxN7mdPwa4",
+      "etag": "bMMNAOd3CpGWMON93EW9GNi1__Q",
       "id": "6omvDxgOpLc",
       "snippet": {
         "publishedAt": "2026-03-05T23:19:29Z",
@@ -3162,7 +3539,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1254",
+        "viewCount": "1255",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3170,7 +3547,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vleqSQfEMiszMy2rG8_5_Gv8UrY",
+      "etag": "j6YPXnr6SD5qbozujrxbb4ZrqlU",
       "id": "KJN_OA-oZnQ",
       "snippet": {
         "publishedAt": "2026-03-05T18:00:32Z",
@@ -3232,296 +3609,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "602",
+        "viewCount": "603",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ecOxUHyUd5mR2rUdwOE_cBVLWbY",
-      "id": "Koz7XST0tKw",
-      "snippet": {
-        "publishedAt": "2026-03-05T15:31:48Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
-        "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Koz7XST0tKw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Are Radio Prices Going Up? Bouvet, Yaesu & HamClock",
-          "description": "Send us Fan Mail (https://www.buzzsprout.com/2438895/fan_mail/new) \n\n\nA Bird 43 wattmeter score at the swap, two new budget handhelds worth a look, and Rory's CW skills getting sharper through QSO parties and daily POTA hunting set the stage for a packed Episode 15.\n\n\nFT2 mode is here and it is fast - we're talking 3.75-second transmit/receive cycles and roughly 240 QSOs per hour at peak. But speed costs you something: the weak-signal performance drops significantly compared to FT8, and your time sync has to be nearly perfect. We map out where FT2 makes sense and when you should stick with what works.\n\n\nThen we head south - way south - to Bouvet Island. The 3Y0K DXpedition has the bands blazing and livestreams running via Starlink. But not every station should be in that pile. We talk strategy and sportsmanship: use PSK Reporter or GridTracker to confirm your signal is actually going that direction before calling, understand how Fox and Hound works, and know when your antenna and geography just are not going to win the slot.\n\n\nThe market news is hard to ignore: significant Yaesu MSRP increases across popular rigs including the FTDX10, FT-891, and FTDX101MP. We break down why tariffs, logistics, component costs, and yen-to-dollar swings are all pushing prices up - and whether waiting for Hamvention deals still makes sense.\n\n\nFinally, HamClock lives on. After the passing of its creator Elwood, the community moved fast. Hamclock.com (W4BAE) restores the data feeds with redundancy and a simple host file edit. OpenHamClock offers a polished browser-based and self-hosted option. HamVision is an emerging alternative worth watching. And Geochron remains a solid turnkey choice for those who want it to just work.\n\n\nWe wrap with a genuine win from the ARRL: amateur operators are exempted from foreign adversary contact reporting requirements. When the community organizes, good things happen.\n\n\nDon't miss a single episode! Follow Everyday Ham on Apple Podcasts, Spotify, Overcast, and more, and subscribe to our YouTube channel at @EverydayHam. Ideas or feedback? Email us at cq@everydayham.com (mailto:cq@everydayham.com) .\n\n\nShort show intro audio clip\n \n\nShort outro audio clip\n\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\u00a0\n\n\nFollow us at: Website: https://www.everydayham.com/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "184",
-        "likeCount": "13",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "x4Y67of4B0pdxbl0zCXSpPykWYg",
-      "id": "pn-6WtI41MI",
-      "snippet": {
-        "publishedAt": "2026-02-26T14:08:30Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-        "description": "Head to the home of the N8SL 2m Repeater to take a tour of the vintage Motorola Micor Repeater that keeps our club connected!    Join the SLAARC Technical Chair W8KNX along with N8LEK and N8JRD as they take care of some maintenance and upgrades that keep this old repeater on the air and connected to ALLSTAR and ECHOLINK.  \n\nGet your ALLSTAR Node here and come chat with us!\nhttps://kits4hams.com/\n\n\ud83c\udf99\ufe0f Listen to our Monthly Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nJoin us on Discord: https://discord.com/invite/4qvEUNPugy\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #Repeater #Motorola #WaterTower #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pn-6WtI41MI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pn-6WtI41MI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pn-6WtI41MI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pn-6WtI41MI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pn-6WtI41MI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF",
-          "MICOR",
-          "MOTOROLA"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-          "description": "Head to the home of the N8SL 2m Repeater to take a tour of the vintage Motorola Micor Repeater that keeps our club connected!    Join the SLAARC Technical Chair W8KNX along with N8LEK and N8JRD as they take care of some maintenance and upgrades that keep this old repeater on the air and connected to ALLSTAR and ECHOLINK.  \n\nGet your ALLSTAR Node here and come chat with us!\nhttps://kits4hams.com/\n\n\ud83c\udf99\ufe0f Listen to our Monthly Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nJoin us on Discord: https://discord.com/invite/4qvEUNPugy\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #Repeater #Motorola #WaterTower #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1759",
-        "likeCount": "72",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_RetUdza1fOFzGL6zMBIIp-NucE",
-      "id": "r6CgCAViM_c",
-      "snippet": {
-        "publishedAt": "2026-02-15T03:55:46Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Kits 4 Hams SHARI Allstar Node & Mortty V5 | Hamcation 2026",
-        "description": "James (K8JKU) talks with Steve (N8AR), creator of the SHARI Allstar Node, at the Kits 4 Hams booth at Hamcation 2026. Steve walks us through his line of SHARI nodes including the newer SHARI PiHat NeoPi5 model designed for the Raspberry Pi 5, discusses his pre-assembled units and kit options, and the support and service he provides. They also cover the Mortty V5, a precision CW and RTTY keying device. Whether you\u2019re looking to build or buy, Steve has you covered.\n\n\ud83d\udd17 Kits 4 Hams: https://www.kits4hams.com\n\ud83d\udd17 Mortty: https://www.mortty.net",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/r6CgCAViM_c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Kits 4 Hams",
-          "SHARI",
-          "Allstar node",
-          "SHARI PiHat",
-          "Raspberry Pi 5",
-          "Mortty V5",
-          "CW keyer",
-          "ham radio",
-          "amateur radio",
-          "Hamcation 2026",
-          "ham radio kit",
-          "Allstar Link",
-          "Raspberry Pi ham radio",
-          "N8AR",
-          "Everyday Ham",
-          "ham radio podcast"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Kits 4 Hams SHARI Allstar Node & Mortty V5 | Hamcation 2026",
-          "description": "James (K8JKU) talks with Steve (N8AR), creator of the SHARI Allstar Node, at the Kits 4 Hams booth at Hamcation 2026. Steve walks us through his line of SHARI nodes including the newer SHARI PiHat NeoPi5 model designed for the Raspberry Pi 5, discusses his pre-assembled units and kit options, and the support and service he provides. They also cover the Mortty V5, a precision CW and RTTY keying device. Whether you\u2019re looking to build or buy, Steve has you covered.\n\n\ud83d\udd17 Kits 4 Hams: https://www.kits4hams.com\n\ud83d\udd17 Mortty: https://www.mortty.net"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "641",
-        "likeCount": "29",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SAlW8K3MBzRI3Jum3oohUVAhV6s",
-      "id": "_5gsI9KuvEI",
-      "snippet": {
-        "publishedAt": "2026-02-14T23:39:30Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-        "description": "James (K8JKU) and Rory (W8KNX) sit down with Ray Novak (N9JA) from Icom America at Hamcation 2026 to talk about the IC-7300MK2. Ray walks us through the key upgrades over the original IC-7300 including HDMI output for an external display, USB Type-C with dual virtual COM ports, built-in LAN for simplified remote operation, improved receiver performance, and overall better efficiency. If you loved the IC-7300, this is the upgrade you\u2019ve been waiting for.\n\n\ud83d\udd17 Icom America: https://www.icomamerica.com\n\ud83d\udd17 IC-7300MK2: https://www.icomamerica.com/lineup/products/IC-7300MK2/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_5gsI9KuvEI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Icom",
-          "IC-7300MK2",
-          "IC-7300",
-          "HF transceiver",
-          "SDR transceiver",
-          "ham radio",
-          "amateur radio",
-          "Hamcation 2026",
-          "Icom America",
-          "HDMI ham radio",
-          "remote ham radio",
-          "USB-C",
-          "Ray Novak",
-          "N9JA",
-          "Everyday Ham",
-          "ham radio podcast"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-          "description": "James (K8JKU) and Rory (W8KNX) sit down with Ray Novak (N9JA) from Icom America at Hamcation 2026 to talk about the IC-7300MK2. Ray walks us through the key upgrades over the original IC-7300 including HDMI output for an external display, USB Type-C with dual virtual COM ports, built-in LAN for simplified remote operation, improved receiver performance, and overall better efficiency. If you loved the IC-7300, this is the upgrade you\u2019ve been waiting for.\n\n\ud83d\udd17 Icom America: https://www.icomamerica.com\n\ud83d\udd17 IC-7300MK2: https://www.icomamerica.com/lineup/products/IC-7300MK2/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "5543",
-        "likeCount": "187",
-        "favoriteCount": "0",
-        "commentCount": "25"
       }
     }
   ]

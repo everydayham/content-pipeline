@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-02 15:00 UTC*
+*Last updated: 2026-09-03 14:54 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Made my first official QSO today using FT8 on a Radioditty hf-010, icom 761 and ...](https://www.reddit.com/r/amateurradio/comments/1w4xsl8/made_my_first_official_qso_today_using_ft8_on_a/)**
-by u/DanielMaat89
+**3. [Wife spotted this](https://www.reddit.com/r/amateurradio/comments/1w66yfh/wife_spotted_this/)**
+by u/slow2life
 
-**4. [My first 2m Yagi! Elements slightly off to the sides... Will it affect the perfo...](https://www.reddit.com/r/amateurradio/comments/1w4yz2o/my_first_2m_yagi_elements_slightly_off_to_the/)**
-by u/Murgavideo
+**4. [I passed!](https://www.reddit.com/r/amateurradio/comments/1w5pjwk/i_passed/)**
+by u/abandonedguitar
 
-**5. [Hearing someone in my headset](https://www.reddit.com/r/amateurradio/comments/1w54mgm/hearing_someone_in_my_headset/)**
-by u/AkrawBeats
+**5. [Custom G106 Battery - 18650 Cells](https://www.reddit.com/r/amateurradio/comments/1w62g5b/custom_g106_battery_18650_cells/)**
+by u/BriefSojourn
 
-**6. [WRTC 2026 - disqualifications & rescoring](https://www.reddit.com/r/amateurradio/comments/1w4p1t4/wrtc_2026_disqualifications_rescoring/)**
-by u/FarFigNewton007
+**6. [I have passed the technical exam](https://www.reddit.com/r/amateurradio/comments/1w5teoi/i_have_passed_the_technical_exam/)**
+by u/clumpytrack711
 
-**7. [Question!](https://www.reddit.com/r/amateurradio/comments/1w5cm5e/question/)**
-by u/Horrorbythenumbers
+**7. [Apartment HF setup](https://www.reddit.com/r/amateurradio/comments/1w671zv/apartment_hf_setup/)**
+by u/ScienceDude400
 
-**8. [Amateur radio Commodore 64 programs recovered: Digicom Hostmaster 64 and MaxPak-...](https://www.reddit.com/r/amateurradio/comments/1w4zd6q/amateur_radio_commodore_64_programs_recovered/)**
-by u/SummanusPachamama
+**8. [What is this "signal" at 000.000 khz?](https://www.reddit.com/r/amateurradio/comments/1w67xdc/what_is_this_signal_at_000000_khz/)**
+by u/G0NFS
 
-**9. [What is this on 14.110?](https://www.reddit.com/r/amateurradio/comments/1w56jgo/what_is_this_on_14110/)**
-by u/whaletech07
+**9. [Looks like a busy night in Franz Josef Land](https://www.reddit.com/r/amateurradio/comments/1w5qgil/looks_like_a_busy_night_in_franz_josef_land/)**
+by u/sac_boy
 
-**10. [Temporary antenna setup](https://www.reddit.com/r/amateurradio/comments/1w4h397/temporary_antenna_setup/)**
-by u/bartrice
+**10. [Yaesu FT-710 AESS](https://www.reddit.com/r/amateurradio/comments/1w5ueel/yaesu_ft710_aess/)**
+by u/Keysurfer64
 
-**11. [How to operate a college ham radio club on a tight budget?](https://www.reddit.com/r/amateurradio/comments/1w4jgky/how_to_operate_a_college_ham_radio_club_on_a/)**
-by u/xeall_
+**11. [Should I Send and Receive While Learning Morse Code?](https://www.reddit.com/r/amateurradio/comments/1w5tu5h/should_i_send_and_receive_while_learning_morse/)**
+by u/ThatChucklehead
 
-**12. [Norcal 40A, mostly Aliexpress parts...](https://www.reddit.com/r/amateurradio/comments/1w4jvde/norcal_40a_mostly_aliexpress_parts/)**
-by u/ry_cooder
+**12. [Question about SOS/CQD](https://www.reddit.com/r/amateurradio/comments/1w5vtlh/question_about_soscqd/)**
+by u/sonsofadun
 
-**13. [GNU Radio OFDM: Header/Payload Demux out_hdr is complex[64] and I can't connect ...](https://www.reddit.com/r/amateurradio/comments/1w545g3/gnu_radio_ofdm_headerpayload_demux_out_hdr_is/)**
-by u/Background-Ring-8578
+**13. [ICOM IC-7110](https://www.reddit.com/r/amateurradio/comments/1w5ge9w/icom_ic7110/)**
+by u/Murphys_law1978
 
-**14. [Power Transmitter CubeSat](https://www.reddit.com/r/amateurradio/comments/1w57eze/power_transmitter_cubesat/)**
-by u/SDR_Student
+**14. [Requesting for FT-857D Clean CHIRP Codeplug](https://www.reddit.com/r/amateurradio/comments/1w5wght/requesting_for_ft857d_clean_chirp_codeplug/)**
+by u/DiplomaPianist
 
-**15. [Do I need both?](https://www.reddit.com/r/amateurradio/comments/1w4c8c6/do_i_need_both/)**
-by u/DitchDoc4
+**15. [How many mounted antennas on a truck is too many](https://www.reddit.com/r/amateurradio/comments/1w5r97n/how_many_mounted_antennas_on_a_truck_is_too_many/)**
+by u/Ok-Rip-9603
 
 ---
 
@@ -61,14 +61,14 @@ by u/DitchDoc4
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w3d4dd/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Made my first official QSO today using FT8 on a Radioditty hf-010, ico...](https://www.reddit.com/r/amateurradio/comments/1w4xsl8/made_my_first_official_qso_today_using_ft8_on_a/)** (r/amateurradio)
-- **[My first 2m Yagi! Elements slightly off to the sides... Will it affect...](https://www.reddit.com/r/amateurradio/comments/1w4yz2o/my_first_2m_yagi_elements_slightly_off_to_the/)** (r/amateurradio)
-- **[Hearing someone in my headset](https://www.reddit.com/r/amateurradio/comments/1w54mgm/hearing_someone_in_my_headset/)** (r/amateurradio)
-- **[WRTC 2026 - disqualifications & rescoring](https://www.reddit.com/r/amateurradio/comments/1w4p1t4/wrtc_2026_disqualifications_rescoring/)** (r/amateurradio)
-- **[Question!](https://www.reddit.com/r/amateurradio/comments/1w5cm5e/question/)** (r/amateurradio)
-- **[Amateur radio Commodore 64 programs recovered: Digicom Hostmaster 64 a...](https://www.reddit.com/r/amateurradio/comments/1w4zd6q/amateur_radio_commodore_64_programs_recovered/)** (r/amateurradio)
-- **[What is this on 14.110?](https://www.reddit.com/r/amateurradio/comments/1w56jgo/what_is_this_on_14110/)** (r/amateurradio)
-- **[Temporary antenna setup](https://www.reddit.com/r/amateurradio/comments/1w4h397/temporary_antenna_setup/)** (r/amateurradio)
+- **[Wife spotted this](https://www.reddit.com/r/amateurradio/comments/1w66yfh/wife_spotted_this/)** (r/amateurradio)
+- **[I passed!](https://www.reddit.com/r/amateurradio/comments/1w5pjwk/i_passed/)** (r/amateurradio)
+- **[Custom G106 Battery - 18650 Cells](https://www.reddit.com/r/amateurradio/comments/1w62g5b/custom_g106_battery_18650_cells/)** (r/amateurradio)
+- **[I have passed the technical exam](https://www.reddit.com/r/amateurradio/comments/1w5teoi/i_have_passed_the_technical_exam/)** (r/amateurradio)
+- **[Apartment HF setup](https://www.reddit.com/r/amateurradio/comments/1w671zv/apartment_hf_setup/)** (r/amateurradio)
+- **[What is this "signal" at 000.000 khz?](https://www.reddit.com/r/amateurradio/comments/1w67xdc/what_is_this_signal_at_000000_khz/)** (r/amateurradio)
+- **[Looks like a busy night in Franz Josef Land](https://www.reddit.com/r/amateurradio/comments/1w5qgil/looks_like_a_busy_night_in_franz_josef_land/)** (r/amateurradio)
+- **[Yaesu FT-710 AESS](https://www.reddit.com/r/amateurradio/comments/1w5ueel/yaesu_ft710_aess/)** (r/amateurradio)
 
 ---
 

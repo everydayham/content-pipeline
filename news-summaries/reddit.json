@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T13:44:52.537933",
+  "updated": "2026-09-06T14:01:28.462592",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,49 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Management of radials on the JPC-12 and similar antennas\u2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7xg11/management_of_radials_on_the_jpc12_and_similar/",
-        "author": "/u/Papalima01"
+        "title": "HF mobile install",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8aay6/hf_mobile_install/",
+        "author": "/u/SwitchedOnNow"
+      },
+      {
+        "title": "Hop on 14.300 for some more Maritime Mobile meltdowns",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8cqqx/hop_on_14300_for_some_more_maritime_mobile/",
+        "author": "/u/MarinerMouth"
+      },
+      {
+        "title": "Hustler 4btv progress",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8f35w/hustler_4btv_progress/",
+        "author": "/u/xdm21"
+      },
+      {
+        "title": "How to get started on amateur satellites YouTube video",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8veur/how_to_get_started_on_amateur_satellites_youtube/",
+        "author": "/u/AmateurRadioHF"
+      },
+      {
+        "title": "FT-891 UI Alternative: Raspberry Pi + 891app",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8e613/ft891_ui_alternative_raspberry_pi_891app/",
+        "author": "/u/hamsterdave"
+      },
+      {
+        "title": "Pebble HF, small QRP radio = pretty big fun.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8amwd/pebble_hf_small_qrp_radio_pretty_big_fun/",
+        "author": "/u/electragician"
+      },
+      {
+        "title": "Saved these from going to the dumpster",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w83ix0/saved_these_from_going_to_the_dumpster/",
+        "author": "/u/KD9OUTside"
+      },
+      {
+        "title": "Yaesu FT-950",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8ngvx/yaesu_ft950/",
+        "author": "/u/Old_Poem2736"
+      },
+      {
+        "title": "How do I convince more people to use radio; starting off with PMR frequencies",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8fnna/how_do_i_convince_more_people_to_use_radio/",
+        "author": "/u/SignatureWorking5043"
       },
       {
         "title": "Why is hf so hard",
@@ -27,9 +67,54 @@
         "author": "/u/Valuable_Pause_143"
       },
       {
+        "title": "400AH power supply.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w82v41/400ah_power_supply/",
+        "author": "/u/effay42"
+      },
+      {
+        "title": "Getting into HF",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w88jbv/getting_into_hf/",
+        "author": "/u/an-average-bookworm"
+      },
+      {
+        "title": "Chips/Boards for NOAA weather band and air band",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8l778/chipsboards_for_noaa_weather_band_and_air_band/",
+        "author": "/u/No-Jackfruit-1277"
+      },
+      {
+        "title": "Management of radials on the JPC-12 and similar antennas\u2026",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w7xg11/management_of_radials_on_the_jpc12_and_similar/",
+        "author": "/u/Papalima01"
+      },
+      {
         "title": "First QSO",
         "link": "https://www.reddit.com/r/amateurradio/comments/1w7qzhf/first_qso/",
         "author": "/u/bignanoman"
+      },
+      {
+        "title": "Non tech savvy and need help with gear.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8csih/non_tech_savvy_and_need_help_with_gear/",
+        "author": "/u/fireturn"
+      },
+      {
+        "title": "Rfinder - Still around?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w88z4v/rfinder_still_around/",
+        "author": "/u/cyberjew420"
+      },
+      {
+        "title": "1420 MHz Galactic Drift Results: Sound-Card vs Direct-SDR Comparison\u2014Same Feature and Timing, Higher Fidelity with Direct SDR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w83vvc/1420_mhz_galactic_drift_results_soundcard_vs/",
+        "author": "/u/DeepSpace1420MHZ"
+      },
+      {
+        "title": "New radio Boafeng.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8li6j/new_radio_boafeng/",
+        "author": "/u/nibblerbytes"
+      },
+      {
+        "title": "Anytone AT-D578UV III vs. Alinco DR-MD520T",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1w8glql/anytone_atd578uv_iii_vs_alinco_drmd520t/",
+        "author": "/u/luigi517"
       },
       {
         "title": "New to the hobby! Rate my setup",
@@ -45,91 +130,6 @@
         "title": "Not my best but certainly not my worst.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1w7orlc/not_my_best_but_certainly_not_my_worst/",
         "author": "/u/sweetnessfnerk"
-      },
-      {
-        "title": "icom 706mkIIg current draw vs. powersettings in real world use\u2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7rcbs/icom_706mkiig_current_draw_vs_powersettings_in/",
-        "author": "/u/ki4clz"
-      },
-      {
-        "title": "Retevis HS5 - 100w HF, UHF, VHF all-mode rig",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7845i/retevis_hs5_100w_hf_uhf_vhf_allmode_rig/",
-        "author": "/u/fastbiter"
-      },
-      {
-        "title": "Problemen Icom IC7300MK2",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7y3q0/problemen_icom_ic7300mk2/",
-        "author": "/u/ON4NYO"
-      },
-      {
-        "title": "FT 710 Remote Control",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7i9ds/ft_710_remote_control/",
-        "author": "/u/burglar_ot"
-      },
-      {
-        "title": "Ham RV\u2019ers?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7iwha/ham_rvers/",
-        "author": "/u/Frjeff"
-      },
-      {
-        "title": "Practical setup/antenna for receiving natural VLF signals (whistlers, sferics, chorus)?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7aods/practical_setupantenna_for_receiving_natural_vlf/",
-        "author": "/u/Thantri"
-      },
-      {
-        "title": "Studying for upgrade to generals license but question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7lvuz/studying_for_upgrade_to_generals_license_but/",
-        "author": "/u/TheMorganDev"
-      },
-      {
-        "title": "Yaesu FRG-8800 And Omni Rig",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7rrs0/yaesu_frg8800_and_omni_rig/",
-        "author": "/u/Loud_Blacksmith4178"
-      },
-      {
-        "title": "Two quick Radiogram questions",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7l0jt/two_quick_radiogram_questions/",
-        "author": "/u/rmesic"
-      },
-      {
-        "title": "SI5351 WSPR receiver/transmitter setup ?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7p4s2/si5351_wspr_receivertransmitter_setup/",
-        "author": "/u/catdude142"
-      },
-      {
-        "title": "Ham radio portable set up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w6kuja/ham_radio_portable_set_up/",
-        "author": "/u/Old-Jacket-7673"
-      },
-      {
-        "title": "Could any of y'all identify this?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w6ijdl/could_any_of_yall_identify_this/",
-        "author": "/u/LightNing334"
-      },
-      {
-        "title": "Amateur Extra - is it a must?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w6qp59/amateur_extra_is_it_a_must/",
-        "author": "/u/EsoPrivate"
-      },
-      {
-        "title": "Results for WRTC-2026 were rescored and substantial changes have been made to order and award winners",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w6yceg/results_for_wrtc2026_were_rescored_and/",
-        "author": "/u/MihaKomar"
-      },
-      {
-        "title": "ESP32 CYD Ham Clock Dashboard now supports the 4 inch display as well as the original 2.8\"",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w761k6/esp32_cyd_ham_clock_dashboard_now_supports_the_4/",
-        "author": "/u/enormousaardvark"
-      },
-      {
-        "title": "First CB, first receive at 1am!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w7wsjr/first_cb_first_receive_at_1am/",
-        "author": "/u/LightBlazeMC"
-      },
-      {
-        "title": "Ham Math",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1w6n8eg/ham_math/",
-        "author": "/u/JanglyBangles"
       }
     ]
   }

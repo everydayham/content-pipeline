@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-05 13:44 UTC*
+*Last updated: 2026-09-06 14:01 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Management of radials on the JPC-12 and similar antennas…](https://www.reddit.com/r/amateurradio/comments/1w7xg11/management_of_radials_on_the_jpc12_and_similar/)**
-by u/Papalima01
+**3. [HF mobile install](https://www.reddit.com/r/amateurradio/comments/1w8aay6/hf_mobile_install/)**
+by u/SwitchedOnNow
 
-**4. [Why is hf so hard](https://www.reddit.com/r/amateurradio/comments/1w804b5/why_is_hf_so_hard/)**
-by u/Valuable_Pause_143
-
-**5. [First QSO](https://www.reddit.com/r/amateurradio/comments/1w7qzhf/first_qso/)**
-by u/bignanoman
-
-**6. [New to the hobby! Rate my setup](https://www.reddit.com/r/amateurradio/comments/1w7a6o4/new_to_the_hobby_rate_my_setup/)**
-by u/mcgrammar86
-
-**7. [Passed Extra. In praise of Fast Track Ham Radio and WM7X](https://www.reddit.com/r/amateurradio/comments/1w7hz2d/passed_extra_in_praise_of_fast_track_ham_radio/)**
+**4. [Hop on 14.300 for some more Maritime Mobile meltdowns](https://www.reddit.com/r/amateurradio/comments/1w8cqqx/hop_on_14300_for_some_more_maritime_mobile/)**
 by u/MarinerMouth
 
-**8. [Not my best but certainly not my worst.](https://www.reddit.com/r/amateurradio/comments/1w7orlc/not_my_best_but_certainly_not_my_worst/)**
-by u/sweetnessfnerk
+**5. [Hustler 4btv progress](https://www.reddit.com/r/amateurradio/comments/1w8f35w/hustler_4btv_progress/)**
+by u/xdm21
 
-**9. [icom 706mkIIg current draw vs. powersettings in real world use…](https://www.reddit.com/r/amateurradio/comments/1w7rcbs/icom_706mkiig_current_draw_vs_powersettings_in/)**
-by u/ki4clz
+**6. [How to get started on amateur satellites YouTube video](https://www.reddit.com/r/amateurradio/comments/1w8veur/how_to_get_started_on_amateur_satellites_youtube/)**
+by u/AmateurRadioHF
 
-**10. [Retevis HS5 - 100w HF, UHF, VHF all-mode rig](https://www.reddit.com/r/amateurradio/comments/1w7845i/retevis_hs5_100w_hf_uhf_vhf_allmode_rig/)**
-by u/fastbiter
+**7. [FT-891 UI Alternative: Raspberry Pi + 891app](https://www.reddit.com/r/amateurradio/comments/1w8e613/ft891_ui_alternative_raspberry_pi_891app/)**
+by u/hamsterdave
 
-**11. [Problemen Icom IC7300MK2](https://www.reddit.com/r/amateurradio/comments/1w7y3q0/problemen_icom_ic7300mk2/)**
-by u/ON4NYO
+**8. [Pebble HF, small QRP radio = pretty big fun.](https://www.reddit.com/r/amateurradio/comments/1w8amwd/pebble_hf_small_qrp_radio_pretty_big_fun/)**
+by u/electragician
 
-**12. [FT 710 Remote Control](https://www.reddit.com/r/amateurradio/comments/1w7i9ds/ft_710_remote_control/)**
-by u/burglar_ot
+**9. [Saved these from going to the dumpster](https://www.reddit.com/r/amateurradio/comments/1w83ix0/saved_these_from_going_to_the_dumpster/)**
+by u/KD9OUTside
 
-**13. [Ham RV’ers?](https://www.reddit.com/r/amateurradio/comments/1w7iwha/ham_rvers/)**
-by u/Frjeff
+**10. [Yaesu FT-950](https://www.reddit.com/r/amateurradio/comments/1w8ngvx/yaesu_ft950/)**
+by u/Old_Poem2736
 
-**14. [Practical setup/antenna for receiving natural VLF signals (whistlers, sferics, c...](https://www.reddit.com/r/amateurradio/comments/1w7aods/practical_setupantenna_for_receiving_natural_vlf/)**
-by u/Thantri
+**11. [How do I convince more people to use radio; starting off with PMR frequencies](https://www.reddit.com/r/amateurradio/comments/1w8fnna/how_do_i_convince_more_people_to_use_radio/)**
+by u/SignatureWorking5043
 
-**15. [Studying for upgrade to generals license but question](https://www.reddit.com/r/amateurradio/comments/1w7lvuz/studying_for_upgrade_to_generals_license_but/)**
-by u/TheMorganDev
+**12. [Why is hf so hard](https://www.reddit.com/r/amateurradio/comments/1w804b5/why_is_hf_so_hard/)**
+by u/Valuable_Pause_143
+
+**13. [400AH power supply.](https://www.reddit.com/r/amateurradio/comments/1w82v41/400ah_power_supply/)**
+by u/effay42
+
+**14. [Getting into HF](https://www.reddit.com/r/amateurradio/comments/1w88jbv/getting_into_hf/)**
+by u/an-average-bookworm
+
+**15. [Chips/Boards for NOAA weather band and air band](https://www.reddit.com/r/amateurradio/comments/1w8l778/chipsboards_for_noaa_weather_band_and_air_band/)**
+by u/No-Jackfruit-1277
 
 ---
 
@@ -61,14 +61,14 @@ by u/TheMorganDev
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w3d4dd/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Management of radials on the JPC-12 and similar antennas…](https://www.reddit.com/r/amateurradio/comments/1w7xg11/management_of_radials_on_the_jpc12_and_similar/)** (r/amateurradio)
-- **[Why is hf so hard](https://www.reddit.com/r/amateurradio/comments/1w804b5/why_is_hf_so_hard/)** (r/amateurradio)
-- **[First QSO](https://www.reddit.com/r/amateurradio/comments/1w7qzhf/first_qso/)** (r/amateurradio)
-- **[New to the hobby! Rate my setup](https://www.reddit.com/r/amateurradio/comments/1w7a6o4/new_to_the_hobby_rate_my_setup/)** (r/amateurradio)
-- **[Passed Extra. In praise of Fast Track Ham Radio and WM7X](https://www.reddit.com/r/amateurradio/comments/1w7hz2d/passed_extra_in_praise_of_fast_track_ham_radio/)** (r/amateurradio)
-- **[Not my best but certainly not my worst.](https://www.reddit.com/r/amateurradio/comments/1w7orlc/not_my_best_but_certainly_not_my_worst/)** (r/amateurradio)
-- **[icom 706mkIIg current draw vs. powersettings in real world use…](https://www.reddit.com/r/amateurradio/comments/1w7rcbs/icom_706mkiig_current_draw_vs_powersettings_in/)** (r/amateurradio)
-- **[Retevis HS5 - 100w HF, UHF, VHF all-mode rig](https://www.reddit.com/r/amateurradio/comments/1w7845i/retevis_hs5_100w_hf_uhf_vhf_allmode_rig/)** (r/amateurradio)
+- **[HF mobile install](https://www.reddit.com/r/amateurradio/comments/1w8aay6/hf_mobile_install/)** (r/amateurradio)
+- **[Hop on 14.300 for some more Maritime Mobile meltdowns](https://www.reddit.com/r/amateurradio/comments/1w8cqqx/hop_on_14300_for_some_more_maritime_mobile/)** (r/amateurradio)
+- **[Hustler 4btv progress](https://www.reddit.com/r/amateurradio/comments/1w8f35w/hustler_4btv_progress/)** (r/amateurradio)
+- **[How to get started on amateur satellites YouTube video](https://www.reddit.com/r/amateurradio/comments/1w8veur/how_to_get_started_on_amateur_satellites_youtube/)** (r/amateurradio)
+- **[FT-891 UI Alternative: Raspberry Pi + 891app](https://www.reddit.com/r/amateurradio/comments/1w8e613/ft891_ui_alternative_raspberry_pi_891app/)** (r/amateurradio)
+- **[Pebble HF, small QRP radio = pretty big fun.](https://www.reddit.com/r/amateurradio/comments/1w8amwd/pebble_hf_small_qrp_radio_pretty_big_fun/)** (r/amateurradio)
+- **[Saved these from going to the dumpster](https://www.reddit.com/r/amateurradio/comments/1w83ix0/saved_these_from_going_to_the_dumpster/)** (r/amateurradio)
+- **[Yaesu FT-950](https://www.reddit.com/r/amateurradio/comments/1w8ngvx/yaesu_ft950/)** (r/amateurradio)
 
 ---
 

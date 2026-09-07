@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-31T18:30:59.924122",
+  "updated": "2026-09-07T16:57:27.234396",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "DMhY4yoHdQVIFOZg0QVnDVZFHwU",
+    "etag": "pJwDJMbQpBX_M41v25i_7TvzduY",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,195 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "261161",
-      "subscriberCount": "2310",
+      "viewCount": "266099",
+      "subscriberCount": "2320",
       "hiddenSubscriberCount": false,
-      "videoCount": "162"
+      "videoCount": "165"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "N5P1Gyg1nd0PDa4H6ijwd-IvUmE",
+      "etag": "1tfBWWOLaNRmXv66RXEREPM90gQ",
+      "id": "nDdjONljAqQ",
+      "snippet": {
+        "publishedAt": "2026-09-05T09:04:34Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
+        "description": "Jay N8QYQ shares how he got roof access to Detroit's historic Masonic Temple to install an APRS digipeater and Winlink gateway. Now, it covers 93 miles with 30 watts. Hear about the challenges of running cable through a 100-year-old building. #HamRadio #AmateurRadio #EverydayHam #APRS #Winlink #Detroit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nDdjONljAqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nDdjONljAqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nDdjONljAqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nDdjONljAqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nDdjONljAqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
+          "description": "Jay N8QYQ shares how he got roof access to Detroit's historic Masonic Temple to install an APRS digipeater and Winlink gateway. Now, it covers 93 miles with 30 watts. Hear about the challenges of running cable through a 100-year-old building. #HamRadio #AmateurRadio #EverydayHam #APRS #Winlink #Detroit"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "70",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ocz7HAjSkjtxfpWFr8QF_j5UjCY",
+      "id": "KRdY1-WOgkY",
+      "snippet": {
+        "publishedAt": "2026-09-04T01:53:50Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
+        "description": "Jay N8QYQ talks about getting roof access to the historic Detroit Masonic Temple to install an APRS digipeater and Winlink gateway. Now covering 93 miles, it's a huge upgrade from a simple Baofeng setup. Learn how he achieved this feat. #HamRadio #AmateurRadio #EverydayHam #APRS #Winlink #Detroit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KRdY1-WOgkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KRdY1-WOgkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KRdY1-WOgkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KRdY1-WOgkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KRdY1-WOgkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
+          "description": "Jay N8QYQ talks about getting roof access to the historic Detroit Masonic Temple to install an APRS digipeater and Winlink gateway. Now covering 93 miles, it's a huge upgrade from a simple Baofeng setup. Learn how he achieved this feat. #HamRadio #AmateurRadio #EverydayHam #APRS #Winlink #Detroit"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "244",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ermCN03-trxJpo_sYfUEA2t7e1U",
+      "id": "FakqdX9c1ac",
+      "snippet": {
+        "publishedAt": "2026-09-03T12:00:37Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
+        "description": "Jay N8QYQ built an APRS digipeater and a Winlink gateway 210 feet up on the Detroit Masonic Temple, and it now covers 93 miles. Here's how he pulled it off.\nDetroit Never Goes Silent (send yourself an email over radio): https://jayaho.us/\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down with Jay Aho (N8QYQ), a Detroit ham who came back to the hobby after 20 years and, a year later, closed the APRS coverage hole over downtown Detroit and the I-96 corridor. Jay explains how a childhood friend who manages the Masonic got him in front of the building's trustees, why he intentionally chose a low-gain Diamond X30 at 30 watts and a WIDE1-1 fill-in configuration, and what it took to build a site that runs unattended in an unconditioned radio room: a Raspberry Pi 4 on Dire Wolf for APRS, a hardened Windows mini PC for VARA FM Winlink, a Yaesu FTM-3100 on each node, watchdog scripts, auto-boot after power loss, Google Remote Desktop, LiFePO4 backup and building ground. He also introduces Detroit Never Goes Silent, a lobby exhibit that sends visitors an email over Winlink, and the push to fund an ARPSC station at Detroit's Emergency Operations Center. Up front: Jason KN4AL's 1000th POTA activation, Activate All RI 2026, the new POTA website beta, shack dashboards built with Claude Code, and everything we've learned about the Icom IC-7110 since Tokyo Ham Fair.\n\nChapters:\n00:00 Welcome and shack check-in\n00:56 Rory: waiting on the Icom ID-5200A, merch thank-yous\n--Everyday Ham merch: https://www.everydayham.com/merch\n03:52 James: back to POTA at Holly Recreation Area\n05:05 Jason KN4AL's 1000th POTA activation\n06:21 Activate All RI 2026, September 11-13\n08:11 The new POTA website beta (next.pota.app)\n10:54 Jim's FTM-500 APRS GPS video and the Radioddity HF-010 review\n14:08 Building shack dashboards with Claude Code\n20:52 Icom IC-7110: what we know so far\n23:10 IC-7110 pricing, release timing and the full duplex question\n27:06 Meet Jay Aho N8QYQ\n28:36 Licensed as a teenager, back on the air after 20 years\n33:42 Wayne County ARPSC and a station at Detroit's EOC\n37:29 Detroit radio history and the Masonic Temple\n42:44 What APRS is and why Detroit needed a digipeater\n44:55 Two weeks to get an FTM-500 to beacon\n46:15 Closing the I-96 coverage donut hole\n47:36 How Jay got the roof\n50:25 93 miles from a Diamond X30 and a WIDE1-1 fill-in design\n53:44 The hardware: Raspberry Pi 4, Dire Wolf and VARA FM Winlink\n55:56 Running network cable through 100 years of dust\n58:28 Watchdogs, auto-boot, 30 watts and remote access\n01:02:48 Power, battery backup, enclosure and grounding\n01:06:14 Detroit Never Goes Silent: the Winlink exhibit\n--Detroit Never Goes Silent: https://jayaho.us/\n01:09:32 Funding a Detroit EOC station\n01:12:16 Jay's club presentation tour and 73s\n\nPhotos from Jay's rooftop install are on the show notes page: https://www.everydayham.com/\n\nLinks from this episode:\nDetroit Never Goes Silent: https://jayaho.us/\nN8QYQ-1 digipeater on aprs.fi: https://aprs.fi/info/a/N8QYQ-1\nJay N8QYQ on QRZ: https://www.qrz.com/db/N8QYQ\nDetroit Masonic Temple: https://www.themasonic.com/\naprs.fi: https://aprs.fi/\nDire Wolf software TNC: https://github.com/wb2osz/direwolf\nWinlink: https://winlink.org/\nPOTA website beta: https://next.pota.app/\nActivate All RI 2026: https://ripota.org/activate-ri-2026/\nRadioddity HF-010 (our review is coming): https://www.radioddity.com/products/radioddity-hf-010\nWayne County ARPSC: https://sites.google.com/view/wayne-county-arpsc/home\nDetroit CERT: https://detroitmi.gov/departments/emergency-management-homeland-security/community-emergency-response-team-cert\n\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #APRS #Winlink #amateurradio #Detroit #masonictemple #igate #digipeater #diy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FakqdX9c1ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FakqdX9c1ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FakqdX9c1ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FakqdX9c1ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FakqdX9c1ac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "APRS",
+          "APRS digipeater",
+          "Winlink",
+          "VARA FM",
+          "Dire Wolf",
+          "Detroit Masonic Temple",
+          "Detroit ham radio",
+          "ham radio",
+          "amateur radio",
+          "emergency communications",
+          "ARPSC",
+          "Icom IC-7110",
+          "IC-7110",
+          "Raspberry Pi ham radio",
+          "Diamond X30",
+          "Yaesu FTM-3100",
+          "POTA",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
+          "description": "Jay N8QYQ built an APRS digipeater and a Winlink gateway 210 feet up on the Detroit Masonic Temple, and it now covers 93 miles. Here's how he pulled it off.\nDetroit Never Goes Silent (send yourself an email over radio): https://jayaho.us/\n\nJames (K8JKU), Jim (N8JRD) and Rory (W8KNX) sit down with Jay Aho (N8QYQ), a Detroit ham who came back to the hobby after 20 years and, a year later, closed the APRS coverage hole over downtown Detroit and the I-96 corridor. Jay explains how a childhood friend who manages the Masonic got him in front of the building's trustees, why he intentionally chose a low-gain Diamond X30 at 30 watts and a WIDE1-1 fill-in configuration, and what it took to build a site that runs unattended in an unconditioned radio room: a Raspberry Pi 4 on Dire Wolf for APRS, a hardened Windows mini PC for VARA FM Winlink, a Yaesu FTM-3100 on each node, watchdog scripts, auto-boot after power loss, Google Remote Desktop, LiFePO4 backup and building ground. He also introduces Detroit Never Goes Silent, a lobby exhibit that sends visitors an email over Winlink, and the push to fund an ARPSC station at Detroit's Emergency Operations Center. Up front: Jason KN4AL's 1000th POTA activation, Activate All RI 2026, the new POTA website beta, shack dashboards built with Claude Code, and everything we've learned about the Icom IC-7110 since Tokyo Ham Fair.\n\nChapters:\n00:00 Welcome and shack check-in\n00:56 Rory: waiting on the Icom ID-5200A, merch thank-yous\n--Everyday Ham merch: https://www.everydayham.com/merch\n03:52 James: back to POTA at Holly Recreation Area\n05:05 Jason KN4AL's 1000th POTA activation\n06:21 Activate All RI 2026, September 11-13\n08:11 The new POTA website beta (next.pota.app)\n10:54 Jim's FTM-500 APRS GPS video and the Radioddity HF-010 review\n14:08 Building shack dashboards with Claude Code\n20:52 Icom IC-7110: what we know so far\n23:10 IC-7110 pricing, release timing and the full duplex question\n27:06 Meet Jay Aho N8QYQ\n28:36 Licensed as a teenager, back on the air after 20 years\n33:42 Wayne County ARPSC and a station at Detroit's EOC\n37:29 Detroit radio history and the Masonic Temple\n42:44 What APRS is and why Detroit needed a digipeater\n44:55 Two weeks to get an FTM-500 to beacon\n46:15 Closing the I-96 coverage donut hole\n47:36 How Jay got the roof\n50:25 93 miles from a Diamond X30 and a WIDE1-1 fill-in design\n53:44 The hardware: Raspberry Pi 4, Dire Wolf and VARA FM Winlink\n55:56 Running network cable through 100 years of dust\n58:28 Watchdogs, auto-boot, 30 watts and remote access\n01:02:48 Power, battery backup, enclosure and grounding\n01:06:14 Detroit Never Goes Silent: the Winlink exhibit\n--Detroit Never Goes Silent: https://jayaho.us/\n01:09:32 Funding a Detroit EOC station\n01:12:16 Jay's club presentation tour and 73s\n\nPhotos from Jay's rooftop install are on the show notes page: https://www.everydayham.com/\n\nLinks from this episode:\nDetroit Never Goes Silent: https://jayaho.us/\nN8QYQ-1 digipeater on aprs.fi: https://aprs.fi/info/a/N8QYQ-1\nJay N8QYQ on QRZ: https://www.qrz.com/db/N8QYQ\nDetroit Masonic Temple: https://www.themasonic.com/\naprs.fi: https://aprs.fi/\nDire Wolf software TNC: https://github.com/wb2osz/direwolf\nWinlink: https://winlink.org/\nPOTA website beta: https://next.pota.app/\nActivate All RI 2026: https://ripota.org/activate-ri-2026/\nRadioddity HF-010 (our review is coming): https://www.radioddity.com/products/radioddity-hf-010\nWayne County ARPSC: https://sites.google.com/view/wayne-county-arpsc/home\nDetroit CERT: https://detroitmi.gov/departments/emergency-management-homeland-security/community-emergency-response-team-cert\n\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #APRS #Winlink #amateurradio #Detroit #masonictemple #igate #digipeater #diy"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "367",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EV8p9jU4qgINQRovYPdpfCGVIyg",
       "id": "N9i7XudEuyw",
       "snippet": {
         "publishedAt": "2026-08-31T09:01:52Z",
@@ -94,15 +273,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "53",
-        "likeCount": "2",
+        "viewCount": "187",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sQWMOBMSGNgZDkitskqOGniDWcI",
+      "etag": "ZnKkdSniBDHEJYbTT0z1lY_BnAo",
       "id": "wJ9ApHXBlWE",
       "snippet": {
         "publishedAt": "2026-08-30T01:43:12Z",
@@ -159,15 +338,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "258",
-        "likeCount": "7",
+        "viewCount": "383",
+        "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BcmjV1mGhyZ5TPp3DEj8OkkEZ9s",
+      "etag": "OG6cGbrN86qa0XhClN58h8xfuG4",
       "id": "FGMP-r6Kwq0",
       "snippet": {
         "publishedAt": "2026-08-29T15:00:11Z",
@@ -230,15 +409,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3232",
-        "likeCount": "40",
+        "viewCount": "4108",
+        "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GI7085UZrRu4mT5uDuFLm0OL8Xs",
+      "etag": "RYlcLmL_4A6H6QBOJcC1HpdtTa4",
       "id": "6bfpd7tNemg",
       "snippet": {
         "publishedAt": "2026-08-27T11:18:31Z",
@@ -306,15 +485,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "971",
-        "likeCount": "36",
+        "viewCount": "1071",
+        "likeCount": "38",
         "favoriteCount": "0",
-        "commentCount": "6"
+        "commentCount": "8"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BxTODwQuYjLxC3nBAQqncp3ZTOk",
+      "etag": "KzQUctE804SiC16-GXfi69n7jX8",
       "id": "bi5ceZWvSfg",
       "snippet": {
         "publishedAt": "2026-08-18T15:56:48Z",
@@ -367,7 +546,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1259",
+        "viewCount": "1263",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -375,7 +554,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UR9sotSW9brQ8s3tZ-w7hANPIxM",
+      "etag": "4RtVi---9OFg34EwkSKy4DwJupM",
       "id": "nYPSyZzZcDY",
       "snippet": {
         "publishedAt": "2026-08-15T18:28:54Z",
@@ -437,15 +616,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "816",
-        "likeCount": "37",
+        "viewCount": "848",
+        "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lM604uAjkz0Bnb2lEwtWBKOX2_Y",
+      "etag": "IOGrCO90lN2D0bRs0LJ35UcZqVI",
       "id": "LEmN65zuSK0",
       "snippet": {
         "publishedAt": "2026-08-14T12:00:12Z",
@@ -509,15 +688,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "85",
-        "likeCount": "8",
+        "viewCount": "95",
+        "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4GsQrLHkO8REAqIx4GTExbmmEIo",
+      "etag": "dn5vaE6aI3LmepRV-RsdKa78QAA",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -581,15 +760,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "178",
-        "likeCount": "10",
+        "viewCount": "202",
+        "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AzqsMtvtuNY8hFBRVsHDeY1mvZ4",
+      "etag": "8QFF_0hTbXxpj5alcrSSui0sabs",
       "id": "jEMEbgEv1zM",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:16Z",
@@ -633,7 +812,7 @@
         }
       },
       "statistics": {
-        "viewCount": "1356",
+        "viewCount": "1357",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -693,7 +872,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GYl9wlEiUE-mCufKNgBGoiTwbfA",
+      "etag": "AJbuc5ALHSA_fDNrbQzq-W-QTWc",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -757,7 +936,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "229",
+        "viewCount": "252",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -765,7 +944,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NTLWQE8psTSdqHuEwfIjb2m0nP0",
+      "etag": "0TFCkyv1OL5kBaahdUm1ngK4c08",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -809,7 +988,7 @@
         }
       },
       "statistics": {
-        "viewCount": "190",
+        "viewCount": "192",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -817,7 +996,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9a3_XiP3dByDyXu19aTqF1BDd9k",
+      "etag": "9NbMsoB-2krJjA7YEFtg212nM-0",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -885,15 +1064,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1689",
-        "likeCount": "100",
+        "viewCount": "1751",
+        "likeCount": "101",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_rcc_uEDCiSWiZ1vvGuRGzQEQEA",
+      "etag": "zT0XnT7KxuO0gGpBtmONI61K0Ho",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -961,15 +1140,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "345",
-        "likeCount": "30",
+        "viewCount": "347",
+        "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1hmfEXheurDZtsPNM1Fe1hIjOBY",
+      "etag": "57fOmFq-DUgCT5cwZ-jU8qJJufA",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -1037,7 +1216,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5165",
+        "viewCount": "5195",
         "likeCount": "172",
         "favoriteCount": "0",
         "commentCount": "50"
@@ -1045,7 +1224,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AdpUB9jjpEPK29fvXNHBvUwlKKI",
+      "etag": "NpFOsi_8yFulP1GJ9aMz_J3bpIs",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -1107,15 +1286,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "513",
-        "likeCount": "25",
+        "viewCount": "527",
+        "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FFqnvv8E5fiF902gadIbltXt2X8",
+      "etag": "ZNlLCx_uD8I6QTqXsWDbmNQ8EsA",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -1184,15 +1363,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "540",
-        "likeCount": "28",
+        "viewCount": "560",
+        "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-1BXdWiKYI22xUqF3IpbpQE5f4o",
+      "etag": "-lmGemQEm0tDkB4KQdksRKDkbzQ",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -1255,7 +1434,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "130",
+        "viewCount": "131",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1333,7 +1512,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uSvRXktIxgRZcJQ3X4rL80B5SJw",
+      "etag": "pq4e5pLJ98Gn3vgwBAbeo9iyE4I",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -1397,7 +1576,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "283",
+        "viewCount": "287",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1405,7 +1584,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4V02-V59rR5ecxCa8JFt_POx-B4",
+      "etag": "Tw2_1XThqR-CpsD_oNDBiqbexQk",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -1469,7 +1648,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "330",
+        "viewCount": "331",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -1477,7 +1656,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z70mukDVOoPdrrh-cLm_R8VszZ0",
+      "etag": "nSuiiInvxU43ZUHujKKsHTg2Qhg",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -1549,7 +1728,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "942",
+        "viewCount": "946",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1557,7 +1736,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Xx5cuFiO-C6eScWRGc8Wu6XuAcM",
+      "etag": "i7CD8zORx0NhK87Dt1Cgpn7NuXo",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -1626,7 +1805,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "952",
+        "viewCount": "966",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1634,7 +1813,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JCrWiPFhcExZ-uJoqR51amNW2wI",
+      "etag": "D7rVUH_ePJDI0_IcW3NYJqrBxVo",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -1703,7 +1882,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "346",
+        "viewCount": "345",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1787,7 +1966,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VDcZLDYbJLx55ERaPuzr3I7x19A",
+      "etag": "GzCCwQafuwLFfc0-34eLuMlv1IE",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -1856,15 +2035,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1126",
-        "likeCount": "47",
+        "viewCount": "1190",
+        "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "adR9rWn2F5g1oK-h2xHu88C79i4",
+      "etag": "QQm4VoUZ6OFch3rJhjODIRnzDdM",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -1932,15 +2111,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "605",
-        "likeCount": "43",
+        "viewCount": "628",
+        "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "12"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "H-hC2U7-_3t13SSa3GKXW7EsvWI",
+      "etag": "ue_r3-w6gQCCO9AnUghz5J92Ox0",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -2003,7 +2182,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "335",
+        "viewCount": "337",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2011,7 +2190,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MSWTb_qMqE08eQpWmoIbNKyalZ8",
+      "etag": "WRVFGxBuhXk1cznCHaDTiK2f3Fg",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -2080,7 +2259,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "644",
+        "viewCount": "646",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -2088,7 +2267,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AvHIQCuyGYR0x4Z5DjZmJjsAst4",
+      "etag": "afny51u6oq8MJ6NuRNb7O6Jgr7U",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -2157,7 +2336,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3446",
+        "viewCount": "3462",
         "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -2165,7 +2344,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "U_S6yxk0r-WZ8vHMTIkaEzmjXqs",
+      "etag": "q03a9Y8mD83xCG_eKdTk611u-Ck",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -2233,7 +2412,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "540",
+        "viewCount": "559",
         "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2241,7 +2420,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VZiKu8HzVqBuy4ucKvFFsrewOr4",
+      "etag": "z3ksoesF1H8U3Iap1uDtbdir5eo",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -2310,7 +2489,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "9815",
+        "viewCount": "9899",
         "likeCount": "198",
         "favoriteCount": "0",
         "commentCount": "58"
@@ -2318,7 +2497,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-cwnojV65DYnIidtZPtE52aOPdA",
+      "etag": "PlJqgN1Rj4UlQvR2iaxSKjaiiCE",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -2387,7 +2566,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1920",
+        "viewCount": "1946",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -2395,7 +2574,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "433l6KPl6oJgDjpSwYE6RHoigxs",
+      "etag": "qwge9JvI2pfyLGqzgOEIQa8p_dg",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -2464,15 +2643,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "11238",
-        "likeCount": "196",
+        "viewCount": "11453",
+        "likeCount": "197",
         "favoriteCount": "0",
-        "commentCount": "57"
+        "commentCount": "59"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iq5q0rEdHr4Z3UmtM0up2dvio0E",
+      "etag": "Rkbs7KeJhI2a3-ddtTXB3l54HeY",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -2541,15 +2720,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10778",
-        "likeCount": "253",
+        "viewCount": "11116",
+        "likeCount": "255",
         "favoriteCount": "0",
         "commentCount": "56"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zc1frXS-4IRdr2z8C7_JAozlA1U",
+      "etag": "wQJ-9DpXZJ12yMgJ3qwWvFBOkXE",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -2618,7 +2797,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4646",
+        "viewCount": "4700",
         "likeCount": "136",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -2626,7 +2805,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wjmM8a6UEFL2GCWyCoPNbtBBOZg",
+      "etag": "_N40gZWBun6P7VeV_jLl4MAVOyg",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -2687,15 +2866,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "938",
-        "likeCount": "30",
+        "viewCount": "977",
+        "likeCount": "31",
         "favoriteCount": "0",
-        "commentCount": "3"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "B6NLBnaB3YMwfU5qFDI3zGzcrwk",
+      "etag": "-TnXdK5rCoeXzSv4sw5TqR16P4M",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -2763,7 +2942,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1675",
+        "viewCount": "1682",
         "likeCount": "75",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -2771,7 +2950,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RuthF06Vzzx_uppjWQNkp4l9zIw",
+      "etag": "mI50wfsD0x0LQchcsrrgk8fqSv0",
       "id": "6dC0w2rdCms",
       "snippet": {
         "publishedAt": "2026-05-08T00:04:59Z",
@@ -2832,7 +3011,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1566",
+        "viewCount": "1570",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2840,7 +3019,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kA4Yg8kETqTtkuKHrruCYWYUSRM",
+      "etag": "rUbdlkGNmaNVCqzdQYvqRPwWnnQ",
       "id": "b5WcO1lnuck",
       "snippet": {
         "publishedAt": "2026-05-07T14:00:54Z",
@@ -2908,7 +3087,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "920",
+        "viewCount": "923",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -2916,7 +3095,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bjTLjrD1ul9PhxDLd-A2DWghOeQ",
+      "etag": "fLNP2V9RecWRyRsPEHUqkLEzxM4",
       "id": "eLxItOu6t7A",
       "snippet": {
         "publishedAt": "2026-04-14T16:16:41Z",
@@ -2982,7 +3161,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "374",
+        "viewCount": "381",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3116,7 +3295,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LaQSzaHkjJoaSDzKbYUGKRGyBXc",
+      "etag": "NIWyOMoWGvc877iaCUVf1gdv04s",
       "id": "lmdm14Arg6A",
       "snippet": {
         "publishedAt": "2026-04-01T01:39:05Z",
@@ -3179,7 +3358,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "614",
+        "viewCount": "616",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3187,7 +3366,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VZBd4X88aRvpVJ-MPtyPM6C6JYk",
+      "etag": "QCaT3kK-D28LFLYM1XROTKyTQwE",
       "id": "gN1AIV5J-4s",
       "snippet": {
         "publishedAt": "2026-03-31T16:00:29Z",
@@ -3249,15 +3428,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1894",
-        "likeCount": "71",
+        "viewCount": "1998",
+        "likeCount": "75",
         "favoriteCount": "0",
-        "commentCount": "32"
+        "commentCount": "36"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cVi6Pm8857dzzznBPrgM_m36QRU",
+      "etag": "EGQ8_0a4b_kyxijwTM9rpp_mYOA",
       "id": "_rpb3BFjV-A",
       "snippet": {
         "publishedAt": "2026-03-26T13:01:04Z",
@@ -3325,7 +3504,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "540",
+        "viewCount": "550",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -3333,7 +3512,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ksH-ih0l1rr4ii4ciUQfxg218EE",
+      "etag": "zLG6uWgUv10ZvOAoRJi5uP20Ojg",
       "id": "vdaoVJKTXRU",
       "snippet": {
         "publishedAt": "2026-03-22T19:08:58Z",
@@ -3396,223 +3575,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1006",
+        "viewCount": "1026",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5J24uRsTGHekk9MwXRtlJdH7a7E",
-      "id": "4dP7kktHK0k",
-      "snippet": {
-        "publishedAt": "2026-03-12T14:00:07Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "POTA Roving Florida's Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-        "description": "James (K8JKU), Jim (N8JRD), and Rory (W8KNX) weren't ready to head home after Hamcation in Orlando, so we turned the drive to the airport into a five-park POTA rove along Florida's Space Coast. We kicked things off with a look at our portable load out before hitting the road and making contacts at every stop.\n\nIndex of Stuff:\n00:00 - Intro and Jeep Loading\n00:34 - POTA Gear Load for Flying Spirit Air\n03:37 - Jeepin' to the Space Coast\n04:26 - First Looks at the ARTEMIS Moon Rocket\n04:38 - Picking up Maps (Visitor Center is Closed!)\n05:25 - Landing in the First Two Pota Parks\n06:21 - Mobile Deployment of the POTA Gear\n07:45 - W8MCV QSO\n08:43 - Visiting NASA\n09:06 - Jeep Stuff\n10:05 - Arrival at Park 3/4\n13:11 -  Park 5 in the Smoke!\n13:48 - 73!\n\n\ud83d\udcfb Parks Activated:\nUS-6329 Tosohatchee Wildlife Management Area\nUS-6324 Split Oak Forest Wildlife Area\nUS-4559 Florida Trail National Scenic Trail\nUS-0660 Canaveral National Seashore\nUS-0249 Merritt Island National Wildlife Refuge\n\n\ud83c\udf92 POTA Load Out:\nYaesu FT-891\nPackTenna\nABR Industries Coax\nGigaParts Explorer POTA20\n\nWe operated as a multi-op using four callsigns: K8JKU, N8JRD, W8KNX, and the club call W8EDH. Between activations we took in some incredible sights including the Artemis rocket on the launch pad and the Kennedy Space Center.\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#POTA #HamRadio #AmateurRadio #POTARove #Hamcation #SpaceCoast #EverydayHam #Yaesu #FT891 #PackTenna #PortableHF #KennedySpaceCenter #FloridaPOTA #ParksOnTheAir #FieldRadio #artemisiii #artemis #nasa",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4dP7kktHK0k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4dP7kktHK0k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4dP7kktHK0k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4dP7kktHK0k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4dP7kktHK0k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "POTA",
-          "Parks on the Air",
-          "Ham Radio",
-          "Amateur Radio",
-          "POTA Rove",
-          "Hamcation",
-          "Florida POTA",
-          "Space Coast",
-          "Yaesu FT-891",
-          "PackTenna",
-          "ABR Industries",
-          "Explorer POTA20",
-          "Portable Ham Radio",
-          "Field Radio",
-          "Merritt Island",
-          "Canaveral National Seashore",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "POTA Roving Florida's Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-          "description": "James (K8JKU), Jim (N8JRD), and Rory (W8KNX) weren't ready to head home after Hamcation in Orlando, so we turned the drive to the airport into a five-park POTA rove along Florida's Space Coast. We kicked things off with a look at our portable load out before hitting the road and making contacts at every stop.\n\nIndex of Stuff:\n00:00 - Intro and Jeep Loading\n00:34 - POTA Gear Load for Flying Spirit Air\n03:37 - Jeepin' to the Space Coast\n04:26 - First Looks at the ARTEMIS Moon Rocket\n04:38 - Picking up Maps (Visitor Center is Closed!)\n05:25 - Landing in the First Two Pota Parks\n06:21 - Mobile Deployment of the POTA Gear\n07:45 - W8MCV QSO\n08:43 - Visiting NASA\n09:06 - Jeep Stuff\n10:05 - Arrival at Park 3/4\n13:11 -  Park 5 in the Smoke!\n13:48 - 73!\n\n\ud83d\udcfb Parks Activated:\nUS-6329 Tosohatchee Wildlife Management Area\nUS-6324 Split Oak Forest Wildlife Area\nUS-4559 Florida Trail National Scenic Trail\nUS-0660 Canaveral National Seashore\nUS-0249 Merritt Island National Wildlife Refuge\n\n\ud83c\udf92 POTA Load Out:\nYaesu FT-891\nPackTenna\nABR Industries Coax\nGigaParts Explorer POTA20\n\nWe operated as a multi-op using four callsigns: K8JKU, N8JRD, W8KNX, and the club call W8EDH. Between activations we took in some incredible sights including the Artemis rocket on the launch pad and the Kennedy Space Center.\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#POTA #HamRadio #AmateurRadio #POTARove #Hamcation #SpaceCoast #EverydayHam #Yaesu #FT891 #PackTenna #PortableHF #KennedySpaceCenter #FloridaPOTA #ParksOnTheAir #FieldRadio #artemisiii #artemis #nasa"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "189",
-        "likeCount": "20",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bMMNAOd3CpGWMON93EW9GNi1__Q",
-      "id": "6omvDxgOpLc",
-      "snippet": {
-        "publishedAt": "2026-03-05T23:19:29Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-        "description": "\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #kenwood #yaesu #priceincrease #tariffs",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6omvDxgOpLc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "ham radio",
-          "amateur radio",
-          "everyday ham",
-          "ham radio podcast",
-          "k8jku",
-          "n8jrd",
-          "w8knx",
-          "amateur radio beginners",
-          "pota",
-          "parks on the air",
-          "ham radio community",
-          "ham radio tips",
-          "radio operators",
-          "HF",
-          "VHF",
-          "UHF"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-          "description": "\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio #kenwood #yaesu #priceincrease #tariffs"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1255",
-        "likeCount": "16",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "j6YPXnr6SD5qbozujrxbb4ZrqlU",
-      "id": "KJN_OA-oZnQ",
-      "snippet": {
-        "publishedAt": "2026-03-05T18:00:32Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-        "description": "Are radio prices going up? Yes, and we have the numbers. James (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into Yaesu's incoming price increases, the historic 3Y0K Bouvet Island DXpedition, and what's next for HamClock in Episode 15 of the Everyday Ham Podcast.\n\n\ud83d\udcfb Topics in This Episode:\nAround the Shack - Bird 43 wattmeter score at the Livonia swap, new Radtel RT-910B and Quansheng UV-K1 handhelds, Astron power supply in the shack, QSO party CW progress, and FT2 mode first impressions\nBouvet Island / 3Y0K DXpedition - The most expensive DXpedition ever is on the air! We talk pile up chaos, FT8 band conditions, operating strategy, and what makes this one historic\n\nYaesu Price Increases - Big MSRP jumps hit the FTDX10, FT-891, Yaesu Optima, and FTDX101MP. We break down the reasons (tariffs, manufacturing costs, yen/dollar exchange), compare to ICOM pricing, and share our take on whether to buy now or wait\nHamClock Alternatives - Three options keeping HamClock alive: hamclock.com (W4BAE), openhamclock.com, and hamvision.net. Plus a shout-out to the Geochron for those who want a turnkey solution\nARRL Win - Amateur operators exempted from foreign adversary contact reporting requirements\n\n\u23f1 Chapters:\n0:00 - Welcome & Follow Us\n0:50 - Around the Shack Updates\n5:15 - New Gear: Bird 43 Wattmeter & HTs\n6:35 - Contesting and CW Progress\n9:30 - Repeater Maintenance Troubles\n11:05 - Travel Plans & Hotel HF\n12:10 - FT2: Speed, Sync, and Tradeoffs\n19:45 - Bouvet Strategy and Ethics\n23:50 - Following the DXpedition Live\n28:10 - Yaesu Price Increases Explained\n36:55 - What to Buy Now vs Later\n42:40 - HamClock After Elwood\n49:00 - Open Alternatives: Web and Self-Hosted\n54:30 - ARRL Win on Reporting Exemptions\n56:45 - Community, Feedback, and Sign-Off\n\n\ud83d\udd0a Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more. Find all the links at: www.everydayham.com\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio talk from three friends who love the hobby!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @everydayhampodcast\nWebsite: www.everydayham.com\nEmail: cq@everydayham.com\n\n#ham radio  #Amateur Radio #Bouvet Island #3Y0K #DXpedition #Yaesu #HamClock #FT8 #FT2 #DXCC #ARRL #Amateur Radio Podcast #Everyday Ham #Swap Meet",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KJN_OA-oZnQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Ham Radio",
-          "Amateur Radio",
-          "Bouvet Island",
-          "3Y0K",
-          "DXpedition",
-          "Yaesu",
-          "Ham Clock",
-          "FT8",
-          "FT2",
-          "DXCC",
-          "ARRL",
-          "Amateur Radio Podcast",
-          "Everyday Ham",
-          "Swap Meet",
-          "DXing"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-          "description": "Are radio prices going up? Yes, and we have the numbers. James (K8JKU), Jim (N8JRD), and Rory (W8KNX) dig into Yaesu's incoming price increases, the historic 3Y0K Bouvet Island DXpedition, and what's next for HamClock in Episode 15 of the Everyday Ham Podcast.\n\n\ud83d\udcfb Topics in This Episode:\nAround the Shack - Bird 43 wattmeter score at the Livonia swap, new Radtel RT-910B and Quansheng UV-K1 handhelds, Astron power supply in the shack, QSO party CW progress, and FT2 mode first impressions\nBouvet Island / 3Y0K DXpedition - The most expensive DXpedition ever is on the air! We talk pile up chaos, FT8 band conditions, operating strategy, and what makes this one historic\n\nYaesu Price Increases - Big MSRP jumps hit the FTDX10, FT-891, Yaesu Optima, and FTDX101MP. We break down the reasons (tariffs, manufacturing costs, yen/dollar exchange), compare to ICOM pricing, and share our take on whether to buy now or wait\nHamClock Alternatives - Three options keeping HamClock alive: hamclock.com (W4BAE), openhamclock.com, and hamvision.net. Plus a shout-out to the Geochron for those who want a turnkey solution\nARRL Win - Amateur operators exempted from foreign adversary contact reporting requirements\n\n\u23f1 Chapters:\n0:00 - Welcome & Follow Us\n0:50 - Around the Shack Updates\n5:15 - New Gear: Bird 43 Wattmeter & HTs\n6:35 - Contesting and CW Progress\n9:30 - Repeater Maintenance Troubles\n11:05 - Travel Plans & Hotel HF\n12:10 - FT2: Speed, Sync, and Tradeoffs\n19:45 - Bouvet Strategy and Ethics\n23:50 - Following the DXpedition Live\n28:10 - Yaesu Price Increases Explained\n36:55 - What to Buy Now vs Later\n42:40 - HamClock After Elwood\n49:00 - Open Alternatives: Web and Self-Hosted\n54:30 - ARRL Win on Reporting Exemptions\n56:45 - Community, Feedback, and Sign-Off\n\n\ud83d\udd0a Listen to Everyday Ham as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Overcast, and more. Find all the links at: www.everydayham.com\n\n\ud83d\udce2 Subscribe for More Ham Radio Content!\nHit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio talk from three friends who love the hobby!\n\n\ud83c\udf99 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: @everydayhampodcast\nWebsite: www.everydayham.com\nEmail: cq@everydayham.com\n\n#ham radio  #Amateur Radio #Bouvet Island #3Y0K #DXpedition #Yaesu #HamClock #FT8 #FT2 #DXCC #ARRL #Amateur Radio Podcast #Everyday Ham #Swap Meet"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "603",
-        "likeCount": "37",
-        "favoriteCount": "0",
-        "commentCount": "7"
       }
     }
   ]

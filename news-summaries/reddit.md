@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-09 15:02 UTC*
+*Last updated: 2026-09-10 14:54 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Why aren’t more people geeking out over marine VHF radios here?](https://www.reddit.com/r/amateurradio/comments/1wbd9uf/why_arent_more_people_geeking_out_over_marine_vhf/)**
-by u/Leo-marinradio-risen
+**3. [New Paddle Key Build](https://www.reddit.com/r/amateurradio/comments/1wciw5f/new_paddle_key_build/)**
+by u/Cute-Log-2026
 
-**4. [I'm a beginner and I don't know where to start](https://www.reddit.com/r/amateurradio/comments/1wbhw68/im_a_beginner_and_i_dont_know_where_to_start/)**
-by u/Just_a_Lurker2
+**4. [feeling weird about applying for expired license](https://www.reddit.com/r/amateurradio/comments/1wcc23x/feeling_weird_about_applying_for_expired_license/)**
+by u/Pinchelotapus_Rex
 
-**5. [FT8 is so cool!](https://www.reddit.com/r/amateurradio/comments/1wbnxp9/ft8_is_so_cool/)**
+**5. [IC-705 Bento Box - Self-Contained 50W Field Enclosure](https://www.reddit.com/r/amateurradio/comments/1wc4xq0/ic705_bento_box_selfcontained_50w_field_enclosure/)**
+by u/FrenziedHodag
+
+**6. [Is LoTW down today?](https://www.reddit.com/r/amateurradio/comments/1wcd2k0/is_lotw_down_today/)**
+by u/WZab
+
+**7. [FT8 is so cool!](https://www.reddit.com/r/amateurradio/comments/1wbnxp9/ft8_is_so_cool/)**
 by u/HeadbangerSmurf
 
-**6. [I couldn't take the vendor CPS anymore - Abbree AR-7600 CHIRP Driver](https://www.reddit.com/r/amateurradio/comments/1wbklcb/i_couldnt_take_the_vendor_cps_anymore_abbree/)**
-by u/gkrash
+**8. [Do you take a computer when operating portable? What do you use it for?](https://www.reddit.com/r/amateurradio/comments/1wchgpv/do_you_take_a_computer_when_operating_portable/)**
+by u/Tang1084
 
-**7. [10m DX](https://www.reddit.com/r/amateurradio/comments/1wavmwj/10m_dx/)**
-by u/BackcountryDefault
+**9. [I need more ham friends who are also into tabletop RPGs](https://www.reddit.com/r/amateurradio/comments/1wbugf7/i_need_more_ham_friends_who_are_also_into/)**
+by u/DetentionLevel
 
-**8. [Rewired my Icom 7100 for my mobile](https://www.reddit.com/r/amateurradio/comments/1wb1ffq/rewired_my_icom_7100_for_my_mobile/)**
-by u/slightlyused
+**10. [simple international radio](https://www.reddit.com/r/amateurradio/comments/1wcko19/simple_international_radio/)**
+by u/yeahOk265
 
-**9. [Outdoor station grounding](https://www.reddit.com/r/amateurradio/comments/1wbmb4v/outdoor_station_grounding/)**
-by u/SecretAgentManwich
+**11. [Why aren’t more people geeking out over marine VHF radios here?](https://www.reddit.com/r/amateurradio/comments/1wbd9uf/why_arent_more_people_geeking_out_over_marine_vhf/)**
+by u/Leo-marinradio-risen
 
-**10. [Breadboard radio](https://www.reddit.com/r/amateurradio/comments/1wb3z1d/breadboard_radio/)**
-by u/prussianIvory
+**12. [Hi everyone does anyone have any information on this or how to set it up i think...](https://www.reddit.com/r/amateurradio/comments/1wcg41s/hi_everyone_does_anyone_have_any_information_on/)**
+by u/Mrnerd12e
 
-**11. [UKO UV-2Y V3.0 - Hanger Wire Dual-Band Yagi - Improvement Report](https://www.reddit.com/r/amateurradio/comments/1wbjyaf/uko_uv2y_v30_hanger_wire_dualband_yagi/)**
-by u/HL1UKO
+**13. [Yaesu 3165 rasp](https://www.reddit.com/r/amateurradio/comments/1wbvukt/yaesu_3165_rasp/)**
+by u/ReidithMcallen
 
-**12. [Question about radio station](https://www.reddit.com/r/amateurradio/comments/1wbo1lb/question_about_radio_station/)**
-by u/randomusername5709
+**14. [K6 or W6 for California, can’t decide. Opinions?](https://www.reddit.com/r/amateurradio/comments/1wbuchg/k6_or_w6_for_california_cant_decide_opinions/)**
+by u/Pinchelotapus_Rex
 
-**13. [Is something going on in Cuba tonight?](https://www.reddit.com/r/amateurradio/comments/1wb7xqt/is_something_going_on_in_cuba_tonight/)**
-by u/KB5JRC
-
-**14. [GD-168 scanning. Why can't I reply to a tansmisssion during a scan?](https://www.reddit.com/r/amateurradio/comments/1wbn3kr/gd168_scanning_why_cant_i_reply_to_a_tansmisssion/)**
-by u/Bigfootbuilt
-
-**15. [I got my Class 1 Amateur Radio Operator license today! 🎉📻](https://www.reddit.com/r/amateurradio/comments/1wamyy9/i_got_my_class_1_amateur_radio_operator_license/)**
-by u/Cute-Log-2026
+**15. [I'm a beginner and I don't know where to start](https://www.reddit.com/r/amateurradio/comments/1wbhw68/im_a_beginner_and_i_dont_know_where_to_start/)**
+by u/Just_a_Lurker2
 
 ---
 
@@ -61,14 +61,14 @@ by u/Cute-Log-2026
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w9riof/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Why aren’t more people geeking out over marine VHF radios here?](https://www.reddit.com/r/amateurradio/comments/1wbd9uf/why_arent_more_people_geeking_out_over_marine_vhf/)** (r/amateurradio)
-- **[I'm a beginner and I don't know where to start](https://www.reddit.com/r/amateurradio/comments/1wbhw68/im_a_beginner_and_i_dont_know_where_to_start/)** (r/amateurradio)
+- **[New Paddle Key Build](https://www.reddit.com/r/amateurradio/comments/1wciw5f/new_paddle_key_build/)** (r/amateurradio)
+- **[feeling weird about applying for expired license](https://www.reddit.com/r/amateurradio/comments/1wcc23x/feeling_weird_about_applying_for_expired_license/)** (r/amateurradio)
+- **[IC-705 Bento Box - Self-Contained 50W Field Enclosure](https://www.reddit.com/r/amateurradio/comments/1wc4xq0/ic705_bento_box_selfcontained_50w_field_enclosure/)** (r/amateurradio)
+- **[Is LoTW down today?](https://www.reddit.com/r/amateurradio/comments/1wcd2k0/is_lotw_down_today/)** (r/amateurradio)
 - **[FT8 is so cool!](https://www.reddit.com/r/amateurradio/comments/1wbnxp9/ft8_is_so_cool/)** (r/amateurradio)
-- **[I couldn't take the vendor CPS anymore - Abbree AR-7600 CHIRP Driver](https://www.reddit.com/r/amateurradio/comments/1wbklcb/i_couldnt_take_the_vendor_cps_anymore_abbree/)** (r/amateurradio)
-- **[10m DX](https://www.reddit.com/r/amateurradio/comments/1wavmwj/10m_dx/)** (r/amateurradio)
-- **[Rewired my Icom 7100 for my mobile](https://www.reddit.com/r/amateurradio/comments/1wb1ffq/rewired_my_icom_7100_for_my_mobile/)** (r/amateurradio)
-- **[Outdoor station grounding](https://www.reddit.com/r/amateurradio/comments/1wbmb4v/outdoor_station_grounding/)** (r/amateurradio)
-- **[Breadboard radio](https://www.reddit.com/r/amateurradio/comments/1wb3z1d/breadboard_radio/)** (r/amateurradio)
+- **[Do you take a computer when operating portable? What do you use it for...](https://www.reddit.com/r/amateurradio/comments/1wchgpv/do_you_take_a_computer_when_operating_portable/)** (r/amateurradio)
+- **[I need more ham friends who are also into tabletop RPGs](https://www.reddit.com/r/amateurradio/comments/1wbugf7/i_need_more_ham_friends_who_are_also_into/)** (r/amateurradio)
+- **[simple international radio](https://www.reddit.com/r/amateurradio/comments/1wcko19/simple_international_radio/)** (r/amateurradio)
 
 ---
 

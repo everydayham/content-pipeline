@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-12 13:55 UTC*
+*Last updated: 2026-09-13 14:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Which ham radio manufacturers should a firmware tracker monitor? Looking for you...](https://www.reddit.com/r/amateurradio/comments/1wea8qk/which_ham_radio_manufacturers_should_a_firmware/)**
-by u/daniel_sthlm
+**3. [Field ops with the PebbleHF](https://www.reddit.com/r/amateurradio/comments/1weuaxv/field_ops_with_the_pebblehf/)**
+by u/electragician
 
-**4. [Last nights live drift scan SDR I/Q continuum, screen shots to the peak taken du...](https://www.reddit.com/r/amateurradio/comments/1we9m7k/last_nights_live_drift_scan_sdr_iq_continuum/)**
-by u/DeepSpace1420MHZ
+**4. [JTDX_contest: First independent review](https://www.reddit.com/r/amateurradio/comments/1wf5hxd/jtdx_contest_first_independent_review/)**
+by u/Responsible-Sell6312
 
-**5. [G90 repairs?](https://www.reddit.com/r/amateurradio/comments/1we75f9/g90_repairs/)**
-by u/CurrentElectrical736
+**5. [Would you take a risk on this?](https://www.reddit.com/r/amateurradio/comments/1wehy58/would_you_take_a_risk_on_this/)**
+by u/Madcat207
 
-**6. [HRD Keyboard Shortcuts?](https://www.reddit.com/r/amateurradio/comments/1weclbk/hrd_keyboard_shortcuts/)**
-by u/Saxman31
+**6. [Hi Reddit, an unusual question about radio interference that I hope one of you c...](https://www.reddit.com/r/amateurradio/comments/1wezala/hi_reddit_an_unusual_question_about_radio/)**
+by u/SingularD3bug
 
-**7. [Tips for new hams](https://www.reddit.com/r/amateurradio/comments/1wd4yrf/tips_for_new_hams/)**
-by u/kooler_duck
+**7. [Handmic options for SmartSDR/AetherSDR?](https://www.reddit.com/r/amateurradio/comments/1wf4k2s/handmic_options_for_smartsdraethersdr/)**
+by u/Left-Transfer-6765
 
-**8. [Why Quarter waves?](https://www.reddit.com/r/amateurradio/comments/1wdl2qr/why_quarter_waves/)**
-by u/Daisuki2Dayo
+**8. [Bought a used buddipole](https://www.reddit.com/r/amateurradio/comments/1weo252/bought_a_used_buddipole/)**
+by u/Electrical-Mail3740
 
-**9. [Kenwood TM-D750A](https://www.reddit.com/r/amateurradio/comments/1we1kmz/kenwood_tmd750a/)**
-by u/FloppyLops
+**9. [DIPLEXER TUNED ON 143-174 VHFmhz and 400-470mhz use for seperating bands](https://www.reddit.com/r/amateurradio/comments/1wf4op5/diplexer_tuned_on_143174_vhfmhz_and_400470mhz_use/)**
+by u/Far-Ebb7783
 
-**10. [Any dual band radios like the Midland mxt295 pro?](https://www.reddit.com/r/amateurradio/comments/1we1w81/any_dual_band_radios_like_the_midland_mxt295_pro/)**
-by u/cant_program
+**10. [Confused about element insulation from boom in DK7ZB yagis](https://www.reddit.com/r/amateurradio/comments/1wf8vq0/confused_about_element_insulation_from_boom_in/)**
+by u/Feuerwerko
 
-**11. [How to send a SSAE to US to return to Australia?](https://www.reddit.com/r/amateurradio/comments/1wdv5x6/how_to_send_a_ssae_to_us_to_return_to_australia/)**
-by u/One_Intention_4368
+**11. [How to use the sub ptt function on the Retevis ha1uv Ailunce](https://www.reddit.com/r/amateurradio/comments/1wf2fk7/how_to_use_the_sub_ptt_function_on_the_retevis/)**
+by u/Delicious-Stick
 
-**12. [Installing “Switching” Aux port in my Silvertone 4586 radio.](https://www.reddit.com/r/amateurradio/comments/1wduzij/installing_switching_aux_port_in_my_silvertone/)**
-by u/SillySample831
+**12. [Looking for a new backpacking/EDC HT](https://www.reddit.com/r/amateurradio/comments/1weqemb/looking_for_a_new_backpackingedc_ht/)**
+by u/nourishablegecko
 
-**13. [TCA PRC 152A 2023 programming issue.](https://www.reddit.com/r/amateurradio/comments/1we1tlf/tca_prc_152a_2023_programming_issue/)**
-by u/Chieframitchell
+**13. [MARS Mod Yaesu FT-710 Japanese version, my findings so far.](https://www.reddit.com/r/amateurradio/comments/1wehc3t/mars_mod_yaesu_ft710_japanese_version_my_findings/)**
+by u/burglar_ot
 
-**14. [Why is CQ calling strategy in QRP so different between FT8 and CW?](https://www.reddit.com/r/amateurradio/comments/1wd8y6y/why_is_cq_calling_strategy_in_qrp_so_different/)**
-by u/_sharpLimefox
+**14. [What did I do or did I???](https://www.reddit.com/r/amateurradio/comments/1wepzil/what_did_i_do_or_did_i/)**
+by u/TallEmu417
 
-**15. [Antenna tuner ?](https://www.reddit.com/r/amateurradio/comments/1wdoorp/antenna_tuner/)**
-by u/Keysurfer64
+**15. [Heathkit 2036 power supply giving 25v instead of 13.8](https://www.reddit.com/r/amateurradio/comments/1werhq6/heathkit_2036_power_supply_giving_25v_instead_of/)**
+by u/LoneGhostOne
 
 ---
 
@@ -61,14 +61,14 @@ by u/Keysurfer64
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w9riof/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Which ham radio manufacturers should a firmware tracker monitor? Looki...](https://www.reddit.com/r/amateurradio/comments/1wea8qk/which_ham_radio_manufacturers_should_a_firmware/)** (r/amateurradio)
-- **[Last nights live drift scan SDR I/Q continuum, screen shots to the pea...](https://www.reddit.com/r/amateurradio/comments/1we9m7k/last_nights_live_drift_scan_sdr_iq_continuum/)** (r/amateurradio)
-- **[G90 repairs?](https://www.reddit.com/r/amateurradio/comments/1we75f9/g90_repairs/)** (r/amateurradio)
-- **[HRD Keyboard Shortcuts?](https://www.reddit.com/r/amateurradio/comments/1weclbk/hrd_keyboard_shortcuts/)** (r/amateurradio)
-- **[Tips for new hams](https://www.reddit.com/r/amateurradio/comments/1wd4yrf/tips_for_new_hams/)** (r/amateurradio)
-- **[Why Quarter waves?](https://www.reddit.com/r/amateurradio/comments/1wdl2qr/why_quarter_waves/)** (r/amateurradio)
-- **[Kenwood TM-D750A](https://www.reddit.com/r/amateurradio/comments/1we1kmz/kenwood_tmd750a/)** (r/amateurradio)
-- **[Any dual band radios like the Midland mxt295 pro?](https://www.reddit.com/r/amateurradio/comments/1we1w81/any_dual_band_radios_like_the_midland_mxt295_pro/)** (r/amateurradio)
+- **[Field ops with the PebbleHF](https://www.reddit.com/r/amateurradio/comments/1weuaxv/field_ops_with_the_pebblehf/)** (r/amateurradio)
+- **[JTDX_contest: First independent review](https://www.reddit.com/r/amateurradio/comments/1wf5hxd/jtdx_contest_first_independent_review/)** (r/amateurradio)
+- **[Would you take a risk on this?](https://www.reddit.com/r/amateurradio/comments/1wehy58/would_you_take_a_risk_on_this/)** (r/amateurradio)
+- **[Hi Reddit, an unusual question about radio interference that I hope on...](https://www.reddit.com/r/amateurradio/comments/1wezala/hi_reddit_an_unusual_question_about_radio/)** (r/amateurradio)
+- **[Handmic options for SmartSDR/AetherSDR?](https://www.reddit.com/r/amateurradio/comments/1wf4k2s/handmic_options_for_smartsdraethersdr/)** (r/amateurradio)
+- **[Bought a used buddipole](https://www.reddit.com/r/amateurradio/comments/1weo252/bought_a_used_buddipole/)** (r/amateurradio)
+- **[DIPLEXER TUNED ON 143-174 VHFmhz and 400-470mhz use for seperating ban...](https://www.reddit.com/r/amateurradio/comments/1wf4op5/diplexer_tuned_on_143174_vhfmhz_and_400470mhz_use/)** (r/amateurradio)
+- **[Confused about element insulation from boom in DK7ZB yagis](https://www.reddit.com/r/amateurradio/comments/1wf8vq0/confused_about_element_insulation_from_boom_in/)** (r/amateurradio)
 
 ---
 

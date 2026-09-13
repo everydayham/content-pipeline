@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:55:47.803840",
+  "updated": "2026-09-13T14:50:45.940889",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,94 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Which ham radio manufacturers should a firmware tracker monitor? Looking for your input.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wea8qk/which_ham_radio_manufacturers_should_a_firmware/",
-        "author": "/u/daniel_sthlm"
+        "title": "Field ops with the PebbleHF",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1weuaxv/field_ops_with_the_pebblehf/",
+        "author": "/u/electragician"
+      },
+      {
+        "title": "JTDX_contest: First independent review",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf5hxd/jtdx_contest_first_independent_review/",
+        "author": "/u/Responsible-Sell6312"
+      },
+      {
+        "title": "Would you take a risk on this?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wehy58/would_you_take_a_risk_on_this/",
+        "author": "/u/Madcat207"
+      },
+      {
+        "title": "Hi Reddit, an unusual question about radio interference that I hope one of you can answer",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wezala/hi_reddit_an_unusual_question_about_radio/",
+        "author": "/u/SingularD3bug"
+      },
+      {
+        "title": "Handmic options for SmartSDR/AetherSDR?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf4k2s/handmic_options_for_smartsdraethersdr/",
+        "author": "/u/Left-Transfer-6765"
+      },
+      {
+        "title": "Bought a used buddipole",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1weo252/bought_a_used_buddipole/",
+        "author": "/u/Electrical-Mail3740"
+      },
+      {
+        "title": "DIPLEXER TUNED ON 143-174 VHFmhz and 400-470mhz use for seperating bands",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf4op5/diplexer_tuned_on_143174_vhfmhz_and_400470mhz_use/",
+        "author": "/u/Far-Ebb7783"
+      },
+      {
+        "title": "Confused about element insulation from boom in DK7ZB yagis",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf8vq0/confused_about_element_insulation_from_boom_in/",
+        "author": "/u/Feuerwerko"
+      },
+      {
+        "title": "How to use the sub ptt function on the Retevis ha1uv Ailunce",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf2fk7/how_to_use_the_sub_ptt_function_on_the_retevis/",
+        "author": "/u/Delicious-Stick"
+      },
+      {
+        "title": "Looking for a new backpacking/EDC HT",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1weqemb/looking_for_a_new_backpackingedc_ht/",
+        "author": "/u/nourishablegecko"
+      },
+      {
+        "title": "MARS Mod Yaesu FT-710 Japanese version, my findings so far.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wehc3t/mars_mod_yaesu_ft710_japanese_version_my_findings/",
+        "author": "/u/burglar_ot"
+      },
+      {
+        "title": "What did I do or did I???",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wepzil/what_did_i_do_or_did_i/",
+        "author": "/u/TallEmu417"
+      },
+      {
+        "title": "Heathkit 2036 power supply giving 25v instead of 13.8",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1werhq6/heathkit_2036_power_supply_giving_25v_instead_of/",
+        "author": "/u/LoneGhostOne"
+      },
+      {
+        "title": "Any ideas what is causing this crazy RFI?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wejau0/any_ideas_what_is_causing_this_crazy_rfi/",
+        "author": "/u/kingbrianboru"
+      },
+      {
+        "title": "help simulating stacked yagi 4NEC2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wenmne/help_simulating_stacked_yagi_4nec2/",
+        "author": "/u/melenskiii"
+      },
+      {
+        "title": "Repeater-Scores.app updates! ID-52 support, live tallies, and bug fixes!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wf0qvr/repeaterscoresapp_updates_id52_support_live/",
+        "author": "/u/shredjesse"
+      },
+      {
+        "title": "NXP MRF13750H AWR Model",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wewcu0/nxp_mrf13750h_awr_model/",
+        "author": "/u/Lubravi"
+      },
+      {
+        "title": "What can I do with an UV 21 pro?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1weqzmt/what_can_i_do_with_an_uv_21_pro/",
+        "author": "/u/twohundredgoblins"
       },
       {
         "title": "Last nights live drift scan SDR I/Q continuum, screen shots to the peak taken during. DB visible below the dish pic. The peak db is plotted across the entire completed 180 min recording.",
@@ -27,109 +112,24 @@
         "author": "/u/DeepSpace1420MHZ"
       },
       {
+        "title": "Toy walkie talkie",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1weon2e/toy_walkie_talkie/",
+        "author": "/u/Dapper-Skin-1240"
+      },
+      {
+        "title": "Which ham radio manufacturers should a firmware tracker monitor? Looking for your input.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1welz5r/which_ham_radio_manufacturers_should_a_firmware/",
+        "author": "/u/daniel_sthlm"
+      },
+      {
+        "title": "Not able to decode TETRA using TetraEar",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wee845/not_able_to_decode_tetra_using_tetraear/",
+        "author": "/u/HauntingWoodpecker65"
+      },
+      {
         "title": "G90 repairs?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1we75f9/g90_repairs/",
         "author": "/u/CurrentElectrical736"
-      },
-      {
-        "title": "HRD Keyboard Shortcuts?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1weclbk/hrd_keyboard_shortcuts/",
-        "author": "/u/Saxman31"
-      },
-      {
-        "title": "Tips for new hams",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wd4yrf/tips_for_new_hams/",
-        "author": "/u/kooler_duck"
-      },
-      {
-        "title": "Why Quarter waves?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wdl2qr/why_quarter_waves/",
-        "author": "/u/Daisuki2Dayo"
-      },
-      {
-        "title": "Kenwood TM-D750A",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1we1kmz/kenwood_tmd750a/",
-        "author": "/u/FloppyLops"
-      },
-      {
-        "title": "Any dual band radios like the Midland mxt295 pro?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1we1w81/any_dual_band_radios_like_the_midland_mxt295_pro/",
-        "author": "/u/cant_program"
-      },
-      {
-        "title": "How to send a SSAE to US to return to Australia?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wdv5x6/how_to_send_a_ssae_to_us_to_return_to_australia/",
-        "author": "/u/One_Intention_4368"
-      },
-      {
-        "title": "Installing \u201cSwitching\u201d Aux port in my Silvertone 4586 radio.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wduzij/installing_switching_aux_port_in_my_silvertone/",
-        "author": "/u/SillySample831"
-      },
-      {
-        "title": "TCA PRC 152A 2023 programming issue.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1we1tlf/tca_prc_152a_2023_programming_issue/",
-        "author": "/u/Chieframitchell"
-      },
-      {
-        "title": "Why is CQ calling strategy in QRP so different between FT8 and CW?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wd8y6y/why_is_cq_calling_strategy_in_qrp_so_different/",
-        "author": "/u/_sharpLimefox"
-      },
-      {
-        "title": "Antenna tuner ?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wdoorp/antenna_tuner/",
-        "author": "/u/Keysurfer64"
-      },
-      {
-        "title": "Finished Remodeling the shack today & adding a Kenwood TS-870",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wcyt4x/finished_remodeling_the_shack_today_adding_a/",
-        "author": "/u/DoucheNozzle1163"
-      },
-      {
-        "title": "Sony Air 8 del 1984",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wcphnt/sony_air_8_del_1984/",
-        "author": "/u/Longjumping_Edge_558"
-      },
-      {
-        "title": "Recieved my first real CW paddle today.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wcue1b/recieved_my_first_real_cw_paddle_today/",
-        "author": "/u/axhoff_"
-      },
-      {
-        "title": "The American Extra licence in Norway",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wddrqu/the_american_extra_licence_in_norway/",
-        "author": "/u/Impressive-Pop-1219"
-      },
-      {
-        "title": "I don't understand how radio transmitters transmit signals.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wd28gs/i_dont_understand_how_radio_transmitters_transmit/",
-        "author": "/u/Adorable_Big_597"
-      },
-      {
-        "title": "Just received new Diamond 320a\u2026. With bend?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wd7and/just_received_new_diamond_320a_with_bend/",
-        "author": "/u/Pinchelotapus_Rex"
-      },
-      {
-        "title": "Decision made! Yaesu 3165 Rasp",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wctq7w/decision_made_yaesu_3165_rasp/",
-        "author": "/u/ReidithMcallen"
-      },
-      {
-        "title": "FYI-Europe is ROLLING into NA right now on 20m",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wcwrbe/fyieurope_is_rolling_into_na_right_now_on_20m/",
-        "author": "/u/DoucheNozzle1163"
-      },
-      {
-        "title": "Student Club LA1K/P at Field Day 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wcpyo0/student_club_la1kp_at_field_day_2026/",
-        "author": "/u/coolmann73"
-      },
-      {
-        "title": "Question about NZ callsigns",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wd0uhg/question_about_nz_callsigns/",
-        "author": "/u/roomert"
       }
     ]
   }

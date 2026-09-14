@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-13 14:50 UTC*
+*Last updated: 2026-09-14 16:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w9riof/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wg2ry7/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Field ops with the PebbleHF](https://www.reddit.com/r/amateurradio/comments/1weuaxv/field_ops_with_the_pebblehf/)**
-by u/electragician
+**3. [Just heard “The Buckeye Net” kick a POTA operator off “their frequency” because ...](https://www.reddit.com/r/amateurradio/comments/1wg6rcl/just_heard_the_buckeye_net_kick_a_pota_operator/)**
+by u/l8nightbusdrivr
 
-**4. [JTDX_contest: First independent review](https://www.reddit.com/r/amateurradio/comments/1wf5hxd/jtdx_contest_first_independent_review/)**
-by u/Responsible-Sell6312
+**4. [What does this guy have going on?](https://www.reddit.com/r/amateurradio/comments/1wfpfl6/what_does_this_guy_have_going_on/)**
+by u/graffiti_hunter
 
-**5. [Would you take a risk on this?](https://www.reddit.com/r/amateurradio/comments/1wehy58/would_you_take_a_risk_on_this/)**
-by u/Madcat207
+**5. [Another POTA day](https://www.reddit.com/r/amateurradio/comments/1wfv3eg/another_pota_day/)**
+by u/rossog93
 
-**6. [Hi Reddit, an unusual question about radio interference that I hope one of you c...](https://www.reddit.com/r/amateurradio/comments/1wezala/hi_reddit_an_unusual_question_about_radio/)**
-by u/SingularD3bug
+**6. [Successful M17 transmission using an unmodified Retevis C62 running OpenRTX](https://www.reddit.com/r/amateurradio/comments/1wg02v7/successful_m17_transmission_using_an_unmodified/)**
+by u/SP5WWP
 
-**7. [Handmic options for SmartSDR/AetherSDR?](https://www.reddit.com/r/amateurradio/comments/1wf4k2s/handmic_options_for_smartsdraethersdr/)**
-by u/Left-Transfer-6765
+**7. [DIY RF Dummy Load](https://www.reddit.com/r/amateurradio/comments/1wfxmo3/diy_rf_dummy_load/)**
+by u/Educational-Law-6175
 
-**8. [Bought a used buddipole](https://www.reddit.com/r/amateurradio/comments/1weo252/bought_a_used_buddipole/)**
-by u/Electrical-Mail3740
+**8. [Here's my experience building the Pebble HF.](https://www.reddit.com/r/amateurradio/comments/1wg8n54/heres_my_experience_building_the_pebble_hf/)**
+by u/adhdff
 
-**9. [DIPLEXER TUNED ON 143-174 VHFmhz and 400-470mhz use for seperating bands](https://www.reddit.com/r/amateurradio/comments/1wf4op5/diplexer_tuned_on_143174_vhfmhz_and_400470mhz_use/)**
-by u/Far-Ebb7783
+**9. [British Hams: RSGB Full Test Question bank not working?](https://www.reddit.com/r/amateurradio/comments/1wg6ey8/british_hams_rsgb_full_test_question_bank_not/)**
+by u/Ok_Scientist_987
 
-**10. [Confused about element insulation from boom in DK7ZB yagis](https://www.reddit.com/r/amateurradio/comments/1wf8vq0/confused_about_element_insulation_from_boom_in/)**
-by u/Feuerwerko
+**10. [Work all 50 states, TONIGHT!](https://www.reddit.com/r/amateurradio/comments/1wfpucy/work_all_50_states_tonight/)**
+by u/Kn9w-EM75
 
-**11. [How to use the sub ptt function on the Retevis ha1uv Ailunce](https://www.reddit.com/r/amateurradio/comments/1wf2fk7/how_to_use_the_sub_ptt_function_on_the_retevis/)**
-by u/Delicious-Stick
+**11. [Ham Radio on a Sport Bike?](https://www.reddit.com/r/amateurradio/comments/1wg2tw0/ham_radio_on_a_sport_bike/)**
+by u/Witty-Party-3565
 
-**12. [Looking for a new backpacking/EDC HT](https://www.reddit.com/r/amateurradio/comments/1weqemb/looking_for_a_new_backpackingedc_ht/)**
-by u/nourishablegecko
+**12. [Satellite antenna predicament](https://www.reddit.com/r/amateurradio/comments/1wg7plb/satellite_antenna_predicament/)**
+by u/SENPA-A-A-A-I-I
 
-**13. [MARS Mod Yaesu FT-710 Japanese version, my findings so far.](https://www.reddit.com/r/amateurradio/comments/1wehc3t/mars_mod_yaesu_ft710_japanese_version_my_findings/)**
-by u/burglar_ot
+**13. [Asat-120A](https://www.reddit.com/r/amateurradio/comments/1wfzvjl/asat120a/)**
+by u/Keysurfer64
 
-**14. [What did I do or did I???](https://www.reddit.com/r/amateurradio/comments/1wepzil/what_did_i_do_or_did_i/)**
-by u/TallEmu417
+**14. [Club issues](https://www.reddit.com/r/amateurradio/comments/1wfdsrb/club_issues/)**
+by u/bmont84
 
-**15. [Heathkit 2036 power supply giving 25v instead of 13.8](https://www.reddit.com/r/amateurradio/comments/1werhq6/heathkit_2036_power_supply_giving_25v_instead_of/)**
-by u/LoneGhostOne
+**15. [Antenna Coming down for roof work, so it's POTA time!](https://www.reddit.com/r/amateurradio/comments/1wfouek/antenna_coming_down_for_roof_work_so_its_pota_time/)**
+by u/Unusual_Maize5369
 
 ---
 
@@ -59,16 +59,16 @@ by u/LoneGhostOne
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1w9riof/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wg2ry7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Field ops with the PebbleHF](https://www.reddit.com/r/amateurradio/comments/1weuaxv/field_ops_with_the_pebblehf/)** (r/amateurradio)
-- **[JTDX_contest: First independent review](https://www.reddit.com/r/amateurradio/comments/1wf5hxd/jtdx_contest_first_independent_review/)** (r/amateurradio)
-- **[Would you take a risk on this?](https://www.reddit.com/r/amateurradio/comments/1wehy58/would_you_take_a_risk_on_this/)** (r/amateurradio)
-- **[Hi Reddit, an unusual question about radio interference that I hope on...](https://www.reddit.com/r/amateurradio/comments/1wezala/hi_reddit_an_unusual_question_about_radio/)** (r/amateurradio)
-- **[Handmic options for SmartSDR/AetherSDR?](https://www.reddit.com/r/amateurradio/comments/1wf4k2s/handmic_options_for_smartsdraethersdr/)** (r/amateurradio)
-- **[Bought a used buddipole](https://www.reddit.com/r/amateurradio/comments/1weo252/bought_a_used_buddipole/)** (r/amateurradio)
-- **[DIPLEXER TUNED ON 143-174 VHFmhz and 400-470mhz use for seperating ban...](https://www.reddit.com/r/amateurradio/comments/1wf4op5/diplexer_tuned_on_143174_vhfmhz_and_400470mhz_use/)** (r/amateurradio)
-- **[Confused about element insulation from boom in DK7ZB yagis](https://www.reddit.com/r/amateurradio/comments/1wf8vq0/confused_about_element_insulation_from_boom_in/)** (r/amateurradio)
+- **[Just heard “The Buckeye Net” kick a POTA operator off “their frequency...](https://www.reddit.com/r/amateurradio/comments/1wg6rcl/just_heard_the_buckeye_net_kick_a_pota_operator/)** (r/amateurradio)
+- **[What does this guy have going on?](https://www.reddit.com/r/amateurradio/comments/1wfpfl6/what_does_this_guy_have_going_on/)** (r/amateurradio)
+- **[Another POTA day](https://www.reddit.com/r/amateurradio/comments/1wfv3eg/another_pota_day/)** (r/amateurradio)
+- **[Successful M17 transmission using an unmodified Retevis C62 running Op...](https://www.reddit.com/r/amateurradio/comments/1wg02v7/successful_m17_transmission_using_an_unmodified/)** (r/amateurradio)
+- **[DIY RF Dummy Load](https://www.reddit.com/r/amateurradio/comments/1wfxmo3/diy_rf_dummy_load/)** (r/amateurradio)
+- **[Here's my experience building the Pebble HF.](https://www.reddit.com/r/amateurradio/comments/1wg8n54/heres_my_experience_building_the_pebble_hf/)** (r/amateurradio)
+- **[British Hams: RSGB Full Test Question bank not working?](https://www.reddit.com/r/amateurradio/comments/1wg6ey8/british_hams_rsgb_full_test_question_bank_not/)** (r/amateurradio)
+- **[Work all 50 states, TONIGHT!](https://www.reddit.com/r/amateurradio/comments/1wfpucy/work_all_50_states_tonight/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-09-07 16:57 UTC*
+*Last updated: 2026-09-14 17:19 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Morse Code WPM Slow and Fast #morsecode #hamradio | The Radio Zoomer | 5,362,395 | 2026-09-01 |
-| Bunty ki maa ko kavya se chahiye pota| Today Episo... | Nok Jhok Studio | 1,583,161 | 2026-09-05 |
-| Pota Dadi Ka Paon Choomta Hai ❤️😂 | Desi Comedy #s... | Real Funny kids 2.0 | 623,543 | 2026-09-06 |
-| «У меня все друзья погибли на СВО». Атака БПЛА в Е... | sotavision | 553,451 | 2026-08-31 |
-| «Чтобы разбомбили гадов всех в Киеве!» Атака БПЛА ... | sotavision | 538,618 | 2026-09-01 |
-| Dadi Ko Train Se Utar Diya 😢 Pota Kya Karega? ❤️ | Ghibli Night Studio  | 457,778 | 2026-09-01 |
-| 塗りも特殊、バランスもすごい絵師現る | そーた の暇つぶし | 298,671 | 2026-09-05 |
-| SOTAとMANATO hhhhh はカメラの前で笑いをこらえるのに苦労している。#BEFIRST | NINA_BESTY | 286,114 | 2026-09-02 |
-| SOTAがJUNONにマイクを渡す????!#BEFIRST | NINA_BESTY | 193,494 | 2026-09-06 |
-| Dada pota #love #family #discipline #motivation | Harsehaj fitboy | 190,871 | 2026-09-01 |
-| SOTA Dance Trend Two & bbno$! !私は彼が踊る姿を見たかった。#BEFI... | NINA_BESTY | 175,963 | 2026-09-04 |
-| Upar Pankha Chalta Hai 😴🥜 | Munna Ki Mungphali & F... | Learn kario G | 153,420 | 2026-09-05 |
-| dusra ke beta pota ban gya #funny #rakeshkulin #so... | Rakesh kulin  | 147,594 | 2026-09-05 |
-| Flock Cameras Still On But No Broadcast | Valleytech Custom So | 138,522 | 2026-09-02 |
-| Emote Pota BeautyKu Namma Revenge Emote  Potachi N... | மாட்டு RAVI | 128,462 | 2026-09-06 |
-| «В 2027 году будет только хуже!» Прилет БПЛА в Ека... | sotavision | 122,817 | 2026-09-03 |
-| Dada pota ki jodi 😍❤️ @samaykatariafitness8907 #lo... | Samay kataria Fitnes | 117,880 | 2026-09-05 |
-| Sota hua ko dara diya jombi na😂😂😂 #shortvideo #com... | Aahad vines | 112,275 | 2026-09-05 |
-| Ye Dadi pota bhi na 😂🤣Bechara dost 🤣 #funny #comed... | Prabhakar Vishwakarm | 110,138 | 2026-09-07 |
-| banti ki maa ne bola mujhe 😒apna pota dekhna hai 😒 | suman rajpoot  | 108,237 | 2026-09-05 |
-| SOTA,SHUNYO 道端で踊る!!!SOTAは別の惑星からやってくる#BEFIRST | NINA_BESTY | 77,133 | 2026-09-03 |
-| “Ammi Ko Pota Chahiye, Sameer Ko Chhoti Princess! ... | Arzoo Village | 68,066 | 2026-09-02 |
-| Right or wrong? | Utilizer USA | 57,285 | 2026-09-03 |
-| How To Get Started With Satellites, Radios, And SD... | saveitforparts | 54,702 | 2026-09-02 |
-| Straight Key Sending 10 WPM #morsecode #hamradio #... | The Radio Zoomer | 50,758 | 2026-09-02 |
+| Pota Kis Ke Paas Gaya? 😂❤️ #Shorts#PakistaniComedy... | Real Funny kids 2.0 | 1,506,190 | 2026-09-10 |
+| murghi ya pota fun 😂#shorts #shortvideo #short #sh... | Art Club pk | 1,183,455 | 2026-09-11 |
+| LDO500 CB Amplifier #chrisboden #comedy #education... | Chris Boden | 607,888 | 2026-09-10 |
+| Pota Bach Gaya 😂 #Shorts#Shorts #PakistaniComedy #... | Real Funny kids 2.0 | 570,422 | 2026-09-12 |
+| CHICKEN POTA KALEJI FRY #potakaleji #trending #vir... | My kitchen 200 | 400,973 | 2026-09-09 |
+| Dadi Ne Aaj Banayi Dahi Vade Ki Recipe |Bahut Hi M... | dadi pota 1947 | 342,724 | 2026-09-09 |
+| pota aapne maa baap se jyada dada dadi se pyar kar... | Laxmi yadav  | 305,653 | 2026-09-08 |
+| sota magic tutorial #shortvideos | MEENA SAHAB | 245,292 | 2026-09-13 |
+| बलमुआ के सल्लम सोंटा (4K) | #SamarSingh | Balamua ... | Navdurga Films | 206,206 | 2026-09-14 |
+| Мы не живём! За несколько лет всё только хуже. Рос... | sotavision | 165,553 | 2026-09-11 |
+| mere saiya ke banduk chalegi #funny video dada pot... | jai yug comedy | 156,634 | 2026-09-08 |
+| 【BE:FIRST】SOTAの真剣返答にジュノン＆マナトが無言の貫禄!?🔥 #BEFIRST #SO... | BMSG TV Updated | 127,267 | 2026-09-09 |
+| Bantu Pota Menyusun Kaos Kaki! Yuk, Tebak Polanya ... | Marbel - Learning To | 115,963 | 2026-09-11 |
+| Dada Se Quran Seekhta Nanaha Pota ❤️📖 | “MashaAlla... | Noor Islamic 786 | 113,647 | 2026-09-12 |
+| Pota Custom Player 😂- para SAMSUNG A3,A5,A6,A7,J2,... | launda FF 2 | 101,619 | 2026-09-09 |
+| How Do Submarines Communicate Underwater? | History of Simple Th | 86,708 | 2026-09-09 |
+| SOTA Dance Trend Buggin, ⚰️🌹私は彼のダンスにとても魅了されています#BE... | NINA_BESTY | 80,378 | 2026-09-08 |
+| itani late tak kon sota hai 😅👇   #dailylifestyle #... | Sachincobravlogs  | 73,829 | 2026-09-11 |
+| Jon's Other Interests - Live in the Nutmeg Tavern! | Townsends | 64,818 | 2026-09-11 |
+| Barish Mein AC On Karke Kaun Sota Hai !  #tmkoc #f... | TMKOC - MINISODES | 60,667 | 2026-09-12 |
+| SOTA,RYUHEI 🌹⚰️,言葉では言い表せないほどの圧倒的な壮麗さ#BEFIRST | NINA_BESTY | 57,254 | 2026-09-11 |
+| 【解説111】圧巻の中盤【藤井聡太叡王】 | tamakin将棋実況 | 53,057 | 2026-09-09 |
+| با این رادیو کوچیک صدای بیسیم و ایستگاههای رادیویی... | A4farance | 52,382 | 2026-09-09 |
+| BE:FIRST JUNON&LEO SOTA & MANATO SALUさん MILLION BI... | BMSG Fans | 43,395 | 2026-09-12 |
+| Learn Morse Code Fast #morsecode #hamradio #cw | The Radio Zoomer | 37,781 | 2026-09-11 |
 
 ---
 
@@ -42,13 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (26 videos)
-- **License/Learning**: ████████████████████ (22 videos)
-- **HF Operating**: ██████████████ (14 videos)
-- **Antennas**: █████████ (9 videos)
-- **Gear Reviews**: ███████ (7 videos)
-- **QRP**: █████ (5 videos)
-- **Digital Modes**: ████ (4 videos)
+- **POTA/Portable**: ████████████████████ (27 videos)
+- **License/Learning**: ████████████████████ (25 videos)
+- **HF Operating**: █████████████████ (17 videos)
+- **Antennas**: ████████████ (12 videos)
+- **Digital Modes**: ████████ (8 videos)
+- **Gear Reviews**: ██████ (6 videos)
+- **QRP**: ███ (3 videos)
 - **Contests**: █ (1 videos)
 
 ---

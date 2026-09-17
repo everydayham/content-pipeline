@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-16 15:21 UTC*
+*Last updated: 2026-09-17 15:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Time to get wifi from mars!!](https://www.reddit.com/r/amateurradio/comments/1wh8o6w/time_to_get_wifi_from_mars/)**
-by u/KD3AZZ
+**3. [CW POTA Community](https://www.reddit.com/r/amateurradio/comments/1wiibne/cw_pota_community/)**
+by u/LostInThePileup
 
-**4. [Should I pass the UK or Belgium ham radio exam?](https://www.reddit.com/r/amateurradio/comments/1whs6h4/should_i_pass_the_uk_or_belgium_ham_radio_exam/)**
-by u/CClikes20
+**4. [Come on guys! Break those Bandwidth rules! (Don’t actually….)](https://www.reddit.com/r/amateurradio/comments/1wi2he7/come_on_guys_break_those_bandwidth_rules_dont/)**
+by u/aacmckay
 
-**5. [Tips for Amateur Radio](https://www.reddit.com/r/amateurradio/comments/1whrgy4/tips_for_amateur_radio/)**
-by u/zuzu58u
+**5. [Advice needed for high school amateur radio club](https://www.reddit.com/r/amateurradio/comments/1wiiek9/advice_needed_for_high_school_amateur_radio_club/)**
+by u/k3duc
 
-**6. [Open HamClock Backend](https://www.reddit.com/r/amateurradio/comments/1whkyjk/open_hamclock_backend/)**
-by u/SwimmerOdd2188
+**6. [What is the story behind your callsign?](https://www.reddit.com/r/amateurradio/comments/1wi6pnv/what_is_the_story_behind_your_callsign/)**
+by u/wncbk
 
-**7. [Am I compensating for something, guys?](https://www.reddit.com/r/amateurradio/comments/1wgxwak/am_i_compensating_for_something_guys/)**
-by u/czerys
+**7. [Square loop antennas](https://www.reddit.com/r/amateurradio/comments/1widck3/square_loop_antennas/)**
+by u/Jaksterman
 
-**8. [Find the cheapest 15/20/40 m HF ham radio](https://www.reddit.com/r/amateurradio/comments/1whzik2/find_the_cheapest_152040_m_hf_ham_radio/)**
-by u/Shot-Animal6191
+**8. [Is your club repeater linked to Echolink?](https://www.reddit.com/r/amateurradio/comments/1wiwpju/is_your_club_repeater_linked_to_echolink/)**
+by u/CaptainSpez
 
-**9. [EFHW antenna for terrace? Alternatives?](https://www.reddit.com/r/amateurradio/comments/1whqts8/efhw_antenna_for_terrace_alternatives/)**
-by u/npsoftware
+**9. [Connect baofeng to phone with Bluetooth adapter?](https://www.reddit.com/r/amateurradio/comments/1wiwlyb/connect_baofeng_to_phone_with_bluetooth_adapter/)**
+by u/Zealousideal-Ad-9453
 
-**10. [help me to pick my first DMR handheld](https://www.reddit.com/r/amateurradio/comments/1whtrgn/help_me_to_pick_my_first_dmr_handheld/)**
-by u/neekthefreak
+**10. [polar transmission - everything I am reading says that the auroral oval is a hot...](https://www.reddit.com/r/amateurradio/comments/1wiwjv8/polar_transmission_everything_i_am_reading_says/)**
+by u/PartyProperty
 
-**11. [Gobox Update - Receives well. Now waiting on my G90 :)](https://www.reddit.com/r/amateurradio/comments/1wh7khb/gobox_update_receives_well_now_waiting_on_my_g90/)**
-by u/Flimflammerjammer
+**11. [Suggest some leaning materials/books](https://www.reddit.com/r/amateurradio/comments/1wimgrv/suggest_some_leaning_materialsbooks/)**
+by u/Historical-Mess9251
 
-**12. [RF noise help](https://www.reddit.com/r/amateurradio/comments/1whkjdl/rf_noise_help/)**
-by u/Keysurfer64
+**12. [A windows pass through question](https://www.reddit.com/r/amateurradio/comments/1wiv916/a_windows_pass_through_question/)**
+by u/Glum-Fun4566
 
-**13. [1933 QSL card from New Jersey](https://www.reddit.com/r/amateurradio/comments/1whlq6j/1933_qsl_card_from_new_jersey/)**
-by u/Papergreat1970
+**13. [MotoTRBO Firmware NA R02.09.00.0001 Not Available On Customer Hub](https://www.reddit.com/r/amateurradio/comments/1wiudmo/mototrbo_firmware_na_r0209000001_not_available_on/)**
+by u/Hey19TheCuervoGold
 
-**14. [Motorcycle mobile with a diy mount](https://www.reddit.com/r/amateurradio/comments/1wgwps2/motorcycle_mobile_with_a_diy_mount/)**
-by u/pishboy
+**14. [Hi-Q Scewdriver Antenna](https://www.reddit.com/r/amateurradio/comments/1wi5ja6/hiq_scewdriver_antenna/)**
+by u/Electronic_Ad8412
 
-**15. [Where can I find one and adapt it, if not, build one?](https://www.reddit.com/r/amateurradio/comments/1wh12ay/where_can_i_find_one_and_adapt_it_if_not_build_one/)**
-by u/TheMorganDev
+**15. [Second opinion on Coax value.](https://www.reddit.com/r/amateurradio/comments/1wih5wq/second_opinion_on_coax_value/)**
+by u/OlTartToter
 
 ---
 
@@ -61,14 +61,14 @@ by u/TheMorganDev
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wg2ry7/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Time to get wifi from mars!!](https://www.reddit.com/r/amateurradio/comments/1wh8o6w/time_to_get_wifi_from_mars/)** (r/amateurradio)
-- **[Should I pass the UK or Belgium ham radio exam?](https://www.reddit.com/r/amateurradio/comments/1whs6h4/should_i_pass_the_uk_or_belgium_ham_radio_exam/)** (r/amateurradio)
-- **[Tips for Amateur Radio](https://www.reddit.com/r/amateurradio/comments/1whrgy4/tips_for_amateur_radio/)** (r/amateurradio)
-- **[Open HamClock Backend](https://www.reddit.com/r/amateurradio/comments/1whkyjk/open_hamclock_backend/)** (r/amateurradio)
-- **[Am I compensating for something, guys?](https://www.reddit.com/r/amateurradio/comments/1wgxwak/am_i_compensating_for_something_guys/)** (r/amateurradio)
-- **[Find the cheapest 15/20/40 m HF ham radio](https://www.reddit.com/r/amateurradio/comments/1whzik2/find_the_cheapest_152040_m_hf_ham_radio/)** (r/amateurradio)
-- **[EFHW antenna for terrace? Alternatives?](https://www.reddit.com/r/amateurradio/comments/1whqts8/efhw_antenna_for_terrace_alternatives/)** (r/amateurradio)
-- **[help me to pick my first DMR handheld](https://www.reddit.com/r/amateurradio/comments/1whtrgn/help_me_to_pick_my_first_dmr_handheld/)** (r/amateurradio)
+- **[CW POTA Community](https://www.reddit.com/r/amateurradio/comments/1wiibne/cw_pota_community/)** (r/amateurradio)
+- **[Come on guys! Break those Bandwidth rules! (Don’t actually….)](https://www.reddit.com/r/amateurradio/comments/1wi2he7/come_on_guys_break_those_bandwidth_rules_dont/)** (r/amateurradio)
+- **[Advice needed for high school amateur radio club](https://www.reddit.com/r/amateurradio/comments/1wiiek9/advice_needed_for_high_school_amateur_radio_club/)** (r/amateurradio)
+- **[What is the story behind your callsign?](https://www.reddit.com/r/amateurradio/comments/1wi6pnv/what_is_the_story_behind_your_callsign/)** (r/amateurradio)
+- **[Square loop antennas](https://www.reddit.com/r/amateurradio/comments/1widck3/square_loop_antennas/)** (r/amateurradio)
+- **[Is your club repeater linked to Echolink?](https://www.reddit.com/r/amateurradio/comments/1wiwpju/is_your_club_repeater_linked_to_echolink/)** (r/amateurradio)
+- **[Connect baofeng to phone with Bluetooth adapter?](https://www.reddit.com/r/amateurradio/comments/1wiwlyb/connect_baofeng_to_phone_with_bluetooth_adapter/)** (r/amateurradio)
+- **[polar transmission - everything I am reading says that the auroral ova...](https://www.reddit.com/r/amateurradio/comments/1wiwjv8/polar_transmission_everything_i_am_reading_says/)** (r/amateurradio)
 
 ---
 

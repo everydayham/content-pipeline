@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:21:16.394435",
+  "updated": "2026-09-17T15:27:42.686467",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,119 +17,119 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "CW POTA Community",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiibne/cw_pota_community/",
+        "author": "/u/LostInThePileup"
+      },
+      {
+        "title": "Come on guys! Break those Bandwidth rules! (Don\u2019t actually\u2026.)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi2he7/come_on_guys_break_those_bandwidth_rules_dont/",
+        "author": "/u/aacmckay"
+      },
+      {
+        "title": "Advice needed for high school amateur radio club",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiiek9/advice_needed_for_high_school_amateur_radio_club/",
+        "author": "/u/k3duc"
+      },
+      {
+        "title": "What is the story behind your callsign?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi6pnv/what_is_the_story_behind_your_callsign/",
+        "author": "/u/wncbk"
+      },
+      {
+        "title": "Square loop antennas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1widck3/square_loop_antennas/",
+        "author": "/u/Jaksterman"
+      },
+      {
+        "title": "Is your club repeater linked to Echolink?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiwpju/is_your_club_repeater_linked_to_echolink/",
+        "author": "/u/CaptainSpez"
+      },
+      {
+        "title": "Connect baofeng to phone with Bluetooth adapter?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiwlyb/connect_baofeng_to_phone_with_bluetooth_adapter/",
+        "author": "/u/Zealousideal-Ad-9453"
+      },
+      {
+        "title": "polar transmission - everything I am reading says that the auroral oval is a hot soup of sadness.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiwjv8/polar_transmission_everything_i_am_reading_says/",
+        "author": "/u/PartyProperty"
+      },
+      {
+        "title": "Suggest some leaning materials/books",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wimgrv/suggest_some_leaning_materialsbooks/",
+        "author": "/u/Historical-Mess9251"
+      },
+      {
+        "title": "A windows pass through question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiv916/a_windows_pass_through_question/",
+        "author": "/u/Glum-Fun4566"
+      },
+      {
+        "title": "MotoTRBO Firmware NA R02.09.00.0001 Not Available On Customer Hub",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiudmo/mototrbo_firmware_na_r0209000001_not_available_on/",
+        "author": "/u/Hey19TheCuervoGold"
+      },
+      {
+        "title": "Hi-Q Scewdriver Antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi5ja6/hiq_scewdriver_antenna/",
+        "author": "/u/Electronic_Ad8412"
+      },
+      {
+        "title": "Second opinion on Coax value.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wih5wq/second_opinion_on_coax_value/",
+        "author": "/u/OlTartToter"
+      },
+      {
+        "title": "RF survey - wierd?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wimgbx/rf_survey_wierd/",
+        "author": "/u/BornCollege6267"
+      },
+      {
+        "title": "Step-by-Step Guide: Installing Wavelog on Windows (without the Linux/Docker headache)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiayk9/stepbystep_guide_installing_wavelog_on_windows/",
+        "author": "/u/radiour3ltd"
+      },
+      {
+        "title": "Looking at a G90 - Doing cost research - What all do I need to get it up and running?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi0w3d/looking_at_a_g90_doing_cost_research_what_all_do/",
+        "author": "/u/SmokinDeist"
+      },
+      {
+        "title": "I need help grounding my radio and antenna.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wiat02/i_need_help_grounding_my_radio_and_antenna/",
+        "author": "/u/ExampleAfter1224"
+      },
+      {
+        "title": "2m/70cm antenna on a spring.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi311o/2m70cm_antenna_on_a_spring/",
+        "author": "/u/Puzzleheaded_Mode260"
+      },
+      {
         "title": "Time to get wifi from mars!!",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wh8o6w/time_to_get_wifi_from_mars/",
         "author": "/u/KD3AZZ"
       },
       {
+        "title": "Xiegu G90 receiver loses sensitivity after TX or tune cycle",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wicseu/xiegu_g90_receiver_loses_sensitivity_after_tx_or/",
+        "author": "/u/MarinerMouth"
+      },
+      {
+        "title": "I updated my software. Now during recording and or plotting, the pipeline automatically generates and logs observation metadata, timestamps, AZ/EL and RA/Dec slices, solar, lunar, and Galactic separation checks, and local catalog proximity flags like 3C 286 entirely local, no internet .",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi0ph6/i_updated_my_software_now_during_recording_and_or/",
+        "author": "/u/DeepSpace1420MHZ"
+      },
+      {
+        "title": "Position of Loading Coil",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wi9px7/position_of_loading_coil/",
+        "author": "/u/Electronic_Ad8412"
+      },
+      {
         "title": "Should I pass the UK or Belgium ham radio exam?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1whs6h4/should_i_pass_the_uk_or_belgium_ham_radio_exam/",
         "author": "/u/CClikes20"
-      },
-      {
-        "title": "Tips for Amateur Radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whrgy4/tips_for_amateur_radio/",
-        "author": "/u/zuzu58u"
-      },
-      {
-        "title": "Open HamClock Backend",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whkyjk/open_hamclock_backend/",
-        "author": "/u/SwimmerOdd2188"
-      },
-      {
-        "title": "Am I compensating for something, guys?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wgxwak/am_i_compensating_for_something_guys/",
-        "author": "/u/czerys"
-      },
-      {
-        "title": "Find the cheapest 15/20/40 m HF ham radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whzik2/find_the_cheapest_152040_m_hf_ham_radio/",
-        "author": "/u/Shot-Animal6191"
-      },
-      {
-        "title": "EFHW antenna for terrace? Alternatives?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whqts8/efhw_antenna_for_terrace_alternatives/",
-        "author": "/u/npsoftware"
-      },
-      {
-        "title": "help me to pick my first DMR handheld",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whtrgn/help_me_to_pick_my_first_dmr_handheld/",
-        "author": "/u/neekthefreak"
-      },
-      {
-        "title": "Gobox Update - Receives well. Now waiting on my G90 :)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wh7khb/gobox_update_receives_well_now_waiting_on_my_g90/",
-        "author": "/u/Flimflammerjammer"
-      },
-      {
-        "title": "RF noise help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whkjdl/rf_noise_help/",
-        "author": "/u/Keysurfer64"
-      },
-      {
-        "title": "1933 QSL card from New Jersey",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whlq6j/1933_qsl_card_from_new_jersey/",
-        "author": "/u/Papergreat1970"
-      },
-      {
-        "title": "Motorcycle mobile with a diy mount",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wgwps2/motorcycle_mobile_with_a_diy_mount/",
-        "author": "/u/pishboy"
-      },
-      {
-        "title": "Where can I find one and adapt it, if not, build one?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wh12ay/where_can_i_find_one_and_adapt_it_if_not_build_one/",
-        "author": "/u/TheMorganDev"
-      },
-      {
-        "title": "Its here, Another edition to the family!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wgvxrr/its_here_another_edition_to_the_family/",
-        "author": "/u/MenacedPatchdev"
-      },
-      {
-        "title": "A SDR Tool for educational purposes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whrwjk/a_sdr_tool_for_educational_purposes/",
-        "author": "/u/SDR-USER"
-      },
-      {
-        "title": "I added accurate copper loss to my RF simulator",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wh4ux2/i_added_accurate_copper_loss_to_my_rf_simulator/",
-        "author": "/u/xzipped"
-      },
-      {
-        "title": "Kit building - has anyone build a (tr)usdx",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whimc2/kit_building_has_anyone_build_a_trusdx/",
-        "author": "/u/True_Certitude"
-      },
-      {
-        "title": "MOSFET Linear Amplifiers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wh7von/mosfet_linear_amplifiers/",
-        "author": "/u/Minute-Gas-6154"
-      },
-      {
-        "title": "ARDC is Recruiting Volunteers for our 2027 Committees",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whbx32/ardc_is_recruiting_volunteers_for_our_2027/",
-        "author": "/u/ARDC_73"
-      },
-      {
-        "title": "MacOS Golden Gate",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wh8gxb/macos_golden_gate/",
-        "author": "/u/No_Morning_1874"
-      },
-      {
-        "title": "APRS Android APP (Radtel 950 Pro -- BTech UV PRO)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1whj73m/aprs_android_app_radtel_950_pro_btech_uv_pro/",
-        "author": "/u/falconx26"
-      },
-      {
-        "title": "Trying to start a radio club on a college campus and don\u2019t know where to start",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wga6yz/trying_to_start_a_radio_club_on_a_college_campus/",
-        "author": "/u/a_complex_kid"
-      },
-      {
-        "title": "Just heard \u201cThe Buckeye Net\u201d kick a POTA operator off \u201ctheir frequency\u201d because \u201cwe have been running a net here for 40 years.\u201d",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wg6rcl/just_heard_the_buckeye_net_kick_a_pota_operator/",
-        "author": "/u/l8nightbusdrivr"
       }
     ]
   }

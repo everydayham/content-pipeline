@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:36:43.904054",
+  "updated": "2026-09-21T16:51:23.938387",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wg2ry7/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,84 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Golden Gate POTA",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wm54z6/golden_gate_pota/",
+        "author": "/u/rossog93"
+      },
+      {
+        "title": "I thought today was my day...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/",
+        "author": "/u/Gigem1987"
+      },
+      {
+        "title": "Modern Morse",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmdn66/modern_morse/",
+        "author": "/u/TwistOk796"
+      },
+      {
+        "title": "Prepping for coax installation project - check my thinking please",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmgs8n/prepping_for_coax_installation_project_check_my/",
+        "author": "/u/Gigem1987"
+      },
+      {
+        "title": "G7250",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmdwgd/g7250/",
+        "author": "/u/electragician"
+      },
+      {
+        "title": "Is it cool to post pictures of old QSL cards?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wm41o3/is_it_cool_to_post_pictures_of_old_qsl_cards/",
+        "author": "/u/No-Weird3547"
+      },
+      {
+        "title": "Does this look like a FT240-31?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmdcnx/does_this_look_like_a_ft24031/",
+        "author": "/u/troublemaker74"
+      },
+      {
+        "title": "Station g3 build",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmh88c/station_g3_build/",
+        "author": "/u/CriticismMelodic7341"
+      },
+      {
+        "title": "Help with attaching BNC connectors to coax",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wmchi3/help_with_attaching_bnc_connectors_to_coax/",
+        "author": "/u/ImaginaryDisplay599"
+      },
+      {
+        "title": "Btech uv50 pro Manpack",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlpa9f/btech_uv50_pro_manpack/",
+        "author": "/u/SD_TAC1"
+      },
+      {
+        "title": "FFLY Paddle V3 - update",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wln17q/ffly_paddle_v3_update/",
+        "author": "/u/Firefly_instruments"
+      },
+      {
+        "title": "Fun Mapping Tool",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlpe3k/fun_mapping_tool/",
+        "author": "/u/Unusual_Maize5369"
+      },
+      {
+        "title": "Solar Components and RI",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wm3w88/solar_components_and_ri/",
+        "author": "/u/Acceptable-Load6607"
+      },
+      {
+        "title": "Powerline QRM monitor now has SDR support",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlp0ax/powerline_qrm_monitor_now_has_sdr_support/",
+        "author": "/u/spatula"
+      },
+      {
         "title": "My POTA site was a crime scene today",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wl7nwp/my_pota_site_was_a_crime_scene_today/",
         "author": "/u/CHEFCHEVRE"
+      },
+      {
+        "title": "New to cw",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlpeli/new_to_cw/",
+        "author": "/u/popeye2057"
       },
       {
         "title": "Doug Hendricks (KI6DS) SK.",
@@ -32,104 +107,29 @@
         "author": "/u/grendelt"
       },
       {
-        "title": "Mobile install",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wlehq8/mobile_install/",
-        "author": "/u/Mowbag"
+        "title": "How can I connect an oscilloscope to a Panasonic SG-D15 hifi system?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wm7z81/how_can_i_connect_an_oscilloscope_to_a_panasonic/",
+        "author": "/u/evancarroll09"
       },
       {
-        "title": "Hustler 4btv radials and traps",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wks7mg/hustler_4btv_radials_and_traps/",
-        "author": "/u/xdm21"
+        "title": "Get the Apache 4800 for G90 instead of 3800?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlkzdw/get_the_apache_4800_for_g90_instead_of_3800/",
+        "author": "/u/MinerAlum"
       },
       {
-        "title": "Navy flameproof key knob dimensions",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wlfo7q/navy_flameproof_key_knob_dimensions/",
-        "author": "/u/g4lvanix"
+        "title": "Xiegu G90 and CWGet",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlmoj1/xiegu_g90_and_cwget/",
+        "author": "/u/zerchil"
       },
       {
-        "title": "Looking for TK-840/TK-840N/TK-841/TK-940/TK-941 owners to help test CHIRP support",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wl7rj5/looking_for_tk840tk840ntk841tk940tk941_owners_to/",
-        "author": "/u/Dave420Fun"
+        "title": "How would I calculate the expected voltage across an ideal dipole?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlt1cf/how_would_i_calculate_the_expected_voltage_across/",
+        "author": "/u/penguin359"
       },
       {
-        "title": "To join the ARRL or not??",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wks9b8/to_join_the_arrl_or_not/",
-        "author": "/u/Comfortable-Fan8712"
-      },
-      {
-        "title": "Tr(usdx) broke a month or two ago and questions on repairing or repurposing.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wkz84h/trusdx_broke_a_month_or_two_ago_and_questions_on/",
-        "author": "/u/TheMorganDev"
-      },
-      {
-        "title": "FT60r programming issue",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wl7gt1/ft60r_programming_issue/",
-        "author": "/u/thesavo"
-      },
-      {
-        "title": "My best yet RAW SDR HI Drift. Same slice I\u2019ve been testing at. Raw SDR through a 2\u00d7 44.1 kHz internal pipeline feeding recorder, with the science channel kept 436 kHz off the SDR center and digitally translated back before the Continuum pipeline.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wl5uep/my_best_yet_raw_sdr_hi_drift_same_slice_ive_been/",
-        "author": "/u/DeepSpace1420MHZ"
-      },
-      {
-        "title": "I'm looking for a device on DMR handheld",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wl0rh2/im_looking_for_a_device_on_dmr_handheld/",
-        "author": "/u/clumpytrack711"
-      },
-      {
-        "title": "CQ POTA CQ SOTA on the straight key! TS-1 and a Xiegu X6100 on my last backpacking trip. W4V/FC-021",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wjs2ph/cq_pota_cq_sota_on_the_straight_key_ts1_and_a/",
-        "author": "/u/jadencermakhosein"
-      },
-      {
-        "title": "What is the minimum entry dual-band mobile?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wkolyd/what_is_the_minimum_entry_dualband_mobile/",
-        "author": "/u/No_Change_4499"
-      },
-      {
-        "title": "Do you carry a HT on you daily? If so why?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wk4chk/do_you_carry_a_ht_on_you_daily_if_so_why/",
-        "author": "/u/SweatyKeith69"
-      },
-      {
-        "title": "CW training on a Kenwood TS 2000",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wks7we/cw_training_on_a_kenwood_ts_2000/",
-        "author": "/u/sweetnessfnerk"
-      },
-      {
-        "title": "Rigexpert Choice",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wkmirb/rigexpert_choice/",
-        "author": "/u/Frjeff"
-      },
-      {
-        "title": "PocketCHIRP \u2014 Android Radio Programming via Bluetooth & USB",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wkmt51/pocketchirp_android_radio_programming_via/",
-        "author": "/u/HamLife-org"
-      },
-      {
-        "title": "RI1FJZ - Franz Josef Land",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wk9l89/ri1fjz_franz_josef_land/",
-        "author": "/u/FarFigNewton007"
-      },
-      {
-        "title": "Does anyone know what Racal \u201cProject 118\u201d was? \u2014 RA1792/ST80730 \u201cMade in Syria\u201d",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wjtcib/does_anyone_know_what_racal_project_118_was/",
-        "author": "/u/Financial-Spray-6320"
-      },
-      {
-        "title": "Need help with interference",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wklr6w/need_help_with_interference/",
-        "author": "/u/Brief_Diver8873"
-      },
-      {
-        "title": "RTL SDR doesn\u2019t work properly",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wkteys/rtl_sdr_doesnt_work_properly/",
-        "author": "/u/Vast-Air-5087"
-      },
-      {
-        "title": "So uuh... Literally Zero Sunspots Today?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wjwgdw/so_uuh_literally_zero_sunspots_today/",
-        "author": "/u/AKoutdoorguy"
+        "title": "Question about APRS on TM-D750",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wlqeqo/question_about_aprs_on_tmd750/",
+        "author": "/u/Dr_Ciphers"
       }
     ]
   }

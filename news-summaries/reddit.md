@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-21 16:51 UTC*
+*Last updated: 2026-09-22 15:26 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Golden Gate POTA](https://www.reddit.com/r/amateurradio/comments/1wm54z6/golden_gate_pota/)**
+**3. [A small win for Amateur Radio, but the spectrum fight isn’t over…](https://www.reddit.com/r/amateurradio/comments/1wmpoaa/a_small_win_for_amateur_radio_but_the_spectrum/)**
+by u/LollieLoo
+
+**4. [100 years Austrian Amateur Radio Club - 100 Jahre OEVSV](https://www.reddit.com/r/amateurradio/comments/1wmqct1/100_years_austrian_amateur_radio_club_100_jahre/)**
+by u/jschundpeter
+
+**5. [What can you guys tell me about this equipment?](https://www.reddit.com/r/amateurradio/comments/1wmtmf0/what_can_you_guys_tell_me_about_this_equipment/)**
+by u/Radiomaster138
+
+**6. [JTDX_contest v3.0.0-rc08 with experimental SuperFox support available for downlo...](https://www.reddit.com/r/amateurradio/comments/1wn9oz9/jtdx_contest_v300rc08_with_experimental_superfox/)**
+by u/Responsible-Sell6312
+
+**7. [TX-500 + EFHW: CAT drops when transmitting FT8 above ~1 W](https://www.reddit.com/r/amateurradio/comments/1wn66i2/tx500_efhw_cat_drops_when_transmitting_ft8_above/)**
+by u/ksetdekov
+
+**8. [db50 microphone replacement?](https://www.reddit.com/r/amateurradio/comments/1wnan5n/db50_microphone_replacement/)**
+by u/Zealousideal-Ad-9453
+
+**9. [I thought today was my day...](https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/)**
+by u/Gigem1987
+
+**10. [General exam study](https://www.reddit.com/r/amateurradio/comments/1wmvt3n/general_exam_study/)**
+by u/Fragrant-Hand6549
+
+**11. [Cercasi tester per app radioamatoriale](https://www.reddit.com/r/amateurradio/comments/1wn1wsu/cercasi_tester_per_app_radioamatoriale/)**
+by u/andrix74
+
+**12. [That would be amazing. Now wait and hope.](https://www.reddit.com/r/amateurradio/comments/1wmlsgi/that_would_be_amazing_now_wait_and_hope/)**
+by u/Nilsss63
+
+**13. [Golden Gate POTA](https://www.reddit.com/r/amateurradio/comments/1wm54z6/golden_gate_pota/)**
 by u/rossog93
 
-**4. [I thought today was my day...](https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/)**
-by u/Gigem1987
+**14. [How To DC to DC Charging](https://www.reddit.com/r/amateurradio/comments/1wmo11h/how_to_dc_to_dc_charging/)**
+by u/Fun-Attempt-8494
 
-**5. [Modern Morse](https://www.reddit.com/r/amateurradio/comments/1wmdn66/modern_morse/)**
-by u/TwistOk796
-
-**6. [Prepping for coax installation project - check my thinking please](https://www.reddit.com/r/amateurradio/comments/1wmgs8n/prepping_for_coax_installation_project_check_my/)**
-by u/Gigem1987
-
-**7. [G7250](https://www.reddit.com/r/amateurradio/comments/1wmdwgd/g7250/)**
+**15. [G7250](https://www.reddit.com/r/amateurradio/comments/1wmdwgd/g7250/)**
 by u/electragician
-
-**8. [Is it cool to post pictures of old QSL cards?](https://www.reddit.com/r/amateurradio/comments/1wm41o3/is_it_cool_to_post_pictures_of_old_qsl_cards/)**
-by u/No-Weird3547
-
-**9. [Does this look like a FT240-31?](https://www.reddit.com/r/amateurradio/comments/1wmdcnx/does_this_look_like_a_ft24031/)**
-by u/troublemaker74
-
-**10. [Station g3 build](https://www.reddit.com/r/amateurradio/comments/1wmh88c/station_g3_build/)**
-by u/CriticismMelodic7341
-
-**11. [Help with attaching BNC connectors to coax](https://www.reddit.com/r/amateurradio/comments/1wmchi3/help_with_attaching_bnc_connectors_to_coax/)**
-by u/ImaginaryDisplay599
-
-**12. [Btech uv50 pro Manpack](https://www.reddit.com/r/amateurradio/comments/1wlpa9f/btech_uv50_pro_manpack/)**
-by u/SD_TAC1
-
-**13. [FFLY Paddle V3 - update](https://www.reddit.com/r/amateurradio/comments/1wln17q/ffly_paddle_v3_update/)**
-by u/Firefly_instruments
-
-**14. [Fun Mapping Tool](https://www.reddit.com/r/amateurradio/comments/1wlpe3k/fun_mapping_tool/)**
-by u/Unusual_Maize5369
-
-**15. [Solar Components and RI](https://www.reddit.com/r/amateurradio/comments/1wm3w88/solar_components_and_ri/)**
-by u/Acceptable-Load6607
 
 ---
 
@@ -61,14 +61,14 @@ by u/Acceptable-Load6607
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Golden Gate POTA](https://www.reddit.com/r/amateurradio/comments/1wm54z6/golden_gate_pota/)** (r/amateurradio)
+- **[A small win for Amateur Radio, but the spectrum fight isn’t over…](https://www.reddit.com/r/amateurradio/comments/1wmpoaa/a_small_win_for_amateur_radio_but_the_spectrum/)** (r/amateurradio)
+- **[100 years Austrian Amateur Radio Club - 100 Jahre OEVSV](https://www.reddit.com/r/amateurradio/comments/1wmqct1/100_years_austrian_amateur_radio_club_100_jahre/)** (r/amateurradio)
+- **[What can you guys tell me about this equipment?](https://www.reddit.com/r/amateurradio/comments/1wmtmf0/what_can_you_guys_tell_me_about_this_equipment/)** (r/amateurradio)
+- **[JTDX_contest v3.0.0-rc08 with experimental SuperFox support available ...](https://www.reddit.com/r/amateurradio/comments/1wn9oz9/jtdx_contest_v300rc08_with_experimental_superfox/)** (r/amateurradio)
+- **[TX-500 + EFHW: CAT drops when transmitting FT8 above ~1 W](https://www.reddit.com/r/amateurradio/comments/1wn66i2/tx500_efhw_cat_drops_when_transmitting_ft8_above/)** (r/amateurradio)
+- **[db50 microphone replacement?](https://www.reddit.com/r/amateurradio/comments/1wnan5n/db50_microphone_replacement/)** (r/amateurradio)
 - **[I thought today was my day...](https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/)** (r/amateurradio)
-- **[Modern Morse](https://www.reddit.com/r/amateurradio/comments/1wmdn66/modern_morse/)** (r/amateurradio)
-- **[Prepping for coax installation project - check my thinking please](https://www.reddit.com/r/amateurradio/comments/1wmgs8n/prepping_for_coax_installation_project_check_my/)** (r/amateurradio)
-- **[G7250](https://www.reddit.com/r/amateurradio/comments/1wmdwgd/g7250/)** (r/amateurradio)
-- **[Is it cool to post pictures of old QSL cards?](https://www.reddit.com/r/amateurradio/comments/1wm41o3/is_it_cool_to_post_pictures_of_old_qsl_cards/)** (r/amateurradio)
-- **[Does this look like a FT240-31?](https://www.reddit.com/r/amateurradio/comments/1wmdcnx/does_this_look_like_a_ft24031/)** (r/amateurradio)
-- **[Station g3 build](https://www.reddit.com/r/amateurradio/comments/1wmh88c/station_g3_build/)** (r/amateurradio)
+- **[General exam study](https://www.reddit.com/r/amateurradio/comments/1wmvt3n/general_exam_study/)** (r/amateurradio)
 
 ---
 

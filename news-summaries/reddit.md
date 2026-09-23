@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-22 15:26 UTC*
+*Last updated: 2026-09-23 15:21 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [A small win for Amateur Radio, but the spectrum fight isn’t over…](https://www.reddit.com/r/amateurradio/comments/1wmpoaa/a_small_win_for_amateur_radio_but_the_spectrum/)**
-by u/LollieLoo
+**3. [Passed my general!](https://www.reddit.com/r/amateurradio/comments/1wnsoox/passed_my_general/)**
+by u/grapechicken26
 
-**4. [100 years Austrian Amateur Radio Club - 100 Jahre OEVSV](https://www.reddit.com/r/amateurradio/comments/1wmqct1/100_years_austrian_amateur_radio_club_100_jahre/)**
-by u/jschundpeter
+**4. [What are they listening to?](https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/)**
+by u/Jvinsnes
 
-**5. [What can you guys tell me about this equipment?](https://www.reddit.com/r/amateurradio/comments/1wmtmf0/what_can_you_guys_tell_me_about_this_equipment/)**
-by u/Radiomaster138
+**5. [Transmitting VHF Morse Code via Smartphone Class-D Audio Amplifier Harmonics (No...](https://www.reddit.com/r/amateurradio/comments/1wo6wfg/transmitting_vhf_morse_code_via_smartphone_classd/)**
+by u/RixyPham
 
-**6. [JTDX_contest v3.0.0-rc08 with experimental SuperFox support available for downlo...](https://www.reddit.com/r/amateurradio/comments/1wn9oz9/jtdx_contest_v300rc08_with_experimental_superfox/)**
-by u/Responsible-Sell6312
+**6. [Maybe the dumbest question ever asked.](https://www.reddit.com/r/amateurradio/comments/1wnz6d7/maybe_the_dumbest_question_ever_asked/)**
+by u/BrittSit
 
-**7. [TX-500 + EFHW: CAT drops when transmitting FT8 above ~1 W](https://www.reddit.com/r/amateurradio/comments/1wn66i2/tx500_efhw_cat_drops_when_transmitting_ft8_above/)**
-by u/ksetdekov
+**7. [Fiberglass poles are for casuals... this is how POTA gets done!!](https://www.reddit.com/r/amateurradio/comments/1wnpk3e/fiberglass_poles_are_for_casuals_this_is_how_pota/)**
+by u/Feminist_Hugh_Hefner
 
-**8. [db50 microphone replacement?](https://www.reddit.com/r/amateurradio/comments/1wnan5n/db50_microphone_replacement/)**
-by u/Zealousideal-Ad-9453
+**8. [HOA buster gutter antenna](https://www.reddit.com/r/amateurradio/comments/1wo7l26/hoa_buster_gutter_antenna/)**
+by u/onebaddude14
 
-**9. [I thought today was my day...](https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/)**
-by u/Gigem1987
+**9. [Que tan buenas son las antenas dipolo acortadas con bobinas de carga?](https://www.reddit.com/r/amateurradio/comments/1wo8onm/que_tan_buenas_son_las_antenas_dipolo_acortadas/)**
+by u/UserCuba_2901
 
-**10. [General exam study](https://www.reddit.com/r/amateurradio/comments/1wmvt3n/general_exam_study/)**
-by u/Fragrant-Hand6549
+**10. [Grid Madness Tips](https://www.reddit.com/r/amateurradio/comments/1wnxqf0/grid_madness_tips/)**
+by u/Grievmaster
 
-**11. [Cercasi tester per app radioamatoriale](https://www.reddit.com/r/amateurradio/comments/1wn1wsu/cercasi_tester_per_app_radioamatoriale/)**
-by u/andrix74
+**11. [Calling all FT-857D users...](https://www.reddit.com/r/amateurradio/comments/1wnl81s/calling_all_ft857d_users/)**
+by u/km4yor
 
-**12. [That would be amazing. Now wait and hope.](https://www.reddit.com/r/amateurradio/comments/1wmlsgi/that_would_be_amazing_now_wait_and_hope/)**
-by u/Nilsss63
+**12. [Attaching an EFHW to chimney top](https://www.reddit.com/r/amateurradio/comments/1wnowtc/attaching_an_efhw_to_chimney_top/)**
+by u/Litleck
 
-**13. [Golden Gate POTA](https://www.reddit.com/r/amateurradio/comments/1wm54z6/golden_gate_pota/)**
-by u/rossog93
+**13. [ARRL Handbook](https://www.reddit.com/r/amateurradio/comments/1wnhrou/arrl_handbook/)**
+by u/kaa1281
 
-**14. [How To DC to DC Charging](https://www.reddit.com/r/amateurradio/comments/1wmo11h/how_to_dc_to_dc_charging/)**
-by u/Fun-Attempt-8494
+**14. [Putting together a DMR conversion proposal for our club 70cm, need a sanity chec...](https://www.reddit.com/r/amateurradio/comments/1wnu5fn/putting_together_a_dmr_conversion_proposal_for/)**
+by u/starolbrin
 
-**15. [G7250](https://www.reddit.com/r/amateurradio/comments/1wmdwgd/g7250/)**
-by u/electragician
+**15. [Which budget handheld for newly licensed friend?](https://www.reddit.com/r/amateurradio/comments/1wndrk0/which_budget_handheld_for_newly_licensed_friend/)**
+by u/MasterGamer9595
 
 ---
 
@@ -61,14 +61,14 @@ by u/electragician
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[A small win for Amateur Radio, but the spectrum fight isn’t over…](https://www.reddit.com/r/amateurradio/comments/1wmpoaa/a_small_win_for_amateur_radio_but_the_spectrum/)** (r/amateurradio)
-- **[100 years Austrian Amateur Radio Club - 100 Jahre OEVSV](https://www.reddit.com/r/amateurradio/comments/1wmqct1/100_years_austrian_amateur_radio_club_100_jahre/)** (r/amateurradio)
-- **[What can you guys tell me about this equipment?](https://www.reddit.com/r/amateurradio/comments/1wmtmf0/what_can_you_guys_tell_me_about_this_equipment/)** (r/amateurradio)
-- **[JTDX_contest v3.0.0-rc08 with experimental SuperFox support available ...](https://www.reddit.com/r/amateurradio/comments/1wn9oz9/jtdx_contest_v300rc08_with_experimental_superfox/)** (r/amateurradio)
-- **[TX-500 + EFHW: CAT drops when transmitting FT8 above ~1 W](https://www.reddit.com/r/amateurradio/comments/1wn66i2/tx500_efhw_cat_drops_when_transmitting_ft8_above/)** (r/amateurradio)
-- **[db50 microphone replacement?](https://www.reddit.com/r/amateurradio/comments/1wnan5n/db50_microphone_replacement/)** (r/amateurradio)
-- **[I thought today was my day...](https://www.reddit.com/r/amateurradio/comments/1wmhliy/i_thought_today_was_my_day/)** (r/amateurradio)
-- **[General exam study](https://www.reddit.com/r/amateurradio/comments/1wmvt3n/general_exam_study/)** (r/amateurradio)
+- **[Passed my general!](https://www.reddit.com/r/amateurradio/comments/1wnsoox/passed_my_general/)** (r/amateurradio)
+- **[What are they listening to?](https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/)** (r/amateurradio)
+- **[Transmitting VHF Morse Code via Smartphone Class-D Audio Amplifier Har...](https://www.reddit.com/r/amateurradio/comments/1wo6wfg/transmitting_vhf_morse_code_via_smartphone_classd/)** (r/amateurradio)
+- **[Maybe the dumbest question ever asked.](https://www.reddit.com/r/amateurradio/comments/1wnz6d7/maybe_the_dumbest_question_ever_asked/)** (r/amateurradio)
+- **[Fiberglass poles are for casuals... this is how POTA gets done!!](https://www.reddit.com/r/amateurradio/comments/1wnpk3e/fiberglass_poles_are_for_casuals_this_is_how_pota/)** (r/amateurradio)
+- **[HOA buster gutter antenna](https://www.reddit.com/r/amateurradio/comments/1wo7l26/hoa_buster_gutter_antenna/)** (r/amateurradio)
+- **[Que tan buenas son las antenas dipolo acortadas con bobinas de carga?](https://www.reddit.com/r/amateurradio/comments/1wo8onm/que_tan_buenas_son_las_antenas_dipolo_acortadas/)** (r/amateurradio)
+- **[Grid Madness Tips](https://www.reddit.com/r/amateurradio/comments/1wnxqf0/grid_madness_tips/)** (r/amateurradio)
 
 ---
 

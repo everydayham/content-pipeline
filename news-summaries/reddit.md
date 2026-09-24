@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-23 15:21 UTC*
+*Last updated: 2026-09-24 15:44 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Passed my general!](https://www.reddit.com/r/amateurradio/comments/1wnsoox/passed_my_general/)**
-by u/grapechicken26
+**3. [Xiegu is the linux of amateur radio](https://www.reddit.com/r/amateurradio/comments/1wovcac/xiegu_is_the_linux_of_amateur_radio/)**
+by u/RedwoodsClimber
 
-**4. [What are they listening to?](https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/)**
+**4. [KK1LL Knife Antenna](https://www.reddit.com/r/amateurradio/comments/1wowf1i/kk1ll_knife_antenna/)**
+by u/Witty-Party-3565
+
+**5. [Lots of CW](https://www.reddit.com/r/amateurradio/comments/1wozwmg/lots_of_cw/)**
+by u/Spare-Elderberry9956
+
+**6. [CW: is it normal to be significantly better at sending compared to receiving?](https://www.reddit.com/r/amateurradio/comments/1wp0q0a/cw_is_it_normal_to_be_significantly_better_at/)**
+by u/Nilsss63
+
+**7. [N8PIC QRP Microphones, Price Increase on October 1st, 2026](https://www.reddit.com/r/amateurradio/comments/1wp02nk/n8pic_qrp_microphones_price_increase_on_october/)**
+by u/PicklesTehButt
+
+**8. [Has anyone used their shower door as an antenna?](https://www.reddit.com/r/amateurradio/comments/1woxdug/has_anyone_used_their_shower_door_as_an_antenna/)**
+by u/-engiblogger-
+
+**9. [Left my antenna at school so I had to improvise.](https://www.reddit.com/r/amateurradio/comments/1womt8q/left_my_antenna_at_school_so_i_had_to_improvise/)**
+by u/RedwoodsClimber
+
+**10. [What are they listening to?](https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/)**
 by u/Jvinsnes
 
-**5. [Transmitting VHF Morse Code via Smartphone Class-D Audio Amplifier Harmonics (No...](https://www.reddit.com/r/amateurradio/comments/1wo6wfg/transmitting_vhf_morse_code_via_smartphone_classd/)**
-by u/RixyPham
+**11. [Quansheng alt firmware support in webchirp.org](https://www.reddit.com/r/amateurradio/comments/1wovyz5/quansheng_alt_firmware_support_in_webchirporg/)**
+by u/jasiek83
 
-**6. [Maybe the dumbest question ever asked.](https://www.reddit.com/r/amateurradio/comments/1wnz6d7/maybe_the_dumbest_question_ever_asked/)**
-by u/BrittSit
+**12. [Alternate FT8 Frequencies](https://www.reddit.com/r/amateurradio/comments/1wooeh1/alternate_ft8_frequencies/)**
+by u/Sunset1hiker
 
-**7. [Fiberglass poles are for casuals... this is how POTA gets done!!](https://www.reddit.com/r/amateurradio/comments/1wnpk3e/fiberglass_poles_are_for_casuals_this_is_how_pota/)**
-by u/Feminist_Hugh_Hefner
+**13. [Im new to radio, is this normal?](https://www.reddit.com/r/amateurradio/comments/1wor2vv/im_new_to_radio_is_this_normal/)**
+by u/ShiftOk1330
 
-**8. [HOA buster gutter antenna](https://www.reddit.com/r/amateurradio/comments/1wo7l26/hoa_buster_gutter_antenna/)**
-by u/onebaddude14
+**14. [Antenna Build Advice](https://www.reddit.com/r/amateurradio/comments/1wor69u/antenna_build_advice/)**
+by u/Jadenclark_0114
 
-**9. [Que tan buenas son las antenas dipolo acortadas con bobinas de carga?](https://www.reddit.com/r/amateurradio/comments/1wo8onm/que_tan_buenas_son_las_antenas_dipolo_acortadas/)**
-by u/UserCuba_2901
-
-**10. [Grid Madness Tips](https://www.reddit.com/r/amateurradio/comments/1wnxqf0/grid_madness_tips/)**
-by u/Grievmaster
-
-**11. [Calling all FT-857D users...](https://www.reddit.com/r/amateurradio/comments/1wnl81s/calling_all_ft857d_users/)**
-by u/km4yor
-
-**12. [Attaching an EFHW to chimney top](https://www.reddit.com/r/amateurradio/comments/1wnowtc/attaching_an_efhw_to_chimney_top/)**
-by u/Litleck
-
-**13. [ARRL Handbook](https://www.reddit.com/r/amateurradio/comments/1wnhrou/arrl_handbook/)**
-by u/kaa1281
-
-**14. [Putting together a DMR conversion proposal for our club 70cm, need a sanity chec...](https://www.reddit.com/r/amateurradio/comments/1wnu5fn/putting_together_a_dmr_conversion_proposal_for/)**
-by u/starolbrin
-
-**15. [Which budget handheld for newly licensed friend?](https://www.reddit.com/r/amateurradio/comments/1wndrk0/which_budget_handheld_for_newly_licensed_friend/)**
-by u/MasterGamer9595
+**15. [African "pay for QSL" scam?](https://www.reddit.com/r/amateurradio/comments/1woh22d/african_pay_for_qsl_scam/)**
+by u/Gigem1987
 
 ---
 
@@ -61,14 +61,14 @@ by u/MasterGamer9595
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Passed my general!](https://www.reddit.com/r/amateurradio/comments/1wnsoox/passed_my_general/)** (r/amateurradio)
+- **[Xiegu is the linux of amateur radio](https://www.reddit.com/r/amateurradio/comments/1wovcac/xiegu_is_the_linux_of_amateur_radio/)** (r/amateurradio)
+- **[KK1LL Knife Antenna](https://www.reddit.com/r/amateurradio/comments/1wowf1i/kk1ll_knife_antenna/)** (r/amateurradio)
+- **[Lots of CW](https://www.reddit.com/r/amateurradio/comments/1wozwmg/lots_of_cw/)** (r/amateurradio)
+- **[CW: is it normal to be significantly better at sending compared to rec...](https://www.reddit.com/r/amateurradio/comments/1wp0q0a/cw_is_it_normal_to_be_significantly_better_at/)** (r/amateurradio)
+- **[N8PIC QRP Microphones, Price Increase on October 1st, 2026](https://www.reddit.com/r/amateurradio/comments/1wp02nk/n8pic_qrp_microphones_price_increase_on_october/)** (r/amateurradio)
+- **[Has anyone used their shower door as an antenna?](https://www.reddit.com/r/amateurradio/comments/1woxdug/has_anyone_used_their_shower_door_as_an_antenna/)** (r/amateurradio)
+- **[Left my antenna at school so I had to improvise.](https://www.reddit.com/r/amateurradio/comments/1womt8q/left_my_antenna_at_school_so_i_had_to_improvise/)** (r/amateurradio)
 - **[What are they listening to?](https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/)** (r/amateurradio)
-- **[Transmitting VHF Morse Code via Smartphone Class-D Audio Amplifier Har...](https://www.reddit.com/r/amateurradio/comments/1wo6wfg/transmitting_vhf_morse_code_via_smartphone_classd/)** (r/amateurradio)
-- **[Maybe the dumbest question ever asked.](https://www.reddit.com/r/amateurradio/comments/1wnz6d7/maybe_the_dumbest_question_ever_asked/)** (r/amateurradio)
-- **[Fiberglass poles are for casuals... this is how POTA gets done!!](https://www.reddit.com/r/amateurradio/comments/1wnpk3e/fiberglass_poles_are_for_casuals_this_is_how_pota/)** (r/amateurradio)
-- **[HOA buster gutter antenna](https://www.reddit.com/r/amateurradio/comments/1wo7l26/hoa_buster_gutter_antenna/)** (r/amateurradio)
-- **[Que tan buenas son las antenas dipolo acortadas con bobinas de carga?](https://www.reddit.com/r/amateurradio/comments/1wo8onm/que_tan_buenas_son_las_antenas_dipolo_acortadas/)** (r/amateurradio)
-- **[Grid Madness Tips](https://www.reddit.com/r/amateurradio/comments/1wnxqf0/grid_madness_tips/)** (r/amateurradio)
 
 ---
 

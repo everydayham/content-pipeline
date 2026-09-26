@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T15:45:28.340389",
+  "updated": "2026-09-26T14:54:52.305703",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,69 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "My chocolate bar says it is infused with 528 Hz.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/",
+        "author": "/u/EntropyNegotiator"
+      },
+      {
+        "title": "iOS MorseMania CW key interface",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wqd9lm/ios_morsemania_cw_key_interface/",
+        "author": "/u/05dc"
+      },
+      {
+        "title": "Homebrew loaded telescopic dipole field test on FT8 \u2014 pretty impressed with the results!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wqjxm7/homebrew_loaded_telescopic_dipole_field_test_on/",
+        "author": "/u/RozzKiv"
+      },
+      {
+        "title": "Whatever happened to Narrow FM on VHF?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq9lm5/whatever_happened_to_narrow_fm_on_vhf/",
+        "author": "/u/Zealousideal_Ad5358"
+      },
+      {
         "title": "Wine Bottle Antenna",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wprw2y/wine_bottle_antenna/",
         "author": "/u/Witty-Party-3565"
       },
       {
+        "title": "What are some good YSF rooms to check out?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wqkiwy/what_are_some_good_ysf_rooms_to_check_out/",
+        "author": "/u/Skovkatt-"
+      },
+      {
+        "title": "Upgraded to General, Need Equipment Advice",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq7yyp/upgraded_to_general_need_equipment_advice/",
+        "author": "/u/cjscout06"
+      },
+      {
+        "title": "How do you install a TRAM 1480 (I believe it is one)? I know VERY little about vertical antennas. Does one of the bent rods affect tx and rx?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq7qog/how_do_you_install_a_tram_1480_i_believe_it_is/",
+        "author": "/u/Fun-Delivery6192"
+      },
+      {
+        "title": "2m antenna building, j-pole vs flower pot",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq8zx9/2m_antenna_building_jpole_vs_flower_pot/",
+        "author": "/u/irish1185"
+      },
+      {
+        "title": "630m and 2200m the best receiver",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq8ecq/630m_and_2200m_the_best_receiver/",
+        "author": "/u/inoru1"
+      },
+      {
+        "title": "If vanity call sign 18th day is Saturday, will it not happen until Monday or Tuesday?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wqappj/if_vanity_call_sign_18th_day_is_saturday_will_it/",
+        "author": "/u/RogueKnave"
+      },
+      {
         "title": "What\u2019s your best Ham Radio jokes?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wpoy81/whats_your_best_ham_radio_jokes/",
         "author": "/u/KE2DBB"
+      },
+      {
+        "title": "SWR meter difficulties",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq3q3d/swr_meter_difficulties/",
+        "author": "/u/Stavrogin78"
       },
       {
         "title": "Does Anyone Collect Old QSL Cards?",
@@ -37,6 +92,21 @@
         "author": "/u/johnarak"
       },
       {
+        "title": "Loads of RF noise from an EG4 12000XP Inverter/Charger",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq8ppt/loads_of_rf_noise_from_an_eg4_12000xp/",
+        "author": "/u/CaptainSpez"
+      },
+      {
+        "title": "Soup Can Shortwave 'Vanyusha' regenerative receiver",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wq3ich/soup_can_shortwave_vanyusha_regenerative_receiver/",
+        "author": "/u/G7VFY"
+      },
+      {
+        "title": "Is it just me or is sporadic E ridiculously crazy these days?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wpjm8a/is_it_just_me_or_is_sporadic_e_ridiculously_crazy/",
+        "author": "/u/ye3tr"
+      },
+      {
         "title": "Regenerative Receiver Raymond Haigh. Update.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wpabbt/regenerative_receiver_raymond_haigh_update/",
         "author": "/u/RegenerativeRadioSwe"
@@ -45,11 +115,6 @@
         "title": "Xiegu is the linux of amateur radio",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wovcac/xiegu_is_the_linux_of_amateur_radio/",
         "author": "/u/RedwoodsClimber"
-      },
-      {
-        "title": "Is it just me or is sporadic E ridiculously crazy these days?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wpjm8a/is_it_just_me_or_is_sporadic_e_ridiculously_crazy/",
-        "author": "/u/ye3tr"
       },
       {
         "title": "Lots of CW",
@@ -65,71 +130,6 @@
         "title": "Repeater builders: finding a used duplexer",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wpksif/repeater_builders_finding_a_used_duplexer/",
         "author": "/u/danond"
-      },
-      {
-        "title": "KK1LL Knife Antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wowf1i/kk1ll_knife_antenna/",
-        "author": "/u/Witty-Party-3565"
-      },
-      {
-        "title": "CW: is it normal to be significantly better at sending compared to receiving?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wp0q0a/cw_is_it_normal_to_be_significantly_better_at/",
-        "author": "/u/Nilsss63"
-      },
-      {
-        "title": "Old radios",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wp7ipw/old_radios/",
-        "author": "/u/soksokkebap"
-      },
-      {
-        "title": "Any interest in HOTA? (Hospitals On The Air)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wpuuu3/any_interest_in_hota_hospitals_on_the_air/",
-        "author": "/u/CaptainMatthias"
-      },
-      {
-        "title": "N8PIC QRP Microphones, Price Increase on October 1st, 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wp02nk/n8pic_qrp_microphones_price_increase_on_october/",
-        "author": "/u/PicklesTehButt"
-      },
-      {
-        "title": "Has anyone used their shower door as an antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1woxdug/has_anyone_used_their_shower_door_as_an_antenna/",
-        "author": "/u/-engiblogger-"
-      },
-      {
-        "title": "Starting to study for my license. Is Ham Radio Prep worth paying for. Chapters 1-4 are kicking my butt from HamStudy.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wpp4n0/starting_to_study_for_my_license_is_ham_radio/",
-        "author": "/u/Fordel77"
-      },
-      {
-        "title": "HF mobile antenna mount on my 2017 jeep Cherokee",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wpisc5/hf_mobile_antenna_mount_on_my_2017_jeep_cherokee/",
-        "author": "/u/Keysurfer64"
-      },
-      {
-        "title": "Left my antenna at school so I had to improvise.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1womt8q/left_my_antenna_at_school_so_i_had_to_improvise/",
-        "author": "/u/RedwoodsClimber"
-      },
-      {
-        "title": "What are they listening to?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wo82rh/what_are_they_listening_to/",
-        "author": "/u/Jvinsnes"
-      },
-      {
-        "title": "recommendations for a rock solid DC Voltage regulator for mobile use\u2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wp9wdb/recommendations_for_a_rock_solid_dc_voltage/",
-        "author": "/u/ki4clz"
-      },
-      {
-        "title": "Quansheng alt firmware support in webchirp.org",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wovyz5/quansheng_alt_firmware_support_in_webchirporg/",
-        "author": "/u/jasiek83"
-      },
-      {
-        "title": "Im new to radio, is this normal?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wor2vv/im_new_to_radio_is_this_normal/",
-        "author": "/u/ShiftOk1330"
       }
     ]
   }

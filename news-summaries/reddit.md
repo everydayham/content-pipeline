@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-26 14:54 UTC*
+*Last updated: 2026-09-27 15:33 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [My chocolate bar says it is infused with 528 Hz.](https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/)**
-by u/EntropyNegotiator
-
-**4. [iOS MorseMania CW key interface](https://www.reddit.com/r/amateurradio/comments/1wqd9lm/ios_morsemania_cw_key_interface/)**
-by u/05dc
-
-**5. [Homebrew loaded telescopic dipole field test on FT8 — pretty impressed with the ...](https://www.reddit.com/r/amateurradio/comments/1wqjxm7/homebrew_loaded_telescopic_dipole_field_test_on/)**
+**3. [Finally got it printed! Even though I'm RX-only, I can't wait to start sending o...](https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/)**
 by u/RozzKiv
 
-**6. [Whatever happened to Narrow FM on VHF?](https://www.reddit.com/r/amateurradio/comments/1wq9lm5/whatever_happened_to_narrow_fm_on_vhf/)**
-by u/Zealousideal_Ad5358
+**4. [Anyone else running portable only?](https://www.reddit.com/r/amateurradio/comments/1wrgs3n/anyone_else_running_portable_only/)**
+by u/ouzaboy
 
-**7. [Wine Bottle Antenna](https://www.reddit.com/r/amateurradio/comments/1wprw2y/wine_bottle_antenna/)**
-by u/Witty-Party-3565
+**5. [Three FCC exams, three perfect scores](https://www.reddit.com/r/amateurradio/comments/1wqwff2/three_fcc_exams_three_perfect_scores/)**
+by u/KD0CM
 
-**8. [What are some good YSF rooms to check out?](https://www.reddit.com/r/amateurradio/comments/1wqkiwy/what_are_some_good_ysf_rooms_to_check_out/)**
-by u/Skovkatt-
+**6. [Usdr+ qrp radio issue](https://www.reddit.com/r/amateurradio/comments/1wrfh9a/usdr_qrp_radio_issue/)**
+by u/maxnoescope
 
-**9. [Upgraded to General, Need Equipment Advice](https://www.reddit.com/r/amateurradio/comments/1wq7yyp/upgraded_to_general_need_equipment_advice/)**
-by u/cjscout06
+**7. [My chocolate bar says it is infused with 528 Hz.](https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/)**
+by u/EntropyNegotiator
 
-**10. [How do you install a TRAM 1480 (I believe it is one)? I know VERY little about v...](https://www.reddit.com/r/amateurradio/comments/1wq7qog/how_do_you_install_a_tram_1480_i_believe_it_is/)**
-by u/Fun-Delivery6192
+**8. [HF amplifier Anritsu TS222B](https://www.reddit.com/r/amateurradio/comments/1wrh1ol/hf_amplifier_anritsu_ts222b/)**
+by u/Stock_Property7795
 
-**11. [2m antenna building, j-pole vs flower pot](https://www.reddit.com/r/amateurradio/comments/1wq8zx9/2m_antenna_building_jpole_vs_flower_pot/)**
-by u/irish1185
+**9. [What's going on this weekend?](https://www.reddit.com/r/amateurradio/comments/1wqxu8p/whats_going_on_this_weekend/)**
+by u/Paddys
 
-**12. [630m and 2200m the best receiver](https://www.reddit.com/r/amateurradio/comments/1wq8ecq/630m_and_2200m_the_best_receiver/)**
-by u/inoru1
+**10. [my little ads-b project](https://www.reddit.com/r/amateurradio/comments/1wqvtd2/my_little_adsb_project/)**
+by u/neekthefreak
 
-**13. [If vanity call sign 18th day is Saturday, will it not happen until Monday or Tue...](https://www.reddit.com/r/amateurradio/comments/1wqappj/if_vanity_call_sign_18th_day_is_saturday_will_it/)**
-by u/RogueKnave
+**11. [This guy is able to port his Yaesu display onto his Linux PC? Does anyone know h...](https://www.reddit.com/r/amateurradio/comments/1wr6j2q/this_guy_is_able_to_port_his_yaesu_display_onto/)**
+by u/38DDs_Please
 
-**14. [What’s your best Ham Radio jokes?](https://www.reddit.com/r/amateurradio/comments/1wpoy81/whats_your_best_ham_radio_jokes/)**
-by u/KE2DBB
+**12. [Ayuda con esto](https://www.reddit.com/r/amateurradio/comments/1wr3sdv/ayuda_con_esto/)**
+by u/Due_Succotash5955
 
-**15. [SWR meter difficulties](https://www.reddit.com/r/amateurradio/comments/1wq3q3d/swr_meter_difficulties/)**
-by u/Stavrogin78
+**13. [Anybody able to get your Yaesu FT-710 controlled in Linux?](https://www.reddit.com/r/amateurradio/comments/1wr4ict/anybody_able_to_get_your_yaesu_ft710_controlled/)**
+by u/38DDs_Please
+
+**14. [Any rfi issues on hf mobile in Toyota Sienna hybrid?](https://www.reddit.com/r/amateurradio/comments/1wr6z2h/any_rfi_issues_on_hf_mobile_in_toyota_sienna/)**
+by u/VisualEyez33
+
+**15. [Unable to find local skywarn](https://www.reddit.com/r/amateurradio/comments/1wqtphf/unable_to_find_local_skywarn/)**
+by u/ThunderEcho100
 
 ---
 
@@ -61,14 +61,14 @@ by u/Stavrogin78
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[Finally got it printed! Even though I'm RX-only, I can't wait to start...](https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/)** (r/amateurradio)
+- **[Anyone else running portable only?](https://www.reddit.com/r/amateurradio/comments/1wrgs3n/anyone_else_running_portable_only/)** (r/amateurradio)
+- **[Three FCC exams, three perfect scores](https://www.reddit.com/r/amateurradio/comments/1wqwff2/three_fcc_exams_three_perfect_scores/)** (r/amateurradio)
+- **[Usdr+ qrp radio issue](https://www.reddit.com/r/amateurradio/comments/1wrfh9a/usdr_qrp_radio_issue/)** (r/amateurradio)
 - **[My chocolate bar says it is infused with 528 Hz.](https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/)** (r/amateurradio)
-- **[iOS MorseMania CW key interface](https://www.reddit.com/r/amateurradio/comments/1wqd9lm/ios_morsemania_cw_key_interface/)** (r/amateurradio)
-- **[Homebrew loaded telescopic dipole field test on FT8 — pretty impressed...](https://www.reddit.com/r/amateurradio/comments/1wqjxm7/homebrew_loaded_telescopic_dipole_field_test_on/)** (r/amateurradio)
-- **[Whatever happened to Narrow FM on VHF?](https://www.reddit.com/r/amateurradio/comments/1wq9lm5/whatever_happened_to_narrow_fm_on_vhf/)** (r/amateurradio)
-- **[Wine Bottle Antenna](https://www.reddit.com/r/amateurradio/comments/1wprw2y/wine_bottle_antenna/)** (r/amateurradio)
-- **[What are some good YSF rooms to check out?](https://www.reddit.com/r/amateurradio/comments/1wqkiwy/what_are_some_good_ysf_rooms_to_check_out/)** (r/amateurradio)
-- **[Upgraded to General, Need Equipment Advice](https://www.reddit.com/r/amateurradio/comments/1wq7yyp/upgraded_to_general_need_equipment_advice/)** (r/amateurradio)
-- **[How do you install a TRAM 1480 (I believe it is one)? I know VERY litt...](https://www.reddit.com/r/amateurradio/comments/1wq7qog/how_do_you_install_a_tram_1480_i_believe_it_is/)** (r/amateurradio)
+- **[HF amplifier Anritsu TS222B](https://www.reddit.com/r/amateurradio/comments/1wrh1ol/hf_amplifier_anritsu_ts222b/)** (r/amateurradio)
+- **[What's going on this weekend?](https://www.reddit.com/r/amateurradio/comments/1wqxu8p/whats_going_on_this_weekend/)** (r/amateurradio)
+- **[my little ads-b project](https://www.reddit.com/r/amateurradio/comments/1wqvtd2/my_little_adsb_project/)** (r/amateurradio)
 
 ---
 

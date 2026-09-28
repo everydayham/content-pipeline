@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:33:14.760912",
+  "updated": "2026-09-28T18:31:37.183814",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,7 +8,7 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
@@ -17,9 +17,89 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Found out today my house has no ground",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wskpwa/found_out_today_my_house_has_no_ground/",
+        "author": "/u/Gigem1987"
+      },
+      {
+        "title": "POTA at sunset",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws4xdb/pota_at_sunset/",
+        "author": "/u/rossog93"
+      },
+      {
+        "title": "First power up. My second hf rig",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsl6xa/first_power_up_my_second_hf_rig/",
+        "author": "/u/SummerRemote267"
+      },
+      {
+        "title": "My first hf rig",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrtd0r/my_first_hf_rig/",
+        "author": "/u/SummerRemote267"
+      },
+      {
+        "title": "ICOM 7300 not covering entire 10m band?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsczcz/icom_7300_not_covering_entire_10m_band/",
+        "author": "/u/jackmclrtz"
+      },
+      {
+        "title": "Got my attic antenna installed today",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrxzwi/got_my_attic_antenna_installed_today/",
+        "author": "/u/troublemaker74"
+      },
+      {
+        "title": "POTA and ROTA in one today.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrq6dy/pota_and_rota_in_one_today/",
+        "author": "/u/carguy143"
+      },
+      {
         "title": "Finally got it printed! Even though I'm RX-only, I can't wait to start sending out my own SWL QSL cards soon!",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/",
         "author": "/u/RozzKiv"
+      },
+      {
+        "title": "Bearpaw for Uniden Scanners v1.1.2 is released",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsiguq/bearpaw_for_uniden_scanners_v112_is_released/",
+        "author": "/u/fox-four-gilwell"
+      },
+      {
+        "title": "IC-R5 - programming software?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsc3zm/icr5_programming_software/",
+        "author": "/u/GeoAir_pt"
+      },
+      {
+        "title": "16-66: Hobby or Hyperfixation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrqxht/1666_hobby_or_hyperfixation/",
+        "author": "/u/Startup_Monkey"
+      },
+      {
+        "title": "Good telescoping/folding mast?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrusy9/good_telescopingfolding_mast/",
+        "author": "/u/Mantissa-64"
+      },
+      {
+        "title": "Tiny, lightweight, single-band CW transceiver for backpacking?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrsikj/tiny_lightweight_singleband_cw_transceiver_for/",
+        "author": "/u/slatsandflaps"
+      },
+      {
+        "title": "Antenna and Scanner advice",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws5yve/antenna_and_scanner_advice/",
+        "author": "/u/Professional_Case_14"
+      },
+      {
+        "title": "New antennas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrpgei/new_antennas/",
+        "author": "/u/lisapocalypse"
+      },
+      {
+        "title": "Repurpose parts/Looking for a project",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrp86a/repurpose_partslooking_for_a_project/",
+        "author": "/u/Ajaymach"
+      },
+      {
+        "title": "Simplified schematic of the MFJ-8100 regenerative receiver.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wruc10/simplified_schematic_of_the_mfj8100_regenerative/",
+        "author": "/u/RegenerativeRadioSwe"
       },
       {
         "title": "Anyone else running portable only?",
@@ -27,109 +107,29 @@
         "author": "/u/ouzaboy"
       },
       {
-        "title": "Three FCC exams, three perfect scores",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqwff2/three_fcc_exams_three_perfect_scores/",
-        "author": "/u/KD0CM"
+        "title": "Santa Fe NM visit",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws2irj/santa_fe_nm_visit/",
+        "author": "/u/Euphoric_Rub_5122"
       },
       {
-        "title": "Usdr+ qrp radio issue",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrfh9a/usdr_qrp_radio_issue/",
-        "author": "/u/maxnoescope"
+        "title": "OpenGD77 Web CPS",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws6alr/opengd77_web_cps/",
+        "author": "/u/an52"
       },
       {
-        "title": "My chocolate bar says it is infused with 528 Hz.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/",
-        "author": "/u/EntropyNegotiator"
+        "title": "How could i do what this kid is doing? AMSAT DIY TRACKER",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws5yla/how_could_i_do_what_this_kid_is_doing_amsat_diy/",
+        "author": "/u/PartInside9890"
       },
       {
-        "title": "HF amplifier Anritsu TS222B",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrh1ol/hf_amplifier_anritsu_ts222b/",
-        "author": "/u/Stock_Property7795"
+        "title": "How soon into learning CW did you buy a key + oscillator?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrtha0/how_soon_into_learning_cw_did_you_buy_a_key/",
+        "author": "/u/hairy-loaf"
       },
       {
-        "title": "What's going on this weekend?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqxu8p/whats_going_on_this_weekend/",
-        "author": "/u/Paddys"
-      },
-      {
-        "title": "my little ads-b project",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqvtd2/my_little_adsb_project/",
-        "author": "/u/neekthefreak"
-      },
-      {
-        "title": "This guy is able to port his Yaesu display onto his Linux PC? Does anyone know how I can achieve the same thing?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr6j2q/this_guy_is_able_to_port_his_yaesu_display_onto/",
-        "author": "/u/38DDs_Please"
-      },
-      {
-        "title": "Ayuda con esto",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr3sdv/ayuda_con_esto/",
-        "author": "/u/Due_Succotash5955"
-      },
-      {
-        "title": "Anybody able to get your Yaesu FT-710 controlled in Linux?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr4ict/anybody_able_to_get_your_yaesu_ft710_controlled/",
-        "author": "/u/38DDs_Please"
-      },
-      {
-        "title": "Any rfi issues on hf mobile in Toyota Sienna hybrid?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr6z2h/any_rfi_issues_on_hf_mobile_in_toyota_sienna/",
-        "author": "/u/VisualEyez33"
-      },
-      {
-        "title": "Unable to find local skywarn",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqtphf/unable_to_find_local_skywarn/",
-        "author": "/u/ThunderEcho100"
-      },
-      {
-        "title": "Be careful of UV-17R chargers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqw55e/be_careful_of_uv17r_chargers/",
-        "author": "/u/AnnonAutist"
-      },
-      {
-        "title": "Connecting a Yaesu FTX-1 to Ham Radio Deluxe",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqyz37/connecting_a_yaesu_ftx1_to_ham_radio_deluxe/",
-        "author": "/u/Flashy-Degree-8165"
-      },
-      {
-        "title": "iOS MorseMania CW key interface",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqd9lm/ios_morsemania_cw_key_interface/",
-        "author": "/u/05dc"
-      },
-      {
-        "title": "Homebrew loaded telescopic dipole field test on FT8 \u2014 pretty impressed with the results!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqjxm7/homebrew_loaded_telescopic_dipole_field_test_on/",
-        "author": "/u/RozzKiv"
-      },
-      {
-        "title": "Vanity call sign granted but\u2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqybr1/vanity_call_sign_granted_but/",
-        "author": "/u/Infinite_Tackle_9772"
-      },
-      {
-        "title": "PL-310ET or Tecsun PL-330 for a prepper, on a budget, type situation?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wqxliq/pl310et_or_tecsun_pl330_for_a_prepper_on_a_budget/",
-        "author": "/u/GajowyMalina"
-      },
-      {
-        "title": "Motorola Talkabout T62 hidden menu",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr1kxw/motorola_talkabout_t62_hidden_menu/",
-        "author": "/u/Serious_Aide2067"
-      },
-      {
-        "title": "Whatever happened to Narrow FM on VHF?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wq9lm5/whatever_happened_to_narrow_fm_on_vhf/",
-        "author": "/u/Zealousideal_Ad5358"
-      },
-      {
-        "title": "I need suggestions for Radio set up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wr30al/i_need_suggestions_for_radio_set_up/",
-        "author": "/u/big_boi92"
-      },
-      {
-        "title": "Wine Bottle Antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wprw2y/wine_bottle_antenna/",
-        "author": "/u/Witty-Party-3565"
+        "title": "Where to post for sale?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wrzqby/where_to_post_for_sale/",
+        "author": "/u/Terrible_Meeting_562"
       }
     ]
   }

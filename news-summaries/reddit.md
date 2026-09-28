@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-09-27 15:33 UTC*
+*Last updated: 2026-09-28 18:31 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Finally got it printed! Even though I'm RX-only, I can't wait to start sending o...](https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/)**
+**3. [Found out today my house has no ground](https://www.reddit.com/r/amateurradio/comments/1wskpwa/found_out_today_my_house_has_no_ground/)**
+by u/Gigem1987
+
+**4. [POTA at sunset](https://www.reddit.com/r/amateurradio/comments/1ws4xdb/pota_at_sunset/)**
+by u/rossog93
+
+**5. [First power up. My second hf rig](https://www.reddit.com/r/amateurradio/comments/1wsl6xa/first_power_up_my_second_hf_rig/)**
+by u/SummerRemote267
+
+**6. [My first hf rig](https://www.reddit.com/r/amateurradio/comments/1wrtd0r/my_first_hf_rig/)**
+by u/SummerRemote267
+
+**7. [ICOM 7300 not covering entire 10m band?](https://www.reddit.com/r/amateurradio/comments/1wsczcz/icom_7300_not_covering_entire_10m_band/)**
+by u/jackmclrtz
+
+**8. [Got my attic antenna installed today](https://www.reddit.com/r/amateurradio/comments/1wrxzwi/got_my_attic_antenna_installed_today/)**
+by u/troublemaker74
+
+**9. [POTA and ROTA in one today.](https://www.reddit.com/r/amateurradio/comments/1wrq6dy/pota_and_rota_in_one_today/)**
+by u/carguy143
+
+**10. [Finally got it printed! Even though I'm RX-only, I can't wait to start sending o...](https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/)**
 by u/RozzKiv
 
-**4. [Anyone else running portable only?](https://www.reddit.com/r/amateurradio/comments/1wrgs3n/anyone_else_running_portable_only/)**
-by u/ouzaboy
+**11. [Bearpaw for Uniden Scanners v1.1.2 is released](https://www.reddit.com/r/amateurradio/comments/1wsiguq/bearpaw_for_uniden_scanners_v112_is_released/)**
+by u/fox-four-gilwell
 
-**5. [Three FCC exams, three perfect scores](https://www.reddit.com/r/amateurradio/comments/1wqwff2/three_fcc_exams_three_perfect_scores/)**
-by u/KD0CM
+**12. [IC-R5 - programming software?](https://www.reddit.com/r/amateurradio/comments/1wsc3zm/icr5_programming_software/)**
+by u/GeoAir_pt
 
-**6. [Usdr+ qrp radio issue](https://www.reddit.com/r/amateurradio/comments/1wrfh9a/usdr_qrp_radio_issue/)**
-by u/maxnoescope
+**13. [16-66: Hobby or Hyperfixation](https://www.reddit.com/r/amateurradio/comments/1wrqxht/1666_hobby_or_hyperfixation/)**
+by u/Startup_Monkey
 
-**7. [My chocolate bar says it is infused with 528 Hz.](https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/)**
-by u/EntropyNegotiator
+**14. [Good telescoping/folding mast?](https://www.reddit.com/r/amateurradio/comments/1wrusy9/good_telescopingfolding_mast/)**
+by u/Mantissa-64
 
-**8. [HF amplifier Anritsu TS222B](https://www.reddit.com/r/amateurradio/comments/1wrh1ol/hf_amplifier_anritsu_ts222b/)**
-by u/Stock_Property7795
-
-**9. [What's going on this weekend?](https://www.reddit.com/r/amateurradio/comments/1wqxu8p/whats_going_on_this_weekend/)**
-by u/Paddys
-
-**10. [my little ads-b project](https://www.reddit.com/r/amateurradio/comments/1wqvtd2/my_little_adsb_project/)**
-by u/neekthefreak
-
-**11. [This guy is able to port his Yaesu display onto his Linux PC? Does anyone know h...](https://www.reddit.com/r/amateurradio/comments/1wr6j2q/this_guy_is_able_to_port_his_yaesu_display_onto/)**
-by u/38DDs_Please
-
-**12. [Ayuda con esto](https://www.reddit.com/r/amateurradio/comments/1wr3sdv/ayuda_con_esto/)**
-by u/Due_Succotash5955
-
-**13. [Anybody able to get your Yaesu FT-710 controlled in Linux?](https://www.reddit.com/r/amateurradio/comments/1wr4ict/anybody_able_to_get_your_yaesu_ft710_controlled/)**
-by u/38DDs_Please
-
-**14. [Any rfi issues on hf mobile in Toyota Sienna hybrid?](https://www.reddit.com/r/amateurradio/comments/1wr6z2h/any_rfi_issues_on_hf_mobile_in_toyota_sienna/)**
-by u/VisualEyez33
-
-**15. [Unable to find local skywarn](https://www.reddit.com/r/amateurradio/comments/1wqtphf/unable_to_find_local_skywarn/)**
-by u/ThunderEcho100
+**15. [Tiny, lightweight, single-band CW transceiver for backpacking?](https://www.reddit.com/r/amateurradio/comments/1wrsikj/tiny_lightweight_singleband_cw_transceiver_for/)**
+by u/slatsandflaps
 
 ---
 
@@ -59,16 +59,16 @@ by u/ThunderEcho100
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wmc4ik/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[Found out today my house has no ground](https://www.reddit.com/r/amateurradio/comments/1wskpwa/found_out_today_my_house_has_no_ground/)** (r/amateurradio)
+- **[POTA at sunset](https://www.reddit.com/r/amateurradio/comments/1ws4xdb/pota_at_sunset/)** (r/amateurradio)
+- **[First power up. My second hf rig](https://www.reddit.com/r/amateurradio/comments/1wsl6xa/first_power_up_my_second_hf_rig/)** (r/amateurradio)
+- **[My first hf rig](https://www.reddit.com/r/amateurradio/comments/1wrtd0r/my_first_hf_rig/)** (r/amateurradio)
+- **[ICOM 7300 not covering entire 10m band?](https://www.reddit.com/r/amateurradio/comments/1wsczcz/icom_7300_not_covering_entire_10m_band/)** (r/amateurradio)
+- **[Got my attic antenna installed today](https://www.reddit.com/r/amateurradio/comments/1wrxzwi/got_my_attic_antenna_installed_today/)** (r/amateurradio)
+- **[POTA and ROTA in one today.](https://www.reddit.com/r/amateurradio/comments/1wrq6dy/pota_and_rota_in_one_today/)** (r/amateurradio)
 - **[Finally got it printed! Even though I'm RX-only, I can't wait to start...](https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/)** (r/amateurradio)
-- **[Anyone else running portable only?](https://www.reddit.com/r/amateurradio/comments/1wrgs3n/anyone_else_running_portable_only/)** (r/amateurradio)
-- **[Three FCC exams, three perfect scores](https://www.reddit.com/r/amateurradio/comments/1wqwff2/three_fcc_exams_three_perfect_scores/)** (r/amateurradio)
-- **[Usdr+ qrp radio issue](https://www.reddit.com/r/amateurradio/comments/1wrfh9a/usdr_qrp_radio_issue/)** (r/amateurradio)
-- **[My chocolate bar says it is infused with 528 Hz.](https://www.reddit.com/r/amateurradio/comments/1wqq68n/my_chocolate_bar_says_it_is_infused_with_528_hz/)** (r/amateurradio)
-- **[HF amplifier Anritsu TS222B](https://www.reddit.com/r/amateurradio/comments/1wrh1ol/hf_amplifier_anritsu_ts222b/)** (r/amateurradio)
-- **[What's going on this weekend?](https://www.reddit.com/r/amateurradio/comments/1wqxu8p/whats_going_on_this_weekend/)** (r/amateurradio)
-- **[my little ads-b project](https://www.reddit.com/r/amateurradio/comments/1wqvtd2/my_little_adsb_project/)** (r/amateurradio)
 
 ---
 

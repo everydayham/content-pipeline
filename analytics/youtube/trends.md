@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-09-21 17:32 UTC*
+*Last updated: 2026-09-28 19:01 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| 🤯💥Sota muthu meet 🤣talking tom📈 #family #shorts #c... | Rajkzr  | 9,557,925 | 2026-09-17 |
-| Max Verstappen vs 100 highlights | Best radio inte... | ESPN UK | 1,638,932 | 2026-09-17 |
-| pota ki chozon ko tractor sair #shorts #shortvideo... | Art Club pk | 903,204 | 2026-09-16 |
-| The Open Source Internet Is Here | Data Slayer | 895,589 | 2026-09-20 |
-| pota bna business man😂#shorts #shortvideo #short #... | Art Club pk | 792,612 | 2026-09-16 |
-| pota dadi or murghi fun time 😂 #trending #funny #s... | Art Club pk | 726,451 | 2026-09-15 |
-| nakalo pota 🤣#shorts #shortvideo #short #shortsfee... | Art Club pk | 590,329 | 2026-09-16 |
-| pota in duck costume #shorts #shortvideo #short #s... | Art Club pk | 495,059 | 2026-09-16 |
-| chai recipe with dada pota bonding #youtubeshorts | Santoshi kitchen wit | 417,708 | 2026-09-17 |
-| twin pota dadi or gandum #shorts #shortvideo  #sho... | Art Club pk | 339,945 | 2026-09-15 |
-| jin be like. kyon maji kesa lga pota 😂wait for las... | Bts funny life | 326,027 | 2026-09-15 |
-| Street Food Style Spicy Chicken Gizzard Karahi | C... | Adnan Afzaal Food Se | 232,707 | 2026-09-18 |
-| Chicken Pota Kaleji Wala Street Food Tasty Chicken... | Hindi Kahaniya Funny | 207,899 | 2026-09-16 |
-| Он не будет заканчивать, ему скучно. У нас столько... | sotavision | 194,596 | 2026-09-15 |
-| Mohla sota ka Dance. N.Y.C Bangama | Godda_meri_jaan | 145,270 | 2026-09-19 |
-| Когда бабахнет всем по башке, будут перемены в Рос... | sotavision | 104,131 | 2026-09-20 |
-| Air Variable Coupling Inductor #chrisboden #comedy... | Chris Boden | 103,480 | 2026-09-18 |
-| 🥺Elif Roti Rahi, Shahmeer Sota Raha 💔| Toota Guroo... | Arsam Official  | 96,754 | 2026-09-20 |
-| 9/11: He Stayed With the Transmitter. She Was 10 a... | Ham Radio Launchpad | 80,140 | 2026-09-14 |
-| Gitanjali ke pass koi nhi sota India's best dancer... | TheRoyelraj  | 79,826 | 2026-09-17 |
-| N.Y.C Bangama. Mohla sota goals machine | Godda_meri_jaan | 78,543 | 2026-09-18 |
-| ATS 20 + Its just £17 you CANNOT buy a cheaper SSB... | Fred in the Shed | 70,557 | 2026-09-15 |
-| Can you copy 18WPM? #morsecode #hamradio #hobby #p... | Radio Roamers | 63,199 | 2026-09-17 |
-| Asa kon sota😩😩💁 #foru #viral #trending #india #fyp | Yourfurqan | 58,603 | 2026-09-19 |
-| #BEFIRST#Watchme 最後#SOTA センターにきた時のダンスがやばすぎた🫨#SHUNT... | BE:HAPPY | 53,702 | 2026-09-18 |
+| Hardworking cute  pota #shorts #shortsfeed #funny ... |  Village vibes studi | 5,598,673 | 2026-09-23 |
+| Extreme Making Of Chicken Pota, Kaleji Daal Plate ... | Bite With Haseeb  | 489,096 | 2026-09-22 |
+| Pota Manga Tha, Bachcha Kutta Le Aaya!  | पोता माँ... | Aniruddhacharya Ji S | 450,445 | 2026-09-27 |
+| Cute pota copying dada#shorts #funny #shortsfeed #... |  Village vibes studi | 432,901 | 2026-09-26 |
+| Pota ya Murghi#shorts #funny #shortsfeed #trending... |  Village vibes studi | 333,463 | 2026-09-25 |
+| pota copying dada#shorts #funny #shortsfeed #ytsho... |  Village vibes studi | 313,826 | 2026-09-24 |
+| ??SOTAは、みんなが踊りたくなくても踊らせた。#BEFIRST | NINA_BESTY | 271,191 | 2026-09-25 |
+| New Punjabi Songs 2026 | Sorry (Official Video) Ma... | Baaghi | 228,914 | 2026-09-23 |
+| Hhhhhh ⚰️🏀MANATO はSOTAに心から感謝します彼はバスケットボールのダンスを加えた。... | NINA_BESTY | 224,516 | 2026-09-22 |
+| Me toh aise sota hoon 💤🛌 #shorts #ytshorts #youtub... | Ravi Patel shorts  | 203,130 | 2026-09-22 |
+| #BEFIRST#Watchme#LEO の残像?アート作品！#SOTA#SHUNTO#MANATO... | BE:HAPPY | 202,297 | 2026-09-22 |
+| Guy’s aise konda bachaa sota hai harsh or uska cho... | Famelight Celebs | 179,342 | 2026-09-23 |
+| BF🇹🇭ここのSOTAくんの音取りえぐい#BEFIRST | NINA_BESTY | 173,597 | 2026-09-25 |
+| Transatlantic flights still carry a radio from bef... | Abbie Cheeseman | 152,051 | 2026-09-25 |
+| pota handling crane dadi hapy#shorts #shortvideo #... | Art Club pk | 151,078 | 2026-09-22 |
+| Dogra Ka Pota Kaleji Aur Chicken Tikka Aur Mutton ... | ticket2 explore | 125,328 | 2026-09-23 |
+| #BEFIRST#Watchme ダンプラ芸術作品すぎん？コレオすごすぎ😭reaction②#SOT... | BE:HAPPY | 114,462 | 2026-09-22 |
+| ghaas lane ke badle doodh mangta hai pota #shorts ... | Look Like Ai  | 106,125 | 2026-09-23 |
+| Station Par Sota Hoon… Bas Koi Mera Ilaaj Karwa De... | Risk Man | 105,549 | 2026-09-25 |
+| Nana Patekar Ka Sabse Khatarnak Badla 😱 Pota Baneg... | B_L_94 | 96,203 | 2026-09-22 |
+| Dr golu sota rahta hai | Brother sister  | 94,753 | 2026-09-22 |
+| Free-to-Air TV in Australia Could Be About to Chan... | Ham Radio DX | 68,418 | 2026-09-22 |
+| 아마추어 무선사는 AirDrop 따위 쓰지 않는다네 | Be주류K | 59,231 | 2026-09-25 |
+| Learn Morse Code Fast- blinking in Morse code #mor... | The Radio Zoomer | 46,541 | 2026-09-24 |
+| Learning Morse Code with a straight key day 4 #mor... | The Radio Zoomer | 37,346 | 2026-09-25 |
 
 ---
 
@@ -42,13 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **License/Learning**: ████████████████████ (35 videos)
-- **POTA/Portable**: ████████████████████ (24 videos)
-- **HF Operating**: ████████████████ (16 videos)
-- **Antennas**: █████████████ (13 videos)
+- **POTA/Portable**: ████████████████████ (31 videos)
+- **License/Learning**: ████████████████████ (27 videos)
+- **HF Operating**: ████████████████████ (20 videos)
+- **Antennas**: ████████████████████ (20 videos)
 - **Gear Reviews**: ██████████ (10 videos)
-- **Digital Modes**: █████ (5 videos)
-- **QRP**: ███ (3 videos)
+- **Digital Modes**: ██████ (6 videos)
+- **QRP**: ████ (4 videos)
 
 ---
 

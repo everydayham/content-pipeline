@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:31:37.183814",
+  "updated": "2026-09-29T16:49:14.459408",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,39 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Can someone explain this to me...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt88py/can_someone_explain_this_to_me/",
+        "author": "/u/firekeeper23"
+      },
+      {
+        "title": "Does \u201crag-chewing\u201d still happen on HF bands?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wtb64a/does_ragchewing_still_happen_on_hf_bands/",
+        "author": "/u/Gytramr65"
+      },
+      {
+        "title": "The ESP32 can stream RAW I/Q samples from its HF frontend from 2.2-2.8GHz@80MSPS. Revolution for 13cm?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt20hk/the_esp32_can_stream_raw_iq_samples_from_its_hf/",
+        "author": "/u/Ordinary-Lifeguard47"
+      },
+      {
+        "title": "CW Portion of License Testing",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsyxbq/cw_portion_of_license_testing/",
+        "author": "/u/LostInThePileup"
+      },
+      {
         "title": "Found out today my house has no ground",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wskpwa/found_out_today_my_house_has_no_ground/",
         "author": "/u/Gigem1987"
       },
       {
-        "title": "POTA at sunset",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ws4xdb/pota_at_sunset/",
-        "author": "/u/rossog93"
+        "title": "New nice-sounding weak signal mode",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt2hlm/new_nicesounding_weak_signal_mode/",
+        "author": "/u/baitisj"
+      },
+      {
+        "title": "Old Drilling Rig Setup",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wswcoz/old_drilling_rig_setup/",
+        "author": "/u/The_Reaper_093093"
       },
       {
         "title": "First power up. My second hf rig",
@@ -32,104 +57,79 @@
         "author": "/u/SummerRemote267"
       },
       {
-        "title": "My first hf rig",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrtd0r/my_first_hf_rig/",
-        "author": "/u/SummerRemote267"
+        "title": "Ailunce HA-2 no longer TX on 146.520",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wte2uk/ailunce_ha2_no_longer_tx_on_146520/",
+        "author": "/u/Schmittwerks11"
       },
       {
-        "title": "ICOM 7300 not covering entire 10m band?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wsczcz/icom_7300_not_covering_entire_10m_band/",
-        "author": "/u/jackmclrtz"
+        "title": "Off-grid \"Repeater Scout\"",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt3x6q/offgrid_repeater_scout/",
+        "author": "/u/hobbyrooster"
       },
       {
-        "title": "Got my attic antenna installed today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrxzwi/got_my_attic_antenna_installed_today/",
-        "author": "/u/troublemaker74"
+        "title": "ISS SSTV in a few days",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsp65u/iss_sstv_in_a_few_days/",
+        "author": "/u/ThatSteveGuy_0"
       },
       {
-        "title": "POTA and ROTA in one today.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrq6dy/pota_and_rota_in_one_today/",
-        "author": "/u/carguy143"
+        "title": "How to Learn Morse Code: Quick Tips",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt4zq5/how_to_learn_morse_code_quick_tips/",
+        "author": "/u/Only-Willow7228"
       },
       {
-        "title": "Finally got it printed! Even though I'm RX-only, I can't wait to start sending out my own SWL QSL cards soon!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrldno/finally_got_it_printed_even_though_im_rxonly_i/",
-        "author": "/u/RozzKiv"
+        "title": "Crossing concrete driveway with feedline",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wt150j/crossing_concrete_driveway_with_feedline/",
+        "author": "/u/kd5det"
       },
       {
-        "title": "Bearpaw for Uniden Scanners v1.1.2 is released",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wsiguq/bearpaw_for_uniden_scanners_v112_is_released/",
-        "author": "/u/fox-four-gilwell"
+        "title": "Help Identifying Antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsvu4k/help_identifying_antenna/",
+        "author": "/u/in_mediasres"
       },
       {
-        "title": "IC-R5 - programming software?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wsc3zm/icr5_programming_software/",
-        "author": "/u/GeoAir_pt"
+        "title": "About to just throw it all in the ocean",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wtea9g/about_to_just_throw_it_all_in_the_ocean/",
+        "author": "/u/Grievmaster"
       },
       {
-        "title": "16-66: Hobby or Hyperfixation",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrqxht/1666_hobby_or_hyperfixation/",
-        "author": "/u/Startup_Monkey"
+        "title": "CW keyer function on Icom 7300MK2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wszu78/cw_keyer_function_on_icom_7300mk2/",
+        "author": "/u/Gigem1987"
       },
       {
-        "title": "Good telescoping/folding mast?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrusy9/good_telescopingfolding_mast/",
-        "author": "/u/Mantissa-64"
+        "title": "Built a \"Pseudo Beverage\" antenna for receive.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsq1xi/built_a_pseudo_beverage_antenna_for_receive/",
+        "author": "/u/DoucheNozzle1163"
       },
       {
-        "title": "Tiny, lightweight, single-band CW transceiver for backpacking?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrsikj/tiny_lightweight_singleband_cw_transceiver_for/",
-        "author": "/u/slatsandflaps"
+        "title": "Ground or counterpoise? Which is necessary?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsvhka/ground_or_counterpoise_which_is_necessary/",
+        "author": "/u/Alarming-Sea752"
       },
       {
-        "title": "Antenna and Scanner advice",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ws5yve/antenna_and_scanner_advice/",
-        "author": "/u/Professional_Case_14"
+        "title": "POTA at sunset",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ws4xdb/pota_at_sunset/",
+        "author": "/u/rossog93"
       },
       {
-        "title": "New antennas",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrpgei/new_antennas/",
-        "author": "/u/lisapocalypse"
+        "title": "Need help identifying antenna mount",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wspzf8/need_help_identifying_antenna_mount/",
+        "author": "/u/888wrek"
       },
       {
-        "title": "Repurpose parts/Looking for a project",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrp86a/repurpose_partslooking_for_a_project/",
-        "author": "/u/Ajaymach"
+        "title": "Amateur radio responses in Northeast",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsnqry/amateur_radio_responses_in_northeast/",
+        "author": "/u/LukeHere"
       },
       {
-        "title": "Simplified schematic of the MFJ-8100 regenerative receiver.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wruc10/simplified_schematic_of_the_mfj8100_regenerative/",
-        "author": "/u/RegenerativeRadioSwe"
+        "title": "Rfinder replacement",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsygkr/rfinder_replacement/",
+        "author": "/u/K4NNW"
       },
       {
-        "title": "Anyone else running portable only?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrgs3n/anyone_else_running_portable_only/",
-        "author": "/u/ouzaboy"
-      },
-      {
-        "title": "Santa Fe NM visit",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ws2irj/santa_fe_nm_visit/",
-        "author": "/u/Euphoric_Rub_5122"
-      },
-      {
-        "title": "OpenGD77 Web CPS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ws6alr/opengd77_web_cps/",
-        "author": "/u/an52"
-      },
-      {
-        "title": "How could i do what this kid is doing? AMSAT DIY TRACKER",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ws5yla/how_could_i_do_what_this_kid_is_doing_amsat_diy/",
-        "author": "/u/PartInside9890"
-      },
-      {
-        "title": "How soon into learning CW did you buy a key + oscillator?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrtha0/how_soon_into_learning_cw_did_you_buy_a_key/",
-        "author": "/u/hairy-loaf"
-      },
-      {
-        "title": "Where to post for sale?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wrzqby/where_to_post_for_sale/",
-        "author": "/u/Terrible_Meeting_562"
+        "title": "Scary noises on HF",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wsyff1/scary_noises_on_hf/",
+        "author": "/u/No-Hovercraft6952"
       }
     ]
   }

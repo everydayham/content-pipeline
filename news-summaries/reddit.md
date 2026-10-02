@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-01 17:17 UTC*
+*Last updated: 2026-10-02 16:32 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Ham here (KD0RFP) — I made an audio drama about a radio operator who won't stop ...](https://www.reddit.com/r/amateurradio/comments/1wuzm1r/ham_here_kd0rfp_i_made_an_audio_drama_about_a/)**
-by u/foxpro159
+**3. [ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a ...](https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/)**
+by u/ARISS_Intl
 
-**4. [Phasing out Telephone Landlines, FCC Comment Period](https://www.reddit.com/r/amateurradio/comments/1wupc86/phasing_out_telephone_landlines_fcc_comment_period/)**
-by u/ThatChucklehead
+**4. [24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much more lively w...](https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/)**
+by u/DeepSpace1420MHZ
 
-**5. [I got the FLEX-1500 working on Linux!](https://www.reddit.com/r/amateurradio/comments/1wv3mf5/i_got_the_flex1500_working_on_linux/)**
-by u/Compuvin
+**5. [2 Meter Only Radios](https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/)**
+by u/Sunset1hiker
 
-**6. [For the ARES/RACES and event-comms folks: where does the current setup actually ...](https://www.reddit.com/r/amateurradio/comments/1wv35y9/for_the_aresraces_and_eventcomms_folks_where_does/)**
-by u/AuthenSIC
+**6. [Got a truSDX? You can now use it with your Mac with ease](https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/)**
+by u/jasiek83
 
-**7. [What do you guys think of my new antenna?](https://www.reddit.com/r/amateurradio/comments/1wucbhn/what_do_you_guys_think_of_my_new_antenna/)**
-by u/PU5PSY
+**7. [New antenna](https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/)**
+by u/Otherwise_Extreme721
 
-**8. [W2JZX](https://www.reddit.com/r/amateurradio/comments/1wugfw3/w2jzx/)**
-by u/becausethenight_
+**8. [Activating Glacier and Waterton Lakes NP](https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/)**
+by u/airbusman5514
 
-**9. [3D Printed Meshcore Cavity Filter](https://www.reddit.com/r/amateurradio/comments/1wujmbu/3d_printed_meshcore_cavity_filter/)**
-by u/MisterBazz
+**9. [AD9361 Verilog Coding](https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/)**
+by u/SuccessfulStreet2321
 
-**10. [Its true hahaha](https://www.reddit.com/r/amateurradio/comments/1wu4wtr/its_true_hahaha/)**
-by u/-6569
+**10. [I built a free map showing POTA park boundaries, n-fer overlaps, and where the p...](https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/)**
+by u/Lonely_Ad3653
 
-**11. [Heads up: FEMA & FCC partnering for a national Emergency Alert System test on No...](https://www.reddit.com/r/amateurradio/comments/1wujzqx/heads_up_fema_fcc_partnering_for_a_national/)**
-by u/Old-Engineer854
+**11. [Interference on 20m](https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/)**
+by u/LostInThePileup
 
-**12. [IC-7300, MacBook M5 Pro, and SDR-Control](https://www.reddit.com/r/amateurradio/comments/1wv2umr/ic7300_macbook_m5_pro_and_sdrcontrol/)**
-by u/UGAGuy2010
+**12. [Good videos to inspire new hams, especially to demonstrate NVIS and JS8Call for ...](https://www.reddit.com/r/amateurradio/comments/1wvgvo4/good_videos_to_inspire_new_hams_especially_to/)**
+by u/ElementreeCr0
 
-**13. [Who keeps operating stuff like this in 40m band?](https://www.reddit.com/r/amateurradio/comments/1wv1zze/who_keeps_operating_stuff_like_this_in_40m_band/)**
-by u/Flashy_Gas9955
+**13. [POTA, SOTA, etc?](https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/)**
+by u/greenwoody2018
 
-**14. [What have I got and how do I get it up and running](https://www.reddit.com/r/amateurradio/comments/1wud6vk/what_have_i_got_and_how_do_i_get_it_up_and_running/)**
-by u/Quirky_Box5241
+**14. [how to setup dvswitch mobile](https://www.reddit.com/r/amateurradio/comments/1wvv9hd/how_to_setup_dvswitch_mobile/)**
+by u/tiller-1
 
-**15. [Looking for a QRP SDR...](https://www.reddit.com/r/amateurradio/comments/1wuy7j0/looking_for_a_qrp_sdr/)**
-by u/No_Change_4499
+**15. [Which Multiple Band Radio Antenna Would Be Better Choice Of The Two: the PowerWe...](https://www.reddit.com/r/amateurradio/comments/1wvunzl/which_multiple_band_radio_antenna_would_be_better/)**
+by u/Get-The-Lead-Out_45
 
 ---
 
@@ -61,14 +61,14 @@ by u/No_Change_4499
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Ham here (KD0RFP) — I made an audio drama about a radio operator who w...](https://www.reddit.com/r/amateurradio/comments/1wuzm1r/ham_here_kd0rfp_i_made_an_audio_drama_about_a/)** (r/amateurradio)
-- **[Phasing out Telephone Landlines, FCC Comment Period](https://www.reddit.com/r/amateurradio/comments/1wupc86/phasing_out_telephone_landlines_fcc_comment_period/)** (r/amateurradio)
-- **[I got the FLEX-1500 working on Linux!](https://www.reddit.com/r/amateurradio/comments/1wv3mf5/i_got_the_flex1500_working_on_linux/)** (r/amateurradio)
-- **[For the ARES/RACES and event-comms folks: where does the current setup...](https://www.reddit.com/r/amateurradio/comments/1wv35y9/for_the_aresraces_and_eventcomms_folks_where_does/)** (r/amateurradio)
-- **[What do you guys think of my new antenna?](https://www.reddit.com/r/amateurradio/comments/1wucbhn/what_do_you_guys_think_of_my_new_antenna/)** (r/amateurradio)
-- **[W2JZX](https://www.reddit.com/r/amateurradio/comments/1wugfw3/w2jzx/)** (r/amateurradio)
-- **[3D Printed Meshcore Cavity Filter](https://www.reddit.com/r/amateurradio/comments/1wujmbu/3d_printed_meshcore_cavity_filter/)** (r/amateurradio)
-- **[Its true hahaha](https://www.reddit.com/r/amateurradio/comments/1wu4wtr/its_true_hahaha/)** (r/amateurradio)
+- **[ARISS SSTV event underway! 12 images will be transmitted on 437.550 MH...](https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/)** (r/amateurradio)
+- **[24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much mor...](https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/)** (r/amateurradio)
+- **[2 Meter Only Radios](https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/)** (r/amateurradio)
+- **[Got a truSDX? You can now use it with your Mac with ease](https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/)** (r/amateurradio)
+- **[New antenna](https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/)** (r/amateurradio)
+- **[Activating Glacier and Waterton Lakes NP](https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/)** (r/amateurradio)
+- **[AD9361 Verilog Coding](https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/)** (r/amateurradio)
+- **[I built a free map showing POTA park boundaries, n-fer overlaps, and w...](https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/)** (r/amateurradio)
 
 ---
 

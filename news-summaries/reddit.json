@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:17:57.643573",
+  "updated": "2026-10-02T16:32:45.494414",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,54 +17,79 @@
         "author": "/u/ItsBail"
       },
       {
-        "title": "Ham here (KD0RFP) \u2014 I made an audio drama about a radio operator who won't stop broadcasting after the grid dies",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuzm1r/ham_here_kd0rfp_i_made_an_audio_drama_about_a/",
-        "author": "/u/foxpro159"
+        "title": "ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a 36 second on / 2 minutes off rotation.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/",
+        "author": "/u/ARISS_Intl"
       },
       {
-        "title": "Phasing out Telephone Landlines, FCC Comment Period",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wupc86/phasing_out_telephone_landlines_fcc_comment_period/",
-        "author": "/u/ThatChucklehead"
+        "title": "24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much more lively with Raw SDR I/ Q vs sound card. Adding auto populated context and RA makes it more informative too.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/",
+        "author": "/u/DeepSpace1420MHZ"
       },
       {
-        "title": "I got the FLEX-1500 working on Linux!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv3mf5/i_got_the_flex1500_working_on_linux/",
-        "author": "/u/Compuvin"
+        "title": "2 Meter Only Radios",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/",
+        "author": "/u/Sunset1hiker"
       },
       {
-        "title": "For the ARES/RACES and event-comms folks: where does the current setup actually fall short?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv35y9/for_the_aresraces_and_eventcomms_folks_where_does/",
-        "author": "/u/AuthenSIC"
+        "title": "Got a truSDX? You can now use it with your Mac with ease",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/",
+        "author": "/u/jasiek83"
       },
       {
-        "title": "What do you guys think of my new antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wucbhn/what_do_you_guys_think_of_my_new_antenna/",
-        "author": "/u/PU5PSY"
+        "title": "New antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/",
+        "author": "/u/Otherwise_Extreme721"
       },
       {
-        "title": "W2JZX",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wugfw3/w2jzx/",
-        "author": "/u/becausethenight_"
+        "title": "Activating Glacier and Waterton Lakes NP",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/",
+        "author": "/u/airbusman5514"
       },
       {
-        "title": "3D Printed Meshcore Cavity Filter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wujmbu/3d_printed_meshcore_cavity_filter/",
-        "author": "/u/MisterBazz"
+        "title": "AD9361 Verilog Coding",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/",
+        "author": "/u/SuccessfulStreet2321"
       },
       {
-        "title": "Its true hahaha",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wu4wtr/its_true_hahaha/",
-        "author": "/u/-6569"
+        "title": "I built a free map showing POTA park boundaries, n-fer overlaps, and where the picnic tables are",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/",
+        "author": "/u/Lonely_Ad3653"
       },
       {
-        "title": "Heads up: FEMA & FCC partnering for a national Emergency Alert System test on November 17, 2026",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wujzqx/heads_up_fema_fcc_partnering_for_a_national/",
-        "author": "/u/Old-Engineer854"
+        "title": "Interference on 20m",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/",
+        "author": "/u/LostInThePileup"
       },
       {
-        "title": "IC-7300, MacBook M5 Pro, and SDR-Control",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv2umr/ic7300_macbook_m5_pro_and_sdrcontrol/",
-        "author": "/u/UGAGuy2010"
+        "title": "Good videos to inspire new hams, especially to demonstrate NVIS and JS8Call for newcomers?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvgvo4/good_videos_to_inspire_new_hams_especially_to/",
+        "author": "/u/ElementreeCr0"
+      },
+      {
+        "title": "POTA, SOTA, etc?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/",
+        "author": "/u/greenwoody2018"
+      },
+      {
+        "title": "how to setup dvswitch mobile",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvv9hd/how_to_setup_dvswitch_mobile/",
+        "author": "/u/tiller-1"
+      },
+      {
+        "title": "Which Multiple Band Radio Antenna Would Be Better Choice Of The Two: the PowerWerx ANTCOM or Comet GP-2x4 ?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvunzl/which_multiple_band_radio_antenna_would_be_better/",
+        "author": "/u/Get-The-Lead-Out_45"
+      },
+      {
+        "title": "FT-710 JDM model firmware indicator (DST: DEV)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtw8d/ft710_jdm_model_firmware_indicator_dst_dev/",
+        "author": "/u/ambarnd"
+      },
+      {
+        "title": "Something I found thrifting",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtv4d/something_i_found_thrifting/",
+        "author": "/u/lookingforanswerstoq"
       },
       {
         "title": "Who keeps operating stuff like this in 40m band?",
@@ -72,64 +97,39 @@
         "author": "/u/Flashy_Gas9955"
       },
       {
-        "title": "What have I got and how do I get it up and running",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wud6vk/what_have_i_got_and_how_do_i_get_it_up_and_running/",
-        "author": "/u/Quirky_Box5241"
+        "title": "Ham here (KD0RFP) \u2014 I made an audio drama about a radio operator who won't stop broadcasting after the grid dies",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wuzm1r/ham_here_kd0rfp_i_made_an_audio_drama_about_a/",
+        "author": "/u/foxpro159"
       },
       {
-        "title": "Looking for a QRP SDR...",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuy7j0/looking_for_a_qrp_sdr/",
-        "author": "/u/No_Change_4499"
+        "title": "For the ARES/RACES and event-comms folks: where does the current setup actually fall short?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wv35y9/for_the_aresraces_and_eventcomms_folks_where_does/",
+        "author": "/u/AuthenSIC"
       },
       {
-        "title": "Recommendations for in-person hands on training?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuw1qj/recommendations_for_inperson_hands_on_training/",
-        "author": "/u/medicmeow"
+        "title": "Phasing out Telephone Landlines, FCC Comment Period",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wupc86/phasing_out_telephone_landlines_fcc_comment_period/",
+        "author": "/u/ThatChucklehead"
       },
       {
-        "title": "New Project with the BLP981 LDMOS Transistor",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuq0xa/new_project_with_the_blp981_ldmos_transistor/",
-        "author": "/u/Lubravi"
+        "title": "I need a handheld radio (one walkie-talkie).",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvuvqz/i_need_a_handheld_radio_one_walkietalkie/",
+        "author": "/u/Prestigious-Mix-6889"
       },
       {
-        "title": "Is this a drum antenna, or some sort of radome? Near the very top of a 2,000 ft broadcast tower",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuapj6/is_this_a_drum_antenna_or_some_sort_of_radome/",
-        "author": "/u/BugsBub"
+        "title": "Please help me with my project!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvoqgj/please_help_me_with_my_project/",
+        "author": "/u/LopsidedBonus1851"
       },
       {
-        "title": "Radial Experiment! Tips!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wu8g9h/radial_experiment_tips/",
-        "author": "/u/The_LoneCoder"
+        "title": "Powering 12V Radios as a Base Station",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wv7fbj/powering_12v_radios_as_a_base_station/",
+        "author": "/u/WhiskySails"
       },
       {
-        "title": "How to find long gone registration",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wugpgw/how_to_find_long_gone_registration/",
-        "author": "/u/51CKS4DW0RLD"
-      },
-      {
-        "title": "updated RAQI self-paced Canadian Amateur Radio Operator Certificate - Basic course",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuekp1/updated_raqi_selfpaced_canadian_amateur_radio/",
-        "author": "/u/EtienneLeSage"
-      },
-      {
-        "title": "Not enough antennas.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wty2xe/not_enough_antennas/",
-        "author": "/u/Good_Resolve_7218"
-      },
-      {
-        "title": "Started my POTA fix finally! 2 activations in 2 days!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wtmd37/started_my_pota_fix_finally_2_activations_in_2/",
-        "author": "/u/Star-Light_1988"
-      },
-      {
-        "title": "Live right now using an MSI 12 bit RSP1. My own software first test, using a Windows USB and my own Native APA, galactic drift peaking around 6:40 EDT",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuilyg/live_right_now_using_an_msi_12_bit_rsp1_my_own/",
-        "author": "/u/DeepSpace1420MHZ"
-      },
-      {
-        "title": "N9TAX Slim Jim Antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wtqg17/n9tax_slim_jim_antenna/",
-        "author": "/u/SD_TAC1"
+        "title": "Coax wound vs double bifilar wound chokes",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wv699c/coax_wound_vs_double_bifilar_wound_chokes/",
+        "author": "/u/thesoulless78"
       }
     ]
   }

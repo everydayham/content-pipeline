@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:32:45.494414",
+  "updated": "2026-10-03T15:04:53.679705",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,104 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Just made my first linked dipole!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwjiqm/just_made_my_first_linked_dipole/",
+        "author": "/u/Albireo98"
+      },
+      {
+        "title": "Passed my General tonight - thanks wm7x!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww8k3s/passed_my_general_tonight_thanks_wm7x/",
+        "author": "/u/Robs_Backyard_BBQ"
+      },
+      {
+        "title": "ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and FM/SSB voice transmitter",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/",
+        "author": "/u/da2jh"
+      },
+      {
+        "title": "Why Would I Post This to an Amateur Radio Sub?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww7ire/why_would_i_post_this_to_an_amateur_radio_sub/",
+        "author": "/u/MorrisCrud"
+      },
+      {
+        "title": "Working the world on 100 watts and a wire again! It doesn't have to be complicated.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww0f4u/working_the_world_on_100_watts_and_a_wire_again/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "ISS SSTV transmissions have begun",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww317w/iss_sstv_transmissions_have_begun/",
+        "author": "/u/ThatSteveGuy_0"
+      },
+      {
+        "title": "Where can i get 12.8Mhz crystal?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwnljg/where_can_i_get_128mhz_crystal/",
+        "author": "/u/Own_Valuable_6131"
+      },
+      {
+        "title": "Productive day new radials and my first built/tuned efhw",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww07oz/productive_day_new_radials_and_my_first/",
+        "author": "/u/The_LoneCoder"
+      },
+      {
+        "title": "Coax question about my CoCo build",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl15n/coax_question_about_my_coco_build/",
+        "author": "/u/OlTartToter"
+      },
+      {
+        "title": "Looking to rent a 12V LiFePO4 in Southern California",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww3omi/looking_to_rent_a_12v_lifepo4_in_southern/",
+        "author": "/u/rossog93"
+      },
+      {
+        "title": "Interference on 20m",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/",
+        "author": "/u/LostInThePileup"
+      },
+      {
         "title": "ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a 36 second on / 2 minutes off rotation.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/",
         "author": "/u/ARISS_Intl"
+      },
+      {
+        "title": "GridTracker2 Call Roster reports wrong county",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww7fgw/gridtracker2_call_roster_reports_wrong_county/",
+        "author": "/u/JustinOtherN6"
+      },
+      {
+        "title": "Continuous 40 MSa/s IQ Streaming over Gigabit Ethernet on ESP32-S31",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1ww4wd3/continuous_40_msas_iq_streaming_over_gigabit/",
+        "author": "/u/rfsparkling"
+      },
+      {
+        "title": "MP Antenna 08-ANT-0861",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwdsuz/mp_antenna_08ant0861/",
+        "author": "/u/ReaseM"
+      },
+      {
+        "title": "Recommendations for pirate/independent/college radio mixes from preferably the 90's/early 00's?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwnj27/recommendations_for_pirateindependentcollege/",
+        "author": "/u/Professional_Music_1"
+      },
+      {
+        "title": "Identify Legacy Coax",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwbztv/identify_legacy_coax/",
+        "author": "/u/Albergsteve"
+      },
+      {
+        "title": "Something I found thrifting",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtv4d/something_i_found_thrifting/",
+        "author": "/u/lookingforanswerstoq"
+      },
+      {
+        "title": "POTA, SOTA, etc?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/",
+        "author": "/u/greenwoody2018"
+      },
+      {
+        "title": "how do i start amateur radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wweuk7/how_do_i_start_amateur_radio/",
+        "author": "/u/cadi_cadi137"
       },
       {
         "title": "24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much more lively with Raw SDR I/ Q vs sound card. Adding auto populated context and RA makes it more informative too.",
@@ -32,104 +127,9 @@
         "author": "/u/Sunset1hiker"
       },
       {
-        "title": "Got a truSDX? You can now use it with your Mac with ease",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/",
-        "author": "/u/jasiek83"
-      },
-      {
-        "title": "New antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/",
-        "author": "/u/Otherwise_Extreme721"
-      },
-      {
-        "title": "Activating Glacier and Waterton Lakes NP",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/",
-        "author": "/u/airbusman5514"
-      },
-      {
-        "title": "AD9361 Verilog Coding",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/",
-        "author": "/u/SuccessfulStreet2321"
-      },
-      {
-        "title": "I built a free map showing POTA park boundaries, n-fer overlaps, and where the picnic tables are",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/",
-        "author": "/u/Lonely_Ad3653"
-      },
-      {
-        "title": "Interference on 20m",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/",
-        "author": "/u/LostInThePileup"
-      },
-      {
-        "title": "Good videos to inspire new hams, especially to demonstrate NVIS and JS8Call for newcomers?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvgvo4/good_videos_to_inspire_new_hams_especially_to/",
-        "author": "/u/ElementreeCr0"
-      },
-      {
-        "title": "POTA, SOTA, etc?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/",
-        "author": "/u/greenwoody2018"
-      },
-      {
-        "title": "how to setup dvswitch mobile",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvv9hd/how_to_setup_dvswitch_mobile/",
-        "author": "/u/tiller-1"
-      },
-      {
-        "title": "Which Multiple Band Radio Antenna Would Be Better Choice Of The Two: the PowerWerx ANTCOM or Comet GP-2x4 ?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvunzl/which_multiple_band_radio_antenna_would_be_better/",
-        "author": "/u/Get-The-Lead-Out_45"
-      },
-      {
-        "title": "FT-710 JDM model firmware indicator (DST: DEV)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtw8d/ft710_jdm_model_firmware_indicator_dst_dev/",
-        "author": "/u/ambarnd"
-      },
-      {
-        "title": "Something I found thrifting",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtv4d/something_i_found_thrifting/",
-        "author": "/u/lookingforanswerstoq"
-      },
-      {
-        "title": "Who keeps operating stuff like this in 40m band?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv1zze/who_keeps_operating_stuff_like_this_in_40m_band/",
-        "author": "/u/Flashy_Gas9955"
-      },
-      {
-        "title": "Ham here (KD0RFP) \u2014 I made an audio drama about a radio operator who won't stop broadcasting after the grid dies",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wuzm1r/ham_here_kd0rfp_i_made_an_audio_drama_about_a/",
-        "author": "/u/foxpro159"
-      },
-      {
-        "title": "For the ARES/RACES and event-comms folks: where does the current setup actually fall short?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv35y9/for_the_aresraces_and_eventcomms_folks_where_does/",
-        "author": "/u/AuthenSIC"
-      },
-      {
-        "title": "Phasing out Telephone Landlines, FCC Comment Period",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wupc86/phasing_out_telephone_landlines_fcc_comment_period/",
-        "author": "/u/ThatChucklehead"
-      },
-      {
-        "title": "I need a handheld radio (one walkie-talkie).",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvuvqz/i_need_a_handheld_radio_one_walkietalkie/",
-        "author": "/u/Prestigious-Mix-6889"
-      },
-      {
-        "title": "Please help me with my project!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvoqgj/please_help_me_with_my_project/",
-        "author": "/u/LopsidedBonus1851"
-      },
-      {
-        "title": "Powering 12V Radios as a Base Station",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv7fbj/powering_12v_radios_as_a_base_station/",
-        "author": "/u/WhiskySails"
-      },
-      {
-        "title": "Coax wound vs double bifilar wound chokes",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wv699c/coax_wound_vs_double_bifilar_wound_chokes/",
-        "author": "/u/thesoulless78"
+        "title": "Receive 13 cm / 2.4 GHz in SDR++ with a single ESP32-S3 board and a USB cable (no FPGA), building on u/h0m3us3r's eSpDR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wvz2k3/receive_13_cm_24_ghz_in_sdr_with_a_single_esp32s3/",
+        "author": "/u/da2jh"
       }
     ]
   }

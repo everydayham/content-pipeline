@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-02 16:32 UTC*
+*Last updated: 2026-10-03 15:04 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a ...](https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/)**
-by u/ARISS_Intl
+**3. [Just made my first linked dipole!](https://www.reddit.com/r/amateurradio/comments/1wwjiqm/just_made_my_first_linked_dipole/)**
+by u/Albireo98
 
-**4. [24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much more lively w...](https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/)**
-by u/DeepSpace1420MHZ
+**4. [Passed my General tonight - thanks wm7x!](https://www.reddit.com/r/amateurradio/comments/1ww8k3s/passed_my_general_tonight_thanks_wm7x/)**
+by u/Robs_Backyard_BBQ
 
-**5. [2 Meter Only Radios](https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/)**
-by u/Sunset1hiker
+**5. [ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and FM/SSB voi...](https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/)**
+by u/da2jh
 
-**6. [Got a truSDX? You can now use it with your Mac with ease](https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/)**
-by u/jasiek83
+**6. [Why Would I Post This to an Amateur Radio Sub?](https://www.reddit.com/r/amateurradio/comments/1ww7ire/why_would_i_post_this_to_an_amateur_radio_sub/)**
+by u/MorrisCrud
 
-**7. [New antenna](https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/)**
-by u/Otherwise_Extreme721
+**7. [Working the world on 100 watts and a wire again! It doesn't have to be complicat...](https://www.reddit.com/r/amateurradio/comments/1ww0f4u/working_the_world_on_100_watts_and_a_wire_again/)**
+by u/adhdff
 
-**8. [Activating Glacier and Waterton Lakes NP](https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/)**
-by u/airbusman5514
+**8. [ISS SSTV transmissions have begun](https://www.reddit.com/r/amateurradio/comments/1ww317w/iss_sstv_transmissions_have_begun/)**
+by u/ThatSteveGuy_0
 
-**9. [AD9361 Verilog Coding](https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/)**
-by u/SuccessfulStreet2321
+**9. [Where can i get 12.8Mhz crystal?](https://www.reddit.com/r/amateurradio/comments/1wwnljg/where_can_i_get_128mhz_crystal/)**
+by u/Own_Valuable_6131
 
-**10. [I built a free map showing POTA park boundaries, n-fer overlaps, and where the p...](https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/)**
-by u/Lonely_Ad3653
+**10. [Productive day new radials and my first built/tuned efhw](https://www.reddit.com/r/amateurradio/comments/1ww07oz/productive_day_new_radials_and_my_first/)**
+by u/The_LoneCoder
 
-**11. [Interference on 20m](https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/)**
+**11. [Coax question about my CoCo build](https://www.reddit.com/r/amateurradio/comments/1wwl15n/coax_question_about_my_coco_build/)**
+by u/OlTartToter
+
+**12. [Looking to rent a 12V LiFePO4 in Southern California](https://www.reddit.com/r/amateurradio/comments/1ww3omi/looking_to_rent_a_12v_lifepo4_in_southern/)**
+by u/rossog93
+
+**13. [Interference on 20m](https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/)**
 by u/LostInThePileup
 
-**12. [Good videos to inspire new hams, especially to demonstrate NVIS and JS8Call for ...](https://www.reddit.com/r/amateurradio/comments/1wvgvo4/good_videos_to_inspire_new_hams_especially_to/)**
-by u/ElementreeCr0
+**14. [ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a ...](https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/)**
+by u/ARISS_Intl
 
-**13. [POTA, SOTA, etc?](https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/)**
-by u/greenwoody2018
-
-**14. [how to setup dvswitch mobile](https://www.reddit.com/r/amateurradio/comments/1wvv9hd/how_to_setup_dvswitch_mobile/)**
-by u/tiller-1
-
-**15. [Which Multiple Band Radio Antenna Would Be Better Choice Of The Two: the PowerWe...](https://www.reddit.com/r/amateurradio/comments/1wvunzl/which_multiple_band_radio_antenna_would_be_better/)**
-by u/Get-The-Lead-Out_45
+**15. [GridTracker2 Call Roster reports wrong county](https://www.reddit.com/r/amateurradio/comments/1ww7fgw/gridtracker2_call_roster_reports_wrong_county/)**
+by u/JustinOtherN6
 
 ---
 
@@ -61,14 +61,14 @@ by u/Get-The-Lead-Out_45
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[ARISS SSTV event underway! 12 images will be transmitted on 437.550 MH...](https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/)** (r/amateurradio)
-- **[24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much mor...](https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/)** (r/amateurradio)
-- **[2 Meter Only Radios](https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/)** (r/amateurradio)
-- **[Got a truSDX? You can now use it with your Mac with ease](https://www.reddit.com/r/amateurradio/comments/1wvobox/got_a_trusdx_you_can_now_use_it_with_your_mac/)** (r/amateurradio)
-- **[New antenna](https://www.reddit.com/r/amateurradio/comments/1wvvnau/new_antenna/)** (r/amateurradio)
-- **[Activating Glacier and Waterton Lakes NP](https://www.reddit.com/r/amateurradio/comments/1wvv1hs/activating_glacier_and_waterton_lakes_np/)** (r/amateurradio)
-- **[AD9361 Verilog Coding](https://www.reddit.com/r/amateurradio/comments/1wvkmj0/ad9361_verilog_coding/)** (r/amateurradio)
-- **[I built a free map showing POTA park boundaries, n-fer overlaps, and w...](https://www.reddit.com/r/amateurradio/comments/1wv60ua/i_built_a_free_map_showing_pota_park_boundaries/)** (r/amateurradio)
+- **[Just made my first linked dipole!](https://www.reddit.com/r/amateurradio/comments/1wwjiqm/just_made_my_first_linked_dipole/)** (r/amateurradio)
+- **[Passed my General tonight - thanks wm7x!](https://www.reddit.com/r/amateurradio/comments/1ww8k3s/passed_my_general_tonight_thanks_wm7x/)** (r/amateurradio)
+- **[ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and ...](https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/)** (r/amateurradio)
+- **[Why Would I Post This to an Amateur Radio Sub?](https://www.reddit.com/r/amateurradio/comments/1ww7ire/why_would_i_post_this_to_an_amateur_radio_sub/)** (r/amateurradio)
+- **[Working the world on 100 watts and a wire again! It doesn't have to be...](https://www.reddit.com/r/amateurradio/comments/1ww0f4u/working_the_world_on_100_watts_and_a_wire_again/)** (r/amateurradio)
+- **[ISS SSTV transmissions have begun](https://www.reddit.com/r/amateurradio/comments/1ww317w/iss_sstv_transmissions_have_begun/)** (r/amateurradio)
+- **[Where can i get 12.8Mhz crystal?](https://www.reddit.com/r/amateurradio/comments/1wwnljg/where_can_i_get_128mhz_crystal/)** (r/amateurradio)
+- **[Productive day new radials and my first built/tuned efhw](https://www.reddit.com/r/amateurradio/comments/1ww07oz/productive_day_new_radials_and_my_first/)** (r/amateurradio)
 
 ---
 

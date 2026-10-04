@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:04:53.679705",
+  "updated": "2026-10-04T15:43:15.954583",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,89 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "How do I connect this Yagi to coaxial cable",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxbroa/how_do_i_connect_this_yagi_to_coaxial_cable/",
+        "author": "/u/e73ben"
+      },
+      {
+        "title": "The American Morse Equipment mystery",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxdlzi/the_american_morse_equipment_mystery/",
+        "author": "/u/rrooaaddiiee"
+      },
+      {
+        "title": "I seek the holy grail, AND IT HAS BEEN FOUND!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwt0yx/i_seek_the_holy_grail_and_it_has_been_found/",
+        "author": "/u/TheMorganDev"
+      },
+      {
+        "title": "California showing up",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx2kac/california_showing_up/",
+        "author": "/u/KK5U"
+      },
+      {
+        "title": "I am new and have no license",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx9byr/i_am_new_and_have_no_license/",
+        "author": "/u/I_Am_A_Squid_Kid"
+      },
+      {
+        "title": "Yaesu FT891 Truck Install Out With the old FT857D",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxg6kc/yaesu_ft891_truck_install_out_with_the_old_ft857d/",
+        "author": "/u/Inside-Ebb-3099"
+      },
+      {
+        "title": "First cross-pacific",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx3075/first_crosspacific/",
+        "author": "/u/BrakeFastBurrito"
+      },
+      {
+        "title": "Plug and Play Panadapter FTDX10",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxhbr8/plug_and_play_panadapter_ftdx10/",
+        "author": "/u/M7EUP"
+      },
+      {
+        "title": "Just starting out and I have some questions regarding equipment",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxgb6o/just_starting_out_and_i_have_some_questions/",
+        "author": "/u/SadNipple80"
+      },
+      {
+        "title": "What RST would you give this guy?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx093c/what_rst_would_you_give_this_guy/",
+        "author": "/u/SultanPepper"
+      },
+      {
         "title": "Just made my first linked dipole!",
         "link": "https://www.reddit.com/r/amateurradio/comments/1wwjiqm/just_made_my_first_linked_dipole/",
         "author": "/u/Albireo98"
+      },
+      {
+        "title": "Best antenna for VHF/UHF for 4Runner TRD Pro?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwpjjw/best_antenna_for_vhfuhf_for_4runner_trd_pro/",
+        "author": "/u/leocardenas"
+      },
+      {
+        "title": "Astronaut to use Amateur Radio to talk to UK students on Tuesday",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwqcj4/astronaut_to_use_amateur_radio_to_talk_to_uk/",
+        "author": "/u/AmateurRadioHF"
+      },
+      {
+        "title": "Motorola XIR M8668i melts audio cable",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx4s9e/motorola_xir_m8668i_melts_audio_cable/",
+        "author": "/u/Own_Valuable_6131"
+      },
+      {
+        "title": "My first time generating SWL cards after logging some FT8 interactions! How do they look?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwskds/my_first_time_generating_swl_cards_after_logging/",
+        "author": "/u/RozzKiv"
+      },
+      {
+        "title": "Erste Gehversuche auf der Kurzwelle",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwx6m7/erste_gehversuche_auf_der_kurzwelle/",
+        "author": "/u/AlPacino_01"
+      },
+      {
+        "title": "ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and FM/SSB voice transmitter",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/",
+        "author": "/u/da2jh"
       },
       {
         "title": "Passed my General tonight - thanks wm7x!",
@@ -27,9 +107,14 @@
         "author": "/u/Robs_Backyard_BBQ"
       },
       {
-        "title": "ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and FM/SSB voice transmitter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/",
-        "author": "/u/da2jh"
+        "title": "Most ridiculous parabolic dish antenna I can make?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwuuu8/most_ridiculous_parabolic_dish_antenna_i_can_make/",
+        "author": "/u/PaleBlueLightning"
+      },
+      {
+        "title": "Builtright dash Mount & USB power",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx20wo/builtright_dash_mount_usb_power/",
+        "author": "/u/ManyMixture826"
       },
       {
         "title": "Why Would I Post This to an Amateur Radio Sub?",
@@ -45,91 +130,6 @@
         "title": "ISS SSTV transmissions have begun",
         "link": "https://www.reddit.com/r/amateurradio/comments/1ww317w/iss_sstv_transmissions_have_begun/",
         "author": "/u/ThatSteveGuy_0"
-      },
-      {
-        "title": "Where can i get 12.8Mhz crystal?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwnljg/where_can_i_get_128mhz_crystal/",
-        "author": "/u/Own_Valuable_6131"
-      },
-      {
-        "title": "Productive day new radials and my first built/tuned efhw",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww07oz/productive_day_new_radials_and_my_first/",
-        "author": "/u/The_LoneCoder"
-      },
-      {
-        "title": "Coax question about my CoCo build",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl15n/coax_question_about_my_coco_build/",
-        "author": "/u/OlTartToter"
-      },
-      {
-        "title": "Looking to rent a 12V LiFePO4 in Southern California",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww3omi/looking_to_rent_a_12v_lifepo4_in_southern/",
-        "author": "/u/rossog93"
-      },
-      {
-        "title": "Interference on 20m",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvxgzm/interference_on_20m/",
-        "author": "/u/LostInThePileup"
-      },
-      {
-        "title": "ARISS SSTV event underway! 12 images will be transmitted on 437.550 MHz FM in a 36 second on / 2 minutes off rotation.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvrp1f/ariss_sstv_event_underway_12_images_will_be/",
-        "author": "/u/ARISS_Intl"
-      },
-      {
-        "title": "GridTracker2 Call Roster reports wrong county",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww7fgw/gridtracker2_call_roster_reports_wrong_county/",
-        "author": "/u/JustinOtherN6"
-      },
-      {
-        "title": "Continuous 40 MSa/s IQ Streaming over Gigabit Ethernet on ESP32-S31",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww4wd3/continuous_40_msas_iq_streaming_over_gigabit/",
-        "author": "/u/rfsparkling"
-      },
-      {
-        "title": "MP Antenna 08-ANT-0861",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwdsuz/mp_antenna_08ant0861/",
-        "author": "/u/ReaseM"
-      },
-      {
-        "title": "Recommendations for pirate/independent/college radio mixes from preferably the 90's/early 00's?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwnj27/recommendations_for_pirateindependentcollege/",
-        "author": "/u/Professional_Music_1"
-      },
-      {
-        "title": "Identify Legacy Coax",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwbztv/identify_legacy_coax/",
-        "author": "/u/Albergsteve"
-      },
-      {
-        "title": "Something I found thrifting",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvtv4d/something_i_found_thrifting/",
-        "author": "/u/lookingforanswerstoq"
-      },
-      {
-        "title": "POTA, SOTA, etc?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvvsds/pota_sota_etc/",
-        "author": "/u/greenwoody2018"
-      },
-      {
-        "title": "how do i start amateur radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wweuk7/how_do_i_start_amateur_radio/",
-        "author": "/u/cadi_cadi137"
-      },
-      {
-        "title": "24-Hour HI intensity SKY map plot, a spectral FFT scan, looks much more lively with Raw SDR I/ Q vs sound card. Adding auto populated context and RA makes it more informative too.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvwyft/24hour_hi_intensity_sky_map_plot_a_spectral_fft/",
-        "author": "/u/DeepSpace1420MHZ"
-      },
-      {
-        "title": "2 Meter Only Radios",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvejuc/2_meter_only_radios/",
-        "author": "/u/Sunset1hiker"
-      },
-      {
-        "title": "Receive 13 cm / 2.4 GHz in SDR++ with a single ESP32-S3 board and a USB cable (no FPGA), building on u/h0m3us3r's eSpDR",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wvz2k3/receive_13_cm_24_ghz_in_sdr_with_a_single_esp32s3/",
-        "author": "/u/da2jh"
       }
     ]
   }

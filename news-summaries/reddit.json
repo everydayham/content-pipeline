@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T15:43:15.954583",
+  "updated": "2026-10-05T19:32:25.377570",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -8,13 +8,68 @@
     "amateurradio": [
       {
         "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wsdyvp/weekly_information_mentor_new_license_thread/",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wy7xsm/weekly_information_mentor_new_license_thread/",
         "author": "/u/AutoModerator"
       },
       {
         "title": "Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/",
         "author": "/u/ItsBail"
+      },
+      {
+        "title": "Not sure what \"OTA\" this is...",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wydd6z/not_sure_what_ota_this_is/",
+        "author": "/u/Gigem1987"
+      },
+      {
+        "title": "Listening and decoding FT-8 with Sangean ATS-909X2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wyh2jm/listening_and_decoding_ft8_with_sangean_ats909x2/",
+        "author": "/u/_neptune11"
+      },
+      {
+        "title": "Help identity inherited tower?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wyehho/help_identity_inherited_tower/",
+        "author": "/u/fashionboy385"
+      },
+      {
+        "title": "What digital modes do yall enjoy - that people actually use regularly?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxzr8q/what_digital_modes_do_yall_enjoy_that_people/",
+        "author": "/u/Keeper4560"
+      },
+      {
+        "title": "Pico balloon",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wy9dm4/pico_balloon/",
+        "author": "/u/random1237683"
+      },
+      {
+        "title": "\"Russian Engineering\" Mast Project: Budget Cellular-Style Lightning Protection with a \"Matryoshka\" HDPE Coax Choke and Low-Inductance Ground Grid",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wy56wz/russian_engineering_mast_project_budget/",
+        "author": "/u/Weekly-Award-Weekly"
+      },
+      {
+        "title": "First time collecting SSTV transmissions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxtvxn/first_time_collecting_sstv_transmissions/",
+        "author": "/u/l3shyy"
+      },
+      {
+        "title": "160/80 meter popping tonight",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxvk15/16080_meter_popping_tonight/",
+        "author": "/u/CeasarsDomain"
+      },
+      {
+        "title": "High School Engineering Project: Looking for Responses from HAM Operators!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxy5s8/high_school_engineering_project_looking_for/",
+        "author": "/u/Helios-Chariot"
+      },
+      {
+        "title": "Does supply voltage matter?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wy7qb6/does_supply_voltage_matter/",
+        "author": "/u/somebodyelse22"
+      },
+      {
+        "title": "Yaesu FT-857d",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxuttk/yaesu_ft857d/",
+        "author": "/u/cougar226"
       },
       {
         "title": "How do I connect this Yagi to coaxial cable",
@@ -27,9 +82,19 @@
         "author": "/u/rrooaaddiiee"
       },
       {
-        "title": "I seek the holy grail, AND IT HAS BEEN FOUND!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwt0yx/i_seek_the_holy_grail_and_it_has_been_found/",
-        "author": "/u/TheMorganDev"
+        "title": "I am new and have no license",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx9byr/i_am_new_and_have_no_license/",
+        "author": "/u/I_Am_A_Squid_Kid"
+      },
+      {
+        "title": "I'm from France/Switzerland, is there any way I can transmit without a license?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wy3i7r/im_from_franceswitzerland_is_there_any_way_i_can/",
+        "author": "/u/Do_Donovan"
+      },
+      {
+        "title": "Antenna recommendation for leased Ford Mach-e Mustang",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxlx3c/antenna_recommendation_for_leased_ford_mache/",
+        "author": "/u/EntropyNegotiator"
       },
       {
         "title": "California showing up",
@@ -37,24 +102,14 @@
         "author": "/u/KK5U"
       },
       {
-        "title": "I am new and have no license",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wx9byr/i_am_new_and_have_no_license/",
-        "author": "/u/I_Am_A_Squid_Kid"
+        "title": "I seek the holy grail, AND IT HAS BEEN FOUND!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wwt0yx/i_seek_the_holy_grail_and_it_has_been_found/",
+        "author": "/u/TheMorganDev"
       },
       {
-        "title": "Yaesu FT891 Truck Install Out With the old FT857D",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wxg6kc/yaesu_ft891_truck_install_out_with_the_old_ft857d/",
-        "author": "/u/Inside-Ebb-3099"
-      },
-      {
-        "title": "First cross-pacific",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wx3075/first_crosspacific/",
-        "author": "/u/BrakeFastBurrito"
-      },
-      {
-        "title": "Plug and Play Panadapter FTDX10",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wxhbr8/plug_and_play_panadapter_ftdx10/",
-        "author": "/u/M7EUP"
+        "title": "W6LVP Active Receive Loop",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxt9hz/w6lvp_active_receive_loop/",
+        "author": "/u/horsesethawk"
       },
       {
         "title": "Just starting out and I have some questions regarding equipment",
@@ -62,74 +117,19 @@
         "author": "/u/SadNipple80"
       },
       {
-        "title": "What RST would you give this guy?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wx093c/what_rst_would_you_give_this_guy/",
-        "author": "/u/SultanPepper"
+        "title": "how to fix this dsd error ?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxokgo/how_to_fix_this_dsd_error/",
+        "author": "/u/Global_Chicken_6334"
       },
       {
-        "title": "Just made my first linked dipole!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwjiqm/just_made_my_first_linked_dipole/",
-        "author": "/u/Albireo98"
+        "title": "First cross-pacific",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wx3075/first_crosspacific/",
+        "author": "/u/BrakeFastBurrito"
       },
       {
-        "title": "Best antenna for VHF/UHF for 4Runner TRD Pro?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwpjjw/best_antenna_for_vhfuhf_for_4runner_trd_pro/",
-        "author": "/u/leocardenas"
-      },
-      {
-        "title": "Astronaut to use Amateur Radio to talk to UK students on Tuesday",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwqcj4/astronaut_to_use_amateur_radio_to_talk_to_uk/",
-        "author": "/u/AmateurRadioHF"
-      },
-      {
-        "title": "Motorola XIR M8668i melts audio cable",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wx4s9e/motorola_xir_m8668i_melts_audio_cable/",
-        "author": "/u/Own_Valuable_6131"
-      },
-      {
-        "title": "My first time generating SWL cards after logging some FT8 interactions! How do they look?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwskds/my_first_time_generating_swl_cards_after_logging/",
-        "author": "/u/RozzKiv"
-      },
-      {
-        "title": "Erste Gehversuche auf der Kurzwelle",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwx6m7/erste_gehversuche_auf_der_kurzwelle/",
-        "author": "/u/AlPacino_01"
-      },
-      {
-        "title": "ESP32-S3 board as a 13 cm transceiver: rtl_tcp receiver for SDR++ and FM/SSB voice transmitter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwl50f/esp32s3_board_as_a_13_cm_transceiver_rtl_tcp/",
-        "author": "/u/da2jh"
-      },
-      {
-        "title": "Passed my General tonight - thanks wm7x!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww8k3s/passed_my_general_tonight_thanks_wm7x/",
-        "author": "/u/Robs_Backyard_BBQ"
-      },
-      {
-        "title": "Most ridiculous parabolic dish antenna I can make?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wwuuu8/most_ridiculous_parabolic_dish_antenna_i_can_make/",
-        "author": "/u/PaleBlueLightning"
-      },
-      {
-        "title": "Builtright dash Mount & USB power",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1wx20wo/builtright_dash_mount_usb_power/",
-        "author": "/u/ManyMixture826"
-      },
-      {
-        "title": "Why Would I Post This to an Amateur Radio Sub?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww7ire/why_would_i_post_this_to_an_amateur_radio_sub/",
-        "author": "/u/MorrisCrud"
-      },
-      {
-        "title": "Working the world on 100 watts and a wire again! It doesn't have to be complicated.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww0f4u/working_the_world_on_100_watts_and_a_wire_again/",
-        "author": "/u/adhdff"
-      },
-      {
-        "title": "ISS SSTV transmissions have begun",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1ww317w/iss_sstv_transmissions_have_begun/",
-        "author": "/u/ThatSteveGuy_0"
+        "title": "Chameleon bpack duffle bag",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1wxmpm2/chameleon_bpack_duffle_bag/",
+        "author": "/u/The_LoneCoder"
       }
     ]
   }

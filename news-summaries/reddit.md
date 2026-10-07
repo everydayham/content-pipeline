@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-06 17:04 UTC*
+*Last updated: 2026-10-07 17:42 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Why do you love your Elecraft?](https://www.reddit.com/r/amateurradio/comments/1wz4jp6/why_do_you_love_your_elecraft/)**
-by u/These-Math1384
+**3. [Somewhat relevant](https://www.reddit.com/r/amateurradio/comments/1wzafgv/somewhat_relevant/)**
+by u/Futrel
 
-**4. [Designing a Rugged Modular cage for Anytone AT-778UV - looking for feedback.](https://www.reddit.com/r/amateurradio/comments/1wywp3u/designing_a_rugged_modular_cage_for_anytone/)**
-by u/hdmando
+**4. [Applying for silent key callsign](https://www.reddit.com/r/amateurradio/comments/1wzzno6/applying_for_silent_key_callsign/)**
+by u/LostInThePileup
 
-**5. [Discouraged with CW](https://www.reddit.com/r/amateurradio/comments/1wyopbg/discouraged_with_cw/)**
-by u/x_Red_Beard_x
+**5. [73 Means Something Different for Me](https://www.reddit.com/r/amateurradio/comments/1wzwyz8/73_means_something_different_for_me/)**
+by u/Remote_Morning2366
 
-**6. [Not sure what "OTA" this is...](https://www.reddit.com/r/amateurradio/comments/1wydd6z/not_sure_what_ota_this_is/)**
-by u/Gigem1987
+**6. [Kenwood TS-130S](https://www.reddit.com/r/amateurradio/comments/1x02r1a/kenwood_ts130s/)**
+by u/Ok_Leader2470
 
-**7. [Best intro HF Transceiver for broke college student](https://www.reddit.com/r/amateurradio/comments/1wyw623/best_intro_hf_transceiver_for_broke_college/)**
-by u/SonOfAG0D
+**7. [Looking for advice](https://www.reddit.com/r/amateurradio/comments/1wztvu0/looking_for_advice/)**
+by u/Roadkill1223
 
-**8. [Just not feasible in my area and with my budget. Anyone else have to just give i...](https://www.reddit.com/r/amateurradio/comments/1wymryq/just_not_feasible_in_my_area_and_with_my_budget/)**
-by u/EyeYamNegan
+**8. [QRPBuilder is the new QRPGuys](https://www.reddit.com/r/amateurradio/comments/1wzn118/qrpbuilder_is_the_new_qrpguys/)**
+by u/root_127-0-0-1
 
-**9. [Ragazzi ho trovato da un amico un Motorola Communication System Analyzer a 150 e...](https://www.reddit.com/r/amateurradio/comments/1wz38l8/ragazzi_ho_trovato_da_un_amico_un_motorola/)**
-by u/Lopsided_Window_7533
+**9. [HF Digital Voice with no software installed](https://www.reddit.com/r/amateurradio/comments/1wzliqt/hf_digital_voice_with_no_software_installed/)**
+by u/k1fm
 
-**10. [[Upcoming Activation] K1MFD – Meriden Fire 175th Anniversary SOTA/POTA 2-fer (Oc...](https://www.reddit.com/r/amateurradio/comments/1wz1if4/upcoming_activation_k1mfd_meriden_fire_175th/)**
-by u/adhdff
+**10. [CW vs SMS](https://www.reddit.com/r/amateurradio/comments/1wzj1fl/cw_vs_sms/)**
+by u/blue-moto
 
-**11. [Some questions about complex impedance](https://www.reddit.com/r/amateurradio/comments/1wylqt0/some_questions_about_complex_impedance/)**
-by u/KhyberPasshole
+**11. [Testing different SDR’s I/Q recordings with a Galactic drift of the same sky sli...](https://www.reddit.com/r/amateurradio/comments/1wzqmk3/testing_different_sdrs_iq_recordings_with_a/)**
+by u/DeepSpace1420MHZ
 
-**12. [FCC Remote Exam Sessions for International Applicants – October 2026](https://www.reddit.com/r/amateurradio/comments/1wytz8c/fcc_remote_exam_sessions_for_international/)**
-by u/ds1upg
+**12. [HF (at least 20m-80m) Antenna in Apartment Complex](https://www.reddit.com/r/amateurradio/comments/1wzo8oe/hf_at_least_20m80m_antenna_in_apartment_complex/)**
+by u/Mcpower03
 
-**13. [Listening and decoding FT-8 with Sangean ATS-909X2](https://www.reddit.com/r/amateurradio/comments/1wyh2jm/listening_and_decoding_ft8_with_sangean_ats909x2/)**
-by u/_neptune11
+**13. [which radio should i get? baofeng uv-21 pro v2 the quansheng uv k5](https://www.reddit.com/r/amateurradio/comments/1x021dl/which_radio_should_i_get_baofeng_uv21_pro_v2_the/)**
+by u/technostaff
 
-**14. [Companion WebApp for FT857D and G90](https://www.reddit.com/r/amateurradio/comments/1wywoqf/companion_webapp_for_ft857d_and_g90/)**
-by u/zs6buj
+**14. [Everyone wake up 10m is open right now](https://www.reddit.com/r/amateurradio/comments/1wzb3hm/everyone_wake_up_10m_is_open_right_now/)**
+by u/MarinerMouth
 
-**15. [Help identity inherited tower?](https://www.reddit.com/r/amateurradio/comments/1wyehho/help_identity_inherited_tower/)**
-by u/fashionboy385
+**15. [Need help with QFH on satellite dish](https://www.reddit.com/r/amateurradio/comments/1wzuufh/need_help_with_qfh_on_satellite_dish/)**
+by u/meta_burn
 
 ---
 
@@ -61,14 +61,14 @@ by u/fashionboy385
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wy7xsm/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Why do you love your Elecraft?](https://www.reddit.com/r/amateurradio/comments/1wz4jp6/why_do_you_love_your_elecraft/)** (r/amateurradio)
-- **[Designing a Rugged Modular cage for Anytone AT-778UV - looking for fee...](https://www.reddit.com/r/amateurradio/comments/1wywp3u/designing_a_rugged_modular_cage_for_anytone/)** (r/amateurradio)
-- **[Discouraged with CW](https://www.reddit.com/r/amateurradio/comments/1wyopbg/discouraged_with_cw/)** (r/amateurradio)
-- **[Not sure what "OTA" this is...](https://www.reddit.com/r/amateurradio/comments/1wydd6z/not_sure_what_ota_this_is/)** (r/amateurradio)
-- **[Best intro HF Transceiver for broke college student](https://www.reddit.com/r/amateurradio/comments/1wyw623/best_intro_hf_transceiver_for_broke_college/)** (r/amateurradio)
-- **[Just not feasible in my area and with my budget. Anyone else have to j...](https://www.reddit.com/r/amateurradio/comments/1wymryq/just_not_feasible_in_my_area_and_with_my_budget/)** (r/amateurradio)
-- **[Ragazzi ho trovato da un amico un Motorola Communication System Analyz...](https://www.reddit.com/r/amateurradio/comments/1wz38l8/ragazzi_ho_trovato_da_un_amico_un_motorola/)** (r/amateurradio)
-- **[[Upcoming Activation] K1MFD – Meriden Fire 175th Anniversary SOTA/POTA...](https://www.reddit.com/r/amateurradio/comments/1wz1if4/upcoming_activation_k1mfd_meriden_fire_175th/)** (r/amateurradio)
+- **[Somewhat relevant](https://www.reddit.com/r/amateurradio/comments/1wzafgv/somewhat_relevant/)** (r/amateurradio)
+- **[Applying for silent key callsign](https://www.reddit.com/r/amateurradio/comments/1wzzno6/applying_for_silent_key_callsign/)** (r/amateurradio)
+- **[73 Means Something Different for Me](https://www.reddit.com/r/amateurradio/comments/1wzwyz8/73_means_something_different_for_me/)** (r/amateurradio)
+- **[Kenwood TS-130S](https://www.reddit.com/r/amateurradio/comments/1x02r1a/kenwood_ts130s/)** (r/amateurradio)
+- **[Looking for advice](https://www.reddit.com/r/amateurradio/comments/1wztvu0/looking_for_advice/)** (r/amateurradio)
+- **[QRPBuilder is the new QRPGuys](https://www.reddit.com/r/amateurradio/comments/1wzn118/qrpbuilder_is_the_new_qrpguys/)** (r/amateurradio)
+- **[HF Digital Voice with no software installed](https://www.reddit.com/r/amateurradio/comments/1wzliqt/hf_digital_voice_with_no_software_installed/)** (r/amateurradio)
+- **[CW vs SMS](https://www.reddit.com/r/amateurradio/comments/1wzj1fl/cw_vs_sms/)** (r/amateurradio)
 
 ---
 

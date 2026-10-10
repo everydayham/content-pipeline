@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:22:24.525817",
+  "updated": "2026-10-10T16:07:51.001456",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,6 +17,81 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "My friend's country's government is planning to ban all social media and ways to communicate with outside world. We were adviced to look into amateur radio to stay in touch in the worst case scenario.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x215d0/my_friends_countrys_government_is_planning_to_ban/",
+        "author": "/u/Perry_Tree"
+      },
+      {
+        "title": "12m aluminium pole",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2h3xa/12m_aluminium_pole/",
+        "author": "/u/sugarfree90pl"
+      },
+      {
+        "title": "Looking for simple biased Analog Mixers for RF schematics or equivalents for the SA612/NE612. HF.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2f1v6/looking_for_simple_biased_analog_mixers_for_rf/",
+        "author": "/u/Bandersnatch__"
+      },
+      {
+        "title": "UPLOADING TO QRZ.COM",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2gvce/uploading_to_qrzcom/",
+        "author": "/u/W0CBF"
+      },
+      {
+        "title": "Anyone know of a contest that gives multipliers by different modes worked?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2eah5/anyone_know_of_a_contest_that_gives_multipliers/",
+        "author": "/u/thesoulless78"
+      },
+      {
+        "title": "Amateur Radio and BYD Seal U DMI",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2d4ls/amateur_radio_and_byd_seal_u_dmi/",
+        "author": "/u/PretorianJ"
+      },
+      {
+        "title": "At my whits end with installing an antenna for my shack",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2d0aq/at_my_whits_end_with_installing_an_antenna_for_my/",
+        "author": "/u/Murphys_law1978"
+      },
+      {
+        "title": "This is a plug for an amateur radio related service.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2389q/this_is_a_plug_for_an_amateur_radio_related/",
+        "author": "/u/t_shaped_interests"
+      },
+      {
+        "title": "Amateur Radio LTE & Ham Radio Cellular \u2014 XCL.is",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2fxyu/amateur_radio_lte_ham_radio_cellular_xclis/",
+        "author": "/u/HamLife-org"
+      },
+      {
+        "title": "Using loading coils to shorten radials?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x20a0o/using_loading_coils_to_shorten_radials/",
+        "author": "/u/ragnot-dev"
+      },
+      {
+        "title": "Has anyone tried JTTY? Haven't seen this mentioned here before. New keyboard to keyboard digital mode coming to WSJTX.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x1tbvx/has_anyone_tried_jtty_havent_seen_this_mentioned/",
+        "author": "/u/MarinerMouth"
+      },
+      {
+        "title": "My windowsill antenna hears aircraft at ~350 km, so I built a free open-source tool for planning where to point an antenna (Poland only)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2eo95/my_windowsill_antenna_hears_aircraft_at_350_km_so/",
+        "author": "/u/Czizus"
+      },
+      {
+        "title": "ARISS Announces 4 Year Space Act Extension with NASA",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x1jf3k/ariss_announces_4_year_space_act_extension_with/",
+        "author": "/u/ARISS_Intl"
+      },
+      {
+        "title": "Qt6 version of fldigi for TCI SDR radios - Mac version released",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x20fkm/qt6_version_of_fldigi_for_tci_sdr_radios_mac/",
+        "author": "/u/KC2RGW"
+      },
+      {
+        "title": "I built an AI voice spotter that automatically spots voice-modes calling CQ to the DX cluster",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2her9/i_built_an_ai_voice_spotter_that_automatically/",
+        "author": "/u/gerald_artner"
+      },
+      {
         "title": "Calvin And Hammes",
         "link": "https://www.reddit.com/r/amateurradio/comments/1x15yzj/calvin_and_hammes/",
         "author": "/u/Natural-Pomelo-4590"
@@ -27,14 +102,24 @@
         "author": "/u/Natural-Pomelo-4590"
       },
       {
-        "title": "ARISS Announces 4 Year Space Act Extension with NASA",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1jf3k/ariss_announces_4_year_space_act_extension_with/",
-        "author": "/u/ARISS_Intl"
+        "title": "Manpack",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x23ek0/manpack/",
+        "author": "/u/hollywood075"
       },
       {
-        "title": "Has anyone been able to schedule an exam in Brazil lately?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1jcwn/has_anyone_been_able_to_schedule_an_exam_in/",
-        "author": "/u/Western_Progress460"
+        "title": "Ft991a",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x2b7yl/ft991a/",
+        "author": "/u/Left-Basis-3318"
+      },
+      {
+        "title": "Radio Interference suspicion",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x1trfd/radio_interference_suspicion/",
+        "author": "/u/_neptune11"
+      },
+      {
+        "title": "Purchase advice Antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x1w6zt/purchase_advice_antenna/",
+        "author": "/u/nudelhase"
       },
       {
         "title": "Short 40m Vertical Antenna Recommendations",
@@ -42,94 +127,9 @@
         "author": "/u/arroos"
       },
       {
-        "title": "ultimo acquisto",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x10ylo/ultimo_acquisto/",
-        "author": "/u/H9k9000"
-      },
-      {
-        "title": "I made my first 49:1 Unun, how to measure it properly?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x15dxl/i_made_my_first_491_unun_how_to_measure_it/",
-        "author": "/u/PKS-Ham"
-      },
-      {
-        "title": "KG-UV9D-PLUS, my first entry into this world.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1mune/kguv9dplus_my_first_entry_into_this_world/",
-        "author": "/u/Fordel77"
-      },
-      {
-        "title": "ARRL America250 WAS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1ad8e/arrl_america250_was/",
-        "author": "/u/noddy51"
-      },
-      {
-        "title": "Antenna Tuning SWR?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x16rxc/antenna_tuning_swr/",
-        "author": "/u/tatu_wurst87"
-      },
-      {
-        "title": "Recommendations for a mask",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0vi7b/recommendations_for_a_mask/",
-        "author": "/u/WeekendWattage"
-      },
-      {
-        "title": "Tid H3 plus not transmitting voice",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1frw2/tid_h3_plus_not_transmitting_voice/",
-        "author": "/u/Firm-Firefighter-777"
-      },
-      {
-        "title": "PoC radios for me and my kids",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x19qq6/poc_radios_for_me_and_my_kids/",
-        "author": "/u/Ducman23"
-      },
-      {
-        "title": "Can anyone help me number the acc pins for this ft-101zd?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0vrqc/can_anyone_help_me_number_the_acc_pins_for_this/",
-        "author": "/u/Freenokia"
-      },
-      {
-        "title": "toronto and GTA UHF repeaters acrive and functional?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x135pw/toronto_and_gta_uhf_repeaters_acrive_and/",
-        "author": "/u/Original-Lie2284"
-      },
-      {
-        "title": "brand meister",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x1frz7/brand_meister/",
-        "author": "/u/Little_Ambassador549"
-      },
-      {
-        "title": "Vegas repeaters",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0yqft/vegas_repeaters/",
-        "author": "/u/SignalWalker"
-      },
-      {
-        "title": "Kenwood TS-130S",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x02r1a/kenwood_ts130s/",
-        "author": "/u/Ok_Leader2470"
-      },
-      {
-        "title": "Regulations for old Novice class",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0c8iu/regulations_for_old_novice_class/",
-        "author": "/u/PatentPend"
-      },
-      {
-        "title": "BF-F8HP Pro",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0vfmz/bff8hp_pro/",
-        "author": "/u/woodbutcher365"
-      },
-      {
-        "title": "HOWTO: Tuning a Dipole (Not cutting) by folding wire back.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x0txxk/howto_tuning_a_dipole_not_cutting_by_folding_wire/",
-        "author": "/u/TechTucsonMe"
-      },
-      {
-        "title": "I didn\u2019t throw it all in the Ocean",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x03eyt/i_didnt_throw_it_all_in_the_ocean/",
-        "author": "/u/Grievmaster"
-      },
-      {
-        "title": "Is K9RSY still alive?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x15snx/is_k9rsy_still_alive/",
-        "author": "/u/8675309-u812"
+        "title": "Has anyone been able to schedule an exam in Brazil lately?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x1jcwn/has_anyone_been_able_to_schedule_an_exam_in/",
+        "author": "/u/Western_Progress460"
       }
     ]
   }

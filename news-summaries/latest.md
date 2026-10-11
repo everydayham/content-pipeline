@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 10, 2026
+## October 11, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)** (ARRL)
-- **[The Rescue of Gilligan using Ham Radio !](https://forums.qrz.com/index.php?threads/the-rescue-of-gilligan-using-ham-radio.1006380/)** (QRZ Forums)
-- **[A Comprehensive Review of the Choyong LC100 Receiver](https://swling.com/blog/2026/10/a-comprehensive-review-of-the-choyong-lc100-receiver/)** (SWLing Post)
+- **[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)** (QRZ Forums)
+- **[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)** (SWLing Post)
 - **[Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against Voltage Spikes (Videos)](https://www.onallbands.com/product-spotlight-citel-coaxial-cable-surge-protectors-offer-vital-protection-against-voltage-spikes-videos/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[The Rescue of Gilligan using Ham Radio !](https://forums.qrz.com/index.php?threads/the-rescue-of-gilligan-using-ham-radio.1006380/)**
+**[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)**
 
-**[Charles (C.E.) Fox, NK4A / K4PMO](https://forums.qrz.com/index.php?threads/charles-c-e-fox-nk4a-k4pmo.1006377/)**
+**[CEMOTA (Cemeteries on the Air) - come try it](https://forums.qrz.com/index.php?threads/cemota-cemeteries-on-the-air-come-try-it.1002282/)**
 
-**[I4IQT Tiziano SK](https://forums.qrz.com/index.php?threads/i4iqt-tiziano-sk.1006375/)**
+**[RI1FJZ – Franz Josef Land](https://forums.qrz.com/index.php?threads/ri1fjz-%E2%80%93-franz-josef-land.1000594/)**
 
-**[H49A Solomon Islands DXpedition](https://forums.qrz.com/index.php?threads/h49a-solomon-islands-dxpedition.998261/)**
+**[7P8GE, Lesotho Dxpedition](https://forums.qrz.com/index.php?threads/7p8ge-lesotho-dxpedition.998090/)**
 
-**[4F2RDO / 4F0E sk](https://forums.qrz.com/index.php?threads/4f2rdo-4f0e-sk.1006371/)**
+**[3D2HM, Fiji Is.](https://forums.qrz.com/index.php?threads/3d2hm-fiji-is.1006465/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Paul Jamet, David Iurescia, and Alon for the following tips: SAQ Grimeton...
 
 **[A Comprehensive Review of the Choyong LC100 Receiver](https://swling.com/blog/2026/10/a-comprehensive-review-of-the-choyong-lc100-receiver/)**
 > by John Figliozzi Until the Choyong LC90 was introduced in 2023, there were no radios on the market that simultaneously offered both shortwave and Internet streaming in one unit. Even three years later, Choyong remains the only “smart radio” manufacturer in the world. Now it has introduced an...
@@ -63,9 +66,6 @@
 
 **[Texas Radio Shortwave: Updated Schedule for October 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-updated-schedule-for-october-2026/)**
 > Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
-
-**[Radio Waves: Radio Prague Support, AirDrift, and AM Radio Mandate Faces Congressional Clock](https://swling.com/blog/2026/10/radio-waves-radio-prague-support-airdrift-and-am-radio-mandate-faces-congressional-clock/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia and Aaron Hughes for the following tips: Your support...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-10 16:07 UTC*
+*Generated: 2026-10-11 16:34 UTC*

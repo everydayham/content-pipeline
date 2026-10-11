@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-10 16:07 UTC*
+*Last updated: 2026-10-11 16:34 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [My friend's country's government is planning to ban all social media and ways to...](https://www.reddit.com/r/amateurradio/comments/1x215d0/my_friends_countrys_government_is_planning_to_ban/)**
-by u/Perry_Tree
+**3. [How do we stop AI from killing the hobby?](https://www.reddit.com/r/amateurradio/comments/1x35u9j/how_do_we_stop_ai_from_killing_the_hobby/)**
+by u/FickleGuidance4338
 
-**4. [12m aluminium pole](https://www.reddit.com/r/amateurradio/comments/1x2h3xa/12m_aluminium_pole/)**
-by u/sugarfree90pl
+**4. [Disappointed on how not welcoming this hobby has been for me](https://www.reddit.com/r/amateurradio/comments/1x2w84u/disappointed_on_how_not_welcoming_this_hobby_has/)**
+by u/SlightRooster4581
 
-**5. [Looking for simple biased Analog Mixers for RF schematics or equivalents for the...](https://www.reddit.com/r/amateurradio/comments/1x2f1v6/looking_for_simple_biased_analog_mixers_for_rf/)**
-by u/Bandersnatch__
+**5. [Got this for 20$ at a swap meet was this a steal or what??](https://www.reddit.com/r/amateurradio/comments/1x2xum0/got_this_for_20_at_a_swap_meet_was_this_a_steal/)**
+by u/SlightRooster4581
 
-**6. [UPLOADING TO QRZ.COM](https://www.reddit.com/r/amateurradio/comments/1x2gvce/uploading_to_qrzcom/)**
-by u/W0CBF
+**6. [2nd attempt at General exam](https://www.reddit.com/r/amateurradio/comments/1x2y162/2nd_attempt_at_general_exam/)**
+by u/ilaria369neXus
 
-**7. [Anyone know of a contest that gives multipliers by different modes worked?](https://www.reddit.com/r/amateurradio/comments/1x2eah5/anyone_know_of_a_contest_that_gives_multipliers/)**
-by u/thesoulless78
+**7. [Budget az/el rotators](https://www.reddit.com/r/amateurradio/comments/1x3bt49/budget_azel_rotators/)**
+by u/Dark_Halo09
 
-**8. [Amateur Radio and BYD Seal U DMI](https://www.reddit.com/r/amateurradio/comments/1x2d4ls/amateur_radio_and_byd_seal_u_dmi/)**
-by u/PretorianJ
+**8. [Follow-up to my previous post](https://www.reddit.com/r/amateurradio/comments/1x36c9h/followup_to_my_previous_post/)**
+by u/Roadkill1223
 
-**9. [At my whits end with installing an antenna for my shack](https://www.reddit.com/r/amateurradio/comments/1x2d0aq/at_my_whits_end_with_installing_an_antenna_for_my/)**
-by u/Murphys_law1978
+**9. [Tired of CPS Spreadsheets? Generate DMR Codeplugs using Bash & Awk on Linux](https://www.reddit.com/r/amateurradio/comments/1x31zse/tired_of_cps_spreadsheets_generate_dmr_codeplugs/)**
+by u/Olewsaa
 
-**10. [This is a plug for an amateur radio related service.](https://www.reddit.com/r/amateurradio/comments/1x2389q/this_is_a_plug_for_an_amateur_radio_related/)**
-by u/t_shaped_interests
+**10. [Found attic antennas. What are they?](https://www.reddit.com/r/amateurradio/comments/1x3cp7l/found_attic_antennas_what_are_they/)**
+by u/dmr83457
 
-**11. [Amateur Radio LTE & Ham Radio Cellular — XCL.is](https://www.reddit.com/r/amateurradio/comments/1x2fxyu/amateur_radio_lte_ham_radio_cellular_xclis/)**
-by u/HamLife-org
+**11. [webchirp.org - latest updates October 2026](https://www.reddit.com/r/amateurradio/comments/1x3cbm0/webchirporg_latest_updates_october_2026/)**
+by u/jasiek83
 
-**12. [Using loading coils to shorten radials?](https://www.reddit.com/r/amateurradio/comments/1x20a0o/using_loading_coils_to_shorten_radials/)**
-by u/ragnot-dev
+**12. [Wiring keying buffer interface to Texas Star Amp](https://www.reddit.com/r/amateurradio/comments/1x36s8c/wiring_keying_buffer_interface_to_texas_star_amp/)**
+by u/Relative-Read-1651
 
-**13. [Has anyone tried JTTY? Haven't seen this mentioned here before. New keyboard to ...](https://www.reddit.com/r/amateurradio/comments/1x1tbvx/has_anyone_tried_jtty_havent_seen_this_mentioned/)**
-by u/MarinerMouth
+**13. [Every time I think 20w isn't enough...](https://www.reddit.com/r/amateurradio/comments/1x2biqn/every_time_i_think_20w_isnt_enough/)**
+by u/Churnographer
 
-**14. [My windowsill antenna hears aircraft at ~350 km, so I built a free open-source t...](https://www.reddit.com/r/amateurradio/comments/1x2eo95/my_windowsill_antenna_hears_aircraft_at_350_km_so/)**
-by u/Czizus
+**14. [Yaesu ft-8900r issue](https://www.reddit.com/r/amateurradio/comments/1x3ahjp/yaesu_ft8900r_issue/)**
+by u/BeeJazzlike950
 
-**15. [ARISS Announces 4 Year Space Act Extension with NASA](https://www.reddit.com/r/amateurradio/comments/1x1jf3k/ariss_announces_4_year_space_act_extension_with/)**
-by u/ARISS_Intl
+**15. [New free/open-source client for the PEANUTS network: OpenGroundnut](https://www.reddit.com/r/amateurradio/comments/1x2x38d/new_freeopensource_client_for_the_peanuts_network/)**
+by u/Responsible-Cod2938
 
 ---
 
@@ -61,14 +61,14 @@ by u/ARISS_Intl
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wy7xsm/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[My friend's country's government is planning to ban all social media a...](https://www.reddit.com/r/amateurradio/comments/1x215d0/my_friends_countrys_government_is_planning_to_ban/)** (r/amateurradio)
-- **[12m aluminium pole](https://www.reddit.com/r/amateurradio/comments/1x2h3xa/12m_aluminium_pole/)** (r/amateurradio)
-- **[Looking for simple biased Analog Mixers for RF schematics or equivalen...](https://www.reddit.com/r/amateurradio/comments/1x2f1v6/looking_for_simple_biased_analog_mixers_for_rf/)** (r/amateurradio)
-- **[UPLOADING TO QRZ.COM](https://www.reddit.com/r/amateurradio/comments/1x2gvce/uploading_to_qrzcom/)** (r/amateurradio)
-- **[Anyone know of a contest that gives multipliers by different modes wor...](https://www.reddit.com/r/amateurradio/comments/1x2eah5/anyone_know_of_a_contest_that_gives_multipliers/)** (r/amateurradio)
-- **[Amateur Radio and BYD Seal U DMI](https://www.reddit.com/r/amateurradio/comments/1x2d4ls/amateur_radio_and_byd_seal_u_dmi/)** (r/amateurradio)
-- **[At my whits end with installing an antenna for my shack](https://www.reddit.com/r/amateurradio/comments/1x2d0aq/at_my_whits_end_with_installing_an_antenna_for_my/)** (r/amateurradio)
-- **[This is a plug for an amateur radio related service.](https://www.reddit.com/r/amateurradio/comments/1x2389q/this_is_a_plug_for_an_amateur_radio_related/)** (r/amateurradio)
+- **[How do we stop AI from killing the hobby?](https://www.reddit.com/r/amateurradio/comments/1x35u9j/how_do_we_stop_ai_from_killing_the_hobby/)** (r/amateurradio)
+- **[Disappointed on how not welcoming this hobby has been for me](https://www.reddit.com/r/amateurradio/comments/1x2w84u/disappointed_on_how_not_welcoming_this_hobby_has/)** (r/amateurradio)
+- **[Got this for 20$ at a swap meet was this a steal or what??](https://www.reddit.com/r/amateurradio/comments/1x2xum0/got_this_for_20_at_a_swap_meet_was_this_a_steal/)** (r/amateurradio)
+- **[2nd attempt at General exam](https://www.reddit.com/r/amateurradio/comments/1x2y162/2nd_attempt_at_general_exam/)** (r/amateurradio)
+- **[Budget az/el rotators](https://www.reddit.com/r/amateurradio/comments/1x3bt49/budget_azel_rotators/)** (r/amateurradio)
+- **[Follow-up to my previous post](https://www.reddit.com/r/amateurradio/comments/1x36c9h/followup_to_my_previous_post/)** (r/amateurradio)
+- **[Tired of CPS Spreadsheets? Generate DMR Codeplugs using Bash & Awk on ...](https://www.reddit.com/r/amateurradio/comments/1x31zse/tired_of_cps_spreadsheets_generate_dmr_codeplugs/)** (r/amateurradio)
+- **[Found attic antennas. What are they?](https://www.reddit.com/r/amateurradio/comments/1x3cp7l/found_attic_antennas_what_are_they/)** (r/amateurradio)
 
 ---
 

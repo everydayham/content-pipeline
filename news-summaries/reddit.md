@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-11 16:34 UTC*
+*Last updated: 2026-10-12 20:10 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wy7xsm/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x417st/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [How do we stop AI from killing the hobby?](https://www.reddit.com/r/amateurradio/comments/1x35u9j/how_do_we_stop_ai_from_killing_the_hobby/)**
-by u/FickleGuidance4338
+**3. [First CW contact](https://www.reddit.com/r/amateurradio/comments/1x404w0/first_cw_contact/)**
+by u/SnooPeppers2417
 
-**4. [Disappointed on how not welcoming this hobby has been for me](https://www.reddit.com/r/amateurradio/comments/1x2w84u/disappointed_on_how_not_welcoming_this_hobby_has/)**
-by u/SlightRooster4581
+**4. [I built the thing this sub asked for in 2019: free firmware that puts your NanoV...](https://www.reddit.com/r/amateurradio/comments/1x45iek/i_built_the_thing_this_sub_asked_for_in_2019_free/)**
+by u/rschiefer
 
-**5. [Got this for 20$ at a swap meet was this a steal or what??](https://www.reddit.com/r/amateurradio/comments/1x2xum0/got_this_for_20_at_a_swap_meet_was_this_a_steal/)**
-by u/SlightRooster4581
+**5. [Just got technician](https://www.reddit.com/r/amateurradio/comments/1x4bcvw/just_got_technician/)**
+by u/StarlightLifter
 
-**6. [2nd attempt at General exam](https://www.reddit.com/r/amateurradio/comments/1x2y162/2nd_attempt_at_general_exam/)**
-by u/ilaria369neXus
+**6. [How FT8 actually decodes signals – explained step by step](https://www.reddit.com/r/amateurradio/comments/1x47ybo/how_ft8_actually_decodes_signals_explained_step/)**
+by u/warddr2
 
-**7. [Budget az/el rotators](https://www.reddit.com/r/amateurradio/comments/1x3bt49/budget_azel_rotators/)**
-by u/Dark_Halo09
+**7. [How to select a frequency to transmit on?](https://www.reddit.com/r/amateurradio/comments/1x47f80/how_to_select_a_frequency_to_transmit_on/)**
+by u/bigfrappe
 
-**8. [Follow-up to my previous post](https://www.reddit.com/r/amateurradio/comments/1x36c9h/followup_to_my_previous_post/)**
-by u/Roadkill1223
+**8. [Why does this radio work better when I have my hand near the antenna/cable conne...](https://www.reddit.com/r/amateurradio/comments/1x41cww/why_does_this_radio_work_better_when_i_have_my/)**
+by u/I_Am_A_Squid_Kid
 
-**9. [Tired of CPS Spreadsheets? Generate DMR Codeplugs using Bash & Awk on Linux](https://www.reddit.com/r/amateurradio/comments/1x31zse/tired_of_cps_spreadsheets_generate_dmr_codeplugs/)**
-by u/Olewsaa
+**9. [Sunday afternoon](https://www.reddit.com/r/amateurradio/comments/1x3mig2/sunday_afternoon/)**
+by u/sepai73
 
-**10. [Found attic antennas. What are they?](https://www.reddit.com/r/amateurradio/comments/1x3cp7l/found_attic_antennas_what_are_they/)**
-by u/dmr83457
+**10. ["Russian Engineering" Mast Project: Budget Cellular-Style Lightning Protection. ...](https://www.reddit.com/r/amateurradio/comments/1x3y606/russian_engineering_mast_project_budget/)**
+by u/Weekly-Award-Weekly
 
-**11. [webchirp.org - latest updates October 2026](https://www.reddit.com/r/amateurradio/comments/1x3cbm0/webchirporg_latest_updates_october_2026/)**
-by u/jasiek83
+**11. [Diagonal noise pattern across the bands](https://www.reddit.com/r/amateurradio/comments/1x3tpc8/diagonal_noise_pattern_across_the_bands/)**
+by u/guitar_photography
 
-**12. [Wiring keying buffer interface to Texas Star Amp](https://www.reddit.com/r/amateurradio/comments/1x36s8c/wiring_keying_buffer_interface_to_texas_star_amp/)**
-by u/Relative-Read-1651
+**12. [Bikepacking and ham radio?](https://www.reddit.com/r/amateurradio/comments/1x3tzcw/bikepacking_and_ham_radio/)**
+by u/octapodi
 
-**13. [Every time I think 20w isn't enough...](https://www.reddit.com/r/amateurradio/comments/1x2biqn/every_time_i_think_20w_isnt_enough/)**
-by u/Churnographer
+**13. [Bring all N1MM windows to front via keyboard?](https://www.reddit.com/r/amateurradio/comments/1x488z8/bring_all_n1mm_windows_to_front_via_keyboard/)**
+by u/slatsandflaps
 
-**14. [Yaesu ft-8900r issue](https://www.reddit.com/r/amateurradio/comments/1x3ahjp/yaesu_ft8900r_issue/)**
-by u/BeeJazzlike950
+**14. [Ok I need help with my mobile set-up](https://www.reddit.com/r/amateurradio/comments/1x4chuv/ok_i_need_help_with_my_mobile_setup/)**
+by u/Secure_Situation7234
 
-**15. [New free/open-source client for the PEANUTS network: OpenGroundnut](https://www.reddit.com/r/amateurradio/comments/1x2x38d/new_freeopensource_client_for_the_peanuts_network/)**
-by u/Responsible-Cod2938
+**15. [Baofeng UV-25 Plus soft-bricked after update (NRF Ver0.23) - Need factory dump o...](https://www.reddit.com/r/amateurradio/comments/1x4bkgt/baofeng_uv25_plus_softbricked_after_update_nrf/)**
+by u/Specialist_Office440
 
 ---
 
@@ -59,16 +59,16 @@ by u/Responsible-Cod2938
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1wy7xsm/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x417st/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[How do we stop AI from killing the hobby?](https://www.reddit.com/r/amateurradio/comments/1x35u9j/how_do_we_stop_ai_from_killing_the_hobby/)** (r/amateurradio)
-- **[Disappointed on how not welcoming this hobby has been for me](https://www.reddit.com/r/amateurradio/comments/1x2w84u/disappointed_on_how_not_welcoming_this_hobby_has/)** (r/amateurradio)
-- **[Got this for 20$ at a swap meet was this a steal or what??](https://www.reddit.com/r/amateurradio/comments/1x2xum0/got_this_for_20_at_a_swap_meet_was_this_a_steal/)** (r/amateurradio)
-- **[2nd attempt at General exam](https://www.reddit.com/r/amateurradio/comments/1x2y162/2nd_attempt_at_general_exam/)** (r/amateurradio)
-- **[Budget az/el rotators](https://www.reddit.com/r/amateurradio/comments/1x3bt49/budget_azel_rotators/)** (r/amateurradio)
-- **[Follow-up to my previous post](https://www.reddit.com/r/amateurradio/comments/1x36c9h/followup_to_my_previous_post/)** (r/amateurradio)
-- **[Tired of CPS Spreadsheets? Generate DMR Codeplugs using Bash & Awk on ...](https://www.reddit.com/r/amateurradio/comments/1x31zse/tired_of_cps_spreadsheets_generate_dmr_codeplugs/)** (r/amateurradio)
-- **[Found attic antennas. What are they?](https://www.reddit.com/r/amateurradio/comments/1x3cp7l/found_attic_antennas_what_are_they/)** (r/amateurradio)
+- **[First CW contact](https://www.reddit.com/r/amateurradio/comments/1x404w0/first_cw_contact/)** (r/amateurradio)
+- **[I built the thing this sub asked for in 2019: free firmware that puts ...](https://www.reddit.com/r/amateurradio/comments/1x45iek/i_built_the_thing_this_sub_asked_for_in_2019_free/)** (r/amateurradio)
+- **[Just got technician](https://www.reddit.com/r/amateurradio/comments/1x4bcvw/just_got_technician/)** (r/amateurradio)
+- **[How FT8 actually decodes signals – explained step by step](https://www.reddit.com/r/amateurradio/comments/1x47ybo/how_ft8_actually_decodes_signals_explained_step/)** (r/amateurradio)
+- **[How to select a frequency to transmit on?](https://www.reddit.com/r/amateurradio/comments/1x47f80/how_to_select_a_frequency_to_transmit_on/)** (r/amateurradio)
+- **[Why does this radio work better when I have my hand near the antenna/c...](https://www.reddit.com/r/amateurradio/comments/1x41cww/why_does_this_radio_work_better_when_i_have_my/)** (r/amateurradio)
+- **[Sunday afternoon](https://www.reddit.com/r/amateurradio/comments/1x3mig2/sunday_afternoon/)** (r/amateurradio)
+- **["Russian Engineering" Mast Project: Budget Cellular-Style Lightning Pr...](https://www.reddit.com/r/amateurradio/comments/1x3y606/russian_engineering_mast_project_budget/)** (r/amateurradio)
 
 ---
 

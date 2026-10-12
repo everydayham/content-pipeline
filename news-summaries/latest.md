@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 11, 2026
+## October 12, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)** (ARRL)
-- **[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)** (QRZ Forums)
+- **[How Did a Sitting Senator Become Vietnam's Switchboard to Home?](https://forums.qrz.com/index.php?threads/how-did-a-sitting-senator-become-vietnams-switchboard-to-home.1006312/)** (QRZ Forums)
 - **[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)** (SWLing Post)
-- **[Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against Voltage Spikes (Videos)](https://www.onallbands.com/product-spotlight-citel-coaxial-cable-surge-protectors-offer-vital-protection-against-voltage-spikes-videos/)** (OnAllBands)
+- **[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -23,7 +23,7 @@
 > ARRL The National Association for Amateur Radio® will close our headquarters at 12 PM Eastern time on Friday, October 9, 2026, for a staff event.The ARRL Headquarters lobby and store, as well as W1AW, will be open to visitors from 8 AM to 12 PM EDT. Members are reminded that many transactions may...
 
 **[Radio Amateurs Prepare for Hurricane Isaias](http://www.arrl.org/news/view/radio-amateurs-prepare-for-hurricane-isaias)**
-> Updated Friday, October 9, 2026 @ 10 AM EDTUpdate - Oct. 9, 1330 UTC The Hurricane Watch Net is up and running on both 14.325 and 7.268 MHz due to propagation conditions. Hurricane Isaias has increased in strength to Category 3 with maximum sustained winds of 120 miles per hour, making it a major...
+> Updated Saturday, October 10, 2026 @ 11 AM EDTAs of Saturday morning, October 10, the Hurricane Watch Net remained active on both 14.325 and 7.268 MHz, collecting and forwarding post-storm reports to the National Hurricane Center and assisting with any emergency, priority or outgoing health and...
 
 **[Watching the Gulf](http://www.arrl.org/news/view/watching-the-gulf)**
 > The Hurricane Watch Net (HWN) is closely monitoring Invest 92L, which is expected to become Tropical Storm Isaias in the next 24 hours. According to HWN Manager Bobby Graves, KB5HAV, the potential area of concern for this storm is a wide swath of the Gulf coast, extending from Louisiana to Florida....
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)**
+**[How Did a Sitting Senator Become Vietnam's Switchboard to Home?](https://forums.qrz.com/index.php?threads/how-did-a-sitting-senator-become-vietnams-switchboard-to-home.1006312/)**
 
-**[CEMOTA (Cemeteries on the Air) - come try it](https://forums.qrz.com/index.php?threads/cemota-cemeteries-on-the-air-come-try-it.1002282/)**
+**[Ronald Macy N8CHA SK -July 8, 2025 Flint Michigan](https://forums.qrz.com/index.php?threads/ronald-macy-n8cha-sk-july-8-2025-flint-michigan.1006595/)**
 
-**[RI1FJZ – Franz Josef Land](https://forums.qrz.com/index.php?threads/ri1fjz-%E2%80%93-franz-josef-land.1000594/)**
+**[How to Set Up Winlink on the Icom ID-5200A](https://forums.qrz.com/index.php?threads/how-to-set-up-winlink-on-the-icom-id-5200a.1006606/)**
 
-**[7P8GE, Lesotho Dxpedition](https://forums.qrz.com/index.php?threads/7p8ge-lesotho-dxpedition.998090/)**
+**[Z81Q – South Sudan](https://forums.qrz.com/index.php?threads/z81q-%E2%80%93-south-sudan.999696/)**
 
-**[3D2HM, Fiji Is.](https://forums.qrz.com/index.php?threads/3d2hm-fiji-is.1006465/)**
+**[ZC4MK, SBA Chipre](https://forums.qrz.com/index.php?threads/zc4mk-sba-chipre.896214/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)**
+> One of the great frustrations of amateur radio is hearing a station loud and clear while the other operator seems completely unaware that you exist. You can hear her calling […] The post Ham Radio 101: Why You Hear Stations That Don’t Hear You appeared first on OnAllBands.
+
 **[Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against Voltage Spikes (Videos)](https://www.onallbands.com/product-spotlight-citel-coaxial-cable-surge-protectors-offer-vital-protection-against-voltage-spikes-videos/)**
 > CITEL has been keeping the world’s critical networks and equipment protected since 1937. That’s welcome news for amateur radio operators who understand that sudden voltage spikes can deliver a huge […] The post Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against...
 
@@ -82,9 +85,6 @@
 
 **[DX Engineering Equipment to Be Used on Upcoming Youth-Focused Christmas Island DXpedition](https://www.onallbands.com/dx-engineering-equipment-to-be-used-on-upcoming-youth-focused-christmas-island-dxpedition/)**
 > Christmas comes a few weeks early for ham radio operators everywhere! The VK9XY Christmas Island activation—featuring young operators from around the world—is scheduled to run Nov. 16-Dec. 4, 2026. That’s […] The post DX Engineering Equipment to Be Used on Upcoming Youth-Focused Christmas Island...
-
-**[DX Engineering is the Exclusive Main Sponsor of the Youth WWA 2026 Award](https://www.onallbands.com/dx-engineering-is-the-exclusive-main-sponsor-of-the-youth-wwa-2026-award/)**
-> The Youth World Wide Award (WWA) 2026 kicked off Oct. 5, 0000 UTC and will run until Oct. 11, 2359 UTC. The event brings together radio amateurs ages 25 and […] The post DX Engineering is the Exclusive Main Sponsor of the Youth WWA 2026 Award appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Raising My Own Parrot](https://etherham.com/raising-my-own-parrot/)**
+> A parrot is the simplest test in AllStarLink. You connect to it, key up, say a few words, and unkey. The parrot plays your audio back so you can hear what everyone else hears. Bruce MacKinnon KC1FSZ, wrote a better parrot as part of his Ampersand project. His version does more than echo you. It […]...
+
 **[Three Ways My Wiki Backup Failed](https://etherham.com/three-ways-my-wiki-backup-failed/)**
 > One Copy Is No Copy In A Wiki That Lives on the Rack, I described how I built a portable DokuWiki on an external SSD to document my two home networks. I ended that article with an admission under the heading “One copy is no copy”: the only copy of the wiki lived on that […] Source
 
@@ -121,9 +124,6 @@
 **[Getting My WiRES-X Node Back Online](https://etherham.com/getting-my-wires-x-node-back-online/)**
 > My WiRES-X node used to live in Portland. It was an FTM-300D, a Windows PC, and a cable kit, and it worked. Then the PC died, and the node went quiet. In the meantime, Yaesu moved the WiRES-X software to a new major version, 2.x. I’ve been spending most of my time at the lake […] Source
 
-**[Putting fail2ban on Allmon3 and AllScan, and the Bug That Bit Back](https://etherham.com/putting-fail2ban-on-allmon3-and-allscan-and-the-bug-that-bit-back/)**
-> A simple fail2ban setup for node logins turned up a password leak, and that became a lesson in responsible reporting. This week I set out to do a small, sensible job: put fail2ban in front of the Allmon3 and AllScan login pages on my AllStarLink nodes. Nothing elaborate. Each page gets a filter...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-11 16:34 UTC*
+*Generated: 2026-10-12 20:10 UTC*

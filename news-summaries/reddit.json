@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:10:20.435948",
+  "updated": "2026-10-13T18:02:15.641708",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,29 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "I passed my Technician test!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4h5gl/i_passed_my_technician_test/",
+        "author": "/u/ShadyYT_OG"
+      },
+      {
+        "title": "Question about FT8 and Yaesu 710 power",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x51frr/question_about_ft8_and_yaesu_710_power/",
+        "author": "/u/AnnonAutist"
+      },
+      {
+        "title": "Neural-based enhancements to Codec2",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4wk6c/neuralbased_enhancements_to_codec2/",
+        "author": "/u/SP5WWP"
+      },
+      {
+        "title": "Airspy mini SDR performed very well on a 24 hour continuum drift scan with the 4.5m dish",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x52q2o/airspy_mini_sdr_performed_very_well_on_a_24_hour/",
+        "author": "/u/DeepSpace1420MHZ"
+      },
+      {
         "title": "First CW contact",
         "link": "https://www.reddit.com/r/amateurradio/comments/1x404w0/first_cw_contact/",
         "author": "/u/SnooPeppers2417"
-      },
-      {
-        "title": "I built the thing this sub asked for in 2019: free firmware that puts your NanoVNA on your phone",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x45iek/i_built_the_thing_this_sub_asked_for_in_2019_free/",
-        "author": "/u/rschiefer"
       },
       {
         "title": "Just got technician",
@@ -32,59 +47,34 @@
         "author": "/u/StarlightLifter"
       },
       {
+        "title": "New to the hobby. Picked up some vintage test equipment today at the antique store.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4ckng/new_to_the_hobby_picked_up_some_vintage_test/",
+        "author": "/u/No_Mathematician5530"
+      },
+      {
+        "title": "DMR, YSF, XLX, M17, NXDN and P25 - Cross-reference of linked and bridged talkgroups and reflectors",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4mdga/dmr_ysf_xlx_m17_nxdn_and_p25_crossreference_of/",
+        "author": "/u/Chris7AA"
+      },
+      {
+        "title": "ft8 android software",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4wr5s/ft8_android_software/",
+        "author": "/u/spidergod"
+      },
+      {
+        "title": "I built the thing this sub asked for in 2019: free firmware that puts your NanoVNA on your phone",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x45iek/i_built_the_thing_this_sub_asked_for_in_2019_free/",
+        "author": "/u/rschiefer"
+      },
+      {
+        "title": "Walmart QRP radio?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4joa2/walmart_qrp_radio/",
+        "author": "/u/playtym2_gaming"
+      },
+      {
         "title": "How FT8 actually decodes signals \u2013 explained step by step",
         "link": "https://www.reddit.com/r/amateurradio/comments/1x47ybo/how_ft8_actually_decodes_signals_explained_step/",
         "author": "/u/warddr2"
-      },
-      {
-        "title": "How to select a frequency to transmit on?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x47f80/how_to_select_a_frequency_to_transmit_on/",
-        "author": "/u/bigfrappe"
-      },
-      {
-        "title": "Why does this radio work better when I have my hand near the antenna/cable connecting to the antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x41cww/why_does_this_radio_work_better_when_i_have_my/",
-        "author": "/u/I_Am_A_Squid_Kid"
-      },
-      {
-        "title": "Sunday afternoon",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3mig2/sunday_afternoon/",
-        "author": "/u/sepai73"
-      },
-      {
-        "title": "\"Russian Engineering\" Mast Project: Budget Cellular-Style Lightning Protection. Part 2.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3y606/russian_engineering_mast_project_budget/",
-        "author": "/u/Weekly-Award-Weekly"
-      },
-      {
-        "title": "Diagonal noise pattern across the bands",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3tpc8/diagonal_noise_pattern_across_the_bands/",
-        "author": "/u/guitar_photography"
-      },
-      {
-        "title": "Bikepacking and ham radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3tzcw/bikepacking_and_ham_radio/",
-        "author": "/u/octapodi"
-      },
-      {
-        "title": "Bring all N1MM windows to front via keyboard?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x488z8/bring_all_n1mm_windows_to_front_via_keyboard/",
-        "author": "/u/slatsandflaps"
-      },
-      {
-        "title": "Ok I need help with my mobile set-up",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x4chuv/ok_i_need_help_with_my_mobile_setup/",
-        "author": "/u/Secure_Situation7234"
-      },
-      {
-        "title": "Baofeng UV-25 Plus soft-bricked after update (NRF Ver0.23) - Need factory dump or firmware",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x4bkgt/baofeng_uv25_plus_softbricked_after_update_nrf/",
-        "author": "/u/Specialist_Office440"
-      },
-      {
-        "title": "Looking for 2m rig w built-in cw mode and port",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x4bho7/looking_for_2m_rig_w_builtin_cw_mode_and_port/",
-        "author": "/u/MinerAlum"
       },
       {
         "title": "National Traffic System: Best way for non-hams to send messages?",
@@ -92,44 +82,54 @@
         "author": "/u/SupremeVinegar"
       },
       {
-        "title": "What handheld transceiver should I get?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x49zbv/what_handheld_transceiver_should_i_get/",
-        "author": "/u/Educational-You4078"
+        "title": "How to select a frequency to transmit on?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x47f80/how_to_select_a_frequency_to_transmit_on/",
+        "author": "/u/bigfrappe"
       },
       {
-        "title": "Galaxy Pluto anni 90 da dove tutto \u00e8 ricominciato",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x48quc/galaxy_pluto_anni_90_da_dove_tutto_\u00e8_ricominciato/",
-        "author": "/u/H9k9000"
+        "title": "Hi, I\u2019m looking for information about this radio. Can you help?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4fbs6/hi_im_looking_for_information_about_this_radio/",
+        "author": "/u/AccomplishedJelly291"
       },
       {
-        "title": "Direwolf cross band APRS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x48iiz/direwolf_cross_band_aprs/",
-        "author": "/u/wo8e"
-      },
-      {
-        "title": "What do you think about this artwork for the ham radio EMF Explorer?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x48fyx/what_do_you_think_about_this_artwork_for_the_ham/",
-        "author": "/u/dan_kb6nu"
-      },
-      {
-        "title": "Screwdriver install on beater/camping SUV. Swapmeet find, Home Depot finish.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3p49m/screwdriver_install_on_beatercamping_suv_swapmeet/",
-        "author": "/u/stephen_neuville"
-      },
-      {
-        "title": "Icom IC-718 no output power",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x44dpe/icom_ic718_no_output_power/",
-        "author": "/u/cheemosabe"
-      },
-      {
-        "title": "Can I crimp an SMA RG-174 connector without a dedicated crimping tool?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x3winr/can_i_crimp_an_sma_rg174_connector_without_a/",
+        "title": "Why does this radio work better when I have my hand near the antenna/cable connecting to the antenna?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x41cww/why_does_this_radio_work_better_when_i_have_my/",
         "author": "/u/I_Am_A_Squid_Kid"
       },
       {
-        "title": "How do we stop AI from killing the hobby?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x35u9j/how_do_we_stop_ai_from_killing_the_hobby/",
-        "author": "/u/FickleGuidance4338"
+        "title": "What connector is this?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4ihcy/what_connector_is_this/",
+        "author": "/u/I_Am_A_Squid_Kid"
+      },
+      {
+        "title": "Sangean 909X2 Airband Antenna??",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4qd3o/sangean_909x2_airband_antenna/",
+        "author": "/u/Alarming-Sea752"
+      },
+      {
+        "title": "Antenna Switch Recommendations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4j3nd/antenna_switch_recommendations/",
+        "author": "/u/Bangarang_Arty"
+      },
+      {
+        "title": "Sunday afternoon",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x3mig2/sunday_afternoon/",
+        "author": "/u/sepai73"
+      },
+      {
+        "title": "Firmware Upgrade Question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x4wv32/firmware_upgrade_question/",
+        "author": "/u/AeroMedic25"
+      },
+      {
+        "title": "Diagonal noise pattern across the bands",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x3tpc8/diagonal_noise_pattern_across_the_bands/",
+        "author": "/u/guitar_photography"
+      },
+      {
+        "title": "Bring all N1MM windows to front via keyboard?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x488z8/bring_all_n1mm_windows_to_front_via_keyboard/",
+        "author": "/u/slatsandflaps"
       }
     ]
   }

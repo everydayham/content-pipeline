@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 12, 2026
+## October 13, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)** (ARRL)
-- **[How Did a Sitting Senator Become Vietnam's Switchboard to Home?](https://forums.qrz.com/index.php?threads/how-did-a-sitting-senator-become-vietnams-switchboard-to-home.1006312/)** (QRZ Forums)
-- **[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)** (SWLing Post)
-- **[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)** (OnAllBands)
+- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
+- **[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)** (SWLing Post)
+- **[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[How Did a Sitting Senator Become Vietnam's Switchboard to Home?](https://forums.qrz.com/index.php?threads/how-did-a-sitting-senator-become-vietnams-switchboard-to-home.1006312/)**
+**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
 
-**[Ronald Macy N8CHA SK -July 8, 2025 Flint Michigan](https://forums.qrz.com/index.php?threads/ronald-macy-n8cha-sk-july-8-2025-flint-michigan.1006595/)**
+**[HK4Q/0 - San Andres & Providencia](https://forums.qrz.com/index.php?threads/hk4q-0-san-andres-providencia.1006688/)**
 
-**[How to Set Up Winlink on the Icom ID-5200A](https://forums.qrz.com/index.php?threads/how-to-set-up-winlink-on-the-icom-id-5200a.1006606/)**
+**[H49A, Salomón Is. Dxpedition](https://forums.qrz.com/index.php?threads/h49a-salom%C3%B3n-is-dxpedition.987961/)**
 
-**[Z81Q – South Sudan](https://forums.qrz.com/index.php?threads/z81q-%E2%80%93-south-sudan.999696/)**
+**[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
 
-**[ZC4MK, SBA Chipre](https://forums.qrz.com/index.php?threads/zc4mk-sba-chipre.896214/)**
+**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)**
+> Many thanks to SWLing Post contributor Gérard Koopal who notes that the Eifeler Radiotage will return to the airwaves October 16–18, 2026, with three days of special programming from the Eifel region of Germany. The broadcast will be in German and will feature a variety of programs exploring...
+
+**[TV on shortwave radio](https://swling.com/blog/2026/10/television-on-shortwave-radio/)**
+> Hi to all our SWLing Post friends. Here’s this week’s Imaginary Stations schedule for your shortwave radio/SDR listening pleasure. On Wednesday 14th October 2026, at 0200 hrs UTC on 9395 kHz we have a new episode of WHFM: Herman’s Radio & Record Room on WRMI this week, with vintage tunes & even...
 
 **[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Paul Jamet, David Iurescia, and Alon for the following tips: SAQ Grimeton...
@@ -61,15 +67,12 @@
 **[Carlos’ Illustrated Radio Listening Report and Recording of NHK & Radiofax (October 5, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-nhk-radiofax-october-5-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK (audio) & Japan Meteorological Agency (radiofax): Typhoon No. 27 moves north near the Ogasawara Islands; formation of No. 28 and No. 29...
 
-**[International classic(al) shortwave vibes](https://swling.com/blog/2026/10/international-classical-shortwave-vibes/)**
-> Hi to all our SWLing Post friends. Here’s this week’s Imaginary Stations schedule for your shortwave radio/SDR listening pleasure. On Wednesday 7th October 2026, at 0200 hrs UTC on 9395 kHz we bring you another episode of WHFM Herman’s Radio & Record Room via WRMI. They’ll be many vintage tunes and...
-
-**[Texas Radio Shortwave: Updated Schedule for October 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-updated-schedule-for-october-2026/)**
-> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
-
 ---
 
 ### OnAllBands
+
+**[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)**
+> Amateur radio has experienced an explosion of content on the internet. Need advice on grounding your station? Installing coax connectors? Breaking through a pileup? Operating remotely? It’s all available at […] The post New DX Engineering Facebook Show Features the Best of Amateur Radio Content...
 
 **[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)**
 > One of the great frustrations of amateur radio is hearing a station loud and clear while the other operator seems completely unaware that you exist. You can hear her calling […] The post Ham Radio 101: Why You Hear Stations That Don’t Hear You appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Take a Look at FlexRadio 8400 Transceivers (Video)](https://www.onallbands.com/take-a-look-at-flexradio-8400-transceivers-video/)**
 > Looking for an excellent entry-level HF SDR with a budget-friendly price tag? Check out the FlexRadio 8400 Signature Series 100W HF+6M Transceivers—a lot of radio for the money, with the […] The post Take a Look at FlexRadio 8400 Transceivers (Video) appeared first on OnAllBands.
-
-**[DX Engineering Equipment to Be Used on Upcoming Youth-Focused Christmas Island DXpedition](https://www.onallbands.com/dx-engineering-equipment-to-be-used-on-upcoming-youth-focused-christmas-island-dxpedition/)**
-> Christmas comes a few weeks early for ham radio operators everywhere! The VK9XY Christmas Island activation—featuring young operators from around the world—is scheduled to run Nov. 16-Dec. 4, 2026. That’s […] The post DX Engineering Equipment to Be Used on Upcoming Youth-Focused Christmas Island...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Why AllStarLink Still Uses a 1962 Telephone Standard](https://etherham.com/why-allstarlink-still-uses-a-1962-telephone-standard/)**
+> A Question I Left Hanging In my last article, I set up my own Ampersand parrot. I had used Bruce’s 16K parrot often while it was up, and now I can hear 16K AllStarLink audio come back to me whenever I want. I closed with a question: why is standard AllStarLink still limited to 8 […] Source
+
 **[Raising My Own Parrot](https://etherham.com/raising-my-own-parrot/)**
 > A parrot is the simplest test in AllStarLink. You connect to it, key up, say a few words, and unkey. The parrot plays your audio back so you can hear what everyone else hears. Bruce MacKinnon KC1FSZ, wrote a better parrot as part of his Ampersand project. His version does more than echo you. It […]...
 
@@ -121,9 +124,6 @@
 **[A Wiki That Lives on the Rack](https://etherham.com/a-wiki-that-lives-on-the-rack/)**
 > The Documentation You Need Lives on the Thing That Broke I run two home networks about 150 miles apart: one at my Portland, Oregon apartment and one at the lake house in Washington. Between them there are AllStarLink nodes, a packet BBS, two NAS boxes, a Proxmox server, two UPS units, a MikroTik...
 
-**[Getting My WiRES-X Node Back Online](https://etherham.com/getting-my-wires-x-node-back-online/)**
-> My WiRES-X node used to live in Portland. It was an FTM-300D, a Windows PC, and a cable kit, and it worked. Then the PC died, and the node went quiet. In the meantime, Yaesu moved the WiRES-X software to a new major version, 2.x. I’ve been spending most of my time at the lake […] Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-12 20:10 UTC*
+*Generated: 2026-10-13 18:02 UTC*

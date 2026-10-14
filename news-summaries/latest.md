@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 13, 2026
+## October 14, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)** (ARRL)
-- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
+- **[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)** (QRZ Forums)
 - **[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)** (SWLing Post)
-- **[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)** (OnAllBands)
+- **[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
-
-**[HK4Q/0 - San Andres & Providencia](https://forums.qrz.com/index.php?threads/hk4q-0-san-andres-providencia.1006688/)**
-
-**[H49A, Salomón Is. Dxpedition](https://forums.qrz.com/index.php?threads/h49a-salom%C3%B3n-is-dxpedition.987961/)**
-
 **[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
 
-**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
+**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
+
+**[William “ Bill” Carns, N7OTQ, SK September 13th, 2026](https://forums.qrz.com/index.php?threads/william-%E2%80%9C-bill%E2%80%9D-carns-n7otq-sk-september-13th-2026.1004221/)**
+
+**[K6ERQ William Arthur Beers SK March 30, 2025](https://forums.qrz.com/index.php?threads/k6erq-william-arthur-beers-sk-march-30-2025.1005932/)**
+
+**[Florida QSO Party Spelling BEE](https://forums.qrz.com/index.php?threads/florida-qso-party-spelling-bee.1006743/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)**
+> Note: Starting with this article, I’ll be adding Protected Area Radio Community (PARC) numbers along with the POTA and WWFF references. PARC is similar to the other two and uses […] The post Ham Radio Portable Insights—POTA After Work appeared first on OnAllBands.
+
 **[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)**
 > Amateur radio has experienced an explosion of content on the internet. Need advice on grounding your station? Installing coax connectors? Breaking through a pileup? Operating remotely? It’s all available at […] The post New DX Engineering Facebook Show Features the Best of Amateur Radio Content...
 
@@ -82,9 +85,6 @@
 
 **[New Product Spotlight: W2HVH Enclosures Portable Go-Bag Mounting Systems for Icom & Yaesu Transceivers](https://www.onallbands.com/new-product-spotlight-w2hvh-enclosures-portable-go-bag-mounting-systems-for-icom-yaesu-transceivers/)**
 > Going portable remains the hottest ticket in amateur radio today. DX Engineering is committed to making your experience operating from a park, summit, island, or just about anywhere outside of […] The post New Product Spotlight: W2HVH Enclosures Portable Go-Bag Mounting Systems for Icom & Yaesu...
-
-**[Take a Look at FlexRadio 8400 Transceivers (Video)](https://www.onallbands.com/take-a-look-at-flexradio-8400-transceivers-video/)**
-> Looking for an excellent entry-level HF SDR with a budget-friendly price tag? Check out the FlexRadio 8400 Signature Series 100W HF+6M Transceivers—a lot of radio for the money, with the […] The post Take a Look at FlexRadio 8400 Transceivers (Video) appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-13 18:02 UTC*
+*Generated: 2026-10-14 15:43 UTC*

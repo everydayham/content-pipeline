@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 14, 2026
+## October 15, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,10 +7,10 @@
 
 ## 📻 Quick Highlights
 
-- **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)** (ARRL)
-- **[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)** (QRZ Forums)
-- **[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)** (SWLing Post)
-- **[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)** (OnAllBands)
+- **[Preview the 2026 ARRL Online Auction](http://www.arrl.org/news/view/preview-the-2026-arrl-online-auction)** (ARRL)
+- **[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)** (QRZ Forums)
+- **[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)** (SWLing Post)
+- **[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -18,6 +18,9 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[Preview the 2026 ARRL Online Auction](http://www.arrl.org/news/view/preview-the-2026-arrl-online-auction)**
+> The 21st annual ARRL Online Auction opens October 16, and you can preview more than 200 items now.This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson, K4OGO, from Salty Walt’s Portable Antenna...
 
 **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)**
 > ARRL The National Association for Amateur Radio® will close our headquarters at 12 PM Eastern time on Friday, October 9, 2026, for a staff event.The ARRL Headquarters lobby and store, as well as W1AW, will be open to visitors from 8 AM to 12 PM EDT. Members are reminded that many transactions may...
@@ -31,26 +34,26 @@
 **[2026 Collegiate QSO Party is October 3 – 4](http://www.arrl.org/news/view/2026-collegiate-qso-party-is-october-3-4)**
 > Get ready to contact college and university radio clubs during this weekend’s Collegiate QSO Party, 0000 UTC October 3 through 2359 UTC ImageOctober 4 (Friday evening through Sunday in the US). Students, faculty, staff, and alumni will be on the air using the call sign of a college, university, or...
 
-**[Remembering Four Silent Keys](http://www.arrl.org/news/view/remembering-four-silent-keys)**
-> We are saddened to report this week on the passing of four well-known amateurs, including two members of the extended “ARRL family.” Longtime ARRL Rhode Island Section Manager Robert George “Bob” Beaudet, W1YRC, became a Silent Key on September 10, 2026, at age 88. An ARRL Life Member, Gold-Level...
-
 ---
 
 ### QRZ Forums
 
+**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
+
 **[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
 
-**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
+**[home page name change](https://forums.qrz.com/index.php?threads/home-page-name-change.1006776/)**
 
-**[William “ Bill” Carns, N7OTQ, SK September 13th, 2026](https://forums.qrz.com/index.php?threads/william-%E2%80%9C-bill%E2%80%9D-carns-n7otq-sk-september-13th-2026.1004221/)**
+**[My Password !?!??](https://forums.qrz.com/index.php?threads/my-password.1006826/)**
 
-**[K6ERQ William Arthur Beers SK March 30, 2025](https://forums.qrz.com/index.php?threads/k6erq-william-arthur-beers-sk-march-30-2025.1005932/)**
-
-**[Florida QSO Party Spelling BEE](https://forums.qrz.com/index.php?threads/florida-qso-party-spelling-bee.1006743/)**
+**[PJ4/DH8BQA & PJ4Y - Bonaire](https://forums.qrz.com/index.php?threads/pj4-dh8bqa-pj4y-bonaire.1006835/)**
 
 ---
 
 ### SWLing Post
+
+**[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)**
+> by Dan Greenall The Far East Broadcasting Company in Manila is currently celebrating 80 years on shortwave, while at the same time, planning to close down in March 2027. I first heard them from my listening post in southern Ontario, Canada back in 1972, and received this colourful QSL from them....
 
 **[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)**
 > Many thanks to SWLing Post contributor Gérard Koopal who notes that the Eifeler Radiotage will return to the airwaves October 16–18, 2026, with three days of special programming from the Eifel region of Germany. The broadcast will be in German and will feature a variety of programs exploring...
@@ -64,12 +67,12 @@
 **[A Comprehensive Review of the Choyong LC100 Receiver](https://swling.com/blog/2026/10/a-comprehensive-review-of-the-choyong-lc100-receiver/)**
 > by John Figliozzi Until the Choyong LC90 was introduced in 2023, there were no radios on the market that simultaneously offered both shortwave and Internet streaming in one unit. Even three years later, Choyong remains the only “smart radio” manufacturer in the world. Now it has introduced an...
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of NHK & Radiofax (October 5, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-nhk-radiofax-october-5-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK (audio) & Japan Meteorological Agency (radiofax): Typhoon No. 27 moves north near the Ogasawara Islands; formation of No. 28 and No. 29...
-
 ---
 
 ### OnAllBands
+
+**[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)**
+> Unveiled at Tokyo Ham Fair 2026, the much-anticipated Icom IC-7110 HF/50 MHz/VHF/UHF All Mode Transceiver is now available for reservation at DX Engineering. The IC-7110, billed by Icom as “all […] The post Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering...
 
 **[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)**
 > Note: Starting with this article, I’ll be adding Protected Area Radio Community (PARC) numbers along with the POTA and WWFF references. PARC is similar to the other two and uses […] The post Ham Radio Portable Insights—POTA After Work appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against Voltage Spikes (Videos)](https://www.onallbands.com/product-spotlight-citel-coaxial-cable-surge-protectors-offer-vital-protection-against-voltage-spikes-videos/)**
 > CITEL has been keeping the world’s critical networks and equipment protected since 1937. That’s welcome news for amateur radio operators who understand that sudden voltage spikes can deliver a huge […] The post Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against...
-
-**[New Product Spotlight: W2HVH Enclosures Portable Go-Bag Mounting Systems for Icom & Yaesu Transceivers](https://www.onallbands.com/new-product-spotlight-w2hvh-enclosures-portable-go-bag-mounting-systems-for-icom-yaesu-transceivers/)**
-> Going portable remains the hottest ticket in amateur radio today. DX Engineering is committed to making your experience operating from a park, summit, island, or just about anywhere outside of […] The post New Product Spotlight: W2HVH Enclosures Portable Go-Bag Mounting Systems for Icom & Yaesu...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Weekly Report: October 14, 2026](https://etherham.com/weekly-report-october-14-2026/)**
+> Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
+
 **[Why AllStarLink Still Uses a 1962 Telephone Standard](https://etherham.com/why-allstarlink-still-uses-a-1962-telephone-standard/)**
 > A Question I Left Hanging In my last article, I set up my own Ampersand parrot. I had used Bruce’s 16K parrot often while it was up, and now I can hear 16K AllStarLink audio come back to me whenever I want. I closed with a question: why is standard AllStarLink still limited to 8 […] Source
 
@@ -121,9 +124,6 @@
 **[Weekly Report: October 8, 2026](https://etherham.com/weekly-report-october-8-2026/)**
 > Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest SHORT STACK FROM THE INTERWEBS Covering October 1 to October 8, 2026. It was World Space Week this week, so the Space section is larger than normal. And one comment on the name. I called this the Short Stack when I […]...
 
-**[A Wiki That Lives on the Rack](https://etherham.com/a-wiki-that-lives-on-the-rack/)**
-> The Documentation You Need Lives on the Thing That Broke I run two home networks about 150 miles apart: one at my Portland, Oregon apartment and one at the lake house in Washington. Between them there are AllStarLink nodes, a packet BBS, two NAS boxes, a Proxmox server, two UPS units, a MikroTik...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-14 15:43 UTC*
+*Generated: 2026-10-15 15:31 UTC*

@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 15, 2026
+## October 16, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,10 +7,10 @@
 
 ## 📻 Quick Highlights
 
-- **[Preview the 2026 ARRL Online Auction](http://www.arrl.org/news/view/preview-the-2026-arrl-online-auction)** (ARRL)
-- **[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)** (QRZ Forums)
-- **[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)** (SWLing Post)
-- **[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)** (OnAllBands)
+- **[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)** (ARRL)
+- **[Baofeng UV-5RM PLUS GPS review, Airband hack, APRS how to, Unlock frequencies](https://forums.qrz.com/index.php?threads/baofeng-uv-5rm-plus-gps-review-airband-hack-aprs-how-to-unlock-frequencies.950731/)** (QRZ Forums)
+- **[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)** (SWLing Post)
+- **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -19,8 +19,8 @@
 
 ### ARRL
 
-**[Preview the 2026 ARRL Online Auction](http://www.arrl.org/news/view/preview-the-2026-arrl-online-auction)**
-> The 21st annual ARRL Online Auction opens October 16, and you can preview more than 200 items now.This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson, K4OGO, from Salty Walt’s Portable Antenna...
+**[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)**
+> The 21st annual ARRL Online Auction is open now through October 22. Browse more than 200 items and place your bids!This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson, K4OGO, from Salty Walt’s...
 
 **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)**
 > ARRL The National Association for Amateur Radio® will close our headquarters at 12 PM Eastern time on Friday, October 9, 2026, for a staff event.The ARRL Headquarters lobby and store, as well as W1AW, will be open to visitors from 8 AM to 12 PM EDT. Members are reminded that many transactions may...
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
+**[Baofeng UV-5RM PLUS GPS review, Airband hack, APRS how to, Unlock frequencies](https://forums.qrz.com/index.php?threads/baofeng-uv-5rm-plus-gps-review-airband-hack-aprs-how-to-unlock-frequencies.950731/)**
 
 **[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
 
-**[home page name change](https://forums.qrz.com/index.php?threads/home-page-name-change.1006776/)**
+**[nominativo vecchio](https://forums.qrz.com/index.php?threads/nominativo-vecchio.1006932/)**
 
-**[My Password !?!??](https://forums.qrz.com/index.php?threads/my-password.1006826/)**
+**[Call Sign or User Name change](https://forums.qrz.com/index.php?threads/call-sign-or-user-name-change.1006934/)**
 
-**[PJ4/DH8BQA & PJ4Y - Bonaire](https://forums.qrz.com/index.php?threads/pj4-dh8bqa-pj4y-bonaire.1006835/)**
+**[ADDRESS UPDATE TO FCC](https://forums.qrz.com/index.php?threads/address-update-to-fcc.1006930/)**
 
 ---
 
 ### SWLing Post
+
+**[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)**
+> Radio Thoughts and Reflections: An informal hands-on review of the Tecsun H501x, Belka, Sony ICF 2010 / 2001D by Julian Stargardt This review started as a comparative review of the Tecsun H501x and the Sony ICF 2010 / 2001D. It developed into something more. I fell in love with radio when as a 5 or...
 
 **[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)**
 > by Dan Greenall The Far East Broadcasting Company in Manila is currently celebrating 80 years on shortwave, while at the same time, planning to close down in March 2027. I first heard them from my listening post in southern Ontario, Canada back in 1972, and received this colourful QSL from them....
@@ -64,12 +67,12 @@
 **[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Paul Jamet, David Iurescia, and Alon for the following tips: SAQ Grimeton...
 
-**[A Comprehensive Review of the Choyong LC100 Receiver](https://swling.com/blog/2026/10/a-comprehensive-review-of-the-choyong-lc100-receiver/)**
-> by John Figliozzi Until the Choyong LC90 was introduced in 2023, there were no radios on the market that simultaneously offered both shortwave and Internet streaming in one unit. Even three years later, Choyong remains the only “smart radio” manufacturer in the world. Now it has introduced an...
-
 ---
 
 ### OnAllBands
+
+**[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)**
+> DXing, remote satellite operation, CW contesting, and more! HF access has always presented a steep barrier for youth getting on the air. While Parks on the Air® (POTA) has gained […] The post The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost appeared first on...
 
 **[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)**
 > Unveiled at Tokyo Ham Fair 2026, the much-anticipated Icom IC-7110 HF/50 MHz/VHF/UHF All Mode Transceiver is now available for reservation at DX Engineering. The IC-7110, billed by Icom as “all […] The post Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering...
@@ -82,9 +85,6 @@
 
 **[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)**
 > One of the great frustrations of amateur radio is hearing a station loud and clear while the other operator seems completely unaware that you exist. You can hear her calling […] The post Ham Radio 101: Why You Hear Stations That Don’t Hear You appeared first on OnAllBands.
-
-**[Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against Voltage Spikes (Videos)](https://www.onallbands.com/product-spotlight-citel-coaxial-cable-surge-protectors-offer-vital-protection-against-voltage-spikes-videos/)**
-> CITEL has been keeping the world’s critical networks and equipment protected since 1937. That’s welcome news for amateur radio operators who understand that sudden voltage spikes can deliver a huge […] The post Product Spotlight: CITEL Coaxial Cable Surge Protectors Offer Vital Protection Against...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-15 15:31 UTC*
+*Generated: 2026-10-16 15:17 UTC*

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-15 15:31 UTC*
+*Last updated: 2026-10-16 15:17 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Good deal?](https://www.reddit.com/r/amateurradio/comments/1x6nixi/good_deal/)**
-by u/Roadkill1223
+**3. [Testing today. I have passed my last 10 practice exams on HamStudy. Feel pretty ...](https://www.reddit.com/r/amateurradio/comments/1x7f018/testing_today_i_have_passed_my_last_10_practice/)**
+by u/Fordel77
 
-**4. [MMSN argument not sure who’s in the wrong](https://www.reddit.com/r/amateurradio/comments/1x68bvh/mmsn_argument_not_sure_whos_in_the_wrong/)**
+**4. [Gear Doesn't Matter- Get Out There!](https://www.reddit.com/r/amateurradio/comments/1x7i410/gear_doesnt_matter_get_out_there/)**
+by u/Pinktiger11
+
+**5. [Finalized my POTA / go-box today](https://www.reddit.com/r/amateurradio/comments/1x7185r/finalized_my_pota_gobox_today/)**
+by u/Star-Light_1988
+
+**6. [LinHT Rev C is ready for tests](https://www.reddit.com/r/amateurradio/comments/1x7eyf6/linht_rev_c_is_ready_for_tests/)**
+by u/SP5WWP
+
+**7. [Randomly looked up my callsign on POTA.APP and found out I got this.](https://www.reddit.com/r/amateurradio/comments/1x73yio/randomly_looked_up_my_callsign_on_potaapp_and/)**
+by u/DanielMaat89
+
+**8. [49:1 question](https://www.reddit.com/r/amateurradio/comments/1x766sj/491_question/)**
+by u/mbauer206
+
+**9. [North Korea Ham Radio](https://www.reddit.com/r/amateurradio/comments/1x6yt0f/north_korea_ham_radio/)**
+by u/KeyDirector970
+
+**10. [Yaesu FT-767GX hf transceiver for 250$ should I go for it or nah](https://www.reddit.com/r/amateurradio/comments/1x6s9ek/yaesu_ft767gx_hf_transceiver_for_250_should_i_go/)**
 by u/SlightRooster4581
 
-**5. [After years of being an RX-only hobbyist making DIY antennas, tomorrow I’m final...](https://www.reddit.com/r/amateurradio/comments/1x6ndwz/after_years_of_being_an_rxonly_hobbyist_making/)**
-by u/RozzKiv
+**11. [Antenna Placement options](https://www.reddit.com/r/amateurradio/comments/1x7gg96/antenna_placement_options/)**
+by u/Big-Tutor-3060
 
-**6. [QRZ.COM Problems](https://www.reddit.com/r/amateurradio/comments/1x6mhv1/qrzcom_problems/)**
-by u/W0CBF
+**12. [Capacitors. Which one and why? Or why not?](https://www.reddit.com/r/amateurradio/comments/1x7evdb/capacitors_which_one_and_why_or_why_not/)**
+by u/The_LoneCoder
 
-**7. [Qmx+ not shipping](https://www.reddit.com/r/amateurradio/comments/1x6gjwo/qmx_not_shipping/)**
-by u/fede-jones
+**13. [Free on Ham Testing Sessions from West Essex Amateur Radio Club](https://www.reddit.com/r/amateurradio/comments/1x7ioam/free_on_ham_testing_sessions_from_west_essex/)**
+by u/slingshot202
 
-**8. [Closet Radio Project](https://www.reddit.com/r/amateurradio/comments/1x5uulp/closet_radio_project/)**
-by u/Sunset1hiker
+**14. [I Need Help Witz this morsecode](https://www.reddit.com/r/amateurradio/comments/1x7if5b/i_need_help_witz_this_morsecode/)**
+by u/PineappleFruitDude88
 
-**9. [File this under "things you never want to hear on the air"](https://www.reddit.com/r/amateurradio/comments/1x5xnj6/file_this_under_things_you_never_want_to_hear_on/)**
-by u/kc2syk
-
-**10. [You and me little buddy are going to do great things one day...](https://www.reddit.com/r/amateurradio/comments/1x652c3/you_and_me_little_buddy_are_going_to_do_great/)**
-by u/adhdff
-
-**11. [Just passed tech and general](https://www.reddit.com/r/amateurradio/comments/1x5zpqr/just_passed_tech_and_general/)**
-by u/watchitpresto
-
-**12. [I reverse-engineered the AnyTone AT-778UV / Retevis RT95 mic bus so you can cont...](https://www.reddit.com/r/amateurradio/comments/1x61ndu/i_reverseengineered_the_anytone_at778uv_retevis/)**
-by u/Ok-Space-5422
-
-**13. [44Net Connect: A Simpler Way to Use 44Net!](https://www.reddit.com/r/amateurradio/comments/1x60ken/44net_connect_a_simpler_way_to_use_44net/)**
-by u/ARDC_73
-
-**14. [Icom IC281H sometimes doesnt transmit its CTCSS tone.](https://www.reddit.com/r/amateurradio/comments/1x6h1wg/icom_ic281h_sometimes_doesnt_transmit_its_ctcss/)**
-by u/Own_Valuable_6131
-
-**15. [New Ham KJ5RTP. Looking for a suggestion on mobile setup](https://www.reddit.com/r/amateurradio/comments/1x6a1mw/new_ham_kj5rtp_looking_for_a_suggestion_on_mobile/)**
-by u/wellgregory15
+**15. [Good deal?](https://www.reddit.com/r/amateurradio/comments/1x6nixi/good_deal/)**
+by u/Roadkill1223
 
 ---
 
@@ -61,14 +61,14 @@ by u/wellgregory15
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x417st/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Good deal?](https://www.reddit.com/r/amateurradio/comments/1x6nixi/good_deal/)** (r/amateurradio)
-- **[MMSN argument not sure who’s in the wrong](https://www.reddit.com/r/amateurradio/comments/1x68bvh/mmsn_argument_not_sure_whos_in_the_wrong/)** (r/amateurradio)
-- **[After years of being an RX-only hobbyist making DIY antennas, tomorrow...](https://www.reddit.com/r/amateurradio/comments/1x6ndwz/after_years_of_being_an_rxonly_hobbyist_making/)** (r/amateurradio)
-- **[QRZ.COM Problems](https://www.reddit.com/r/amateurradio/comments/1x6mhv1/qrzcom_problems/)** (r/amateurradio)
-- **[Qmx+ not shipping](https://www.reddit.com/r/amateurradio/comments/1x6gjwo/qmx_not_shipping/)** (r/amateurradio)
-- **[Closet Radio Project](https://www.reddit.com/r/amateurradio/comments/1x5uulp/closet_radio_project/)** (r/amateurradio)
-- **[File this under "things you never want to hear on the air"](https://www.reddit.com/r/amateurradio/comments/1x5xnj6/file_this_under_things_you_never_want_to_hear_on/)** (r/amateurradio)
-- **[You and me little buddy are going to do great things one day...](https://www.reddit.com/r/amateurradio/comments/1x652c3/you_and_me_little_buddy_are_going_to_do_great/)** (r/amateurradio)
+- **[Testing today. I have passed my last 10 practice exams on HamStudy. Fe...](https://www.reddit.com/r/amateurradio/comments/1x7f018/testing_today_i_have_passed_my_last_10_practice/)** (r/amateurradio)
+- **[Gear Doesn't Matter- Get Out There!](https://www.reddit.com/r/amateurradio/comments/1x7i410/gear_doesnt_matter_get_out_there/)** (r/amateurradio)
+- **[Finalized my POTA / go-box today](https://www.reddit.com/r/amateurradio/comments/1x7185r/finalized_my_pota_gobox_today/)** (r/amateurradio)
+- **[LinHT Rev C is ready for tests](https://www.reddit.com/r/amateurradio/comments/1x7eyf6/linht_rev_c_is_ready_for_tests/)** (r/amateurradio)
+- **[Randomly looked up my callsign on POTA.APP and found out I got this.](https://www.reddit.com/r/amateurradio/comments/1x73yio/randomly_looked_up_my_callsign_on_potaapp_and/)** (r/amateurradio)
+- **[49:1 question](https://www.reddit.com/r/amateurradio/comments/1x766sj/491_question/)** (r/amateurradio)
+- **[North Korea Ham Radio](https://www.reddit.com/r/amateurradio/comments/1x6yt0f/north_korea_ham_radio/)** (r/amateurradio)
+- **[Yaesu FT-767GX hf transceiver for 250$ should I go for it or nah](https://www.reddit.com/r/amateurradio/comments/1x6s9ek/yaesu_ft767gx_hf_transceiver_for_250_should_i_go/)** (r/amateurradio)
 
 ---
 

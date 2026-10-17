@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:17:17.340130",
+  "updated": "2026-10-17T14:05:54.445258",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,44 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "My First DIY Radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x82pq6/my_first_diy_radio/",
+        "author": "/u/Remote_Air_6433"
+      },
+      {
+        "title": "I just passed my exams to get my GROL!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x807et/i_just_passed_my_exams_to_get_my_grol/",
+        "author": "/u/SrHuevos94"
+      },
+      {
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7waiq/ebay_restricts_listings_of_radio_equipment_but/",
+        "author": "/u/autistic_psycho"
+      },
+      {
+        "title": "Looked at an experimental radio grant with erp measured in picowatts",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7xz92/looked_at_an_experimental_radio_grant_with_erp/",
+        "author": "/u/KD3AZZ"
+      },
+      {
+        "title": "Happy Friday everyone!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7szcc/happy_friday_everyone/",
+        "author": "/u/Ordinary_Fly_3044"
+      },
+      {
+        "title": "ft8 on my d-808 this afternoon",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x8ano7/ft8_on_my_d808_this_afternoon/",
+        "author": "/u/spidergod"
+      },
+      {
         "title": "Testing today. I have passed my last 10 practice exams on HamStudy. Feel pretty good about it. Entire process took about 3 weeks from getting FCN to now. I dragged my feet abit also. Hoping to have Call Sign issued by end of next week.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1x7f018/testing_today_i_have_passed_my_last_10_practice/",
         "author": "/u/Fordel77"
+      },
+      {
+        "title": "Is this cool at all ? Not an expert",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x80cdx/is_this_cool_at_all_not_an_expert/",
+        "author": "/u/immystr4wb"
       },
       {
         "title": "Gear Doesn't Matter- Get Out There!",
@@ -27,9 +62,24 @@
         "author": "/u/Pinktiger11"
       },
       {
-        "title": "Finalized my POTA / go-box today",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7185r/finalized_my_pota_gobox_today/",
-        "author": "/u/Star-Light_1988"
+        "title": "LOG tool for POTA - let it tell you a story",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x86dok/log_tool_for_pota_let_it_tell_you_a_story/",
+        "author": "/u/Fit_Wrongdoer_6012"
+      },
+      {
+        "title": "Just got my general and looking for suggestions for an HF rig?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x89lmh/just_got_my_general_and_looking_for_suggestions/",
+        "author": "/u/Tenacious411"
+      },
+      {
+        "title": "Official post for qsl cards printers.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7r27h/official_post_for_qsl_cards_printers/",
+        "author": "/u/sweetnessfnerk"
+      },
+      {
+        "title": "Is there a maintained contest calendar out there I can subscribe to?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x81d2w/is_there_a_maintained_contest_calendar_out_there/",
+        "author": "/u/J_TGL"
       },
       {
         "title": "LinHT Rev C is ready for tests",
@@ -37,99 +87,49 @@
         "author": "/u/SP5WWP"
       },
       {
-        "title": "Randomly looked up my callsign on POTA.APP and found out I got this.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x73yio/randomly_looked_up_my_callsign_on_potaapp_and/",
-        "author": "/u/DanielMaat89"
+        "title": "Why is my radio making noise?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x8akuo/why_is_my_radio_making_noise/",
+        "author": "/u/Ipokebabysoftspots"
       },
       {
-        "title": "49:1 question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x766sj/491_question/",
-        "author": "/u/mbauer206"
+        "title": "Absurd amounts of static",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7z2rd/absurd_amounts_of_static/",
+        "author": "/u/Grievmaster"
       },
       {
-        "title": "North Korea Ham Radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6yt0f/north_korea_ham_radio/",
-        "author": "/u/KeyDirector970"
+        "title": "TCIdigi 0.28 is up with a bunch of fixes and improvements",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7ov58/tcidigi_028_is_up_with_a_bunch_of_fixes_and/",
+        "author": "/u/KC2RGW"
       },
       {
-        "title": "Yaesu FT-767GX hf transceiver for 250$ should I go for it or nah",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6s9ek/yaesu_ft767gx_hf_transceiver_for_250_should_i_go/",
-        "author": "/u/SlightRooster4581"
+        "title": "Finalized my POTA / go-box today",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7185r/finalized_my_pota_gobox_today/",
+        "author": "/u/Star-Light_1988"
       },
       {
-        "title": "Antenna Placement options",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7gg96/antenna_placement_options/",
-        "author": "/u/Big-Tutor-3060"
+        "title": "Setting up my first mast. I need help!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x82wku/setting_up_my_first_mast_i_need_help/",
+        "author": "/u/stirringash"
       },
       {
-        "title": "Capacitors. Which one and why? Or why not?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7evdb/capacitors_which_one_and_why_or_why_not/",
-        "author": "/u/The_LoneCoder"
+        "title": "R\u00e9cepteurs radioamateur WebSDR \u2014 \u00e9coutez les ondes courtes.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x82pcg/r\u00e9cepteurs_radioamateur_websdr_\u00e9coutez_les_ondes/",
+        "author": "/u/Prestigious-Type-868"
       },
       {
-        "title": "Free on Ham Testing Sessions from West Essex Amateur Radio Club",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7ioam/free_on_ham_testing_sessions_from_west_essex/",
-        "author": "/u/slingshot202"
+        "title": "Hams on the S. Oregon Coast: Special Event Call sign W7Q.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7uj16/hams_on_the_s_oregon_coast_special_event_call/",
+        "author": "/u/MorelikeIdonow"
       },
       {
-        "title": "I Need Help Witz this morsecode",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7if5b/i_need_help_witz_this_morsecode/",
-        "author": "/u/PineappleFruitDude88"
+        "title": "My sons Friday night 3D print project",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7wk3l/my_sons_friday_night_3d_print_project/",
+        "author": "/u/actionfingerss"
       },
       {
-        "title": "Good deal?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6nixi/good_deal/",
-        "author": "/u/Roadkill1223"
-      },
-      {
-        "title": "QRZ.COM LOGIN PROBLEMS",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7fubs/qrzcom_login_problems/",
-        "author": "/u/W0CBF"
-      },
-      {
-        "title": "QSSTV-Experimental - SSTV/HAMDRM - Win/Linux/Mac",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x77lbn/qsstvexperimental_sstvhamdrm_winlinuxmac/",
-        "author": "/u/jbdubbsreddit"
-      },
-      {
-        "title": "HB9TIH DX World Map QSO v15.1.0 \u2013 Free ADIF Mapping & DX Analytics Software",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7d18e/hb9tih_dx_world_map_qso_v1510_free_adif_mapping/",
-        "author": "/u/CommonRoof6174"
-      },
-      {
-        "title": "Get on HF for $50 ... give or take a few bucks.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6prvv/get_on_hf_for_50_give_or_take_a_few_bucks/",
-        "author": "/u/Key_Zombie7967"
-      },
-      {
-        "title": "2-Way radio around small airport",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6w8v6/2way_radio_around_small_airport/",
-        "author": "/u/HVindex8458"
-      },
-      {
-        "title": "After years of being an RX-only hobbyist making DIY antennas, tomorrow I\u2019m finally making my first TX at JOTA-JOTI!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6ndwz/after_years_of_being_an_rxonly_hobbyist_making/",
-        "author": "/u/RozzKiv"
-      },
-      {
-        "title": "FCC Waiver for Pearl Harbor Special Event",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6spmc/fcc_waiver_for_pearl_harbor_special_event/",
-        "author": "/u/brunchlords"
-      },
-      {
-        "title": "Kenwood TS-590S",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x6ue17/kenwood_ts590s/",
-        "author": "/u/Worried-Lunch-4818"
-      },
-      {
-        "title": "JOTA",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7f26v/jota/",
-        "author": "/u/Outspoken_Idiot"
-      },
-      {
-        "title": "Looking for help with a puzzle",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1x7dqh3/looking_for_help_with_a_puzzle/",
-        "author": "/u/Hanrooster"
+        "title": "W7Q Shakeout Preparedness 'Nets",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x7unbc/w7q_shakeout_preparedness_nets/",
+        "author": "/u/MorelikeIdonow"
       }
     ]
   }

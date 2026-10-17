@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 16, 2026
+## October 17, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,8 +7,8 @@
 
 ## 📻 Quick Highlights
 
-- **[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)** (ARRL)
-- **[Baofeng UV-5RM PLUS GPS review, Airband hack, APRS how to, Unlock frequencies](https://forums.qrz.com/index.php?threads/baofeng-uv-5rm-plus-gps-review-airband-hack-aprs-how-to-unlock-frequencies.950731/)** (QRZ Forums)
+- **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
+- **[Unable to recover password on QRZ.COM](https://forums.qrz.com/index.php?threads/unable-to-recover-password-on-qrz-com.1007030/)** (QRZ Forums)
 - **[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)** (SWLing Post)
 - **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
@@ -19,34 +19,34 @@
 
 ### ARRL
 
+**[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)**
+> ImageOnline marketplace eBay has imposed new restrictions on listings of radio transmitting equipment in response to new FCC rules that took effect this week, but responded to ARRL The National Association for Amateur Radio® that its new policy will not apply to gear that operates exclusively on...
+
+**[Florida Hams Provide Communications Support During Hurricane Isaias](http://www.arrl.org/news/view/florida-hams-provide-communications-support-during-hurricane-isaias)**
+> Amateur radio operators from Florida’s Santa Rosa, Nassau, Lake, Pinellas, and Leon Counties played an important role in supporting emergency communications efforts during and following Hurricane Isaias, helping ensure that critical communication capabilities remained available throughout the...
+
+**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-47)**
+> Look for improved propagation on the upper HF bands, as both thesunspot numbers and 10.7-centimeter radio flux remain near or above100. According to NOAA's Space Weather Prediction Center (SWPC),the increase in activity is being fueled primarily by sunspotRegion 4551, which is described as the...
+
 **[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)**
-> The 21st annual ARRL Online Auction is open now through October 22. Browse more than 200 items and place your bids!This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson, K4OGO, from Salty Walt’s...
+> The 21st annual ARRL Online Auction, sponsored by GigaParts, is open now through October 22. Browse more than 200 items and place your bids!This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson,...
 
 **[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)**
 > ARRL The National Association for Amateur Radio® will close our headquarters at 12 PM Eastern time on Friday, October 9, 2026, for a staff event.The ARRL Headquarters lobby and store, as well as W1AW, will be open to visitors from 8 AM to 12 PM EDT. Members are reminded that many transactions may...
-
-**[Radio Amateurs Prepare for Hurricane Isaias](http://www.arrl.org/news/view/radio-amateurs-prepare-for-hurricane-isaias)**
-> Updated Saturday, October 10, 2026 @ 11 AM EDTAs of Saturday morning, October 10, the Hurricane Watch Net remained active on both 14.325 and 7.268 MHz, collecting and forwarding post-storm reports to the National Hurricane Center and assisting with any emergency, priority or outgoing health and...
-
-**[Watching the Gulf](http://www.arrl.org/news/view/watching-the-gulf)**
-> The Hurricane Watch Net (HWN) is closely monitoring Invest 92L, which is expected to become Tropical Storm Isaias in the next 24 hours. According to HWN Manager Bobby Graves, KB5HAV, the potential area of concern for this storm is a wide swath of the Gulf coast, extending from Louisiana to Florida....
-
-**[2026 Collegiate QSO Party is October 3 – 4](http://www.arrl.org/news/view/2026-collegiate-qso-party-is-october-3-4)**
-> Get ready to contact college and university radio clubs during this weekend’s Collegiate QSO Party, 0000 UTC October 3 through 2359 UTC ImageOctober 4 (Friday evening through Sunday in the US). Students, faculty, staff, and alumni will be on the air using the call sign of a college, university, or...
 
 ---
 
 ### QRZ Forums
 
-**[Baofeng UV-5RM PLUS GPS review, Airband hack, APRS how to, Unlock frequencies](https://forums.qrz.com/index.php?threads/baofeng-uv-5rm-plus-gps-review-airband-hack-aprs-how-to-unlock-frequencies.950731/)**
+**[Unable to recover password on QRZ.COM](https://forums.qrz.com/index.php?threads/unable-to-recover-password-on-qrz-com.1007030/)**
 
-**[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
+**[YJ0CA, Vanuatu](https://forums.qrz.com/index.php?threads/yj0ca-vanuatu.840310/)**
 
-**[nominativo vecchio](https://forums.qrz.com/index.php?threads/nominativo-vecchio.1006932/)**
+**[XX9TXN – Macau](https://forums.qrz.com/index.php?threads/xx9txn-%E2%80%93-macau.992228/)**
 
-**[Call Sign or User Name change](https://forums.qrz.com/index.php?threads/call-sign-or-user-name-change.1006934/)**
+**[CEMOTA (Cemeteries on the Air) - come try it](https://forums.qrz.com/index.php?threads/cemota-cemeteries-on-the-air-come-try-it.1002282/)**
 
-**[ADDRESS UPDATE TO FCC](https://forums.qrz.com/index.php?threads/address-update-to-fcc.1006930/)**
+**[EPARS Dade City, FL. Nov. 7, 2026 Hamfest East Pasco Amateur Radio Society](https://forums.qrz.com/index.php?threads/epars-dade-city-fl-nov-7-2026-hamfest-east-pasco-amateur-radio-society.1007019/)**
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-16 15:17 UTC*
+*Generated: 2026-10-17 14:05 UTC*

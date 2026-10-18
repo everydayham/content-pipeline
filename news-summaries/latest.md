@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 17, 2026
+## October 18, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[Unable to recover password on QRZ.COM](https://forums.qrz.com/index.php?threads/unable-to-recover-password-on-qrz-com.1007030/)** (QRZ Forums)
-- **[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)** (SWLing Post)
+- **[Agenda DX Semanal](https://forums.qrz.com/index.php?threads/agenda-dx-semanal.1007107/)** (QRZ Forums)
+- **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)** (SWLing Post)
 - **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,34 +38,34 @@
 
 ### QRZ Forums
 
-**[Unable to recover password on QRZ.COM](https://forums.qrz.com/index.php?threads/unable-to-recover-password-on-qrz-com.1007030/)**
+**[Agenda DX Semanal](https://forums.qrz.com/index.php?threads/agenda-dx-semanal.1007107/)**
 
-**[YJ0CA, Vanuatu](https://forums.qrz.com/index.php?threads/yj0ca-vanuatu.840310/)**
+**[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
 
-**[XX9TXN – Macau](https://forums.qrz.com/index.php?threads/xx9txn-%E2%80%93-macau.992228/)**
+**[Winter SWL CONTEST 2027 FULL RULES](https://forums.qrz.com/index.php?threads/winter-swl-contest-2027-full-rules.1007102/)**
 
-**[CEMOTA (Cemeteries on the Air) - come try it](https://forums.qrz.com/index.php?threads/cemota-cemeteries-on-the-air-come-try-it.1002282/)**
+**[Save your week end for the CQ WW SSB Contest 2026](https://forums.qrz.com/index.php?threads/save-your-week-end-for-the-cq-ww-ssb-contest-2026.1007101/)**
 
-**[EPARS Dade City, FL. Nov. 7, 2026 Hamfest East Pasco Amateur Radio Society](https://forums.qrz.com/index.php?threads/epars-dade-city-fl-nov-7-2026-hamfest-east-pasco-amateur-radio-society.1007019/)**
+**[SWR Magazine – October 2026 Edition Now Available](https://forums.qrz.com/index.php?threads/swr-magazine-%E2%80%93-october-2026-edition-now-available.1005552/)**
 
 ---
 
 ### SWLing Post
+
+**[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)**
+> The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part One Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
+
+**[Radio Waves: Iconic Czech Towers Demolished, Global Public Broadcasters Gather, T8/FT4 DX Decoder for SDR++Brown, and Visual Path & Open-Source Browser-Based SDR App](https://swling.com/blog/2026/10/radio-waves-iconic-czech-towers-demolished-global-public-broadcasters-gather-t8-ft4-dx-decoder-for-sdrbrown-and-visual-path-open-source-browser-based-sdr-app/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories and applications making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurezcia, Mark Hirst, ReLLL, and Julian for the...
+
+**[Texas Radio Shortwave: Schedule for November 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-november-2026/)**
+> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
 
 **[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)**
 > Radio Thoughts and Reflections: An informal hands-on review of the Tecsun H501x, Belka, Sony ICF 2010 / 2001D by Julian Stargardt This review started as a comparative review of the Tecsun H501x and the Sony ICF 2010 / 2001D. It developed into something more. I fell in love with radio when as a 5 or...
 
 **[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)**
 > by Dan Greenall The Far East Broadcasting Company in Manila is currently celebrating 80 years on shortwave, while at the same time, planning to close down in March 2027. I first heard them from my listening post in southern Ontario, Canada back in 1972, and received this colourful QSL from them....
-
-**[Radio Time Travel: Eifeler Radiotage Returns to Shortwave October 16, 2026](https://swling.com/blog/2026/10/radio-time-travel-eifeler-radiotage-returns-to-shortwave-october-16-2026/)**
-> Many thanks to SWLing Post contributor Gérard Koopal who notes that the Eifeler Radiotage will return to the airwaves October 16–18, 2026, with three days of special programming from the Eifel region of Germany. The broadcast will be in German and will feature a variety of programs exploring...
-
-**[TV on shortwave radio](https://swling.com/blog/2026/10/television-on-shortwave-radio/)**
-> Hi to all our SWLing Post friends. Here’s this week’s Imaginary Stations schedule for your shortwave radio/SDR listening pleasure. On Wednesday 14th October 2026, at 0200 hrs UTC on 9395 kHz we have a new episode of WHFM: Herman’s Radio & Record Room on WRMI this week, with vintage tunes & even...
-
-**[Radio Waves: SAQ UN-Day Broadcast & Test Transmission, Radio Bulgaria QSL 10, Liblice Transmitter Masts Demolition, and Source for Streaming Station URLs](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Paul Jamet, David Iurescia, and Alon for the following tips: SAQ Grimeton...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-17 14:05 UTC*
+*Generated: 2026-10-18 14:20 UTC*

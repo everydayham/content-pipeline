@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-17 14:05 UTC*
+*Last updated: 2026-10-18 14:20 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [My First DIY Radio](https://www.reddit.com/r/amateurradio/comments/1x82pq6/my_first_diy_radio/)**
+**3. [Ai qso???](https://www.reddit.com/r/amateurradio/comments/1x8pjv4/ai_qso/)**
+by u/SummerRemote267
+
+**4. [Yesterday I did my first operational practices to get my license!](https://www.reddit.com/r/amateurradio/comments/1x93omi/yesterday_i_did_my_first_operational_practices_to/)**
+by u/HighlanderFireblade
+
+**5. [Help needed](https://www.reddit.com/r/amateurradio/comments/1x91g89/help_needed/)**
+by u/RickHasGivenUp
+
+**6. [Explain the Comet 2x4](https://www.reddit.com/r/amateurradio/comments/1x8k6ur/explain_the_comet_2x4/)**
+by u/ManyMixture826
+
+**7. [What to get out of handhelds other than repeaters?](https://www.reddit.com/r/amateurradio/comments/1x8w26r/what_to_get_out_of_handhelds_other_than_repeaters/)**
+by u/conniseurofbugs
+
+**8. [Simplex Saturday](https://www.reddit.com/r/amateurradio/comments/1x8cmo5/simplex_saturday/)**
+by u/SummerRemote267
+
+**9. [Calling CQ on CW automatically without hearing self](https://www.reddit.com/r/amateurradio/comments/1x8zzfb/calling_cq_on_cw_automatically_without_hearing/)**
+by u/aeioujohnmaddenaeiou
+
+**10. [More phone contacts than anything today](https://www.reddit.com/r/amateurradio/comments/1x8hcjv/more_phone_contacts_than_anything_today/)**
+by u/SummerRemote267
+
+**11. [Beacon Project Occupied? RTTY on 14.1?](https://www.reddit.com/r/amateurradio/comments/1x8zc1f/beacon_project_occupied_rtty_on_141/)**
+by u/Mikethedrywaller
+
+**12. [Looking for contacts ft8](https://www.reddit.com/r/amateurradio/comments/1x8gcjo/looking_for_contacts_ft8/)**
+by u/SummerRemote267
+
+**13. [Level Up! I’m /AG now - Passed my General](https://www.reddit.com/r/amateurradio/comments/1x8jgof/level_up_im_ag_now_passed_my_general/)**
+by u/WhiskySails
+
+**14. [QHF Antenna](https://www.reddit.com/r/amateurradio/comments/1x8tmp2/qhf_antenna/)**
+by u/Aocool_3D
+
+**15. [My First DIY Radio](https://www.reddit.com/r/amateurradio/comments/1x82pq6/my_first_diy_radio/)**
 by u/Remote_Air_6433
-
-**4. [I just passed my exams to get my GROL!](https://www.reddit.com/r/amateurradio/comments/1x807et/i_just_passed_my_exams_to_get_my_grol/)**
-by u/SrHuevos94
-
-**5. [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.reddit.com/r/amateurradio/comments/1x7waiq/ebay_restricts_listings_of_radio_equipment_but/)**
-by u/autistic_psycho
-
-**6. [Looked at an experimental radio grant with erp measured in picowatts](https://www.reddit.com/r/amateurradio/comments/1x7xz92/looked_at_an_experimental_radio_grant_with_erp/)**
-by u/KD3AZZ
-
-**7. [Happy Friday everyone!](https://www.reddit.com/r/amateurradio/comments/1x7szcc/happy_friday_everyone/)**
-by u/Ordinary_Fly_3044
-
-**8. [ft8 on my d-808 this afternoon](https://www.reddit.com/r/amateurradio/comments/1x8ano7/ft8_on_my_d808_this_afternoon/)**
-by u/spidergod
-
-**9. [Testing today. I have passed my last 10 practice exams on HamStudy. Feel pretty ...](https://www.reddit.com/r/amateurradio/comments/1x7f018/testing_today_i_have_passed_my_last_10_practice/)**
-by u/Fordel77
-
-**10. [Is this cool at all ? Not an expert](https://www.reddit.com/r/amateurradio/comments/1x80cdx/is_this_cool_at_all_not_an_expert/)**
-by u/immystr4wb
-
-**11. [Gear Doesn't Matter- Get Out There!](https://www.reddit.com/r/amateurradio/comments/1x7i410/gear_doesnt_matter_get_out_there/)**
-by u/Pinktiger11
-
-**12. [LOG tool for POTA - let it tell you a story](https://www.reddit.com/r/amateurradio/comments/1x86dok/log_tool_for_pota_let_it_tell_you_a_story/)**
-by u/Fit_Wrongdoer_6012
-
-**13. [Just got my general and looking for suggestions for an HF rig?](https://www.reddit.com/r/amateurradio/comments/1x89lmh/just_got_my_general_and_looking_for_suggestions/)**
-by u/Tenacious411
-
-**14. [Official post for qsl cards printers.](https://www.reddit.com/r/amateurradio/comments/1x7r27h/official_post_for_qsl_cards_printers/)**
-by u/sweetnessfnerk
-
-**15. [Is there a maintained contest calendar out there I can subscribe to?](https://www.reddit.com/r/amateurradio/comments/1x81d2w/is_there_a_maintained_contest_calendar_out_there/)**
-by u/J_TGL
 
 ---
 
@@ -61,14 +61,14 @@ by u/J_TGL
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x417st/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[My First DIY Radio](https://www.reddit.com/r/amateurradio/comments/1x82pq6/my_first_diy_radio/)** (r/amateurradio)
-- **[I just passed my exams to get my GROL!](https://www.reddit.com/r/amateurradio/comments/1x807et/i_just_passed_my_exams_to_get_my_grol/)** (r/amateurradio)
-- **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only ...](https://www.reddit.com/r/amateurradio/comments/1x7waiq/ebay_restricts_listings_of_radio_equipment_but/)** (r/amateurradio)
-- **[Looked at an experimental radio grant with erp measured in picowatts](https://www.reddit.com/r/amateurradio/comments/1x7xz92/looked_at_an_experimental_radio_grant_with_erp/)** (r/amateurradio)
-- **[Happy Friday everyone!](https://www.reddit.com/r/amateurradio/comments/1x7szcc/happy_friday_everyone/)** (r/amateurradio)
-- **[ft8 on my d-808 this afternoon](https://www.reddit.com/r/amateurradio/comments/1x8ano7/ft8_on_my_d808_this_afternoon/)** (r/amateurradio)
-- **[Testing today. I have passed my last 10 practice exams on HamStudy. Fe...](https://www.reddit.com/r/amateurradio/comments/1x7f018/testing_today_i_have_passed_my_last_10_practice/)** (r/amateurradio)
-- **[Is this cool at all ? Not an expert](https://www.reddit.com/r/amateurradio/comments/1x80cdx/is_this_cool_at_all_not_an_expert/)** (r/amateurradio)
+- **[Ai qso???](https://www.reddit.com/r/amateurradio/comments/1x8pjv4/ai_qso/)** (r/amateurradio)
+- **[Yesterday I did my first operational practices to get my license!](https://www.reddit.com/r/amateurradio/comments/1x93omi/yesterday_i_did_my_first_operational_practices_to/)** (r/amateurradio)
+- **[Help needed](https://www.reddit.com/r/amateurradio/comments/1x91g89/help_needed/)** (r/amateurradio)
+- **[Explain the Comet 2x4](https://www.reddit.com/r/amateurradio/comments/1x8k6ur/explain_the_comet_2x4/)** (r/amateurradio)
+- **[What to get out of handhelds other than repeaters?](https://www.reddit.com/r/amateurradio/comments/1x8w26r/what_to_get_out_of_handhelds_other_than_repeaters/)** (r/amateurradio)
+- **[Simplex Saturday](https://www.reddit.com/r/amateurradio/comments/1x8cmo5/simplex_saturday/)** (r/amateurradio)
+- **[Calling CQ on CW automatically without hearing self](https://www.reddit.com/r/amateurradio/comments/1x8zzfb/calling_cq_on_cw_automatically_without_hearing/)** (r/amateurradio)
+- **[More phone contacts than anything today](https://www.reddit.com/r/amateurradio/comments/1x8hcjv/more_phone_contacts_than_anything_today/)** (r/amateurradio)
 
 ---
 

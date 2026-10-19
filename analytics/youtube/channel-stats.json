@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-12T20:39:08.608774",
+  "updated": "2026-10-19T18:02:26.032349",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "gmj4ekWivMOkLGtnZb1EhOBaAsc",
+    "etag": "smX8uaI8DgJzAyTPYvdWtSd3Ts8",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,87 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "292863",
-      "subscriberCount": "2400",
+      "viewCount": "296043",
+      "subscriberCount": "2420",
       "hiddenSubscriberCount": false,
-      "videoCount": "172"
+      "videoCount": "173"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "rCQEJr0EFI1ma3qoLlLJGxfdZ5M",
+      "etag": "KMzbqll9mk0rfSQvDAX_bZpVmRU",
+      "id": "DaEXp29dhIk",
+      "snippet": {
+        "publishedAt": "2026-10-13T14:07:46Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
+        "description": "Andy N0APX and James N0WRL explain how World Radio League decides what to build, from a flexible roadmap and a focus on stability and security to using AI tools without letting the AI do the thinking.\nWorld Radio League: https://worldradioleague.com/\n\nThis is a highlight from Everyday Ham Episode 22. James shares that when the team started in 2023, every line of code was written by hand, and that they now use AI tools while still reviewing everything as humans. Andy adds why he would never trust AI with the roadmap or the final say on design.\n\nWatch the full episode: https://youtu.be/MhjirNwRR7A\nListen to the full episode: https://www.buzzsprout.com/2438895/episodes/19925344\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #WorldRadioLeague #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DaEXp29dhIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DaEXp29dhIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DaEXp29dhIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DaEXp29dhIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DaEXp29dhIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "World Radio League",
+          "WRL",
+          "ham radio logger",
+          "ham radio logging software",
+          "ham radio software",
+          "AI coding",
+          "AI software development",
+          "software roadmap",
+          "software development",
+          "AI in ham radio",
+          "Everyday Ham",
+          "Everyday Ham podcast",
+          "ham radio podcast",
+          "amateur radio",
+          "ham radio",
+          "Everyday Ham Episode 22"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
+          "description": "Andy N0APX and James N0WRL explain how World Radio League decides what to build, from a flexible roadmap and a focus on stability and security to using AI tools without letting the AI do the thinking.\nWorld Radio League: https://worldradioleague.com/\n\nThis is a highlight from Everyday Ham Episode 22. James shares that when the team started in 2023, every line of code was written by hand, and that they now use AI tools while still reviewing everything as humans. Andy adds why he would never trust AI with the roadmap or the final say on design.\n\nWatch the full episode: https://youtu.be/MhjirNwRR7A\nListen to the full episode: https://www.buzzsprout.com/2438895/episodes/19925344\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#hamradio #WorldRadioLeague #AI"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "249",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ergo2nqpfJbv6BuGnuzwmguS4gA",
       "id": "OlH42F5vAHw",
       "snippet": {
         "publishedAt": "2026-10-12T19:23:17Z",
@@ -83,19 +154,18 @@
         "localized": {
           "title": "Andy\u2019s First Ever JTTY Contact",
           "description": "Andy N0APX made his first JTTY contact from a pre-release World Radio League desktop app, then shared it live with James N0WRL on the Everyday Ham podcast. Full episode on YouTube and wherever you get podcasts: https://www.everydayham.com/show-notes/ep-22-world-radio-league-founders-100000-users-jtty-and-morse-mastery #hamradio #amateurradio #JTTY #WSJTX #WorldRadioLeague #EverydayHam"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
-        "viewCount": "20",
-        "likeCount": "0",
+        "viewCount": "160",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "UiiZtkickPuAK33tZtzZ5FwrTnA",
+      "etag": "ogig-8bZOvDphPwK_NDR3x7hOsU",
       "id": "MhjirNwRR7A",
       "snippet": {
         "publishedAt": "2026-10-08T11:45:37Z",
@@ -159,15 +229,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "816",
-        "likeCount": "33",
+        "viewCount": "1056",
+        "likeCount": "35",
         "favoriteCount": "0",
-        "commentCount": "7"
+        "commentCount": "8"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "A0iW1jy-3hcUZtAoQhVeMzKIccQ",
+      "etag": "lWCtdp7faBoNcGG-jGp54u6E2io",
       "id": "h8PsigNNfuk",
       "snippet": {
         "publishedAt": "2026-10-06T12:00:09Z",
@@ -231,15 +301,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1035",
-        "likeCount": "27",
+        "viewCount": "1099",
+        "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4iGArFbiuh3TjwIwvAr8Mn0tAeo",
+      "etag": "l76dLbrhBp9Xm7UAR85KJr5xcy4",
       "id": "jn6-BdDVQzI",
       "snippet": {
         "publishedAt": "2026-10-01T12:00:04Z",
@@ -302,7 +372,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2609",
+        "viewCount": "2645",
         "likeCount": "56",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -310,7 +380,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uvqM0yqmY2dluuQbP2oiXTA0Cj0",
+      "etag": "HBSo4o8vUcaXOxM3rNjX5KPSr6k",
       "id": "cEPpW0aW-W8",
       "snippet": {
         "publishedAt": "2026-09-25T16:59:07Z",
@@ -355,7 +425,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1542",
+        "viewCount": "1550",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -363,7 +433,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qIRANPWlzO4bT3Bxs6F2u7FN394",
+      "etag": "eiGKBVLC9uOewOnqBHaIemCEKPQ",
       "id": "LwICFz2gx1w",
       "snippet": {
         "publishedAt": "2026-09-25T12:00:12Z",
@@ -426,15 +496,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3488",
-        "likeCount": "59",
+        "viewCount": "3620",
+        "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BzLFI7b7HhmNeKCKh6wAdGoe3uw",
+      "etag": "ukhmdR-I20008Q12gMjYSz64m9s",
       "id": "9Wk6JWDHHN4",
       "snippet": {
         "publishedAt": "2026-09-10T11:00:02Z",
@@ -498,15 +568,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1734",
-        "likeCount": "26",
+        "viewCount": "1766",
+        "likeCount": "27",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "r7kbUuCu0p6giFrAdKQ74Mi6njA",
+      "etag": "-UZmZFy-ShsDktSDZIMkuChC95U",
       "id": "nDdjONljAqQ",
       "snippet": {
         "publishedAt": "2026-09-05T09:04:34Z",
@@ -550,7 +620,7 @@
         }
       },
       "statistics": {
-        "viewCount": "96",
+        "viewCount": "97",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -558,7 +628,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EEQmBtwuSx_bsvqYMsqpHGjKNPo",
+      "etag": "bYLBiOYN-DZB4suFfzxzUAkqTLY",
       "id": "KRdY1-WOgkY",
       "snippet": {
         "publishedAt": "2026-09-04T01:53:50Z",
@@ -602,7 +672,7 @@
         }
       },
       "statistics": {
-        "viewCount": "272",
+        "viewCount": "274",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -610,7 +680,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "S4yW2ZW1oznxLmhXUGM17eKkd-Q",
+      "etag": "UMFRwa6KIdheT7F4HpjV2nwSWgY",
       "id": "FakqdX9c1ac",
       "snippet": {
         "publishedAt": "2026-09-03T12:00:37Z",
@@ -675,7 +745,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "573",
+        "viewCount": "589",
         "likeCount": "24",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -683,7 +753,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9uKje6NY4QUkplMPjFGXFLtAYqw",
+      "etag": "6QLDuqmV5KoCxdJXZ0ra5K6cAG0",
       "id": "N9i7XudEuyw",
       "snippet": {
         "publishedAt": "2026-08-31T09:01:52Z",
@@ -734,15 +804,15 @@
         }
       },
       "statistics": {
-        "viewCount": "353",
-        "likeCount": "6",
+        "viewCount": "396",
+        "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "P3yP6YQ7GHYkaWXlYVu29NZsBBg",
+      "etag": "lWtpa7PbEmTEWjR5mmuTIAzzX-Q",
       "id": "wJ9ApHXBlWE",
       "snippet": {
         "publishedAt": "2026-08-30T01:43:12Z",
@@ -799,7 +869,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "447",
+        "viewCount": "459",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -807,7 +877,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FS2VVz2LEd0ZIuUeEbMh63x4B-0",
+      "etag": "U3mI5iXiJMu3FsJJG4wvKqHy9pA",
       "id": "FGMP-r6Kwq0",
       "snippet": {
         "publishedAt": "2026-08-29T15:00:11Z",
@@ -870,7 +940,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4359",
+        "viewCount": "4380",
         "likeCount": "46",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -878,7 +948,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LzTI_So_r_F-Hhc7F36lDgMFVTk",
+      "etag": "Bq7NFkVW35UN6AE4gUvw4CDyv54",
       "id": "6bfpd7tNemg",
       "snippet": {
         "publishedAt": "2026-08-27T11:18:31Z",
@@ -946,15 +1016,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1244",
-        "likeCount": "40",
+        "viewCount": "1267",
+        "likeCount": "41",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XL5qLsS2sBMpQPe5UH5Rp8C7hOw",
+      "etag": "EwekUUt_ObmDKSl_JqsFoeMB9Y8",
       "id": "bi5ceZWvSfg",
       "snippet": {
         "publishedAt": "2026-08-18T15:56:48Z",
@@ -1007,7 +1077,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1300",
+        "viewCount": "1302",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1015,7 +1085,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7RtimTZlYaMXHdDZq2-y5dzt6Bs",
+      "etag": "tmi-uQquX9NHpaGhBTTGQPwraro",
       "id": "nYPSyZzZcDY",
       "snippet": {
         "publishedAt": "2026-08-15T18:28:54Z",
@@ -1077,7 +1147,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "916",
+        "viewCount": "923",
         "likeCount": "38",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1085,7 +1155,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DRHFg3CwHJ7CBwElwnbif3ZKb-A",
+      "etag": "Z531ly7HwbeDMvml4gakz2SO6R0",
       "id": "LEmN65zuSK0",
       "snippet": {
         "publishedAt": "2026-08-14T12:00:12Z",
@@ -1149,7 +1219,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "137",
+        "viewCount": "152",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1157,7 +1227,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "o2yX_FWqMc0y4YutBDLiCMWk3i8",
+      "etag": "8ZuGpTEyQYs_4sYQ-3n79aGUqNo",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -1221,7 +1291,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "279",
+        "viewCount": "289",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1333,7 +1403,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uxniQXBpLUMlDq06UXNhnYY58fw",
+      "etag": "sPuIqgR8SSWfnBBrtQAums3JQw8",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -1397,7 +1467,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "295",
+        "viewCount": "304",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1405,7 +1475,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "r_a2GXpNoOHu05OE8PLakP2gu1o",
+      "etag": "4KyV76OHt1NBkzJj9vHi2b-Clo0",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -1449,7 +1519,7 @@
         }
       },
       "statistics": {
-        "viewCount": "197",
+        "viewCount": "199",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1457,7 +1527,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wtHs6Wy0iQPzJXRnt9XbvvWa01Q",
+      "etag": "vslHSgSWnNhmQcXOvu9kVZhbFMA",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -1525,15 +1595,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2031",
-        "likeCount": "106",
+        "viewCount": "2091",
+        "likeCount": "108",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "axT-XjjP1mOeUpEqycPRNs0nFvM",
+      "etag": "YugeCrG5RbLsDR1tYI_WrVBgl_0",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -1601,7 +1671,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "358",
+        "viewCount": "360",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1609,7 +1679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vW6GQ7Q-G3iTv6qHHbmtRcj0cKg",
+      "etag": "z0xhyhzhkFiMwv5HTy-3eeOoWzo",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -1677,7 +1747,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5442",
+        "viewCount": "5454",
         "likeCount": "172",
         "favoriteCount": "0",
         "commentCount": "50"
@@ -1685,7 +1755,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ys3gobbAEQM8NWykiid8beGfiIE",
+      "etag": "-SOr-DObJ54U_hxd1a4VYXZq9m4",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -1747,7 +1817,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "596",
+        "viewCount": "612",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1755,7 +1825,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "r3mRl_CVEcR6oHAjH1xl42ncreI",
+      "etag": "MJZiflCyfRJ7-UP-Hc0D-bOjL5Y",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -1824,7 +1894,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "699",
+        "viewCount": "719",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1832,7 +1902,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yev4ELncS5VSZHffPhYcVcHXPQk",
+      "etag": "DHvsEbp_cg2FNLWv1JGqp_tOQMo",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -1895,7 +1965,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "143",
+        "viewCount": "144",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1973,7 +2043,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Nbt2rce-O50PfBQP9CB1cwN0p9w",
+      "etag": "TH9yVtRSlMpv-GHqeh-5kmjTl90",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -2037,7 +2107,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "292",
+        "viewCount": "297",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2117,7 +2187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "83SfGi4kRsmSpIiUo9m3wiGdgVM",
+      "etag": "qq2UnY5dURnA8RNNwc_Bsdzgp_A",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -2189,7 +2259,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "992",
+        "viewCount": "1000",
         "likeCount": "61",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -2197,7 +2267,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ge9oqmMOwsoU9WWFxLgd0EzRoRg",
+      "etag": "mqtHtc1cYPLage9MyUc0oniruos",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -2266,7 +2336,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1027",
+        "viewCount": "1050",
         "likeCount": "61",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -2274,7 +2344,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8KCpE5n29SPzDH2yXB90NzYURZg",
+      "etag": "MXZfm9FcTXwsTnl_HXaZrIuMDz4",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -2343,7 +2413,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "353",
+        "viewCount": "354",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2351,7 +2421,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xvJ65kcK8VRmWWq1S5Y6LB4m6gU",
+      "etag": "Uq29KGBsa55bOoGyIV2TobIUe7M",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -2427,7 +2497,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "V6R4GfvH-C84kJX8SHcqKNYyEf0",
+      "etag": "YmAp3X5lZksJWSao-cEb4g4Z4MI",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -2496,15 +2566,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1532",
-        "likeCount": "51",
+        "viewCount": "1593",
+        "likeCount": "52",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cxzS3d2ztKQW4cEIJkImXysNPbg",
+      "etag": "8p5NBMhl2c24grrvrUWFr0-I1FI",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -2572,8 +2642,8 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "790",
-        "likeCount": "51",
+        "viewCount": "813",
+        "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "12"
       }
@@ -2651,7 +2721,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cFszZ5erM6MHQ64MhH3xdVQjgas",
+      "etag": "IAPzzd7a9j9X86Wz7iuSVAzP0Ec",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -2720,7 +2790,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "651",
+        "viewCount": "652",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -2728,7 +2798,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kAmBDwbm4pumQc3ysZlteBO5_EA",
+      "etag": "H7MYLx08W76ni-9oe_Krj8zsJu0",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -2797,7 +2867,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3532",
+        "viewCount": "3544",
         "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -2805,7 +2875,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3OtDB8ECudak_sYXIiRrfMTxRLQ",
+      "etag": "7uuirFftPIZpxj3p9qC1_Y1-i-4",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -2873,7 +2943,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "641",
+        "viewCount": "649",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2881,7 +2951,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "atH08XOr6JyBunq-BIyjCq2F8HI",
+      "etag": "PgZ1zN-IDarlAAhOxs8T3e5QleY",
       "id": "IEwwzO5Uf6Q",
       "snippet": {
         "publishedAt": "2026-05-17T04:02:03Z",
@@ -2950,7 +3020,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "10123",
+        "viewCount": "10148",
         "likeCount": "197",
         "favoriteCount": "0",
         "commentCount": "58"
@@ -2958,7 +3028,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lOv27szpxw1Gn5ndzSvlUI2oRuM",
+      "etag": "UDFYy9xlx3UUytrehAHfpjcW448",
       "id": "uUiUzJ-9kIM",
       "snippet": {
         "publishedAt": "2026-05-17T03:21:00Z",
@@ -3027,7 +3097,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2109",
+        "viewCount": "2133",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -3035,7 +3105,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nX8NrabQiVkh2G4lwOyukcuP16U",
+      "etag": "D3taaQo4zj24ues5-1NU18KQOgo",
       "id": "LIM0hjXez1Q",
       "snippet": {
         "publishedAt": "2026-05-16T22:40:08Z",
@@ -3104,7 +3174,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "12082",
+        "viewCount": "12124",
         "likeCount": "197",
         "favoriteCount": "0",
         "commentCount": "59"
@@ -3112,7 +3182,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1oCrfkhFC6fLHsrdAq7ASXmabnk",
+      "etag": "NpeTw7uP4kt2RA7gpaG9rwD1UbE",
       "id": "ZYk8IUSeEHI",
       "snippet": {
         "publishedAt": "2026-05-16T11:45:04Z",
@@ -3181,7 +3251,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "11670",
+        "viewCount": "11733",
         "likeCount": "257",
         "favoriteCount": "0",
         "commentCount": "56"
@@ -3189,7 +3259,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RoHUupBgMvQAWfRMrVlGBfMFa5M",
+      "etag": "CIzWpL9TDpPUlDv_9N5YtO5SXuc",
       "id": "u_4p34yJlvk",
       "snippet": {
         "publishedAt": "2026-05-16T04:00:53Z",
@@ -3258,15 +3328,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5038",
-        "likeCount": "140",
+        "viewCount": "5093",
+        "likeCount": "141",
         "favoriteCount": "0",
         "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "21gwe13y8IPRtWSL_zlz9Dm8Bbc",
+      "etag": "6MXNye91FlzLmH5J4ihYFIDscNQ",
       "id": "4yIAYqlbBHw",
       "snippet": {
         "publishedAt": "2026-05-15T13:11:05Z",
@@ -3327,7 +3397,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1096",
+        "viewCount": "1121",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -3335,7 +3405,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4zkg5yvYipLvSws0NUzr-kNkr3U",
+      "etag": "-pE2IfYfV4sgBFbh_3BR9uFW5HY",
       "id": "YrE4SytLYNQ",
       "snippet": {
         "publishedAt": "2026-05-15T05:13:33Z",
@@ -3403,7 +3473,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1711",
+        "viewCount": "1720",
         "likeCount": "76",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -3476,82 +3546,6 @@
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ks-HkVXQjRzjGVXJIQM1RSs1tcE",
-      "id": "b5WcO1lnuck",
-      "snippet": {
-        "publishedAt": "2026-05-07T14:00:54Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-        "description": "The fastest way to waste Hamvention is to treat it like a random walk. We're getting ahead of Dayton with the game plan we wish we had on day one: how to pace the weekend, when to hit the flea market, how to dodge the worst lines, and why the forums can be the most underrated part of the whole show.\n\nWe also catch up from our shacks, because real ham radio life is never just shopping. Rory shares lessons from the Michigan QSO Party and why CW contesting is the best training ground for finally hearing callsigns at speed. James brings the portable angle with travel radio, Parks on the Air stories from Hawaii and the Grand Canyon, and what it takes to make a station work when you're far from home. Jim talks simple antenna building with a 9:1 end-fed and what he's learning by hosting a club System Fusion repeater under his desk.\n\nThen we get into the big Hamvention gear energy: ICOM's X-026 concept has the internet buzzing about a mobile rig that could finally merge HF with VHF/UHF in a clean install. Kenwood's TM-D750A is still the question everyone wants answered, and they've claimed three booths in Building 1 this year. Yaesu staying quiet has us all guessing what comes next for handhelds, battery life, and maybe even a smaller form factor.\n\nIf you're heading to Dayton, you'll leave this episode with practical tips you can use immediately and a checklist mindset that keeps the weekend fun. Plus a couple of shameless plugs: Jim's interview on Q5 Worldwide Ham Radio with Kevin Thomas (W1DED) and the 3rd Annual Michigan POTA Meetup at Hartwick Pines on June 6, 2026.\n\n\ud83c\udf99 In this episode:\n00:00 - Welcome to Episode 17\n01:25 - Discord community shoutouts\n03:00 - Rory's Michigan QSO Party recap\n05:15 - James in Hawaii, the Grand Canyon & 100th unique POTA park\n14:00 - Rob N1RWJ's first CW POTA activation\n15:30 - Jim's \"square-tenna\" build & DXCC chasing\n17:45 - The N8SL repeater under Jim's desk\n21:50 - Q5 Ham Radio interview & Michigan POTA Meetup plugs\n24:25 - Hamvention 2026 preview begins\n26:45 - ICOM X-026 reveal & predictions\n30:00 - Kenwood TM-D750A: will it finally be real?\n33:30 - Buddy Pole, Buddy Hex & responsible adult decisions\n38:00 - Yaesu stays quiet & the case for a smaller HT\n42:00 - Coffee, food trucks & the Hamvention experience\n44:30 - Our day-by-day strategy guide\n48:30 - Flea market tips: weather, timing & looking under the tables\n50:15 - Sign Man badges & honor system pickup\n52:35 - The raffle & the small STEM building\n54:00 - Don't sleep on the forums (POTA: The Road Ahead)\n56:10 - Final tips: hydrate, sunscreen, marathon not a sprint\n\n\ud83d\udd17 Q5 Worldwide Ham Radio: https://www.youtube.com/@q5hamradio\n\ud83d\udd17 Michigan POTA Meetup (June 6, 2026 at Hartwick Pines): https://www.michiganpotameetup.com\n\ud83d\udd17 QRPer.com (N1RWJ's first CW activation article): https://qrper.com\n\ud83d\udd17 Ham Radio Crash Course: https://www.youtube.com/@HamRadioCrashCourse\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 All links here: https://www.everydayham.com\n\n\ud83c\udf99 Follow Everyday Ham:\n\ud83d\udd17 YouTube: @EverydayHam\n\ud83d\udd17 Instagram: @everydayhampodcast\n\ud83d\udd17 Website: https://www.everydayham.com\n\nIf you're heading to Hamvention 2026, find us in Caesar Creek. Look for the teal shirts with the purple ham on the back (N8SL). Come say hi, grab a sticker, and let's make some bad purchasing decisions together.\n\nWhat's the one thing you refuse to miss at Hamvention this year?\n\n73!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/b5WcO1lnuck/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Ham Radio",
-          "Amateur Radio",
-          "Hamvention",
-          "Hamvention 2026",
-          "Dayton Hamvention",
-          "ICOM X-026",
-          "Kenwood TM-D750A",
-          "Yaesu",
-          "POTA",
-          "CW",
-          "Everyday Ham",
-          "Ham Radio Podcast",
-          "Michigan QSO Party",
-          "Buddy Pole",
-          "Flea Market",
-          "K8JKU"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-          "description": "The fastest way to waste Hamvention is to treat it like a random walk. We're getting ahead of Dayton with the game plan we wish we had on day one: how to pace the weekend, when to hit the flea market, how to dodge the worst lines, and why the forums can be the most underrated part of the whole show.\n\nWe also catch up from our shacks, because real ham radio life is never just shopping. Rory shares lessons from the Michigan QSO Party and why CW contesting is the best training ground for finally hearing callsigns at speed. James brings the portable angle with travel radio, Parks on the Air stories from Hawaii and the Grand Canyon, and what it takes to make a station work when you're far from home. Jim talks simple antenna building with a 9:1 end-fed and what he's learning by hosting a club System Fusion repeater under his desk.\n\nThen we get into the big Hamvention gear energy: ICOM's X-026 concept has the internet buzzing about a mobile rig that could finally merge HF with VHF/UHF in a clean install. Kenwood's TM-D750A is still the question everyone wants answered, and they've claimed three booths in Building 1 this year. Yaesu staying quiet has us all guessing what comes next for handhelds, battery life, and maybe even a smaller form factor.\n\nIf you're heading to Dayton, you'll leave this episode with practical tips you can use immediately and a checklist mindset that keeps the weekend fun. Plus a couple of shameless plugs: Jim's interview on Q5 Worldwide Ham Radio with Kevin Thomas (W1DED) and the 3rd Annual Michigan POTA Meetup at Hartwick Pines on June 6, 2026.\n\n\ud83c\udf99 In this episode:\n00:00 - Welcome to Episode 17\n01:25 - Discord community shoutouts\n03:00 - Rory's Michigan QSO Party recap\n05:15 - James in Hawaii, the Grand Canyon & 100th unique POTA park\n14:00 - Rob N1RWJ's first CW POTA activation\n15:30 - Jim's \"square-tenna\" build & DXCC chasing\n17:45 - The N8SL repeater under Jim's desk\n21:50 - Q5 Ham Radio interview & Michigan POTA Meetup plugs\n24:25 - Hamvention 2026 preview begins\n26:45 - ICOM X-026 reveal & predictions\n30:00 - Kenwood TM-D750A: will it finally be real?\n33:30 - Buddy Pole, Buddy Hex & responsible adult decisions\n38:00 - Yaesu stays quiet & the case for a smaller HT\n42:00 - Coffee, food trucks & the Hamvention experience\n44:30 - Our day-by-day strategy guide\n48:30 - Flea market tips: weather, timing & looking under the tables\n50:15 - Sign Man badges & honor system pickup\n52:35 - The raffle & the small STEM building\n54:00 - Don't sleep on the forums (POTA: The Road Ahead)\n56:10 - Final tips: hydrate, sunscreen, marathon not a sprint\n\n\ud83d\udd17 Q5 Worldwide Ham Radio: https://www.youtube.com/@q5hamradio\n\ud83d\udd17 Michigan POTA Meetup (June 6, 2026 at Hartwick Pines): https://www.michiganpotameetup.com\n\ud83d\udd17 QRPer.com (N1RWJ's first CW activation article): https://qrper.com\n\ud83d\udd17 Ham Radio Crash Course: https://www.youtube.com/@HamRadioCrashCourse\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 All links here: https://www.everydayham.com\n\n\ud83c\udf99 Follow Everyday Ham:\n\ud83d\udd17 YouTube: @EverydayHam\n\ud83d\udd17 Instagram: @everydayhampodcast\n\ud83d\udd17 Website: https://www.everydayham.com\n\nIf you're heading to Hamvention 2026, find us in Caesar Creek. Look for the teal shirts with the purple ham on the back (N8SL). Come say hi, grab a sticker, and let's make some bad purchasing decisions together.\n\nWhat's the one thing you refuse to miss at Hamvention this year?\n\n73!"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "929",
-        "likeCount": "37",
-        "favoriteCount": "0",
-        "commentCount": "17"
       }
     }
   ]

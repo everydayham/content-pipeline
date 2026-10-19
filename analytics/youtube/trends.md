@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-10-12 20:39 UTC*
+*Last updated: 2026-10-19 18:02 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Little pota scolding kitten #shorts #funny #shorts... |  Village vibes studi | 1,057,866 | 2026-10-08 |
-| dadi pota bonding#shorts #shortvideo #short #short... | Art Club pk | 670,925 | 2026-10-11 |
-| pota dadi helper#shorts #shortvideo #short #shorts... | Art Club pk | 663,687 | 2026-10-11 |
-| pota dadi ka dewana😍#shorts #shortvideo #short #sh... | Art Club pk | 652,963 | 2026-10-06 |
-| dadi pota love 😙#shorts #shortvideo #short #shorts... | Art Club pk | 600,863 | 2026-10-12 |
-| pota copy dada😳#shorts #shortvideo #short #shortsf... | Art Club pk | 561,625 | 2026-10-11 |
-| pota makhan ka dewana#shorts #shortvideo #short #s... | Art Club pk | 519,394 | 2026-10-08 |
-| Pota missing dada #shorts #shortsfeed #viral #ytsh... |  Village vibes studi | 406,399 | 2026-10-09 |
-| dadi pota love #shorts #shortvideo #short #viral #... | Art Club pk | 396,129 | 2026-10-10 |
-| Cute pota copying dada#shorts #funny #shortsfeed #... |  Village vibes studi | 333,480 | 2026-10-08 |
-| Jab Pura Gaon Sota Tha, Tab Woh Jaagta Tha 🏮 | Emo... | Kahanimu | 130,752 | 2026-10-06 |
-| Tum Dena Sath Mera Today Promo | 10 October | Raks... | Tv & Entertainment S | 122,185 | 2026-10-10 |
-| jo abhi raat ko kapde kholkar sota ha#motivational... | Srojani officel | 118,496 | 2026-10-09 |
-| Mera Baby 8 PM se 5:30 AM Tak Sota Hai! | 0-3 Mont... | Prerna Raghuvanshi | 118,163 | 2026-10-07 |
-| SOTA,MANATO ⚰️🌹可愛すぎて溺れそう#BEFIRST | NINA_BESTY | 96,935 | 2026-10-07 |
-| Joh sota hai woh rota hai !! 😂 | Scenesandpeace | 90,603 | 2026-10-10 |
-| Radmor. Polska historia, która wciąż trwa 🇵🇱❤ #sho... | 3d-info | Maciej Per | 88,934 | 2026-10-11 |
-| p jo aadami raat ko kapde kholkar sota hai #shortv... | Srojani officel | 88,273 | 2026-10-06 |
-| Asa kon sota😩😩💁 #foru #viral #trending #india#love | Yourfurqan | 57,595 | 2026-10-11 |
-| The Solar Adapter Every Go Bag Needs | KM4ACK | 57,093 | 2026-10-06 |
-| Sending CW with a Quansheng’s buttons?! This blows... | Thomas (K4SWL) | 42,396 | 2026-10-06 |
-| Sabse jyada sota kon hai 🤠 #salmankhan  #kapilshar... | MemeBlitz | 41,258 | 2026-10-08 |
-| Simple Dipole Antenna For ISS SSTV With Your Baofe... | DX EXPLORER | 38,442 | 2026-10-06 |
-| SINGER -मंजू मुर्मू सस्ता येन मुसला कूड़ा नाश्ता य... | Kailash Hansdak | 36,557 | 2026-10-07 |
-| Darude Sandstorm #morsecode #hamradio | The Radio Zoomer | 34,306 | 2026-10-10 |
+| Tiger ek din me kitna sota hai?🐯🐯😅 #wildlife #jung... | ClipVannii | 1,442,837 | 2026-10-13 |
+| Pota dadi Ice cream plan#shorts #shortvideo #short... | Art Club pk | 841,590 | 2026-10-14 |
+| Kaju Kita Sota Hai 😂...#shorts | LOL Unfilttered | 599,825 | 2026-10-16 |
+| pota Vespa fun with chicks #shorts #shortvideo #sh... | Art Club pk | 524,982 | 2026-10-15 |
+| Na etha round ha irrukura etna ball la ila pota ve... | Voice of Santhosh | 392,393 | 2026-10-16 |
+| smart pota #shorts #shortvideo #short #shortsfeed ... | Art Club pk | 346,762 | 2026-10-16 |
+| SOTAは天才だ!!!⚰️別次元のダンス#BEFIRST | NINA_BESTY | 259,009 | 2026-10-13 |
+| pota dadi  naqal #shorts #shortvideo #short #short... | Art Club pk | 233,977 | 2026-10-13 |
+| Jo Apni Biwi ko Seene Se laga kar sota  Hai #enter... | Shoaib__ind | 227,997 | 2026-10-16 |
+| dadi pota bonding #shorts #shortvideo #short #shor... | Art Club pk | 217,390 | 2026-10-14 |
+| Practice Morse Code Alphabet #morsecode #hamradio | The Radio Zoomer | 212,035 | 2026-10-17 |
+| Rat ko tu kitne baje sota hain 😜😜 #razikaabaan #fu... | RAZIKA ABAAN OFFICIA | 186,922 | 2026-10-14 |
+| pota or Billi k tition#shorts #shortvideo #short #... | Art Club pk | 181,970 | 2026-10-15 |
+| Pota dadi ka khyal rkhty#shorts #shortvideo #short... | Art Club pk | 159,752 | 2026-10-18 |
+| pota  masti with balloon#shorts #shortvideo #short... | Art Club pk | 151,492 | 2026-10-13 |
+| SOTA: HANAの方々はとても良い曲が多いので #BEFIRST | NINA_BESTY | 143,406 | 2026-10-14 |
+| SOTAに大きなハグを!!⚰️🌹Sky は誰よりも BF を愛しています!#BEFIRST | NINA_BESTY | 142,921 | 2026-10-15 |
+| Bu pota neden dünyanın en tehlikeli basketbol pota... | Sporun Sırrı | 119,636 | 2026-10-17 |
+| Learn Morse Code Quickly - A #morsecode #hamradio | The Radio Zoomer | 118,786 | 2026-10-15 |
+| Daya ben ko mila sota admi 1 | ADMD Crime World TV | 107,708 | 2026-10-18 |
+| A Signal Jammer on My Neighbor’s Roof Killed My Ra... | TWISTLINE | 105,894 | 2026-10-14 |
+| Letitia James' License THREATENED after MASSIVE Ba... | Reasonable Doubt | 95,432 | 2026-10-14 |
+| hhhh ⚰️SOTA,MANATO,ATS BMSG FES26, 足広げんなマジで,めっちゃ可愛... | NINA_BESTY | 91,448 | 2026-10-13 |
+| Manju Murmu Diku ke Sath shaadi Karke Bhikar // Co... | Saul Hansdak | 75,727 | 2026-10-13 |
+| Inside My Legal-Limit 2 Meter Station — 1,500 Watt... | One Kilowatt | 72,286 | 2026-10-14 |
 
 ---
 
@@ -42,14 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (29 videos)
-- **License/Learning**: ████████████████████ (28 videos)
-- **HF Operating**: ████████████████████ (21 videos)
-- **Antennas**: █████████████████ (17 videos)
+- **License/Learning**: ████████████████████ (24 videos)
+- **POTA/Portable**: ████████████████████ (20 videos)
+- **HF Operating**: ████████████████ (16 videos)
+- **Antennas**: ███████████████ (15 videos)
 - **Gear Reviews**: █████████ (9 videos)
-- **Digital Modes**: █████ (5 videos)
-- **QRP**: ████ (4 videos)
-- **Contests**: ██ (2 videos)
+- **Digital Modes**: ██████ (6 videos)
+- **QRP**: ██ (2 videos)
 
 ---
 

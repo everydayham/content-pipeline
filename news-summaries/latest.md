@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 18, 2026
+## October 19, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[Agenda DX Semanal](https://forums.qrz.com/index.php?threads/agenda-dx-semanal.1007107/)** (QRZ Forums)
+- **[Change username from 9A5AZK to 9A5ZD](https://forums.qrz.com/index.php?threads/change-username-from-9a5azk-to-9a5zd.1007186/)** (QRZ Forums)
 - **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)** (SWLing Post)
-- **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)** (OnAllBands)
+- **[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[Agenda DX Semanal](https://forums.qrz.com/index.php?threads/agenda-dx-semanal.1007107/)**
+**[Change username from 9A5AZK to 9A5ZD](https://forums.qrz.com/index.php?threads/change-username-from-9a5azk-to-9a5zd.1007186/)**
 
-**[Why are modern radios becoming increasingly fragile?](https://forums.qrz.com/index.php?threads/why-are-modern-radios-becoming-increasingly-fragile.1006661/)**
+**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
 
-**[Winter SWL CONTEST 2027 FULL RULES](https://forums.qrz.com/index.php?threads/winter-swl-contest-2027-full-rules.1007102/)**
+**[QRZ Logbook not using my updated Grid and coordinates](https://forums.qrz.com/index.php?threads/qrz-logbook-not-using-my-updated-grid-and-coordinates.1007192/)**
 
-**[Save your week end for the CQ WW SSB Contest 2026](https://forums.qrz.com/index.php?threads/save-your-week-end-for-the-cq-ww-ssb-contest-2026.1007101/)**
+**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
 
-**[SWR Magazine – October 2026 Edition Now Available](https://forums.qrz.com/index.php?threads/swr-magazine-%E2%80%93-october-2026-edition-now-available.1005552/)**
+**[ZA/AE5X – Albania](https://forums.qrz.com/index.php?threads/za-ae5x-%E2%80%93-albania.1001951/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)**
+> In honor of the upcoming youth-focused, DX Engineering-sponsored VK9XY Christmas Island DXpedition (Nov. 16-Dec. 4, 2026), OnAllBands is featuring QSL cards from past activations of this remote Australian external territory […] The post It’s All in the Cards! QSL Cards from Christmas Island, Soon...
+
 **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)**
 > DXing, remote satellite operation, CW contesting, and more! HF access has always presented a steep barrier for youth getting on the air. While Parks on the Air® (POTA) has gained […] The post The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost appeared first on...
 
@@ -82,9 +85,6 @@
 
 **[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)**
 > Amateur radio has experienced an explosion of content on the internet. Need advice on grounding your station? Installing coax connectors? Breaking through a pileup? Operating remotely? It’s all available at […] The post New DX Engineering Facebook Show Features the Best of Amateur Radio Content...
-
-**[Ham Radio 101: Why You Hear Stations That Don’t Hear You](https://www.onallbands.com/ham-radio-101-why-you-hear-stations-that-dont-hear-you/)**
-> One of the great frustrations of amateur radio is hearing a station loud and clear while the other operator seems completely unaware that you exist. You can hear her calling […] The post Ham Radio 101: Why You Hear Stations That Don’t Hear You appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Updating My M17 Reflector to mrefd 1.1.5](https://etherham.com/updating-my-m17-reflector-to-mrefd-1-1-5/)**
+> My M17 reflector, M17-PNW, runs Thomas Early N7TAE’s mrefd software on a virtual server at Vultr.com (affiliate link). One morning I noticed the dashboard at m17pnw.net reported version 1.1.1. When I checked the mrefd repository on GitHub, the version file had been updated just days earlier and now...
+
 **[Weekly Report: October 14, 2026](https://etherham.com/weekly-report-october-14-2026/)**
 > Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
 
@@ -121,9 +124,6 @@
 **[Three Ways My Wiki Backup Failed](https://etherham.com/three-ways-my-wiki-backup-failed/)**
 > One Copy Is No Copy In A Wiki That Lives on the Rack, I described how I built a portable DokuWiki on an external SSD to document my two home networks. I ended that article with an admission under the heading “One copy is no copy”: the only copy of the wiki lived on that […] Source
 
-**[Weekly Report: October 8, 2026](https://etherham.com/weekly-report-october-8-2026/)**
-> Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest SHORT STACK FROM THE INTERWEBS Covering October 1 to October 8, 2026. It was World Space Week this week, so the Space section is larger than normal. And one comment on the name. I called this the Short Stack when I […]...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-18 14:20 UTC*
+*Generated: 2026-10-19 17:21 UTC*

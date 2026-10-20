@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 19, 2026
+## October 20, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[Change username from 9A5AZK to 9A5ZD](https://forums.qrz.com/index.php?threads/change-username-from-9a5azk-to-9a5zd.1007186/)** (QRZ Forums)
-- **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)** (SWLing Post)
-- **[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)** (OnAllBands)
+- **[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)** (QRZ Forums)
+- **[Jam, TV and Records](https://swling.com/blog/2026/10/jam-tv-and-records/)** (SWLing Post)
+- **[New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More](https://www.onallbands.com/new-manufacturer-spotlight-aalogic-rotator-controller-mic-control-interface-more/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[Change username from 9A5AZK to 9A5ZD](https://forums.qrz.com/index.php?threads/change-username-from-9a5azk-to-9a5zd.1007186/)**
+**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
 
-**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
+**[H49A, Salomón Is. Dxpedition](https://forums.qrz.com/index.php?threads/h49a-salom%C3%B3n-is-dxpedition.987961/)**
 
-**[QRZ Logbook not using my updated Grid and coordinates](https://forums.qrz.com/index.php?threads/qrz-logbook-not-using-my-updated-grid-and-coordinates.1007192/)**
+**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
 
-**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
+**[W6VZA Dr. Henry L Richter SK on 8/12/26 - NASA/JPL eng.](https://forums.qrz.com/index.php?threads/w6vza-dr-henry-l-richter-sk-on-8-12-26-nasa-jpl-eng.1003408/)**
 
-**[ZA/AE5X – Albania](https://forums.qrz.com/index.php?threads/za-ae5x-%E2%80%93-albania.1001951/)**
+**[BACK ON THE AIR: CONNECTING WITH GEORGIA THROUGH ECHOLINK](https://forums.qrz.com/index.php?threads/back-on-the-air-connecting-with-georgia-through-echolink.1007270/)**
 
 ---
 
 ### SWLing Post
+
+**[Jam, TV and Records](https://swling.com/blog/2026/10/jam-tv-and-records/)**
+> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned this week for your shortwave radio/SDR listening pleasure. On Wednesday 21st October 2026, at 0200 hrs UTC on 9395 kHz. We have another new broadcast of WHFM: Herman’s Radio & Record Room on WRMI this week with vintage...
 
 **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)**
 > The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part One Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
@@ -64,12 +67,12 @@
 **[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)**
 > Radio Thoughts and Reflections: An informal hands-on review of the Tecsun H501x, Belka, Sony ICF 2010 / 2001D by Julian Stargardt This review started as a comparative review of the Tecsun H501x and the Sony ICF 2010 / 2001D. It developed into something more. I fell in love with radio when as a 5 or...
 
-**[FEBC, Manila, Philippines – Then and Now](https://swling.com/blog/2026/10/febc-manila-philippines-then-and-now/)**
-> by Dan Greenall The Far East Broadcasting Company in Manila is currently celebrating 80 years on shortwave, while at the same time, planning to close down in March 2027. I first heard them from my listening post in southern Ontario, Canada back in 1972, and received this colourful QSL from them....
-
 ---
 
 ### OnAllBands
+
+**[New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More](https://www.onallbands.com/new-manufacturer-spotlight-aalogic-rotator-controller-mic-control-interface-more/)**
+> The list of amateur radio product manufacturers at DX Engineering continues to grow! At OnAllBands, we’re doing our best to keep up with the wave of equipment that has been […] The post New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More appeared first on OnAllBands.
 
 **[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)**
 > In honor of the upcoming youth-focused, DX Engineering-sponsored VK9XY Christmas Island DXpedition (Nov. 16-Dec. 4, 2026), OnAllBands is featuring QSL cards from past activations of this remote Australian external territory […] The post It’s All in the Cards! QSL Cards from Christmas Island, Soon...
@@ -82,9 +85,6 @@
 
 **[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)**
 > Note: Starting with this article, I’ll be adding Protected Area Radio Community (PARC) numbers along with the POTA and WWFF references. PARC is similar to the other two and uses […] The post Ham Radio Portable Insights—POTA After Work appeared first on OnAllBands.
-
-**[New DX Engineering Facebook Show Features the Best of Amateur Radio Content Creators](https://www.onallbands.com/new-dx-engineering-facebook-show-features-the-best-of-amateur-radio-content-creators/)**
-> Amateur radio has experienced an explosion of content on the internet. Need advice on grounding your station? Installing coax connectors? Breaking through a pileup? Operating remotely? It’s all available at […] The post New DX Engineering Facebook Show Features the Best of Amateur Radio Content...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-19 17:21 UTC*
+*Generated: 2026-10-20 15:34 UTC*

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-19 17:21 UTC*
+*Last updated: 2026-10-20 15:34 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/kc2syk
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Got my tech and celebrated by myself](https://www.reddit.com/r/amateurradio/comments/1x9k0k6/got_my_tech_and_celebrated_by_myself/)**
-by u/CloudFoxies
+**3. [Anyone else seeing bots from China scraping HF decodes off their public SDR?](https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/)**
+by u/crypy
 
-**4. [General Class Operators using 20M phone below 14.225 MHz](https://www.reddit.com/r/amateurradio/comments/1x9doqx/general_class_operators_using_20m_phone_below/)**
-by u/KK5U
+**4. [Made my First Contact Yesterday, at 11,906 feet](https://www.reddit.com/r/amateurradio/comments/1xa3ia8/made_my_first_contact_yesterday_at_11906_feet/)**
+by u/NMZia505
 
-**5. [RCP-2 Kenwood 570 software](https://www.reddit.com/r/amateurradio/comments/1xa2wur/rcp2_kenwood_570_software/)**
+**5. [Some say it’s stupid when your key is bigger than your radio](https://www.reddit.com/r/amateurradio/comments/1xacg9b/some_say_its_stupid_when_your_key_is_bigger_than/)**
+by u/x_Red_Beard_x
+
+**6. [I Finally got a hold of a Pebble HF kit!](https://www.reddit.com/r/amateurradio/comments/1xaiep7/i_finally_got_a_hold_of_a_pebble_hf_kit/)**
+by u/Blueberry_Mancakes
+
+**7. [Got my first 2/70 rig](https://www.reddit.com/r/amateurradio/comments/1xaa0kl/got_my_first_270_rig/)**
+by u/SlipWolff
+
+**8. [DM3KS Cluster-Node](https://www.reddit.com/r/amateurradio/comments/1xaj6vt/dm3ks_clusternode/)**
+by u/noddy51
+
+**9. [Just got a Robyn T-123B (1970s) - first CB radio. How do I use it?](https://www.reddit.com/r/amateurradio/comments/1xav5m7/just_got_a_robyn_t123b_1970s_first_cb_radio_how/)**
+by u/Stratguy666
+
+**10. [Help, new ID-5200 only receives when scanning...](https://www.reddit.com/r/amateurradio/comments/1xapj95/help_new_id5200_only_receives_when_scanning/)**
+by u/KX7D
+
+**11. [HF NVIS Guidance](https://www.reddit.com/r/amateurradio/comments/1xaoj8i/hf_nvis_guidance/)**
+by u/plainmcdoubl
+
+**12. [KENWOOD TS-570 CONTROL PROGRAM](https://www.reddit.com/r/amateurradio/comments/1xasp0w/kenwood_ts570_control_program/)**
 by u/W0CBF
 
-**6. [First Radio](https://www.reddit.com/r/amateurradio/comments/1xa20fl/first_radio/)**
-by u/ActualFuture2029
+**13. [Que puede originar este ruido?](https://www.reddit.com/r/amateurradio/comments/1xarlgr/que_puede_originar_este_ruido/)**
+by u/UserCuba_2901
 
-**7. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x9w8vg/weekly_information_mentor_new_license_thread/)**
-by u/AutoModerator
+**14. [Bluetooth adapter or Bluetooth capable radio recommendation](https://www.reddit.com/r/amateurradio/comments/1xaq0kb/bluetooth_adapter_or_bluetooth_capable_radio/)**
+by u/flyfreeNhigh
 
-**8. [Help with 10 Meter FM](https://www.reddit.com/r/amateurradio/comments/1x9inu4/help_with_10_meter_fm/)**
-by u/Barrel-Jack
-
-**9. [Started self hosting WaveLog ft. My minishack](https://www.reddit.com/r/amateurradio/comments/1x9b81p/started_self_hosting_wavelog_ft_my_minishack/)**
-by u/YaBoiQ115
-
-**10. [Banana plug splitter efhw](https://www.reddit.com/r/amateurradio/comments/1x9gr6g/banana_plug_splitter_efhw/)**
-by u/Dr_Snarky
-
-**11. [Chinese radio heard on Croatian websdr (7000km distance)](https://www.reddit.com/r/amateurradio/comments/1x9djf4/chinese_radio_heard_on_croatian_websdr_7000km/)**
-by u/Erzmthemozg
-
-**12. [Yesterday I did my first operational practices to get my license!](https://www.reddit.com/r/amateurradio/comments/1x93omi/yesterday_i_did_my_first_operational_practices_to/)**
-by u/HighlanderFireblade
-
-**13. [Advice From CW Operators Appreciated](https://www.reddit.com/r/amateurradio/comments/1x9drc6/advice_from_cw_operators_appreciated/)**
-by u/ThatChucklehead
-
-**14. [Question about first ham setup.](https://www.reddit.com/r/amateurradio/comments/1x9l0sc/question_about_first_ham_setup/)**
-by u/A1eafFa11s
-
-**15. [Pre-purchase sanity check on the FTX-1 Optima?](https://www.reddit.com/r/amateurradio/comments/1x9edfd/prepurchase_sanity_check_on_the_ftx1_optima/)**
-by u/EntropyNegotiator
+**15. [Recommendations on purchased beverage or rain gutter antennas for HF bands?](https://www.reddit.com/r/amateurradio/comments/1xadqsr/recommendations_on_purchased_beverage_or_rain/)**
+by u/lw0-0wl
 
 ---
 
@@ -61,14 +61,14 @@ by u/EntropyNegotiator
 
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Got my tech and celebrated by myself](https://www.reddit.com/r/amateurradio/comments/1x9k0k6/got_my_tech_and_celebrated_by_myself/)** (r/amateurradio)
-- **[General Class Operators using 20M phone below 14.225 MHz](https://www.reddit.com/r/amateurradio/comments/1x9doqx/general_class_operators_using_20m_phone_below/)** (r/amateurradio)
-- **[RCP-2 Kenwood 570 software](https://www.reddit.com/r/amateurradio/comments/1xa2wur/rcp2_kenwood_570_software/)** (r/amateurradio)
-- **[First Radio](https://www.reddit.com/r/amateurradio/comments/1xa20fl/first_radio/)** (r/amateurradio)
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1x9w8vg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
-- **[Help with 10 Meter FM](https://www.reddit.com/r/amateurradio/comments/1x9inu4/help_with_10_meter_fm/)** (r/amateurradio)
-- **[Started self hosting WaveLog ft. My minishack](https://www.reddit.com/r/amateurradio/comments/1x9b81p/started_self_hosting_wavelog_ft_my_minishack/)** (r/amateurradio)
-- **[Banana plug splitter efhw](https://www.reddit.com/r/amateurradio/comments/1x9gr6g/banana_plug_splitter_efhw/)** (r/amateurradio)
+- **[Anyone else seeing bots from China scraping HF decodes off their publi...](https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/)** (r/amateurradio)
+- **[Made my First Contact Yesterday, at 11,906 feet](https://www.reddit.com/r/amateurradio/comments/1xa3ia8/made_my_first_contact_yesterday_at_11906_feet/)** (r/amateurradio)
+- **[Some say it’s stupid when your key is bigger than your radio](https://www.reddit.com/r/amateurradio/comments/1xacg9b/some_say_its_stupid_when_your_key_is_bigger_than/)** (r/amateurradio)
+- **[I Finally got a hold of a Pebble HF kit!](https://www.reddit.com/r/amateurradio/comments/1xaiep7/i_finally_got_a_hold_of_a_pebble_hf_kit/)** (r/amateurradio)
+- **[Got my first 2/70 rig](https://www.reddit.com/r/amateurradio/comments/1xaa0kl/got_my_first_270_rig/)** (r/amateurradio)
+- **[DM3KS Cluster-Node](https://www.reddit.com/r/amateurradio/comments/1xaj6vt/dm3ks_clusternode/)** (r/amateurradio)
+- **[Just got a Robyn T-123B (1970s) - first CB radio. How do I use it?](https://www.reddit.com/r/amateurradio/comments/1xav5m7/just_got_a_robyn_t123b_1970s_first_cb_radio_how/)** (r/amateurradio)
+- **[Help, new ID-5200 only receives when scanning...](https://www.reddit.com/r/amateurradio/comments/1xapj95/help_new_id5200_only_receives_when_scanning/)** (r/amateurradio)
 
 ---
 

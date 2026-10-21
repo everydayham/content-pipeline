@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-20 15:34 UTC*
+*Last updated: 2026-10-21 15:53 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/kc2syk
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Anyone else seeing bots from China scraping HF decodes off their public SDR?](https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/)**
-by u/crypy
+**3. [Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)**
+by u/Educational-Law-6175
 
-**4. [Made my First Contact Yesterday, at 11,906 feet](https://www.reddit.com/r/amateurradio/comments/1xa3ia8/made_my_first_contact_yesterday_at_11906_feet/)**
-by u/NMZia505
+**4. [It finally happened](https://www.reddit.com/r/amateurradio/comments/1xbcuvd/it_finally_happened/)**
+by u/Grievmaster
 
-**5. [Some say it’s stupid when your key is bigger than your radio](https://www.reddit.com/r/amateurradio/comments/1xacg9b/some_say_its_stupid_when_your_key_is_bigger_than/)**
-by u/x_Red_Beard_x
+**5. [Question about 20m v 40m Propagation](https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/)**
+by u/EricStratton63
 
-**6. [I Finally got a hold of a Pebble HF kit!](https://www.reddit.com/r/amateurradio/comments/1xaiep7/i_finally_got_a_hold_of_a_pebble_hf_kit/)**
-by u/Blueberry_Mancakes
+**6. [Passed my amateur radio exam today!](https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/)**
+by u/Mafieusz
 
-**7. [Got my first 2/70 rig](https://www.reddit.com/r/amateurradio/comments/1xaa0kl/got_my_first_270_rig/)**
-by u/SlipWolff
+**7. [QRZ appears to be down](https://www.reddit.com/r/amateurradio/comments/1xbnsoi/qrz_appears_to_be_down/)**
+by u/NLCmanure
 
-**8. [DM3KS Cluster-Node](https://www.reddit.com/r/amateurradio/comments/1xaj6vt/dm3ks_clusternode/)**
-by u/noddy51
+**8. [Literally 100% new. But so interested.](https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/)**
+by u/atl_im_nothing_bye
 
-**9. [Just got a Robyn T-123B (1970s) - first CB radio. How do I use it?](https://www.reddit.com/r/amateurradio/comments/1xav5m7/just_got_a_robyn_t123b_1970s_first_cb_radio_how/)**
-by u/Stratguy666
+**9. [What exactly are headphone wires?](https://www.reddit.com/r/amateurradio/comments/1xbmy81/what_exactly_are_headphone_wires/)**
+by u/Lopsided-Prune9377
 
-**10. [Help, new ID-5200 only receives when scanning...](https://www.reddit.com/r/amateurradio/comments/1xapj95/help_new_id5200_only_receives_when_scanning/)**
-by u/KX7D
+**10. [Exploring how small and simple an effective radio telescope can be. Here’s my 4....](https://www.reddit.com/r/amateurradio/comments/1xbmhba/exploring_how_small_and_simple_an_effective_radio/)**
+by u/DeepSpace1420MHZ
 
-**11. [HF NVIS Guidance](https://www.reddit.com/r/amateurradio/comments/1xaoj8i/hf_nvis_guidance/)**
-by u/plainmcdoubl
+**11. [SiliconDust urges NextGen TV stations to drop encryption during EAS test](https://www.reddit.com/r/amateurradio/comments/1xbdvqr/silicondust_urges_nextgen_tv_stations_to_drop/)**
+by u/VisualPadding7
 
-**12. [KENWOOD TS-570 CONTROL PROGRAM](https://www.reddit.com/r/amateurradio/comments/1xasp0w/kenwood_ts570_control_program/)**
-by u/W0CBF
+**12. [What are all of these for?](https://www.reddit.com/r/amateurradio/comments/1xb878i/what_are_all_of_these_for/)**
+by u/fadeawaytogrey
 
-**13. [Que puede originar este ruido?](https://www.reddit.com/r/amateurradio/comments/1xarlgr/que_puede_originar_este_ruido/)**
-by u/UserCuba_2901
+**13. [Real MLAT still needs physical receivers, measured clock calibration, authorized...](https://www.reddit.com/r/amateurradio/comments/1xbqklz/real_mlat_still_needs_physical_receivers_measured/)**
+by u/Hot-Honey9290
 
-**14. [Bluetooth adapter or Bluetooth capable radio recommendation](https://www.reddit.com/r/amateurradio/comments/1xaq0kb/bluetooth_adapter_or_bluetooth_capable_radio/)**
-by u/flyfreeNhigh
+**14. [Need help with resources to learn how to tune Antenna's please](https://www.reddit.com/r/amateurradio/comments/1xblmls/need_help_with_resources_to_learn_how_to_tune/)**
+by u/Cwis1016
 
-**15. [Recommendations on purchased beverage or rain gutter antennas for HF bands?](https://www.reddit.com/r/amateurradio/comments/1xadqsr/recommendations_on_purchased_beverage_or_rain/)**
-by u/lw0-0wl
+**15. [TYT-7900 Dual Band Dual Watch](https://www.reddit.com/r/amateurradio/comments/1xbll7a/tyt7900_dual_band_dual_watch/)**
+by u/AggravatingPiccolo15
 
 ---
 
@@ -61,14 +61,14 @@ by u/lw0-0wl
 
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Anyone else seeing bots from China scraping HF decodes off their publi...](https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/)** (r/amateurradio)
-- **[Made my First Contact Yesterday, at 11,906 feet](https://www.reddit.com/r/amateurradio/comments/1xa3ia8/made_my_first_contact_yesterday_at_11906_feet/)** (r/amateurradio)
-- **[Some say it’s stupid when your key is bigger than your radio](https://www.reddit.com/r/amateurradio/comments/1xacg9b/some_say_its_stupid_when_your_key_is_bigger_than/)** (r/amateurradio)
-- **[I Finally got a hold of a Pebble HF kit!](https://www.reddit.com/r/amateurradio/comments/1xaiep7/i_finally_got_a_hold_of_a_pebble_hf_kit/)** (r/amateurradio)
-- **[Got my first 2/70 rig](https://www.reddit.com/r/amateurradio/comments/1xaa0kl/got_my_first_270_rig/)** (r/amateurradio)
-- **[DM3KS Cluster-Node](https://www.reddit.com/r/amateurradio/comments/1xaj6vt/dm3ks_clusternode/)** (r/amateurradio)
-- **[Just got a Robyn T-123B (1970s) - first CB radio. How do I use it?](https://www.reddit.com/r/amateurradio/comments/1xav5m7/just_got_a_robyn_t123b_1970s_first_cb_radio_how/)** (r/amateurradio)
-- **[Help, new ID-5200 only receives when scanning...](https://www.reddit.com/r/amateurradio/comments/1xapj95/help_new_id5200_only_receives_when_scanning/)** (r/amateurradio)
+- **[Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)** (r/amateurradio)
+- **[It finally happened](https://www.reddit.com/r/amateurradio/comments/1xbcuvd/it_finally_happened/)** (r/amateurradio)
+- **[Question about 20m v 40m Propagation](https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/)** (r/amateurradio)
+- **[Passed my amateur radio exam today!](https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/)** (r/amateurradio)
+- **[QRZ appears to be down](https://www.reddit.com/r/amateurradio/comments/1xbnsoi/qrz_appears_to_be_down/)** (r/amateurradio)
+- **[Literally 100% new. But so interested.](https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/)** (r/amateurradio)
+- **[What exactly are headphone wires?](https://www.reddit.com/r/amateurradio/comments/1xbmy81/what_exactly_are_headphone_wires/)** (r/amateurradio)
+- **[Exploring how small and simple an effective radio telescope can be. He...](https://www.reddit.com/r/amateurradio/comments/1xbmhba/exploring_how_small_and_simple_an_effective_radio/)** (r/amateurradio)
 
 ---
 

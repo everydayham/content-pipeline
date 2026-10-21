@@ -1,17 +1,17 @@
 # Amateur Radio News Summary
-## October 20, 2026
+## October 21, 2026
 
-*Auto-generated from 6 sources*
+*Auto-generated from 5 sources*
 
 ---
 
 ## 📻 Quick Highlights
 
 - **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)** (QRZ Forums)
-- **[Jam, TV and Records](https://swling.com/blog/2026/10/jam-tv-and-records/)** (SWLing Post)
-- **[New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More](https://www.onallbands.com/new-manufacturer-spotlight-aalogic-rotator-controller-mic-control-interface-more/)** (OnAllBands)
+- **[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)** (SWLing Post)
+- **[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
+- **[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)** (EtherHam)
 
 ---
 
@@ -36,21 +36,10 @@
 
 ---
 
-### QRZ Forums
-
-**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
-
-**[H49A, Salomón Is. Dxpedition](https://forums.qrz.com/index.php?threads/h49a-salom%C3%B3n-is-dxpedition.987961/)**
-
-**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
-
-**[W6VZA Dr. Henry L Richter SK on 8/12/26 - NASA/JPL eng.](https://forums.qrz.com/index.php?threads/w6vza-dr-henry-l-richter-sk-on-8-12-26-nasa-jpl-eng.1003408/)**
-
-**[BACK ON THE AIR: CONNECTING WITH GEORGIA THROUGH ECHOLINK](https://forums.qrz.com/index.php?threads/back-on-the-air-connecting-with-georgia-through-echolink.1007270/)**
-
----
-
 ### SWLing Post
+
+**[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)**
+> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
 
 **[Jam, TV and Records](https://swling.com/blog/2026/10/jam-tv-and-records/)**
 > Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned this week for your shortwave radio/SDR listening pleasure. On Wednesday 21st October 2026, at 0200 hrs UTC on 9395 kHz. We have another new broadcast of WHFM: Herman’s Radio & Record Room on WRMI this week with vintage...
@@ -64,12 +53,12 @@
 **[Texas Radio Shortwave: Schedule for November 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-november-2026/)**
 > Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
 
-**[An Informal Hands-On Comparison of the Tecsun H-501x, Belka, and Sony ICF-2010/2001D](https://swling.com/blog/2026/10/an-informal-hands-on-comparison-of-the-tecsun-h-501x-belka-and-sony-icf-2010-2001d/)**
-> Radio Thoughts and Reflections: An informal hands-on review of the Tecsun H501x, Belka, Sony ICF 2010 / 2001D by Julian Stargardt This review started as a comparative review of the Tecsun H501x and the Sony ICF 2010 / 2001D. It developed into something more. I fell in love with radio when as a 5 or...
-
 ---
 
 ### OnAllBands
+
+**[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)**
+> Don’t have the budget for a 100-foot tower and an OptiBeam OB17-4? Why not use a wire? Wire antennas are among the simplest, least expensive, and most forgiving ways to […] The post Wire Wizard: Choosing the Best Wire for Ham Radio Antennas appeared first on OnAllBands.
 
 **[New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More](https://www.onallbands.com/new-manufacturer-spotlight-aalogic-rotator-controller-mic-control-interface-more/)**
 > The list of amateur radio product manufacturers at DX Engineering continues to grow! At OnAllBands, we’re doing our best to keep up with the wave of equipment that has been […] The post New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More appeared first on OnAllBands.
@@ -82,9 +71,6 @@
 
 **[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)**
 > Unveiled at Tokyo Ham Fair 2026, the much-anticipated Icom IC-7110 HF/50 MHz/VHF/UHF All Mode Transceiver is now available for reservation at DX Engineering. The IC-7110, billed by Icom as “all […] The post Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering...
-
-**[Ham Radio Portable Insights—POTA After Work](https://www.onallbands.com/ham-radio-portable-insights-pota-after-work/)**
-> Note: Starting with this article, I’ll be adding Protected Area Radio Community (PARC) numbers along with the POTA and WWFF references. PARC is similar to the other two and uses […] The post Ham Radio Portable Insights—POTA After Work appeared first on OnAllBands.
 
 ---
 
@@ -109,20 +95,20 @@
 
 ### EtherHam
 
+**[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)**
+> Last week, an email from one of the developers who keep AllStarLink moving forward landed in my inbox, part of a group conversation about someone’s node build. Tucked into it was a line I nearly skimmed past. The 3.10 release, he wrote, fixed a lot of problems and improved performance. It also...
+
+**[POTA/SOTA: From Park and Peak to Preparedness](https://etherham.com/pota-sota-from-park-and-peak-to-preparedness/)**
+> Every weekend, somewhere in a park or on a summit, a ham pulls a radio out of a box, sets up a wire or aerial, and gets on the air in minutes. POTA and SOTA activators do this week in and week out. Their batteries are charged, their cables are tested, and their stations actually […] Source
+
+**[About Those Limits We Think We Have](https://etherham.com/about-those-limits-we-think-we-have/)**
+> Around 2009, an Australian engineer named David Rowe VK5DGR looked at digital voice in ham radio and noticed something odd: every system depended on a proprietary codec, a mysterious thing nobody could open, change, or improve. Most of us had accepted that as just how digital voice worked. David...
+
 **[Updating My M17 Reflector to mrefd 1.1.5](https://etherham.com/updating-my-m17-reflector-to-mrefd-1-1-5/)**
 > My M17 reflector, M17-PNW, runs Thomas Early N7TAE’s mrefd software on a virtual server at Vultr.com (affiliate link). One morning I noticed the dashboard at m17pnw.net reported version 1.1.1. When I checked the mrefd repository on GitHub, the version file had been updated just days earlier and now...
 
 **[Weekly Report: October 14, 2026](https://etherham.com/weekly-report-october-14-2026/)**
 > Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
-
-**[Why AllStarLink Still Uses a 1962 Telephone Standard](https://etherham.com/why-allstarlink-still-uses-a-1962-telephone-standard/)**
-> A Question I Left Hanging In my last article, I set up my own Ampersand parrot. I had used Bruce’s 16K parrot often while it was up, and now I can hear 16K AllStarLink audio come back to me whenever I want. I closed with a question: why is standard AllStarLink still limited to 8 […] Source
-
-**[Raising My Own Parrot](https://etherham.com/raising-my-own-parrot/)**
-> A parrot is the simplest test in AllStarLink. You connect to it, key up, say a few words, and unkey. The parrot plays your audio back so you can hear what everyone else hears. Bruce MacKinnon KC1FSZ, wrote a better parrot as part of his Ampersand project. His version does more than echo you. It […]...
-
-**[Three Ways My Wiki Backup Failed](https://etherham.com/three-ways-my-wiki-backup-failed/)**
-> One Copy Is No Copy In A Wiki That Lives on the Rack, I described how I built a portable DokuWiki on an external SSD to document my two home networks. I ended that article with an admission under the heading “One copy is no copy”: the only copy of the wiki lived on that […] Source
 
 ---
 
@@ -132,4 +118,4 @@
 
 ---
 
-*Generated: 2026-10-20 15:34 UTC*
+*Generated: 2026-10-21 15:53 UTC*

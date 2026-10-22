@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T15:53:55.253333",
+  "updated": "2026-10-22T15:48:33.394404",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,6 +17,41 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Built the M1GEO 2m/70cm Moxon-Yagi today. 1.4:1 SWR right off the bat without any adjustments.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc11qg/built_the_m1geo_2m70cm_moxonyagi_today_141_swr/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "Propagation Maps on Garmin Instinct 3 Solar",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc6o84/propagation_maps_on_garmin_instinct_3_solar/",
+        "author": "/u/rg422"
+      },
+      {
+        "title": "Passed Tech & General Tonight- Advice",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc1hdx/passed_tech_general_tonight_advice/",
+        "author": "/u/zz5712"
+      },
+      {
+        "title": "I built an open-source web controller for the ATS Mini radio with 50,000+ stations, signal scanning and live Morse code decoding",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xchvsn/i_built_an_opensource_web_controller_for_the_ats/",
+        "author": "/u/cristoforetti_vi25"
+      },
+      {
+        "title": "Saved from the scrap heap! Earth Station",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xbsrxo/saved_from_the_scrap_heap_earth_station/",
+        "author": "/u/Infinite_Factor_6269"
+      },
+      {
+        "title": "DIY external keypad for IC-705",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xca415/diy_external_keypad_for_ic705/",
+        "author": "/u/Ok_Fondant1079"
+      },
+      {
+        "title": "Question about 20m v 40m Propagation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/",
+        "author": "/u/EricStratton63"
+      },
+      {
         "title": "Modular BITX40 SSB Transceiver",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/",
         "author": "/u/Educational-Law-6175"
@@ -27,14 +62,24 @@
         "author": "/u/Grievmaster"
       },
       {
-        "title": "Question about 20m v 40m Propagation",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/",
-        "author": "/u/EricStratton63"
+        "title": "Coming back after 20+ years away",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc4u21/coming_back_after_20_years_away/",
+        "author": "/u/irishlyrucked"
       },
       {
-        "title": "Passed my amateur radio exam today!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/",
-        "author": "/u/Mafieusz"
+        "title": "xara - a VARA-compatible HF/FM modem for Linux",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc0rw2/xara_a_varacompatible_hffm_modem_for_linux/",
+        "author": "/u/x0rroRF"
+      },
+      {
+        "title": "Will Callsign Autocompletion Database make me into assisted group in CQWW?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xcc6dw/will_callsign_autocompletion_database_make_me/",
+        "author": "/u/AlanCui4080"
+      },
+      {
+        "title": "Potentially dumb question on Antennas",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xbsqbk/potentially_dumb_question_on_antennas/",
+        "author": "/u/randytc18"
       },
       {
         "title": "QRZ appears to be down",
@@ -42,9 +87,29 @@
         "author": "/u/NLCmanure"
       },
       {
-        "title": "Literally 100% new. But so interested.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/",
-        "author": "/u/atl_im_nothing_bye"
+        "title": "Is there anyone currently in Alaska or Hawaii that would like to help me out making WAS award for qrz?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xc1r6r/is_there_anyone_currently_in_alaska_or_hawaii/",
+        "author": "/u/zippoknives26"
+      },
+      {
+        "title": "Retevis RA79 & Quansheng UV-K5/6 Compatibility? Batteries? Hardware HF Mods?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xcc379/retevis_ra79_quansheng_uvk56_compatibility/",
+        "author": "/u/Charming-Jelly-3365"
+      },
+      {
+        "title": "Cannot find functional firmware for TYT MD-UV390, help appreciated!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xcbn85/cannot_find_functional_firmware_for_tyt_mduv390/",
+        "author": "/u/RazerXnitro"
+      },
+      {
+        "title": "Retevis RA79 & Quansheng UV-K5/6 Compatibility? Batteries? Hardware HF Mods?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xcc4ky/retevis_ra79_quansheng_uvk56_compatibility/",
+        "author": "/u/Charming-Jelly-3365"
+      },
+      {
+        "title": "Passed my amateur radio exam today!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/",
+        "author": "/u/Mafieusz"
       },
       {
         "title": "What exactly are headphone wires?",
@@ -52,84 +117,19 @@
         "author": "/u/Lopsided-Prune9377"
       },
       {
+        "title": "Literally 100% new. But so interested.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/",
+        "author": "/u/atl_im_nothing_bye"
+      },
+      {
         "title": "Exploring how small and simple an effective radio telescope can be. Here\u2019s my 4.5 m dish vs my 15.7db Yagi, both observing the same galactic hydrogen, the same evening at 1420 MHz using different recording modes, both in DeepSpace1420 software. Exploring how much we can do with modest equipment.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xbmhba/exploring_how_small_and_simple_an_effective_radio/",
         "author": "/u/DeepSpace1420MHZ"
       },
       {
-        "title": "SiliconDust urges NextGen TV stations to drop encryption during EAS test",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbdvqr/silicondust_urges_nextgen_tv_stations_to_drop/",
-        "author": "/u/VisualPadding7"
-      },
-      {
         "title": "What are all of these for?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xb878i/what_are_all_of_these_for/",
         "author": "/u/fadeawaytogrey"
-      },
-      {
-        "title": "Real MLAT still needs physical receivers, measured clock calibration, authorized feeds",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbqklz/real_mlat_still_needs_physical_receivers_measured/",
-        "author": "/u/Hot-Honey9290"
-      },
-      {
-        "title": "Need help with resources to learn how to tune Antenna's please",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xblmls/need_help_with_resources_to_learn_how_to_tune/",
-        "author": "/u/Cwis1016"
-      },
-      {
-        "title": "TYT-7900 Dual Band Dual Watch",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbll7a/tyt7900_dual_band_dual_watch/",
-        "author": "/u/AggravatingPiccolo15"
-      },
-      {
-        "title": "Just ordered AnyTone AT-D878UVII Plus.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xb53j1/just_ordered_anytone_atd878uvii_plus/",
-        "author": "/u/rog-uk"
-      },
-      {
-        "title": "Anyone else seeing bots from China scraping HF decodes off their public SDR?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/",
-        "author": "/u/crypy"
-      },
-      {
-        "title": "Made my First Contact Yesterday, at 11,906 feet",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xa3ia8/made_my_first_contact_yesterday_at_11906_feet/",
-        "author": "/u/NMZia505"
-      },
-      {
-        "title": "Amateur Radio Applications for ASL3 and AllStarLink",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbl6dm/amateur_radio_applications_for_asl3_and/",
-        "author": "/u/Repulsive-Taro6494"
-      },
-      {
-        "title": "I Finally got a hold of a Pebble HF kit!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xaiep7/i_finally_got_a_hold_of_a_pebble_hf_kit/",
-        "author": "/u/Blueberry_Mancakes"
-      },
-      {
-        "title": "Some say it\u2019s stupid when your key is bigger than your radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xacg9b/some_say_its_stupid_when_your_key_is_bigger_than/",
-        "author": "/u/x_Red_Beard_x"
-      },
-      {
-        "title": "Is there such a beast?: SMA-F to 90\u00b0 BNC-F",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xb69d5/is_there_such_a_beast_smaf_to_90_bncf/",
-        "author": "/u/BikinBohemiam"
-      },
-      {
-        "title": "Inverted-V OCFD Placement Question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbajv7/invertedv_ocfd_placement_question/",
-        "author": "/u/real_psyence"
-      },
-      {
-        "title": "ISS SSTV event",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xb2ck4/iss_sstv_event/",
-        "author": "/u/ThatSteveGuy_0"
-      },
-      {
-        "title": "Can I use a diplexer and a bias T",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xbaiuz/can_i_use_a_diplexer_and_a_bias_t/",
-        "author": "/u/Oderus_Amongus"
       }
     ]
   }

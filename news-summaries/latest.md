@@ -1,17 +1,17 @@
 # Amateur Radio News Summary
-## October 21, 2026
+## October 22, 2026
 
-*Auto-generated from 5 sources*
+*Auto-generated from 6 sources*
 
 ---
 
 ## 📻 Quick Highlights
 
 - **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)** (SWLing Post)
-- **[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)** (OnAllBands)
+- **[Como subo los certificados a mi qrz?](https://forums.qrz.com/index.php?threads/como-subo-los-certificados-a-mi-qrz.1007470/)** (QRZ Forums)
+- **[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)** (SWLing Post)
+- **[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
-- **[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)** (EtherHam)
 
 ---
 
@@ -36,7 +36,24 @@
 
 ---
 
+### QRZ Forums
+
+**[Como subo los certificados a mi qrz?](https://forums.qrz.com/index.php?threads/como-subo-los-certificados-a-mi-qrz.1007470/)**
+
+**[New Factory tour of Ameritron - Cushcraft - Hy-Gain - Mirage](https://forums.qrz.com/index.php?threads/new-factory-tour-of-ameritron-cushcraft-hy-gain-mirage.1007309/)**
+
+**[K4Y - Battle of Yorktown Special Event](https://forums.qrz.com/index.php?threads/k4y-battle-of-yorktown-special-event.1006881/)**
+
+**[CE5AU, Ramiro Alvarez Lavandero (SK)](https://forums.qrz.com/index.php?threads/ce5au-ramiro-alvarez-lavandero-sk.1007468/)**
+
+**[6O2M – Somalia](https://forums.qrz.com/index.php?threads/6o2m-%E2%80%93-somalia.1002700/)**
+
+---
+
 ### SWLing Post
+
+**[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)**
+> Many thanks to SWLing Post contributor Bill Tilford, who shares the following update: From the Isle of Music, November 2026 This month, we’ll taste some vintage artists from Cuba like Los Guaracheros del Oriente and Guillermo Portabales. I’ll be wearing mi sombrero de yarey while recording it....
 
 **[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)**
 > Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
@@ -50,12 +67,12 @@
 **[Radio Waves: Iconic Czech Towers Demolished, Global Public Broadcasters Gather, T8/FT4 DX Decoder for SDR++Brown, and Visual Path & Open-Source Browser-Based SDR App](https://swling.com/blog/2026/10/radio-waves-iconic-czech-towers-demolished-global-public-broadcasters-gather-t8-ft4-dx-decoder-for-sdrbrown-and-visual-path-open-source-browser-based-sdr-app/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories and applications making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurezcia, Mark Hirst, ReLLL, and Julian for the...
 
-**[Texas Radio Shortwave: Schedule for November 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-november-2026/)**
-> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)**
+> We recently asked readers of DX Engineering’s Facebook page a question that triggered a deluge of nearly 400 responses from hams who understand that a trusted piece of equipment is […] The post Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?...
 
 **[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)**
 > Don’t have the budget for a 100-foot tower and an OptiBeam OB17-4? Why not use a wire? Wire antennas are among the simplest, least expensive, and most forgiving ways to […] The post Wire Wizard: Choosing the Best Wire for Ham Radio Antennas appeared first on OnAllBands.
@@ -68,9 +85,6 @@
 
 **[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)**
 > DXing, remote satellite operation, CW contesting, and more! HF access has always presented a steep barrier for youth getting on the air. While Parks on the Air® (POTA) has gained […] The post The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost appeared first on...
-
-**[Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering](https://www.onallbands.com/place-your-reservation-for-the-new-icom-ic-7110-all-mode-transceiver-at-dx-engineering/)**
-> Unveiled at Tokyo Ham Fair 2026, the much-anticipated Icom IC-7110 HF/50 MHz/VHF/UHF All Mode Transceiver is now available for reservation at DX Engineering. The IC-7110, billed by Icom as “all […] The post Place Your Reservation for the New Icom IC-7110 All Mode Transceiver at DX Engineering...
 
 ---
 
@@ -95,6 +109,12 @@
 
 ### EtherHam
 
+**[Weekly Report: October 21, 2026](https://etherham.com/weekly-report-october-21-2026/)**
+> Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
+
+**[Two Security Updates for Hotspot and Node Owners: One Urgent, One Not](https://etherham.com/two-security-updates-for-hotspot-and-node-owners-one-urgent-one-not/)**
+> Two web software projects released security fixes this month, and both matter to hams running hotspots and AllStar nodes. One is urgent. The other is important but can wait for your next routine update. The Urgent One: PHP On October 21, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and...
+
 **[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)**
 > Last week, an email from one of the developers who keep AllStarLink moving forward landed in my inbox, part of a group conversation about someone’s node build. Tucked into it was a line I nearly skimmed past. The 3.10 release, he wrote, fixed a lot of problems and improved performance. It also...
 
@@ -104,12 +124,6 @@
 **[About Those Limits We Think We Have](https://etherham.com/about-those-limits-we-think-we-have/)**
 > Around 2009, an Australian engineer named David Rowe VK5DGR looked at digital voice in ham radio and noticed something odd: every system depended on a proprietary codec, a mysterious thing nobody could open, change, or improve. Most of us had accepted that as just how digital voice worked. David...
 
-**[Updating My M17 Reflector to mrefd 1.1.5](https://etherham.com/updating-my-m17-reflector-to-mrefd-1-1-5/)**
-> My M17 reflector, M17-PNW, runs Thomas Early N7TAE’s mrefd software on a virtual server at Vultr.com (affiliate link). One morning I noticed the dashboard at m17pnw.net reported version 1.1.1. When I checked the mrefd repository on GitHub, the version file had been updated just days earlier and now...
-
-**[Weekly Report: October 14, 2026](https://etherham.com/weekly-report-october-14-2026/)**
-> Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -118,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-21 15:53 UTC*
+*Generated: 2026-10-22 15:48 UTC*

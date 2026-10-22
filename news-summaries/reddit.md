@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-21 15:53 UTC*
+*Last updated: 2026-10-22 15:48 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/kc2syk
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)**
-by u/Educational-Law-6175
+**3. [Built the M1GEO 2m/70cm Moxon-Yagi today. 1.4:1 SWR right off the bat without an...](https://www.reddit.com/r/amateurradio/comments/1xc11qg/built_the_m1geo_2m70cm_moxonyagi_today_141_swr/)**
+by u/adhdff
 
-**4. [It finally happened](https://www.reddit.com/r/amateurradio/comments/1xbcuvd/it_finally_happened/)**
-by u/Grievmaster
+**4. [Propagation Maps on Garmin Instinct 3 Solar](https://www.reddit.com/r/amateurradio/comments/1xc6o84/propagation_maps_on_garmin_instinct_3_solar/)**
+by u/rg422
 
-**5. [Question about 20m v 40m Propagation](https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/)**
+**5. [Passed Tech & General Tonight- Advice](https://www.reddit.com/r/amateurradio/comments/1xc1hdx/passed_tech_general_tonight_advice/)**
+by u/zz5712
+
+**6. [I built an open-source web controller for the ATS Mini radio with 50,000+ statio...](https://www.reddit.com/r/amateurradio/comments/1xchvsn/i_built_an_opensource_web_controller_for_the_ats/)**
+by u/cristoforetti_vi25
+
+**7. [Saved from the scrap heap! Earth Station](https://www.reddit.com/r/amateurradio/comments/1xbsrxo/saved_from_the_scrap_heap_earth_station/)**
+by u/Infinite_Factor_6269
+
+**8. [DIY external keypad for IC-705](https://www.reddit.com/r/amateurradio/comments/1xca415/diy_external_keypad_for_ic705/)**
+by u/Ok_Fondant1079
+
+**9. [Question about 20m v 40m Propagation](https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/)**
 by u/EricStratton63
 
-**6. [Passed my amateur radio exam today!](https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/)**
-by u/Mafieusz
+**10. [Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)**
+by u/Educational-Law-6175
 
-**7. [QRZ appears to be down](https://www.reddit.com/r/amateurradio/comments/1xbnsoi/qrz_appears_to_be_down/)**
-by u/NLCmanure
+**11. [It finally happened](https://www.reddit.com/r/amateurradio/comments/1xbcuvd/it_finally_happened/)**
+by u/Grievmaster
 
-**8. [Literally 100% new. But so interested.](https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/)**
-by u/atl_im_nothing_bye
+**12. [Coming back after 20+ years away](https://www.reddit.com/r/amateurradio/comments/1xc4u21/coming_back_after_20_years_away/)**
+by u/irishlyrucked
 
-**9. [What exactly are headphone wires?](https://www.reddit.com/r/amateurradio/comments/1xbmy81/what_exactly_are_headphone_wires/)**
-by u/Lopsided-Prune9377
+**13. [xara - a VARA-compatible HF/FM modem for Linux](https://www.reddit.com/r/amateurradio/comments/1xc0rw2/xara_a_varacompatible_hffm_modem_for_linux/)**
+by u/x0rroRF
 
-**10. [Exploring how small and simple an effective radio telescope can be. Here’s my 4....](https://www.reddit.com/r/amateurradio/comments/1xbmhba/exploring_how_small_and_simple_an_effective_radio/)**
-by u/DeepSpace1420MHZ
+**14. [Will Callsign Autocompletion Database make me into assisted group in CQWW?](https://www.reddit.com/r/amateurradio/comments/1xcc6dw/will_callsign_autocompletion_database_make_me/)**
+by u/AlanCui4080
 
-**11. [SiliconDust urges NextGen TV stations to drop encryption during EAS test](https://www.reddit.com/r/amateurradio/comments/1xbdvqr/silicondust_urges_nextgen_tv_stations_to_drop/)**
-by u/VisualPadding7
-
-**12. [What are all of these for?](https://www.reddit.com/r/amateurradio/comments/1xb878i/what_are_all_of_these_for/)**
-by u/fadeawaytogrey
-
-**13. [Real MLAT still needs physical receivers, measured clock calibration, authorized...](https://www.reddit.com/r/amateurradio/comments/1xbqklz/real_mlat_still_needs_physical_receivers_measured/)**
-by u/Hot-Honey9290
-
-**14. [Need help with resources to learn how to tune Antenna's please](https://www.reddit.com/r/amateurradio/comments/1xblmls/need_help_with_resources_to_learn_how_to_tune/)**
-by u/Cwis1016
-
-**15. [TYT-7900 Dual Band Dual Watch](https://www.reddit.com/r/amateurradio/comments/1xbll7a/tyt7900_dual_band_dual_watch/)**
-by u/AggravatingPiccolo15
+**15. [Potentially dumb question on Antennas](https://www.reddit.com/r/amateurradio/comments/1xbsqbk/potentially_dumb_question_on_antennas/)**
+by u/randytc18
 
 ---
 
@@ -61,14 +61,14 @@ by u/AggravatingPiccolo15
 
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)** (r/amateurradio)
-- **[It finally happened](https://www.reddit.com/r/amateurradio/comments/1xbcuvd/it_finally_happened/)** (r/amateurradio)
+- **[Built the M1GEO 2m/70cm Moxon-Yagi today. 1.4:1 SWR right off the bat ...](https://www.reddit.com/r/amateurradio/comments/1xc11qg/built_the_m1geo_2m70cm_moxonyagi_today_141_swr/)** (r/amateurradio)
+- **[Propagation Maps on Garmin Instinct 3 Solar](https://www.reddit.com/r/amateurradio/comments/1xc6o84/propagation_maps_on_garmin_instinct_3_solar/)** (r/amateurradio)
+- **[Passed Tech & General Tonight- Advice](https://www.reddit.com/r/amateurradio/comments/1xc1hdx/passed_tech_general_tonight_advice/)** (r/amateurradio)
+- **[I built an open-source web controller for the ATS Mini radio with 50,0...](https://www.reddit.com/r/amateurradio/comments/1xchvsn/i_built_an_opensource_web_controller_for_the_ats/)** (r/amateurradio)
+- **[Saved from the scrap heap! Earth Station](https://www.reddit.com/r/amateurradio/comments/1xbsrxo/saved_from_the_scrap_heap_earth_station/)** (r/amateurradio)
+- **[DIY external keypad for IC-705](https://www.reddit.com/r/amateurradio/comments/1xca415/diy_external_keypad_for_ic705/)** (r/amateurradio)
 - **[Question about 20m v 40m Propagation](https://www.reddit.com/r/amateurradio/comments/1xboloz/question_about_20m_v_40m_propagation/)** (r/amateurradio)
-- **[Passed my amateur radio exam today!](https://www.reddit.com/r/amateurradio/comments/1xb2kur/passed_my_amateur_radio_exam_today/)** (r/amateurradio)
-- **[QRZ appears to be down](https://www.reddit.com/r/amateurradio/comments/1xbnsoi/qrz_appears_to_be_down/)** (r/amateurradio)
-- **[Literally 100% new. But so interested.](https://www.reddit.com/r/amateurradio/comments/1xbp8h2/literally_100_new_but_so_interested/)** (r/amateurradio)
-- **[What exactly are headphone wires?](https://www.reddit.com/r/amateurradio/comments/1xbmy81/what_exactly_are_headphone_wires/)** (r/amateurradio)
-- **[Exploring how small and simple an effective radio telescope can be. He...](https://www.reddit.com/r/amateurradio/comments/1xbmhba/exploring_how_small_and_simple_an_effective_radio/)** (r/amateurradio)
+- **[Modular BITX40 SSB Transceiver](https://www.reddit.com/r/amateurradio/comments/1xbdkkj/modular_bitx40_ssb_transceiver/)** (r/amateurradio)
 
 ---
 

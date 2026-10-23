@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 22, 2026
+## October 23, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,17 +7,20 @@
 
 ## 📻 Quick Highlights
 
-- **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)** (ARRL)
-- **[Como subo los certificados a mi qrz?](https://forums.qrz.com/index.php?threads/como-subo-los-certificados-a-mi-qrz.1007470/)** (QRZ Forums)
-- **[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)** (SWLing Post)
-- **[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)** (OnAllBands)
+- **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
+- **[Since the outage/upgrade, whatever that was, I keep seeing the CSS Error????](https://forums.qrz.com/index.php?threads/since-the-outage-upgrade-whatever-that-was-i-keep-seeing-the-css-error.1007534/)** (QRZ Forums)
+- **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
+- **[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)** (EtherHam)
 
 ---
 
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)**
+> The active sunspot region that has been giving us improvedpropagation over the past several days will be rotating awayfrom Earth’s view today, but conditions on most of the HFamateur bands should remain pretty decent in the days ahead,as the 10.7-centimeter radio flux remains right around...
 
 **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)**
 > ImageOnline marketplace eBay has imposed new restrictions on listings of radio transmitting equipment in response to new FCC rules that took effect this week, but responded to ARRL The National Association for Amateur Radio® that its new policy will not apply to gear that operates exclusively on...
@@ -31,45 +34,26 @@
 **[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)**
 > The 21st annual ARRL Online Auction, sponsored by GigaParts, is open now through October 22. Browse more than 200 items and place your bids!This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson,...
 
-**[ARRL Headquarters Closing Early on Friday, October 9, 2026](http://www.arrl.org/news/view/arrl-headquarters-closing-early-on-friday-october-9-2026)**
-> ARRL The National Association for Amateur Radio® will close our headquarters at 12 PM Eastern time on Friday, October 9, 2026, for a staff event.The ARRL Headquarters lobby and store, as well as W1AW, will be open to visitors from 8 AM to 12 PM EDT. Members are reminded that many transactions may...
-
 ---
 
 ### QRZ Forums
 
-**[Como subo los certificados a mi qrz?](https://forums.qrz.com/index.php?threads/como-subo-los-certificados-a-mi-qrz.1007470/)**
+**[Since the outage/upgrade, whatever that was, I keep seeing the CSS Error????](https://forums.qrz.com/index.php?threads/since-the-outage-upgrade-whatever-that-was-i-keep-seeing-the-css-error.1007534/)**
 
-**[New Factory tour of Ameritron - Cushcraft - Hy-Gain - Mirage](https://forums.qrz.com/index.php?threads/new-factory-tour-of-ameritron-cushcraft-hy-gain-mirage.1007309/)**
+**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
 
-**[K4Y - Battle of Yorktown Special Event](https://forums.qrz.com/index.php?threads/k4y-battle-of-yorktown-special-event.1006881/)**
+**[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1007540/)**
 
-**[CE5AU, Ramiro Alvarez Lavandero (SK)](https://forums.qrz.com/index.php?threads/ce5au-ramiro-alvarez-lavandero-sk.1007468/)**
+**[FR/G3TXF - Reunion Island](https://forums.qrz.com/index.php?threads/fr-g3txf-reunion-island.1007538/)**
 
-**[6O2M – Somalia](https://forums.qrz.com/index.php?threads/6o2m-%E2%80%93-somalia.1002700/)**
-
----
-
-### SWLing Post
-
-**[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)**
-> Many thanks to SWLing Post contributor Bill Tilford, who shares the following update: From the Isle of Music, November 2026 This month, we’ll taste some vintage artists from Cuba like Los Guaracheros del Oriente and Guillermo Portabales. I’ll be wearing mi sombrero de yarey while recording it....
-
-**[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)**
-> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
-
-**[Jam, TV and Records](https://swling.com/blog/2026/10/jam-tv-and-records/)**
-> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned this week for your shortwave radio/SDR listening pleasure. On Wednesday 21st October 2026, at 0200 hrs UTC on 9395 kHz. We have another new broadcast of WHFM: Herman’s Radio & Record Room on WRMI this week with vintage...
-
-**[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 1](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-1/)**
-> The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part One Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
-
-**[Radio Waves: Iconic Czech Towers Demolished, Global Public Broadcasters Gather, T8/FT4 DX Decoder for SDR++Brown, and Visual Path & Open-Source Browser-Based SDR App](https://swling.com/blog/2026/10/radio-waves-iconic-czech-towers-demolished-global-public-broadcasters-gather-t8-ft4-dx-decoder-for-sdrbrown-and-visual-path-open-source-browser-based-sdr-app/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories and applications making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurezcia, Mark Hirst, ReLLL, and Julian for the...
+**[5X1Q - Uganda](https://forums.qrz.com/index.php?threads/5x1q-uganda.1007535/)**
 
 ---
 
 ### OnAllBands
+
+**[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)**
+> Well, we have a new version of POTA.app, and I must tell you, there’s a lot to like! A couple of months ago Tom Martin was a guest on the […] The post A First Look at the New POTA Website appeared first on OnAllBands.
 
 **[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)**
 > We recently asked readers of DX Engineering’s Facebook page a question that triggered a deluge of nearly 400 responses from hams who understand that a trusted piece of equipment is […] The post Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?...
@@ -82,9 +66,6 @@
 
 **[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)**
 > In honor of the upcoming youth-focused, DX Engineering-sponsored VK9XY Christmas Island DXpedition (Nov. 16-Dec. 4, 2026), OnAllBands is featuring QSL cards from past activations of this remote Australian external territory […] The post It’s All in the Cards! QSL Cards from Christmas Island, Soon...
-
-**[The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost](https://www.onallbands.com/the-remote-ham-radio-youth-program-operating-a-station-over-the-internet-at-no-cost/)**
-> DXing, remote satellite operation, CW contesting, and more! HF access has always presented a steep barrier for youth getting on the air. While Parks on the Air® (POTA) has gained […] The post The Remote Ham Radio Youth Program—Operating a Station Over the Internet at No Cost appeared first on...
 
 ---
 
@@ -109,6 +90,9 @@
 
 ### EtherHam
 
+**[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)**
+> This is Part 1 of two parts. Part 2 is a checklist: Home Network Security Checklist for Hams On Thursday morning, coffee in hand, I asked a simple question. The PHP project had just released fixes for two critical flaws, nicknamed PHP2Shell, that can let an attacker take over a web server without a...
+
 **[Weekly Report: October 21, 2026](https://etherham.com/weekly-report-october-21-2026/)**
 > Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
 
@@ -121,9 +105,6 @@
 **[POTA/SOTA: From Park and Peak to Preparedness](https://etherham.com/pota-sota-from-park-and-peak-to-preparedness/)**
 > Every weekend, somewhere in a park or on a summit, a ham pulls a radio out of a box, sets up a wire or aerial, and gets on the air in minutes. POTA and SOTA activators do this week in and week out. Their batteries are charged, their cables are tested, and their stations actually […] Source
 
-**[About Those Limits We Think We Have](https://etherham.com/about-those-limits-we-think-we-have/)**
-> Around 2009, an Australian engineer named David Rowe VK5DGR looked at digital voice in ham radio and noticed something odd: every system depended on a proprietary codec, a mysterious thing nobody could open, change, or improve. Most of us had accepted that as just how digital voice worked. David...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +113,4 @@
 
 ---
 
-*Generated: 2026-10-22 15:48 UTC*
+*Generated: 2026-10-23 15:40 UTC*

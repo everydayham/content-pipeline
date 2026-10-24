@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 23, 2026
+## October 24, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,10 +8,10 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Since the outage/upgrade, whatever that was, I keep seeing the CSS Error????](https://forums.qrz.com/index.php?threads/since-the-outage-upgrade-whatever-that-was-i-keep-seeing-the-css-error.1007534/)** (QRZ Forums)
+- **[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)** (QRZ Forums)
+- **[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)** (SWLing Post)
 - **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
-- **[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)** (EtherHam)
 
 ---
 
@@ -38,15 +38,34 @@
 
 ### QRZ Forums
 
-**[Since the outage/upgrade, whatever that was, I keep seeing the CSS Error????](https://forums.qrz.com/index.php?threads/since-the-outage-upgrade-whatever-that-was-i-keep-seeing-the-css-error.1007534/)**
+**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
 
-**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
+**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
 
-**[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1007540/)**
+**[API KEY](https://forums.qrz.com/index.php?threads/api-key.1007630/)**
 
-**[FR/G3TXF - Reunion Island](https://forums.qrz.com/index.php?threads/fr-g3txf-reunion-island.1007538/)**
+**[Actualización Bitacora](https://forums.qrz.com/index.php?threads/actualizaci%C3%B3n-bitacora.1007627/)**
 
-**[5X1Q - Uganda](https://forums.qrz.com/index.php?threads/5x1q-uganda.1007535/)**
+**[S9R - Sao Tome & Principe](https://forums.qrz.com/index.php?threads/s9r-sao-tome-principe.989606/)**
+
+---
+
+### SWLing Post
+
+**[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Colin Newell and Paul Jamet for the following tips: DXer.ca IRCA Reprint...
+
+**[AM BCB Radio DXing in 1973 – KKJO 1550 – Turning back the clocks](https://swling.com/blog/2026/10/am-bcb-radio-dxing-in-1973-kkjo-1550-turning-back-the-clocks/)**
+> by Dan Greenall While the House of Representatives in the U.S.approved the Sunshine Protection Act, the Senate has not yet passed it, meaning most states should return to “Standard Time” on November 1. The DJ in the following recording seemed pleased that he would be getting an extra hour of sleep...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Radyo Pilipinas (October 15-21, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radyo-pilipinas-october-15-21-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: From the Philippines to Brazil, El Niño is the new globalization! Click here to view on YouTube.
+
+**[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)**
+> Many thanks to SWLing Post contributor Bill Tilford, who shares the following update: From the Isle of Music, November 2026 This month, we’ll taste some vintage artists from Cuba like Los Guaracheros del Oriente and Guillermo Portabales. I’ll be wearing mi sombrero de yarey while recording it....
+
+**[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)**
+> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
 
 ---
 
@@ -90,6 +109,9 @@
 
 ### EtherHam
 
+**[Desired, Not Required: The FCC’s Advice to Carriers, for Hams](https://etherham.com/desired-not-required-fccs-advice-to-carriers-for-hams/)**
+> The FCC published a cybersecurity guide this week, and it wasn’t written for us. That’s exactly why I think hams should read it. The timing caught my eye. On October 21, the PHP project disclosed two critical flaws, now called PHP2Shell, that let an attacker run code on a web server without logging...
+
 **[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)**
 > This is Part 1 of two parts. Part 2 is a checklist: Home Network Security Checklist for Hams On Thursday morning, coffee in hand, I asked a simple question. The PHP project had just released fixes for two critical flaws, nicknamed PHP2Shell, that can let an attacker take over a web server without a...
 
@@ -102,9 +124,6 @@
 **[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)**
 > Last week, an email from one of the developers who keep AllStarLink moving forward landed in my inbox, part of a group conversation about someone’s node build. Tucked into it was a line I nearly skimmed past. The 3.10 release, he wrote, fixed a lot of problems and improved performance. It also...
 
-**[POTA/SOTA: From Park and Peak to Preparedness](https://etherham.com/pota-sota-from-park-and-peak-to-preparedness/)**
-> Every weekend, somewhere in a park or on a summit, a ham pulls a radio out of a box, sets up a wire or aerial, and gets on the air in minutes. POTA and SOTA activators do this week in and week out. Their batteries are charged, their cables are tested, and their stations actually […] Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -113,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-23 15:40 UTC*
+*Generated: 2026-10-24 14:20 UTC*

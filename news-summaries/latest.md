@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 24, 2026
+## October 25, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)** (QRZ Forums)
-- **[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)** (SWLing Post)
+- **[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)** (QRZ Forums)
+- **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 2](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-2/)** (SWLing Post)
 - **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
+**[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)**
 
-**[JOTA-JOTI 2026: Connecting Scouts Worldwide Through Amateur Radio and the Internet](https://forums.qrz.com/index.php?threads/jota-joti-2026-connecting-scouts-worldwide-through-amateur-radio-and-the-internet.1006572/)**
+**[5W0AF, Samoa](https://forums.qrz.com/index.php?threads/5w0af-samoa.979073/)**
 
-**[API KEY](https://forums.qrz.com/index.php?threads/api-key.1007630/)**
+**[S9R, Sao Tome Dxpedition](https://forums.qrz.com/index.php?threads/s9r-sao-tome-dxpedition.989640/)**
 
-**[Actualización Bitacora](https://forums.qrz.com/index.php?threads/actualizaci%C3%B3n-bitacora.1007627/)**
+**[National Animal Shelter Appreciation Week SES 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-ses-1-7-november-2026-ses-by-k0dog.1006090/)**
 
-**[S9R - Sao Tome & Principe](https://forums.qrz.com/index.php?threads/s9r-sao-tome-principe.989606/)**
+**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
 
 ---
 
 ### SWLing Post
+
+**[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 2](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-2/)**
+> The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part Two Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
+
+**[tinySA Spectrum Analyzer and Signal Generator](https://swling.com/blog/2026/10/tinysa-spectrum-analyzer-and-signal-generator/)**
+> Reprinted with the kind permission of Ken Reitz, Editor The Spectrum Monitor (Originally published in Volume 13, Number 8, August 2026). by Robert Gulley K4PKM The tinySA Ultra is an upgraded version of the tinySA which came out a number of years ago [see “TSM Reviews: tinySA […]
 
 **[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Colin Newell and Paul Jamet for the following tips: DXer.ca IRCA Reprint...
@@ -60,12 +66,6 @@
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of Radyo Pilipinas (October 15-21, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radyo-pilipinas-october-15-21-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: From the Philippines to Brazil, El Niño is the new globalization! Click here to view on YouTube.
-
-**[November 2026 Schedule Updates: From the Isle of Music & Uncle Bill’s Melting Pot](https://swling.com/blog/2026/10/november-2026-schedule-updates-from-the-isle-of-music-uncle-bills-melting-pot/)**
-> Many thanks to SWLing Post contributor Bill Tilford, who shares the following update: From the Isle of Music, November 2026 This month, we’ll taste some vintage artists from Cuba like Los Guaracheros del Oriente and Guillermo Portabales. I’ll be wearing mi sombrero de yarey while recording it....
-
-**[Texas Radio Shortwave: Schedule for Halloween 2026](https://swling.com/blog/2026/10/texas-radio-shortwave-schedule-for-halloween-2026/)**
-> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click image to enlarge):
 
 ---
 
@@ -109,20 +109,20 @@
 
 ### EtherHam
 
+**[Linux: One Command — apt list - -upgradable](https://etherham.com/linux-one-command-apt-list-upgradable/)**
+> One command shows whether your AllStar node is behind on updates, and which of them are security fixes. It only looks, so you can’t break anything by running it. Source
+
+**[PHP2Shell and Your AllStar Node: A One-Command Check (CVE-2026-109618, CVE-2026-109619)](https://etherham.com/php2shell-allstar-node-check/)**
+> Two critical PHP flaws can let an attacker take over a web server without a password, and your AllStar node’s dashboard runs on PHP. Here’s how to check your ASL3 node in about a minute. Source
+
 **[Desired, Not Required: The FCC’s Advice to Carriers, for Hams](https://etherham.com/desired-not-required-fccs-advice-to-carriers-for-hams/)**
 > The FCC published a cybersecurity guide this week, and it wasn’t written for us. That’s exactly why I think hams should read it. The timing caught my eye. On October 21, the PHP project disclosed two critical flaws, now called PHP2Shell, that let an attacker run code on a web server without logging...
 
 **[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)**
 > This is Part 1 of two parts. Part 2 is a checklist: Home Network Security Checklist for Hams On Thursday morning, coffee in hand, I asked a simple question. The PHP project had just released fixes for two critical flaws, nicknamed PHP2Shell, that can let an attacker take over a web server without a...
 
-**[Weekly Report: October 21, 2026](https://etherham.com/weekly-report-october-21-2026/)**
-> Short Stack / Band Conditions This Week / Digital Radio News / Groups.io Digest Each week’s report has four parts, and each one comes from a different source. The Short Stack is a curated list of links drawn from about 94 amateur radio, technology and space feeds that I collect on EtherHam’s mega...
-
-**[Two Security Updates for Hotspot and Node Owners: One Urgent, One Not](https://etherham.com/two-security-updates-for-hotspot-and-node-owners-one-urgent-one-not/)**
-> Two web software projects released security fixes this month, and both matter to hams running hotspots and AllStar nodes. One is urgent. The other is important but can wait for your next routine update. The Urgent One: PHP On October 21, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and...
-
-**[AllStarLink Quietly Cuts an Old Cord](https://etherham.com/allstarlink-quietly-cuts-an-old-cord/)**
-> Last week, an email from one of the developers who keep AllStarLink moving forward landed in my inbox, part of a group conversation about someone’s node build. Tucked into it was a line I nearly skimmed past. The 3.10 release, he wrote, fixed a lot of problems and improved performance. It also...
+**[Home Network Security Checklist for Hams](https://etherham.com/home-network-security-checklist/)**
+> A checklist for securing a ham’s home network: router, Wi-Fi, hotspots and nodes, rented servers, the accounts behind your websites, and backups. Each item says why it matters, not just what to do. Source
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-24 14:20 UTC*
+*Generated: 2026-10-25 14:53 UTC*

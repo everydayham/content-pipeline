@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:20:34.313770",
+  "updated": "2026-10-25T14:53:38.186586",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,44 +17,74 @@
         "author": "/u/ItsBail"
       },
       {
+        "title": "Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Special Event",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "ISS SSTV captures / Technician Exam Passed!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xelqnx/iss_sstv_captures_technician_exam_passed/",
+        "author": "/u/l3shyy"
+      },
+      {
+        "title": "Antenna Trauma",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xeqqns/antenna_trauma/",
+        "author": "/u/desertsnakes"
+      },
+      {
+        "title": "Get at me on 14.230, y'all!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xemwj4/get_at_me_on_14230_yall/",
+        "author": "/u/38DDs_Please"
+      },
+      {
+        "title": "Flying with ground spike",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xf248m/flying_with_ground_spike/",
+        "author": "/u/dmesa99"
+      },
+      {
+        "title": "When are we expecting to see a price for the new IC-7110?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xeu3sa/when_are_we_expecting_to_see_a_price_for_the_new/",
+        "author": "/u/NotThePopeProbably"
+      },
+      {
+        "title": "SB-200 RFI issue",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xf3cnr/sb200_rfi_issue/",
+        "author": "/u/AcceptableDecision2"
+      },
+      {
+        "title": "SB-200 RFI issue",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xf3c8o/sb200_rfi_issue/",
+        "author": "/u/AcceptableDecision2"
+      },
+      {
         "title": "CQ world contest",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xe7dk0/cq_world_contest/",
         "author": "/u/tdi"
       },
       {
-        "title": "iC 7300 and Logic Pro",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe8glf/ic_7300_and_logic_pro/",
-        "author": "/u/SummerRemote267"
+        "title": "I just launched a new website for my amateur radio club E74BYZ",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xek17z/i_just_launched_a_new_website_for_my_amateur/",
+        "author": "/u/e74avm"
       },
       {
-        "title": "Another over-engineered adapter",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdnfv7/another_overengineered_adapter/",
-        "author": "/u/The_LoneCoder"
+        "title": "Getting back into radio with SDR (on the go)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xewff0/getting_back_into_radio_with_sdr_on_the_go/",
+        "author": "/u/GeneraleRusso"
       },
       {
-        "title": "Is anybody in India on 2200m or 630m band?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe7a9c/is_anybody_in_india_on_2200m_or_630m_band/",
-        "author": "/u/Long-War-188"
+        "title": "[Projet perso] \u00c9couter la radio en continu et faire des recherches dedans avec une IA locale (RTL-SDR + Faster-Whisper)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xez45g/projet_perso_\u00e9couter_la_radio_en_continu_et_faire/",
+        "author": "/u/Illustrious_Car9226"
       },
       {
-        "title": "Any recommendations on a Anytone 779uv mobile radio for a go bag install?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe4a7v/any_recommendations_on_a_anytone_779uv_mobile/",
-        "author": "/u/KitchenWest1614"
+        "title": "Something amazing is happening to this budget SDR / Xiegu X6100",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xekjwd/something_amazing_is_happening_to_this_budget_sdr/",
+        "author": "/u/snorens"
       },
       {
-        "title": "20m SSB",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdii99/20m_ssb/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "40 meter contest tonight",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdzjdr/40_meter_contest_tonight/",
-        "author": "/u/bignanoman"
-      },
-      {
-        "title": "MicroNode Nano-Spot",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe8kjm/micronode_nanospot/",
-        "author": "/u/TheRiskDPO"
+        "title": "15 meter QRM - lower end of band being smashed.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xey4ic/15_meter_qrm_lower_end_of_band_being_smashed/",
+        "author": "/u/chickenturrrd"
       },
       {
         "title": "Could creating QSL cards be side gig?",
@@ -62,74 +92,44 @@
         "author": "/u/amiiigo44"
       },
       {
-        "title": "Shortwave broadcasters use seasonal schedules. The season is changing.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe43tz/shortwave_broadcasters_use_seasonal_schedules_the/",
-        "author": "/u/pentagrid"
+        "title": "PM446 Radios legal for a church UK?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xei5l3/pm446_radios_legal_for_a_church_uk/",
+        "author": "/u/Todderlck"
       },
       {
-        "title": "Anyone notice this in Ludhiana?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe3l0t/anyone_notice_this_in_ludhiana/",
-        "author": "/u/Forward_Unit_1179"
+        "title": "Anyone know what kind of digital this is?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xekonc/anyone_know_what_kind_of_digital_this_is/",
+        "author": "/u/CBtommy56"
       },
       {
-        "title": "POTA Suggestions Tacoma, WA",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdrrjp/pota_suggestions_tacoma_wa/",
-        "author": "/u/jcm8002204"
+        "title": "Custom firmware for Anytone D890",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xec6a4/custom_firmware_for_anytone_d890/",
+        "author": "/u/Paddys"
       },
       {
-        "title": "Cheapskate HF Gang, rise up!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xd1qtx/cheapskate_hf_gang_rise_up/",
-        "author": "/u/thevmcampos"
+        "title": "iC 7300 and Logic Pro",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xe8glf/ic_7300_and_logic_pro/",
+        "author": "/u/SummerRemote267"
       },
       {
-        "title": "F150 center console mount",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdlgly/f150_center_console_mount/",
-        "author": "/u/ManyMixture826"
+        "title": "EFHW Question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xemgmt/efhw_question/",
+        "author": "/u/cpaz411"
       },
       {
-        "title": "I built my very own WSJT-X fork with PSK Reporter integration, SDR support and experimental digital mode(s)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe8nxo/i_built_my_very_own_wsjtx_fork_with_psk_reporter/",
-        "author": "/u/Haunting-Hold8293"
+        "title": "Brand brand new",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xej7ks/brand_brand_new/",
+        "author": "/u/iftgod"
       },
       {
-        "title": "amateur radio featured in ecco2k / drain gang music video",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xd2knc/amateur_radio_featured_in_ecco2k_drain_gang_music/",
-        "author": "/u/TripleGod3"
+        "title": "Linux - Icom IC-705 programming challenge",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xen4bs/linux_icom_ic705_programming_challenge/",
+        "author": "/u/gdyer911"
       },
       {
-        "title": "Antenna pole",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdtle6/antenna_pole/",
-        "author": "/u/Jester471"
-      },
-      {
-        "title": "Is esp32 okay for diy ham radio?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdz1rb/is_esp32_okay_for_diy_ham_radio/",
-        "author": "/u/Anc_Builds"
-      },
-      {
-        "title": "Screen mirroring on PoC Radio MT-628",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdyjqt/screen_mirroring_on_poc_radio_mt628/",
-        "author": "/u/Mobile-Beach353"
-      },
-      {
-        "title": "Best Milsim & HAM radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xe8iei/best_milsim_ham_radio/",
-        "author": "/u/monke_forever"
-      },
-      {
-        "title": "Diagnosing a coax jumper",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdsydy/diagnosing_a_coax_jumper/",
-        "author": "/u/mbauer206"
-      },
-      {
-        "title": "Standard HX500",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xdkrgh/standard_hx500/",
-        "author": "/u/offgrid44"
-      },
-      {
-        "title": "Built George Smart\u2019s (M1GEO) dual-band satellite Yagi with 3D-printed mounts. Files are up if anyone wants them",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xd4wz1/built_george_smarts_m1geo_dualband_satellite_yagi/",
-        "author": "/u/adhdff"
+        "title": "Worried about faulty battery (Xiegu x6100)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xee8pk/worried_about_faulty_battery_xiegu_x6100/",
+        "author": "/u/NowBeLoose"
       }
     ]
   }

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-24 14:20 UTC*
+*Last updated: 2026-10-25 14:53 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/kc2syk
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [CQ world contest](https://www.reddit.com/r/amateurradio/comments/1xe7dk0/cq_world_contest/)**
+**3. [Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Special Event](https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/)**
+by u/adhdff
+
+**4. [ISS SSTV captures / Technician Exam Passed!](https://www.reddit.com/r/amateurradio/comments/1xelqnx/iss_sstv_captures_technician_exam_passed/)**
+by u/l3shyy
+
+**5. [Antenna Trauma](https://www.reddit.com/r/amateurradio/comments/1xeqqns/antenna_trauma/)**
+by u/desertsnakes
+
+**6. [Get at me on 14.230, y'all!](https://www.reddit.com/r/amateurradio/comments/1xemwj4/get_at_me_on_14230_yall/)**
+by u/38DDs_Please
+
+**7. [Flying with ground spike](https://www.reddit.com/r/amateurradio/comments/1xf248m/flying_with_ground_spike/)**
+by u/dmesa99
+
+**8. [When are we expecting to see a price for the new IC-7110?](https://www.reddit.com/r/amateurradio/comments/1xeu3sa/when_are_we_expecting_to_see_a_price_for_the_new/)**
+by u/NotThePopeProbably
+
+**9. [SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3cnr/sb200_rfi_issue/)**
+by u/AcceptableDecision2
+
+**10. [SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3c8o/sb200_rfi_issue/)**
+by u/AcceptableDecision2
+
+**11. [CQ world contest](https://www.reddit.com/r/amateurradio/comments/1xe7dk0/cq_world_contest/)**
 by u/tdi
 
-**4. [iC 7300 and Logic Pro](https://www.reddit.com/r/amateurradio/comments/1xe8glf/ic_7300_and_logic_pro/)**
-by u/SummerRemote267
+**12. [I just launched a new website for my amateur radio club E74BYZ](https://www.reddit.com/r/amateurradio/comments/1xek17z/i_just_launched_a_new_website_for_my_amateur/)**
+by u/e74avm
 
-**5. [Another over-engineered adapter](https://www.reddit.com/r/amateurradio/comments/1xdnfv7/another_overengineered_adapter/)**
-by u/The_LoneCoder
+**13. [Getting back into radio with SDR (on the go)](https://www.reddit.com/r/amateurradio/comments/1xewff0/getting_back_into_radio_with_sdr_on_the_go/)**
+by u/GeneraleRusso
 
-**6. [Is anybody in India on 2200m or 630m band?](https://www.reddit.com/r/amateurradio/comments/1xe7a9c/is_anybody_in_india_on_2200m_or_630m_band/)**
-by u/Long-War-188
+**14. [[Projet perso] Écouter la radio en continu et faire des recherches dedans avec u...](https://www.reddit.com/r/amateurradio/comments/1xez45g/projet_perso_écouter_la_radio_en_continu_et_faire/)**
+by u/Illustrious_Car9226
 
-**7. [Any recommendations on a Anytone 779uv mobile radio for a go bag install?](https://www.reddit.com/r/amateurradio/comments/1xe4a7v/any_recommendations_on_a_anytone_779uv_mobile/)**
-by u/KitchenWest1614
-
-**8. [20m SSB](https://www.reddit.com/r/amateurradio/comments/1xdii99/20m_ssb/)**
-by u/SwitchedOnNow
-
-**9. [40 meter contest tonight](https://www.reddit.com/r/amateurradio/comments/1xdzjdr/40_meter_contest_tonight/)**
-by u/bignanoman
-
-**10. [MicroNode Nano-Spot](https://www.reddit.com/r/amateurradio/comments/1xe8kjm/micronode_nanospot/)**
-by u/TheRiskDPO
-
-**11. [Could creating QSL cards be side gig?](https://www.reddit.com/r/amateurradio/comments/1xe8hcf/could_creating_qsl_cards_be_side_gig/)**
-by u/amiiigo44
-
-**12. [Shortwave broadcasters use seasonal schedules. The season is changing.](https://www.reddit.com/r/amateurradio/comments/1xe43tz/shortwave_broadcasters_use_seasonal_schedules_the/)**
-by u/pentagrid
-
-**13. [Anyone notice this in Ludhiana?](https://www.reddit.com/r/amateurradio/comments/1xe3l0t/anyone_notice_this_in_ludhiana/)**
-by u/Forward_Unit_1179
-
-**14. [POTA Suggestions Tacoma, WA](https://www.reddit.com/r/amateurradio/comments/1xdrrjp/pota_suggestions_tacoma_wa/)**
-by u/jcm8002204
-
-**15. [Cheapskate HF Gang, rise up!](https://www.reddit.com/r/amateurradio/comments/1xd1qtx/cheapskate_hf_gang_rise_up/)**
-by u/thevmcampos
+**15. [Something amazing is happening to this budget SDR / Xiegu X6100](https://www.reddit.com/r/amateurradio/comments/1xekjwd/something_amazing_is_happening_to_this_budget_sdr/)**
+by u/snorens
 
 ---
 
@@ -61,14 +61,14 @@ by u/thevmcampos
 
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[CQ world contest](https://www.reddit.com/r/amateurradio/comments/1xe7dk0/cq_world_contest/)** (r/amateurradio)
-- **[iC 7300 and Logic Pro](https://www.reddit.com/r/amateurradio/comments/1xe8glf/ic_7300_and_logic_pro/)** (r/amateurradio)
-- **[Another over-engineered adapter](https://www.reddit.com/r/amateurradio/comments/1xdnfv7/another_overengineered_adapter/)** (r/amateurradio)
-- **[Is anybody in India on 2200m or 630m band?](https://www.reddit.com/r/amateurradio/comments/1xe7a9c/is_anybody_in_india_on_2200m_or_630m_band/)** (r/amateurradio)
-- **[Any recommendations on a Anytone 779uv mobile radio for a go bag insta...](https://www.reddit.com/r/amateurradio/comments/1xe4a7v/any_recommendations_on_a_anytone_779uv_mobile/)** (r/amateurradio)
-- **[20m SSB](https://www.reddit.com/r/amateurradio/comments/1xdii99/20m_ssb/)** (r/amateurradio)
-- **[40 meter contest tonight](https://www.reddit.com/r/amateurradio/comments/1xdzjdr/40_meter_contest_tonight/)** (r/amateurradio)
-- **[MicroNode Nano-Spot](https://www.reddit.com/r/amateurradio/comments/1xe8kjm/micronode_nanospot/)** (r/amateurradio)
+- **[Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Spec...](https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/)** (r/amateurradio)
+- **[ISS SSTV captures / Technician Exam Passed!](https://www.reddit.com/r/amateurradio/comments/1xelqnx/iss_sstv_captures_technician_exam_passed/)** (r/amateurradio)
+- **[Antenna Trauma](https://www.reddit.com/r/amateurradio/comments/1xeqqns/antenna_trauma/)** (r/amateurradio)
+- **[Get at me on 14.230, y'all!](https://www.reddit.com/r/amateurradio/comments/1xemwj4/get_at_me_on_14230_yall/)** (r/amateurradio)
+- **[Flying with ground spike](https://www.reddit.com/r/amateurradio/comments/1xf248m/flying_with_ground_spike/)** (r/amateurradio)
+- **[When are we expecting to see a price for the new IC-7110?](https://www.reddit.com/r/amateurradio/comments/1xeu3sa/when_are_we_expecting_to_see_a_price_for_the_new/)** (r/amateurradio)
+- **[SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3cnr/sb200_rfi_issue/)** (r/amateurradio)
+- **[SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3c8o/sb200_rfi_issue/)** (r/amateurradio)
 
 ---
 

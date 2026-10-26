@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-25 14:53 UTC*
+*Last updated: 2026-10-26 17:09 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
-by u/kc2syk
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xfw4zg/weekly_information_mentor_new_license_thread/)**
+by u/AutoModerator
 
 **2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Special Event](https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/)**
-by u/adhdff
+**3. [Best place to sell some radios?](https://www.reddit.com/r/amateurradio/comments/1xfwmcy/best_place_to_sell_some_radios/)**
+by u/CplStigginsUSMC
 
-**4. [ISS SSTV captures / Technician Exam Passed!](https://www.reddit.com/r/amateurradio/comments/1xelqnx/iss_sstv_captures_technician_exam_passed/)**
-by u/l3shyy
+**4. [Shout out to LDG!](https://www.reddit.com/r/amateurradio/comments/1xfwkm5/shout_out_to_ldg/)**
+by u/bplipschitz
 
-**5. [Antenna Trauma](https://www.reddit.com/r/amateurradio/comments/1xeqqns/antenna_trauma/)**
-by u/desertsnakes
+**5. [Idea for attaching an antenna to a painters pole](https://www.reddit.com/r/amateurradio/comments/1xg0kds/idea_for_attaching_an_antenna_to_a_painters_pole/)**
+by u/A1eafFa11s
 
-**6. [Get at me on 14.230, y'all!](https://www.reddit.com/r/amateurradio/comments/1xemwj4/get_at_me_on_14230_yall/)**
-by u/38DDs_Please
+**6. [Buying My first Radio - Price Check](https://www.reddit.com/r/amateurradio/comments/1xfzxh3/buying_my_first_radio_price_check/)**
+by u/holeshotloss
 
-**7. [Flying with ground spike](https://www.reddit.com/r/amateurradio/comments/1xf248m/flying_with_ground_spike/)**
-by u/dmesa99
+**7. [CQ WW DX SSB Map. My First Contest ever (Field Day is not a contest;)). Had so m...](https://www.reddit.com/r/amateurradio/comments/1xfiq2l/cq_ww_dx_ssb_map_my_first_contest_ever_field_day/)**
+by u/SnooPeppers2417
 
-**8. [When are we expecting to see a price for the new IC-7110?](https://www.reddit.com/r/amateurradio/comments/1xeu3sa/when_are_we_expecting_to_see_a_price_for_the_new/)**
-by u/NotThePopeProbably
+**8. [Shout Out to Palstar Engineering!](https://www.reddit.com/r/amateurradio/comments/1xg17bp/shout_out_to_palstar_engineering/)**
+by u/David_13247
 
-**9. [SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3cnr/sb200_rfi_issue/)**
-by u/AcceptableDecision2
+**9. [ISO Anyone interested in letting a TV Show use their QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xg26yq/iso_anyone_interested_in_letting_a_tv_show_use/)**
+by u/SpringElegant1492
 
-**10. [SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3c8o/sb200_rfi_issue/)**
-by u/AcceptableDecision2
+**10. [15m open world wide on SSB](https://www.reddit.com/r/amateurradio/comments/1xf7vd7/15m_open_world_wide_on_ssb/)**
+by u/SwitchedOnNow
 
-**11. [CQ world contest](https://www.reddit.com/r/amateurradio/comments/1xe7dk0/cq_world_contest/)**
-by u/tdi
+**11. [CW - learn the letters while driving](https://www.reddit.com/r/amateurradio/comments/1xfl3hb/cw_learn_the_letters_while_driving/)**
+by u/stealth270
 
-**12. [I just launched a new website for my amateur radio club E74BYZ](https://www.reddit.com/r/amateurradio/comments/1xek17z/i_just_launched_a_new_website_for_my_amateur/)**
-by u/e74avm
+**12. [20m-40m fan dipole setup](https://www.reddit.com/r/amateurradio/comments/1xf4skj/20m40m_fan_dipole_setup/)**
+by u/Two-Thirty-Two
 
-**13. [Getting back into radio with SDR (on the go)](https://www.reddit.com/r/amateurradio/comments/1xewff0/getting_back_into_radio_with_sdr_on_the_go/)**
-by u/GeneraleRusso
+**13. [Begali Traveler](https://www.reddit.com/r/amateurradio/comments/1xfzj95/begali_traveler/)**
+by u/Neither-Light4735
 
-**14. [[Projet perso] Écouter la radio en continu et faire des recherches dedans avec u...](https://www.reddit.com/r/amateurradio/comments/1xez45g/projet_perso_écouter_la_radio_en_continu_et_faire/)**
-by u/Illustrious_Car9226
+**14. [Ham radio skeds page](https://www.reddit.com/r/amateurradio/comments/1xfz296/ham_radio_skeds_page/)**
+by u/Immediate-Cause-5563
 
-**15. [Something amazing is happening to this budget SDR / Xiegu X6100](https://www.reddit.com/r/amateurradio/comments/1xekjwd/something_amazing_is_happening_to_this_budget_sdr/)**
-by u/snorens
+**15. [Looking for New Digital Mode Testers](https://www.reddit.com/r/amateurradio/comments/1xfxphc/looking_for_new_digital_mode_testers/)**
+by u/slyticoon
 
 ---
 
@@ -59,16 +59,16 @@ by u/snorens
 
 *Latest posts across both subreddits:*
 
-- **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xfw4zg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Spec...](https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/)** (r/amateurradio)
-- **[ISS SSTV captures / Technician Exam Passed!](https://www.reddit.com/r/amateurradio/comments/1xelqnx/iss_sstv_captures_technician_exam_passed/)** (r/amateurradio)
-- **[Antenna Trauma](https://www.reddit.com/r/amateurradio/comments/1xeqqns/antenna_trauma/)** (r/amateurradio)
-- **[Get at me on 14.230, y'all!](https://www.reddit.com/r/amateurradio/comments/1xemwj4/get_at_me_on_14230_yall/)** (r/amateurradio)
-- **[Flying with ground spike](https://www.reddit.com/r/amateurradio/comments/1xf248m/flying_with_ground_spike/)** (r/amateurradio)
-- **[When are we expecting to see a price for the new IC-7110?](https://www.reddit.com/r/amateurradio/comments/1xeu3sa/when_are_we_expecting_to_see_a_price_for_the_new/)** (r/amateurradio)
-- **[SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3cnr/sb200_rfi_issue/)** (r/amateurradio)
-- **[SB-200 RFI issue](https://www.reddit.com/r/amateurradio/comments/1xf3c8o/sb200_rfi_issue/)** (r/amateurradio)
+- **[Best place to sell some radios?](https://www.reddit.com/r/amateurradio/comments/1xfwmcy/best_place_to_sell_some_radios/)** (r/amateurradio)
+- **[Shout out to LDG!](https://www.reddit.com/r/amateurradio/comments/1xfwkm5/shout_out_to_ldg/)** (r/amateurradio)
+- **[Idea for attaching an antenna to a painters pole](https://www.reddit.com/r/amateurradio/comments/1xg0kds/idea_for_attaching_an_antenna_to_a_painters_pole/)** (r/amateurradio)
+- **[Buying My first Radio - Price Check](https://www.reddit.com/r/amateurradio/comments/1xfzxh3/buying_my_first_radio_price_check/)** (r/amateurradio)
+- **[CQ WW DX SSB Map. My First Contest ever (Field Day is not a contest;))...](https://www.reddit.com/r/amateurradio/comments/1xfiq2l/cq_ww_dx_ssb_map_my_first_contest_ever_field_day/)** (r/amateurradio)
+- **[Shout Out to Palstar Engineering!](https://www.reddit.com/r/amateurradio/comments/1xg17bp/shout_out_to_palstar_engineering/)** (r/amateurradio)
+- **[ISO Anyone interested in letting a TV Show use their QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xg26yq/iso_anyone_interested_in_letting_a_tv_show_use/)** (r/amateurradio)
+- **[15m open world wide on SSB](https://www.reddit.com/r/amateurradio/comments/1xf7vd7/15m_open_world_wide_on_ssb/)** (r/amateurradio)
 
 ---
 

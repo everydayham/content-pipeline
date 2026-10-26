@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 25, 2026
+## October 26, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)** (QRZ Forums)
-- **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 2](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-2/)** (SWLing Post)
+- **[TU5LB & TU5LL - Ivory Coast](https://forums.qrz.com/index.php?threads/tu5lb-tu5ll-ivory-coast.1007835/)** (QRZ Forums)
+- **[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)** (SWLing Post)
 - **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)**
+**[TU5LB & TU5LL - Ivory Coast](https://forums.qrz.com/index.php?threads/tu5lb-tu5ll-ivory-coast.1007835/)**
 
-**[5W0AF, Samoa](https://forums.qrz.com/index.php?threads/5w0af-samoa.979073/)**
+**[ZD7LC – Saint Helena](https://forums.qrz.com/index.php?threads/zd7lc-%E2%80%93-saint-helena.1007834/)**
 
-**[S9R, Sao Tome Dxpedition](https://forums.qrz.com/index.php?threads/s9r-sao-tome-dxpedition.989640/)**
+**[Today in Ham Radio, October 26: 1978: RS-1 and RS-2 Reach Orbit](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-26-1978-rs-1-and-rs-2-reach-orbit.1007829/)**
 
-**[National Animal Shelter Appreciation Week SES 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-ses-1-7-november-2026-ses-by-k0dog.1006090/)**
+**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[CQWW SSB Contest ’26](https://forums.qrz.com/index.php?threads/cqww-ssb-contest-%E2%80%9926.1006664/)**
+**[FO/WE9G – Gambier Islands, OC-063](https://forums.qrz.com/index.php?threads/fo-we9g-%E2%80%93-gambier-islands-oc-063.1007820/)**
 
 ---
 
 ### SWLing Post
+
+**[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)**
+> Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas, I’m Giuseppe Morlè from Formia, in central Italy, on the Tyrrhenian Sea. This is a creation of mine from 2013, made entirely from recycled materials—it’s a manual antenna tuner for my QRP gear. Today, I pulled it off...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Radio Taiwan International (October 20-23, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radio-taiwan-international-october-20-23-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Typhoon Champi, via Japan Meteorological Agency, Radio Taiwan International & Okinawa Fishery Radio Click here to view on YouTube.
 
 **[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 2](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-2/)**
 > The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part Two Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
@@ -60,12 +66,6 @@
 
 **[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Colin Newell and Paul Jamet for the following tips: DXer.ca IRCA Reprint...
-
-**[AM BCB Radio DXing in 1973 – KKJO 1550 – Turning back the clocks](https://swling.com/blog/2026/10/am-bcb-radio-dxing-in-1973-kkjo-1550-turning-back-the-clocks/)**
-> by Dan Greenall While the House of Representatives in the U.S.approved the Sunshine Protection Act, the Senate has not yet passed it, meaning most states should return to “Standard Time” on November 1. The DJ in the following recording seemed pleased that he would be getting an extra hour of sleep...
-
-**[Carlos’ Illustrated Radio Listening Report and Recording of Radyo Pilipinas (October 15-21, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radyo-pilipinas-october-15-21-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: From the Philippines to Brazil, El Niño is the new globalization! Click here to view on YouTube.
 
 ---
 
@@ -109,6 +109,12 @@
 
 ### EtherHam
 
+**[Linux: One Command — uptime](https://etherham.com/linux-one-command-uptime/)**
+> One command shows how long your AllStar node has been running, and whether it has restarted since its last updates. Source
+
+**[One Cheap Switch, One Long-Overdue Cleanup](https://etherham.com/one-cheap-switch-one-long-overdue-cleanup/)**
+> It Started With a Question About a Switch I went shopping for a more secure network switch and ended up cleaning out years of forgotten openings in my home network. The switch might be the small part of the story! Most of my radio gear has migrated from my Portland apartment to the lake house […]...
+
 **[Linux: One Command — apt list - -upgradable](https://etherham.com/linux-one-command-apt-list-upgradable/)**
 > One command shows whether your AllStar node is behind on updates, and which of them are security fixes. It only looks, so you can’t break anything by running it. Source
 
@@ -118,12 +124,6 @@
 **[Desired, Not Required: The FCC’s Advice to Carriers, for Hams](https://etherham.com/desired-not-required-fccs-advice-to-carriers-for-hams/)**
 > The FCC published a cybersecurity guide this week, and it wasn’t written for us. That’s exactly why I think hams should read it. The timing caught my eye. On October 21, the PHP project disclosed two critical flaws, now called PHP2Shell, that let an attacker run code on a web server without logging...
 
-**[Checking the Locks: A Morning Security Review](https://etherham.com/checking-the-locks-a-morning-security-review/)**
-> This is Part 1 of two parts. Part 2 is a checklist: Home Network Security Checklist for Hams On Thursday morning, coffee in hand, I asked a simple question. The PHP project had just released fixes for two critical flaws, nicknamed PHP2Shell, that can let an attacker take over a web server without a...
-
-**[Home Network Security Checklist for Hams](https://etherham.com/home-network-security-checklist/)**
-> A checklist for securing a ham’s home network: router, Wi-Fi, hotspots and nodes, rented servers, the accounts behind your websites, and backups. Each item says why it matters, not just what to do. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-25 14:53 UTC*
+*Generated: 2026-10-26 17:09 UTC*

@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-10-19 18:02 UTC*
+*Last updated: 2026-10-26 17:59 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Tiger ek din me kitna sota hai?🐯🐯😅 #wildlife #jung... | ClipVannii | 1,442,837 | 2026-10-13 |
-| Pota dadi Ice cream plan#shorts #shortvideo #short... | Art Club pk | 841,590 | 2026-10-14 |
-| Kaju Kita Sota Hai 😂...#shorts | LOL Unfilttered | 599,825 | 2026-10-16 |
-| pota Vespa fun with chicks #shorts #shortvideo #sh... | Art Club pk | 524,982 | 2026-10-15 |
-| Na etha round ha irrukura etna ball la ila pota ve... | Voice of Santhosh | 392,393 | 2026-10-16 |
-| smart pota #shorts #shortvideo #short #shortsfeed ... | Art Club pk | 346,762 | 2026-10-16 |
-| SOTAは天才だ!!!⚰️別次元のダンス#BEFIRST | NINA_BESTY | 259,009 | 2026-10-13 |
-| pota dadi  naqal #shorts #shortvideo #short #short... | Art Club pk | 233,977 | 2026-10-13 |
-| Jo Apni Biwi ko Seene Se laga kar sota  Hai #enter... | Shoaib__ind | 227,997 | 2026-10-16 |
-| dadi pota bonding #shorts #shortvideo #short #shor... | Art Club pk | 217,390 | 2026-10-14 |
-| Practice Morse Code Alphabet #morsecode #hamradio | The Radio Zoomer | 212,035 | 2026-10-17 |
-| Rat ko tu kitne baje sota hain 😜😜 #razikaabaan #fu... | RAZIKA ABAAN OFFICIA | 186,922 | 2026-10-14 |
-| pota or Billi k tition#shorts #shortvideo #short #... | Art Club pk | 181,970 | 2026-10-15 |
-| Pota dadi ka khyal rkhty#shorts #shortvideo #short... | Art Club pk | 159,752 | 2026-10-18 |
-| pota  masti with balloon#shorts #shortvideo #short... | Art Club pk | 151,492 | 2026-10-13 |
-| SOTA: HANAの方々はとても良い曲が多いので #BEFIRST | NINA_BESTY | 143,406 | 2026-10-14 |
-| SOTAに大きなハグを!!⚰️🌹Sky は誰よりも BF を愛しています!#BEFIRST | NINA_BESTY | 142,921 | 2026-10-15 |
-| Bu pota neden dünyanın en tehlikeli basketbol pota... | Sporun Sırrı | 119,636 | 2026-10-17 |
-| Learn Morse Code Quickly - A #morsecode #hamradio | The Radio Zoomer | 118,786 | 2026-10-15 |
-| Daya ben ko mila sota admi 1 | ADMD Crime World TV | 107,708 | 2026-10-18 |
-| A Signal Jammer on My Neighbor’s Roof Killed My Ra... | TWISTLINE | 105,894 | 2026-10-14 |
-| Letitia James' License THREATENED after MASSIVE Ba... | Reasonable Doubt | 95,432 | 2026-10-14 |
-| hhhh ⚰️SOTA,MANATO,ATS BMSG FES26, 足広げんなマジで,めっちゃ可愛... | NINA_BESTY | 91,448 | 2026-10-13 |
-| Manju Murmu Diku ke Sath shaadi Karke Bhikar // Co... | Saul Hansdak | 75,727 | 2026-10-13 |
-| Inside My Legal-Limit 2 Meter Station — 1,500 Watt... | One Kilowatt | 72,286 | 2026-10-14 |
+| 🌀 Upar Pankha Chalta Hai Neeche Munna Sota Hai 😴 |... | zimberry kids-Hindi  | 1,625,850 | 2026-10-22 |
+| От нас скрывают, у нас не всё хорошо! Питер после ... | sotavision | 419,146 | 2026-10-20 |
+| #Jab mai sota hun🥲😼#youtubeshorts#shortvideo#short... | Theshows | 404,181 | 2026-10-22 |
+| dadi pota talking #shorts #shortvideo #short #shor... | Art Club pk | 316,953 | 2026-10-25 |
+| !!!SOTA,CHIKA,NAOYA,KANON 社長の次に喋る人じゃん!!!LEO  #BEFI... | NINA_BESTY | 311,061 | 2026-10-20 |
+| Kriuk pota bee #funny #comedy #lucu #shorts #trend... | ObetPSP | 292,839 | 2026-10-24 |
+| Learn Morse Code Fast #morsecode #hamradio | The Radio Zoomer | 272,614 | 2026-10-22 |
+| Practicing Morse Code Day 5 #morsecode #hamradio | The Radio Zoomer | 255,194 | 2026-10-19 |
+| Sota Exposes Hori's TRUE Self to Miyamura! You WON... | QUAN░XI🌙 | 218,368 | 2026-10-20 |
+| SHUNTO🌹はSOTAが地面に落ちないように!!長い間#BEFIRST | NINA_BESTY | 217,807 | 2026-10-24 |
+| They Laughed When He Called Her an Amateur Until O... | Vyra-fights | 194,040 | 2026-10-22 |
+| Andai berlaku perang dunia ketiga, Mungkin kita ak... | Robert | 171,853 | 2026-10-22 |
+| SOTA,RIENA, Wach Me ⚰️🌹振付師同士が一緒に踊ることほど素晴らしいことはない。#... | NINA_BESTY | 169,301 | 2026-10-21 |
+| Dari Mana Semangka Ini Muncul? Pota Menemukan Lada... | Marbel - Learning To | 140,204 | 2026-10-23 |
+| 「#うららか」#AyumuImazu さん × SOTA ​⁠ @ayumuimazu0512 | Da-iCE | 128,500 | 2026-10-22 |
+| 「#うららか」SOTA × YUDAI | Da-iCE | 126,589 | 2026-10-20 |
+| NBA’in İlk Haftası ÇILDIRDI: Tarihi Geceler ve Büy... | İki Pota Tek Top | 118,892 | 2026-10-24 |
+| Newborn Baby Raat Bhar Nahi Sota? 🤱 | Baby Ko Din-... | Dr.Deepika- TheGynec | 99,785 | 2026-10-23 |
+| The UK Is Told to Prepare for Emergencies... One T... | Ringway Manchester | 97,553 | 2026-10-24 |
+| The City Of Cerritos Vs My Ham Radio Antenna - A S... | Ham Radio Crash Cour | 95,627 | 2026-10-20 |
+| dada pota ⚽ 🔥 wht a football skill ⚽ 🔥 #footballvi... | Jota_sujjon | 87,325 | 2026-10-23 |
+| GAK SANGKA‼️ Radio Fleco F-315 Harga 36 Ribu, Dape... | ToolBox(ID) | 77,993 | 2026-10-22 |
+| Morse Code Alphabet #morsecode #hamradio | The Radio Zoomer | 76,842 | 2026-10-20 |
+| dadi 🤠pota #funny #viralvideo #youtube #shortsvide... | AslamBayBihar | 70,613 | 2026-10-24 |
+| 3 football spin ⚽ 😱 #footballvideos dada pota ⚽ 🔥 ... | Jota_sujjon | 66,717 | 2026-10-24 |
 
 ---
 
@@ -42,13 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
+- **POTA/Portable**: ████████████████████ (25 videos)
 - **License/Learning**: ████████████████████ (24 videos)
-- **POTA/Portable**: ████████████████████ (20 videos)
-- **HF Operating**: ████████████████ (16 videos)
+- **HF Operating**: █████████████████ (17 videos)
 - **Antennas**: ███████████████ (15 videos)
-- **Gear Reviews**: █████████ (9 videos)
+- **Gear Reviews**: ████████ (8 videos)
 - **Digital Modes**: ██████ (6 videos)
-- **QRP**: ██ (2 videos)
+- **QRP**: ███ (3 videos)
 
 ---
 

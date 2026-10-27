@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-26 17:09 UTC*
+*Last updated: 2026-10-27 16:15 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xfw4zg/weekly_information_mentor_new_license_thread/)**
-by u/AutoModerator
-
-**2. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
+**1. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
 by u/ItsBail
 
-**3. [Best place to sell some radios?](https://www.reddit.com/r/amateurradio/comments/1xfwmcy/best_place_to_sell_some_radios/)**
-by u/CplStigginsUSMC
+**2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
+by u/kc2syk
 
-**4. [Shout out to LDG!](https://www.reddit.com/r/amateurradio/comments/1xfwkm5/shout_out_to_ldg/)**
-by u/bplipschitz
+**3. [QRP Labs is awesome](https://www.reddit.com/r/amateurradio/comments/1xgquzj/qrp_labs_is_awesome/)**
+by u/eieiohmygad
 
-**5. [Idea for attaching an antenna to a painters pole](https://www.reddit.com/r/amateurradio/comments/1xg0kds/idea_for_attaching_an_antenna_to_a_painters_pole/)**
-by u/A1eafFa11s
+**4. [Physical QSL etiquette a bit hard to adhere to](https://www.reddit.com/r/amateurradio/comments/1xgsyyl/physical_qsl_etiquette_a_bit_hard_to_adhere_to/)**
+by u/ychen6
 
-**6. [Buying My first Radio - Price Check](https://www.reddit.com/r/amateurradio/comments/1xfzxh3/buying_my_first_radio_price_check/)**
-by u/holeshotloss
+**5. [Here's the video proof of the Central CT to Southern VT 2M simplex contact.](https://www.reddit.com/r/amateurradio/comments/1xgerhz/heres_the_video_proof_of_the_central_ct_to/)**
+by u/adhdff
 
-**7. [CQ WW DX SSB Map. My First Contest ever (Field Day is not a contest;)). Had so m...](https://www.reddit.com/r/amateurradio/comments/1xfiq2l/cq_ww_dx_ssb_map_my_first_contest_ever_field_day/)**
-by u/SnooPeppers2417
+**6. [Buying a used Icom IC-7300. what should I check?](https://www.reddit.com/r/amateurradio/comments/1xgplwj/buying_a_used_icom_ic7300_what_should_i_check/)**
+by u/No_Nectarine_4367
 
-**8. [Shout Out to Palstar Engineering!](https://www.reddit.com/r/amateurradio/comments/1xg17bp/shout_out_to_palstar_engineering/)**
-by u/David_13247
+**7. [A little Bluetooth SDR](https://www.reddit.com/r/amateurradio/comments/1xgwt75/a_little_bluetooth_sdr/)**
+by u/No-Coat2826
 
-**9. [ISO Anyone interested in letting a TV Show use their QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xg26yq/iso_anyone_interested_in_letting_a_tv_show_use/)**
-by u/SpringElegant1492
+**8. [POTA Radio](https://www.reddit.com/r/amateurradio/comments/1xgfvrv/pota_radio/)**
+by u/dantodd
 
-**10. [15m open world wide on SSB](https://www.reddit.com/r/amateurradio/comments/1xf7vd7/15m_open_world_wide_on_ssb/)**
-by u/SwitchedOnNow
+**9. [Exam test in Québec](https://www.reddit.com/r/amateurradio/comments/1xgr893/exam_test_in_québec/)**
+by u/_abiop_
 
-**11. [CW - learn the letters while driving](https://www.reddit.com/r/amateurradio/comments/1xfl3hb/cw_learn_the_letters_while_driving/)**
-by u/stealth270
+**10. [QRPi 20m RPi WSPR module now open source](https://www.reddit.com/r/amateurradio/comments/1xgws7h/qrpi_20m_rpi_wspr_module_now_open_source/)**
+by u/rfsparkling
 
-**12. [20m-40m fan dipole setup](https://www.reddit.com/r/amateurradio/comments/1xf4skj/20m40m_fan_dipole_setup/)**
-by u/Two-Thirty-Two
+**11. [bladeRF 2.0 micro A9 randomly failing to load FPGA](https://www.reddit.com/r/amateurradio/comments/1xgqrdw/bladerf_20_micro_a9_randomly_failing_to_load_fpga/)**
+by u/SuccessfulStreet2321
 
-**13. [Begali Traveler](https://www.reddit.com/r/amateurradio/comments/1xfzj95/begali_traveler/)**
-by u/Neither-Light4735
+**12. [Mounting a GRP pole to a wall](https://www.reddit.com/r/amateurradio/comments/1xgw557/mounting_a_grp_pole_to_a_wall/)**
+by u/arroos
 
-**14. [Ham radio skeds page](https://www.reddit.com/r/amateurradio/comments/1xfz296/ham_radio_skeds_page/)**
-by u/Immediate-Cause-5563
+**13. [Looking to purchase the Tidradio H3-Plus, antenna questions](https://www.reddit.com/r/amateurradio/comments/1xgvic1/looking_to_purchase_the_tidradio_h3plus_antenna/)**
+by u/ToNIX_
 
-**15. [Looking for New Digital Mode Testers](https://www.reddit.com/r/amateurradio/comments/1xfxphc/looking_for_new_digital_mode_testers/)**
-by u/slyticoon
+**14. [Yaesu FT-710 – FT8 TX spurs / splatter solved (USB audio settings)](https://www.reddit.com/r/amateurradio/comments/1xgjd8p/yaesu_ft710_ft8_tx_spurs_splatter_solved_usb/)**
+by u/Fast-Hair-4113
+
+**15. [Troubleshooting high mobile SWR](https://www.reddit.com/r/amateurradio/comments/1xgv6qw/troubleshooting_high_mobile_swr/)**
+by u/Single-Mechanic3954
 
 ---
 
@@ -59,16 +59,16 @@ by u/slyticoon
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xfw4zg/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
-- **[Best place to sell some radios?](https://www.reddit.com/r/amateurradio/comments/1xfwmcy/best_place_to_sell_some_radios/)** (r/amateurradio)
-- **[Shout out to LDG!](https://www.reddit.com/r/amateurradio/comments/1xfwkm5/shout_out_to_ldg/)** (r/amateurradio)
-- **[Idea for attaching an antenna to a painters pole](https://www.reddit.com/r/amateurradio/comments/1xg0kds/idea_for_attaching_an_antenna_to_a_painters_pole/)** (r/amateurradio)
-- **[Buying My first Radio - Price Check](https://www.reddit.com/r/amateurradio/comments/1xfzxh3/buying_my_first_radio_price_check/)** (r/amateurradio)
-- **[CQ WW DX SSB Map. My First Contest ever (Field Day is not a contest;))...](https://www.reddit.com/r/amateurradio/comments/1xfiq2l/cq_ww_dx_ssb_map_my_first_contest_ever_field_day/)** (r/amateurradio)
-- **[Shout Out to Palstar Engineering!](https://www.reddit.com/r/amateurradio/comments/1xg17bp/shout_out_to_palstar_engineering/)** (r/amateurradio)
-- **[ISO Anyone interested in letting a TV Show use their QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xg26yq/iso_anyone_interested_in_letting_a_tv_show_use/)** (r/amateurradio)
-- **[15m open world wide on SSB](https://www.reddit.com/r/amateurradio/comments/1xf7vd7/15m_open_world_wide_on_ssb/)** (r/amateurradio)
+- **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[QRP Labs is awesome](https://www.reddit.com/r/amateurradio/comments/1xgquzj/qrp_labs_is_awesome/)** (r/amateurradio)
+- **[Physical QSL etiquette a bit hard to adhere to](https://www.reddit.com/r/amateurradio/comments/1xgsyyl/physical_qsl_etiquette_a_bit_hard_to_adhere_to/)** (r/amateurradio)
+- **[Here's the video proof of the Central CT to Southern VT 2M simplex con...](https://www.reddit.com/r/amateurradio/comments/1xgerhz/heres_the_video_proof_of_the_central_ct_to/)** (r/amateurradio)
+- **[Buying a used Icom IC-7300. what should I check?](https://www.reddit.com/r/amateurradio/comments/1xgplwj/buying_a_used_icom_ic7300_what_should_i_check/)** (r/amateurradio)
+- **[A little Bluetooth SDR](https://www.reddit.com/r/amateurradio/comments/1xgwt75/a_little_bluetooth_sdr/)** (r/amateurradio)
+- **[POTA Radio](https://www.reddit.com/r/amateurradio/comments/1xgfvrv/pota_radio/)** (r/amateurradio)
+- **[Exam test in Québec](https://www.reddit.com/r/amateurradio/comments/1xgr893/exam_test_in_québec/)** (r/amateurradio)
+- **[QRPi 20m RPi WSPR module now open source](https://www.reddit.com/r/amateurradio/comments/1xgws7h/qrpi_20m_rpi_wspr_module_now_open_source/)** (r/amateurradio)
 
 ---
 

@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 26, 2026
+## October 27, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[TU5LB & TU5LL - Ivory Coast](https://forums.qrz.com/index.php?threads/tu5lb-tu5ll-ivory-coast.1007835/)** (QRZ Forums)
-- **[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)** (SWLing Post)
-- **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)** (OnAllBands)
+- **[Today in Ham Radio, October 27: 1920: KDKA Gets Its License](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-27-1920-kdka-gets-its-license.1007951/)** (QRZ Forums)
+- **[The times they are a-changin’](https://swling.com/blog/2026/10/the-times-they-are-a-changin/)** (SWLing Post)
+- **[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[TU5LB & TU5LL - Ivory Coast](https://forums.qrz.com/index.php?threads/tu5lb-tu5ll-ivory-coast.1007835/)**
+**[Today in Ham Radio, October 27: 1920: KDKA Gets Its License](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-27-1920-kdka-gets-its-license.1007951/)**
 
-**[ZD7LC – Saint Helena](https://forums.qrz.com/index.php?threads/zd7lc-%E2%80%93-saint-helena.1007834/)**
+**[KG8CX Ed Engleman - Silent Key](https://forums.qrz.com/index.php?threads/kg8cx-ed-engleman-silent-key.1007950/)**
 
-**[Today in Ham Radio, October 26: 1978: RS-1 and RS-2 Reach Orbit](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-26-1978-rs-1-and-rs-2-reach-orbit.1007829/)**
+**[National Animal Shelter Appreciation Week 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-1-7-november-2026-ses-by-k0dog.1007625/)**
 
-**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
+**[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
 
-**[FO/WE9G – Gambier Islands, OC-063](https://forums.qrz.com/index.php?threads/fo-we9g-%E2%80%93-gambier-islands-oc-063.1007820/)**
+**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
 
 ---
 
 ### SWLing Post
+
+**[The times they are a-changin’](https://swling.com/blog/2026/10/the-times-they-are-a-changin/)**
+> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned (after that clock changing exercise last week) for your shortwave radio/SDR listening pleasure. On Wednesday 28th October 2026, at 0200 hrs UTC on 9395 kHz. We bring you another edition of WHFM: Herman’s Radio & Record...
 
 **[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)**
 > Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas, I’m Giuseppe Morlè from Formia, in central Italy, on the Tyrrhenian Sea. This is a creation of mine from 2013, made entirely from recycled materials—it’s a manual antenna tuner for my QRP gear. Today, I pulled it off...
@@ -64,12 +67,15 @@
 **[tinySA Spectrum Analyzer and Signal Generator](https://swling.com/blog/2026/10/tinysa-spectrum-analyzer-and-signal-generator/)**
 > Reprinted with the kind permission of Ken Reitz, Editor The Spectrum Monitor (Originally published in Volume 13, Number 8, August 2026). by Robert Gulley K4PKM The tinySA Ultra is an upgraded version of the tinySA which came out a number of years ago [see “TSM Reviews: tinySA […]
 
-**[Radio Waves: IRCA Reprint Search, RRI’s Listener’s Day, and AM Radio Bill Faces Lobbying](https://swling.com/blog/2026/10/radio-waves-irca-reprint-search-rris-listeners-day-and-am-radio-bill-faces-lobbying/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Colin Newell and Paul Jamet for the following tips: DXer.ca IRCA Reprint...
-
 ---
 
 ### OnAllBands
+
+**[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)**
+> Including four new DX Engineering branded products to upgrade your station *** OnAllBands has been working hard to cover all the new products now available at DX Engineering. The influx […] The post New Amateur Radio Products for October 2026 at DX Engineering appeared first on OnAllBands.
+
+**[Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600 Series](https://www.onallbands.com/mastering-so2r-2bsiq-with-the-flexradio-6600-8600-series/)**
+> For serious contesters, the pursuit of rate and multiplier efficiency is a never-ending journey. Traditional Single-Operator Two-Radio (SO2R) setups often require a mountain of external hardware: complex bandpass filter matrices, […] The post Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600...
 
 **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)**
 > Well, we have a new version of POTA.app, and I must tell you, there’s a lot to like! A couple of months ago Tom Martin was a guest on the […] The post A First Look at the New POTA Website appeared first on OnAllBands.
@@ -79,12 +85,6 @@
 
 **[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)**
 > Don’t have the budget for a 100-foot tower and an OptiBeam OB17-4? Why not use a wire? Wire antennas are among the simplest, least expensive, and most forgiving ways to […] The post Wire Wizard: Choosing the Best Wire for Ham Radio Antennas appeared first on OnAllBands.
-
-**[New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More](https://www.onallbands.com/new-manufacturer-spotlight-aalogic-rotator-controller-mic-control-interface-more/)**
-> The list of amateur radio product manufacturers at DX Engineering continues to grow! At OnAllBands, we’re doing our best to keep up with the wave of equipment that has been […] The post New Manufacturer Spotlight: AALogic Rotator Controller, Mic Control Interface & More appeared first on OnAllBands.
-
-**[It’s All in the Cards! QSL Cards from Christmas Island, Soon to Be Activated by Young Hams](https://www.onallbands.com/its-all-in-the-cards-qsl-cards-from-christmas-island-soon-to-be-activated-by-young-hams/)**
-> In honor of the upcoming youth-focused, DX Engineering-sponsored VK9XY Christmas Island DXpedition (Nov. 16-Dec. 4, 2026), OnAllBands is featuring QSL cards from past activations of this remote Australian external territory […] The post It’s All in the Cards! QSL Cards from Christmas Island, Soon...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Learning the Code on a Double Paddle](https://etherham.com/learning-the-code-on-a-double-paddle/)**
+> Morse code has never quite landed for me, and the double paddle is the part I find hardest. So I bought an $89.98 Putikeeg paddle to learn both at once. Here’s what a non-CW operator can tell you about its build, adjustability, and feel. Source
+
 **[Linux: One Command — uptime](https://etherham.com/linux-one-command-uptime/)**
 > One command shows how long your AllStar node has been running, and whether it has restarted since its last updates. Source
 
@@ -121,9 +124,6 @@
 **[PHP2Shell and Your AllStar Node: A One-Command Check (CVE-2026-109618, CVE-2026-109619)](https://etherham.com/php2shell-allstar-node-check/)**
 > Two critical PHP flaws can let an attacker take over a web server without a password, and your AllStar node’s dashboard runs on PHP. Here’s how to check your ASL3 node in about a minute. Source
 
-**[Desired, Not Required: The FCC’s Advice to Carriers, for Hams](https://etherham.com/desired-not-required-fccs-advice-to-carriers-for-hams/)**
-> The FCC published a cybersecurity guide this week, and it wasn’t written for us. That’s exactly why I think hams should read it. The timing caught my eye. On October 21, the PHP project disclosed two critical flaws, now called PHP2Shell, that let an attacker run code on a web server without logging...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-26 17:09 UTC*
+*Generated: 2026-10-27 16:15 UTC*

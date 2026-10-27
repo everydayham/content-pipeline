@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:09:47.746564",
+  "updated": "2026-10-27T16:15:22.954151",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -7,14 +7,94 @@
   "posts": {
     "amateurradio": [
       {
-        "title": "Weekly Information / Mentor / New License Thread",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfw4zg/weekly_information_mentor_new_license_thread/",
-        "author": "/u/AutoModerator"
-      },
-      {
         "title": "Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.",
         "link": "https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/",
         "author": "/u/ItsBail"
+      },
+      {
+        "title": "Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related app/website postings",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/",
+        "author": "/u/kc2syk"
+      },
+      {
+        "title": "QRP Labs is awesome",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgquzj/qrp_labs_is_awesome/",
+        "author": "/u/eieiohmygad"
+      },
+      {
+        "title": "Physical QSL etiquette a bit hard to adhere to",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgsyyl/physical_qsl_etiquette_a_bit_hard_to_adhere_to/",
+        "author": "/u/ychen6"
+      },
+      {
+        "title": "Here's the video proof of the Central CT to Southern VT 2M simplex contact.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgerhz/heres_the_video_proof_of_the_central_ct_to/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "Buying a used Icom IC-7300. what should I check?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgplwj/buying_a_used_icom_ic7300_what_should_i_check/",
+        "author": "/u/No_Nectarine_4367"
+      },
+      {
+        "title": "A little Bluetooth SDR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgwt75/a_little_bluetooth_sdr/",
+        "author": "/u/No-Coat2826"
+      },
+      {
+        "title": "POTA Radio",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgfvrv/pota_radio/",
+        "author": "/u/dantodd"
+      },
+      {
+        "title": "Exam test in Qu\u00e9bec",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgr893/exam_test_in_qu\u00e9bec/",
+        "author": "/u/_abiop_"
+      },
+      {
+        "title": "QRPi 20m RPi WSPR module now open source",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgws7h/qrpi_20m_rpi_wspr_module_now_open_source/",
+        "author": "/u/rfsparkling"
+      },
+      {
+        "title": "bladeRF 2.0 micro A9 randomly failing to load FPGA",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgqrdw/bladerf_20_micro_a9_randomly_failing_to_load_fpga/",
+        "author": "/u/SuccessfulStreet2321"
+      },
+      {
+        "title": "Mounting a GRP pole to a wall",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgw557/mounting_a_grp_pole_to_a_wall/",
+        "author": "/u/arroos"
+      },
+      {
+        "title": "Looking to purchase the Tidradio H3-Plus, antenna questions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgvic1/looking_to_purchase_the_tidradio_h3plus_antenna/",
+        "author": "/u/ToNIX_"
+      },
+      {
+        "title": "Yaesu FT-710 \u2013 FT8 TX spurs / splatter solved (USB audio settings)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgjd8p/yaesu_ft710_ft8_tx_spurs_splatter_solved_usb/",
+        "author": "/u/Fast-Hair-4113"
+      },
+      {
+        "title": "Troubleshooting high mobile SWR",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgv6qw/troubleshooting_high_mobile_swr/",
+        "author": "/u/Single-Mechanic3954"
+      },
+      {
+        "title": "ICom ic-9700- Audio-comm headset ?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xguuva/icom_ic9700_audiocomm_headset/",
+        "author": "/u/Saxman31"
+      },
+      {
+        "title": "Quansheng UV-K5(8) vs. UV-K1 Mini Kong on Armel Firmware: Which One to Pick?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xguhe7/quansheng_uvk58_vs_uvk1_mini_kong_on_armel/",
+        "author": "/u/MrForest228"
+      },
+      {
+        "title": "Looking to Buy a Used Traquito Jetpack WSPR Tracker",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgt7f5/looking_to_buy_a_used_traquito_jetpack_wspr/",
+        "author": "/u/Siroki555"
       },
       {
         "title": "Best place to sell some radios?",
@@ -27,109 +107,29 @@
         "author": "/u/bplipschitz"
       },
       {
+        "title": "Converting 4:1 Balun to Unun",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgq7ml/converting_41_balun_to_unun/",
+        "author": "/u/FranzJosephWannabe"
+      },
+      {
+        "title": "Antenna amateur",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgumzy/antenna_amateur/",
+        "author": "/u/Massive-Theory-248"
+      },
+      {
+        "title": "What I learned today in ham radio\u2026",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xg4sdb/what_i_learned_today_in_ham_radio/",
+        "author": "/u/Roadkill1223"
+      },
+      {
+        "title": "Bag/case for the Icom IC-705",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xgm9zy/bagcase_for_the_icom_ic705/",
+        "author": "/u/DiskBytes"
+      },
+      {
         "title": "Idea for attaching an antenna to a painters pole",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xg0kds/idea_for_attaching_an_antenna_to_a_painters_pole/",
         "author": "/u/A1eafFa11s"
-      },
-      {
-        "title": "Buying My first Radio - Price Check",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfzxh3/buying_my_first_radio_price_check/",
-        "author": "/u/holeshotloss"
-      },
-      {
-        "title": "CQ WW DX SSB Map. My First Contest ever (Field Day is not a contest;)). Had so much fun! SO/A/AB/LP.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfiq2l/cq_ww_dx_ssb_map_my_first_contest_ever_field_day/",
-        "author": "/u/SnooPeppers2417"
-      },
-      {
-        "title": "Shout Out to Palstar Engineering!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xg17bp/shout_out_to_palstar_engineering/",
-        "author": "/u/David_13247"
-      },
-      {
-        "title": "ISO Anyone interested in letting a TV Show use their QSL Cards",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xg26yq/iso_anyone_interested_in_letting_a_tv_show_use/",
-        "author": "/u/SpringElegant1492"
-      },
-      {
-        "title": "15m open world wide on SSB",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xf7vd7/15m_open_world_wide_on_ssb/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "CW - learn the letters while driving",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfl3hb/cw_learn_the_letters_while_driving/",
-        "author": "/u/stealth270"
-      },
-      {
-        "title": "20m-40m fan dipole setup",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xf4skj/20m40m_fan_dipole_setup/",
-        "author": "/u/Two-Thirty-Two"
-      },
-      {
-        "title": "Begali Traveler",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfzj95/begali_traveler/",
-        "author": "/u/Neither-Light4735"
-      },
-      {
-        "title": "Ham radio skeds page",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfz296/ham_radio_skeds_page/",
-        "author": "/u/Immediate-Cause-5563"
-      },
-      {
-        "title": "Looking for New Digital Mode Testers",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfxphc/looking_for_new_digital_mode_testers/",
-        "author": "/u/slyticoon"
-      },
-      {
-        "title": "Added 80m to my vertical antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfcy4s/added_80m_to_my_vertical_antenna/",
-        "author": "/u/SummerRemote267"
-      },
-      {
-        "title": "Help me identify this antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xffd6g/help_me_identify_this_antenna/",
-        "author": "/u/seanacais"
-      },
-      {
-        "title": "Amateur Radio in UK Newspaper Resilience Planning Article",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xf6qpw/amateur_radio_in_uk_newspaper_resilience_planning/",
-        "author": "/u/AmateurRadioHF"
-      },
-      {
-        "title": "Adaptor Cable",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xft8ym/adaptor_cable/",
-        "author": "/u/ApprehensiveAir7948"
-      },
-      {
-        "title": "Spade fuses",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfopdy/spade_fuses/",
-        "author": "/u/noddy51"
-      },
-      {
-        "title": "How do you handle not being able to clearly hear a call sign from someone with",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xf6fao/how_do_you_handle_not_being_able_to_clearly_hear/",
-        "author": "/u/Jet_Fixxxer"
-      },
-      {
-        "title": "Can a horizontally-oriented screwdriver be used for NVIS?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xf97pg/can_a_horizontallyoriented_screwdriver_be_used/",
-        "author": "/u/NotThePopeProbably"
-      },
-      {
-        "title": "guys what is this pls help",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xfywq5/guys_what_is_this_pls_help/",
-        "author": "/u/Terrako_fan"
-      },
-      {
-        "title": "Insane 2m simplex pileup today from West Peak (W1/HH-004) - K1MFD Special Event",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xerp9a/insane_2m_simplex_pileup_today_from_west_peak/",
-        "author": "/u/adhdff"
-      },
-      {
-        "title": "Electrical wiring or fluorescent lighting removes AM interference?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xflk63/electrical_wiring_or_fluorescent_lighting_removes/",
-        "author": "/u/justjust000"
       }
     ]
   }

@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 27, 2026
+## October 28, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Today in Ham Radio, October 27: 1920: KDKA Gets Its License](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-27-1920-kdka-gets-its-license.1007951/)** (QRZ Forums)
-- **[The times they are a-changin’](https://swling.com/blog/2026/10/the-times-they-are-a-changin/)** (SWLing Post)
-- **[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)** (OnAllBands)
+- **[HF0PAS, Estación Antártica H. Arctowski](https://forums.qrz.com/index.php?threads/hf0pas-estaci%C3%B3n-ant%C3%A1rtica-h-arctowski.986328/)** (QRZ Forums)
+- **[Radio Waves: Wartime Radio Hub Linked to Scharnhorst Up For Sale, Thousands protest in Prague, and CAB Joins Radio Ready Auto Coalition](https://swling.com/blog/2026/10/radio-waves-wartime-radio-hub-linked-to-scharnhorst-up-for-sale-thousands-protest-in-prague-and-cab-joins-radio-ready-auto-coalition/)** (SWLing Post)
+- **[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,28 @@
 
 ### QRZ Forums
 
-**[Today in Ham Radio, October 27: 1920: KDKA Gets Its License](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-27-1920-kdka-gets-its-license.1007951/)**
-
-**[KG8CX Ed Engleman - Silent Key](https://forums.qrz.com/index.php?threads/kg8cx-ed-engleman-silent-key.1007950/)**
+**[HF0PAS, Estación Antártica H. Arctowski](https://forums.qrz.com/index.php?threads/hf0pas-estaci%C3%B3n-ant%C3%A1rtica-h-arctowski.986328/)**
 
 **[National Animal Shelter Appreciation Week 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-1-7-november-2026-ses-by-k0dog.1007625/)**
 
-**[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
+**[MY Personal Page](https://forums.qrz.com/index.php?threads/my-personal-page.1008032/)**
 
-**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
+**[3Y0L – Peter 1 Island DXpedition in 2027](https://forums.qrz.com/index.php?threads/3y0l-%E2%80%93-peter-1-island-dxpedition-in-2027.1008053/)**
+
+**[Today in Ham Radio, October 28: FT8 Leaves the Lab](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-28-ft8-leaves-the-lab.1008056/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: Wartime Radio Hub Linked to Scharnhorst Up For Sale, Thousands protest in Prague, and CAB Joins Radio Ready Auto Coalition](https://swling.com/blog/2026/10/radio-waves-wartime-radio-hub-linked-to-scharnhorst-up-for-sale-thousands-protest-in-prague-and-cab-joins-radio-ready-auto-coalition/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia and Dennis Dura for the following tips: Wartime radio hub...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Rádio 10 (October 28, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-october-28-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Rádio 10, Argentina: Milei took part in the operation to help Flávio Bolsonaro flee from Brazil to the U.S. Click here to view on YouTube.
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of NHK (October 27, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-nhk-october-27-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: “Local and American media outlets reported that right-wing Senator Flavio Bolsonaro, who lost in the runoff election for Brazil’s...
 
 **[The times they are a-changin’](https://swling.com/blog/2026/10/the-times-they-are-a-changin/)**
 > Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned (after that clock changing exercise last week) for your shortwave radio/SDR listening pleasure. On Wednesday 28th October 2026, at 0200 hrs UTC on 9395 kHz. We bring you another edition of WHFM: Herman’s Radio & Record...
@@ -58,18 +67,12 @@
 **[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)**
 > Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas, I’m Giuseppe Morlè from Formia, in central Italy, on the Tyrrhenian Sea. This is a creation of mine from 2013, made entirely from recycled materials—it’s a manual antenna tuner for my QRP gear. Today, I pulled it off...
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of Radio Taiwan International (October 20-23, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radio-taiwan-international-october-20-23-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Typhoon Champi, via Japan Meteorological Agency, Radio Taiwan International & Okinawa Fishery Radio Click here to view on YouTube.
-
-**[The Vietnam Wars – Connecting the Pieces Through Radio: A Personal Journey Part 2](https://swling.com/blog/2026/10/the-vietnam-wars-connecting-the-pieces-through-radio-a-personal-journey-part-2/)**
-> The Vietnam Wars Connecting the Pieces Through Radio: A Personal Journey by Don Moore Part Two Don’s traveling DX stories can be found in his book Tales of a Vagabond DXer [SWLing Post affiliate link]. If you’ve already read his book and enjoyed it, do Don a favor and leave a review on Amazon....
-
-**[tinySA Spectrum Analyzer and Signal Generator](https://swling.com/blog/2026/10/tinysa-spectrum-analyzer-and-signal-generator/)**
-> Reprinted with the kind permission of Ken Reitz, Editor The Spectrum Monitor (Originally published in Volume 13, Number 8, August 2026). by Robert Gulley K4PKM The tinySA Ultra is an upgraded version of the tinySA which came out a number of years ago [see “TSM Reviews: tinySA […]
-
 ---
 
 ### OnAllBands
+
+**[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)**
+> Most hams think of mobile operation as getting into a vehicle, turning on the radio, and heading down the road. Choosing portable operation means carrying a radio, battery, and antenna […] The post Pedestrian Mobile Ham Radio: You Can Take It With You appeared first on OnAllBands.
 
 **[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)**
 > Including four new DX Engineering branded products to upgrade your station *** OnAllBands has been working hard to cover all the new products now available at DX Engineering. The influx […] The post New Amateur Radio Products for October 2026 at DX Engineering appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)**
 > We recently asked readers of DX Engineering’s Facebook page a question that triggered a deluge of nearly 400 responses from hams who understand that a trusted piece of equipment is […] The post Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?...
-
-**[Wire Wizard: Choosing the Best Wire for Ham Radio Antennas](https://www.onallbands.com/wire-wizard-choosing-the-best-wire-for-ham-radio-antennas/)**
-> Don’t have the budget for a 100-foot tower and an OptiBeam OB17-4? Why not use a wire? Wire antennas are among the simplest, least expensive, and most forgiving ways to […] The post Wire Wizard: Choosing the Best Wire for Ham Radio Antennas appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,12 @@
 
 ### EtherHam
 
+**[Small Boxes, Big Doors](https://etherham.com/small-boxes-big-doors/)**
+> Two weeks of checking my own network showed a habit I didn’t know I had: treating small boxes as small risks. The hotspots and nodes in your shack are full computers, and a box that fits in your palm can open a door just as wide as a server. Source
+
+**[A Friendly ASL Node With Surprises Inside](https://etherham.com/a-friendly-asl-node-with-surprises-inside/)**
+> The G1LRO RLNZ2 is a compact, all-in-one AllStar node with good audio and two-button linking. A look under the lid turned up a few surprises, and the maker’s response turned out to be the best part of the story. Source
+
 **[Learning the Code on a Double Paddle](https://etherham.com/learning-the-code-on-a-double-paddle/)**
 > Morse code has never quite landed for me, and the double paddle is the part I find hardest. So I bought an $89.98 Putikeeg paddle to learn both at once. Here’s what a non-CW operator can tell you about its build, adjustability, and feel. Source
 
@@ -118,12 +124,6 @@
 **[One Cheap Switch, One Long-Overdue Cleanup](https://etherham.com/one-cheap-switch-one-long-overdue-cleanup/)**
 > It Started With a Question About a Switch I went shopping for a more secure network switch and ended up cleaning out years of forgotten openings in my home network. The switch might be the small part of the story! Most of my radio gear has migrated from my Portland apartment to the lake house […]...
 
-**[Linux: One Command — apt list - -upgradable](https://etherham.com/linux-one-command-apt-list-upgradable/)**
-> One command shows whether your AllStar node is behind on updates, and which of them are security fixes. It only looks, so you can’t break anything by running it. Source
-
-**[PHP2Shell and Your AllStar Node: A One-Command Check (CVE-2026-109618, CVE-2026-109619)](https://etherham.com/php2shell-allstar-node-check/)**
-> Two critical PHP flaws can let an attacker take over a web server without a password, and your AllStar node’s dashboard runs on PHP. Here’s how to check your ASL3 node in about a minute. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-27 16:15 UTC*
+*Generated: 2026-10-28 17:01 UTC*

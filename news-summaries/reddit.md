@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-28 17:01 UTC*
+*Last updated: 2026-10-29 17:20 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/ItsBail
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Vp8000 owners](https://www.reddit.com/r/amateurradio/comments/1xhhrly/vp8000_owners/)**
-by u/EstablishmentFit5282
+**3. [Trying out HF/FT8/G90 all at once for first time](https://www.reddit.com/r/amateurradio/comments/1xilqiy/trying_out_hfft8g90_all_at_once_for_first_time/)**
+by u/MantridDrones
 
-**4. [New mode?](https://www.reddit.com/r/amateurradio/comments/1xhtlw0/new_mode/)**
-by u/Signal_Criticism_789
+**4. [Why didn't I think of this sooner?](https://www.reddit.com/r/amateurradio/comments/1xi3z13/why_didnt_i_think_of_this_sooner/)**
+by u/SummerRemote267
 
-**5. [How du you get Signal Sticks in europe](https://www.reddit.com/r/amateurradio/comments/1xht1wi/how_du_you_get_signal_sticks_in_europe/)**
-by u/Valuable_Pause_143
+**5. [Fresh ham](https://www.reddit.com/r/amateurradio/comments/1xi8r2t/fresh_ham/)**
+by u/Spare-Elderberry9956
 
-**6. [Why DonOperators Get Upset??](https://www.reddit.com/r/amateurradio/comments/1xh5k47/why_donoperators_get_upset/)**
-by u/Last-Instruction-869
+**6. [Linux people, what desktop environment do you use?](https://www.reddit.com/r/amateurradio/comments/1xii349/linux_people_what_desktop_environment_do_you_use/)**
+by u/thesoulless78
 
-**7. [Help me get started with qrp HF again](https://www.reddit.com/r/amateurradio/comments/1xhrjll/help_me_get_started_with_qrp_hf_again/)**
-by u/gdesplin
+**7. [The Moon may be the next frontier for amateur radio. ARISS and AMSAT are explori...](https://www.reddit.com/r/amateurradio/comments/1xipf7f/the_moon_may_be_the_next_frontier_for_amateur/)**
+by u/N4BFR
 
-**8. [QRPi 20m RPi WSPR module now open source](https://www.reddit.com/r/amateurradio/comments/1xgws7h/qrpi_20m_rpi_wspr_module_now_open_source/)**
-by u/rfsparkling
+**8. [I'd love to see this guys radio setup...](https://www.reddit.com/r/amateurradio/comments/1xhxzwm/id_love_to_see_this_guys_radio_setup/)**
+by u/Potential_Cupcake
 
-**9. [Using a transverter when your rig has no transverter ports](https://www.reddit.com/r/amateurradio/comments/1xhf770/using_a_transverter_when_your_rig_has_no/)**
-by u/signofzeta
+**9. [Feld Hell from Hell on Halloween](https://www.reddit.com/r/amateurradio/comments/1xigb4h/feld_hell_from_hell_on_halloween/)**
+by u/coolmann73
 
-**10. [3D cosmos: navigate ~15k objects propagated live from published TLEs — worth rel...](https://www.reddit.com/r/amateurradio/comments/1xhr53x/3d_cosmos_navigate_15k_objects_propagated_live/)**
-by u/Hadenis84
+**10. [Schematic for bias tee](https://www.reddit.com/r/amateurradio/comments/1xinigd/schematic_for_bias_tee/)**
+by u/mrluca37
 
-**11. [Visit to WWV](https://www.reddit.com/r/amateurradio/comments/1xhonly/visit_to_wwv/)**
-by u/OliverDawgy
+**11. [I made a Morse trainer for Android, looking for honest feedback from people who ...](https://www.reddit.com/r/amateurradio/comments/1xiq2eh/i_made_a_morse_trainer_for_android_looking_for/)**
+by u/Electronic-Ad1847
 
-**12. [RadioWorldUSA.com - assuming is a scam site](https://www.reddit.com/r/amateurradio/comments/1xhcz69/radioworldusacom_assuming_is_a_scam_site/)**
-by u/d9jms
+**12. [Icom IC-7110 receiver sensitivity](https://www.reddit.com/r/amateurradio/comments/1xiq0c8/icom_ic7110_receiver_sensitivity/)**
+by u/tjcm
 
-**13. [Unmodified Retevis C62 decoding TMO TETRA](https://www.reddit.com/r/amateurradio/comments/1xgxqmj/unmodified_retevis_c62_decoding_tmo_tetra/)**
-by u/SP5WWP
+**13. [Resurrecting old equipment ain't for the faint of heart.](https://www.reddit.com/r/amateurradio/comments/1xi6onz/resurrecting_old_equipment_aint_for_the_faint_of/)**
+by u/pele4096
 
-**14. [QRP Labs is awesome](https://www.reddit.com/r/amateurradio/comments/1xgquzj/qrp_labs_is_awesome/)**
-by u/eieiohmygad
+**14. [Powerpoles, XT-60/90, or other](https://www.reddit.com/r/amateurradio/comments/1xipo0q/powerpoles_xt6090_or_other/)**
+by u/dantodd
 
-**15. [How many antennas are on your car?](https://www.reddit.com/r/amateurradio/comments/1xgx7wx/how_many_antennas_are_on_your_car/)**
-by u/NotThePopeProbably
+**15. [Will tech burnout, overstimulation, and AI bring people to ham radio?](https://www.reddit.com/r/amateurradio/comments/1xhu68z/will_tech_burnout_overstimulation_and_ai_bring/)**
+by u/MindOnTheMountain
 
 ---
 
@@ -61,14 +61,14 @@ by u/NotThePopeProbably
 
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[Vp8000 owners](https://www.reddit.com/r/amateurradio/comments/1xhhrly/vp8000_owners/)** (r/amateurradio)
-- **[New mode?](https://www.reddit.com/r/amateurradio/comments/1xhtlw0/new_mode/)** (r/amateurradio)
-- **[How du you get Signal Sticks in europe](https://www.reddit.com/r/amateurradio/comments/1xht1wi/how_du_you_get_signal_sticks_in_europe/)** (r/amateurradio)
-- **[Why DonOperators Get Upset??](https://www.reddit.com/r/amateurradio/comments/1xh5k47/why_donoperators_get_upset/)** (r/amateurradio)
-- **[Help me get started with qrp HF again](https://www.reddit.com/r/amateurradio/comments/1xhrjll/help_me_get_started_with_qrp_hf_again/)** (r/amateurradio)
-- **[QRPi 20m RPi WSPR module now open source](https://www.reddit.com/r/amateurradio/comments/1xgws7h/qrpi_20m_rpi_wspr_module_now_open_source/)** (r/amateurradio)
-- **[Using a transverter when your rig has no transverter ports](https://www.reddit.com/r/amateurradio/comments/1xhf770/using_a_transverter_when_your_rig_has_no/)** (r/amateurradio)
-- **[3D cosmos: navigate ~15k objects propagated live from published TLEs —...](https://www.reddit.com/r/amateurradio/comments/1xhr53x/3d_cosmos_navigate_15k_objects_propagated_live/)** (r/amateurradio)
+- **[Trying out HF/FT8/G90 all at once for first time](https://www.reddit.com/r/amateurradio/comments/1xilqiy/trying_out_hfft8g90_all_at_once_for_first_time/)** (r/amateurradio)
+- **[Why didn't I think of this sooner?](https://www.reddit.com/r/amateurradio/comments/1xi3z13/why_didnt_i_think_of_this_sooner/)** (r/amateurradio)
+- **[Fresh ham](https://www.reddit.com/r/amateurradio/comments/1xi8r2t/fresh_ham/)** (r/amateurradio)
+- **[Linux people, what desktop environment do you use?](https://www.reddit.com/r/amateurradio/comments/1xii349/linux_people_what_desktop_environment_do_you_use/)** (r/amateurradio)
+- **[The Moon may be the next frontier for amateur radio. ARISS and AMSAT a...](https://www.reddit.com/r/amateurradio/comments/1xipf7f/the_moon_may_be_the_next_frontier_for_amateur/)** (r/amateurradio)
+- **[I'd love to see this guys radio setup...](https://www.reddit.com/r/amateurradio/comments/1xhxzwm/id_love_to_see_this_guys_radio_setup/)** (r/amateurradio)
+- **[Feld Hell from Hell on Halloween](https://www.reddit.com/r/amateurradio/comments/1xigb4h/feld_hell_from_hell_on_halloween/)** (r/amateurradio)
+- **[Schematic for bias tee](https://www.reddit.com/r/amateurradio/comments/1xinigd/schematic_for_bias_tee/)** (r/amateurradio)
 
 ---
 

@@ -1,17 +1,17 @@
 # Amateur Radio News Summary
-## October 28, 2026
+## October 29, 2026
 
-*Auto-generated from 6 sources*
+*Auto-generated from 5 sources*
 
 ---
 
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[HF0PAS, Estación Antártica H. Arctowski](https://forums.qrz.com/index.php?threads/hf0pas-estaci%C3%B3n-ant%C3%A1rtica-h-arctowski.986328/)** (QRZ Forums)
-- **[Radio Waves: Wartime Radio Hub Linked to Scharnhorst Up For Sale, Thousands protest in Prague, and CAB Joins Radio Ready Auto Coalition](https://swling.com/blog/2026/10/radio-waves-wartime-radio-hub-linked-to-scharnhorst-up-for-sale-thousands-protest-in-prague-and-cab-joins-radio-ready-auto-coalition/)** (SWLing Post)
-- **[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)** (OnAllBands)
-- **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
+- **[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)** (QRZ Forums)
+- **[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)** (SWLing Post)
+- **[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)** (OnAllBands)
+- **[Weekly Report: October 28, 2026](https://etherham.com/weekly-report-october-28-2026/)** (EtherHam)
 
 ---
 
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[HF0PAS, Estación Antártica H. Arctowski](https://forums.qrz.com/index.php?threads/hf0pas-estaci%C3%B3n-ant%C3%A1rtica-h-arctowski.986328/)**
+**[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)**
 
-**[National Animal Shelter Appreciation Week 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-1-7-november-2026-ses-by-k0dog.1007625/)**
+**[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)**
+
+**[Blank lines](https://forums.qrz.com/index.php?threads/blank-lines.1008118/)**
+
+**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
 
 **[MY Personal Page](https://forums.qrz.com/index.php?threads/my-personal-page.1008032/)**
-
-**[3Y0L – Peter 1 Island DXpedition in 2027](https://forums.qrz.com/index.php?threads/3y0l-%E2%80%93-peter-1-island-dxpedition-in-2027.1008053/)**
-
-**[Today in Ham Radio, October 28: FT8 Leaves the Lab](https://forums.qrz.com/index.php?threads/today-in-ham-radio-october-28-ft8-leaves-the-lab.1008056/)**
 
 ---
 
 ### SWLing Post
+
+**[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)**
+> By Robert Gulley K4PKM I ran across this interesting article this morning dealing with AM radio’s role in emergencies from Nic Anderson, a former radio station general manager, in support of the The AM Radio for Every Vehicle Act before the Senate. When the Grid Goes Dark
+
+**[Video Short: Scientific American Tours WWV, Fort Collins](https://swling.com/blog/2026/10/video-short-scientific-american-tours-wwv-fort-collins/)**
+> Many thanks to SWLing Post contributor David Iurescia, who shares this YouTube short from Scientific American. So great to see our good friend, Matt Deutch: Click here to view on YouTube.
 
 **[Radio Waves: Wartime Radio Hub Linked to Scharnhorst Up For Sale, Thousands protest in Prague, and CAB Joins Radio Ready Auto Coalition](https://swling.com/blog/2026/10/radio-waves-wartime-radio-hub-linked-to-scharnhorst-up-for-sale-thousands-protest-in-prague-and-cab-joins-radio-ready-auto-coalition/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia and Dennis Dura for the following tips: Wartime radio hub...
@@ -61,15 +67,12 @@
 **[Carlos’ Illustrated Radio Listening Report and Recording of NHK (October 27, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-nhk-october-27-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: “Local and American media outlets reported that right-wing Senator Flavio Bolsonaro, who lost in the runoff election for Brazil’s...
 
-**[The times they are a-changin’](https://swling.com/blog/2026/10/the-times-they-are-a-changin/)**
-> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned (after that clock changing exercise last week) for your shortwave radio/SDR listening pleasure. On Wednesday 28th October 2026, at 0200 hrs UTC on 9395 kHz. We bring you another edition of WHFM: Herman’s Radio & Record...
-
-**[The €5 Scarrafone: Giuseppe’s Clever Recycled Antenna](https://swling.com/blog/2026/10/the-e5-scarrafone-giuseppes-clever-recycled-antenna/)**
-> Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas, I’m Giuseppe Morlè from Formia, in central Italy, on the Tyrrhenian Sea. This is a creation of mine from 2013, made entirely from recycled materials—it’s a manual antenna tuner for my QRP gear. Today, I pulled it off...
-
 ---
 
 ### OnAllBands
+
+**[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)**
+> I have been trying to figure out a way to increase some usage on our local repeaters. I have a 2 meter and a 70cm repeater fairly close by. I […] The post Extend Your Range—Getting in Touch with Cross-Band Repeat appeared first on OnAllBands.
 
 **[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)**
 > Most hams think of mobile operation as getting into a vehicle, turning on the radio, and heading down the road. Choosing portable operation means carrying a radio, battery, and antenna […] The post Pedestrian Mobile Ham Radio: You Can Take It With You appeared first on OnAllBands.
@@ -83,31 +86,12 @@
 **[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)**
 > Well, we have a new version of POTA.app, and I must tell you, there’s a lot to like! A couple of months ago Tom Martin was a guest on the […] The post A First Look at the New POTA Website appeared first on OnAllBands.
 
-**[Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?](https://www.onallbands.com/ham-radio-question-of-the-day-whats-the-one-piece-of-gear-in-your-shack-you-will-never-part-with/)**
-> We recently asked readers of DX Engineering’s Facebook page a question that triggered a deluge of nearly 400 responses from hams who understand that a trusted piece of equipment is […] The post Ham Radio Question of the Day: What’s the one piece of gear in your shack you will never part with?...
-
----
-
-### K0NR
-
-**[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)**
-> More from the trip: A Lewis & Clark POTA Journey | On The Trail | West Over Lemhi Pass | Arrived at the Pacific Ocean Joyce/K0JJW and I have wrapped up our trip along the Lewis and Clark National Historic Trail. We started at the Gateway Arch in St. Louis on September 5th and ended ... Read more...
-
-**[Arrived at the Pacific Ocean](https://www.k0nr.com/wordpress/2026/09/arrived-at-the-pacific-ocean/)**
-> We continued on our trip following the Lewis and Clark National Historical Trail, crossing Idaho into Washington and Oregon. And, yes, we arrived at the Pacific Ocean, near Astoria, OR, completing our adventure, in 25 days, driving 3725 miles. More on that in a future post. This section of the trip...
-
-**[West Over Lemhi Pass](https://www.k0nr.com/wordpress/2026/09/west-over-lemhi-pass/)**
-> We continued on our trip along the Lewis and Clark National Historical Trail, traveling across Montana and seeing many of the famous Lewis and Clark sites. We completed another 10 Parks On The Air activations along the way. The expedition took two different routes going westbound and coming back...
-
-**[On The Trail](https://www.k0nr.com/wordpress/2026/09/on-the-trail/)**
-> Our journey on the Lewis and Clark National Historical Trail started at the Gateway Arch National Park in St Louis. The arch is a well known structure and tourist attraction with excellent museum at its base, focused on the western expansion of the US. To be more precise, Camp Dubois is normally...
-
-**[A Lewis & Clark POTA Journey](https://www.k0nr.com/wordpress/2026/09/a-lewis-clark-pota-journey/)**
-> For years, Joyce/K0JJW and I have talked about following the Lewis and Clark National Historic Trail. The main idea is to do a road trip, starting in St Louis, near the Gateway Arch and follow 3,700 miles of river, prairie, mountain, and forest to the Pacific Ocean. (The official trail has been...
-
 ---
 
 ### EtherHam
+
+**[Weekly Report: October 28, 2026](https://etherham.com/weekly-report-october-28-2026/)**
+> This week: critical PHP flaws found with AI help, cheap phone and Wi-Fi chips turned into SDRs, open firmware for the Xiegu X6100 and Quansheng UV-K5, and ASL3 3.19.0-1. Plus band conditions, digital radio news and the busiest Groups.io topics for October 21 to 28. Source
 
 **[Small Boxes, Big Doors](https://etherham.com/small-boxes-big-doors/)**
 > Two weeks of checking my own network showed a habit I didn’t know I had: treating small boxes as small risks. The hotspots and nodes in your shack are full computers, and a box that fits in your palm can open a door just as wide as a server. Source
@@ -121,9 +105,6 @@
 **[Linux: One Command — uptime](https://etherham.com/linux-one-command-uptime/)**
 > One command shows how long your AllStar node has been running, and whether it has restarted since its last updates. Source
 
-**[One Cheap Switch, One Long-Overdue Cleanup](https://etherham.com/one-cheap-switch-one-long-overdue-cleanup/)**
-> It Started With a Question About a Switch I went shopping for a more secure network switch and ended up cleaning out years of forgotten openings in my home network. The switch might be the small part of the story! Most of my radio gear has migrated from my Portland apartment to the lake house […]...
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +113,4 @@
 
 ---
 
-*Generated: 2026-10-28 17:01 UTC*
+*Generated: 2026-10-29 17:20 UTC*

@@ -1,17 +1,17 @@
 # Amateur Radio News Summary
-## October 29, 2026
+## October 30, 2026
 
-*Auto-generated from 5 sources*
+*Auto-generated from 6 sources*
 
 ---
 
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)** (QRZ Forums)
-- **[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)** (SWLing Post)
-- **[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)** (OnAllBands)
-- **[Weekly Report: October 28, 2026](https://etherham.com/weekly-report-october-28-2026/)** (EtherHam)
+- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
+- **[Dan Visits the Great Lakes Museum in Kingston, Ontario](https://swling.com/blog/2026/10/dan-visits-the-great-lakes-museum-in-kingston-ontario/)** (SWLing Post)
+- **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)** (OnAllBands)
+- **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
 
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[Fifty Years, and Still Taking Check-Ins](https://forums.qrz.com/index.php?threads/fifty-years-and-still-taking-check-ins.1007668/)**
+**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
 
-**[9T0MD – Democratic Republic of the Congo](https://forums.qrz.com/index.php?threads/9t0md-%E2%80%93-democratic-republic-of-the-congo.984941/)**
+**[November 8th, 2026 Large Indoor Oshkosh, WI Hamfest in Less Than 2 Weeks Away...Amazing One!](https://forums.qrz.com/index.php?threads/november-8th-2026-large-indoor-oshkosh-wi-hamfest-in-less-than-2-weeks-away-amazing-one.1007893/)**
 
-**[Blank lines](https://forums.qrz.com/index.php?threads/blank-lines.1008118/)**
+**[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
 
-**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
+**[Contest Weekend - Pulling In 20m](https://forums.qrz.com/index.php?threads/contest-weekend-pulling-in-20m.1007881/)**
 
-**[MY Personal Page](https://forums.qrz.com/index.php?threads/my-personal-page.1008032/)**
+**[FW3GT, Wallis y Futuna](https://forums.qrz.com/index.php?threads/fw3gt-wallis-y-futuna.1004938/)**
 
 ---
 
 ### SWLing Post
+
+**[Dan Visits the Great Lakes Museum in Kingston, Ontario](https://swling.com/blog/2026/10/dan-visits-the-great-lakes-museum-in-kingston-ontario/)**
+> by Dan Greenall While visiting friends this past weekend in Kingston, Ontario, my wife and I paid a visit to the Great Lakes Museum where we had the good fortune to tour the S S Keewatin, a Titanic-era passenger ship that served the Great Lakes between 1908 and 1965. It is now a floating museum […]
 
 **[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)**
 > By Robert Gulley K4PKM I ran across this interesting article this morning dealing with AM radio’s role in emergencies from Nic Anderson, a former radio station general manager, in support of the The AM Radio for Every Vehicle Act before the Senate. When the Grid Goes Dark
@@ -64,12 +67,12 @@
 **[Carlos’ Illustrated Radio Listening Report and Recording of Rádio 10 (October 28, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-october-28-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Rádio 10, Argentina: Milei took part in the operation to help Flávio Bolsonaro flee from Brazil to the U.S. Click here to view on YouTube.
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of NHK (October 27, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-nhk-october-27-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: “Local and American media outlets reported that right-wing Senator Flavio Bolsonaro, who lost in the runoff election for Brazil’s...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)**
+> One of the high points of my ham radio year is the time spent in Pennsylvania with my friends. It’s a tradition that began 40 years ago with a tent […] The post Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party appeared first on OnAllBands.
 
 **[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)**
 > I have been trying to figure out a way to increase some usage on our local repeaters. I have a 2 meter and a 70cm repeater fairly close by. I […] The post Extend Your Range—Getting in Touch with Cross-Band Repeat appeared first on OnAllBands.
@@ -83,8 +86,24 @@
 **[Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600 Series](https://www.onallbands.com/mastering-so2r-2bsiq-with-the-flexradio-6600-8600-series/)**
 > For serious contesters, the pursuit of rate and multiplier efficiency is a never-ending journey. Traditional Single-Operator Two-Radio (SO2R) setups often require a mountain of external hardware: complex bandpass filter matrices, […] The post Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600...
 
-**[A First Look at the New POTA Website](https://www.onallbands.com/a-first-look-at-the-new-pota-website/)**
-> Well, we have a new version of POTA.app, and I must tell you, there’s a lot to like! A couple of months ago Tom Martin was a guest on the […] The post A First Look at the New POTA Website appeared first on OnAllBands.
+---
+
+### K0NR
+
+**[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)**
+> More from the trip: A Lewis & Clark POTA Journey | On The Trail | West Over Lemhi Pass | Arrived at the Pacific Ocean Joyce/K0JJW and I have wrapped up our trip along the Lewis and Clark National Historic Trail. We started at the Gateway Arch in St. Louis on September 5th and ended ... Read more...
+
+**[Arrived at the Pacific Ocean](https://www.k0nr.com/wordpress/2026/09/arrived-at-the-pacific-ocean/)**
+> We continued on our trip following the Lewis and Clark National Historical Trail, crossing Idaho into Washington and Oregon. And, yes, we arrived at the Pacific Ocean, near Astoria, OR, completing our adventure, in 25 days, driving 3725 miles. More on that in a future post. This section of the trip...
+
+**[West Over Lemhi Pass](https://www.k0nr.com/wordpress/2026/09/west-over-lemhi-pass/)**
+> We continued on our trip along the Lewis and Clark National Historical Trail, traveling across Montana and seeing many of the famous Lewis and Clark sites. We completed another 10 Parks On The Air activations along the way. The expedition took two different routes going westbound and coming back...
+
+**[On The Trail](https://www.k0nr.com/wordpress/2026/09/on-the-trail/)**
+> Our journey on the Lewis and Clark National Historical Trail started at the Gateway Arch National Park in St Louis. The arch is a well known structure and tourist attraction with excellent museum at its base, focused on the western expansion of the US. To be more precise, Camp Dubois is normally...
+
+**[A Lewis & Clark POTA Journey](https://www.k0nr.com/wordpress/2026/09/a-lewis-clark-pota-journey/)**
+> For years, Joyce/K0JJW and I have talked about following the Lewis and Clark National Historic Trail. The main idea is to do a road trip, starting in St Louis, near the Gateway Arch and follow 3,700 miles of river, prairie, mountain, and forest to the Pacific Ocean. (The official trail has been...
 
 ---
 
@@ -113,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-29 17:20 UTC*
+*Generated: 2026-10-30 16:57 UTC*

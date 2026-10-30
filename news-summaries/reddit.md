@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-29 17:20 UTC*
+*Last updated: 2026-10-30 16:57 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/ItsBail
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Trying out HF/FT8/G90 all at once for first time](https://www.reddit.com/r/amateurradio/comments/1xilqiy/trying_out_hfft8g90_all_at_once_for_first_time/)**
+**3. [Loop Antenna and Pebble in latest NZAAR magazine](https://www.reddit.com/r/amateurradio/comments/1xjfop7/loop_antenna_and_pebble_in_latest_nzaar_magazine/)**
+by u/AmateurRadioHF
+
+**4. [New to me FT817](https://www.reddit.com/r/amateurradio/comments/1xjhak0/new_to_me_ft817/)**
+by u/Stoneybaloney87
+
+**5. [Another Opportunity to Get on the Air with CW](https://www.reddit.com/r/amateurradio/comments/1xjcnpc/another_opportunity_to_get_on_the_air_with_cw/)**
+by u/InstrumentRated
+
+**6. [Taking up my grandfather's hobby](https://www.reddit.com/r/amateurradio/comments/1xj7fsq/taking_up_my_grandfathers_hobby/)**
+by u/Suspicious_Storm_746
+
+**7. [Random but what do you guys think about prepper hams?](https://www.reddit.com/r/amateurradio/comments/1xiulde/random_but_what_do_you_guys_think_about_prepper/)**
+by u/SlightRooster4581
+
+**8. [New Antenna at W8VCK](https://www.reddit.com/r/amateurradio/comments/1xiqti7/new_antenna_at_w8vck/)**
+by u/SeaMoose696969
+
+**9. [Trying out HF/FT8/G90 all at once for first time](https://www.reddit.com/r/amateurradio/comments/1xilqiy/trying_out_hfft8g90_all_at_once_for_first_time/)**
 by u/MantridDrones
 
-**4. [Why didn't I think of this sooner?](https://www.reddit.com/r/amateurradio/comments/1xi3z13/why_didnt_i_think_of_this_sooner/)**
+**10. [Standalone shack opinions](https://www.reddit.com/r/amateurradio/comments/1xj3ahc/standalone_shack_opinions/)**
+by u/LollieLoo
+
+**11. [Why didn't I think of this sooner?](https://www.reddit.com/r/amateurradio/comments/1xi3z13/why_didnt_i_think_of_this_sooner/)**
 by u/SummerRemote267
 
-**5. [Fresh ham](https://www.reddit.com/r/amateurradio/comments/1xi8r2t/fresh_ham/)**
-by u/Spare-Elderberry9956
-
-**6. [Linux people, what desktop environment do you use?](https://www.reddit.com/r/amateurradio/comments/1xii349/linux_people_what_desktop_environment_do_you_use/)**
-by u/thesoulless78
-
-**7. [The Moon may be the next frontier for amateur radio. ARISS and AMSAT are explori...](https://www.reddit.com/r/amateurradio/comments/1xipf7f/the_moon_may_be_the_next_frontier_for_amateur/)**
-by u/N4BFR
-
-**8. [I'd love to see this guys radio setup...](https://www.reddit.com/r/amateurradio/comments/1xhxzwm/id_love_to_see_this_guys_radio_setup/)**
-by u/Potential_Cupcake
-
-**9. [Feld Hell from Hell on Halloween](https://www.reddit.com/r/amateurradio/comments/1xigb4h/feld_hell_from_hell_on_halloween/)**
-by u/coolmann73
-
-**10. [Schematic for bias tee](https://www.reddit.com/r/amateurradio/comments/1xinigd/schematic_for_bias_tee/)**
-by u/mrluca37
-
-**11. [I made a Morse trainer for Android, looking for honest feedback from people who ...](https://www.reddit.com/r/amateurradio/comments/1xiq2eh/i_made_a_morse_trainer_for_android_looking_for/)**
-by u/Electronic-Ad1847
-
-**12. [Icom IC-7110 receiver sensitivity](https://www.reddit.com/r/amateurradio/comments/1xiq0c8/icom_ic7110_receiver_sensitivity/)**
-by u/tjcm
-
-**13. [Resurrecting old equipment ain't for the faint of heart.](https://www.reddit.com/r/amateurradio/comments/1xi6onz/resurrecting_old_equipment_aint_for_the_faint_of/)**
-by u/pele4096
-
-**14. [Powerpoles, XT-60/90, or other](https://www.reddit.com/r/amateurradio/comments/1xipo0q/powerpoles_xt6090_or_other/)**
+**12. [Powerpoles, XT-60/90, or other](https://www.reddit.com/r/amateurradio/comments/1xipo0q/powerpoles_xt6090_or_other/)**
 by u/dantodd
 
-**15. [Will tech burnout, overstimulation, and AI bring people to ham radio?](https://www.reddit.com/r/amateurradio/comments/1xhu68z/will_tech_burnout_overstimulation_and_ai_bring/)**
-by u/MindOnTheMountain
+**13. [Fresh ham](https://www.reddit.com/r/amateurradio/comments/1xi8r2t/fresh_ham/)**
+by u/Spare-Elderberry9956
+
+**14. [Antenna for broadcast tv reception - fully ai generated. Yes it works.](https://www.reddit.com/r/amateurradio/comments/1xji8bh/antenna_for_broadcast_tv_reception_fully_ai/)**
+by u/tech53
+
+**15. [I'm new here, please go easy](https://www.reddit.com/r/amateurradio/comments/1xjg55c/im_new_here_please_go_easy/)**
+by u/the_lurkmeister
 
 ---
 
@@ -61,14 +61,14 @@ by u/MindOnTheMountain
 
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[Loop Antenna and Pebble in latest NZAAR magazine](https://www.reddit.com/r/amateurradio/comments/1xjfop7/loop_antenna_and_pebble_in_latest_nzaar_magazine/)** (r/amateurradio)
+- **[New to me FT817](https://www.reddit.com/r/amateurradio/comments/1xjhak0/new_to_me_ft817/)** (r/amateurradio)
+- **[Another Opportunity to Get on the Air with CW](https://www.reddit.com/r/amateurradio/comments/1xjcnpc/another_opportunity_to_get_on_the_air_with_cw/)** (r/amateurradio)
+- **[Taking up my grandfather's hobby](https://www.reddit.com/r/amateurradio/comments/1xj7fsq/taking_up_my_grandfathers_hobby/)** (r/amateurradio)
+- **[Random but what do you guys think about prepper hams?](https://www.reddit.com/r/amateurradio/comments/1xiulde/random_but_what_do_you_guys_think_about_prepper/)** (r/amateurradio)
+- **[New Antenna at W8VCK](https://www.reddit.com/r/amateurradio/comments/1xiqti7/new_antenna_at_w8vck/)** (r/amateurradio)
 - **[Trying out HF/FT8/G90 all at once for first time](https://www.reddit.com/r/amateurradio/comments/1xilqiy/trying_out_hfft8g90_all_at_once_for_first_time/)** (r/amateurradio)
-- **[Why didn't I think of this sooner?](https://www.reddit.com/r/amateurradio/comments/1xi3z13/why_didnt_i_think_of_this_sooner/)** (r/amateurradio)
-- **[Fresh ham](https://www.reddit.com/r/amateurradio/comments/1xi8r2t/fresh_ham/)** (r/amateurradio)
-- **[Linux people, what desktop environment do you use?](https://www.reddit.com/r/amateurradio/comments/1xii349/linux_people_what_desktop_environment_do_you_use/)** (r/amateurradio)
-- **[The Moon may be the next frontier for amateur radio. ARISS and AMSAT a...](https://www.reddit.com/r/amateurradio/comments/1xipf7f/the_moon_may_be_the_next_frontier_for_amateur/)** (r/amateurradio)
-- **[I'd love to see this guys radio setup...](https://www.reddit.com/r/amateurradio/comments/1xhxzwm/id_love_to_see_this_guys_radio_setup/)** (r/amateurradio)
-- **[Feld Hell from Hell on Halloween](https://www.reddit.com/r/amateurradio/comments/1xigb4h/feld_hell_from_hell_on_halloween/)** (r/amateurradio)
-- **[Schematic for bias tee](https://www.reddit.com/r/amateurradio/comments/1xinigd/schematic_for_bias_tee/)** (r/amateurradio)
+- **[Standalone shack opinions](https://www.reddit.com/r/amateurradio/comments/1xj3ahc/standalone_shack_opinions/)** (r/amateurradio)
 
 ---
 

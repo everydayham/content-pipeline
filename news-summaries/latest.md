@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 30, 2026
+## October 31, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
-- **[Dan Visits the Great Lakes Museum in Kingston, Ontario](https://swling.com/blog/2026/10/dan-visits-the-great-lakes-museum-in-kingston-ontario/)** (SWLing Post)
+- **[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)** (QRZ Forums)
+- **[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)** (SWLing Post)
 - **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,34 +38,34 @@
 
 ### QRZ Forums
 
-**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
-
-**[November 8th, 2026 Large Indoor Oshkosh, WI Hamfest in Less Than 2 Weeks Away...Amazing One!](https://forums.qrz.com/index.php?threads/november-8th-2026-large-indoor-oshkosh-wi-hamfest-in-less-than-2-weeks-away-amazing-one.1007893/)**
-
 **[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
+
+**[V5/G0RIB – Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-%E2%80%93-namibia.1008314/)**
 
 **[Contest Weekend - Pulling In 20m](https://forums.qrz.com/index.php?threads/contest-weekend-pulling-in-20m.1007881/)**
 
-**[FW3GT, Wallis y Futuna](https://forums.qrz.com/index.php?threads/fw3gt-wallis-y-futuna.1004938/)**
+**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
+
+**[VK9WX, Willis Island](https://forums.qrz.com/index.php?threads/vk9wx-willis-island.840568/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia, Dan Van Hoy, and Tracy Wood for the following tips: EWTN...
+
+**[Mark Spots Radios in the Korean Zombie Film Peninsula](https://swling.com/blog/2026/10/mark-spots-radios-in-the-korean-zombie-film-peninsula/)**
+> Many thanks to SWLing Post contributor Mark Hirst, who writes: I spotted this collection of radios being used by survivors of a zombie outbreak in the Korean movie Peninsula. A follow-on from ‘Train to Busan’, the survivors are in contact with the outside world using the foreground radio, which...
+
+**[RNEI’s Halloween Special 2026](https://swling.com/blog/2026/10/rneis-halloween-special-2026/)**
+> Many thanks to SWLing Post contributor Roseanna, with Radio Northern Europe International, who shares the following announcement: Hei alle, This weekend (Saturday the 31st of October 2026) Radio Northern Europe International invites all of you to tune into a rather spooky broadcast at 2000 UTC on...
 
 **[Dan Visits the Great Lakes Museum in Kingston, Ontario](https://swling.com/blog/2026/10/dan-visits-the-great-lakes-museum-in-kingston-ontario/)**
 > by Dan Greenall While visiting friends this past weekend in Kingston, Ontario, my wife and I paid a visit to the Great Lakes Museum where we had the good fortune to tour the S S Keewatin, a Titanic-era passenger ship that served the Great Lakes between 1908 and 1965. It is now a floating museum […]
 
 **[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)**
 > By Robert Gulley K4PKM I ran across this interesting article this morning dealing with AM radio’s role in emergencies from Nic Anderson, a former radio station general manager, in support of the The AM Radio for Every Vehicle Act before the Senate. When the Grid Goes Dark
-
-**[Video Short: Scientific American Tours WWV, Fort Collins](https://swling.com/blog/2026/10/video-short-scientific-american-tours-wwv-fort-collins/)**
-> Many thanks to SWLing Post contributor David Iurescia, who shares this YouTube short from Scientific American. So great to see our good friend, Matt Deutch: Click here to view on YouTube.
-
-**[Radio Waves: Wartime Radio Hub Linked to Scharnhorst Up For Sale, Thousands protest in Prague, and CAB Joins Radio Ready Auto Coalition](https://swling.com/blog/2026/10/radio-waves-wartime-radio-hub-linked-to-scharnhorst-up-for-sale-thousands-protest-in-prague-and-cab-joins-radio-ready-auto-coalition/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia and Dennis Dura for the following tips: Wartime radio hub...
-
-**[Carlos’ Illustrated Radio Listening Report and Recording of Rádio 10 (October 28, 2026)](https://swling.com/blog/2026/10/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-october-28-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Rádio 10, Argentina: Milei took part in the operation to help Flávio Bolsonaro flee from Brazil to the U.S. Click here to view on YouTube.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[The Door I Forgot to Lock on My M17 Reflector](https://etherham.com/the-door-i-forgot-to-lock-on-my-m17-reflector/)**
+> My M17 reflector had been taking 3,888 password guesses a day, and root could log in with a password. Here’s how I locked it down in one morning, in an order that couldn’t lock me out, and the three places I tripped along the way. Source
+
 **[Weekly Report: October 28, 2026](https://etherham.com/weekly-report-october-28-2026/)**
 > This week: critical PHP flaws found with AI help, cheap phone and Wi-Fi chips turned into SDRs, open firmware for the Xiegu X6100 and Quansheng UV-K5, and ASL3 3.19.0-1. Plus band conditions, digital radio news and the busiest Groups.io topics for October 21 to 28. Source
 
@@ -121,9 +124,6 @@
 **[Learning the Code on a Double Paddle](https://etherham.com/learning-the-code-on-a-double-paddle/)**
 > Morse code has never quite landed for me, and the double paddle is the part I find hardest. So I bought an $89.98 Putikeeg paddle to learn both at once. Here’s what a non-CW operator can tell you about its build, adjustability, and feel. Source
 
-**[Linux: One Command — uptime](https://etherham.com/linux-one-command-uptime/)**
-> One command shows how long your AllStar node has been running, and whether it has restarted since its last updates. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-30 16:57 UTC*
+*Generated: 2026-10-31 15:58 UTC*

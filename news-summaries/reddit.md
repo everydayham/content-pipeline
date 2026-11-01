@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-10-31 15:58 UTC*
+*Last updated: 2026-11-01 17:01 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/ItsBail
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Discovering as a new amateur!](https://www.reddit.com/r/amateurradio/comments/1xk0pfl/discovering_as_a_new_amateur/)**
-by u/_abiop_
+**3. [Let's Start Again: Xiegu G90 is the best $399 I have ever spent for a 20 watt Mu...](https://www.reddit.com/r/amateurradio/comments/1xkxdfa/lets_start_again_xiegu_g90_is_the_best_399_i_have/)**
+by u/Bolt_EV
 
-**4. [Headset recommendations](https://www.reddit.com/r/amateurradio/comments/1xkbyd6/headset_recommendations/)**
-by u/rmesic
+**4. [111' Random Wire](https://www.reddit.com/r/amateurradio/comments/1xkrfed/111_random_wire/)**
+by u/electragician
 
-**5. [Power supply help](https://www.reddit.com/r/amateurradio/comments/1xjm8mw/power_supply_help/)**
-by u/CryLast1889
+**5. [Update on the vertical tripod](https://www.reddit.com/r/amateurradio/comments/1xl4g0u/update_on_the_vertical_tripod/)**
+by u/EstablishmentBusy300
 
-**6. [New to me FT817](https://www.reddit.com/r/amateurradio/comments/1xjhak0/new_to_me_ft817/)**
-by u/Stoneybaloney87
+**6. [Shot my Xiegu G90 doing FT8](https://www.reddit.com/r/amateurradio/comments/1xknnk9/shot_my_xiegu_g90_doing_ft8/)**
+by u/skinnierbones
 
-**7. [Loop Antenna and Pebble in latest NZAAR magazine](https://www.reddit.com/r/amateurradio/comments/1xjfop7/loop_antenna_and_pebble_in_latest_nzaar_magazine/)**
-by u/AmateurRadioHF
+**7. [FrostWave SWL SSB Contest](https://www.reddit.com/r/amateurradio/comments/1xl4onx/frostwave_swl_ssb_contest/)**
+by u/SunRevolutionary2838
 
-**8. [DP4400e Firmware (Codeplug recover error)](https://www.reddit.com/r/amateurradio/comments/1xkdrer/dp4400e_firmware_codeplug_recover_error/)**
-by u/Feisty-Juggernaut421
+**8. [How do I make a barebones radio from scratch](https://www.reddit.com/r/amateurradio/comments/1xktgoz/how_do_i_make_a_barebones_radio_from_scratch/)**
+by u/Cellargrowth
 
-**9. [Asking for CW learning tips](https://www.reddit.com/r/amateurradio/comments/1xkdnwd/asking_for_cw_learning_tips/)**
+**9. [1/4 Wave 2Meter Antenna Build Year In Review](https://www.reddit.com/r/amateurradio/comments/1xkvw11/14_wave_2meter_antenna_build_year_in_review/)**
+by u/-kf4rws-
+
+**10. [New portable setup.](https://www.reddit.com/r/amateurradio/comments/1xko1fz/new_portable_setup/)**
+by u/Old-Jacket-7673
+
+**11. [Low Transmit Audio on a Cheap HT. Upgrade Advice Needed](https://www.reddit.com/r/amateurradio/comments/1xl650o/low_transmit_audio_on_a_cheap_ht_upgrade_advice/)**
+by u/Waltee_Berg
+
+**12. [Listening to radio using a blade of grass. Can anyone explain what the hell is g...](https://www.reddit.com/r/amateurradio/comments/1xkfv1i/listening_to_radio_using_a_blade_of_grass_can/)**
+by u/deadboxcat
+
+**13. [Balun/unun theory question](https://www.reddit.com/r/amateurradio/comments/1xklfr0/balununun_theory_question/)**
+by u/Vader7071
+
+**14. [W0AEZ battery upgrade for the Kenwood TH-D75](https://www.reddit.com/r/amateurradio/comments/1xkgkxc/w0aez_battery_upgrade_for_the_kenwood_thd75/)**
+by u/TheSmurfSwag
+
+**15. [Asking for CW learning tips](https://www.reddit.com/r/amateurradio/comments/1xkdnwd/asking_for_cw_learning_tips/)**
 by u/iwantmisty
-
-**10. [New free digital mode desktop app](https://www.reddit.com/r/amateurradio/comments/1xkdf3m/new_free_digital_mode_desktop_app/)**
-by u/Far-Reception-5288
-
-**11. [Our new ham-radio horror audio drama SILENT KEY is streaming now!](https://www.reddit.com/r/amateurradio/comments/1xjllmu/our_new_hamradio_horror_audio_drama_silent_key_is/)**
-by u/HereWeArc
-
-**12. [OK To Use Deep-Cycle Marine Battery As Backup Battery For Power Supply?](https://www.reddit.com/r/amateurradio/comments/1xk0brn/ok_to_use_deepcycle_marine_battery_as_backup/)**
-by u/Hey19TheCuervoGold
-
-**13. [FTM-400XDR Body Install Location 2021 Honda Civic](https://www.reddit.com/r/amateurradio/comments/1xk9xce/ftm400xdr_body_install_location_2021_honda_civic/)**
-by u/DahBizomb
-
-**14. [POTACAT logging: How to remove "JTCAT FT*" from comments](https://www.reddit.com/r/amateurradio/comments/1xk9g7u/potacat_logging_how_to_remove_jtcat_ft_from/)**
-by u/DcxW3
-
-**15. [Looking to Get Into Ham Radio — Any Advice, Affordable Equipment, or Spare Radio...](https://www.reddit.com/r/amateurradio/comments/1xjp98t/looking_to_get_into_ham_radio_any_advice/)**
-by u/OC_Khaleesi
 
 ---
 
@@ -61,14 +61,14 @@ by u/OC_Khaleesi
 
 - **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[Discovering as a new amateur!](https://www.reddit.com/r/amateurradio/comments/1xk0pfl/discovering_as_a_new_amateur/)** (r/amateurradio)
-- **[Headset recommendations](https://www.reddit.com/r/amateurradio/comments/1xkbyd6/headset_recommendations/)** (r/amateurradio)
-- **[Power supply help](https://www.reddit.com/r/amateurradio/comments/1xjm8mw/power_supply_help/)** (r/amateurradio)
-- **[New to me FT817](https://www.reddit.com/r/amateurradio/comments/1xjhak0/new_to_me_ft817/)** (r/amateurradio)
-- **[Loop Antenna and Pebble in latest NZAAR magazine](https://www.reddit.com/r/amateurradio/comments/1xjfop7/loop_antenna_and_pebble_in_latest_nzaar_magazine/)** (r/amateurradio)
-- **[DP4400e Firmware (Codeplug recover error)](https://www.reddit.com/r/amateurradio/comments/1xkdrer/dp4400e_firmware_codeplug_recover_error/)** (r/amateurradio)
-- **[Asking for CW learning tips](https://www.reddit.com/r/amateurradio/comments/1xkdnwd/asking_for_cw_learning_tips/)** (r/amateurradio)
-- **[New free digital mode desktop app](https://www.reddit.com/r/amateurradio/comments/1xkdf3m/new_free_digital_mode_desktop_app/)** (r/amateurradio)
+- **[Let's Start Again: Xiegu G90 is the best $399 I have ever spent for a ...](https://www.reddit.com/r/amateurradio/comments/1xkxdfa/lets_start_again_xiegu_g90_is_the_best_399_i_have/)** (r/amateurradio)
+- **[111' Random Wire](https://www.reddit.com/r/amateurradio/comments/1xkrfed/111_random_wire/)** (r/amateurradio)
+- **[Update on the vertical tripod](https://www.reddit.com/r/amateurradio/comments/1xl4g0u/update_on_the_vertical_tripod/)** (r/amateurradio)
+- **[Shot my Xiegu G90 doing FT8](https://www.reddit.com/r/amateurradio/comments/1xknnk9/shot_my_xiegu_g90_doing_ft8/)** (r/amateurradio)
+- **[FrostWave SWL SSB Contest](https://www.reddit.com/r/amateurradio/comments/1xl4onx/frostwave_swl_ssb_contest/)** (r/amateurradio)
+- **[How do I make a barebones radio from scratch](https://www.reddit.com/r/amateurradio/comments/1xktgoz/how_do_i_make_a_barebones_radio_from_scratch/)** (r/amateurradio)
+- **[1/4 Wave 2Meter Antenna Build Year In Review](https://www.reddit.com/r/amateurradio/comments/1xkvw11/14_wave_2meter_antenna_build_year_in_review/)** (r/amateurradio)
+- **[New portable setup.](https://www.reddit.com/r/amateurradio/comments/1xko1fz/new_portable_setup/)** (r/amateurradio)
 
 ---
 

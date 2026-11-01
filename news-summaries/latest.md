@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## October 31, 2026
+## November 01, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,7 +8,7 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)** (QRZ Forums)
+- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
 - **[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)** (SWLing Post)
 - **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
+**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
+
+**[TC3DIS SPECIAL EVENT (Slient Power Project) December 3,2026 Only UTC 08:00-13:00](https://forums.qrz.com/index.php?threads/tc3dis-special-event-slient-power-project-december-3-2026-only-utc-08-00-13-00.1008420/)**
+
 **[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
 
-**[V5/G0RIB – Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-%E2%80%93-namibia.1008314/)**
+**[VP0SG – South Georgia Island](https://forums.qrz.com/index.php?threads/vp0sg-%E2%80%93-south-georgia-island.954968/)**
 
-**[Contest Weekend - Pulling In 20m](https://forums.qrz.com/index.php?threads/contest-weekend-pulling-in-20m.1007881/)**
-
-**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
-
-**[VK9WX, Willis Island](https://forums.qrz.com/index.php?threads/vk9wx-willis-island.840568/)**
+**[Deborah Clark,KC0KET,Passed away, 4 May, 2026](https://forums.qrz.com/index.php?threads/deborah-clark-kc0ket-passed-away-4-may-2026.1008336/)**
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-10-31 15:58 UTC*
+*Generated: 2026-11-01 17:01 UTC*

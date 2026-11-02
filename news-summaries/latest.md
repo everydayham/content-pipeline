@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 01, 2026
+## November 02, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)** (QRZ Forums)
+- **[New Expedition EG9MM](https://forums.qrz.com/index.php?threads/new-expedition-eg9mm.1001910/)** (QRZ Forums)
 - **[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)** (SWLing Post)
-- **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)** (OnAllBands)
+- **[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[Speaking Out After Their WRTC 2026 Disqualification](https://forums.qrz.com/index.php?threads/speaking-out-after-their-wrtc-2026-disqualification.1004350/)**
+**[New Expedition EG9MM](https://forums.qrz.com/index.php?threads/new-expedition-eg9mm.1001910/)**
 
-**[TC3DIS SPECIAL EVENT (Slient Power Project) December 3,2026 Only UTC 08:00-13:00](https://forums.qrz.com/index.php?threads/tc3dis-special-event-slient-power-project-december-3-2026-only-utc-08-00-13-00.1008420/)**
+**[Ham Radio Memories](https://forums.qrz.com/index.php?threads/ham-radio-memories.1008547/)**
 
-**[Night of the Living Dead Halloween Special Event Stations](https://forums.qrz.com/index.php?threads/night-of-the-living-dead-halloween-special-event-stations.1006898/)**
+**[The B-26 winter shortwave schedule is live and fully updated!](https://forums.qrz.com/index.php?threads/the-b-26-winter-shortwave-schedule-is-live-and-fully-updated.1008532/)**
 
-**[VP0SG – South Georgia Island](https://forums.qrz.com/index.php?threads/vp0sg-%E2%80%93-south-georgia-island.954968/)**
+**[National Animal Shelter Appreciation Week 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-1-7-november-2026-ses-by-k0dog.1007625/)**
 
-**[Deborah Clark,KC0KET,Passed away, 4 May, 2026](https://forums.qrz.com/index.php?threads/deborah-clark-kc0ket-passed-away-4-may-2026.1008336/)**
+**[UHF EME anyone](https://forums.qrz.com/index.php?threads/uhf-eme-anyone.1008536/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)**
+> In this season of giving thanks, OnAllBands would like to give a major shout out to the amateur radio innovators who are constantly looking for ways to enhance our enjoyment […] The post New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More appeared first on...
+
 **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)**
 > One of the high points of my ham radio year is the time spent in Pennsylvania with my friends. It’s a tradition that began 40 years ago with a tent […] The post Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party appeared first on OnAllBands.
 
@@ -82,9 +85,6 @@
 
 **[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)**
 > Including four new DX Engineering branded products to upgrade your station *** OnAllBands has been working hard to cover all the new products now available at DX Engineering. The influx […] The post New Amateur Radio Products for October 2026 at DX Engineering appeared first on OnAllBands.
-
-**[Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600 Series](https://www.onallbands.com/mastering-so2r-2bsiq-with-the-flexradio-6600-8600-series/)**
-> For serious contesters, the pursuit of rate and multiplier efficiency is a never-ending journey. Traditional Single-Operator Two-Radio (SO2R) setups often require a mountain of external hardware: complex bandpass filter matrices, […] The post Mastering SO2R & 2BSIQ with the FlexRadio 6600 & 8600...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Holes in the Cheese: How Much Does Old Tech Expose You?](https://etherham.com/holes-in-the-cheese-how-much-does-old-tech-expose-you/)**
+> Old tech on your home network is like Swiss cheese: every device has holes, and trouble gets through when the holes line up. Here’s how to find the old gear in your house and shack, check whether it still gets updates, and decide whether to update, replace, isolate or retire it. Source
+
 **[The Door I Forgot to Lock on My M17 Reflector](https://etherham.com/the-door-i-forgot-to-lock-on-my-m17-reflector/)**
 > My M17 reflector had been taking 3,888 password guesses a day, and root could log in with a password. Here’s how I locked it down in one morning, in an order that couldn’t lock me out, and the three places I tripped along the way. Source
 
@@ -121,9 +124,6 @@
 **[A Friendly ASL Node With Surprises Inside](https://etherham.com/a-friendly-asl-node-with-surprises-inside/)**
 > The G1LRO RLNZ2 is a compact, all-in-one AllStar node with good audio and two-button linking. A look under the lid turned up a few surprises, and the maker’s response turned out to be the best part of the story. Source
 
-**[Learning the Code on a Double Paddle](https://etherham.com/learning-the-code-on-a-double-paddle/)**
-> Morse code has never quite landed for me, and the double paddle is the part I find hardest. So I bought an $89.98 Putikeeg paddle to learn both at once. Here’s what a non-CW operator can tell you about its build, adjustability, and feel. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-01 17:01 UTC*
+*Generated: 2026-11-02 20:39 UTC*

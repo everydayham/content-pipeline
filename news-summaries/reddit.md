@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-01 17:01 UTC*
+*Last updated: 2026-11-02 20:39 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/Services.](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)**
-by u/ItsBail
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)**
+by u/AutoModerator
 
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Let's Start Again: Xiegu G90 is the best $399 I have ever spent for a 20 watt Mu...](https://www.reddit.com/r/amateurradio/comments/1xkxdfa/lets_start_again_xiegu_g90_is_the_best_399_i_have/)**
+**3. [Fire Hydrants on tne Air](https://www.reddit.com/r/amateurradio/comments/1xm383k/fire_hydrants_on_tne_air/)**
+by u/greenwoody2018
+
+**4. [Zeus SDR Software](https://www.reddit.com/r/amateurradio/comments/1xm2q0q/zeus_sdr_software/)**
+by u/Creepy_Mycologist656
+
+**5. [Is this a good UHF/VHF vehicle setup?](https://www.reddit.com/r/amateurradio/comments/1xlh029/is_this_a_good_uhfvhf_vehicle_setup/)**
+by u/yjay14
+
+**6. [I swear they keep appearing on their own](https://www.reddit.com/r/amateurradio/comments/1xlk0sk/i_swear_they_keep_appearing_on_their_own/)**
+by u/ButterscotchWitty870
+
+**7. [I built a disc Yagi, 17dB at 20 deg beam width as best calculated and then compa...](https://www.reddit.com/r/amateurradio/comments/1xls5b5/i_built_a_disc_yagi_17db_at_20_deg_beam_width_as/)**
+by u/DeepSpace1420MHZ
+
+**8. [Any Black Friday deals?](https://www.reddit.com/r/amateurradio/comments/1xm3gpn/any_black_friday_deals/)**
+by u/The_Tony_Iommi
+
+**9. [Recommendations for a cable stripper?](https://www.reddit.com/r/amateurradio/comments/1xm3hty/recommendations_for_a_cable_stripper/)**
+by u/pipea
+
+**10. [Persistent Receive RFI (White Noise) on 120V-Converted Heathkit SB-200 — Diagnos...](https://www.reddit.com/r/amateurradio/comments/1xly9ns/persistent_receive_rfi_white_noise_on/)**
+by u/AcceptableDecision2
+
+**11. [My setup](https://www.reddit.com/r/amateurradio/comments/1xli78e/my_setup/)**
+by u/JaceShort
+
+**12. [does a PRC-77 style stud adapter (to BNC) exist?](https://www.reddit.com/r/amateurradio/comments/1xm3w7d/does_a_prc77_style_stud_adapter_to_bnc_exist/)**
+by u/Ok_Fuel_6416
+
+**13. [Massillon ARC Hamfest at MAPS Air Force museum](https://www.reddit.com/r/amateurradio/comments/1xli0jh/massillon_arc_hamfest_at_maps_air_force_museum/)**
+by u/rhjohn523
+
+**14. [Anyone else notice last Fridays “Laugh Machine” on Bill Maher’s Real Time](https://www.reddit.com/r/amateurradio/comments/1xlh2ly/anyone_else_notice_last_fridays_laugh_machine_on/)**
 by u/Bolt_EV
 
-**4. [111' Random Wire](https://www.reddit.com/r/amateurradio/comments/1xkrfed/111_random_wire/)**
-by u/electragician
-
-**5. [Update on the vertical tripod](https://www.reddit.com/r/amateurradio/comments/1xl4g0u/update_on_the_vertical_tripod/)**
-by u/EstablishmentBusy300
-
-**6. [Shot my Xiegu G90 doing FT8](https://www.reddit.com/r/amateurradio/comments/1xknnk9/shot_my_xiegu_g90_doing_ft8/)**
-by u/skinnierbones
-
-**7. [FrostWave SWL SSB Contest](https://www.reddit.com/r/amateurradio/comments/1xl4onx/frostwave_swl_ssb_contest/)**
-by u/SunRevolutionary2838
-
-**8. [How do I make a barebones radio from scratch](https://www.reddit.com/r/amateurradio/comments/1xktgoz/how_do_i_make_a_barebones_radio_from_scratch/)**
-by u/Cellargrowth
-
-**9. [1/4 Wave 2Meter Antenna Build Year In Review](https://www.reddit.com/r/amateurradio/comments/1xkvw11/14_wave_2meter_antenna_build_year_in_review/)**
-by u/-kf4rws-
-
-**10. [New portable setup.](https://www.reddit.com/r/amateurradio/comments/1xko1fz/new_portable_setup/)**
-by u/Old-Jacket-7673
-
-**11. [Low Transmit Audio on a Cheap HT. Upgrade Advice Needed](https://www.reddit.com/r/amateurradio/comments/1xl650o/low_transmit_audio_on_a_cheap_ht_upgrade_advice/)**
-by u/Waltee_Berg
-
-**12. [Listening to radio using a blade of grass. Can anyone explain what the hell is g...](https://www.reddit.com/r/amateurradio/comments/1xkfv1i/listening_to_radio_using_a_blade_of_grass_can/)**
-by u/deadboxcat
-
-**13. [Balun/unun theory question](https://www.reddit.com/r/amateurradio/comments/1xklfr0/balununun_theory_question/)**
-by u/Vader7071
-
-**14. [W0AEZ battery upgrade for the Kenwood TH-D75](https://www.reddit.com/r/amateurradio/comments/1xkgkxc/w0aez_battery_upgrade_for_the_kenwood_thd75/)**
-by u/TheSmurfSwag
-
-**15. [Asking for CW learning tips](https://www.reddit.com/r/amateurradio/comments/1xkdnwd/asking_for_cw_learning_tips/)**
-by u/iwantmisty
+**15. [TYT TH-7900 * Help With Disabling Dual Watch Feature *](https://www.reddit.com/r/amateurradio/comments/1xlqejg/tyt_th7900_help_with_disabling_dual_watch_feature/)**
+by u/AggravatingPiccolo15
 
 ---
 
@@ -59,16 +59,16 @@ by u/iwantmisty
 
 *Latest posts across both subreddits:*
 
-- **[Updating Rule #2 To Include The Sharing Of AI Assisted Apps/Websites/S...](https://www.reddit.com/r/amateurradio/comments/1t6n8xk/updating_rule_2_to_include_the_sharing_of_ai/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[Let's Start Again: Xiegu G90 is the best $399 I have ever spent for a ...](https://www.reddit.com/r/amateurradio/comments/1xkxdfa/lets_start_again_xiegu_g90_is_the_best_399_i_have/)** (r/amateurradio)
-- **[111' Random Wire](https://www.reddit.com/r/amateurradio/comments/1xkrfed/111_random_wire/)** (r/amateurradio)
-- **[Update on the vertical tripod](https://www.reddit.com/r/amateurradio/comments/1xl4g0u/update_on_the_vertical_tripod/)** (r/amateurradio)
-- **[Shot my Xiegu G90 doing FT8](https://www.reddit.com/r/amateurradio/comments/1xknnk9/shot_my_xiegu_g90_doing_ft8/)** (r/amateurradio)
-- **[FrostWave SWL SSB Contest](https://www.reddit.com/r/amateurradio/comments/1xl4onx/frostwave_swl_ssb_contest/)** (r/amateurradio)
-- **[How do I make a barebones radio from scratch](https://www.reddit.com/r/amateurradio/comments/1xktgoz/how_do_i_make_a_barebones_radio_from_scratch/)** (r/amateurradio)
-- **[1/4 Wave 2Meter Antenna Build Year In Review](https://www.reddit.com/r/amateurradio/comments/1xkvw11/14_wave_2meter_antenna_build_year_in_review/)** (r/amateurradio)
-- **[New portable setup.](https://www.reddit.com/r/amateurradio/comments/1xko1fz/new_portable_setup/)** (r/amateurradio)
+- **[Fire Hydrants on tne Air](https://www.reddit.com/r/amateurradio/comments/1xm383k/fire_hydrants_on_tne_air/)** (r/amateurradio)
+- **[Zeus SDR Software](https://www.reddit.com/r/amateurradio/comments/1xm2q0q/zeus_sdr_software/)** (r/amateurradio)
+- **[Is this a good UHF/VHF vehicle setup?](https://www.reddit.com/r/amateurradio/comments/1xlh029/is_this_a_good_uhfvhf_vehicle_setup/)** (r/amateurradio)
+- **[I swear they keep appearing on their own](https://www.reddit.com/r/amateurradio/comments/1xlk0sk/i_swear_they_keep_appearing_on_their_own/)** (r/amateurradio)
+- **[I built a disc Yagi, 17dB at 20 deg beam width as best calculated and ...](https://www.reddit.com/r/amateurradio/comments/1xls5b5/i_built_a_disc_yagi_17db_at_20_deg_beam_width_as/)** (r/amateurradio)
+- **[Any Black Friday deals?](https://www.reddit.com/r/amateurradio/comments/1xm3gpn/any_black_friday_deals/)** (r/amateurradio)
+- **[Recommendations for a cable stripper?](https://www.reddit.com/r/amateurradio/comments/1xm3hty/recommendations_for_a_cable_stripper/)** (r/amateurradio)
+- **[Persistent Receive RFI (White Noise) on 120V-Converted Heathkit SB-200...](https://www.reddit.com/r/amateurradio/comments/1xly9ns/persistent_receive_rfi_white_noise_on/)** (r/amateurradio)
 
 ---
 

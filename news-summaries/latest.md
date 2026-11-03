@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 02, 2026
+## November 03, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[New Expedition EG9MM](https://forums.qrz.com/index.php?threads/new-expedition-eg9mm.1001910/)** (QRZ Forums)
-- **[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)** (SWLing Post)
-- **[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)** (OnAllBands)
+- **[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)** (QRZ Forums)
+- **[Radio Waves: Beidweiler Longwave Transmitter Masts Demolition and South Pacific Cyclone Watch Service Activated](https://swling.com/blog/2026/11/radio-waves-beidweiler-longwave-transmitter-masts-demolition-and-south-pacific-cyclone-watch-service-activated/)** (SWLing Post)
+- **[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[New Expedition EG9MM](https://forums.qrz.com/index.php?threads/new-expedition-eg9mm.1001910/)**
+**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
 
-**[Ham Radio Memories](https://forums.qrz.com/index.php?threads/ham-radio-memories.1008547/)**
+**[HEDY LAMARR DAY 2026](https://forums.qrz.com/index.php?threads/hedy-lamarr-day-2026.1008394/)**
 
-**[The B-26 winter shortwave schedule is live and fully updated!](https://forums.qrz.com/index.php?threads/the-b-26-winter-shortwave-schedule-is-live-and-fully-updated.1008532/)**
+**[5Z4GO, Wasini Is. /AF-067](https://forums.qrz.com/index.php?threads/5z4go-wasini-is-af-067.1006761/)**
 
-**[National Animal Shelter Appreciation Week 1-7 November 2026 SES by K0DOG](https://forums.qrz.com/index.php?threads/national-animal-shelter-appreciation-week-1-7-november-2026-ses-by-k0dog.1007625/)**
+**[WPAFW 2026 Radio Event Station](https://forums.qrz.com/index.php?threads/wpafw-2026-radio-event-station.1004253/)**
 
-**[UHF EME anyone](https://forums.qrz.com/index.php?threads/uhf-eme-anyone.1008536/)**
+**[Analog/Digital Net](https://forums.qrz.com/index.php?threads/analog-digital-net.1008626/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: Beidweiler Longwave Transmitter Masts Demolition and South Pacific Cyclone Watch Service Activated](https://swling.com/blog/2026/11/radio-waves-beidweiler-longwave-transmitter-masts-demolition-and-south-pacific-cyclone-watch-service-activated/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Edward (EI9LE) and David Iurescia for the following tips: Livestream on...
+
+**[The fab five do the fab four](https://swling.com/blog/2026/11/the-fab-five-do-the-fab-four/)**
+> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned for your shortwave radio/SDR listening pleasure. On Wednesday 4th November 2026, at 0300 hrs UTC on 9395 kHz via WRMI we head back to the Shortwave Music Library to research the most obscure pop and library tunes hiding...
 
 **[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia, Dan Van Hoy, and Tracy Wood for the following tips: EWTN...
@@ -61,15 +67,12 @@
 **[RNEI’s Halloween Special 2026](https://swling.com/blog/2026/10/rneis-halloween-special-2026/)**
 > Many thanks to SWLing Post contributor Roseanna, with Radio Northern Europe International, who shares the following announcement: Hei alle, This weekend (Saturday the 31st of October 2026) Radio Northern Europe International invites all of you to tune into a rather spooky broadcast at 2000 UTC on...
 
-**[Dan Visits the Great Lakes Museum in Kingston, Ontario](https://swling.com/blog/2026/10/dan-visits-the-great-lakes-museum-in-kingston-ontario/)**
-> by Dan Greenall While visiting friends this past weekend in Kingston, Ontario, my wife and I paid a visit to the Great Lakes Museum where we had the good fortune to tour the S S Keewatin, a Titanic-era passenger ship that served the Great Lakes between 1908 and 1965. It is now a floating museum […]
-
-**[When the Grid Goes Dark, AM Radio Is America’s Last Line of Defense](https://swling.com/blog/2026/10/when-the-grid-goes-dark-am-radio-is-americas-last-line-of-defense/)**
-> By Robert Gulley K4PKM I ran across this interesting article this morning dealing with AM radio’s role in emergencies from Nic Anderson, a former radio station general manager, in support of the The AM Radio for Every Vehicle Act before the Senate. When the Grid Goes Dark
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)**
+> This past summer (July 25-Aug. 1, 2026), I had the opportunity to attend the YOTA (Youngsters On The Air) camp held in Wagrain, Austria. I’ve attended YOTA camps in IARU […] The post Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp appeared first on OnAllBands.
 
 **[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)**
 > In this season of giving thanks, OnAllBands would like to give a major shout out to the amateur radio innovators who are constantly looking for ways to enhance our enjoyment […] The post New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More appeared first on...
@@ -82,9 +85,6 @@
 
 **[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)**
 > Most hams think of mobile operation as getting into a vehicle, turning on the radio, and heading down the road. Choosing portable operation means carrying a radio, battery, and antenna […] The post Pedestrian Mobile Ham Radio: You Can Take It With You appeared first on OnAllBands.
-
-**[New Amateur Radio Products for October 2026 at DX Engineering](https://www.onallbands.com/new-amateur-radio-products-for-october-2026-at-dx-engineering/)**
-> Including four new DX Engineering branded products to upgrade your station *** OnAllBands has been working hard to cover all the new products now available at DX Engineering. The influx […] The post New Amateur Radio Products for October 2026 at DX Engineering appeared first on OnAllBands.
 
 ---
 
@@ -109,20 +109,20 @@
 
 ### EtherHam
 
+**[Linux: One Command — ssh](https://etherham.com/linux-one-command-ssh/)**
+> One command gets you from your Windows PC or Mac onto any Linux machine on your network: a node, a hotspot, a Raspberry Pi, or a server. Source
+
+**[Linux: One Command — df -h](https://etherham.com/linux-one-command-df-h/)**
+> One command shows how full your node’s SD card or drive is, so you can catch a full disk before it causes trouble. Source
+
+**[Omada ES208GP: A Small PoE Switch That Can Fence Off Your Boxes](https://etherham.com/omada-es208gp-fence-off-your-boxes/)**
+> A botnet of 1.3 million factory-infected TV boxes made me look hard at my own network. Here’s my hands-on review of the $70 Omada ES208GP PoE switch, what its port isolation can and can’t fence off, and the Wi-Fi gap I found at home. Source
+
 **[Holes in the Cheese: How Much Does Old Tech Expose You?](https://etherham.com/holes-in-the-cheese-how-much-does-old-tech-expose-you/)**
 > Old tech on your home network is like Swiss cheese: every device has holes, and trouble gets through when the holes line up. Here’s how to find the old gear in your house and shack, check whether it still gets updates, and decide whether to update, replace, isolate or retire it. Source
 
 **[The Door I Forgot to Lock on My M17 Reflector](https://etherham.com/the-door-i-forgot-to-lock-on-my-m17-reflector/)**
 > My M17 reflector had been taking 3,888 password guesses a day, and root could log in with a password. Here’s how I locked it down in one morning, in an order that couldn’t lock me out, and the three places I tripped along the way. Source
-
-**[Weekly Report: October 28, 2026](https://etherham.com/weekly-report-october-28-2026/)**
-> This week: critical PHP flaws found with AI help, cheap phone and Wi-Fi chips turned into SDRs, open firmware for the Xiegu X6100 and Quansheng UV-K5, and ASL3 3.19.0-1. Plus band conditions, digital radio news and the busiest Groups.io topics for October 21 to 28. Source
-
-**[Small Boxes, Big Doors](https://etherham.com/small-boxes-big-doors/)**
-> Two weeks of checking my own network showed a habit I didn’t know I had: treating small boxes as small risks. The hotspots and nodes in your shack are full computers, and a box that fits in your palm can open a door just as wide as a server. Source
-
-**[A Friendly ASL Node With Surprises Inside](https://etherham.com/a-friendly-asl-node-with-surprises-inside/)**
-> The G1LRO RLNZ2 is a compact, all-in-one AllStar node with good audio and two-button linking. A look under the lid turned up a few surprises, and the maker’s response turned out to be the best part of the story. Source
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-02 20:39 UTC*
+*Generated: 2026-11-03 18:15 UTC*

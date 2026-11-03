@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-02 20:39 UTC*
+*Last updated: 2026-11-03 18:15 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Fire Hydrants on tne Air](https://www.reddit.com/r/amateurradio/comments/1xm383k/fire_hydrants_on_tne_air/)**
+**3. [Icom ID-5200 Install in Mustang Mach-E EV](https://www.reddit.com/r/amateurradio/comments/1xmw0yj/icom_id5200_install_in_mustang_mache_ev/)**
+by u/mwaldron
+
+**4. [Kids walkie talkie.....](https://www.reddit.com/r/amateurradio/comments/1xmrlj0/kids_walkie_talkie/)**
+by u/Bobobob2018
+
+**5. [This YT channel screams AI--am I tripping or am I right?](https://www.reddit.com/r/amateurradio/comments/1xmxl70/this_yt_channel_screams_aiam_i_tripping_or_am_i/)**
+by u/SmokinDeist
+
+**6. [DIY radio rails](https://www.reddit.com/r/amateurradio/comments/1xmuq2x/diy_radio_rails/)**
+by u/lsbully
+
+**7. [Am I crazy? Yaesu FTX1F or X6200 for first radio.](https://www.reddit.com/r/amateurradio/comments/1xmyc9e/am_i_crazy_yaesu_ftx1f_or_x6200_for_first_radio/)**
+by u/DearKick
+
+**8. [Fire Hydrants on tne Air](https://www.reddit.com/r/amateurradio/comments/1xm383k/fire_hydrants_on_tne_air/)**
 by u/greenwoody2018
 
-**4. [Zeus SDR Software](https://www.reddit.com/r/amateurradio/comments/1xm2q0q/zeus_sdr_software/)**
-by u/Creepy_Mycologist656
+**9. [I've inherited my grandfathers equipment and may need some guidance on antenna c...](https://www.reddit.com/r/amateurradio/comments/1xmelin/ive_inherited_my_grandfathers_equipment_and_may/)**
+by u/brenthonydantano
 
-**5. [Is this a good UHF/VHF vehicle setup?](https://www.reddit.com/r/amateurradio/comments/1xlh029/is_this_a_good_uhfvhf_vehicle_setup/)**
-by u/yjay14
+**10. [Cherokee XJ owners? Help with antenna pick](https://www.reddit.com/r/amateurradio/comments/1xmw8vr/cherokee_xj_owners_help_with_antenna_pick/)**
+by u/Ride1226
 
-**6. [I swear they keep appearing on their own](https://www.reddit.com/r/amateurradio/comments/1xlk0sk/i_swear_they_keep_appearing_on_their_own/)**
-by u/ButterscotchWitty870
+**11. [Will I regret doing CQWW for my first CW contest?](https://www.reddit.com/r/amateurradio/comments/1xmif7w/will_i_regret_doing_cqww_for_my_first_cw_contest/)**
+by u/CoastalRadio
 
-**7. [I built a disc Yagi, 17dB at 20 deg beam width as best calculated and then compa...](https://www.reddit.com/r/amateurradio/comments/1xls5b5/i_built_a_disc_yagi_17db_at_20_deg_beam_width_as/)**
-by u/DeepSpace1420MHZ
+**12. [Winlink over HF](https://www.reddit.com/r/amateurradio/comments/1xmrafs/winlink_over_hf/)**
+by u/Jester471
 
-**8. [Any Black Friday deals?](https://www.reddit.com/r/amateurradio/comments/1xm3gpn/any_black_friday_deals/)**
-by u/The_Tony_Iommi
+**13. [An absolute fire hazard but it works](https://www.reddit.com/r/amateurradio/comments/1xmn5bd/an_absolute_fire_hazard_but_it_works/)**
+by u/Own_Valuable_6131
 
-**9. [Recommendations for a cable stripper?](https://www.reddit.com/r/amateurradio/comments/1xm3hty/recommendations_for_a_cable_stripper/)**
-by u/pipea
+**14. [So Crimpers…](https://www.reddit.com/r/amateurradio/comments/1xmsugk/so_crimpers/)**
+by u/Delicious_Vast3726
 
-**10. [Persistent Receive RFI (White Noise) on 120V-Converted Heathkit SB-200 — Diagnos...](https://www.reddit.com/r/amateurradio/comments/1xly9ns/persistent_receive_rfi_white_noise_on/)**
-by u/AcceptableDecision2
-
-**11. [My setup](https://www.reddit.com/r/amateurradio/comments/1xli78e/my_setup/)**
-by u/JaceShort
-
-**12. [does a PRC-77 style stud adapter (to BNC) exist?](https://www.reddit.com/r/amateurradio/comments/1xm3w7d/does_a_prc77_style_stud_adapter_to_bnc_exist/)**
-by u/Ok_Fuel_6416
-
-**13. [Massillon ARC Hamfest at MAPS Air Force museum](https://www.reddit.com/r/amateurradio/comments/1xli0jh/massillon_arc_hamfest_at_maps_air_force_museum/)**
-by u/rhjohn523
-
-**14. [Anyone else notice last Fridays “Laugh Machine” on Bill Maher’s Real Time](https://www.reddit.com/r/amateurradio/comments/1xlh2ly/anyone_else_notice_last_fridays_laugh_machine_on/)**
-by u/Bolt_EV
-
-**15. [TYT TH-7900 * Help With Disabling Dual Watch Feature *](https://www.reddit.com/r/amateurradio/comments/1xlqejg/tyt_th7900_help_with_disabling_dual_watch_feature/)**
-by u/AggravatingPiccolo15
+**15. [Third times a charm because the bots kind of bad... Is this a decent setup and w...](https://www.reddit.com/r/amateurradio/comments/1xmy8i6/third_times_a_charm_because_the_bots_kind_of_bad/)**
+by u/FinnishDaily
 
 ---
 
@@ -61,14 +61,14 @@ by u/AggravatingPiccolo15
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[Icom ID-5200 Install in Mustang Mach-E EV](https://www.reddit.com/r/amateurradio/comments/1xmw0yj/icom_id5200_install_in_mustang_mache_ev/)** (r/amateurradio)
+- **[Kids walkie talkie.....](https://www.reddit.com/r/amateurradio/comments/1xmrlj0/kids_walkie_talkie/)** (r/amateurradio)
+- **[This YT channel screams AI--am I tripping or am I right?](https://www.reddit.com/r/amateurradio/comments/1xmxl70/this_yt_channel_screams_aiam_i_tripping_or_am_i/)** (r/amateurradio)
+- **[DIY radio rails](https://www.reddit.com/r/amateurradio/comments/1xmuq2x/diy_radio_rails/)** (r/amateurradio)
+- **[Am I crazy? Yaesu FTX1F or X6200 for first radio.](https://www.reddit.com/r/amateurradio/comments/1xmyc9e/am_i_crazy_yaesu_ftx1f_or_x6200_for_first_radio/)** (r/amateurradio)
 - **[Fire Hydrants on tne Air](https://www.reddit.com/r/amateurradio/comments/1xm383k/fire_hydrants_on_tne_air/)** (r/amateurradio)
-- **[Zeus SDR Software](https://www.reddit.com/r/amateurradio/comments/1xm2q0q/zeus_sdr_software/)** (r/amateurradio)
-- **[Is this a good UHF/VHF vehicle setup?](https://www.reddit.com/r/amateurradio/comments/1xlh029/is_this_a_good_uhfvhf_vehicle_setup/)** (r/amateurradio)
-- **[I swear they keep appearing on their own](https://www.reddit.com/r/amateurradio/comments/1xlk0sk/i_swear_they_keep_appearing_on_their_own/)** (r/amateurradio)
-- **[I built a disc Yagi, 17dB at 20 deg beam width as best calculated and ...](https://www.reddit.com/r/amateurradio/comments/1xls5b5/i_built_a_disc_yagi_17db_at_20_deg_beam_width_as/)** (r/amateurradio)
-- **[Any Black Friday deals?](https://www.reddit.com/r/amateurradio/comments/1xm3gpn/any_black_friday_deals/)** (r/amateurradio)
-- **[Recommendations for a cable stripper?](https://www.reddit.com/r/amateurradio/comments/1xm3hty/recommendations_for_a_cable_stripper/)** (r/amateurradio)
-- **[Persistent Receive RFI (White Noise) on 120V-Converted Heathkit SB-200...](https://www.reddit.com/r/amateurradio/comments/1xly9ns/persistent_receive_rfi_white_noise_on/)** (r/amateurradio)
+- **[I've inherited my grandfathers equipment and may need some guidance on...](https://www.reddit.com/r/amateurradio/comments/1xmelin/ive_inherited_my_grandfathers_equipment_and_may/)** (r/amateurradio)
+- **[Cherokee XJ owners? Help with antenna pick](https://www.reddit.com/r/amateurradio/comments/1xmw8vr/cherokee_xj_owners_help_with_antenna_pick/)** (r/amateurradio)
 
 ---
 

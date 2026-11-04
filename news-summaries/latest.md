@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 03, 2026
+## November 04, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)** (QRZ Forums)
-- **[Radio Waves: Beidweiler Longwave Transmitter Masts Demolition and South Pacific Cyclone Watch Service Activated](https://swling.com/blog/2026/11/radio-waves-beidweiler-longwave-transmitter-masts-demolition-and-south-pacific-cyclone-watch-service-activated/)** (SWLing Post)
-- **[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)** (OnAllBands)
+- **[V5/G0RIB, Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-namibia.1005234/)** (QRZ Forums)
+- **[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)** (SWLing Post)
+- **[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
+**[V5/G0RIB, Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-namibia.1005234/)**
 
-**[HEDY LAMARR DAY 2026](https://forums.qrz.com/index.php?threads/hedy-lamarr-day-2026.1008394/)**
+**[E51MWA, North Cook](https://forums.qrz.com/index.php?threads/e51mwa-north-cook.960956/)**
 
-**[5Z4GO, Wasini Is. /AF-067](https://forums.qrz.com/index.php?threads/5z4go-wasini-is-af-067.1006761/)**
+**[V26JJ - Antigua](https://forums.qrz.com/index.php?threads/v26jj-antigua.997498/)**
 
-**[WPAFW 2026 Radio Event Station](https://forums.qrz.com/index.php?threads/wpafw-2026-radio-event-station.1004253/)**
+**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
 
-**[Analog/Digital Net](https://forums.qrz.com/index.php?threads/analog-digital-net.1008626/)**
+**[IZ3XGH Daniele leso](https://forums.qrz.com/index.php?threads/iz3xgh-daniele-leso.1008704/)**
 
 ---
 
 ### SWLing Post
+
+**[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)**
+> Earlier this year, I was contacted by Elecevolve, the producer of the unique MLite-880 that I consider to be the best portable to emerge in years, about another receiver they planned to release called the RT-880x. The test unit that arrived here carries the name “Rayture” which was unfamiliar to...
 
 **[Radio Waves: Beidweiler Longwave Transmitter Masts Demolition and South Pacific Cyclone Watch Service Activated](https://swling.com/blog/2026/11/radio-waves-beidweiler-longwave-transmitter-masts-demolition-and-south-pacific-cyclone-watch-service-activated/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Edward (EI9LE) and David Iurescia for the following tips: Livestream on...
@@ -64,12 +67,12 @@
 **[Mark Spots Radios in the Korean Zombie Film Peninsula](https://swling.com/blog/2026/10/mark-spots-radios-in-the-korean-zombie-film-peninsula/)**
 > Many thanks to SWLing Post contributor Mark Hirst, who writes: I spotted this collection of radios being used by survivors of a zombie outbreak in the Korean movie Peninsula. A follow-on from ‘Train to Busan’, the survivors are in contact with the outside world using the foreground radio, which...
 
-**[RNEI’s Halloween Special 2026](https://swling.com/blog/2026/10/rneis-halloween-special-2026/)**
-> Many thanks to SWLing Post contributor Roseanna, with Radio Northern Europe International, who shares the following announcement: Hei alle, This weekend (Saturday the 31st of October 2026) Radio Northern Europe International invites all of you to tune into a rather spooky broadcast at 2000 UTC on...
-
 ---
 
 ### OnAllBands
+
+**[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)**
+> Need a sure-fire, one-stop solution to easily handle all your ham radio holiday gift-shopping needs? You’ll find presents for every operator on your list at DX Engineering. Choose from transceivers, […] The post DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards appeared first on...
 
 **[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)**
 > This past summer (July 25-Aug. 1, 2026), I had the opportunity to attend the YOTA (Youngsters On The Air) camp held in Wagrain, Austria. I’ve attended YOTA camps in IARU […] The post Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)**
 > I have been trying to figure out a way to increase some usage on our local repeaters. I have a 2 meter and a 70cm repeater fairly close by. I […] The post Extend Your Range—Getting in Touch with Cross-Band Repeat appeared first on OnAllBands.
-
-**[Pedestrian Mobile Ham Radio: You Can Take It With You](https://www.onallbands.com/pedestrian-mobile-ham-radio-you-can-take-it-with-you/)**
-> Most hams think of mobile operation as getting into a vehicle, turning on the radio, and heading down the road. Choosing portable operation means carrying a radio, battery, and antenna […] The post Pedestrian Mobile Ham Radio: You Can Take It With You appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-03 18:15 UTC*
+*Generated: 2026-11-04 18:30 UTC*

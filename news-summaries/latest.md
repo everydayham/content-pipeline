@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 04, 2026
+## November 05, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[V5/G0RIB, Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-namibia.1005234/)** (QRZ Forums)
-- **[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)** (SWLing Post)
-- **[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)** (OnAllBands)
+- **[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)** (QRZ Forums)
+- **[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)** (SWLing Post)
+- **[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[V5/G0RIB, Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-namibia.1005234/)**
+**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
 
-**[E51MWA, North Cook](https://forums.qrz.com/index.php?threads/e51mwa-north-cook.960956/)**
+**[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)**
 
-**[V26JJ - Antigua](https://forums.qrz.com/index.php?threads/v26jj-antigua.997498/)**
+**[PY1PY, Joelson Rebelo da Silva - SK](https://forums.qrz.com/index.php?threads/py1py-joelson-rebelo-da-silva-sk.1008804/)**
 
-**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
+**[An Introduction to Amateur Radio at NJV Government Higher Secondary School – Karachi, Pakistan](https://forums.qrz.com/index.php?threads/an-introduction-to-amateur-radio-at-njv-government-higher-secondary-school-%E2%80%93-karachi-pakistan.1007877/)**
 
-**[IZ3XGH Daniele leso](https://forums.qrz.com/index.php?threads/iz3xgh-daniele-leso.1008704/)**
+**[Welcoming the new QRZ page layout](https://forums.qrz.com/index.php?threads/welcoming-the-new-qrz-page-layout.1008797/)**
 
 ---
 
 ### SWLing Post
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK: US Midterm Elections: Republicans Suffer Major Defeat “…In the U.S. midterm elections, the opposition Democratic Party secured a...
+
+**[Alan Roe’s B-26 Season Guide to Music on Shortwave (version 1.0)](https://swling.com/blog/2026/11/alan-roes-b-26-season-guide-to-music-on-shortwave-version-1-0/)**
+> 1Many thanks to SWLing Post contributor Alan Roe, who shares his A-26 (version 5.0) season guide to music on shortwave. Alan provides this amazing resource as a free PDF download. Click here to download Music on Shortwave B-26 v1.0 (PDF) Alan notes that this is likely the final update for the A-26...
 
 **[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)**
 > Earlier this year, I was contacted by Elecevolve, the producer of the unique MLite-880 that I consider to be the best portable to emerge in years, about another receiver they planned to release called the RT-880x. The test unit that arrived here carries the name “Rayture” which was unfamiliar to...
@@ -61,15 +67,12 @@
 **[The fab five do the fab four](https://swling.com/blog/2026/11/the-fab-five-do-the-fab-four/)**
 > Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned for your shortwave radio/SDR listening pleasure. On Wednesday 4th November 2026, at 0300 hrs UTC on 9395 kHz via WRMI we head back to the Shortwave Music Library to research the most obscure pop and library tunes hiding...
 
-**[Radio Waves: EWTN to End Shortwave Service, Silver Lake FM Pirate KBLT, and NBC 100 Years Ago](https://swling.com/blog/2026/10/radio-waves-ewtn-to-end-shortwave-service-silver-lake-fm-pirate-kblt-and-nbc-100-years-ago/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors David Iurescia, Dan Van Hoy, and Tracy Wood for the following tips: EWTN...
-
-**[Mark Spots Radios in the Korean Zombie Film Peninsula](https://swling.com/blog/2026/10/mark-spots-radios-in-the-korean-zombie-film-peninsula/)**
-> Many thanks to SWLing Post contributor Mark Hirst, who writes: I spotted this collection of radios being used by survivors of a zombie outbreak in the Korean movie Peninsula. A follow-on from ‘Train to Busan’, the survivors are in contact with the outside world using the foreground radio, which...
-
 ---
 
 ### OnAllBands
+
+**[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)**
+> While early winter’s chill is beginning to creep into Ohio’s daily forecast, the folks at OnAllBands are still reminded of warmer days this May at the Greene County Fairgrounds and […] The post Catching Up with Bob Schenck, N2OO, INDEXA Vice President appeared first on OnAllBands.
 
 **[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)**
 > Need a sure-fire, one-stop solution to easily handle all your ham radio holiday gift-shopping needs? You’ll find presents for every operator on your list at DX Engineering. Choose from transceivers, […] The post DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards appeared first on...
@@ -82,9 +85,6 @@
 
 **[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)**
 > One of the high points of my ham radio year is the time spent in Pennsylvania with my friends. It’s a tradition that began 40 years ago with a tent […] The post Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party appeared first on OnAllBands.
-
-**[Extend Your Range—Getting in Touch with Cross-Band Repeat](https://www.onallbands.com/extend-your-range-getting-in-touch-with-cross-band-repeat/)**
-> I have been trying to figure out a way to increase some usage on our local repeaters. I have a 2 meter and a 70cm repeater fairly close by. I […] The post Extend Your Range—Getting in Touch with Cross-Band Repeat appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,12 @@
 
 ### EtherHam
 
+**[Weekly Report: November 4, 2026](https://etherham.com/weekly-report-november-4-2026/)**
+> Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
+
+**[Patch the APT Flaw on Your AllStarLink Node](https://etherham.com/patch-apt-on-your-allstarlink-node/)**
+> On November 4, 2026, Debian fixed a flaw in APT, the tool that installs and updates everything on your AllStarLink node. This recipe walks you through checking your node, installing the fix and confirming it worked, in about 15 minutes per node. Source
+
 **[Linux: One Command — ssh](https://etherham.com/linux-one-command-ssh/)**
 > One command gets you from your Windows PC or Mac onto any Linux machine on your network: a node, a hotspot, a Raspberry Pi, or a server. Source
 
@@ -118,12 +124,6 @@
 **[Omada ES208GP: A Small PoE Switch That Can Fence Off Your Boxes](https://etherham.com/omada-es208gp-fence-off-your-boxes/)**
 > A botnet of 1.3 million factory-infected TV boxes made me look hard at my own network. Here’s my hands-on review of the $70 Omada ES208GP PoE switch, what its port isolation can and can’t fence off, and the Wi-Fi gap I found at home. Source
 
-**[Holes in the Cheese: How Much Does Old Tech Expose You?](https://etherham.com/holes-in-the-cheese-how-much-does-old-tech-expose-you/)**
-> Old tech on your home network is like Swiss cheese: every device has holes, and trouble gets through when the holes line up. Here’s how to find the old gear in your house and shack, check whether it still gets updates, and decide whether to update, replace, isolate or retire it. Source
-
-**[The Door I Forgot to Lock on My M17 Reflector](https://etherham.com/the-door-i-forgot-to-lock-on-my-m17-reflector/)**
-> My M17 reflector had been taking 3,888 password guesses a day, and root could log in with a password. Here’s how I locked it down in one morning, in an order that couldn’t lock me out, and the three places I tripped along the way. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-04 18:30 UTC*
+*Generated: 2026-11-05 18:33 UTC*

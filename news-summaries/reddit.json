@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T18:30:17.529186",
+  "updated": "2026-11-05T18:33:23.259520",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,9 +17,49 @@
         "author": "/u/kc2syk"
       },
       {
+        "title": "A crystal radio that I made",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xooa9m/a_crystal_radio_that_i_made/",
+        "author": "/u/megarhythm"
+      },
+      {
+        "title": "For an immobile, base station setup, is there *any* benefit to a switching power supply over linear besides price?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xoco37/for_an_immobile_base_station_setup_is_there_any/",
+        "author": "/u/NotThePopeProbably"
+      },
+      {
+        "title": "Baofeng DM32 Digital contacts",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xopxvv/baofeng_dm32_digital_contacts/",
+        "author": "/u/kcaz12345"
+      },
+      {
+        "title": "High swr at radio not on nano vna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xophug/high_swr_at_radio_not_on_nano_vna/",
+        "author": "/u/ninjaman1354"
+      },
+      {
         "title": "Games via radio, or more fun than traffic/club nets",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xnsqp0/games_via_radio_or_more_fun_than_trafficclub_nets/",
         "author": "/u/markfickett"
+      },
+      {
+        "title": "\"Poynting tracers\" attempt to look at the near field",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo2ppf/poynting_tracers_attempt_to_look_at_the_near_field/",
+        "author": "/u/jephthai"
+      },
+      {
+        "title": "JPC-12 Radial plate",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xnruh5/jpc12_radial_plate/",
+        "author": "/u/4230_Owl"
+      },
+      {
+        "title": "MW-Audion (GF105) DX-Empfang in Berlin | DIY AM Regen Radio (Solt 540kHz / Vie\u0161intos 1386kHz)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo3yxd/mwaudion_gf105_dxempfang_in_berlin_diy_am_regen/",
+        "author": "/u/JPascal_"
+      },
+      {
+        "title": "Clubs that are 501c3",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo0ak6/clubs_that_are_501c3/",
+        "author": "/u/zachok19"
       },
       {
         "title": "Should I run straight off the car battery or do a life4po battery in the truck.",
@@ -32,9 +72,34 @@
         "author": "/u/Adventurous_Air_3986"
       },
       {
-        "title": "JPC-12 Radial plate",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnruh5/jpc12_radial_plate/",
-        "author": "/u/4230_Owl"
+        "title": "Heathkit SB101",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo76h4/heathkit_sb101/",
+        "author": "/u/Lazy_Landscape5295"
+      },
+      {
+        "title": "Looking for Ham activites in Fort Lauderdale, FL",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xoca9d/looking_for_ham_activites_in_fort_lauderdale_fl/",
+        "author": "/u/Fit_Squash9898"
+      },
+      {
+        "title": "Eco-Worthy LiFePO4 Batteries Causing RF Interference?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo0qpe/ecoworthy_lifepo4_batteries_causing_rf/",
+        "author": "/u/ThatChucklehead"
+      },
+      {
+        "title": "Replacing old Deep Cycle battery, need recommendations",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo61le/replacing_old_deep_cycle_battery_need/",
+        "author": "/u/JumpPsychological602"
+      },
+      {
+        "title": "radio recommendation",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xo16on/radio_recommendation/",
+        "author": "/u/SimpleCat1807"
+      },
+      {
+        "title": "IC7300MK2 relay clicking possible issue 20m-30m & 60m-40m",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xnyve5/ic7300mk2_relay_clicking_possible_issue_20m30m/",
+        "author": "/u/ImaginaryAcadia6621"
       },
       {
         "title": "Icom ID-5200 Install in Mustang Mach-E EV",
@@ -65,71 +130,6 @@
         "title": "Kids walkie talkie.....",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xmrlj0/kids_walkie_talkie/",
         "author": "/u/Bobobob2018"
-      },
-      {
-        "title": "Echolink and relay",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn7q74/echolink_and_relay/",
-        "author": "/u/BeautifulTrade4488"
-      },
-      {
-        "title": "What to do about EFHW coax feedline?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn8tn8/what_to_do_about_efhw_coax_feedline/",
-        "author": "/u/paradoxsystems"
-      },
-      {
-        "title": "What to do about long feedline for EFHW antenna?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn8oxk/what_to_do_about_long_feedline_for_efhw_antenna/",
-        "author": "/u/paradoxsystems"
-      },
-      {
-        "title": "Yaesu FT-60R Knobs Needed",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn5rbv/yaesu_ft60r_knobs_needed/",
-        "author": "/u/SmokinDeist"
-      },
-      {
-        "title": "DIY radio rails",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmuq2x/diy_radio_rails/",
-        "author": "/u/lsbully"
-      },
-      {
-        "title": "Am I crazy? Yaesu FTX1F or X6200 for first radio.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmyc9e/am_i_crazy_yaesu_ftx1f_or_x6200_for_first_radio/",
-        "author": "/u/DearKick"
-      },
-      {
-        "title": "This YT channel screams AI--am I tripping or am I right?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmxl70/this_yt_channel_screams_aiam_i_tripping_or_am_i/",
-        "author": "/u/SmokinDeist"
-      },
-      {
-        "title": "Finally diving into my YouTube channel, @Ken-AC0TG",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xncb3h/finally_diving_into_my_youtube_channel_kenac0tg/",
-        "author": "/u/buggzz"
-      },
-      {
-        "title": "Buckmaster OCF Dipole",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn3jsp/buckmaster_ocf_dipole/",
-        "author": "/u/New_Tangerine_4251"
-      },
-      {
-        "title": "Issues (Bug?) with Holy Cluster Server",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xn84wl/issues_bug_with_holy_cluster_server/",
-        "author": "/u/btmacdou"
-      },
-      {
-        "title": "Heres what I think about the APX lines and certain stuffed shirts out there.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnf56p/heres_what_i_think_about_the_apx_lines_and/",
-        "author": "/u/Embarrassed_Sink_365"
-      },
-      {
-        "title": "Winlink over HF",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmrafs/winlink_over_hf/",
-        "author": "/u/Jester471"
-      },
-      {
-        "title": "I've inherited my grandfathers equipment and may need some guidance on antenna compatibility please, thank you.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmelin/ive_inherited_my_grandfathers_equipment_and_may/",
-        "author": "/u/brenthonydantano"
       }
     ]
   }

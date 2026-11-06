@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 05, 2026
+## November 06, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)** (QRZ Forums)
-- **[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)** (SWLing Post)
-- **[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)** (OnAllBands)
+- **[The IOTA DX NEWS 06 Nov 2026 by Frank FØDUW and Gaby F5PSI](https://forums.qrz.com/index.php?threads/the-iota-dx-news-06-nov-2026-by-frank-f%C3%98duw-and-gaby-f5psi.1008855/)** (QRZ Forums)
+- **[Scarrafone 2.0: The Homebrew Antenna Evolves](https://swling.com/blog/2026/11/scarrafone-2-0-the-homebrew-antenna-evolves/)** (SWLing Post)
+- **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[KH8A - American Samoa](https://forums.qrz.com/index.php?threads/kh8a-american-samoa.990038/)**
+**[The IOTA DX NEWS 06 Nov 2026 by Frank FØDUW and Gaby F5PSI](https://forums.qrz.com/index.php?threads/the-iota-dx-news-06-nov-2026-by-frank-f%C3%98duw-and-gaby-f5psi.1008855/)**
 
-**[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)**
+**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
 
-**[PY1PY, Joelson Rebelo da Silva - SK](https://forums.qrz.com/index.php?threads/py1py-joelson-rebelo-da-silva-sk.1008804/)**
+**[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)**
 
-**[An Introduction to Amateur Radio at NJV Government Higher Secondary School – Karachi, Pakistan](https://forums.qrz.com/index.php?threads/an-introduction-to-amateur-radio-at-njv-government-higher-secondary-school-%E2%80%93-karachi-pakistan.1007877/)**
+**[VK9WX, Willis Island](https://forums.qrz.com/index.php?threads/vk9wx-willis-island.840568/)**
 
-**[Welcoming the new QRZ page layout](https://forums.qrz.com/index.php?threads/welcoming-the-new-qrz-page-layout.1008797/)**
+**[Trials & Errors #88 (10/27/26) - 15,000 Petitions to a [Deaf] FCC!](https://forums.qrz.com/index.php?threads/trials-errors-88-10-27-26-15-000-petitions-to-a-deaf-fcc.1007889/)**
 
 ---
 
 ### SWLing Post
+
+**[Scarrafone 2.0: The Homebrew Antenna Evolves](https://swling.com/blog/2026/11/scarrafone-2-0-the-homebrew-antenna-evolves/)**
+> Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas and friends at the SWLing Post, This is Giuseppe Morlè, IZ0GZW, from Formia, in central Italy on the Tyrrhenian Sea. In this video, you’ll see the evolution of the “Scarrafone” antenna—this is the Scarrafone 2.0! I’ve...
+
+**[Carlos’ Field Recording of Reach Beyond Australia ( , 2026)](https://swling.com/blog/2026/11/carlos-field-recording-of-reach-beyond-australia-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following field recording. Carlos notes: I listened to this program broadcast yesterday by Reach Beyond Australia, which was about a book published in Japan titled “The Book of Breathing,” written by...
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK: US Midterm Elections: Republicans Suffer Major Defeat “…In the U.S. midterm elections, the opposition Democratic Party secured a...
@@ -61,15 +67,12 @@
 **[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)**
 > Earlier this year, I was contacted by Elecevolve, the producer of the unique MLite-880 that I consider to be the best portable to emerge in years, about another receiver they planned to release called the RT-880x. The test unit that arrived here carries the name “Rayture” which was unfamiliar to...
 
-**[Radio Waves: Beidweiler Longwave Transmitter Masts Demolition and South Pacific Cyclone Watch Service Activated](https://swling.com/blog/2026/11/radio-waves-beidweiler-longwave-transmitter-masts-demolition-and-south-pacific-cyclone-watch-service-activated/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Edward (EI9LE) and David Iurescia for the following tips: Livestream on...
-
-**[The fab five do the fab four](https://swling.com/blog/2026/11/the-fab-five-do-the-fab-four/)**
-> Hi to all our SWLing Post friends. Here’s what Imaginary Stations has planned for your shortwave radio/SDR listening pleasure. On Wednesday 4th November 2026, at 0300 hrs UTC on 9395 kHz via WRMI we head back to the Shortwave Music Library to research the most obscure pop and library tunes hiding...
-
 ---
 
 ### OnAllBands
+
+**[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)**
+> Article written by Tim, N3DL. *** Every amateur radio operator has a bucket list. Maybe it’s working a rare DX entity, completing DXCC, or finally making that elusive contact after […] The post From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A appeared first on...
 
 **[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)**
 > While early winter’s chill is beginning to creep into Ohio’s daily forecast, the folks at OnAllBands are still reminded of warmer days this May at the Greene County Fairgrounds and […] The post Catching Up with Bob Schenck, N2OO, INDEXA Vice President appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)**
 > In this season of giving thanks, OnAllBands would like to give a major shout out to the amateur radio innovators who are constantly looking for ways to enhance our enjoyment […] The post New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More appeared first on...
-
-**[Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party](https://www.onallbands.com/ham-radio-portable-operating-insights-combining-pota-with-the-pennsylvania-qso-party/)**
-> One of the high points of my ham radio year is the time spent in Pennsylvania with my friends. It’s a tradition that began 40 years ago with a tent […] The post Ham Radio Portable Operating Insights—Combining POTA with the Pennsylvania QSO Party appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-05 18:33 UTC*
+*Generated: 2026-11-06 17:50 UTC*

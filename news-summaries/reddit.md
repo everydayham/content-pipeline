@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-05 18:33 UTC*
+*Last updated: 2026-11-06 17:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [A crystal radio that I made](https://www.reddit.com/r/amateurradio/comments/1xooa9m/a_crystal_radio_that_i_made/)**
+**3. [QSL Card](https://www.reddit.com/r/amateurradio/comments/1xpg7ij/qsl_card/)**
+by u/No-Weird3547
+
+**4. [Manpack final?](https://www.reddit.com/r/amateurradio/comments/1xph0qk/manpack_final/)**
+by u/Old-Jacket-7673
+
+**5. [FTX-1 Stand/Cage](https://www.reddit.com/r/amateurradio/comments/1xphr58/ftx1_standcage/)**
+by u/Technical-Biscotti10
+
+**6. [HAM on Black Friday?](https://www.reddit.com/r/amateurradio/comments/1xphkf2/ham_on_black_friday/)**
+by u/BackcountryDefault
+
+**7. [TIL: Origin of the Mission Impossible theme](https://www.reddit.com/r/amateurradio/comments/1xoyfig/til_origin_of_the_mission_impossible_theme/)**
+by u/on4aa
+
+**8. [20 meter band conditions](https://www.reddit.com/r/amateurradio/comments/1xp31nr/20_meter_band_conditions/)**
+by u/Simple_Writer687
+
+**9. [A crystal radio that I made](https://www.reddit.com/r/amateurradio/comments/1xooa9m/a_crystal_radio_that_i_made/)**
 by u/megarhythm
 
-**4. [For an immobile, base station setup, is there *any* benefit to a switching power...](https://www.reddit.com/r/amateurradio/comments/1xoco37/for_an_immobile_base_station_setup_is_there_any/)**
-by u/NotThePopeProbably
+**10. [Yaesu FP-1030A Voltage Fluctuation at Cold Start (No Load) - Anyone Fixed This?](https://www.reddit.com/r/amateurradio/comments/1xpc3xh/yaesu_fp1030a_voltage_fluctuation_at_cold_start/)**
+by u/Top-Temperature2341
 
-**5. [Baofeng DM32 Digital contacts](https://www.reddit.com/r/amateurradio/comments/1xopxvv/baofeng_dm32_digital_contacts/)**
-by u/kcaz12345
+**11. [Shack in a Box - Rack Depth?](https://www.reddit.com/r/amateurradio/comments/1xpia63/shack_in_a_box_rack_depth/)**
+by u/Coriolanus556
 
-**6. [High swr at radio not on nano vna](https://www.reddit.com/r/amateurradio/comments/1xophug/high_swr_at_radio_not_on_nano_vna/)**
-by u/ninjaman1354
+**12. [Multiple users (family) under 1 GMRS License: does everyone use the same callsig...](https://www.reddit.com/r/amateurradio/comments/1xoz7cf/multiple_users_family_under_1_gmrs_license_does/)**
+by u/Sad-Figure-6499
 
-**7. [Games via radio, or more fun than traffic/club nets](https://www.reddit.com/r/amateurradio/comments/1xnsqp0/games_via_radio_or_more_fun_than_trafficclub_nets/)**
-by u/markfickett
+**13. [Ham Radio themed horror podcast SILENT KEY - new episode out now!](https://www.reddit.com/r/amateurradio/comments/1xp05v2/ham_radio_themed_horror_podcast_silent_key_new/)**
+by u/HereWeArc
 
-**8. ["Poynting tracers" attempt to look at the near field](https://www.reddit.com/r/amateurradio/comments/1xo2ppf/poynting_tracers_attempt_to_look_at_the_near_field/)**
-by u/jephthai
+**14. [Protocols used in FRS toys](https://www.reddit.com/r/amateurradio/comments/1xot8wb/protocols_used_in_frs_toys/)**
+by u/gowonagin
 
-**9. [JPC-12 Radial plate](https://www.reddit.com/r/amateurradio/comments/1xnruh5/jpc12_radial_plate/)**
-by u/4230_Owl
-
-**10. [MW-Audion (GF105) DX-Empfang in Berlin | DIY AM Regen Radio (Solt 540kHz / Vieši...](https://www.reddit.com/r/amateurradio/comments/1xo3yxd/mwaudion_gf105_dxempfang_in_berlin_diy_am_regen/)**
-by u/JPascal_
-
-**11. [Clubs that are 501c3](https://www.reddit.com/r/amateurradio/comments/1xo0ak6/clubs_that_are_501c3/)**
-by u/zachok19
-
-**12. [Should I run straight off the car battery or do a life4po battery in the truck.](https://www.reddit.com/r/amateurradio/comments/1xnqwnc/should_i_run_straight_off_the_car_battery_or_do_a/)**
-by u/gamerman1354
-
-**13. [Radio YAESU (necesito info)](https://www.reddit.com/r/amateurradio/comments/1xnp0vu/radio_yaesu_necesito_info/)**
-by u/Adventurous_Air_3986
-
-**14. [Heathkit SB101](https://www.reddit.com/r/amateurradio/comments/1xo76h4/heathkit_sb101/)**
-by u/Lazy_Landscape5295
-
-**15. [Looking for Ham activites in Fort Lauderdale, FL](https://www.reddit.com/r/amateurradio/comments/1xoca9d/looking_for_ham_activites_in_fort_lauderdale_fl/)**
-by u/Fit_Squash9898
+**15. [Check out this piece of history I found: A WWII-era Clarke Instrument Corp 167-B...](https://www.reddit.com/r/amateurradio/comments/1xota3f/check_out_this_piece_of_history_i_found_a_wwiiera/)**
+by u/Jolly_Pangolin6013
 
 ---
 
@@ -61,14 +61,14 @@ by u/Fit_Squash9898
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[QSL Card](https://www.reddit.com/r/amateurradio/comments/1xpg7ij/qsl_card/)** (r/amateurradio)
+- **[Manpack final?](https://www.reddit.com/r/amateurradio/comments/1xph0qk/manpack_final/)** (r/amateurradio)
+- **[FTX-1 Stand/Cage](https://www.reddit.com/r/amateurradio/comments/1xphr58/ftx1_standcage/)** (r/amateurradio)
+- **[HAM on Black Friday?](https://www.reddit.com/r/amateurradio/comments/1xphkf2/ham_on_black_friday/)** (r/amateurradio)
+- **[TIL: Origin of the Mission Impossible theme](https://www.reddit.com/r/amateurradio/comments/1xoyfig/til_origin_of_the_mission_impossible_theme/)** (r/amateurradio)
+- **[20 meter band conditions](https://www.reddit.com/r/amateurradio/comments/1xp31nr/20_meter_band_conditions/)** (r/amateurradio)
 - **[A crystal radio that I made](https://www.reddit.com/r/amateurradio/comments/1xooa9m/a_crystal_radio_that_i_made/)** (r/amateurradio)
-- **[For an immobile, base station setup, is there *any* benefit to a switc...](https://www.reddit.com/r/amateurradio/comments/1xoco37/for_an_immobile_base_station_setup_is_there_any/)** (r/amateurradio)
-- **[Baofeng DM32 Digital contacts](https://www.reddit.com/r/amateurradio/comments/1xopxvv/baofeng_dm32_digital_contacts/)** (r/amateurradio)
-- **[High swr at radio not on nano vna](https://www.reddit.com/r/amateurradio/comments/1xophug/high_swr_at_radio_not_on_nano_vna/)** (r/amateurradio)
-- **[Games via radio, or more fun than traffic/club nets](https://www.reddit.com/r/amateurradio/comments/1xnsqp0/games_via_radio_or_more_fun_than_trafficclub_nets/)** (r/amateurradio)
-- **["Poynting tracers" attempt to look at the near field](https://www.reddit.com/r/amateurradio/comments/1xo2ppf/poynting_tracers_attempt_to_look_at_the_near_field/)** (r/amateurradio)
-- **[JPC-12 Radial plate](https://www.reddit.com/r/amateurradio/comments/1xnruh5/jpc12_radial_plate/)** (r/amateurradio)
-- **[MW-Audion (GF105) DX-Empfang in Berlin | DIY AM Regen Radio (Solt 540k...](https://www.reddit.com/r/amateurradio/comments/1xo3yxd/mwaudion_gf105_dxempfang_in_berlin_diy_am_regen/)** (r/amateurradio)
+- **[Yaesu FP-1030A Voltage Fluctuation at Cold Start (No Load) - Anyone Fi...](https://www.reddit.com/r/amateurradio/comments/1xpc3xh/yaesu_fp1030a_voltage_fluctuation_at_cold_start/)** (r/amateurradio)
 
 ---
 

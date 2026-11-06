@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:33:23.259520",
+  "updated": "2026-11-06T17:50:56.003456",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,14 +17,104 @@
         "author": "/u/kc2syk"
       },
       {
+        "title": "QSL Card",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xpg7ij/qsl_card/",
+        "author": "/u/No-Weird3547"
+      },
+      {
+        "title": "Manpack final?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xph0qk/manpack_final/",
+        "author": "/u/Old-Jacket-7673"
+      },
+      {
+        "title": "FTX-1 Stand/Cage",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xphr58/ftx1_standcage/",
+        "author": "/u/Technical-Biscotti10"
+      },
+      {
+        "title": "HAM on Black Friday?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xphkf2/ham_on_black_friday/",
+        "author": "/u/BackcountryDefault"
+      },
+      {
+        "title": "TIL: Origin of the Mission Impossible theme",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xoyfig/til_origin_of_the_mission_impossible_theme/",
+        "author": "/u/on4aa"
+      },
+      {
+        "title": "20 meter band conditions",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xp31nr/20_meter_band_conditions/",
+        "author": "/u/Simple_Writer687"
+      },
+      {
         "title": "A crystal radio that I made",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xooa9m/a_crystal_radio_that_i_made/",
         "author": "/u/megarhythm"
       },
       {
+        "title": "Yaesu FP-1030A Voltage Fluctuation at Cold Start (No Load) - Anyone Fixed This?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xpc3xh/yaesu_fp1030a_voltage_fluctuation_at_cold_start/",
+        "author": "/u/Top-Temperature2341"
+      },
+      {
+        "title": "Shack in a Box - Rack Depth?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xpia63/shack_in_a_box_rack_depth/",
+        "author": "/u/Coriolanus556"
+      },
+      {
+        "title": "Multiple users (family) under 1 GMRS License: does everyone use the same callsign?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xoz7cf/multiple_users_family_under_1_gmrs_license_does/",
+        "author": "/u/Sad-Figure-6499"
+      },
+      {
+        "title": "Ham Radio themed horror podcast SILENT KEY - new episode out now!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xp05v2/ham_radio_themed_horror_podcast_silent_key_new/",
+        "author": "/u/HereWeArc"
+      },
+      {
+        "title": "Protocols used in FRS toys",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xot8wb/protocols_used_in_frs_toys/",
+        "author": "/u/gowonagin"
+      },
+      {
+        "title": "Check out this piece of history I found: A WWII-era Clarke Instrument Corp 167-B (Serial 106) Special Purpose Receiver.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xota3f/check_out_this_piece_of_history_i_found_a_wwiiera/",
+        "author": "/u/Jolly_Pangolin6013"
+      },
+      {
+        "title": "Looking for an HF radio for Winlink",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xp3elh/looking_for_an_hf_radio_for_winlink/",
+        "author": "/u/jlp_utah"
+      },
+      {
+        "title": "Pics of Ground Cable to Tower Leg?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xowwac/pics_of_ground_cable_to_tower_leg/",
+        "author": "/u/FrugalGuy007"
+      },
+      {
+        "title": "Issues with 40 meters on lip mounted ATAS 120a on Jeep wrangler JKU",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xp1amr/issues_with_40_meters_on_lip_mounted_atas_120a_on/",
+        "author": "/u/zippoknives26"
+      },
+      {
+        "title": "Intruder signal 9n 40m, south eastern UK",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xovjih/intruder_signal_9n_40m_south_eastern_uk/",
+        "author": "/u/ThatMukeCoombs"
+      },
+      {
+        "title": "How to get donated radios (Ontario Canada)",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xosqs5/how_to_get_donated_radios_ontario_canada/",
+        "author": "/u/redranger-25"
+      },
+      {
         "title": "For an immobile, base station setup, is there *any* benefit to a switching power supply over linear besides price?",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xoco37/for_an_immobile_base_station_setup_is_there_any/",
         "author": "/u/NotThePopeProbably"
+      },
+      {
+        "title": "High swr at radio but not on nano vna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xor4vg/high_swr_at_radio_but_not_on_nano_vna/",
+        "author": "/u/gamerman1354"
       },
       {
         "title": "Baofeng DM32 Digital contacts",
@@ -40,96 +130,6 @@
         "title": "Games via radio, or more fun than traffic/club nets",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xnsqp0/games_via_radio_or_more_fun_than_trafficclub_nets/",
         "author": "/u/markfickett"
-      },
-      {
-        "title": "\"Poynting tracers\" attempt to look at the near field",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo2ppf/poynting_tracers_attempt_to_look_at_the_near_field/",
-        "author": "/u/jephthai"
-      },
-      {
-        "title": "JPC-12 Radial plate",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnruh5/jpc12_radial_plate/",
-        "author": "/u/4230_Owl"
-      },
-      {
-        "title": "MW-Audion (GF105) DX-Empfang in Berlin | DIY AM Regen Radio (Solt 540kHz / Vie\u0161intos 1386kHz)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo3yxd/mwaudion_gf105_dxempfang_in_berlin_diy_am_regen/",
-        "author": "/u/JPascal_"
-      },
-      {
-        "title": "Clubs that are 501c3",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo0ak6/clubs_that_are_501c3/",
-        "author": "/u/zachok19"
-      },
-      {
-        "title": "Should I run straight off the car battery or do a life4po battery in the truck.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnqwnc/should_i_run_straight_off_the_car_battery_or_do_a/",
-        "author": "/u/gamerman1354"
-      },
-      {
-        "title": "Radio YAESU (necesito info)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnp0vu/radio_yaesu_necesito_info/",
-        "author": "/u/Adventurous_Air_3986"
-      },
-      {
-        "title": "Heathkit SB101",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo76h4/heathkit_sb101/",
-        "author": "/u/Lazy_Landscape5295"
-      },
-      {
-        "title": "Looking for Ham activites in Fort Lauderdale, FL",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xoca9d/looking_for_ham_activites_in_fort_lauderdale_fl/",
-        "author": "/u/Fit_Squash9898"
-      },
-      {
-        "title": "Eco-Worthy LiFePO4 Batteries Causing RF Interference?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo0qpe/ecoworthy_lifepo4_batteries_causing_rf/",
-        "author": "/u/ThatChucklehead"
-      },
-      {
-        "title": "Replacing old Deep Cycle battery, need recommendations",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo61le/replacing_old_deep_cycle_battery_need/",
-        "author": "/u/JumpPsychological602"
-      },
-      {
-        "title": "radio recommendation",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xo16on/radio_recommendation/",
-        "author": "/u/SimpleCat1807"
-      },
-      {
-        "title": "IC7300MK2 relay clicking possible issue 20m-30m & 60m-40m",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnyve5/ic7300mk2_relay_clicking_possible_issue_20m30m/",
-        "author": "/u/ImaginaryAcadia6621"
-      },
-      {
-        "title": "Icom ID-5200 Install in Mustang Mach-E EV",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmw0yj/icom_id5200_install_in_mustang_mache_ev/",
-        "author": "/u/mwaldron"
-      },
-      {
-        "title": "JPC-12 parts (Antenna arm)",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnus06/jpc12_parts_antenna_arm/",
-        "author": "/u/4230_Owl"
-      },
-      {
-        "title": "Very specific antenna requirements",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnao6d/very_specific_antenna_requirements/",
-        "author": "/u/RickHasGivenUp"
-      },
-      {
-        "title": "Looking for a VHF/UHF radio that can also do winlink and ft8.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnbxx3/looking_for_a_vhfuhf_radio_that_can_also_do/",
-        "author": "/u/Vastator69"
-      },
-      {
-        "title": "Kenwood TS820 issues",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xnfx5k/kenwood_ts820_issues/",
-        "author": "/u/casualcatloaf"
-      },
-      {
-        "title": "Kids walkie talkie.....",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xmrlj0/kids_walkie_talkie/",
-        "author": "/u/Bobobob2018"
       }
     ]
   }

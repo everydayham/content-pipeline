@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 06, 2026
+## November 07, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,9 +7,9 @@
 
 ## 📻 Quick Highlights
 
-- **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)** (ARRL)
-- **[The IOTA DX NEWS 06 Nov 2026 by Frank FØDUW and Gaby F5PSI](https://forums.qrz.com/index.php?threads/the-iota-dx-news-06-nov-2026-by-frank-f%C3%98duw-and-gaby-f5psi.1008855/)** (QRZ Forums)
-- **[Scarrafone 2.0: The Homebrew Antenna Evolves](https://swling.com/blog/2026/11/scarrafone-2-0-the-homebrew-antenna-evolves/)** (SWLing Post)
+- **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)** (ARRL)
+- **[A Game Changing Transceiver - Identifying Early Collins KWM-1 Transceivers](https://forums.qrz.com/index.php?threads/a-game-changing-transceiver-identifying-early-collins-kwm-1-transceivers.1008975/)** (QRZ Forums)
+- **[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)** (SWLing Post)
 - **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -18,6 +18,9 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)**
+> Solar activity is expected to be low in the coming days, according to NOAAís Space Weather Prediction Center, with a chance for M-classflares and a slight chance for stronger X-class flares associated with sunspot region 4566, which is showing rapid growth in both size and magnetic complexity. No...
 
 **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)**
 > The active sunspot region that has been giving us improvedpropagation over the past several days will be rotating awayfrom Earth’s view today, but conditions on most of the HFamateur bands should remain pretty decent in the days ahead,as the 10.7-centimeter radio flux remains right around...
@@ -31,26 +34,26 @@
 **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-47)**
 > Look for improved propagation on the upper HF bands, as both thesunspot numbers and 10.7-centimeter radio flux remain near or above100. According to NOAA's Space Weather Prediction Center (SWPC),the increase in activity is being fueled primarily by sunspotRegion 4551, which is described as the...
 
-**[The 2026 ARRL Online Auction Is Now Open](http://www.arrl.org/news/view/the-2026-arrl-online-auction-is-now-open)**
-> The 21st annual ARRL Online Auction, sponsored by GigaParts, is open now through October 22. Browse more than 200 items and place your bids!This year’s selection includes gear from QST “Product Review” articles, vintage books, pre-owned equipment, signed original sketches by Salty Walt Hudson,...
-
 ---
 
 ### QRZ Forums
 
-**[The IOTA DX NEWS 06 Nov 2026 by Frank FØDUW and Gaby F5PSI](https://forums.qrz.com/index.php?threads/the-iota-dx-news-06-nov-2026-by-frank-f%C3%98duw-and-gaby-f5psi.1008855/)**
+**[A Game Changing Transceiver - Identifying Early Collins KWM-1 Transceivers](https://forums.qrz.com/index.php?threads/a-game-changing-transceiver-identifying-early-collins-kwm-1-transceivers.1008975/)**
 
-**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
+**[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
 
-**[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)**
+**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
 
-**[VK9WX, Willis Island](https://forums.qrz.com/index.php?threads/vk9wx-willis-island.840568/)**
+**[CQ WW SSB 2026: Contest Crew Goes Multi-Single](https://forums.qrz.com/index.php?threads/cq-ww-ssb-2026-contest-crew-goes-multi-single.1008475/)**
 
-**[Trials & Errors #88 (10/27/26) - 15,000 Petitions to a [Deaf] FCC!](https://forums.qrz.com/index.php?threads/trials-errors-88-10-27-26-15-000-petitions-to-a-deaf-fcc.1007889/)**
+**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Dennis Dura and David Iurescia for the following tips: NightDX: Automated...
 
 **[Scarrafone 2.0: The Homebrew Antenna Evolves](https://swling.com/blog/2026/11/scarrafone-2-0-the-homebrew-antenna-evolves/)**
 > Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas and friends at the SWLing Post, This is Giuseppe Morlè, IZ0GZW, from Formia, in central Italy on the Tyrrhenian Sea. In this video, you’ll see the evolution of the “Scarrafone” antenna—this is the Scarrafone 2.0! I’ve...
@@ -63,9 +66,6 @@
 
 **[Alan Roe’s B-26 Season Guide to Music on Shortwave (version 1.0)](https://swling.com/blog/2026/11/alan-roes-b-26-season-guide-to-music-on-shortwave-version-1-0/)**
 > 1Many thanks to SWLing Post contributor Alan Roe, who shares his A-26 (version 5.0) season guide to music on shortwave. Alan provides this amazing resource as a free PDF download. Click here to download Music on Shortwave B-26 v1.0 (PDF) Alan notes that this is likely the final update for the A-26...
-
-**[“Rayture” (Elecevolve) RT-880X: Another TEF 6686 Portable](https://swling.com/blog/2026/11/rayture-elecevolve-rt-880x-another-tef-6686-portable/)**
-> Earlier this year, I was contacted by Elecevolve, the producer of the unique MLite-880 that I consider to be the best portable to emerge in years, about another receiver they planned to release called the RT-880x. The test unit that arrived here carries the name “Rayture” which was unfamiliar to...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-06 17:50 UTC*
+*Generated: 2026-11-07 16:45 UTC*

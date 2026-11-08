@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 07, 2026
+## November 08, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)** (ARRL)
-- **[A Game Changing Transceiver - Identifying Early Collins KWM-1 Transceivers](https://forums.qrz.com/index.php?threads/a-game-changing-transceiver-identifying-early-collins-kwm-1-transceivers.1008975/)** (QRZ Forums)
-- **[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)** (SWLing Post)
+- **[New QRZ layout format](https://forums.qrz.com/index.php?threads/new-qrz-layout-format.1008943/)** (QRZ Forums)
+- **[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)** (SWLing Post)
 - **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[A Game Changing Transceiver - Identifying Early Collins KWM-1 Transceivers](https://forums.qrz.com/index.php?threads/a-game-changing-transceiver-identifying-early-collins-kwm-1-transceivers.1008975/)**
+**[New QRZ layout format](https://forums.qrz.com/index.php?threads/new-qrz-layout-format.1008943/)**
+
+**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
+
+**[RI1FJL - Franz Josef Land](https://forums.qrz.com/index.php?threads/ri1fjl-franz-josef-land.997530/)**
+
+**[Special Events deserve to remain special](https://forums.qrz.com/index.php?threads/special-events-deserve-to-remain-special.1006652/)**
 
 **[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
-
-**[3rd Annual National Sasquatch (BIGFOOT) Awareness Day Event](https://forums.qrz.com/index.php?threads/3rd-annual-national-sasquatch-bigfoot-awareness-day-event.1006070/)**
-
-**[CQ WW SSB 2026: Contest Crew Goes Multi-Single](https://forums.qrz.com/index.php?threads/cq-ww-ssb-2026-contest-crew-goes-multi-single.1008475/)**
-
-**[6W/I2YSB & 6W/IK2HKT Senegal](https://forums.qrz.com/index.php?threads/6w-i2ysb-6w-ik2hkt-senegal.1001471/)**
 
 ---
 
 ### SWLing Post
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Shortwave radio never ceases to surprise me. While in Porto Alegre, I was listening to a broadcast aimed at Japan by the Australian radio...
 
 **[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Dennis Dura and David Iurescia for the following tips: NightDX: Automated...
@@ -63,9 +66,6 @@
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK: US Midterm Elections: Republicans Suffer Major Defeat “…In the U.S. midterm elections, the opposition Democratic Party secured a...
-
-**[Alan Roe’s B-26 Season Guide to Music on Shortwave (version 1.0)](https://swling.com/blog/2026/11/alan-roes-b-26-season-guide-to-music-on-shortwave-version-1-0/)**
-> 1Many thanks to SWLing Post contributor Alan Roe, who shares his A-26 (version 5.0) season guide to music on shortwave. Alan provides this amazing resource as a free PDF download. Click here to download Music on Shortwave B-26 v1.0 (PDF) Alan notes that this is likely the final update for the A-26...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-07 16:45 UTC*
+*Generated: 2026-11-08 16:56 UTC*

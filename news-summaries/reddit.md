@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-08 16:56 UTC*
+*Last updated: 2026-11-09 21:19 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [The feeling when you call CQ and it starts a pileup 🥹](https://www.reddit.com/r/amateurradio/comments/1xqrp4c/the_feeling_when_you_call_cq_and_it_starts_a/)**
-by u/thevmcampos
+**3. [12' Paraclipse Dish any amateur use?](https://www.reddit.com/r/amateurradio/comments/1xrhmol/12_paraclipse_dish_any_amateur_use/)**
+by u/bloodysurfer
 
-**4. [VARA breaks compatibility on 2027-01-01](https://www.reddit.com/r/amateurradio/comments/1xqutu9/vara_breaks_compatibility_on_20270101/)**
-by u/intergalacticVelorex
+**4. [Amateur radio gore anyone?](https://www.reddit.com/r/amateurradio/comments/1xrtrxx/amateur_radio_gore_anyone/)**
+by u/ChemistPilot
 
-**5. [I have inherited this transceiver and wondered if anyone could shed any light on...](https://www.reddit.com/r/amateurradio/comments/1xr2ida/i_have_inherited_this_transceiver_and_wondered_if/)**
+**5. [Rhizomatica’s HERMES and Mercury Expand Open-Source HF Communications for Remote...](https://www.reddit.com/r/amateurradio/comments/1xs2sya/rhizomaticas_hermes_and_mercury_expand_opensource/)**
+by u/ARDC_73
+
+**6. [Price vs Value - Lightning Arrestors](https://www.reddit.com/r/amateurradio/comments/1xrxo66/price_vs_value_lightning_arrestors/)**
+by u/Big-Tutor-3060
+
+**7. [I have inherited this transceiver and wondered if anyone could shed any light on...](https://www.reddit.com/r/amateurradio/comments/1xr2ida/i_have_inherited_this_transceiver_and_wondered_if/)**
 by u/Broad-Call4842
 
-**6. [TN8GD](https://www.reddit.com/r/amateurradio/comments/1xqqabg/tn8gd/)**
-by u/noddy51
+**8. [Help with a TK-840 and KPG25D](https://www.reddit.com/r/amateurradio/comments/1xs35qs/help_with_a_tk840_and_kpg25d/)**
+by u/CommunicationOld7642
 
-**7. [Backwoods /8 radio shenanigans. Big dipole on the mountain at 1800ft works great...](https://www.reddit.com/r/amateurradio/comments/1xqinca/backwoods_8_radio_shenanigans_big_dipole_on_the/)**
-by u/inquirewue
+**9. [How do you keep track of the 10 min rule?](https://www.reddit.com/r/amateurradio/comments/1xrcayt/how_do_you_keep_track_of_the_10_min_rule/)**
+by u/jim-dog-x
 
-**8. [QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xqhxh5/qsl_cards/)**
-by u/bignanoman
+**10. [XARA discontinued](https://www.reddit.com/r/amateurradio/comments/1xrb2ul/xara_discontinued/)**
+by u/Cold-Restaurant4567
 
-**9. [Ham Radio HF mobile Antenna mounting options](https://www.reddit.com/r/amateurradio/comments/1xqzic5/ham_radio_hf_mobile_antenna_mounting_options/)**
-by u/Bearded_Beekeeper
+**11. [Is calling CQ without “de” usual?](https://www.reddit.com/r/amateurradio/comments/1xrqg7z/is_calling_cq_without_de_usual/)**
+by u/Lovesholiday
 
-**10. [Straight key suggestions?](https://www.reddit.com/r/amateurradio/comments/1xqhokn/straight_key_suggestions/)**
-by u/This-Set-9875
+**12. [3element Ultra Beam 6-20m uk](https://www.reddit.com/r/amateurradio/comments/1xr4rjr/3element_ultra_beam_620m_uk/)**
+by u/Top-Temperature2341
 
-**11. [20m getting it's own version of 40m 7200?](https://www.reddit.com/r/amateurradio/comments/1xqza2y/20m_getting_its_own_version_of_40m_7200/)**
-by u/OldGuyOutLooking
+**13. [Help with practice](https://www.reddit.com/r/amateurradio/comments/1xrp0hl/help_with_practice/)**
+by u/anotherbarry
 
-**12. [Is this a good idea?](https://www.reddit.com/r/amateurradio/comments/1xqt6d2/is_this_a_good_idea/)**
-by u/AChunkyRedittor
+**14. [Getting into radio](https://www.reddit.com/r/amateurradio/comments/1xrkx9v/getting_into_radio/)**
+by u/Business-Peanut-5385
 
-**13. [KI6CR Labs KH1 Concentric CW Paddle Kit - My Experience](https://www.reddit.com/r/amateurradio/comments/1xqbfki/ki6cr_labs_kh1_concentric_cw_paddle_kit_my/)**
-by u/CoastalRadio
-
-**14. [Questions about RF impedance matching and driving antennas – beginner looking fo...](https://www.reddit.com/r/amateurradio/comments/1xqkp4p/questions_about_rf_impedance_matching_and_driving/)**
-by u/Cdytob
-
-**15. [Loading coil and radials.](https://www.reddit.com/r/amateurradio/comments/1xqmrtk/loading_coil_and_radials/)**
-by u/Appropriate-Limit564
+**15. [Ideas for installing EFHW](https://www.reddit.com/r/amateurradio/comments/1xrwiox/ideas_for_installing_efhw/)**
+by u/LostInThePileup
 
 ---
 
@@ -59,16 +59,16 @@ by u/Appropriate-Limit564
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xlxy9k/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[The feeling when you call CQ and it starts a pileup 🥹](https://www.reddit.com/r/amateurradio/comments/1xqrp4c/the_feeling_when_you_call_cq_and_it_starts_a/)** (r/amateurradio)
-- **[VARA breaks compatibility on 2027-01-01](https://www.reddit.com/r/amateurradio/comments/1xqutu9/vara_breaks_compatibility_on_20270101/)** (r/amateurradio)
+- **[12' Paraclipse Dish any amateur use?](https://www.reddit.com/r/amateurradio/comments/1xrhmol/12_paraclipse_dish_any_amateur_use/)** (r/amateurradio)
+- **[Amateur radio gore anyone?](https://www.reddit.com/r/amateurradio/comments/1xrtrxx/amateur_radio_gore_anyone/)** (r/amateurradio)
+- **[Rhizomatica’s HERMES and Mercury Expand Open-Source HF Communications ...](https://www.reddit.com/r/amateurradio/comments/1xs2sya/rhizomaticas_hermes_and_mercury_expand_opensource/)** (r/amateurradio)
+- **[Price vs Value - Lightning Arrestors](https://www.reddit.com/r/amateurradio/comments/1xrxo66/price_vs_value_lightning_arrestors/)** (r/amateurradio)
 - **[I have inherited this transceiver and wondered if anyone could shed an...](https://www.reddit.com/r/amateurradio/comments/1xr2ida/i_have_inherited_this_transceiver_and_wondered_if/)** (r/amateurradio)
-- **[TN8GD](https://www.reddit.com/r/amateurradio/comments/1xqqabg/tn8gd/)** (r/amateurradio)
-- **[Backwoods /8 radio shenanigans. Big dipole on the mountain at 1800ft w...](https://www.reddit.com/r/amateurradio/comments/1xqinca/backwoods_8_radio_shenanigans_big_dipole_on_the/)** (r/amateurradio)
-- **[QSL Cards](https://www.reddit.com/r/amateurradio/comments/1xqhxh5/qsl_cards/)** (r/amateurradio)
-- **[Ham Radio HF mobile Antenna mounting options](https://www.reddit.com/r/amateurradio/comments/1xqzic5/ham_radio_hf_mobile_antenna_mounting_options/)** (r/amateurradio)
-- **[Straight key suggestions?](https://www.reddit.com/r/amateurradio/comments/1xqhokn/straight_key_suggestions/)** (r/amateurradio)
+- **[Help with a TK-840 and KPG25D](https://www.reddit.com/r/amateurradio/comments/1xs35qs/help_with_a_tk840_and_kpg25d/)** (r/amateurradio)
+- **[How do you keep track of the 10 min rule?](https://www.reddit.com/r/amateurradio/comments/1xrcayt/how_do_you_keep_track_of_the_10_min_rule/)** (r/amateurradio)
+- **[XARA discontinued](https://www.reddit.com/r/amateurradio/comments/1xrb2ul/xara_discontinued/)** (r/amateurradio)
 
 ---
 

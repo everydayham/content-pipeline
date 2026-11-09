@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 08, 2026
+## November 09, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,10 +7,10 @@
 
 ## 📻 Quick Highlights
 
-- **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)** (ARRL)
-- **[New QRZ layout format](https://forums.qrz.com/index.php?threads/new-qrz-layout-format.1008943/)** (QRZ Forums)
+- **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
+- **[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)** (QRZ Forums)
 - **[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)** (SWLing Post)
-- **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)** (OnAllBands)
+- **[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -18,6 +18,12 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)**
+> Many amateur radio clubs and organizations are planning on-air commemorations and special events for Veterans Day 2026. Visit the ARRL Special Events Stations database, and contact the following stations on-the-air:In Tampa, Florida, the American Victory Amateur Radio Club will be operating W4V,...
+
+**[A Century-Plus of Radio Innovation: The 102nd ARRL Handbook is Now Available](http://www.arrl.org/news/view/a-century-plus-of-radio-innovation-the-102nd-arrl-handbook-is-now-available)**
+> First published in 1926, The ARRL Handbook has helped generations of radio amateurs turn curiosity into knowledge, ideas into circuits, and experiments into new discoveries. Over the past century, it has evolved alongside radio technology, reflecting new developments and inspiring hands-on learning...
 
 **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)**
 > Solar activity is expected to be low in the coming days, according to NOAAís Space Weather Prediction Center, with a chance for M-classflares and a slight chance for stronger X-class flares associated with sunspot region 4566, which is showing rapid growth in both size and magnetic complexity. No...
@@ -28,25 +34,19 @@
 **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)**
 > ImageOnline marketplace eBay has imposed new restrictions on listings of radio transmitting equipment in response to new FCC rules that took effect this week, but responded to ARRL The National Association for Amateur Radio® that its new policy will not apply to gear that operates exclusively on...
 
-**[Florida Hams Provide Communications Support During Hurricane Isaias](http://www.arrl.org/news/view/florida-hams-provide-communications-support-during-hurricane-isaias)**
-> Amateur radio operators from Florida’s Santa Rosa, Nassau, Lake, Pinellas, and Leon Counties played an important role in supporting emergency communications efforts during and following Hurricane Isaias, helping ensure that critical communication capabilities remained available throughout the...
-
-**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-47)**
-> Look for improved propagation on the upper HF bands, as both thesunspot numbers and 10.7-centimeter radio flux remain near or above100. According to NOAA's Space Weather Prediction Center (SWPC),the increase in activity is being fueled primarily by sunspotRegion 4551, which is described as the...
-
 ---
 
 ### QRZ Forums
 
-**[New QRZ layout format](https://forums.qrz.com/index.php?threads/new-qrz-layout-format.1008943/)**
+**[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)**
 
-**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
+**[SP8CVA Grzegorz Kamiński Silent Key](https://forums.qrz.com/index.php?threads/sp8cva-grzegorz-kami%C5%84ski-silent-key.1009185/)**
 
-**[RI1FJL - Franz Josef Land](https://forums.qrz.com/index.php?threads/ri1fjl-franz-josef-land.997530/)**
+**[FW3GT – Wallis & Futuna](https://forums.qrz.com/index.php?threads/fw3gt-%E2%80%93-wallis-futuna.1004928/)**
 
-**[Special Events deserve to remain special](https://forums.qrz.com/index.php?threads/special-events-deserve-to-remain-special.1006652/)**
+**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
 
-**[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
+**[FT4YM Antarctica](https://forums.qrz.com/index.php?threads/ft4ym-antarctica.785831/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)**
+> Legendary DXer and popular amateur radio author Bob Locher, W9KNI, took a break from his “Tales from a Serial Sniper” series on OnAllBands to write about the travails and triumphs […] The post Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe...
+
 **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)**
 > Article written by Tim, N3DL. *** Every amateur radio operator has a bucket list. Maybe it’s working a rare DX entity, completing DXCC, or finally making that elusive contact after […] The post From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A appeared first on...
 
@@ -82,9 +85,6 @@
 
 **[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)**
 > This past summer (July 25-Aug. 1, 2026), I had the opportunity to attend the YOTA (Youngsters On The Air) camp held in Wagrain, Austria. I’ve attended YOTA camps in IARU […] The post Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp appeared first on OnAllBands.
-
-**[New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More](https://www.onallbands.com/new-products-spotlight-for-november-2026-pota-packages-satellite-friendly-antennas-more/)**
-> In this season of giving thanks, OnAllBands would like to give a major shout out to the amateur radio innovators who are constantly looking for ways to enhance our enjoyment […] The post New Products Spotlight for November 2026—POTA Packages, Satellite-Friendly Antennas & More appeared first on...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Renumber an AllStarLink 3 Node](https://etherham.com/renumber-an-allstarlink-3-node/)**
+> Give an existing AllStarLink 3 node a new node number, step by step. Find every file that holds the old number, fix the leftover addresses that break connections and dashboards when a node has moved, and confirm that other nodes can reach it. Source
+
 **[Weekly Report: November 4, 2026](https://etherham.com/weekly-report-november-4-2026/)**
 > Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
 
@@ -121,9 +124,6 @@
 **[Linux: One Command — df -h](https://etherham.com/linux-one-command-df-h/)**
 > One command shows how full your node’s SD card or drive is, so you can catch a full disk before it causes trouble. Source
 
-**[Omada ES208GP: A Small PoE Switch That Can Fence Off Your Boxes](https://etherham.com/omada-es208gp-fence-off-your-boxes/)**
-> A botnet of 1.3 million factory-infected TV boxes made me look hard at my own network. Here’s my hands-on review of the $70 Omada ES208GP PoE switch, what its port isolation can and can’t fence off, and the Wi-Fi gap I found at home. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-08 16:56 UTC*
+*Generated: 2026-11-09 21:19 UTC*

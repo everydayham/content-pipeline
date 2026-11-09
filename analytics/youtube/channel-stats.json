@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-02T21:11:37.063222",
+  "updated": "2026-11-09T21:47:07.214645",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "l14ZVCOgUHMrbOBBgNq_lpSId6U",
+    "etag": "sKsc8c-QfC6oSrj8MsoUX75ZGwc",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,415 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "303593",
-      "subscriberCount": "2450",
+      "viewCount": "326330",
+      "subscriberCount": "2540",
       "hiddenSubscriberCount": false,
-      "videoCount": "175"
+      "videoCount": "181"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "QmBZobKQ03myN3ugL0xrJn6VWsI",
+      "etag": "om5CxhbJ3VXwTPG0yqXoUZbeMro",
+      "id": "kuN7OPls0W0",
+      "snippet": {
+        "publishedAt": "2026-11-08T17:32:50Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
+        "description": "The Icom IC-7110 just got FCC approval. Here's what the filing actually tells us, what it doesn't, and some pure speculation on when it might reach the US and what it might cost.\nThe IC-7110 FCC filing: https://fccid.io/AFJ455900\n\nThe FCC granted the IC-7110 on November 6, one day after Icom filed. Most of the radio has been public since the Tokyo Ham Fair reveal on August 29, so James (K8JKU) goes through the few details the filing adds: the US ham bands from 160 meters through 70 centimeters, the receive coverage, dual-band Wi-Fi, the Bluetooth 5.3 module and its profiles, and a GPS mention in the test report that Icom hasn't talked about. Then, using the Icom ID-5200's path from approval to delivery as a yardstick, he takes a guess at a ship window and a US price. Both are complete speculation built on unverified numbers. Icom has not announced a US price or ship date.\n\nChapters:\n00:00 IC-7110 gets FCC approval\n00:46 What the FCC filing confirms\n02:18 What's still confidential\n02:32 Ship timing speculation: the ID-5200 comparison\n02:51 US price speculation\n03:28 Wrap-up\n\nSources:\n- IC-7110 FCC filing and exhibits (attestation letter, scanner report, RF exposure report, antenna report): https://fccid.io/AFJ455900\n- Icom America IC-7110 pre-release info (bands, power, touchscreen, D-STAR): https://www.icomamerica.com/media_and_promotions/news/4717/\n- The ID-5200 timeline comes from Rory's (W8KNX) own order. The price and ship date are our own estimates, not sourced figures.\n\nWatch our live reaction to the IC-7110 reveal: [LINK]\n\nIC-7110 footage courtesy of Icom Inc., \"The IC-7110, HF/VHF/UHF All Mode Transceiver\": https://www.youtube.com/watch?v=u7QGMbUNB2k\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Icom #IC7110 #hamradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kuN7OPls0W0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kuN7OPls0W0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kuN7OPls0W0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kuN7OPls0W0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kuN7OPls0W0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Icom IC-7110",
+          "IC-7110",
+          "IC-7110 FCC approval",
+          "IC-7110 FCC filing",
+          "IC-7110 Bluetooth",
+          "Icom IC-7100 successor",
+          "IC-7100",
+          "Icom ID-5200",
+          "new Icom radio",
+          "new ham radio 2026",
+          "FCC approval",
+          "HF VHF UHF transceiver",
+          "mobile ham radio",
+          "D-STAR",
+          "Icom",
+          "amateur radio",
+          "ham radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
+          "description": "The Icom IC-7110 just got FCC approval. Here's what the filing actually tells us, what it doesn't, and some pure speculation on when it might reach the US and what it might cost.\nThe IC-7110 FCC filing: https://fccid.io/AFJ455900\n\nThe FCC granted the IC-7110 on November 6, one day after Icom filed. Most of the radio has been public since the Tokyo Ham Fair reveal on August 29, so James (K8JKU) goes through the few details the filing adds: the US ham bands from 160 meters through 70 centimeters, the receive coverage, dual-band Wi-Fi, the Bluetooth 5.3 module and its profiles, and a GPS mention in the test report that Icom hasn't talked about. Then, using the Icom ID-5200's path from approval to delivery as a yardstick, he takes a guess at a ship window and a US price. Both are complete speculation built on unverified numbers. Icom has not announced a US price or ship date.\n\nChapters:\n00:00 IC-7110 gets FCC approval\n00:46 What the FCC filing confirms\n02:18 What's still confidential\n02:32 Ship timing speculation: the ID-5200 comparison\n02:51 US price speculation\n03:28 Wrap-up\n\nSources:\n- IC-7110 FCC filing and exhibits (attestation letter, scanner report, RF exposure report, antenna report): https://fccid.io/AFJ455900\n- Icom America IC-7110 pre-release info (bands, power, touchscreen, D-STAR): https://www.icomamerica.com/media_and_promotions/news/4717/\n- The ID-5200 timeline comes from Rory's (W8KNX) own order. The price and ship date are our own estimates, not sourced figures.\n\nWatch our live reaction to the IC-7110 reveal: [LINK]\n\nIC-7110 footage courtesy of Icom Inc., \"The IC-7110, HF/VHF/UHF All Mode Transceiver\": https://www.youtube.com/watch?v=u7QGMbUNB2k\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Icom #IC7110 #hamradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "10915",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qQ5Un-KJ35i3NOEqQQPKb3Hhsqg",
+      "id": "9WqorzgaswA",
+      "snippet": {
+        "publishedAt": "2026-11-06T21:40:18Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
+        "description": "Unboxing the G7250 and checking out the build. That weighted VFO knob feels solid, and the screen design is a serious upgrade for the shack. Tell us what you think of this new unit in the comments below. #HamRadio #AmateurRadio #RadioGear #EverydayHam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WqorzgaswA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WqorzgaswA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WqorzgaswA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WqorzgaswA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WqorzgaswA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
+          "description": "Unboxing the G7250 and checking out the build. That weighted VFO knob feels solid, and the screen design is a serious upgrade for the shack. Tell us what you think of this new unit in the comments below. #HamRadio #AmateurRadio #RadioGear #EverydayHam"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1219",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tWLzYzT8EHCyrZ4oGikEy7Zznqk",
+      "id": "dekVm9EdtI0",
+      "snippet": {
+        "publishedAt": "2026-11-06T21:33:29Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
+        "description": "Don't let the excitement of your new license lead to a bad deal. If you are new to ham radio, bring an experienced friend to swap meets to verify gear health. While used equipment can be a great bargain, starting with a reliable new handheld is often the safest path. #HamRadio #AmateurRadio #RadioGear #TechTips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dekVm9EdtI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dekVm9EdtI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dekVm9EdtI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dekVm9EdtI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dekVm9EdtI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
+          "description": "Don't let the excitement of your new license lead to a bad deal. If you are new to ham radio, bring an experienced friend to swap meets to verify gear health. While used equipment can be a great bargain, starting with a reliable new handheld is often the safest path. #HamRadio #AmateurRadio #RadioGear #TechTips"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "80",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3nAyApAI7I1DzZNVZ2ormixSlgE",
+      "id": "JV4nTSKaWgY",
+      "snippet": {
+        "publishedAt": "2026-11-06T21:05:02Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
+        "description": "An unedited, in-depth look at the Xiegu G7250 on release firmware: every menu, control and setting as it ships on day one. This is the deeper dive after our unboxing.  \n\nIf you want the initial opinion of N8JRD,  Start at 24:17 - I talk about the things I dislike, the things I like, and opportunities. \n\nAs a reminder, we're still forming initial functional opinions on this unit and a 'review' style discussion with pros and cons is coming.  \n\nMissed the unboxing? Watch it here: https://www.youtube.com/watch?v=o3IvIljMYcA\n\nWe purchased this radio ourselves, and the views and opinions in this video are our own. The Radioddity link and code are affiliate, so we may earn a small commission at no extra cost to you.\n\nGet the Xiegu G7250 at Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n\nJim (N8JRD) hooks the Xiegu G7250 up to an end-fed half wave and works through the radio hands-on. He covers the two antenna ports and how to switch between them, preamp, attenuator and AGC, direct mode selection, the meters and SWR readout, and the nested multifunction knobs. Then he digs into the built-in 3:1 ATU, the SWR scanner, voice memories, the general menu and its assignable MFK, scope and display settings, audio EQ, and the system and network menus. He also takes a close look at the optional bandpass filters for 80, 40, 20 and 10 meters, and wraps up with his first impressions and where the G7250 sits against other radios around the $1,000 mark.\n\nChapters:\n\nMENU IN DEPTH:\n00:00 Intro\n00:20 Antenna ports, AGC, preamp and attenuator\n01:54 Band stack and mode selection\n03:10 Meters, SWR, voltage and noise filters\n05:01 FT8 and display readouts\n06:11 Nested knobs, memories and VFO A/B\n08:23 Built-in 3:1 ATU\n09:15 SWR scanner, apps and firmware modding\n11:27 Quick menu, voice memories and general menu\n13:06 General menu: compressor, mic buttons and tuning steps\n\nYOU SHOULD CHECK THIS OUT:\n14:22 Optional bandpass filters\n\n16:12 Transmit bandwidth and how the MFK works\n17:38 Scope settings: span, reference level and height\n19:28 Screen settings and audio EQ\n20:57 System menu and setting the clock\n22:08 System information, network and Bluetooth\n\nOPINIONS, CRITICAL REVIEW THOUGHTS:\n24:17 First impressions and the remote head connection\n25:24 Mobile use and HDSDR support\n26:25 Microphone, display and knobs\n27:19 Button feel, wear and LEDs\n28:29 Size, touchscreen and firmware polish\n30:50 Price and competition around $1,000\n\nGear in this video:\n- Xiegu G7250 100W HF Transceiver: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n- Unboxing video: https://www.youtube.com/watch?v=o3IvIljMYcA\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #G7250 #hamradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JV4nTSKaWgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JV4nTSKaWgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JV4nTSKaWgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JV4nTSKaWgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JV4nTSKaWgY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Xiegu G7250",
+          "Xiegu G7250 deep dive",
+          "Xiegu G7250 menu",
+          "Xiegu G7250 firmware",
+          "Xiegu G7250 walkthrough",
+          "Xiegu G7250 review",
+          "G7250 first impressions",
+          "Xiegu HF radio",
+          "100 watt HF radio",
+          "new HF radio 2026",
+          "remote head HF transceiver",
+          "Xiegu G7250 bandpass filters",
+          "HF radio ATU",
+          "HDSDR",
+          "Radioddity",
+          "ham radio review",
+          "amateur radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
+          "description": "An unedited, in-depth look at the Xiegu G7250 on release firmware: every menu, control and setting as it ships on day one. This is the deeper dive after our unboxing.  \n\nIf you want the initial opinion of N8JRD,  Start at 24:17 - I talk about the things I dislike, the things I like, and opportunities. \n\nAs a reminder, we're still forming initial functional opinions on this unit and a 'review' style discussion with pros and cons is coming.  \n\nMissed the unboxing? Watch it here: https://www.youtube.com/watch?v=o3IvIljMYcA\n\nWe purchased this radio ourselves, and the views and opinions in this video are our own. The Radioddity link and code are affiliate, so we may earn a small commission at no extra cost to you.\n\nGet the Xiegu G7250 at Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n\nJim (N8JRD) hooks the Xiegu G7250 up to an end-fed half wave and works through the radio hands-on. He covers the two antenna ports and how to switch between them, preamp, attenuator and AGC, direct mode selection, the meters and SWR readout, and the nested multifunction knobs. Then he digs into the built-in 3:1 ATU, the SWR scanner, voice memories, the general menu and its assignable MFK, scope and display settings, audio EQ, and the system and network menus. He also takes a close look at the optional bandpass filters for 80, 40, 20 and 10 meters, and wraps up with his first impressions and where the G7250 sits against other radios around the $1,000 mark.\n\nChapters:\n\nMENU IN DEPTH:\n00:00 Intro\n00:20 Antenna ports, AGC, preamp and attenuator\n01:54 Band stack and mode selection\n03:10 Meters, SWR, voltage and noise filters\n05:01 FT8 and display readouts\n06:11 Nested knobs, memories and VFO A/B\n08:23 Built-in 3:1 ATU\n09:15 SWR scanner, apps and firmware modding\n11:27 Quick menu, voice memories and general menu\n13:06 General menu: compressor, mic buttons and tuning steps\n\nYOU SHOULD CHECK THIS OUT:\n14:22 Optional bandpass filters\n\n16:12 Transmit bandwidth and how the MFK works\n17:38 Scope settings: span, reference level and height\n19:28 Screen settings and audio EQ\n20:57 System menu and setting the clock\n22:08 System information, network and Bluetooth\n\nOPINIONS, CRITICAL REVIEW THOUGHTS:\n24:17 First impressions and the remote head connection\n25:24 Mobile use and HDSDR support\n26:25 Microphone, display and knobs\n27:19 Button feel, wear and LEDs\n28:29 Size, touchscreen and firmware polish\n30:50 Price and competition around $1,000\n\nGear in this video:\n- Xiegu G7250 100W HF Transceiver: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n- Unboxing video: https://www.youtube.com/watch?v=o3IvIljMYcA\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #G7250 #hamradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3521",
+        "likeCount": "78",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WRyrtGXjObftdJzy2Kzh14PJxNU",
+      "id": "DJPUu0-SY4M",
+      "snippet": {
+        "publishedAt": "2026-11-05T14:19:56Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Ep. 23 \u2013 eBay's FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
+        "description": "Should a brand new ham buy used gear, and does eBay's new FCC rule change the answer? James, Jim and Rory dig into it in Episode 23, along with a month-long check-in on the Icom ID-5200A.\n\nRory shares how the ID-5200A has settled into his car, what the color display and on-screen keyboard are like to use, and why native APRS is still on his wish list. The crew compares the buzz around the ID-5200A and the Kenwood TM-D750A, Jim's Xiegu G7250 order is on the way from Radioddity, and James talks IC-7110 hopes and a hotel-window CW attempt from New Mexico.\n\nThen it's the news: eBay's FCC requirement for radios that can transmit outside the ham bands, an update on the Amateur Radio Emergency Preparedness Act, ARISS and NASA signing a new four-year agreement for ham radio on the International Space Station, the new POTA site, and a sobering look at a helicopter strike on a radio tower in Florida. The hosts close with how to find a club that fits, what to check before buying at a swap, and how to send in topic ideas.\n\nTopics: Icom ID-5200A, Kenwood TM-D750A, APRS, Xiegu G7250, Icom IC-7110, eBay FCC rule, buying used radios, ham swaps and QRZ, HOA antenna bill, ARISS, POTA, CW.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\n\nFollow us at: Website: https://www.everydayham.com/\n\n00:00 Welcome And Quick Reminders\n01:25 CW Progress And Community Shout-Outs\n03:45 Icom ID-5200A After A Month\n12:31 Xiegu G7250 Hype And Expectations\n16:55 Selling Gear And Chasing New Radios\n19:10 Hotel Antennas And POTA Travel Plans\n26:05 POTA.app Refresh And Better Mapping\n27:53 eBay Radio Listings And FCC IDs\n35:36 Should New Hams Buy Used Gear?\n41:57 HOA Antenna Bill Plus ARISS News\n50:37 Tragic Tower Collision And Safety\n54:00 Predictions Tease And Listener Requests",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/DJPUu0-SY4M/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "APRS",
+          "ARISS",
+          "Amateur Radio Emergency Preparedness Act",
+          "CW",
+          "Everyday Ham",
+          "FCC",
+          "ISS",
+          "Icom ID-5200A",
+          "Kenwood TM-D750A",
+          "POTA",
+          "Xiegu G7250",
+          "amateur radio",
+          "eBay",
+          "ham radio news",
+          "ham radio podcast",
+          "new hams",
+          "used ham radio"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Ep. 23 \u2013 eBay's FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
+          "description": "Should a brand new ham buy used gear, and does eBay's new FCC rule change the answer? James, Jim and Rory dig into it in Episode 23, along with a month-long check-in on the Icom ID-5200A.\n\nRory shares how the ID-5200A has settled into his car, what the color display and on-screen keyboard are like to use, and why native APRS is still on his wish list. The crew compares the buzz around the ID-5200A and the Kenwood TM-D750A, Jim's Xiegu G7250 order is on the way from Radioddity, and James talks IC-7110 hopes and a hotel-window CW attempt from New Mexico.\n\nThen it's the news: eBay's FCC requirement for radios that can transmit outside the ham bands, an update on the Amateur Radio Emergency Preparedness Act, ARISS and NASA signing a new four-year agreement for ham radio on the International Space Station, the new POTA site, and a sobering look at a helicopter strike on a radio tower in Florida. The hosts close with how to find a club that fits, what to check before buying at a swap, and how to send in topic ideas.\n\nTopics: Icom ID-5200A, Kenwood TM-D750A, APRS, Xiegu G7250, Icom IC-7110, eBay FCC rule, buying used radios, ham swaps and QRZ, HOA antenna bill, ARISS, POTA, CW.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nThe Everyday Ham Podcast is hosted by James Mills (K8JKU), Jim Davis (N8JRD), and Rory Locke (W8KNX) \u2013 three friends who dive into the world of amateur radio with a casual, lighthearted twist.\n\nFollow us at: Website: https://www.everydayham.com/\n\n00:00 Welcome And Quick Reminders\n01:25 CW Progress And Community Shout-Outs\n03:45 Icom ID-5200A After A Month\n12:31 Xiegu G7250 Hype And Expectations\n16:55 Selling Gear And Chasing New Radios\n19:10 Hotel Antennas And POTA Travel Plans\n26:05 POTA.app Refresh And Better Mapping\n27:53 eBay Radio Listings And FCC IDs\n35:36 Should New Hams Buy Used Gear?\n41:57 HOA Antenna Bill Plus ARISS News\n50:37 Tragic Tower Collision And Safety\n54:00 Predictions Tease And Listener Requests"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "374",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W8UkLiMgS456whIS-hbmPIYsqPc",
+      "id": "o3IvIljMYcA",
+      "snippet": {
+        "publishedAt": "2026-11-05T06:08:50Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
+        "description": "When we saw the Xiegu G7250 announcement, we had to get our hands on it-- so we ordered one with our own cold-hard-cash, unboxed the thing, and discovered a bit about Xiegu's first foray into the 100w space. Does it deliver as a game-changer, or is the remote head-hype just a gimmick.\n\nWe'll check out what's in the box, how it's built, and how it sounds on the air in this first look at the G7250 from Xiegu.\n\nGet the Xiegu G7250 at Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n\nWe purchased this radio ourselves, and the views and opinions in this video are our own. The Radioddity link and code are affiliate, so we may earn a small commission at no extra cost to you.\n\nJim (N8JRD) opens the first-batch Xiegu G7250, a 100-watt HF radio with a separate 7-inch control head, and goes through everything in the box: the head with its fold-out stand, the multifunction hand mic, the printed manual, and the cables. Then we look at the radio body, including the cooling, the built-in Anderson Powerpoles, two antenna ports, and an Ethernet jack. There is one surprise about how the head connects to the body. We finish with a first on-air test at 100 watts on an end-fed half wave, a noise reduction check, and a first listen to the speaker.\n\nChapters:\n00:00 The G7250 arrives\n01:56 The remote control head\n02:43 Head first impressions and ports\n05:23 Printed manual and D-Sub 15 cable\n06:21 The multifunction hand mic\n07:14 USB and mic cables\n08:12 Allen key, power cord and fuse\n09:34 Unboxing the radio body\n10:12 Build quality, cooling and rear panel\n14:21 The full G7250 stacked up\n15:08 First on-air test at 100 watts\n17:15 Noise reduction test\n17:56 Speaker volume and sound\n\nGear in this video:\n- Xiegu G7250 100W HF Transceiver, First Batch ($999 at time of posting): https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\nFirst-batch orders from Radioddity currently include a Xiegu cap and an extended warranty while supplies last. Check the product page for current terms.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #G7250 #hamradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o3IvIljMYcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o3IvIljMYcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3IvIljMYcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o3IvIljMYcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o3IvIljMYcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Xiegu G7250",
+          "Xiegu G7250 unboxing",
+          "G7250 unboxing",
+          "Xiegu G7250 first impressions",
+          "Xiegu unboxing",
+          "Xiegu HF radio",
+          "100 watt HF radio",
+          "new HF radio 2026",
+          "detachable head HF radio",
+          "remote head HF transceiver",
+          "Radioddity",
+          "ham radio unboxing",
+          "HF transceiver",
+          "ham radio noise reduction",
+          "end fed half wave",
+          "amateur radio",
+          "ham radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
+          "description": "When we saw the Xiegu G7250 announcement, we had to get our hands on it-- so we ordered one with our own cold-hard-cash, unboxed the thing, and discovered a bit about Xiegu's first foray into the 100w space. Does it deliver as a game-changer, or is the remote head-hype just a gimmick.\n\nWe'll check out what's in the box, how it's built, and how it sounds on the air in this first look at the G7250 from Xiegu.\n\nGet the Xiegu G7250 at Radioddity and save $15 with code EVERYDAYHAM: https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\n\nWe purchased this radio ourselves, and the views and opinions in this video are our own. The Radioddity link and code are affiliate, so we may earn a small commission at no extra cost to you.\n\nJim (N8JRD) opens the first-batch Xiegu G7250, a 100-watt HF radio with a separate 7-inch control head, and goes through everything in the box: the head with its fold-out stand, the multifunction hand mic, the printed manual, and the cables. Then we look at the radio body, including the cooling, the built-in Anderson Powerpoles, two antenna ports, and an Ethernet jack. There is one surprise about how the head connects to the body. We finish with a first on-air test at 100 watts on an end-fed half wave, a noise reduction check, and a first listen to the speaker.\n\nChapters:\n00:00 The G7250 arrives\n01:56 The remote control head\n02:43 Head first impressions and ports\n05:23 Printed manual and D-Sub 15 cable\n06:21 The multifunction hand mic\n07:14 USB and mic cables\n08:12 Allen key, power cord and fuse\n09:34 Unboxing the radio body\n10:12 Build quality, cooling and rear panel\n14:21 The full G7250 stacked up\n15:08 First on-air test at 100 watts\n17:15 Noise reduction test\n17:56 Speaker volume and sound\n\nGear in this video:\n- Xiegu G7250 100W HF Transceiver, First Batch ($999 at time of posting): https://www.radioddity.com/products/xiegu-g7250?ref=EVERYDAYHAM\nFirst-batch orders from Radioddity currently include a Xiegu cap and an extended warranty while supplies last. Check the product page for current terms.\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#Xiegu #G7250 #hamradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "4545",
+        "likeCount": "97",
+        "favoriteCount": "0",
+        "commentCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bUu6tneECxBCKc9KMCe3uAhFIsc",
       "id": "N8rCFULRFzM",
       "snippet": {
         "publishedAt": "2026-10-31T15:09:30Z",
@@ -92,15 +491,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "636",
-        "likeCount": "15",
+        "viewCount": "1047",
+        "likeCount": "21",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wwdA5zxJPVkbNbfFHrMw7A0s1Tk",
+      "etag": "vgHZQaMYWFwbRxXJ-vPgpyDr6Wc",
       "id": "FWXNeRnL6io",
       "snippet": {
         "publishedAt": "2026-10-22T12:00:00Z",
@@ -168,15 +567,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "607",
-        "likeCount": "16",
+        "viewCount": "639",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4mH1_1uaTCuDpNXUqSbJHLDiFYk",
+      "etag": "Mp-9icW16clTYyscApj1if_hlA8",
       "id": "DaEXp29dhIk",
       "snippet": {
         "publishedAt": "2026-10-13T14:07:46Z",
@@ -239,7 +638,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "275",
+        "viewCount": "285",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -247,7 +646,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zLFOfR2CBPKhLy6egJyADLjpMZg",
+      "etag": "ay2d4J2m7TGCbQLbxqGrlC2ogMA",
       "id": "OlH42F5vAHw",
       "snippet": {
         "publishedAt": "2026-10-12T19:23:17Z",
@@ -291,7 +690,7 @@
         }
       },
       "statistics": {
-        "viewCount": "191",
+        "viewCount": "210",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -299,7 +698,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NyxSpOYM3EdGeR6cgq0hyp_zdSk",
+      "etag": "fUW2vTGszHYLhPnKZm2A4VoJnyk",
       "id": "MhjirNwRR7A",
       "snippet": {
         "publishedAt": "2026-10-08T11:45:37Z",
@@ -363,7 +762,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1194",
+        "viewCount": "1249",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -371,7 +770,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "czwHQFj9-uL-G9NZVrC17zoz8EQ",
+      "etag": "k_Gdba7uftxd3iqYgMUtBBIEkus",
       "id": "h8PsigNNfuk",
       "snippet": {
         "publishedAt": "2026-10-06T12:00:09Z",
@@ -435,7 +834,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1134",
+        "viewCount": "1145",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -443,7 +842,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ovLAXRl1Q_hmrt2GauyVBqm3D0c",
+      "etag": "HrqWHrDWuJPXkbJXU2jADObJrFk",
       "id": "jn6-BdDVQzI",
       "snippet": {
         "publishedAt": "2026-10-01T12:00:04Z",
@@ -506,15 +905,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2673",
-        "likeCount": "57",
+        "viewCount": "2685",
+        "likeCount": "58",
         "favoriteCount": "0",
-        "commentCount": "14"
+        "commentCount": "15"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "br2E_7nAr9Fi-xQUkjJRDndbzmk",
+      "etag": "4396fLtKLPWqGQ6RRZFnhpnr6P4",
       "id": "cEPpW0aW-W8",
       "snippet": {
         "publishedAt": "2026-09-25T16:59:07Z",
@@ -559,7 +958,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1583",
+        "viewCount": "1590",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -567,7 +966,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BOGxZd0OeKizo5L-FCUyZE5RNwM",
+      "etag": "RHe9gNjJpTCZVuenOzfcHg2pE-s",
       "id": "LwICFz2gx1w",
       "snippet": {
         "publishedAt": "2026-09-25T12:00:12Z",
@@ -630,15 +1029,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3829",
-        "likeCount": "61",
+        "viewCount": "3900",
+        "likeCount": "62",
         "favoriteCount": "0",
         "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Gqw3nD0t49bM3JdVhnbIMf12HcE",
+      "etag": "mtSqxcCYJzMHNKAjwNIQZbE8SxY",
       "id": "9Wk6JWDHHN4",
       "snippet": {
         "publishedAt": "2026-09-10T11:00:02Z",
@@ -702,7 +1101,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1825",
+        "viewCount": "1867",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -762,7 +1161,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "U-_PXUrhFNPQ6XSSRM8GSWx3qVQ",
+      "etag": "EU1Uax3Dwk-zAsRH7iVoB3tRqKg",
       "id": "KRdY1-WOgkY",
       "snippet": {
         "publishedAt": "2026-09-04T01:53:50Z",
@@ -806,7 +1205,7 @@
         }
       },
       "statistics": {
-        "viewCount": "281",
+        "viewCount": "282",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -814,7 +1213,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FlGaA1OQB_yXFYmko4VKK9sbZWE",
+      "etag": "Uv_0VLgZRSG1cFgWEUtxW0Pq1pA",
       "id": "FakqdX9c1ac",
       "snippet": {
         "publishedAt": "2026-09-03T12:00:37Z",
@@ -879,7 +1278,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "611",
+        "viewCount": "629",
         "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -887,7 +1286,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LDuQ9ZWDKzR3BKzHqKKbsVP0jYU",
+      "etag": "Ay-w1kgHeXs8iJLugmNqtxvK1zA",
       "id": "N9i7XudEuyw",
       "snippet": {
         "publishedAt": "2026-08-31T09:01:52Z",
@@ -938,7 +1337,7 @@
         }
       },
       "statistics": {
-        "viewCount": "485",
+        "viewCount": "549",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -946,7 +1345,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AEP_Zknee1wYcCMggWZb7W5Gqhs",
+      "etag": "5Pvgc8z9CzM_rGlBXzaap9w56Lc",
       "id": "wJ9ApHXBlWE",
       "snippet": {
         "publishedAt": "2026-08-30T01:43:12Z",
@@ -1003,15 +1402,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "480",
-        "likeCount": "10",
+        "viewCount": "485",
+        "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7HtBcen15aly-s9B3p-aK0hPPwA",
+      "etag": "3cQBGHjoMb7YYGplmrQwNeEtGxQ",
       "id": "FGMP-r6Kwq0",
       "snippet": {
         "publishedAt": "2026-08-29T15:00:11Z",
@@ -1074,7 +1473,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4439",
+        "viewCount": "4476",
         "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1082,7 +1481,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NEKAoi4e5xI-ABRJogJ9sOA8RKE",
+      "etag": "Sa_tCRooI7B6DrkFYbb2Ye1Vews",
       "id": "6bfpd7tNemg",
       "snippet": {
         "publishedAt": "2026-08-27T11:18:31Z",
@@ -1150,7 +1549,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1308",
+        "viewCount": "1330",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -1219,7 +1618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-FAKTxAtexJ7BsMTFLfE2-jb70c",
+      "etag": "ea5xiG1hAUDmJwzJAJOplFjW-4g",
       "id": "nYPSyZzZcDY",
       "snippet": {
         "publishedAt": "2026-08-15T18:28:54Z",
@@ -1281,7 +1680,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "931",
+        "viewCount": "937",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -1289,7 +1688,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Xtr955z6pgFW4Eb0tHlnBpx9OOk",
+      "etag": "LIxNTMnHSQ7Fod-3zizFwYRmKpI",
       "id": "LEmN65zuSK0",
       "snippet": {
         "publishedAt": "2026-08-14T12:00:12Z",
@@ -1353,15 +1752,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "173",
-        "likeCount": "11",
+        "viewCount": "180",
+        "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SXca59f8RPm9fh3ZbO_pXcExVEI",
+      "etag": "zpJQaAz4CUDZ1FPJCWl6dKIBads",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -1425,7 +1824,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "321",
+        "viewCount": "343",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1537,7 +1936,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pRIZXwPLuVdWC9aERC2IHtMeW3U",
+      "etag": "TE-Rghrdp1DjCkJvykz9xhvD3PU",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -1601,7 +2000,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "308",
+        "viewCount": "310",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1609,7 +2008,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "H5aS1MjrzfzrXq-ocy4SPFYMnSs",
+      "etag": "8rGVdl9poGxKrQlqAHUCp2Cybcc",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -1653,7 +2052,7 @@
         }
       },
       "statistics": {
-        "viewCount": "207",
+        "viewCount": "209",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1661,7 +2060,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9OXdFS23ac_FZ7bE2SryJTtz6vk",
+      "etag": "JqsLDpUwAG9KTb8DDwQY9-eEGng",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -1729,7 +2128,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2191",
+        "viewCount": "2258",
         "likeCount": "110",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1737,7 +2136,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nN2V3iSiOsiwgzv2N4vXhWRzcxU",
+      "etag": "NdR3f5ZyO1M73etCMJFCgaNEesU",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -1805,7 +2204,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "368",
+        "viewCount": "383",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1813,7 +2212,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Xr6PmiCJ4fY4kxpm6vdsPdD-jRs",
+      "etag": "G7Kq5vZVAb7DA1mCsQ0qB0uSYrA",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -1881,7 +2280,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5483",
+        "viewCount": "5494",
         "likeCount": "171",
         "favoriteCount": "0",
         "commentCount": "50"
@@ -1889,7 +2288,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j3kGTnFHFXZ9T2zMx7jjVrHhRvs",
+      "etag": "RHcqcfzbJRQiTuiWrbg3rcexW-Y",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -1951,7 +2350,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "652",
+        "viewCount": "675",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1959,7 +2358,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1cxibAjFUGnFpGUWKSrVg4PHXfU",
+      "etag": "BvEFssxFhFMlx2mQ-dewlRf7vaM",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -2028,7 +2427,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "786",
+        "viewCount": "812",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2036,7 +2435,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I8l3gYtb8LjcgcwX24BgWZA54_c",
+      "etag": "ZM37zWKM6CCWgpwdQl0mP2xDAuo",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -2099,7 +2498,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "159",
+        "viewCount": "162",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2107,7 +2506,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2CQmtxRgKSJ-IfLZJj_af12x5XM",
+      "etag": "fASbNRqjPSJeX6Yi3xjJzEL7Exk",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -2169,7 +2568,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "120",
+        "viewCount": "121",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2249,7 +2648,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "o6cQbi0N-wzQMGR9ljVvwRRmKlM",
+      "etag": "uAMWAvuKZJPvu6fBkci5AXHhAB8",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -2313,7 +2712,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "340",
+        "viewCount": "341",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2321,7 +2720,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hNd_l6rFM5IdjZBbNsQ2x23a_qM",
+      "etag": "1gGHa_aymYdZQOOZCRPX5z6_kFQ",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -2393,7 +2792,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1016",
+        "viewCount": "1023",
         "likeCount": "61",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -2401,7 +2800,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zBArrefW_LIHo-IzdpjsPDiL0uk",
+      "etag": "dPEtsxYGesAExFO8PYGlHZ6YMg0",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -2470,15 +2869,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1076",
-        "likeCount": "61",
+        "viewCount": "1085",
+        "likeCount": "62",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CxgaiFGV6ClzPB7p-95qTmJ4sO4",
+      "etag": "PGfDmqWNW2XGKQBr-WHZA0ATVkI",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -2547,7 +2946,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "355",
+        "viewCount": "359",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2555,7 +2954,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "o5jQAEaknuxigBKI98C7u526iHE",
+      "etag": "oc19sbBL0ZzzryTt_jDd_5OTuMQ",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -2623,7 +3022,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "457",
+        "viewCount": "458",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -2631,7 +3030,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A98eDZiLpAkXhQcCTtRdf6XlvB4",
+      "etag": "uhd_UCHvCrRBaPNN8fL1widiBZ4",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -2700,15 +3099,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1794",
-        "likeCount": "56",
+        "viewCount": "1881",
+        "likeCount": "58",
         "favoriteCount": "0",
         "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "j4OM_hJJ8xps9f7jQGft9QPQSOo",
+      "etag": "hcamESfXrd9koEJmNN4YCjrmr38",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -2776,7 +3175,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "888",
+        "viewCount": "927",
         "likeCount": "53",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -2784,7 +3183,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Urte9fPL1ghfX7lmReY_JohyOps",
+      "etag": "oGrs7Ptdv7zJCKmdst4WGKu7Mlk",
       "id": "2XijWU1D78Y",
       "snippet": {
         "publishedAt": "2026-05-22T14:17:43Z",
@@ -2847,7 +3246,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "349",
+        "viewCount": "353",
         "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2855,7 +3254,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wLmU4ll47AJX9eeVeH2smXS_l94",
+      "etag": "MIFR2jBDeYMM7Y2zzzox2d9wRxc",
       "id": "fZkumHnnbGI",
       "snippet": {
         "publishedAt": "2026-05-21T02:22:37Z",
@@ -2924,7 +3323,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "657",
+        "viewCount": "663",
         "likeCount": "42",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -2932,7 +3331,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IehX7SOA5ZFBc_IHAy35p4jEU2A",
+      "etag": "1mydD34SDXjF4Opj7zPRxdnnq4Q",
       "id": "q6eQQpxJBJY",
       "snippet": {
         "publishedAt": "2026-05-17T13:40:15Z",
@@ -3001,7 +3400,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3568",
+        "viewCount": "3590",
         "likeCount": "92",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -3009,7 +3408,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-Z0c983_ByGMU68ANiR3jifvxRY",
+      "etag": "l0OAM4dvei5OHNb1v4myifh2YSQ",
       "id": "BM7TGhOEgZ8",
       "snippet": {
         "publishedAt": "2026-05-17T13:00:08Z",
@@ -3077,464 +3476,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "673",
+        "viewCount": "684",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M9sF1i_I8u2XKsvMpFV5bcS2K90",
-      "id": "IEwwzO5Uf6Q",
-      "snippet": {
-        "publishedAt": "2026-05-17T04:02:03Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-        "description": "The Icom X-026 had Hamvention buzzing, and we caught up with Ray Novak, N9JA, Senior Sales Manager at Icom America, to find out what's really going on with it.\n\nHere's our take at Everyday Ham: the X-026 reminds us of a concept car at an auto show. Icom didn't call it that, but the spirit is the same. They're showing a direction, gathering feedback, and listening to what operators actually want before committing to a final design. That's a refreshing approach, and Ray walked W8KNX through what they're hearing from the community so far.\nIn this conversation, Ray shares the top three things hams keep asking Icom to build, addresses some of the online speculation directly, and gives us a sense of when we might learn more.\n\nSpoiler: most of the \"X-026 images\" you've seen online aren't from Icom. Ray explains.\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomX026 #IcomConcept #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/IEwwzO5Uf6Q/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Icom X-026",
-          "X-026",
-          "X026",
-          "Icom Concept",
-          "Ray Novak N9JA",
-          "N9JA",
-          "Icom America",
-          "IC-7100 replacement",
-          "IC-7000 replacement",
-          "IC-705",
-          "Concept Radio",
-          "Hamvention 2026",
-          "Ham Radio",
-          "Amateur Radio",
-          "Icom",
-          "Mobile Radio",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-          "description": "The Icom X-026 had Hamvention buzzing, and we caught up with Ray Novak, N9JA, Senior Sales Manager at Icom America, to find out what's really going on with it.\n\nHere's our take at Everyday Ham: the X-026 reminds us of a concept car at an auto show. Icom didn't call it that, but the spirit is the same. They're showing a direction, gathering feedback, and listening to what operators actually want before committing to a final design. That's a refreshing approach, and Ray walked W8KNX through what they're hearing from the community so far.\nIn this conversation, Ray shares the top three things hams keep asking Icom to build, addresses some of the online speculation directly, and gives us a sense of when we might learn more.\n\nSpoiler: most of the \"X-026 images\" you've seen online aren't from Icom. Ray explains.\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomX026 #IcomConcept #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "10189",
-        "likeCount": "197",
-        "favoriteCount": "0",
-        "commentCount": "58"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8pQOcQGtw8IzQCdlLrNMwYrd74U",
-      "id": "uUiUzJ-9kIM",
-      "snippet": {
-        "publishedAt": "2026-05-17T03:21:00Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
-        "description": "We're back at the Icom America booth at Hamvention 2026 to sit down with Ray Novak, N9JA, Senior Sales Manager at Icom America, for the official deep dive on the new Icom ID-5200. Jim N8JRD walks Ray through the radio, and Ray drops some big news that ID-5100 users have been waiting to hear.\n\n\ud83c\udfaf The Headline News:\n\ud83d\udce1 APRS is Coming via Free Firmware Update\n\ud83d\udef0 Built-In KISS TNC\n\ud83d\uddd3 Release Target\n\nRay's projection: Fall 2026 (sometime in 2026)\nFCC approval still pending\n\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nLight sensing with auto-adjusting brightness (great for mobile use)\nTouch a band side and it instantly becomes the active band\nSingle-band fullscreen OR side-by-side dual receive\nWaterfall display in single-band mode\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nTwo separate receivers: V-V, V-U, U-U all supported\nFM on both sides OR digital voice on both sides (upgrade from ID-5100)\nCrossband repeat setting confirmed (with custom PL tones)\n\n\ud83d\udd0c Connectivity\n\nUSB-A and USB-B data ports\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nBuilt-in GPS (top of main body)\n\n\n\ud83d\udd09 Audio\nNo speaker in the control head\nTwo external speaker outputs on the back (left/right or combined)\nMicrophone connects to the main body\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomID5200 #APRS #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/uUiUzJ-9kIM/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Icom ID-5200",
-          "ID-5200",
-          "Ray Novak N9JA",
-          "N9JA",
-          "Ray Novak Icom",
-          "Icom America",
-          "ID-5100 successor",
-          "APRS firmware",
-          "KISS TNC",
-          "D-STAR Mobile",
-          "D-STAR",
-          "Hamvention 2026",
-          "Ham Radio",
-          "Amateur Radio",
-          "Icom",
-          "Dual Band Mobile",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
-          "description": "We're back at the Icom America booth at Hamvention 2026 to sit down with Ray Novak, N9JA, Senior Sales Manager at Icom America, for the official deep dive on the new Icom ID-5200. Jim N8JRD walks Ray through the radio, and Ray drops some big news that ID-5100 users have been waiting to hear.\n\n\ud83c\udfaf The Headline News:\n\ud83d\udce1 APRS is Coming via Free Firmware Update\n\ud83d\udef0 Built-In KISS TNC\n\ud83d\uddd3 Release Target\n\nRay's projection: Fall 2026 (sometime in 2026)\nFCC approval still pending\n\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nLight sensing with auto-adjusting brightness (great for mobile use)\nTouch a band side and it instantly becomes the active band\nSingle-band fullscreen OR side-by-side dual receive\nWaterfall display in single-band mode\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nTwo separate receivers: V-V, V-U, U-U all supported\nFM on both sides OR digital voice on both sides (upgrade from ID-5100)\nCrossband repeat setting confirmed (with custom PL tones)\n\n\ud83d\udd0c Connectivity\n\nUSB-A and USB-B data ports\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nBuilt-in GPS (top of main body)\n\n\n\ud83d\udd09 Audio\nNo speaker in the control head\nTwo external speaker outputs on the back (left/right or combined)\nMicrophone connects to the main body\n\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#IcomID5200 #APRS #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "2173",
-        "likeCount": "60",
-        "favoriteCount": "0",
-        "commentCount": "12"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Nv76Z2gLZ6xKZ0sqJlNyEDFkgC8",
-      "id": "LIM0hjXez1Q",
-      "snippet": {
-        "publishedAt": "2026-05-16T22:40:08Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-        "description": "We're at the Icom America booth at Hamvention 2026 for our first hands-on look at the long-awaited Icom ID-5200, the successor to the ID-5100 dual-band D-STAR mobile that's been a staple of the hobby for over a decade.\nW8KNX has been running an ID-5100 in both his base and mobile setups for over 10 years, so when Icom let us pull the ID-5200 out from under the glass for the first time, we had a lot to look at. Jim N8JRD takes us around the control head, the main unit, and the ports while we explore the new color touchscreen, the menu system, the band scope, and a few features the 5100 never had.\n\n\ud83d\udd11 What We Found:\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nThinner and lighter control head than the ID-5100\nSharp visibility in harsh light (the ID-5100 washed out in the sun)\nColor band scope in single-receive mode\nWaterfall display with adjacent band scanning\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nSimultaneous dual receive: FM-FM, FM-DV, and DV-DV\nMain and sub band selection with two independent dials\n\n\u26a1 Connectivity (New)\n\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nInternal gateway with terminal and access point modes\nDV repeater monitor function\nAPRS support planned via firmware update\n\n\ud83d\udd0c Hardware\n\nUSB-C port\nMemory card slot\nMic port (on the body, not the side of the head)\nGPS receiver on top of the main unit\nSpeech guidance\nMenu system styled like the IC-7300 Mark II and IC-9700\n\n\ud83d\udccd Status: FCC approval pending. No release date announced yet.\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#IcomID5200 #DSTAR #HamRadio",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/LIM0hjXez1Q/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Icom ID-5200",
-          "ID-5200",
-          "ID5200",
-          "Icom ID-5100",
-          "ID-5100 successor",
-          "Icom Mobile",
-          "D-STAR Mobile",
-          "D-STAR",
-          "DV Mode",
-          "Hamvention 2026",
-          "Ham Radio",
-          "Amateur Radio",
-          "Icom",
-          "Dual Band Mobile",
-          "New Ham Radio",
-          "Icom America",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-          "description": "We're at the Icom America booth at Hamvention 2026 for our first hands-on look at the long-awaited Icom ID-5200, the successor to the ID-5100 dual-band D-STAR mobile that's been a staple of the hobby for over a decade.\nW8KNX has been running an ID-5100 in both his base and mobile setups for over 10 years, so when Icom let us pull the ID-5200 out from under the glass for the first time, we had a lot to look at. Jim N8JRD takes us around the control head, the main unit, and the ports while we explore the new color touchscreen, the menu system, the band scope, and a few features the 5100 never had.\n\n\ud83d\udd11 What We Found:\n\ud83d\udda5 The Display\n\n4.3-inch color touchscreen\nThinner and lighter control head than the ID-5100\nSharp visibility in harsh light (the ID-5100 washed out in the sun)\nColor band scope in single-receive mode\nWaterfall display with adjacent band scanning\n\n\ud83d\udcfb Modes & Reception\n\nDual-band 2m / 70cm (144 / 430 MHz)\nFM + DV (D-STAR Digital Voice)\nBroad reception: VHF, UHF, and Airband\nSimultaneous dual receive: FM-FM, FM-DV, and DV-DV\nMain and sub band selection with two independent dials\n\n\u26a1 Connectivity (New)\n\nBuilt-in Wi-Fi\nBuilt-in Bluetooth\nInternal gateway with terminal and access point modes\nDV repeater monitor function\nAPRS support planned via firmware update\n\n\ud83d\udd0c Hardware\n\nUSB-C port\nMemory card slot\nMic port (on the body, not the side of the head)\nGPS receiver on top of the main unit\nSpeech guidance\nMenu system styled like the IC-7300 Mark II and IC-9700\n\n\ud83d\udccd Status: FCC approval pending. No release date announced yet.\n\ud83d\udd17 Icom America\nhttps://www.icomamerica.com/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-id-5200\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#IcomID5200 #DSTAR #HamRadio"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "12235",
-        "likeCount": "198",
-        "favoriteCount": "0",
-        "commentCount": "59"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4afEdIr82ApdZs0YdHFJnViuBvE",
-      "id": "ZYk8IUSeEHI",
-      "snippet": {
-        "publishedAt": "2026-05-16T11:45:04Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-        "description": "W8KNX stops by the Kenwood booth at Hamvention 2026 to talk with Don Arnold, W6GPS, about the long-awaited Kenwood TM-D750A tri-band mobile radio. After a no-show at HamCation a few months back, Kenwood arrived at Dayton with Serial #1, a fully functioning, powered-on unit on display, receiving live APRS beacons (including from Rory's own D74 on the way in).\nThen Jim N8JRD takes us behind the glass for a walkaround of the display case to look at the screen, ports, and microphone up close.\n\n\ud83d\udd11 Confirmed at the Booth:\n\ud83d\udce1 Kenwood TM-D750A Tri-Band Mobile\n2m / 1.25m / 70cm (144 / 222 / 430 MHz)\n50W on VHF and UHF, 20W on 220 MHz\nThree power settings per band\nSingle antenna port\nFront-firing audio with rear speaker output (and control head speaker output)\nTraditional Kenwood mobile-style mic with 10-key DTMF + A/B/C/D\n\n\ud83d\udda5 The Display\n3.45-inch TFT color LCD with high brightness and wide viewing angles\nSoft keys around the display edge that change with menu context\nClock/data row at the top showing APRS activity\nFamiliar menu structure for TH-D74 and TH-D75 users\nFM-side buttons that mirror the TM-D710\n\n\u26a1 Quick-Access Features\nDedicated APRS button \u2014 one press jumps straight to APRS mode (no menu diving)\nBuilt-in APRS TNC, D-STAR, and GPS\n\n\ud83d\uddd3 Release: September 2026 (firmware finalized)\n\ud83d\udd17 Kenwood Amateur Radio\nhttps://www.kenwood.com/usa/com/amateur/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-tm-d750a\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#kenwood #TMD750A #hamvention2026 #hamvention",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/ZYk8IUSeEHI/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Kenwood TM-D750A",
-          "TM-D750A",
-          "TM D750",
-          "Kenwood D750",
-          "Don Arnold W6GPS",
-          "W6GPS",
-          "Kenwood Tri-Band",
-          "APRS",
-          "D-STAR",
-          "220 MHz",
-          "Hamvention 2026",
-          "Ham Radio",
-          "Amateur Radio",
-          "Kenwood",
-          "Kenwood Mobile",
-          "New Ham Radio",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-          "description": "W8KNX stops by the Kenwood booth at Hamvention 2026 to talk with Don Arnold, W6GPS, about the long-awaited Kenwood TM-D750A tri-band mobile radio. After a no-show at HamCation a few months back, Kenwood arrived at Dayton with Serial #1, a fully functioning, powered-on unit on display, receiving live APRS beacons (including from Rory's own D74 on the way in).\nThen Jim N8JRD takes us behind the glass for a walkaround of the display case to look at the screen, ports, and microphone up close.\n\n\ud83d\udd11 Confirmed at the Booth:\n\ud83d\udce1 Kenwood TM-D750A Tri-Band Mobile\n2m / 1.25m / 70cm (144 / 222 / 430 MHz)\n50W on VHF and UHF, 20W on 220 MHz\nThree power settings per band\nSingle antenna port\nFront-firing audio with rear speaker output (and control head speaker output)\nTraditional Kenwood mobile-style mic with 10-key DTMF + A/B/C/D\n\n\ud83d\udda5 The Display\n3.45-inch TFT color LCD with high brightness and wide viewing angles\nSoft keys around the display edge that change with menu context\nClock/data row at the top showing APRS activity\nFamiliar menu structure for TH-D74 and TH-D75 users\nFM-side buttons that mirror the TM-D710\n\n\u26a1 Quick-Access Features\nDedicated APRS button \u2014 one press jumps straight to APRS mode (no menu diving)\nBuilt-in APRS TNC, D-STAR, and GPS\n\n\ud83d\uddd3 Release: September 2026 (firmware finalized)\n\ud83d\udd17 Kenwood Amateur Radio\nhttps://www.kenwood.com/usa/com/amateur/\n\ud83d\udd17 Pre-order from DX Engineering\nhttps://www.dxengineering.com/parts/rsv-tm-d750a\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!\n\n#kenwood #TMD750A #hamvention2026 #hamvention"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "11832",
-        "likeCount": "258",
-        "favoriteCount": "0",
-        "commentCount": "56"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DqIL_RijUBx6J1n-jN-c0bJiC9M",
-      "id": "u_4p34yJlvk",
-      "snippet": {
-        "publishedAt": "2026-05-16T04:00:53Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-        "description": "We're in the Yaesu booth at Hamvention 2026 and sit down with John Kruk, N9UPC, National Sales Manager of the Amateur Division at Yaesu USA, for a first look at the brand new DR-3X repeater. It kicks off the third generation of Yaesu System Fusion, and John walks us through everything that's changed from the DR-1X and DR-2X.\n\n\ud83d\udd11 What's New with the DR-3X:\n\ud83d\udce1 Two single-band transmit models with dual-band receive:\n\nDR-3XV (VHF TX): 85W at 100% continuous duty cycle\nDR-3XU (UHF TX): 65W at 100% continuous duty cycle (coming)\nBoth versions can still receive VHF AND UHF\n\n\ud83d\udd0c Full Power on AC or DC\n\nNo more dropping to 25W on backup battery power\nRun on DC at full output if AC goes out\n\n\ud83d\udcfb Yaesu System Fusion 3\n\nStill C4FM / FDMA digital voice\nStill AMS (Automatic Mode Select) for analog & digital\nFusion protocol unchanged: existing radios (FT1D, FTM-510, 310, 150, 5 series, FTX-1 and more) still work\n\n\ud83c\udf9a ASP & SDX Now in a Repeater\n\nAudio Signal Processing and SDX brought over from the FTM-510 / 710 series\nIncreases receiver sensitivity and cleans up analog signals\n\n\ud83d\udee1 IES (Integrated Elimination Services) \"Evasion Mode\"\n\nRepeater senses interference on the input frequency\nAutomatically moves to an alternate input and notifies your radio\nWorks on BOTH analog and digital\nReturns to normal once interference clears\nRequires firmware update on FTM-510, 310, 150, and 5 series radios\n\n\ud83d\udda5 New Hardware\n\nFull touchscreen with function menu button system\nUSB-C ports on front AND back\n15-pin D-Sub connector\nSD card slot (more details coming)\nTwo RX antenna ports + dedicated TX port\nSmall rack mount design\n\n\ud83d\udd17 Yaesu Repeater Lineup\nhttps://www.yaesu.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/u_4p34yJlvk/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Yaesu DR-3X",
-          "DR-3X",
-          "DR3X",
-          "John Kruk N9UPC",
-          "N9UPC",
-          "Yaesu System Fusion 3",
-          "System Fusion 3",
-          "C4FM",
-          "Yaesu Repeater",
-          "Hamvention 2026",
-          "Ham Radio",
-          "Amateur Radio",
-          "Yaesu",
-          "DR-3XV",
-          "DR-3XU",
-          "Evasion Mode",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-          "description": "We're in the Yaesu booth at Hamvention 2026 and sit down with John Kruk, N9UPC, National Sales Manager of the Amateur Division at Yaesu USA, for a first look at the brand new DR-3X repeater. It kicks off the third generation of Yaesu System Fusion, and John walks us through everything that's changed from the DR-1X and DR-2X.\n\n\ud83d\udd11 What's New with the DR-3X:\n\ud83d\udce1 Two single-band transmit models with dual-band receive:\n\nDR-3XV (VHF TX): 85W at 100% continuous duty cycle\nDR-3XU (UHF TX): 65W at 100% continuous duty cycle (coming)\nBoth versions can still receive VHF AND UHF\n\n\ud83d\udd0c Full Power on AC or DC\n\nNo more dropping to 25W on backup battery power\nRun on DC at full output if AC goes out\n\n\ud83d\udcfb Yaesu System Fusion 3\n\nStill C4FM / FDMA digital voice\nStill AMS (Automatic Mode Select) for analog & digital\nFusion protocol unchanged: existing radios (FT1D, FTM-510, 310, 150, 5 series, FTX-1 and more) still work\n\n\ud83c\udf9a ASP & SDX Now in a Repeater\n\nAudio Signal Processing and SDX brought over from the FTM-510 / 710 series\nIncreases receiver sensitivity and cleans up analog signals\n\n\ud83d\udee1 IES (Integrated Elimination Services) \"Evasion Mode\"\n\nRepeater senses interference on the input frequency\nAutomatically moves to an alternate input and notifies your radio\nWorks on BOTH analog and digital\nReturns to normal once interference clears\nRequires firmware update on FTM-510, 310, 150, and 5 series radios\n\n\ud83d\udda5 New Hardware\n\nFull touchscreen with function menu button system\nUSB-C ports on front AND back\n15-pin D-Sub connector\nSD card slot (more details coming)\nTwo RX antenna ports + dedicated TX port\nSmall rack mount design\n\n\ud83d\udd17 Yaesu Repeater Lineup\nhttps://www.yaesu.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, interviews, POTA activations, and hamfest road trips!"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "5205",
-        "likeCount": "141",
-        "favoriteCount": "0",
-        "commentCount": "26"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fjg-2voQ6LhxngGtQTMXKWS2bK0",
-      "id": "4yIAYqlbBHw",
-      "snippet": {
-        "publishedAt": "2026-05-15T13:11:05Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
-        "description": "Brian Young walks us through the Spooltenna Ultra EFHW4010 at Four Days in May 2026, the QRP ARCI vendor showcase before Hamvention. A clever EFHW antenna built around a spool form factor for fast deployment in the field.\n\ud83d\udce1 Spooltenna Ultra EFHW4010\n\ud83d\udcb0 MSRP: $169.99\n\ud83d\udccd Hamvention Booth 1704, Building 1\n\ud83d\udd17 https://www.spooltenna.com/\nFull FDIM 2026 vendor showcase on YT: @EverydayHam\n\ud83d\udd17 https://www.everydayham.com/\n#HamRadio #POTA #QRP #Spooltenna #FDIM2026 #Hamvention2026 #EverydayHam",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4yIAYqlbBHw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Spooltenna",
-          "Spooltenna Ultra",
-          "EFHW",
-          "EFHW Antenna",
-          "Ham Radio Antenna",
-          "FDIM 2026",
-          "Hamvention 2026",
-          "QRP",
-          "POTA",
-          "SOTA",
-          "Portable Ham Radio",
-          "Amateur Radio",
-          "Ham Radio",
-          "Everyday Ham"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
-          "description": "Brian Young walks us through the Spooltenna Ultra EFHW4010 at Four Days in May 2026, the QRP ARCI vendor showcase before Hamvention. A clever EFHW antenna built around a spool form factor for fast deployment in the field.\n\ud83d\udce1 Spooltenna Ultra EFHW4010\n\ud83d\udcb0 MSRP: $169.99\n\ud83d\udccd Hamvention Booth 1704, Building 1\n\ud83d\udd17 https://www.spooltenna.com/\nFull FDIM 2026 vendor showcase on YT: @EverydayHam\n\ud83d\udd17 https://www.everydayham.com/\n#HamRadio #POTA #QRP #Spooltenna #FDIM2026 #Hamvention2026 #EverydayHam"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "1188",
-        "likeCount": "32",
-        "favoriteCount": "0",
-        "commentCount": "5"
       }
     }
   ]

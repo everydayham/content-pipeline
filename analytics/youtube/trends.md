@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-11-02 21:11 UTC*
+*Last updated: 2026-11-09 21:47 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| Pota,dadi ice cream #shorts #funny #shortsfeed #vi... |  Village vibes studi | 3,739,091 | 2026-10-27 |
-| United States Air Force Station "HFGCS" Emergency ... | ShortwaveRadioReceiv | 432,838 | 2026-10-30 |
-| Dada Pota Ka Jhagda 😂 Cute Baby Funny Video Urdu |... | Pixel Pop AI | 377,909 | 2026-10-30 |
-| pota in crane task 😂#shorts #shortvideo #short #sh... | Art Club pk | 253,258 | 2026-10-28 |
-| pota ducky fun #shorts #shortvideo #short #shortsf... | Art Club pk | 164,310 | 2026-10-31 |
-| आज Dadi Pota लेकर आए हैं गाँव के देसी स्वाद से भरप... | dadi & pota  | 143,719 | 2026-10-27 |
-| SOTA,JUNON🌹⚰️  "マンションズ"  はTAIKE をじっと見つめていた#BEFIRST | NINA_BESTY | 143,527 | 2026-10-31 |
-| Dadi-Pota Goals:😱 Nita Ambani & Prithvi Ambani's V... | Ambani Luxury Vibes | 127,634 | 2026-10-28 |
-| dadi pota funny shorts😂😂             #funny #ytsho... | Memer_Aman913 | 116,401 | 2026-11-01 |
-| Tota k pota😂#shorts #short #shortsfeed #trending #... | Art Club pk | 108,945 | 2026-10-27 |
-| are baap re pagal Chaman ka baccha har Raat sota h... | Raj Gautam | 105,486 | 2026-10-29 |
-| 350 രൂപക്ക് ആമസോണിൽ radio #ideas | Du it malayalam | 105,252 | 2026-10-27 |
-| Người làm bằng Nail giả ở Mỹ đã bị bắt, người có b... | Tina Nguyen 1968 | 100,279 | 2026-10-28 |
-| Alperen Rekor Kırdı, NBA’de Sakatlık KÂBUSU | NBA’... | İki Pota Tek Top | 98,547 | 2026-10-28 |
-| 「#うららか」#優里 さん × SOTA @YUURI__CHANNEL | Da-iCE | 96,568 | 2026-10-31 |
-| #Comedy - चालाक पोता | #Shiva Vines | Chalaak Pota... | Comedy Vines Shiva | 94,526 | 2026-10-31 |
-| 2026.11.03 4th Album『BE:4U』#BE_4U #BF_NOWUKNOW #BE... | BE:FIRST Official | 89,677 | 2026-10-27 |
-| Самая крутая рация 2026 года Hytera SFR985! | Вива-Телеком | 88,676 | 2026-10-30 |
-| Can You Use ANY Frequency & Power In An Emergency? | Ringway Manchester | 83,695 | 2026-10-27 |
-| Upar Pankha Chalta Haai | Popular Hindi Rhymes For... | Hamari Madhu | 79,862 | 2026-10-27 |
-| Jo Raat Ko Sota Nahi 🥀 | Overthinking | Sleepless ... | Lafzon Ki Duniya  | 79,113 | 2026-10-31 |
-| Sher Din Mein Atharah Ghante Sota Hai, Lekin Jab J... | Bollywood Carnival | 71,566 | 2026-10-28 |
-| This Spacecraft Came Back From Death 20 Years Late... | Scott Manley | 62,725 | 2026-10-31 |
-| Tag someone jo GHODE bech ke sota ho #tmkoc #trend... | Taarak Mehta ka Oolt | 59,685 | 2026-10-28 |
-| TOP NEW COMEDY // MAHLA SOTA // GUDU GOJ // NEW SA... | Kailash Hansdak | 57,939 | 2026-10-27 |
+| প্রতারক স্বামী | Protarok Shami | Full Natok | Tan... | My Sound Tv | 1,269,739 | 2026-11-03 |
+| POTA POTI KE SATH PEHLI DIWALI MANAAYENGE❤️ | Sambhavna Seth Enter | 1,205,998 | 2026-11-04 |
+| "Yahan Koi Bhookha Nahi Sota" 🐶 | Kindest Heart Fe... | OurBharatam | 684,117 | 2026-11-07 |
+| À l'heure de la 5G, ils communiquent par ondes rad... | France 3 Provence-Al | 299,346 | 2026-11-03 |
+| 9 KM Range Walkie Talkie: No Mobile Recharge Neede... | Dharminder Tech | 287,776 | 2026-11-04 |
+| Viral Song 🎵😂 Sota Batcha na bohot attcha se goya ... | Dipjyoti Any Video  | 279,621 | 2026-11-06 |
+| Slam Dunk with #SOTA 🏀 #BEFIRST #RUI #STARGLOW #SG... | STARGLOW Official | 255,724 | 2026-11-04 |
+| Enna aatam pota da😂🤡 #beingsrivarshan #love #gayus... | Sri | 209,023 | 2026-11-05 |
+| Сказать нет боимся! До пенсии не доживём. Россияне... | sotavision | 188,231 | 2026-11-05 |
+| Jharkhandi🔥Style Chakhna Recipe😱Pota Kaleji Recipe | Bihari Kites | 178,846 | 2026-11-08 |
+| POTA POTI KE LIYE DIWALI GIFT SHOPPING🛍️ | SHEELA KE SHANKAR | 170,228 | 2026-11-06 |
+| Kimi K3.1 weights OUT, open source computer use, S... | Matthew Berman | 167,700 | 2026-11-05 |
+| Best Backup Comms for Families (in under 60s) | MAD Gear, LLC | 146,729 | 2026-11-03 |
+| JONNY BHAI KI HF REVEAL HO GAYI BHAIYO🔥🤣🤣😱#jonatha... |  JG Moments ⭐ | 140,619 | 2026-11-04 |
+| Tiger Sota Hai Toh Jungle Bhi Sota Hai 😨 | Real Wi... | Ilahitravels | 139,639 | 2026-11-04 |
+| phone dig gia end vich ⚽🥹 dada pota ⚽ 🔥 #footballv... | Jota_sujjon | 124,953 | 2026-11-04 |
+| 😱 Reels ஆட்சி TVK-க்கு தரமான reply comment pota pe... | The Political Feed | 120,943 | 2026-11-08 |
+| SOTAが中心にいるとき、ダンスのシンクロは別次元のものとなる。#BEFIRST | NINA_BESTY | 116,692 | 2026-11-05 |
+| #BEFIRST#BESTY サプライズメッセージ最後泣いた😭みんなの表情🥲5周年おめでとういつもあ... | BE:HAPPY | 116,309 | 2026-11-04 |
+| FCC Busts Alleged GMRS Repeater Jammer In Southern... | NotaRubicon Producti | 111,192 | 2026-11-05 |
+| Texas to NY on Tr Usdx #hobby #hamradio #radiooper... | Hobby Steve  | 107,871 | 2026-11-04 |
+| Tung tung pota ke le jaw#funny#freefire#shorts | ES GAMER | 102,887 | 2026-11-06 |
+| 「#うららか」SOTA × YUDAI | Da-iCE | 98,209 | 2026-11-05 |
+| # BEFIRST#nowyouknow dance practice reaction①#SOTA... | BE:HAPPY | 97,855 | 2026-11-06 |
+| Thukki pota aprm epdi nu yosika kudathuu😌📈puriyuth... | Maskboy | 92,984 | 2026-11-09 |
 
 ---
 
@@ -42,13 +42,13 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (29 videos)
+- **POTA/Portable**: ████████████████████ (28 videos)
 - **License/Learning**: ████████████████████ (25 videos)
-- **HF Operating**: ████████████████ (16 videos)
-- **Antennas**: ████████████████ (16 videos)
-- **Gear Reviews**: ██████ (6 videos)
-- **QRP**: ████ (4 videos)
-- **Digital Modes**: ███ (3 videos)
+- **HF Operating**: █████████████████ (17 videos)
+- **Antennas**: ██████████████ (14 videos)
+- **Gear Reviews**: ██████████ (10 videos)
+- **QRP**: █████ (5 videos)
+- **Digital Modes**: ████ (4 videos)
 - **Contests**: █ (1 videos)
 
 ---

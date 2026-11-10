@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 09, 2026
+## November 10, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)** (QRZ Forums)
-- **[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)** (SWLing Post)
-- **[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)** (OnAllBands)
+- **[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)** (QRZ Forums)
+- **[Texas Radio Shortwave: Schedule for December 2026](https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/)** (SWLing Post)
+- **[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,28 @@
 
 ### QRZ Forums
 
-**[ARRL November CW Sweepstakes (SS) This Weekend!](https://forums.qrz.com/index.php?threads/arrl-november-cw-sweepstakes-ss-this-weekend.1008850/)**
+**[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)**
 
-**[SP8CVA Grzegorz Kamiński Silent Key](https://forums.qrz.com/index.php?threads/sp8cva-grzegorz-kami%C5%84ski-silent-key.1009185/)**
+**[KC4/KL5SE & KC4USV – Antarctica](https://forums.qrz.com/index.php?threads/kc4-kl5se-kc4usv-%E2%80%93-antarctica.972509/)**
 
-**[FW3GT – Wallis & Futuna](https://forums.qrz.com/index.php?threads/fw3gt-%E2%80%93-wallis-futuna.1004928/)**
+**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
 
 **[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
 
-**[FT4YM Antarctica](https://forums.qrz.com/index.php?threads/ft4ym-antarctica.785831/)**
+**[C8K, Mozambique 2026](https://forums.qrz.com/index.php?threads/c8k-mozambique-2026.960789/)**
 
 ---
 
 ### SWLing Post
+
+**[Texas Radio Shortwave: Schedule for December 2026](https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/)**
+> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click the image to enlarge): Note that you can also find schedules and more information on the Texas Radio Shortwave website.
+
+**[Video: Detecting Sunspots on the Far Side of the Sun](https://swling.com/blog/2026/11/video-detecting-sunspots-on-the-far-side-of-the-sun/)**
+> Many thanks to SWLing Post contributor David Shannon, who shares the following short video about detecting sunspots on the far side of the Sun: Click here to view on YouTube.
+
+**[KNOT the nine o’clock news on shortwave](https://swling.com/blog/2026/11/knot-the-nine-oclock-news-on-shortwave/)**
+> Happy November to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 11th November at 0300 hrs UTC on 9395 kHz via WRMI we revisit the Shortwave Music Library to see if we have any overdue recordings. Expect the...
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Shortwave radio never ceases to surprise me. While in Porto Alegre, I was listening to a broadcast aimed at Japan by the Australian radio...
@@ -58,18 +67,12 @@
 **[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Dennis Dura and David Iurescia for the following tips: NightDX: Automated...
 
-**[Scarrafone 2.0: The Homebrew Antenna Evolves](https://swling.com/blog/2026/11/scarrafone-2-0-the-homebrew-antenna-evolves/)**
-> Many thanks to SWLing Post contributor Giuseppe Morlè, who writes: Dear Thomas and friends at the SWLing Post, This is Giuseppe Morlè, IZ0GZW, from Formia, in central Italy on the Tyrrhenian Sea. In this video, you’ll see the evolution of the “Scarrafone” antenna—this is the Scarrafone 2.0! I’ve...
-
-**[Carlos’ Field Recording of Reach Beyond Australia ( , 2026)](https://swling.com/blog/2026/11/carlos-field-recording-of-reach-beyond-australia-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following field recording. Carlos notes: I listened to this program broadcast yesterday by Reach Beyond Australia, which was about a book published in Japan titled “The Book of Breathing,” written by...
-
-**[Carlos’ Illustrated Radio Listening Report and Recording of NHK (November 4, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-nhk-november-4-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: NHK: US Midterm Elections: Republicans Suffer Major Defeat “…In the U.S. midterm elections, the opposition Democratic Party secured a...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)**
+> With the 2026 CQ World Wide DX Contest SSB completed and the CQ WW DX Contest CW coming up soon (Nov. 28-29), I thought it might be helpful to discuss […] The post Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest appeared first on OnAllBands.
 
 **[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)**
 > Legendary DXer and popular amateur radio author Bob Locher, W9KNI, took a break from his “Tales from a Serial Sniper” series on OnAllBands to write about the travails and triumphs […] The post Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe...
@@ -82,9 +85,6 @@
 
 **[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)**
 > Need a sure-fire, one-stop solution to easily handle all your ham radio holiday gift-shopping needs? You’ll find presents for every operator on your list at DX Engineering. Choose from transceivers, […] The post DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards appeared first on...
-
-**[Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp](https://www.onallbands.com/ham-radio-youth-insights-my-experience-at-austria-2026-yota-camp/)**
-> This past summer (July 25-Aug. 1, 2026), I had the opportunity to attend the YOTA (Youngsters On The Air) camp held in Wagrain, Austria. I’ve attended YOTA camps in IARU […] The post Ham Radio Youth Insights—My Experience at Austria 2026 YOTA Camp appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Upgrade an AllStarLink 3 Node from Debian 12 to Debian 13 (In Place)](https://etherham.com/upgrade-an-allstarlink-3-node-from-debian-12-to-debian-13-in-place/)**
+> Upgrade an AllStarLink 3 node from Debian 12 to Debian 13 without reinstalling, so it can run the new ASL Web UI. Includes pre-flight checks, a backup, an optional phase to safely remove a leftover desktop, and what to do if something goes sideways. Source
+
 **[Renumber an AllStarLink 3 Node](https://etherham.com/renumber-an-allstarlink-3-node/)**
 > Give an existing AllStarLink 3 node a new node number, step by step. Find every file that holds the old number, fix the leftover addresses that break connections and dashboards when a node has moved, and confirm that other nodes can reach it. Source
 
@@ -121,9 +124,6 @@
 **[Linux: One Command — ssh](https://etherham.com/linux-one-command-ssh/)**
 > One command gets you from your Windows PC or Mac onto any Linux machine on your network: a node, a hotspot, a Raspberry Pi, or a server. Source
 
-**[Linux: One Command — df -h](https://etherham.com/linux-one-command-df-h/)**
-> One command shows how full your node’s SD card or drive is, so you can catch a full disk before it causes trouble. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-09 21:19 UTC*
+*Generated: 2026-11-10 18:30 UTC*

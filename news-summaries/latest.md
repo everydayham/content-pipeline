@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 10, 2026
+## November 11, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)** (QRZ Forums)
-- **[Texas Radio Shortwave: Schedule for December 2026](https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/)** (SWLing Post)
-- **[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)** (OnAllBands)
+- **[FCC proposes to grant access to 900 MHz, 2.4 GHz, 5 GHz to satellites](https://forums.qrz.com/index.php?threads/fcc-proposes-to-grant-access-to-900-mhz-2-4-ghz-5-ghz-to-satellites.998881/)** (QRZ Forums)
+- **[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)** (SWLing Post)
+- **[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[The USS Turner Joy (Charter Member of the Tonkin Gulf Yacht Club) Amateur Radio Club, NS7DD](https://forums.qrz.com/index.php?threads/the-uss-turner-joy-charter-member-of-the-tonkin-gulf-yacht-club-amateur-radio-club-ns7dd.1008805/)**
-
-**[KC4/KL5SE & KC4USV – Antarctica](https://forums.qrz.com/index.php?threads/kc4-kl5se-kc4usv-%E2%80%93-antarctica.972509/)**
-
-**[Top 10 Tools Every Beginning DXer Needs | NA9P at W9DXCC](https://forums.qrz.com/index.php?threads/top-10-tools-every-beginning-dxer-needs-na9p-at-w9dxcc.1006347/)**
+**[FCC proposes to grant access to 900 MHz, 2.4 GHz, 5 GHz to satellites](https://forums.qrz.com/index.php?threads/fcc-proposes-to-grant-access-to-900-mhz-2-4-ghz-5-ghz-to-satellites.998881/)**
 
 **[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
 
-**[C8K, Mozambique 2026](https://forums.qrz.com/index.php?threads/c8k-mozambique-2026.960789/)**
+**[PJ6/DL8DYL & PJ6/DL8DRA – Saba](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-pj6-dl8dra-%E2%80%93-saba.1009323/)**
+
+**[PJ6/DL8DYL y PJ6/DL9DRA, Saba Is.](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-y-pj6-dl9dra-saba-is.1009320/)**
+
+**[9X5KM, Ruanda](https://forums.qrz.com/index.php?threads/9x5km-ruanda.991233/)**
 
 ---
 
 ### SWLing Post
+
+**[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)**
+> A quick note for SWLing Post readers: this article has been re-posted from our sister site, QRPer.com. Although the field kits I mention below are amateur radio kits, these pouches and packs could just as easily hold any number of portable shortwave radios. For scale, I’ve taken a couple of photos...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Radio 10 (November 9, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-november-9-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: …”Foreign press focused Pope Leo XIV’s speeches on the government’s economy. Media outlets in the United States and Europe interpreted his...
 
 **[Texas Radio Shortwave: Schedule for December 2026](https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/)**
 > Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click the image to enlarge): Note that you can also find schedules and more information on the Texas Radio Shortwave website.
@@ -61,15 +67,12 @@
 **[KNOT the nine o’clock news on shortwave](https://swling.com/blog/2026/11/knot-the-nine-oclock-news-on-shortwave/)**
 > Happy November to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 11th November at 0300 hrs UTC on 9395 kHz via WRMI we revisit the Shortwave Music Library to see if we have any overdue recordings. Expect the...
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 5, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-5-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Shortwave radio never ceases to surprise me. While in Porto Alegre, I was listening to a broadcast aimed at Japan by the Australian radio...
-
-**[Radio Waves: Automated Overnight Shortwave DXing, $17M Aroostook Superstation on the Market, Blessing EWTN, Radio Bulgaria QSL No. 11, and FM Deserves Protection Too](https://swling.com/blog/2026/11/radio-waves-automated-overnight-shortwave-dxing-17m-aroostook-superstation-on-the-market-blessing-ewtn-radio-bulgaria-qsl-no-11-and-fm-deserves-protection-too/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Dennis Dura and David Iurescia for the following tips: NightDX: Automated...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)**
+> There are legions of ham radio operators who feel Parks on the Air® (POTA) has been a true gift to the amateur radio community. If you’d like to introduce a […] The post Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More appeared first on OnAllBands.
 
 **[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)**
 > With the 2026 CQ World Wide DX Contest SSB completed and the CQ WW DX Contest CW coming up soon (Nov. 28-29), I thought it might be helpful to discuss […] The post Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)**
 > While early winter’s chill is beginning to creep into Ohio’s daily forecast, the folks at OnAllBands are still reminded of warmer days this May at the Greene County Fairgrounds and […] The post Catching Up with Bob Schenck, N2OO, INDEXA Vice President appeared first on OnAllBands.
-
-**[DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards](https://www.onallbands.com/dx-engineering-holiday-gift-guide-part-1-dx-engineering-gift-cards/)**
-> Need a sure-fire, one-stop solution to easily handle all your ham radio holiday gift-shopping needs? You’ll find presents for every operator on your list at DX Engineering. Choose from transceivers, […] The post DX Engineering Holiday Gift Guide Part 1—DX Engineering Gift Cards appeared first on...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-10 18:30 UTC*
+*Generated: 2026-11-11 18:27 UTC*

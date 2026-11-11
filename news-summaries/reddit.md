@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-10 18:30 UTC*
+*Last updated: 2026-11-11 18:27 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Welshman Artie Moore who in his shed built a homemade radio set (1911). One year...](https://www.reddit.com/r/amateurradio/comments/1xsch7u/welshman_artie_moore_who_in_his_shed_built_a/)**
+**3. [Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks the ISS /sa...](https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/)**
+by u/Mbhg74
+
+**4. [Identification of an antenna](https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/)**
+by u/RexLuporum
+
+**5. [12m open to Japan from US East FT8](https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/)**
+by u/SwitchedOnNow
+
+**6. [A couple of dinosaurs](https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/)**
+by u/torracattac
+
+**7. [Schumann Resonance Question](https://www.reddit.com/r/amateurradio/comments/1xto5j1/schumann_resonance_question/)**
+by u/Deadman422
+
+**8. [24 Hours of Galactic Hydrogen using the Disc Yagi and an 8 bit RTL](https://www.reddit.com/r/amateurradio/comments/1xtnd5j/24_hours_of_galactic_hydrogen_using_the_disc_yagi/)**
+by u/DeepSpace1420MHZ
+
+**9. [2m tower located 100 yds from shack](https://www.reddit.com/r/amateurradio/comments/1xt3omz/2m_tower_located_100_yds_from_shack/)**
+by u/Hic_Mos_Noster
+
+**10. [My son is interested in building a radio](https://www.reddit.com/r/amateurradio/comments/1xsxwrb/my_son_is_interested_in_building_a_radio/)**
+by u/blinkheart
+
+**11. [In awe of PSK Reporter result with compromised 10m HWDP NVIS antenna](https://www.reddit.com/r/amateurradio/comments/1xt561u/in_awe_of_psk_reporter_result_with_compromised/)**
+by u/ElementreeCr0
+
+**12. [What did I just tune into?](https://www.reddit.com/r/amateurradio/comments/1xtc1ap/what_did_i_just_tune_into/)**
+by u/Offie144
+
+**13. [FT-817ND buyer’s remorse](https://www.reddit.com/r/amateurradio/comments/1xt42zs/ft817nd_buyers_remorse/)**
+by u/sorslibertas
+
+**14. [Welshman Artie Moore who in his shed built a homemade radio set (1911). One year...](https://www.reddit.com/r/amateurradio/comments/1xsch7u/welshman_artie_moore_who_in_his_shed_built_a/)**
 by u/Hopeful-Flounder-203
 
-**4. [P25 Scanner](https://www.reddit.com/r/amateurradio/comments/1xs6avi/p25_scanner/)**
-by u/Electrical_Issue5868
-
-**5. [Hobbyist/low(ish)-stakes newbie](https://www.reddit.com/r/amateurradio/comments/1xstxkx/hobbyistlowishstakes_newbie/)**
-by u/princeofjays
-
-**6. [Recommendations for absolute beginners?](https://www.reddit.com/r/amateurradio/comments/1xsulea/recommendations_for_absolute_beginners/)**
-by u/JazzlikeLeather05
-
-**7. [Radionde with SDRangel, don't receive data frames](https://www.reddit.com/r/amateurradio/comments/1xsu88u/radionde_with_sdrangel_dont_receive_data_frames/)**
-by u/251progression
-
-**8. [It's shipped!](https://www.reddit.com/r/amateurradio/comments/1xsm89d/its_shipped/)**
-by u/alexxxapostolov
-
-**9. [My callsign is VU2QIP im from india im looking for contact via iss with people l...](https://www.reddit.com/r/amateurradio/comments/1xsnq2s/my_callsign_is_vu2qip_im_from_india_im_looking/)**
-by u/Relevant-Pen-7482
-
-**10. [Rhizomatica’s HERMES and Mercury Expand Open-Source HF Communications for Remote...](https://www.reddit.com/r/amateurradio/comments/1xs2sya/rhizomaticas_hermes_and_mercury_expand_opensource/)**
-by u/ARDC_73
-
-**11. [12' Paraclipse Dish any amateur use?](https://www.reddit.com/r/amateurradio/comments/1xrhmol/12_paraclipse_dish_any_amateur_use/)**
-by u/bloodysurfer
-
-**12. [Inexpensive headset with Dynamic Mic](https://www.reddit.com/r/amateurradio/comments/1xs6cmp/inexpensive_headset_with_dynamic_mic/)**
-by u/n0fumar
-
-**13. [Amateur radio gore anyone?](https://www.reddit.com/r/amateurradio/comments/1xrtrxx/amateur_radio_gore_anyone/)**
-by u/ChemistPilot
-
-**14. [Price vs Value - Lightning Arrestors](https://www.reddit.com/r/amateurradio/comments/1xrxo66/price_vs_value_lightning_arrestors/)**
-by u/Big-Tutor-3060
-
-**15. [Is calling CQ without “de” usual?](https://www.reddit.com/r/amateurradio/comments/1xrqg7z/is_calling_cq_without_de_usual/)**
-by u/Lovesholiday
+**15. [trying to connect stright key to uvk5 but does not work](https://www.reddit.com/r/amateurradio/comments/1xtgnk0/trying_to_connect_stright_key_to_uvk5_but_does/)**
+by u/minMINminer
 
 ---
 
@@ -61,14 +61,14 @@ by u/Lovesholiday
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[Welshman Artie Moore who in his shed built a homemade radio set (1911)...](https://www.reddit.com/r/amateurradio/comments/1xsch7u/welshman_artie_moore_who_in_his_shed_built_a/)** (r/amateurradio)
-- **[P25 Scanner](https://www.reddit.com/r/amateurradio/comments/1xs6avi/p25_scanner/)** (r/amateurradio)
-- **[Hobbyist/low(ish)-stakes newbie](https://www.reddit.com/r/amateurradio/comments/1xstxkx/hobbyistlowishstakes_newbie/)** (r/amateurradio)
-- **[Recommendations for absolute beginners?](https://www.reddit.com/r/amateurradio/comments/1xsulea/recommendations_for_absolute_beginners/)** (r/amateurradio)
-- **[Radionde with SDRangel, don't receive data frames](https://www.reddit.com/r/amateurradio/comments/1xsu88u/radionde_with_sdrangel_dont_receive_data_frames/)** (r/amateurradio)
-- **[It's shipped!](https://www.reddit.com/r/amateurradio/comments/1xsm89d/its_shipped/)** (r/amateurradio)
-- **[My callsign is VU2QIP im from india im looking for contact via iss wit...](https://www.reddit.com/r/amateurradio/comments/1xsnq2s/my_callsign_is_vu2qip_im_from_india_im_looking/)** (r/amateurradio)
-- **[Rhizomatica’s HERMES and Mercury Expand Open-Source HF Communications ...](https://www.reddit.com/r/amateurradio/comments/1xs2sya/rhizomaticas_hermes_and_mercury_expand_opensource/)** (r/amateurradio)
+- **[Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks t...](https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/)** (r/amateurradio)
+- **[Identification of an antenna](https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/)** (r/amateurradio)
+- **[12m open to Japan from US East FT8](https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/)** (r/amateurradio)
+- **[A couple of dinosaurs](https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/)** (r/amateurradio)
+- **[Schumann Resonance Question](https://www.reddit.com/r/amateurradio/comments/1xto5j1/schumann_resonance_question/)** (r/amateurradio)
+- **[24 Hours of Galactic Hydrogen using the Disc Yagi and an 8 bit RTL](https://www.reddit.com/r/amateurradio/comments/1xtnd5j/24_hours_of_galactic_hydrogen_using_the_disc_yagi/)** (r/amateurradio)
+- **[2m tower located 100 yds from shack](https://www.reddit.com/r/amateurradio/comments/1xt3omz/2m_tower_located_100_yds_from_shack/)** (r/amateurradio)
+- **[My son is interested in building a radio](https://www.reddit.com/r/amateurradio/comments/1xsxwrb/my_son_is_interested_in_building_a_radio/)** (r/amateurradio)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-11 18:27 UTC*
+*Last updated: 2026-11-12 18:43 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -14,44 +14,44 @@ by u/AutoModerator
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks the ISS /sa...](https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/)**
-by u/Mbhg74
+**3. [Is learning morse and doing QRP stuff really the best alternative for broke peop...](https://www.reddit.com/r/amateurradio/comments/1xua16p/is_learning_morse_and_doing_qrp_stuff_really_the/)**
+by u/negativefeed
 
-**4. [Identification of an antenna](https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/)**
-by u/RexLuporum
+**4. [Building a Cheap 3D-Printed Az/El Satellite Rotator what an experience... I save...](https://www.reddit.com/r/amateurradio/comments/1xu2cb0/building_a_cheap_3dprinted_azel_satellite_rotator/)**
+by u/adhdff
 
-**5. [12m open to Japan from US East FT8](https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/)**
+**5. [xombe and xombe-stick - open D-STAR and DMR voice codec](https://www.reddit.com/r/amateurradio/comments/1xu6rwf/xombe_and_xombestick_open_dstar_and_dmr_voice/)**
+by u/x0rroRF
+
+**6. [Icom 2AT](https://www.reddit.com/r/amateurradio/comments/1xu3gdp/icom_2at/)**
+by u/PinoyAdventure
+
+**7. [Are we missing an opportunity with open source software in amateur radio?](https://www.reddit.com/r/amateurradio/comments/1xtu8sj/are_we_missing_an_opportunity_with_open_source/)**
+by u/KingSteve032
+
+**8. [Showing 30m some love](https://www.reddit.com/r/amateurradio/comments/1xtw4y6/showing_30m_some_love/)**
 by u/SwitchedOnNow
 
-**6. [A couple of dinosaurs](https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/)**
-by u/torracattac
+**9. [What does CQ DX mean in Europe? How far is DX](https://www.reddit.com/r/amateurradio/comments/1xu4dow/what_does_cq_dx_mean_in_europe_how_far_is_dx/)**
+by u/KB5JRC
 
-**7. [Schumann Resonance Question](https://www.reddit.com/r/amateurradio/comments/1xto5j1/schumann_resonance_question/)**
-by u/Deadman422
+**10. [Entrenador de código Morse para principiantes en CW](https://www.reddit.com/r/amateurradio/comments/1xukva9/entrenador_de_código_morse_para_principiantes_en/)**
+by u/No-Preparation-3262
 
-**8. [24 Hours of Galactic Hydrogen using the Disc Yagi and an 8 bit RTL](https://www.reddit.com/r/amateurradio/comments/1xtnd5j/24_hours_of_galactic_hydrogen_using_the_disc_yagi/)**
-by u/DeepSpace1420MHZ
+**11. [Could you please help me troubleshoot an issue with my RadioMaster TX Nomad Dual...](https://www.reddit.com/r/amateurradio/comments/1xujmay/could_you_please_help_me_troubleshoot_an_issue/)**
+by u/Darrsse
 
-**9. [2m tower located 100 yds from shack](https://www.reddit.com/r/amateurradio/comments/1xt3omz/2m_tower_located_100_yds_from_shack/)**
-by u/Hic_Mos_Noster
+**12. [Traveling](https://www.reddit.com/r/amateurradio/comments/1xuext8/traveling/)**
+by u/unknown
 
-**10. [My son is interested in building a radio](https://www.reddit.com/r/amateurradio/comments/1xsxwrb/my_son_is_interested_in_building_a_radio/)**
-by u/blinkheart
+**13. [Homemade Jungle Antenna Not Working](https://www.reddit.com/r/amateurradio/comments/1xtv7a2/homemade_jungle_antenna_not_working/)**
+by u/JuniorB721
 
-**11. [In awe of PSK Reporter result with compromised 10m HWDP NVIS antenna](https://www.reddit.com/r/amateurradio/comments/1xt561u/in_awe_of_psk_reporter_result_with_compromised/)**
-by u/ElementreeCr0
+**14. [Industrial SDR transceiver board: Zynq 7020 + AD9361, 70MHz–6GHz, 2×2 MIMO with ...](https://www.reddit.com/r/amateurradio/comments/1xubhe6/industrial_sdr_transceiver_board_zynq_7020_ad9361/)**
+by u/One-Explanation6552
 
-**12. [What did I just tune into?](https://www.reddit.com/r/amateurradio/comments/1xtc1ap/what_did_i_just_tune_into/)**
-by u/Offie144
-
-**13. [FT-817ND buyer’s remorse](https://www.reddit.com/r/amateurradio/comments/1xt42zs/ft817nd_buyers_remorse/)**
-by u/sorslibertas
-
-**14. [Welshman Artie Moore who in his shed built a homemade radio set (1911). One year...](https://www.reddit.com/r/amateurradio/comments/1xsch7u/welshman_artie_moore_who_in_his_shed_built_a/)**
-by u/Hopeful-Flounder-203
-
-**15. [trying to connect stright key to uvk5 but does not work](https://www.reddit.com/r/amateurradio/comments/1xtgnk0/trying_to_connect_stright_key_to_uvk5_but_does/)**
-by u/minMINminer
+**15. [Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks the ISS /sa...](https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/)**
+by u/Mbhg74
 
 ---
 
@@ -61,14 +61,14 @@ by u/minMINminer
 
 - **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
-- **[Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks t...](https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/)** (r/amateurradio)
-- **[Identification of an antenna](https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/)** (r/amateurradio)
-- **[12m open to Japan from US East FT8](https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/)** (r/amateurradio)
-- **[A couple of dinosaurs](https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/)** (r/amateurradio)
-- **[Schumann Resonance Question](https://www.reddit.com/r/amateurradio/comments/1xto5j1/schumann_resonance_question/)** (r/amateurradio)
-- **[24 Hours of Galactic Hydrogen using the Disc Yagi and an 8 bit RTL](https://www.reddit.com/r/amateurradio/comments/1xtnd5j/24_hours_of_galactic_hydrogen_using_the_disc_yagi/)** (r/amateurradio)
-- **[2m tower located 100 yds from shack](https://www.reddit.com/r/amateurradio/comments/1xt3omz/2m_tower_located_100_yds_from_shack/)** (r/amateurradio)
-- **[My son is interested in building a radio](https://www.reddit.com/r/amateurradio/comments/1xsxwrb/my_son_is_interested_in_building_a_radio/)** (r/amateurradio)
+- **[Is learning morse and doing QRP stuff really the best alternative for ...](https://www.reddit.com/r/amateurradio/comments/1xua16p/is_learning_morse_and_doing_qrp_stuff_really_the/)** (r/amateurradio)
+- **[Building a Cheap 3D-Printed Az/El Satellite Rotator what an experience...](https://www.reddit.com/r/amateurradio/comments/1xu2cb0/building_a_cheap_3dprinted_azel_satellite_rotator/)** (r/amateurradio)
+- **[xombe and xombe-stick - open D-STAR and DMR voice codec](https://www.reddit.com/r/amateurradio/comments/1xu6rwf/xombe_and_xombestick_open_dstar_and_dmr_voice/)** (r/amateurradio)
+- **[Icom 2AT](https://www.reddit.com/r/amateurradio/comments/1xu3gdp/icom_2at/)** (r/amateurradio)
+- **[Are we missing an opportunity with open source software in amateur rad...](https://www.reddit.com/r/amateurradio/comments/1xtu8sj/are_we_missing_an_opportunity_with_open_source/)** (r/amateurradio)
+- **[Showing 30m some love](https://www.reddit.com/r/amateurradio/comments/1xtw4y6/showing_30m_some_love/)** (r/amateurradio)
+- **[What does CQ DX mean in Europe? How far is DX](https://www.reddit.com/r/amateurradio/comments/1xu4dow/what_does_cq_dx_mean_in_europe_how_far_is_dx/)** (r/amateurradio)
+- **[Entrenador de código Morse para principiantes en CW](https://www.reddit.com/r/amateurradio/comments/1xukva9/entrenador_de_código_morse_para_principiantes_en/)** (r/amateurradio)
 
 ---
 

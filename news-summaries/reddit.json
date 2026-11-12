@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:27:42.794096",
+  "updated": "2026-11-12T18:43:51.872766",
   "subreddits": [
     "amateurradio",
     "HamRadio"
@@ -17,29 +17,74 @@
         "author": "/u/kc2syk"
       },
       {
+        "title": "Is learning morse and doing QRP stuff really the best alternative for broke people?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xua16p/is_learning_morse_and_doing_qrp_stuff_really_the/",
+        "author": "/u/negativefeed"
+      },
+      {
+        "title": "Building a Cheap 3D-Printed Az/El Satellite Rotator what an experience... I saved a bunch of $$ and learned a bunch.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu2cb0/building_a_cheap_3dprinted_azel_satellite_rotator/",
+        "author": "/u/adhdff"
+      },
+      {
+        "title": "xombe and xombe-stick - open D-STAR and DMR voice codec",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu6rwf/xombe_and_xombestick_open_dstar_and_dmr_voice/",
+        "author": "/u/x0rroRF"
+      },
+      {
+        "title": "Icom 2AT",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu3gdp/icom_2at/",
+        "author": "/u/PinoyAdventure"
+      },
+      {
+        "title": "Are we missing an opportunity with open source software in amateur radio?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtu8sj/are_we_missing_an_opportunity_with_open_source/",
+        "author": "/u/KingSteve032"
+      },
+      {
+        "title": "Showing 30m some love",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtw4y6/showing_30m_some_love/",
+        "author": "/u/SwitchedOnNow"
+      },
+      {
+        "title": "What does CQ DX mean in Europe? How far is DX",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu4dow/what_does_cq_dx_mean_in_europe_how_far_is_dx/",
+        "author": "/u/KB5JRC"
+      },
+      {
+        "title": "Entrenador de c\u00f3digo Morse para principiantes en CW",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xukva9/entrenador_de_c\u00f3digo_morse_para_principiantes_en/",
+        "author": "/u/No-Preparation-3262"
+      },
+      {
+        "title": "Could you please help me troubleshoot an issue with my RadioMaster TX Nomad Dual Band?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xujmay/could_you_please_help_me_troubleshoot_an_issue/",
+        "author": "/u/Darrsse"
+      },
+      {
+        "title": "Traveling",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xuext8/traveling/",
+        "author": null
+      },
+      {
+        "title": "Homemade Jungle Antenna Not Working",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtv7a2/homemade_jungle_antenna_not_working/",
+        "author": "/u/JuniorB721"
+      },
+      {
+        "title": "Industrial SDR transceiver board: Zynq 7020 + AD9361, 70MHz\u20136GHz, 2\u00d72 MIMO with PA output",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xubhe6/industrial_sdr_transceiver_board_zynq_7020_ad9361/",
+        "author": "/u/One-Explanation6552"
+      },
+      {
         "title": "Title: Small Doppler app for the F4HWN Labs firmware (UV-K6), tracks the ISS /satellites for you",
         "link": "https://www.reddit.com/r/amateurradio/comments/1xtojfx/title_small_doppler_app_for_the_f4hwn_labs/",
         "author": "/u/Mbhg74"
       },
       {
-        "title": "Identification of an antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/",
-        "author": "/u/RexLuporum"
-      },
-      {
-        "title": "12m open to Japan from US East FT8",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/",
-        "author": "/u/SwitchedOnNow"
-      },
-      {
-        "title": "A couple of dinosaurs",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/",
-        "author": "/u/torracattac"
-      },
-      {
-        "title": "Schumann Resonance Question",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xto5j1/schumann_resonance_question/",
-        "author": "/u/Deadman422"
+        "title": "Built a custom push-to-talk adapter to listen and key my radios from any USB-C device.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtsoxp/built_a_custom_pushtotalk_adapter_to_listen_and/",
+        "author": "/u/EaseAlert5864"
       },
       {
         "title": "24 Hours of Galactic Hydrogen using the Disc Yagi and an 8 bit RTL",
@@ -47,89 +92,44 @@
         "author": "/u/DeepSpace1420MHZ"
       },
       {
-        "title": "2m tower located 100 yds from shack",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt3omz/2m_tower_located_100_yds_from_shack/",
-        "author": "/u/Hic_Mos_Noster"
+        "title": "Powerpole PP45 with 10awg wire keeps getting stuck hard in the die after crimping",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu48dk/powerpole_pp45_with_10awg_wire_keeps_getting/",
+        "author": "/u/Stormwind99"
       },
       {
-        "title": "My son is interested in building a radio",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsxwrb/my_son_is_interested_in_building_a_radio/",
-        "author": "/u/blinkheart"
+        "title": "CB radio advice best brand and antenna?I am traveling from Galveston, TX to Santa Rosa .There are dead zones I have read a CB is the way to go for safety.",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xufbas/cb_radio_advice_best_brand_and_antennai_am/",
+        "author": "/u/Logical_Passion_3049"
       },
       {
-        "title": "In awe of PSK Reporter result with compromised 10m HWDP NVIS antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt561u/in_awe_of_psk_reporter_result_with_compromised/",
-        "author": "/u/ElementreeCr0"
+        "title": "RadTel RT-950 Pro Antenna Question",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xty8q2/radtel_rt950_pro_antenna_question/",
+        "author": "/u/xXSubZ3r0Xx"
       },
       {
-        "title": "What did I just tune into?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xtc1ap/what_did_i_just_tune_into/",
-        "author": "/u/Offie144"
+        "title": "Raspberry pi scanner?",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtr2gh/raspberry_pi_scanner/",
+        "author": "/u/Steve_Cody"
       },
       {
-        "title": "FT-817ND buyer\u2019s remorse",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt42zs/ft817nd_buyers_remorse/",
-        "author": "/u/sorslibertas"
+        "title": "Identification of an antenna",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xtm3s5/identification_of_an_antenna/",
+        "author": "/u/RexLuporum"
       },
       {
-        "title": "Welshman Artie Moore who in his shed built a homemade radio set (1911). One year later, he would pick up the distress signal of the RMS Titanic 3,000 miles away and then spent the night cycling around trying to raise the alert.",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsch7u/welshman_artie_moore_who_in_his_shed_built_a/",
-        "author": "/u/Hopeful-Flounder-203"
+        "title": "A couple of dinosaurs",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xt0u3l/a_couple_of_dinosaurs/",
+        "author": "/u/torracattac"
       },
       {
-        "title": "trying to connect stright key to uvk5 but does not work",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xtgnk0/trying_to_connect_stright_key_to_uvk5_but_does/",
-        "author": "/u/minMINminer"
+        "title": "12m open to Japan from US East FT8",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xsxm2i/12m_open_to_japan_from_us_east_ft8/",
+        "author": "/u/SwitchedOnNow"
       },
       {
-        "title": "Recommendations for absolute beginners?",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsulea/recommendations_for_absolute_beginners/",
-        "author": "/u/JazzlikeLeather05"
-      },
-      {
-        "title": "Hobbyist/low(ish)-stakes newbie",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xstxkx/hobbyistlowishstakes_newbie/",
-        "author": "/u/princeofjays"
-      },
-      {
-        "title": "Help me pick next antenna type",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xszlsq/help_me_pick_next_antenna_type/",
-        "author": "/u/Gigem1987"
-      },
-      {
-        "title": "P25 Scanner",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xs6avi/p25_scanner/",
-        "author": "/u/Electrical_Issue5868"
-      },
-      {
-        "title": "Kenwood VM7000 multideck issue",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xszsa6/kenwood_vm7000_multideck_issue/",
-        "author": "/u/I_got_erased"
-      },
-      {
-        "title": "It's shipped!",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsm89d/its_shipped/",
-        "author": "/u/alexxxapostolov"
-      },
-      {
-        "title": "Best wire for a short wave antenna",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsvht2/best_wire_for_a_short_wave_antenna/",
-        "author": "/u/Jgbrules"
-      },
-      {
-        "title": "Radio Walkie Takie 4G SenHaix 2510 Poc",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt9bp7/radio_walkie_takie_4g_senhaix_2510_poc/",
-        "author": "/u/Realistic_Access_693"
-      },
-      {
-        "title": "Newbie, need advice on how to set up a 70 Km no line of sight link",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xt1k73/newbie_need_advice_on_how_to_set_up_a_70_km_no/",
-        "author": "/u/dingledongledoodaa"
-      },
-      {
-        "title": "Radionde with SDRangel, don't receive data frames",
-        "link": "https://www.reddit.com/r/amateurradio/comments/1xsu88u/radionde_with_sdrangel_dont_receive_data_frames/",
-        "author": "/u/251progression"
+        "title": "Help please!",
+        "link": "https://www.reddit.com/r/amateurradio/comments/1xu227h/help_please/",
+        "author": "/u/Cautious-Pin-3961"
       }
     ]
   }

@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 11, 2026
+## November 12, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[FCC proposes to grant access to 900 MHz, 2.4 GHz, 5 GHz to satellites](https://forums.qrz.com/index.php?threads/fcc-proposes-to-grant-access-to-900-mhz-2-4-ghz-5-ghz-to-satellites.998881/)** (QRZ Forums)
+- **[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)** (QRZ Forums)
 - **[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)** (SWLing Post)
-- **[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)** (OnAllBands)
+- **[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[FCC proposes to grant access to 900 MHz, 2.4 GHz, 5 GHz to satellites](https://forums.qrz.com/index.php?threads/fcc-proposes-to-grant-access-to-900-mhz-2-4-ghz-5-ghz-to-satellites.998881/)**
+**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
 
-**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
+**[Pictures on my QRZ page](https://forums.qrz.com/index.php?threads/pictures-on-my-qrz-page.1009395/)**
 
-**[PJ6/DL8DYL & PJ6/DL8DRA – Saba](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-pj6-dl8dra-%E2%80%93-saba.1009323/)**
+**[How Do You Jam a Signal That Won't Stay Put?](https://forums.qrz.com/index.php?threads/how-do-you-jam-a-signal-that-wont-stay-put.1009407/)**
 
-**[PJ6/DL8DYL y PJ6/DL9DRA, Saba Is.](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-y-pj6-dl9dra-saba-is.1009320/)**
+**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
 
-**[9X5KM, Ruanda](https://forums.qrz.com/index.php?threads/9x5km-ruanda.991233/)**
+**[V5/G0RIB – Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-%E2%80%93-namibia.1008314/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)**
+> Amateur radio encompasses a wide variety of unique pursuits. While many operators focus on standard HF propagation, satellite communications, or moonbounce, Randy, KQ6RS, pursues a distinct niche: building amateur radio […] The post Amateur Radio Buoys—Bringing HF Position Reporting to the Open...
+
 **[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)**
 > There are legions of ham radio operators who feel Parks on the Air® (POTA) has been a true gift to the amateur radio community. If you’d like to introduce a […] The post Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More appeared first on OnAllBands.
 
@@ -82,9 +85,6 @@
 
 **[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)**
 > Article written by Tim, N3DL. *** Every amateur radio operator has a bucket list. Maybe it’s working a rare DX entity, completing DXCC, or finally making that elusive contact after […] The post From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A appeared first on...
-
-**[Catching Up with Bob Schenck, N2OO, INDEXA Vice President](https://www.onallbands.com/catching-up-with-bob-schenck-n2oo-indexa-vice-president/)**
-> While early winter’s chill is beginning to creep into Ohio’s daily forecast, the folks at OnAllBands are still reminded of warmer days this May at the Greene County Fairgrounds and […] The post Catching Up with Bob Schenck, N2OO, INDEXA Vice President appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,12 @@
 
 ### EtherHam
 
+**[Weekly Report: November 12, 2026](https://etherham.com/weekly-report-november-12-2026/)**
+> Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
+
+**[Linux: One Command — systemctl status asterisk](https://etherham.com/linux-one-command-systemctl-status-asterisk/)**
+> You key up, and nothing happens. No courtesy tone, no connection, no node. Before you start rebooting things or digging through settings, there’s one question worth answering first: is the node software even running? AllStarLink runs on top of a program called Asterisk. If Asterisk isn’t running,...
+
 **[Upgrade an AllStarLink 3 Node from Debian 12 to Debian 13 (In Place)](https://etherham.com/upgrade-an-allstarlink-3-node-from-debian-12-to-debian-13-in-place/)**
 > Upgrade an AllStarLink 3 node from Debian 12 to Debian 13 without reinstalling, so it can run the new ASL Web UI. Includes pre-flight checks, a backup, an optional phase to safely remove a leftover desktop, and what to do if something goes sideways. Source
 
@@ -118,12 +124,6 @@
 **[Weekly Report: November 4, 2026](https://etherham.com/weekly-report-november-4-2026/)**
 > Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
 
-**[Patch the APT Flaw on Your AllStarLink Node](https://etherham.com/patch-apt-on-your-allstarlink-node/)**
-> On November 4, 2026, Debian fixed a flaw in APT, the tool that installs and updates everything on your AllStarLink node. This recipe walks you through checking your node, installing the fix and confirming it worked, in about 15 minutes per node. Source
-
-**[Linux: One Command — ssh](https://etherham.com/linux-one-command-ssh/)**
-> One command gets you from your Windows PC or Mac onto any Linux machine on your network: a node, a hotspot, a Raspberry Pi, or a server. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-11 18:27 UTC*
+*Generated: 2026-11-12 18:43 UTC*

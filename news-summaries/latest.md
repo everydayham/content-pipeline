@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 12, 2026
+## November 13, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)** (QRZ Forums)
-- **[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)** (SWLing Post)
-- **[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)** (OnAllBands)
+- **[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)** (QRZ Forums)
+- **[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)** (SWLing Post)
+- **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
-
-**[Pictures on my QRZ page](https://forums.qrz.com/index.php?threads/pictures-on-my-qrz-page.1009395/)**
-
-**[How Do You Jam a Signal That Won't Stay Put?](https://forums.qrz.com/index.php?threads/how-do-you-jam-a-signal-that-wont-stay-put.1009407/)**
-
 **[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
 
-**[V5/G0RIB – Namibia](https://forums.qrz.com/index.php?threads/v5-g0rib-%E2%80%93-namibia.1008314/)**
+**[PJ4K - Bonaire](https://forums.qrz.com/index.php?threads/pj4k-bonaire.834994/)**
+
+**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
+
+**[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
+
+**[12 days of QRZ - question](https://forums.qrz.com/index.php?threads/12-days-of-qrz-question.1009494/)**
 
 ---
 
 ### SWLing Post
+
+**[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)**
+> by Dan Greenall Decades ago, there were a number of high-powered AM radio stations operating from Mexico, just across the border from the southern United States. Here, they could bypass U.S. regulations, power limits, and censorship. Accordingly, these stations were nicknamed “border blasters.” One...
 
 **[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)**
 > A quick note for SWLing Post readers: this article has been re-posted from our sister site, QRPer.com. Although the field kits I mention below are amateur radio kits, these pouches and packs could just as easily hold any number of portable shortwave radios. For scale, I’ve taken a couple of photos...
@@ -64,12 +67,12 @@
 **[Video: Detecting Sunspots on the Far Side of the Sun](https://swling.com/blog/2026/11/video-detecting-sunspots-on-the-far-side-of-the-sun/)**
 > Many thanks to SWLing Post contributor David Shannon, who shares the following short video about detecting sunspots on the far side of the Sun: Click here to view on YouTube.
 
-**[KNOT the nine o’clock news on shortwave](https://swling.com/blog/2026/11/knot-the-nine-oclock-news-on-shortwave/)**
-> Happy November to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 11th November at 0300 hrs UTC on 9395 kHz via WRMI we revisit the Shortwave Music Library to see if we have any overdue recordings. Expect the...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)**
+> For many amateur radio operators, buying an antenna is the easiest way to get on the air. Choose a model, place an order, assemble it according to the instructions, and […] The post Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas? appeared first on OnAllBands.
 
 **[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)**
 > Amateur radio encompasses a wide variety of unique pursuits. While many operators focus on standard HF propagation, satellite communications, or moonbounce, Randy, KQ6RS, pursues a distinct niche: building amateur radio […] The post Amateur Radio Buoys—Bringing HF Position Reporting to the Open...
@@ -82,9 +85,6 @@
 
 **[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)**
 > Legendary DXer and popular amateur radio author Bob Locher, W9KNI, took a break from his “Tales from a Serial Sniper” series on OnAllBands to write about the travails and triumphs […] The post Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe...
-
-**[From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A](https://www.onallbands.com/from-western-pennsylvania-to-vatican-city-my-unforgettable-experience-operating-hv0a/)**
-> Article written by Tim, N3DL. *** Every amateur radio operator has a bucket list. Maybe it’s working a rare DX entity, completing DXCC, or finally making that elusive contact after […] The post From Western Pennsylvania to Vatican City: My Unforgettable Experience Operating HV0A appeared first on...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-12 18:43 UTC*
+*Generated: 2026-11-13 18:25 UTC*

@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 13, 2026
+## November 14, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)** (QRZ Forums)
-- **[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)** (SWLing Post)
+- **[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)** (QRZ Forums)
+- **[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)** (SWLing Post)
 - **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
-
-**[PJ4K - Bonaire](https://forums.qrz.com/index.php?threads/pj4k-bonaire.834994/)**
-
-**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
-
 **[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
 
-**[12 days of QRZ - question](https://forums.qrz.com/index.php?threads/12-days-of-qrz-question.1009494/)**
+**[C8K, Mozambique 2026](https://forums.qrz.com/index.php?threads/c8k-mozambique-2026.960789/)**
+
+**[PJ6/DL8DYL y PJ6/DL9DRA, Saba Is.](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-y-pj6-dl9dra-saba-is.1009320/)**
+
+**[Using the WWFF spotting page](https://forums.qrz.com/index.php?threads/using-the-wwff-spotting-page.1009577/)**
+
+**[7P8GE, Lesotho Dxpedition](https://forums.qrz.com/index.php?threads/7p8ge-lesotho-dxpedition.998090/)**
 
 ---
 
 ### SWLing Post
+
+**[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)**
+> Many thanks to Roseanna at Radio Northern Europe International, who writes: Hei alle sammen, Hazy (aka Mamma) is bringing you a 1 hour special, featuring Irish singer-songwriter Emma O’Reilly, an unmissable indie creative, fusing folk, classical, pop and contemporary music elements. Emma streams...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 12, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-12-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: On November 12th, the Japanese-language program on the Reach Beyond Australia radio brought the Japanese tradition of celebrating...
 
 **[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)**
 > by Dan Greenall Decades ago, there were a number of high-powered AM radio stations operating from Mexico, just across the border from the southern United States. Here, they could bypass U.S. regulations, power limits, and censorship. Accordingly, these stations were nicknamed “border blasters.” One...
@@ -60,12 +66,6 @@
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of Radio 10 (November 9, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-november-9-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: …”Foreign press focused Pope Leo XIV’s speeches on the government’s economy. Media outlets in the United States and Europe interpreted his...
-
-**[Texas Radio Shortwave: Schedule for December 2026](https://swling.com/blog/2026/11/texas-radio-shortwave-schedule-for-december-2026/)**
-> Many thanks to SWLing Post contributor Terry (N5RTC), who shares the following schedules for Texas Radio Shortwave (click the image to enlarge): Note that you can also find schedules and more information on the Texas Radio Shortwave website.
-
-**[Video: Detecting Sunspots on the Far Side of the Sun](https://swling.com/blog/2026/11/video-detecting-sunspots-on-the-far-side-of-the-sun/)**
-> Many thanks to SWLing Post contributor David Shannon, who shares the following short video about detecting sunspots on the far side of the Sun: Click here to view on YouTube.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Radios at Rest: Caring for Your Gear on the Shelf](https://etherham.com/radios-at-rest-caring-for-your-gear-on-the-shelf/)**
+> A modern handheld radio is a tiny computer with a battery and an RF circuit, and it can fail like one while it sits on the shelf. Here’s what Icom, Yaesu and Kenwood say about battery storage, plus simple habits for keeping idle gear ready to use. Source
+
 **[Weekly Report: November 12, 2026](https://etherham.com/weekly-report-november-12-2026/)**
 > Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
 
@@ -121,9 +124,6 @@
 **[Renumber an AllStarLink 3 Node](https://etherham.com/renumber-an-allstarlink-3-node/)**
 > Give an existing AllStarLink 3 node a new node number, step by step. Find every file that holds the old number, fix the leftover addresses that break connections and dashboards when a node has moved, and confirm that other nodes can reach it. Source
 
-**[Weekly Report: November 4, 2026](https://etherham.com/weekly-report-november-4-2026/)**
-> Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-13 18:25 UTC*
+*Generated: 2026-11-14 16:52 UTC*

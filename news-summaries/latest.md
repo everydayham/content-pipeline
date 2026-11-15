@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 14, 2026
+## November 15, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)** (QRZ Forums)
-- **[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)** (SWLing Post)
+- **[Davy Daniel , F6GEU R.I.P.](https://forums.qrz.com/index.php?threads/davy-daniel-f6geu-r-i-p.1009699/)** (QRZ Forums)
+- **[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)** (SWLing Post)
 - **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[Get on the Air! Free Online Ham Bootcamp – November 14, 2026](https://forums.qrz.com/index.php?threads/get-on-the-air-free-online-ham-bootcamp-%E2%80%93-november-14-2026.1008785/)**
+**[Davy Daniel , F6GEU R.I.P.](https://forums.qrz.com/index.php?threads/davy-daniel-f6geu-r-i-p.1009699/)**
 
-**[C8K, Mozambique 2026](https://forums.qrz.com/index.php?threads/c8k-mozambique-2026.960789/)**
+**[WAE RTTY contest. Anyone hearing nothing like me?](https://forums.qrz.com/index.php?threads/wae-rtty-contest-anyone-hearing-nothing-like-me.1009573/)**
 
-**[PJ6/DL8DYL y PJ6/DL9DRA, Saba Is.](https://forums.qrz.com/index.php?threads/pj6-dl8dyl-y-pj6-dl9dra-saba-is.1009320/)**
+**[GS7V - Shetland Islands](https://forums.qrz.com/index.php?threads/gs7v-shetland-islands.1009674/)**
 
-**[Using the WWFF spotting page](https://forums.qrz.com/index.php?threads/using-the-wwff-spotting-page.1009577/)**
+**[Grid mapper not functioning.](https://forums.qrz.com/index.php?threads/grid-mapper-not-functioning.1009672/)**
 
-**[7P8GE, Lesotho Dxpedition](https://forums.qrz.com/index.php?threads/7p8ge-lesotho-dxpedition.998090/)**
+**[EPC QSO Party Is Back in 2026!](https://forums.qrz.com/index.php?threads/epc-qso-party-is-back-in-2026.1009662/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Jason Shultz, David Iurescia, Tracy Wood, and Carlos Latuff...
 
 **[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)**
 > Many thanks to Roseanna at Radio Northern Europe International, who writes: Hei alle sammen, Hazy (aka Mamma) is bringing you a 1 hour special, featuring Irish singer-songwriter Emma O’Reilly, an unmissable indie creative, fusing folk, classical, pop and contemporary music elements. Emma streams...
@@ -63,9 +66,6 @@
 
 **[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)**
 > A quick note for SWLing Post readers: this article has been re-posted from our sister site, QRPer.com. Although the field kits I mention below are amateur radio kits, these pouches and packs could just as easily hold any number of portable shortwave radios. For scale, I’ve taken a couple of photos...
-
-**[Carlos’ Illustrated Radio Listening Report and Recording of Radio 10 (November 9, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-radio-10-november-9-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: …”Foreign press focused Pope Leo XIV’s speeches on the government’s economy. Media outlets in the United States and Europe interpreted his...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-14 16:52 UTC*
+*Generated: 2026-11-15 17:36 UTC*

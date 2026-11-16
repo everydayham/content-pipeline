@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-11-09 21:47 UTC*
+*Last updated: 2026-11-16 21:27 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| প্রতারক স্বামী | Protarok Shami | Full Natok | Tan... | My Sound Tv | 1,269,739 | 2026-11-03 |
-| POTA POTI KE SATH PEHLI DIWALI MANAAYENGE❤️ | Sambhavna Seth Enter | 1,205,998 | 2026-11-04 |
-| "Yahan Koi Bhookha Nahi Sota" 🐶 | Kindest Heart Fe... | OurBharatam | 684,117 | 2026-11-07 |
-| À l'heure de la 5G, ils communiquent par ondes rad... | France 3 Provence-Al | 299,346 | 2026-11-03 |
-| 9 KM Range Walkie Talkie: No Mobile Recharge Neede... | Dharminder Tech | 287,776 | 2026-11-04 |
-| Viral Song 🎵😂 Sota Batcha na bohot attcha se goya ... | Dipjyoti Any Video  | 279,621 | 2026-11-06 |
-| Slam Dunk with #SOTA 🏀 #BEFIRST #RUI #STARGLOW #SG... | STARGLOW Official | 255,724 | 2026-11-04 |
-| Enna aatam pota da😂🤡 #beingsrivarshan #love #gayus... | Sri | 209,023 | 2026-11-05 |
-| Сказать нет боимся! До пенсии не доживём. Россияне... | sotavision | 188,231 | 2026-11-05 |
-| Jharkhandi🔥Style Chakhna Recipe😱Pota Kaleji Recipe | Bihari Kites | 178,846 | 2026-11-08 |
-| POTA POTI KE LIYE DIWALI GIFT SHOPPING🛍️ | SHEELA KE SHANKAR | 170,228 | 2026-11-06 |
-| Kimi K3.1 weights OUT, open source computer use, S... | Matthew Berman | 167,700 | 2026-11-05 |
-| Best Backup Comms for Families (in under 60s) | MAD Gear, LLC | 146,729 | 2026-11-03 |
-| JONNY BHAI KI HF REVEAL HO GAYI BHAIYO🔥🤣🤣😱#jonatha... |  JG Moments ⭐ | 140,619 | 2026-11-04 |
-| Tiger Sota Hai Toh Jungle Bhi Sota Hai 😨 | Real Wi... | Ilahitravels | 139,639 | 2026-11-04 |
-| phone dig gia end vich ⚽🥹 dada pota ⚽ 🔥 #footballv... | Jota_sujjon | 124,953 | 2026-11-04 |
-| 😱 Reels ஆட்சி TVK-க்கு தரமான reply comment pota pe... | The Political Feed | 120,943 | 2026-11-08 |
-| SOTAが中心にいるとき、ダンスのシンクロは別次元のものとなる。#BEFIRST | NINA_BESTY | 116,692 | 2026-11-05 |
-| #BEFIRST#BESTY サプライズメッセージ最後泣いた😭みんなの表情🥲5周年おめでとういつもあ... | BE:HAPPY | 116,309 | 2026-11-04 |
-| FCC Busts Alleged GMRS Repeater Jammer In Southern... | NotaRubicon Producti | 111,192 | 2026-11-05 |
-| Texas to NY on Tr Usdx #hobby #hamradio #radiooper... | Hobby Steve  | 107,871 | 2026-11-04 |
-| Tung tung pota ke le jaw#funny#freefire#shorts | ES GAMER | 102,887 | 2026-11-06 |
-| 「#うららか」SOTA × YUDAI | Da-iCE | 98,209 | 2026-11-05 |
-| # BEFIRST#nowyouknow dance practice reaction①#SOTA... | BE:HAPPY | 97,855 | 2026-11-06 |
-| Thukki pota aprm epdi nu yosika kudathuu😌📈puriyuth... | Maskboy | 92,984 | 2026-11-09 |
+| 🤤Omelette Piche pota Fry #subscribe #shorts #youtu... | Newfangled with Prem | 1,582,559 | 2026-11-13 |
+| Texas to Slovakia #hamradio #morsecode #radio #hob... | Hobby Steve  | 766,798 | 2026-11-11 |
+| Chalak pota 🤣 #trending #shorts #shortvideo #ytsho... | Ritika Malik | 439,617 | 2026-11-13 |
+| #comedy #ekmotahathighumechala dada pota | Mithlesh babu | 375,029 | 2026-11-10 |
+| У нас то мир будет, но не с Украиной! Россияне о п... | sotavision | 365,468 | 2026-11-10 |
+| Dadi Ke Prati Pota Ka Pyar ♥️🥰👍 "Building Wooden L... | Green Shot Hub_7 | 267,666 | 2026-11-10 |
+| 「#夢中」×「#うららか」SHUNTOさん (#BEFIRST) × SOTA @BEFIRSTOf... | Da-iCE | 200,231 | 2026-11-12 |
+| Aduh, Kehujanan! Leno dan Pota Tidak Membawa Payun... | Marbel - Learning To | 181,259 | 2026-11-13 |
+| Satellite Truck and New Wave Hams #chrisboden #com... | Chris Boden | 155,325 | 2026-11-14 |
+| Raja Bhaiya ने खुद खुलकर बताया कैसे हुई थी Mayawat... | Bharat Samachar | 150,568 | 2026-11-13 |
+| Jokowi Membangun Papua: Sota, Dari Patok Jadi Gerb... | Terima Kasih Pak Jok | 139,669 | 2026-11-14 |
+| Jharkhandi Baba ka Pota #viralvideo #duet #Jharkha... | Laad Vlog 05 | 137,078 | 2026-11-11 |
+| POTA POTI KE SATH MANAAYI PEHLI DIWALI AUR BHAI DO... | SHEELA KE SHANKAR | 129,451 | 2026-11-15 |
+| SOUCHIN 🌹,これは本当にめっちゃ可愛い。SOTAバイクを購入する!!彼は帰国する前に、それを... | NINA_BESTY | 121,094 | 2026-11-11 |
+| 5 Walmart CB Radios Everyone Ignores (But They're ... | ‏Hank Ludlow | 120,659 | 2026-11-11 |
+| Łączność na 7903 km! Polska ➔ Chiny 🌎📡 Potwierdzon... | Kamil | SQ9BL | 107,870 | 2026-11-10 |
+| Viral Radio 📻 #viral #shorts | Digital Guru Kaka | 100,652 | 2026-11-10 |
+| BE:FIRSTメンバーが1分で分かる #sota #shunto #manato #ryuhei ... | ウフフch | 98,078 | 2026-11-10 |
+| 【解説】高速計算【藤井聡太竜王】 | tamakin将棋実況 | 93,739 | 2026-11-12 |
+| Calling CQ on the air #morsecode #hamradio #hobby | The Radio Zoomer | 93,622 | 2026-11-10 |
+| Tiny Army Green Pocket Radio Unboxing!! 📻 CHUYONG ... | NovaGizmo | 88,683 | 2026-11-12 |
+| Irjen Polisi Ari Sota Di Pecat Tidak Hormat Buntun... | pirage info | 86,223 | 2026-11-11 |
+| Funyy reels comedy 😅😂🤣🤣🤣rajsthani wali dadi pota k... | Shekhawati Jaatni Ma | 84,690 | 2026-11-10 |
+| 2Kg (POTA KALEJI) Chicken Liver curry rice in 3 mi... | Hungry vishal Fan Pa | 82,191 | 2026-11-14 |
+| Wo kya hai jo raat ko chalta hai din ko sota hai l... | The Hide Fact  | 78,869 | 2026-11-15 |
 
 ---
 
@@ -43,12 +43,12 @@ What's trending across amateur radio YouTube in the past 7 days.
 Based on search performance this week:
 
 - **POTA/Portable**: ████████████████████ (28 videos)
+- **HF Operating**: ████████████████████ (25 videos)
 - **License/Learning**: ████████████████████ (25 videos)
-- **HF Operating**: █████████████████ (17 videos)
-- **Antennas**: ██████████████ (14 videos)
-- **Gear Reviews**: ██████████ (10 videos)
+- **Antennas**: ███████████████████ (19 videos)
+- **Gear Reviews**: █████████ (9 videos)
+- **Digital Modes**: ██████ (6 videos)
 - **QRP**: █████ (5 videos)
-- **Digital Modes**: ████ (4 videos)
 - **Contests**: █ (1 videos)
 
 ---

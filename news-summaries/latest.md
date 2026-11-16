@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 15, 2026
+## November 16, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[Davy Daniel , F6GEU R.I.P.](https://forums.qrz.com/index.php?threads/davy-daniel-f6geu-r-i-p.1009699/)** (QRZ Forums)
-- **[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)** (SWLing Post)
-- **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)** (OnAllBands)
+- **[Trials & Errors #89: The $100 Ham Shack](https://forums.qrz.com/index.php?threads/trials-errors-89-the-100-ham-shack.1009632/)** (QRZ Forums)
+- **[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)** (SWLing Post)
+- **[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[Davy Daniel , F6GEU R.I.P.](https://forums.qrz.com/index.php?threads/davy-daniel-f6geu-r-i-p.1009699/)**
+**[Trials & Errors #89: The $100 Ham Shack](https://forums.qrz.com/index.php?threads/trials-errors-89-the-100-ham-shack.1009632/)**
 
-**[WAE RTTY contest. Anyone hearing nothing like me?](https://forums.qrz.com/index.php?threads/wae-rtty-contest-anyone-hearing-nothing-like-me.1009573/)**
+**[International DX Convention March 12th-14th 2027-Visalia, CA](https://forums.qrz.com/index.php?threads/international-dx-convention-march-12th-14th-2027-visalia-ca.1009785/)**
 
-**[GS7V - Shetland Islands](https://forums.qrz.com/index.php?threads/gs7v-shetland-islands.1009674/)**
+**[CQ80BH – Azores](https://forums.qrz.com/index.php?threads/cq80bh-%E2%80%93-azores.1009796/)**
 
-**[Grid mapper not functioning.](https://forums.qrz.com/index.php?threads/grid-mapper-not-functioning.1009672/)**
+**[ZF2CI, Cayman Islands](https://forums.qrz.com/index.php?threads/zf2ci-cayman-islands.949359/)**
 
-**[EPC QSO Party Is Back in 2026!](https://forums.qrz.com/index.php?threads/epc-qso-party-is-back-in-2026.1009662/)**
+**[I Built an AI That Talks on Ham Radio](https://forums.qrz.com/index.php?threads/i-built-an-ai-that-talks-on-ham-radio.984745/)**
 
 ---
 
 ### SWLing Post
+
+**[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)**
+> by Pete Jernakoff (K3KMS) Introduction Greetings, fellow shortwave radio aficionados! Although I have been an avid shortwave radio listener (SWL) since the mid-1970s, my interest in the North American shortwave pirate radio scene was, until recently, limited to occasional listening around major...
 
 **[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Jason Shultz, David Iurescia, Tracy Wood, and Carlos Latuff...
@@ -64,12 +67,12 @@
 **[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)**
 > by Dan Greenall Decades ago, there were a number of high-powered AM radio stations operating from Mexico, just across the border from the southern United States. Here, they could bypass U.S. regulations, power limits, and censorship. Accordingly, these stations were nicknamed “border blasters.” One...
 
-**[The Hidden Woodsmen 2026 Holiday Sale: Great Pouches for Field-Portable Shortwave Radios](https://swling.com/blog/2026/11/the-hidden-woodsmen-2026-holiday-sale-great-pouches-for-field-portable-shortwave-radios/)**
-> A quick note for SWLing Post readers: this article has been re-posted from our sister site, QRPer.com. Although the field kits I mention below are amateur radio kits, these pouches and packs could just as easily hold any number of portable shortwave radios. For scale, I’ve taken a couple of photos...
-
 ---
 
 ### OnAllBands
+
+**[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)**
+> As we get closer to snowfall season in Northeast Ohio, the year is ending with a flurry of new products available at DX Engineering—so many, in fact, that OnAllBands has […] The post More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More appeared first on OnAllBands.
 
 **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)**
 > For many amateur radio operators, buying an antenna is the easiest way to get on the air. Choose a model, place an order, assemble it according to the instructions, and […] The post Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas? appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)**
 > With the 2026 CQ World Wide DX Contest SSB completed and the CQ WW DX Contest CW coming up soon (Nov. 28-29), I thought it might be helpful to discuss […] The post Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest appeared first on OnAllBands.
-
-**[Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe](https://www.onallbands.com/tales-from-the-shack-by-bob-locher-w9kni-pulling-coax-cables-control-cables-through-a-plastic-pipe/)**
-> Legendary DXer and popular amateur radio author Bob Locher, W9KNI, took a break from his “Tales from a Serial Sniper” series on OnAllBands to write about the travails and triumphs […] The post Tales from the Shack by Bob Locher, W9KNI: Pulling Coax Cables & Control Cables Through a Plastic Pipe...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-15 17:36 UTC*
+*Generated: 2026-11-16 20:50 UTC*

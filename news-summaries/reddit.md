@@ -1,6 +1,6 @@
 # Ham Radio Reddit Digest
 
-*Last updated: 2026-11-15 17:36 UTC*
+*Last updated: 2026-11-16 20:50 UTC*
 
 Hot posts from the amateur radio communities on Reddit.
 
@@ -8,50 +8,50 @@ Hot posts from the amateur radio communities on Reddit.
 
 ## 🔥 r/amateurradio
 
-**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)**
+**1. [Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xxq2cf/weekly_information_mentor_new_license_thread/)**
 by u/AutoModerator
 
 **2. [Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-related ap...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)**
 by u/kc2syk
 
-**3. [Just passed my tech. Exam today](https://www.reddit.com/r/amateurradio/comments/1xwydfd/just_passed_my_tech_exam_today/)**
+**3. [Passed my General!](https://www.reddit.com/r/amateurradio/comments/1xxp7lo/passed_my_general/)**
+by u/Competitive-Ear8325
+
+**4. [Small yard, wondering about least bad way to do 80m](https://www.reddit.com/r/amateurradio/comments/1xxp0gi/small_yard_wondering_about_least_bad_way_to_do_80m/)**
+by u/thesoulless78
+
+**5. [KD2JTX Re-Elected as ITU Secretary-General](https://www.reddit.com/r/amateurradio/comments/1xxs3qt/kd2jtx_reelected_as_itu_secretarygeneral/)**
+by u/brunchlords
+
+**6. [Frustration made me quit daily CW practice. How do I get back on the grind?](https://www.reddit.com/r/amateurradio/comments/1xxwybq/frustration_made_me_quit_daily_cw_practice_how_do/)**
+by u/_sharpLimefox
+
+**7. [Data2g aprs testing on 40m](https://www.reddit.com/r/amateurradio/comments/1xxzbqf/data2g_aprs_testing_on_40m/)**
+by u/wo8e
+
+**8. [Just passed my tech. Exam today](https://www.reddit.com/r/amateurradio/comments/1xwydfd/just_passed_my_tech_exam_today/)**
 by u/TheToyDr
 
-**4. [Was lucky enough to explore and operate aboard the NS Savannah in Baltimore Harb...](https://www.reddit.com/r/amateurradio/comments/1xwvwdb/was_lucky_enough_to_explore_and_operate_aboard/)**
-by u/Two-Thirty-Two
+**9. [Any UK Hams here that can help me..](https://www.reddit.com/r/amateurradio/comments/1xxokh8/any_uk_hams_here_that_can_help_me/)**
+by u/firekeeper23
 
-**5. [I have no idea why I’m forty and single lol](https://www.reddit.com/r/amateurradio/comments/1xwhx1c/i_have_no_idea_why_im_forty_and_single_lol/)**
-by u/FlyCurious8305
+**10. [Recommended choke for Xiegu VG4 vertical](https://www.reddit.com/r/amateurradio/comments/1xxvzk7/recommended_choke_for_xiegu_vg4_vertical/)**
+by u/4230_Owl
 
-**6. [Weird antennas pointed at my apartment buildingb](https://www.reddit.com/r/amateurradio/comments/1xwavhh/weird_antennas_pointed_at_my_apartment_buildingb/)**
-by u/Mcdoogle2071
+**11. [What mode is this?](https://www.reddit.com/r/amateurradio/comments/1xxuot9/what_mode_is_this/)**
+by u/OldGuyOutLooking
 
-**7. [G90, is it the go to beginner ?](https://www.reddit.com/r/amateurradio/comments/1xwv2f2/g90_is_it_the_go_to_beginner/)**
-by u/anotherbarry
+**12. [Bangladesh’s first printed amateur radio magazine seeks contributors](https://www.reddit.com/r/amateurradio/comments/1xy0jh9/bangladeshs_first_printed_amateur_radio_magazine/)**
+by u/S21ABO
 
-**8. [Diversity of Operation](https://www.reddit.com/r/amateurradio/comments/1xwoa5p/diversity_of_operation/)**
-by u/CoastalRadio
+**13. [Brand new operator, absolutely HOOKED!](https://www.reddit.com/r/amateurradio/comments/1xxducp/brand_new_operator_absolutely_hooked/)**
+by u/Rexxxxxz
 
-**9. [How much does hight influence an antenna?](https://www.reddit.com/r/amateurradio/comments/1xwzihb/how_much_does_hight_influence_an_antenna/)**
-by u/reffak
+**14. [RIP to my (new) ATU-100 🥀](https://www.reddit.com/r/amateurradio/comments/1xx62cd/rip_to_my_new_atu100/)**
+by u/thevmcampos
 
-**10. [Look what showed up on FT8 on 10m](https://www.reddit.com/r/amateurradio/comments/1xwa3ze/look_what_showed_up_on_ft8_on_10m/)**
-by u/Gigem1987
-
-**11. [Frekvencie v Košiciach](https://www.reddit.com/r/amateurradio/comments/1xx1fnc/frekvencie_v_košiciach/)**
-by u/Ok_Lavishness4957
-
-**12. [Noob APRS Q](https://www.reddit.com/r/amateurradio/comments/1xx0eg7/noob_aprs_q/)**
-by u/AlfredoVignale
-
-**13. [SSTV](https://www.reddit.com/r/amateurradio/comments/1xwmjgq/sstv/)**
-by u/DisastrousLack1020
-
-**14. [Rooftop Antenna Thought for HG](https://www.reddit.com/r/amateurradio/comments/1xwybkj/rooftop_antenna_thought_for_hg/)**
-by u/Thick_Emergency9715
-
-**15. [Fiberglass mast in high winds](https://www.reddit.com/r/amateurradio/comments/1xwwmoz/fiberglass_mast_in_high_winds/)**
-by u/kd5det
+**15. [Icom Japan website down](https://www.reddit.com/r/amateurradio/comments/1xxzp3a/icom_japan_website_down/)**
+by u/jsisbell
 
 ---
 
@@ -59,16 +59,16 @@ by u/kd5det
 
 *Latest posts across both subreddits:*
 
-- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xrsdpn/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
+- **[Weekly Information / Mentor / New License Thread](https://www.reddit.com/r/amateurradio/comments/1xxq2cf/weekly_information_mentor_new_license_thread/)** (r/amateurradio)
 - **[Announcing /r/radioVibes for all your vibecoded and AI-assisted radio-...](https://www.reddit.com/r/amateurradio/comments/1x9z1at/announcing_rradiovibes_for_all_your_vibecoded_and/)** (r/amateurradio)
+- **[Passed my General!](https://www.reddit.com/r/amateurradio/comments/1xxp7lo/passed_my_general/)** (r/amateurradio)
+- **[Small yard, wondering about least bad way to do 80m](https://www.reddit.com/r/amateurradio/comments/1xxp0gi/small_yard_wondering_about_least_bad_way_to_do_80m/)** (r/amateurradio)
+- **[KD2JTX Re-Elected as ITU Secretary-General](https://www.reddit.com/r/amateurradio/comments/1xxs3qt/kd2jtx_reelected_as_itu_secretarygeneral/)** (r/amateurradio)
+- **[Frustration made me quit daily CW practice. How do I get back on the g...](https://www.reddit.com/r/amateurradio/comments/1xxwybq/frustration_made_me_quit_daily_cw_practice_how_do/)** (r/amateurradio)
+- **[Data2g aprs testing on 40m](https://www.reddit.com/r/amateurradio/comments/1xxzbqf/data2g_aprs_testing_on_40m/)** (r/amateurradio)
 - **[Just passed my tech. Exam today](https://www.reddit.com/r/amateurradio/comments/1xwydfd/just_passed_my_tech_exam_today/)** (r/amateurradio)
-- **[Was lucky enough to explore and operate aboard the NS Savannah in Balt...](https://www.reddit.com/r/amateurradio/comments/1xwvwdb/was_lucky_enough_to_explore_and_operate_aboard/)** (r/amateurradio)
-- **[I have no idea why I’m forty and single lol](https://www.reddit.com/r/amateurradio/comments/1xwhx1c/i_have_no_idea_why_im_forty_and_single_lol/)** (r/amateurradio)
-- **[Weird antennas pointed at my apartment buildingb](https://www.reddit.com/r/amateurradio/comments/1xwavhh/weird_antennas_pointed_at_my_apartment_buildingb/)** (r/amateurradio)
-- **[G90, is it the go to beginner ?](https://www.reddit.com/r/amateurradio/comments/1xwv2f2/g90_is_it_the_go_to_beginner/)** (r/amateurradio)
-- **[Diversity of Operation](https://www.reddit.com/r/amateurradio/comments/1xwoa5p/diversity_of_operation/)** (r/amateurradio)
-- **[How much does hight influence an antenna?](https://www.reddit.com/r/amateurradio/comments/1xwzihb/how_much_does_hight_influence_an_antenna/)** (r/amateurradio)
-- **[Look what showed up on FT8 on 10m](https://www.reddit.com/r/amateurradio/comments/1xwa3ze/look_what_showed_up_on_ft8_on_10m/)** (r/amateurradio)
+- **[Any UK Hams here that can help me..](https://www.reddit.com/r/amateurradio/comments/1xxokh8/any_uk_hams_here_that_can_help_me/)** (r/amateurradio)
+- **[Recommended choke for Xiegu VG4 vertical](https://www.reddit.com/r/amateurradio/comments/1xxvzk7/recommended_choke_for_xiegu_vg4_vertical/)** (r/amateurradio)
 
 ---
 

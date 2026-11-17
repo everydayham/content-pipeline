@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 16, 2026
+## November 17, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[Trials & Errors #89: The $100 Ham Shack](https://forums.qrz.com/index.php?threads/trials-errors-89-the-100-ham-shack.1009632/)** (QRZ Forums)
-- **[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)** (SWLing Post)
-- **[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)** (OnAllBands)
+- **[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1009472/)** (QRZ Forums)
+- **[Sampling and The Beatles](https://swling.com/blog/2026/11/sampling-and-the-beatles/)** (SWLing Post)
+- **[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[Trials & Errors #89: The $100 Ham Shack](https://forums.qrz.com/index.php?threads/trials-errors-89-the-100-ham-shack.1009632/)**
+**[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1009472/)**
 
-**[International DX Convention March 12th-14th 2027-Visalia, CA](https://forums.qrz.com/index.php?threads/international-dx-convention-march-12th-14th-2027-visalia-ca.1009785/)**
+**[HD4W – Esmeraldas Province Group, SA-056](https://forums.qrz.com/index.php?threads/hd4w-%E2%80%93-esmeraldas-province-group-sa-056.1005103/)**
 
-**[CQ80BH – Azores](https://forums.qrz.com/index.php?threads/cq80bh-%E2%80%93-azores.1009796/)**
+**[Request to Transfer Management of Special Event Callsign](https://forums.qrz.com/index.php?threads/request-to-transfer-management-of-special-event-callsign.1009879/)**
 
-**[ZF2CI, Cayman Islands](https://forums.qrz.com/index.php?threads/zf2ci-cayman-islands.949359/)**
+**[GRG Desktop del Grupo Radio Galena no conecta con QRZ.](https://forums.qrz.com/index.php?threads/grg-desktop-del-grupo-radio-galena-no-conecta-con-qrz.1009873/)**
 
-**[I Built an AI That Talks on Ham Radio](https://forums.qrz.com/index.php?threads/i-built-an-ai-that-talks-on-ham-radio.984745/)**
+**[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)**
 
 ---
 
 ### SWLing Post
+
+**[Sampling and The Beatles](https://swling.com/blog/2026/11/sampling-and-the-beatles/)**
+> Happy Thanksgiving season to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 18th November at 0300 hrs UTC on 9395 kHz via WRMI we debut the Skybird Sampler, a remix of older programs that you may have missed...
 
 **[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)**
 > by Pete Jernakoff (K3KMS) Introduction Greetings, fellow shortwave radio aficionados! Although I have been an avid shortwave radio listener (SWL) since the mid-1970s, my interest in the North American shortwave pirate radio scene was, until recently, limited to occasional listening around major...
@@ -64,12 +67,12 @@
 **[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 12, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-12-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: On November 12th, the Japanese-language program on the Reach Beyond Australia radio brought the Japanese tradition of celebrating...
 
-**[XERF 1570, Ciudad Acuna, Coahuila, Mexico – Then and Now](https://swling.com/blog/2026/11/xerf-1570-ciudad-acuna-coahuila-mexico-then-and-now/)**
-> by Dan Greenall Decades ago, there were a number of high-powered AM radio stations operating from Mexico, just across the border from the southern United States. Here, they could bypass U.S. regulations, power limits, and censorship. Accordingly, these stations were nicknamed “border blasters.” One...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)**
+> A few weeks ago, I headed to the airport to board a plane for the Radio Society of Great Britain (RSGB) Convention—the national amateur radio convention held annually in England. […] The post Ham Radio Youth Insights: Attending the 2026 RSGB Convention appeared first on OnAllBands.
 
 **[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)**
 > As we get closer to snowfall season in Northeast Ohio, the year is ending with a flurry of new products available at DX Engineering—so many, in fact, that OnAllBands has […] The post More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)**
 > There are legions of ham radio operators who feel Parks on the Air® (POTA) has been a true gift to the amateur radio community. If you’d like to introduce a […] The post Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More appeared first on OnAllBands.
-
-**[Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest](https://www.onallbands.com/ham-radio-youth-insights-how-to-prep-for-your-first-multi-op-contest/)**
-> With the 2026 CQ World Wide DX Contest SSB completed and the CQ WW DX Contest CW coming up soon (Nov. 28-29), I thought it might be helpful to discuss […] The post Ham Radio Youth Insights—How to Prep for Your First Multi-Op Contest appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-16 20:50 UTC*
+*Generated: 2026-11-17 19:40 UTC*

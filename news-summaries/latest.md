@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 17, 2026
+## November 18, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,10 +7,10 @@
 
 ## 📻 Quick Highlights
 
-- **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)** (ARRL)
-- **[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1009472/)** (QRZ Forums)
-- **[Sampling and The Beatles](https://swling.com/blog/2026/11/sampling-and-the-beatles/)** (SWLing Post)
-- **[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)** (OnAllBands)
+- **[Doreen Bogdan-Martin, KD2JTX, Re-elected ITU Secretary-General](http://www.arrl.org/news/view/doreen-bogdan-martin-kd2jtx-re-elected-itu-secretary-general)** (ARRL)
+- **[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)** (QRZ Forums)
+- **[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)** (SWLing Post)
+- **[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)** (OnAllBands)
 - **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
 
 ---
@@ -18,6 +18,9 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[Doreen Bogdan-Martin, KD2JTX, Re-elected ITU Secretary-General](http://www.arrl.org/news/view/doreen-bogdan-martin-kd2jtx-re-elected-itu-secretary-general)**
+> Longtime telecommunications regulator and radio amateur Doreen Bogdan-Martin, KD2JTX, has been re-elected to a second 4-year term as Secretary-General of the International Telecommunication Union (ITU), the United Nations agency for digital technologies and international coordination of the radio...
 
 **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)**
 > Many amateur radio clubs and organizations are planning on-air commemorations and special events for Veterans Day 2026. Visit the ARRL Special Events Stations database, and contact the following stations on-the-air:In Tampa, Florida, the American Victory Amateur Radio Club will be operating W4V,...
@@ -31,26 +34,26 @@
 **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)**
 > The active sunspot region that has been giving us improvedpropagation over the past several days will be rotating awayfrom Earth’s view today, but conditions on most of the HFamateur bands should remain pretty decent in the days ahead,as the 10.7-centimeter radio flux remains right around...
 
-**[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](http://www.arrl.org/news/view/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear)**
-> ImageOnline marketplace eBay has imposed new restrictions on listings of radio transmitting equipment in response to new FCC rules that took effect this week, but responded to ARRL The National Association for Amateur Radio® that its new policy will not apply to gear that operates exclusively on...
-
 ---
 
 ### QRZ Forums
 
-**[This Week's Amateur Radio News and Notes Now Available](https://forums.qrz.com/index.php?threads/this-weeks-amateur-radio-news-and-notes-now-available.1009472/)**
+**[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
 
-**[HD4W – Esmeraldas Province Group, SA-056](https://forums.qrz.com/index.php?threads/hd4w-%E2%80%93-esmeraldas-province-group-sa-056.1005103/)**
+**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
 
-**[Request to Transfer Management of Special Event Callsign](https://forums.qrz.com/index.php?threads/request-to-transfer-management-of-special-event-callsign.1009879/)**
+**[Peter I Island 2027](https://forums.qrz.com/index.php?threads/peter-i-island-2027.916241/)**
 
-**[GRG Desktop del Grupo Radio Galena no conecta con QRZ.](https://forums.qrz.com/index.php?threads/grg-desktop-del-grupo-radio-galena-no-conecta-con-qrz.1009873/)**
+**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)**
+**[Today in Ham Radio, November 18: 1921: Six Members, a Few Weeks](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-18-1921-six-members-a-few-weeks.1009956/)**
 
 ---
 
 ### SWLing Post
+
+**[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)**
+> Every now and then a developer reaches out with something that looks genuinely useful, and Demod is one of those. Alphonse Romero, an independent developer about four years into the hobby, first wrote to me a few months back and has been steadily shipping features since. Demod is a native SDR...
 
 **[Sampling and The Beatles](https://swling.com/blog/2026/11/sampling-and-the-beatles/)**
 > Happy Thanksgiving season to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 18th November at 0300 hrs UTC on 9395 kHz via WRMI we debut the Skybird Sampler, a remix of older programs that you may have missed...
@@ -64,12 +67,12 @@
 **[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)**
 > Many thanks to Roseanna at Radio Northern Europe International, who writes: Hei alle sammen, Hazy (aka Mamma) is bringing you a 1 hour special, featuring Irish singer-songwriter Emma O’Reilly, an unmissable indie creative, fusing folk, classical, pop and contemporary music elements. Emma streams...
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond Australia (November 12, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-australia-november-12-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: On November 12th, the Japanese-language program on the Reach Beyond Australia radio brought the Japanese tradition of celebrating...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)**
+> In Part 2 of our Ham Radio Holiday Gift Guide, we explored a range of excellent portable operating presents for the hams in your life, including transceivers, equipment cases, reference […] The post Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More appeared...
 
 **[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)**
 > A few weeks ago, I headed to the airport to board a plane for the Radio Society of Great Britain (RSGB) Convention—the national amateur radio convention held annually in England. […] The post Ham Radio Youth Insights: Attending the 2026 RSGB Convention appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)**
 > Amateur radio encompasses a wide variety of unique pursuits. While many operators focus on standard HF propagation, satellite communications, or moonbounce, Randy, KQ6RS, pursues a distinct niche: building amateur radio […] The post Amateur Radio Buoys—Bringing HF Position Reporting to the Open...
-
-**[Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-2-pota-presents-transceivers-batteries-books-more/)**
-> There are legions of ham radio operators who feel Parks on the Air® (POTA) has been a true gift to the amateur radio community. If you’d like to introduce a […] The post Ham Radio Holiday Gift Guide 2026 Part 2–POTA Presents: Transceivers, Batteries, Books & More appeared first on OnAllBands.
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Pulling My Kenwood TH-D7 Out of Storage](https://etherham.com/pulling-my-kenwood-th-d7-out-of-storage/)**
+> I found my old Kenwood TH-D7A in a storage box. It’s the 1998 radio that put APRS in hams’ hands, and the grandfather of today’s TH-D74 and TH-D75. Here’s its history, what still works today, why it beats my D74 for FM satellites, and why it couldn’t talk to my AllStar node. Source
+
 **[Radios at Rest: Caring for Your Gear on the Shelf](https://etherham.com/radios-at-rest-caring-for-your-gear-on-the-shelf/)**
 > A modern handheld radio is a tiny computer with a battery and an RF circuit, and it can fail like one while it sits on the shelf. Here’s what Icom, Yaesu and Kenwood say about battery storage, plus simple habits for keeping idle gear ready to use. Source
 
@@ -121,9 +124,6 @@
 **[Upgrade an AllStarLink 3 Node from Debian 12 to Debian 13 (In Place)](https://etherham.com/upgrade-an-allstarlink-3-node-from-debian-12-to-debian-13-in-place/)**
 > Upgrade an AllStarLink 3 node from Debian 12 to Debian 13 without reinstalling, so it can run the new ASL Web UI. Includes pre-flight checks, a backup, an optional phase to safely remove a leftover desktop, and what to do if something goes sideways. Source
 
-**[Renumber an AllStarLink 3 Node](https://etherham.com/renumber-an-allstarlink-3-node/)**
-> Give an existing AllStarLink 3 node a new node number, step by step. Find every file that holds the old number, fix the leftover addresses that break connections and dashboards when a node has moved, and confirm that other nodes can reach it. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-17 19:40 UTC*
+*Generated: 2026-11-18 19:16 UTC*

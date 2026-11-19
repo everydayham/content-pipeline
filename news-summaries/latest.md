@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 18, 2026
+## November 19, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,10 +8,10 @@
 ## 📻 Quick Highlights
 
 - **[Doreen Bogdan-Martin, KD2JTX, Re-elected ITU Secretary-General](http://www.arrl.org/news/view/doreen-bogdan-martin-kd2jtx-re-elected-itu-secretary-general)** (ARRL)
-- **[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)** (QRZ Forums)
+- **[Voyager 1 special event W1V](https://forums.qrz.com/index.php?threads/voyager-1-special-event-w1v.1009902/)** (QRZ Forums)
 - **[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)** (SWLing Post)
-- **[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)** (OnAllBands)
-- **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)** (K0NR)
+- **[New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB Electronic](https://www.onallbands.com/new-manufacturer-spotlight-ssb-low-noise-preamplifiers-much-more-from-ssb-electronic/)** (OnAllBands)
+- **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
 ---
 
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
+**[Voyager 1 special event W1V](https://forums.qrz.com/index.php?threads/voyager-1-special-event-w1v.1009902/)**
+
+**[TC3DIS SPECIAL EVENT (Slient Power Project) December 3,2026 Only UTC 08:00-13:00](https://forums.qrz.com/index.php?threads/tc3dis-special-event-slient-power-project-december-3-2026-only-utc-08-00-13-00.1008420/)**
+
 **[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
 
-**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
-
-**[Peter I Island 2027](https://forums.qrz.com/index.php?threads/peter-i-island-2027.916241/)**
+**[Today in Ham Radio, November 19: 1919: The Store Upstairs Goes on the Air](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-19-1919-the-store-upstairs-goes-on-the-air.1010074/)**
 
 **[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
-
-**[Today in Ham Radio, November 18: 1921: Six Members, a Few Weeks](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-18-1921-six-members-a-few-weeks.1009956/)**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### OnAllBands
 
+**[New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB Electronic](https://www.onallbands.com/new-manufacturer-spotlight-ssb-low-noise-preamplifiers-much-more-from-ssb-electronic/)**
+> Visit DXEngineering.com and you’ll find all the familiar names of stalwarts from the ham radio world, including Alinco, Begali, Icom, Kenwood, Vibroplex,Yaesu, and many others. Spend some additional time on […] The post New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB...
+
 **[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)**
 > In Part 2 of our Ham Radio Holiday Gift Guide, we explored a range of excellent portable operating presents for the hams in your life, including transceivers, equipment cases, reference […] The post Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More appeared...
 
@@ -83,12 +86,12 @@
 **[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)**
 > For many amateur radio operators, buying an antenna is the easiest way to get on the air. Choose a model, place an order, assemble it according to the instructions, and […] The post Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas? appeared first on OnAllBands.
 
-**[Amateur Radio Buoys—Bringing HF Position Reporting to the Open Ocean](https://www.onallbands.com/amateur-radio-buoys-bringing-hf-position-reporting-to-the-open-ocean/)**
-> Amateur radio encompasses a wide variety of unique pursuits. While many operators focus on standard HF propagation, satellite communications, or moonbounce, Randy, KQ6RS, pursues a distinct niche: building amateur radio […] The post Amateur Radio Buoys—Bringing HF Position Reporting to the Open...
-
 ---
 
 ### K0NR
+
+**[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)**
+> Boreas Pass in Colorado has a collection of SOTA summits nearby, with the easiest being Madonna Dome (W0C/SP-051). This area is only about 46 miles from our cabin but for some reason we’ve not activated in this area before. The trailhead is easy to find on Boreas Pass, accessed by driving Boreas...
 
 **[Wrapping Up the Lewis & Clark Trail](https://www.k0nr.com/wordpress/2026/10/wrapping-up-the-lewis-clark-trail/)**
 > More from the trip: A Lewis & Clark POTA Journey | On The Trail | West Over Lemhi Pass | Arrived at the Pacific Ocean Joyce/K0JJW and I have wrapped up our trip along the Lewis and Clark National Historic Trail. We started at the Gateway Arch in St. Louis on September 5th and ended ... Read more...
@@ -102,12 +105,15 @@
 **[On The Trail](https://www.k0nr.com/wordpress/2026/09/on-the-trail/)**
 > Our journey on the Lewis and Clark National Historical Trail started at the Gateway Arch National Park in St Louis. The arch is a well known structure and tourist attraction with excellent museum at its base, focused on the western expansion of the US. To be more precise, Camp Dubois is normally...
 
-**[A Lewis & Clark POTA Journey](https://www.k0nr.com/wordpress/2026/09/a-lewis-clark-pota-journey/)**
-> For years, Joyce/K0JJW and I have talked about following the Lewis and Clark National Historic Trail. The main idea is to do a road trip, starting in St Louis, near the Gateway Arch and follow 3,700 miles of river, prairie, mountain, and forest to the Pacific Ocean. (The official trail has been...
-
 ---
 
 ### EtherHam
+
+**[Weekly Report: November 19, 2026](https://etherham.com/weekly-report-november-19-2026/)**
+> Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
+
+**[Previously Owned: Checking a Used Windows Laptop From eBay](https://etherham.com/previously-owned-checking-a-used-windows-laptop-from-ebay/)**
+> My spare Surface died, so I bought a used ThinkPad X1 Carbon on eBay. Before trusting it, I checked the battery, the BIOS, the screen and for leftover company locks, then reset it from the cloud. Here’s the checklist I used. Source
 
 **[Pulling My Kenwood TH-D7 Out of Storage](https://etherham.com/pulling-my-kenwood-th-d7-out-of-storage/)**
 > I found my old Kenwood TH-D7A in a storage box. It’s the 1998 radio that put APRS in hams’ hands, and the grandfather of today’s TH-D74 and TH-D75. Here’s its history, what still works today, why it beats my D74 for FM satellites, and why it couldn’t talk to my AllStar node. Source
@@ -118,12 +124,6 @@
 **[Weekly Report: November 12, 2026](https://etherham.com/weekly-report-november-12-2026/)**
 > Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
 
-**[Linux: One Command — systemctl status asterisk](https://etherham.com/linux-one-command-systemctl-status-asterisk/)**
-> You key up, and nothing happens. No courtesy tone, no connection, no node. Before you start rebooting things or digging through settings, there’s one question worth answering first: is the node software even running? AllStarLink runs on top of a program called Asterisk. If Asterisk isn’t running,...
-
-**[Upgrade an AllStarLink 3 Node from Debian 12 to Debian 13 (In Place)](https://etherham.com/upgrade-an-allstarlink-3-node-from-debian-12-to-debian-13-in-place/)**
-> Upgrade an AllStarLink 3 node from Debian 12 to Debian 13 without reinstalling, so it can run the new ASL Web UI. Includes pre-flight checks, a backup, an optional phase to safely remove a leftover desktop, and what to do if something goes sideways. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-18 19:16 UTC*
+*Generated: 2026-11-19 19:23 UTC*

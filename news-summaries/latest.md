@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 19, 2026
+## November 20, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,10 +7,10 @@
 
 ## 📻 Quick Highlights
 
-- **[Doreen Bogdan-Martin, KD2JTX, Re-elected ITU Secretary-General](http://www.arrl.org/news/view/doreen-bogdan-martin-kd2jtx-re-elected-itu-secretary-general)** (ARRL)
-- **[Voyager 1 special event W1V](https://forums.qrz.com/index.php?threads/voyager-1-special-event-w1v.1009902/)** (QRZ Forums)
-- **[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)** (SWLing Post)
-- **[New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB Electronic](https://www.onallbands.com/new-manufacturer-spotlight-ssb-low-noise-preamplifiers-much-more-from-ssb-electronic/)** (OnAllBands)
+- **[Radio Club of Honduras Requests Protection for Emergency Frequencies](http://www.arrl.org/news/view/radio-club-of-honduras-requests-protection-for-emergency-frequencies)** (ARRL)
+- **[3B8GY - Mauritius](https://forums.qrz.com/index.php?threads/3b8gy-mauritius.1010185/)** (QRZ Forums)
+- **[Dan Records the Alert System Test in Canada](https://swling.com/blog/2026/11/dan-records-the-alert-system-test-in-canada/)** (SWLing Post)
+- **[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
 ---
@@ -18,6 +18,9 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[Radio Club of Honduras Requests Protection for Emergency Frequencies](http://www.arrl.org/news/view/radio-club-of-honduras-requests-protection-for-emergency-frequencies)**
+> Heavy rains are causing significant flooding along the Caribbean coast of Honduras, and the Radio Club of Honduras is asking that certain frequencies be kept clear for emergency communications. International Amateur Radio Union Region 2 Emergency Communications Coordinator Carlos Alberto Santamaría...
 
 **[Doreen Bogdan-Martin, KD2JTX, Re-elected ITU Secretary-General](http://www.arrl.org/news/view/doreen-bogdan-martin-kd2jtx-re-elected-itu-secretary-general)**
 > Longtime telecommunications regulator and radio amateur Doreen Bogdan-Martin, KD2JTX, has been re-elected to a second 4-year term as Secretary-General of the International Telecommunication Union (ITU), the United Nations agency for digital technologies and international coordination of the radio...
@@ -31,26 +34,26 @@
 **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)**
 > Solar activity is expected to be low in the coming days, according to NOAAís Space Weather Prediction Center, with a chance for M-classflares and a slight chance for stronger X-class flares associated with sunspot region 4566, which is showing rapid growth in both size and magnetic complexity. No...
 
-**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-48)**
-> The active sunspot region that has been giving us improvedpropagation over the past several days will be rotating awayfrom Earth’s view today, but conditions on most of the HFamateur bands should remain pretty decent in the days ahead,as the 10.7-centimeter radio flux remains right around...
-
 ---
 
 ### QRZ Forums
 
-**[Voyager 1 special event W1V](https://forums.qrz.com/index.php?threads/voyager-1-special-event-w1v.1009902/)**
+**[3B8GY - Mauritius](https://forums.qrz.com/index.php?threads/3b8gy-mauritius.1010185/)**
 
-**[TC3DIS SPECIAL EVENT (Slient Power Project) December 3,2026 Only UTC 08:00-13:00](https://forums.qrz.com/index.php?threads/tc3dis-special-event-slient-power-project-december-3-2026-only-utc-08-00-13-00.1008420/)**
+**[VU4DX – Andaman Islands](https://forums.qrz.com/index.php?threads/vu4dx-%E2%80%93-andaman-islands.1010169/)**
 
-**[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
-
-**[Today in Ham Radio, November 19: 1919: The Store Upstairs Goes on the Air](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-19-1919-the-store-upstairs-goes-on-the-air.1010074/)**
+**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
 
 **[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
+
+**[VU4DX Andaman y Nicobar Is.](https://forums.qrz.com/index.php?threads/vu4dx-andaman-y-nicobar-is.1010167/)**
 
 ---
 
 ### SWLing Post
+
+**[Dan Records the Alert System Test in Canada](https://swling.com/blog/2026/11/dan-records-the-alert-system-test-in-canada/)**
+> Many thanks to SWLing Post contributor Dan Greenall, who writes: Hi Thomas The Alert Ready System in Canada ran a test today, Wednesday, November 18, at 12:55 pm local time. All radio and TV stations, as well as cell phones, should have received a tone and subsequent message. It was well advertised...
 
 **[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)**
 > Every now and then a developer reaches out with something that looks genuinely useful, and Demod is one of those. Alphonse Romero, an independent developer about four years into the hobby, first wrote to me a few months back and has been steadily shipping features since. Demod is a native SDR...
@@ -64,12 +67,12 @@
 **[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Jason Shultz, David Iurescia, Tracy Wood, and Carlos Latuff...
 
-**[RNEIxtra Emma O’Reilly Special: Sunday, November 15, 2026](https://swling.com/blog/2026/11/rneixtra-emma-oreilly-special-sunday-november-15-2026/)**
-> Many thanks to Roseanna at Radio Northern Europe International, who writes: Hei alle sammen, Hazy (aka Mamma) is bringing you a 1 hour special, featuring Irish singer-songwriter Emma O’Reilly, an unmissable indie creative, fusing folk, classical, pop and contemporary music elements. Emma streams...
-
 ---
 
 ### OnAllBands
+
+**[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)**
+> There was a time when my Black Friday preparations involved studying advertisements with my in-laws, making lists, and standing in line outside stores before the sun came up, just to […] The post Make It a Ham Radio Black Friday with a POTA Rove appeared first on OnAllBands.
 
 **[New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB Electronic](https://www.onallbands.com/new-manufacturer-spotlight-ssb-low-noise-preamplifiers-much-more-from-ssb-electronic/)**
 > Visit DXEngineering.com and you’ll find all the familiar names of stalwarts from the ham radio world, including Alinco, Begali, Icom, Kenwood, Vibroplex,Yaesu, and many others. Spend some additional time on […] The post New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB...
@@ -82,9 +85,6 @@
 
 **[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)**
 > As we get closer to snowfall season in Northeast Ohio, the year is ending with a flurry of new products available at DX Engineering—so many, in fact, that OnAllBands has […] The post More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More appeared first on OnAllBands.
-
-**[Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas?](https://www.onallbands.com/ham-radio-tech-why-should-you-make-your-own-ham-radio-antennas/)**
-> For many amateur radio operators, buying an antenna is the easiest way to get on the air. Choose a model, place an order, assemble it according to the instructions, and […] The post Ham Radio Tech—Why Should You Make Your Own Ham Radio Antennas? appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-19 19:23 UTC*
+*Generated: 2026-11-20 18:59 UTC*

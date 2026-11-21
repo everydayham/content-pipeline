@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 20, 2026
+## November 21, 2026
 
 *Auto-generated from 6 sources*
 
@@ -7,9 +7,9 @@
 
 ## 📻 Quick Highlights
 
-- **[Radio Club of Honduras Requests Protection for Emergency Frequencies](http://www.arrl.org/news/view/radio-club-of-honduras-requests-protection-for-emergency-frequencies)** (ARRL)
-- **[3B8GY - Mauritius](https://forums.qrz.com/index.php?threads/3b8gy-mauritius.1010185/)** (QRZ Forums)
-- **[Dan Records the Alert System Test in Canada](https://swling.com/blog/2026/11/dan-records-the-alert-system-test-in-canada/)** (SWLing Post)
+- **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
+- **[Icom shows all new IC-7110 that replaces IC-7100!](https://forums.qrz.com/index.php?threads/icom-shows-all-new-ic-7110-that-replaces-ic-7100.1002143/)** (QRZ Forums)
+- **[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)** (SWLing Post)
 - **[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
@@ -18,6 +18,12 @@
 ## 📰 Full News by Source
 
 ### ARRL
+
+**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)**
+> Solar activity reached moderate levels this week, according toNOAA’s Space Weather Prediction Center (SWPC), but is expected toreturn to low levels in the coming days. There were two M-classflares from Region 4578 on November 17, but that region is rotatingoff the visible disk. Region 4572...
+
+**[2026 ARRL Board of Directors Election Results](http://www.arrl.org/news/view/2026-arrl-board-of-directors-election-results)**
+> ARRL The National Association for Amateur Radio® announces the results of the 2026 ARRL Division elections.In the Delta Division, incumbent Director David Norris, K5UZ (861 votes), of Redfield, Arkansas, was declared the winner, defeating David Thomas, KM4NYI (669 votes).In the Great Lakes...
 
 **[Radio Club of Honduras Requests Protection for Emergency Frequencies](http://www.arrl.org/news/view/radio-club-of-honduras-requests-protection-for-emergency-frequencies)**
 > Heavy rains are causing significant flooding along the Caribbean coast of Honduras, and the Radio Club of Honduras is asking that certain frequencies be kept clear for emergency communications. International Amateur Radio Union Region 2 Emergency Communications Coordinator Carlos Alberto Santamaría...
@@ -28,29 +34,26 @@
 **[2026 Veterans Day - Amateur Radio Events. ARRL Closed Nov. 11](http://www.arrl.org/news/view/2026-veterans-day-amateur-radio-events-arrl-closed-nov-11)**
 > Many amateur radio clubs and organizations are planning on-air commemorations and special events for Veterans Day 2026. Visit the ARRL Special Events Stations database, and contact the following stations on-the-air:In Tampa, Florida, the American Victory Amateur Radio Club will be operating W4V,...
 
-**[A Century-Plus of Radio Innovation: The 102nd ARRL Handbook is Now Available](http://www.arrl.org/news/view/a-century-plus-of-radio-innovation-the-102nd-arrl-handbook-is-now-available)**
-> First published in 1926, The ARRL Handbook has helped generations of radio amateurs turn curiosity into knowledge, ideas into circuits, and experiments into new discoveries. Over the past century, it has evolved alongside radio technology, reflecting new developments and inspiring hands-on learning...
-
-**[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-49)**
-> Solar activity is expected to be low in the coming days, according to NOAAís Space Weather Prediction Center, with a chance for M-classflares and a slight chance for stronger X-class flares associated with sunspot region 4566, which is showing rapid growth in both size and magnetic complexity. No...
-
 ---
 
 ### QRZ Forums
 
-**[3B8GY - Mauritius](https://forums.qrz.com/index.php?threads/3b8gy-mauritius.1010185/)**
-
-**[VU4DX – Andaman Islands](https://forums.qrz.com/index.php?threads/vu4dx-%E2%80%93-andaman-islands.1010169/)**
-
-**[WARC RTTY](https://forums.qrz.com/index.php?threads/warc-rtty.1009338/)**
+**[Icom shows all new IC-7110 that replaces IC-7100!](https://forums.qrz.com/index.php?threads/icom-shows-all-new-ic-7110-that-replaces-ic-7100.1002143/)**
 
 **[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[VU4DX Andaman y Nicobar Is.](https://forums.qrz.com/index.php?threads/vu4dx-andaman-y-nicobar-is.1010167/)**
+**[XR0Z – Alexander Selkirk Island, SA-101](https://forums.qrz.com/index.php?threads/xr0z-%E2%80%93-alexander-selkirk-island-sa-101.1000450/)**
+
+**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
+
+**[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
 
 ---
 
 ### SWLing Post
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Click here to view on YouTube.
 
 **[Dan Records the Alert System Test in Canada](https://swling.com/blog/2026/11/dan-records-the-alert-system-test-in-canada/)**
 > Many thanks to SWLing Post contributor Dan Greenall, who writes: Hi Thomas The Alert Ready System in Canada ran a test today, Wednesday, November 18, at 12:55 pm local time. All radio and TV stations, as well as cell phones, should have received a tone and subsequent message. It was well advertised...
@@ -63,9 +66,6 @@
 
 **[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)**
 > by Pete Jernakoff (K3KMS) Introduction Greetings, fellow shortwave radio aficionados! Although I have been an avid shortwave radio listener (SWL) since the mid-1970s, my interest in the North American shortwave pirate radio scene was, until recently, limited to occasional listening around major...
-
-**[Radio Waves: Sounding The Sky, KiwiSDR Browser Skywave, FEBC Philippines to End Shortwave Broadcasting, NASA’s Voyager 1 Closes in on Light-day, and Asheville Community Radio WPVM](https://swling.com/blog/2026/11/radio-waves-sounding-the-sky-kiwisdr-browser-skywave-febc-philippines-to-end-shortwave-broadcasting-nasas-voyager-1-closes-in-on-light-day-and-asheville-community-radio-wpvm/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Jason Shultz, David Iurescia, Tracy Wood, and Carlos Latuff...
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-20 18:59 UTC*
+*Generated: 2026-11-21 17:54 UTC*

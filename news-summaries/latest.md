@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 21, 2026
+## November 22, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,7 +8,7 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[Icom shows all new IC-7110 that replaces IC-7100!](https://forums.qrz.com/index.php?threads/icom-shows-all-new-ic-7110-that-replaces-ic-7100.1002143/)** (QRZ Forums)
+- **[Santa Claus Returns to Amateur Radio for 21st Annual Santa Net](https://forums.qrz.com/index.php?threads/santa-claus-returns-to-amateur-radio-for-21st-annual-santa-net.1010403/)** (QRZ Forums)
 - **[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)** (SWLing Post)
 - **[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
@@ -38,15 +38,15 @@
 
 ### QRZ Forums
 
-**[Icom shows all new IC-7110 that replaces IC-7100!](https://forums.qrz.com/index.php?threads/icom-shows-all-new-ic-7110-that-replaces-ic-7100.1002143/)**
-
-**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
-
-**[XR0Z – Alexander Selkirk Island, SA-101](https://forums.qrz.com/index.php?threads/xr0z-%E2%80%93-alexander-selkirk-island-sa-101.1000450/)**
-
-**[Mozambique DXpedition 2026](https://forums.qrz.com/index.php?threads/mozambique-dxpedition-2026.969156/)**
+**[Santa Claus Returns to Amateur Radio for 21st Annual Santa Net](https://forums.qrz.com/index.php?threads/santa-claus-returns-to-amateur-radio-for-21st-annual-santa-net.1010403/)**
 
 **[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
+
+**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
+
+**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
+
+**[QRZ's iPhone App - Upgrade?](https://forums.qrz.com/index.php?threads/qrzs-iphone-app-upgrade.1010412/)**
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-21 17:54 UTC*
+*Generated: 2026-11-22 18:18 UTC*

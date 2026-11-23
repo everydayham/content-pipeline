@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 22, 2026
+## November 23, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[Santa Claus Returns to Amateur Radio for 21st Annual Santa Net](https://forums.qrz.com/index.php?threads/santa-claus-returns-to-amateur-radio-for-21st-annual-santa-net.1010403/)** (QRZ Forums)
-- **[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)** (SWLing Post)
-- **[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)** (OnAllBands)
+- **[How to add a link to an image stored on QRZ to your QRZ page?](https://forums.qrz.com/index.php?threads/how-to-add-a-link-to-an-image-stored-on-qrz-to-your-qrz-page.1010553/)** (QRZ Forums)
+- **[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)** (SWLing Post)
+- **[Ham Radio Tech: Poor Man’s Ham Satellite—A Linear Transponder on a High-Altitude Balloon](https://www.onallbands.com/ham-radio-tech-poor-mans-ham-satellite-a-linear-transponder-on-a-high-altitude-balloon/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
 ---
@@ -38,19 +38,25 @@
 
 ### QRZ Forums
 
-**[Santa Claus Returns to Amateur Radio for 21st Annual Santa Net](https://forums.qrz.com/index.php?threads/santa-claus-returns-to-amateur-radio-for-21st-annual-santa-net.1010403/)**
+**[How to add a link to an image stored on QRZ to your QRZ page?](https://forums.qrz.com/index.php?threads/how-to-add-a-link-to-an-image-stored-on-qrz-to-your-qrz-page.1010553/)**
 
-**[The 12 Days of QRZ 2026](https://forums.qrz.com/index.php?threads/the-12-days-of-qrz-2026.1009953/)**
+**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[3X4U – Guinea DXpedition 20206](https://forums.qrz.com/index.php?threads/3x4u-%E2%80%93-guinea-dxpedition-20206.1004399/)**
+**[Charles K Chennault, WA5YOU SK November 21, 2026](https://forums.qrz.com/index.php?threads/charles-k-chennault-wa5you-sk-november-21-2026.1010546/)**
 
-**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
+**[Radios](https://forums.qrz.com/index.php?threads/radios.1010543/)**
 
-**[QRZ's iPhone App - Upgrade?](https://forums.qrz.com/index.php?threads/qrzs-iphone-app-upgrade.1010412/)**
+**[Today in Ham Radio: November 23, 1905: A Priest Sends Music by Wireless](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-23-1905-a-priest-sends-music-by-wireless.1010511/)**
 
 ---
 
 ### SWLing Post
+
+**[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)**
+> Many thanks to SWLing Post contributor Istvan Biliczky, who shares the following announcement: The TOP DX Radioclub’s annual Top 10 DX of the Year contest returns December 1st! The premise is simple, but the challenge is not: from 00:00 UTC December 1 to 24:00 UTC December 31, log receptions of 10...
+
+**[Jacob notes and records November WTWW transmitter problems](https://swling.com/blog/2026/11/jacob-notes-and-records-november-wtww-transmitter-problems/)**
+> Many thanks to SWLing Post contributor Jacob (K6UAA), who writes: Greetings, Below are three recordings I put on archive.org of WTWW melting down on the 15th of this month. The station is still off the air; before they shut it down, the audio was all on the lower sideband and badly leaking off...
 
 **[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)**
 > Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Click here to view on YouTube.
@@ -61,15 +67,12 @@
 **[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)**
 > Every now and then a developer reaches out with something that looks genuinely useful, and Demod is one of those. Alphonse Romero, an independent developer about four years into the hobby, first wrote to me a few months back and has been steadily shipping features since. Demod is a native SDR...
 
-**[Sampling and The Beatles](https://swling.com/blog/2026/11/sampling-and-the-beatles/)**
-> Happy Thanksgiving season to all our SWLing Post friends! Here’s what Imaginary Stations is cooking up for your shortwave radio/SDR listening pleasure. On Wednesday 18th November at 0300 hrs UTC on 9395 kHz via WRMI we debut the Skybird Sampler, a remix of older programs that you may have missed...
-
-**[Five Weeks on the Pirate Broadcast Band: Using AI to Monitor North American Pirate Radio Broadcast Activity on Shortwave](https://swling.com/blog/2026/11/five-weeks-on-the-pirate-broadcast-band-using-ai-to-monitor-north-american-pirate-radio-broadcast-activity-on-shortwave/)**
-> by Pete Jernakoff (K3KMS) Introduction Greetings, fellow shortwave radio aficionados! Although I have been an avid shortwave radio listener (SWL) since the mid-1970s, my interest in the North American shortwave pirate radio scene was, until recently, limited to occasional listening around major...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Tech: Poor Man’s Ham Satellite—A Linear Transponder on a High-Altitude Balloon](https://www.onallbands.com/ham-radio-tech-poor-mans-ham-satellite-a-linear-transponder-on-a-high-altitude-balloon/)**
+> High-altitude ballooning (HAB) has long provided amateur radio experimenters with an accessible platform for testing airborne repeaters, long-range telemetry systems, and experimental communications payloads. Through successive flight campaigns, the Iowa […] The post Ham Radio Tech: Poor Man’s Ham...
 
 **[Make It a Ham Radio Black Friday with a POTA Rove](https://www.onallbands.com/make-it-a-ham-radio-black-friday-with-a-pota-rove/)**
 > There was a time when my Black Friday preparations involved studying advertisements with my in-laws, making lists, and standing in line outside stores before the sun came up, just to […] The post Make It a Ham Radio Black Friday with a POTA Rove appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)**
 > A few weeks ago, I headed to the airport to board a plane for the Radio Society of Great Britain (RSGB) Convention—the national amateur radio convention held annually in England. […] The post Ham Radio Youth Insights: Attending the 2026 RSGB Convention appeared first on OnAllBands.
-
-**[More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More](https://www.onallbands.com/more-new-products-for-november-2026-handheld-antenna-compact-icom-tuner-more/)**
-> As we get closer to snowfall season in Northeast Ohio, the year is ending with a flurry of new products available at DX Engineering—so many, in fact, that OnAllBands has […] The post More New Products for November 2026—Handheld Antenna, Compact Icom Tuner & More appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-22 18:18 UTC*
+*Generated: 2026-11-23 22:28 UTC*

@@ -1,6 +1,6 @@
 # Ham Radio YouTube Trends
 
-*Last updated: 2026-11-16 21:27 UTC*
+*Last updated: 2026-11-23 23:07 UTC*
 
 What's trending across amateur radio YouTube in the past 7 days.
 
@@ -10,31 +10,31 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 | Video | Channel | Views | Published |
 |-------|---------|-------|-----------|
-| 🤤Omelette Piche pota Fry #subscribe #shorts #youtu... | Newfangled with Prem | 1,582,559 | 2026-11-13 |
-| Texas to Slovakia #hamradio #morsecode #radio #hob... | Hobby Steve  | 766,798 | 2026-11-11 |
-| Chalak pota 🤣 #trending #shorts #shortvideo #ytsho... | Ritika Malik | 439,617 | 2026-11-13 |
-| #comedy #ekmotahathighumechala dada pota | Mithlesh babu | 375,029 | 2026-11-10 |
-| У нас то мир будет, но не с Украиной! Россияне о п... | sotavision | 365,468 | 2026-11-10 |
-| Dadi Ke Prati Pota Ka Pyar ♥️🥰👍 "Building Wooden L... | Green Shot Hub_7 | 267,666 | 2026-11-10 |
-| 「#夢中」×「#うららか」SHUNTOさん (#BEFIRST) × SOTA @BEFIRSTOf... | Da-iCE | 200,231 | 2026-11-12 |
-| Aduh, Kehujanan! Leno dan Pota Tidak Membawa Payun... | Marbel - Learning To | 181,259 | 2026-11-13 |
-| Satellite Truck and New Wave Hams #chrisboden #com... | Chris Boden | 155,325 | 2026-11-14 |
-| Raja Bhaiya ने खुद खुलकर बताया कैसे हुई थी Mayawat... | Bharat Samachar | 150,568 | 2026-11-13 |
-| Jokowi Membangun Papua: Sota, Dari Patok Jadi Gerb... | Terima Kasih Pak Jok | 139,669 | 2026-11-14 |
-| Jharkhandi Baba ka Pota #viralvideo #duet #Jharkha... | Laad Vlog 05 | 137,078 | 2026-11-11 |
-| POTA POTI KE SATH MANAAYI PEHLI DIWALI AUR BHAI DO... | SHEELA KE SHANKAR | 129,451 | 2026-11-15 |
-| SOUCHIN 🌹,これは本当にめっちゃ可愛い。SOTAバイクを購入する!!彼は帰国する前に、それを... | NINA_BESTY | 121,094 | 2026-11-11 |
-| 5 Walmart CB Radios Everyone Ignores (But They're ... | ‏Hank Ludlow | 120,659 | 2026-11-11 |
-| Łączność na 7903 km! Polska ➔ Chiny 🌎📡 Potwierdzon... | Kamil | SQ9BL | 107,870 | 2026-11-10 |
-| Viral Radio 📻 #viral #shorts | Digital Guru Kaka | 100,652 | 2026-11-10 |
-| BE:FIRSTメンバーが1分で分かる #sota #shunto #manato #ryuhei ... | ウフフch | 98,078 | 2026-11-10 |
-| 【解説】高速計算【藤井聡太竜王】 | tamakin将棋実況 | 93,739 | 2026-11-12 |
-| Calling CQ on the air #morsecode #hamradio #hobby | The Radio Zoomer | 93,622 | 2026-11-10 |
-| Tiny Army Green Pocket Radio Unboxing!! 📻 CHUYONG ... | NovaGizmo | 88,683 | 2026-11-12 |
-| Irjen Polisi Ari Sota Di Pecat Tidak Hormat Buntun... | pirage info | 86,223 | 2026-11-11 |
-| Funyy reels comedy 😅😂🤣🤣🤣rajsthani wali dadi pota k... | Shekhawati Jaatni Ma | 84,690 | 2026-11-10 |
-| 2Kg (POTA KALEJI) Chicken Liver curry rice in 3 mi... | Hungry vishal Fan Pa | 82,191 | 2026-11-14 |
-| Wo kya hai jo raat ko chalta hai din ko sota hai l... | The Hide Fact  | 78,869 | 2026-11-15 |
+| Kaun kaise sota hai ? | Fit Arshia | 1,304,537 | 2026-11-17 |
+| 川﨑颯太選手にサッカー選手クイズ！ #サッカー #ブンデスリーガ #マインツ #川﨑颯太 #パリ五輪 | とやっちFC | 347,540 | 2026-11-18 |
+| 佐野海舟選手と川﨑選手の名前を叫んだら気づいてもらえる説 #サッカー #サッカー日本代表  #佐野海... | とやっちFC | 315,143 | 2026-11-17 |
+| BE:FIRST 'NOW U KNOW' #SOTA w/ #K #andTEAM #BF_NOW... | BE:FIRST Official | 314,338 | 2026-11-17 |
+| Tota 🦜 Pota😅🤣 #youtubecomedy #shorts #youtubetrend... | Faheem Shaikh | 275,032 | 2026-11-21 |
+| Morse Code Daily Practice using straight key #mors... | The Radio Zoomer | 210,140 | 2026-11-20 |
+| OG Backbencher Vs Principal Ka Pota 😂 #shorts #fun... | Mr.Sraoster | 202,090 | 2026-11-23 |
+| Syed Suhail | UP Election 2027 | Mayawati ने Raja ... | NDTV India | 183,677 | 2026-11-17 |
+| Practicing Morse code everyday till I’m a pro #mor... | The Radio Zoomer | 175,070 | 2026-11-21 |
+| aisa pota sabko dena bhagwan #viralvideo #bollywoo... | Bk blog up42  | 161,595 | 2026-11-23 |
+| Teaching you Morse code everyday day 10 - J #morse... | The Radio Zoomer | 152,440 | 2026-11-20 |
+| Learn Morse Code #hamradio #hobby #morsecode | The Radio Zoomer | 140,542 | 2026-11-19 |
+| Maami Ko Ab Pota Chhaiye 🥰 #biharicouple #chhathpu... | Akshay Saloni Vlogs | 123,815 | 2026-11-18 |
+| Все в шоке: год от года всё хуже! Надо идти против... | sotavision | 117,821 | 2026-11-17 |
+| How to cook chicken 🐔😋🐔🐓gizzard || चिकन पोटा रेसिप... | Iqra Village Food  | 115,856 | 2026-11-18 |
+| Teaching you Morse Code everyday day 8 - H #morsec... | The Radio Zoomer | 109,651 | 2026-11-19 |
+| Dadi aur unka laadla Pota ❤️❤️ #shorts #video #sub... | Arti Singh Rajput | 108,825 | 2026-11-18 |
+| 13,000 KM to AUSTRALIA! This Tiny LiTime 30Ah Batt... | MrMuDs | 101,677 | 2026-11-20 |
+| Coat pota prechanaiya? #dhanush #tamil #tamilshort... | Content with Gogul | 99,689 | 2026-11-19 |
+| 【解説】悪魔の罠【藤井聡太棋王】 | tamakin将棋実況 | 98,150 | 2026-11-17 |
+| Hunting A Radio Repeater Jammer While He Hid | Ringway Manchester | 92,705 | 2026-11-19 |
+| 【ラウール】ダンス世界大会のあと、BE:FIRSTの楽屋の前で涙…SOTAが「Mステ」で明かした本音... | スターの本音帳 | 90,675 | 2026-11-21 |
+| Vintage Design Meets Modern Technology! 📻#KMJB #Mu... | KMJB | 88,633 | 2026-11-18 |
+| 40 Second  Me Big Thali Chicken  Liver ( Pota Kale... | PCR Food Shorts | 81,081 | 2026-11-21 |
+| cylinder balance on head ⚽️ 😱 #footballvideos dada... | Jota_sujjon | 79,828 | 2026-11-22 |
 
 ---
 
@@ -42,13 +42,12 @@ What's trending across amateur radio YouTube in the past 7 days.
 
 Based on search performance this week:
 
-- **POTA/Portable**: ████████████████████ (28 videos)
-- **HF Operating**: ████████████████████ (25 videos)
-- **License/Learning**: ████████████████████ (25 videos)
-- **Antennas**: ███████████████████ (19 videos)
-- **Gear Reviews**: █████████ (9 videos)
-- **Digital Modes**: ██████ (6 videos)
-- **QRP**: █████ (5 videos)
+- **POTA/Portable**: ████████████████████ (30 videos)
+- **License/Learning**: ████████████████████ (24 videos)
+- **HF Operating**: ████████████████████ (21 videos)
+- **Gear Reviews**: ████████████ (12 videos)
+- **Antennas**: ███████████ (11 videos)
+- **Digital Modes**: ███ (3 videos)
 - **Contests**: █ (1 videos)
 
 ---

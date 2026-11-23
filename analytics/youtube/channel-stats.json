@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-16T21:27:52.059953",
+  "updated": "2026-11-23T23:07:48.679262",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "vW2ZdlCGd1fYRSM5p9eC_SyZUGQ",
+    "etag": "hgLYWyVNNvCyvrY5QIEX-yHAeHg",
     "id": "UCK3ct4iOm2HqnOiv8sgMHxA",
     "snippet": {
       "title": "Everyday Ham",
@@ -33,16 +33,231 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "337921",
-      "subscriberCount": "2580",
+      "viewCount": "359638",
+      "subscriberCount": "2690",
       "hiddenSubscriberCount": false,
-      "videoCount": "182"
+      "videoCount": "185"
     }
   },
   "videos": [
     {
       "kind": "youtube#video",
-      "etag": "YOyWsw1zMYZI2e4YmENyo8aG900",
+      "etag": "G46kVNpEsrovxBZqE3Pu25p1MF8",
+      "id": "ZDMf0apdTXw",
+      "snippet": {
+        "publishedAt": "2026-11-20T21:19:26Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
+        "description": "Nine Black Friday ham radio deals for 2026, including the Yaesu FTX-1 Optima at a new low of $1,549, the Yaesu FTDX10, the Xiegu G90 and the new Radioddity Trivox. Every link and coupon code is below.\nPrices were checked when we recorded. Deals move fast, so check the price in your cart before you buy.\n\nJim (N8JRD), Rory (W8KNX) and James (K8JKU) each bring three picks in a lightning round. After plenty of FTX-1 talk on this channel, Jim makes a recommendation nobody saw coming. He also picks two handhelds: the quad-band Wouxun KG-Q10H, and the Radioddity Trivox, a rebadged Radtel RT-950 Pro that just got new Ferrite firmware. Rory goes for the FTDX10, the G90 for portable HF, and the Yaesu FT-4XR as a name-brand first handheld. James covers the Chameleon Antenna sale, Redodo and Bioenno Power batteries for POTA and battery boxes, and the Garmin inReach Mini 3 Plus as a satellite safety backup for POTA, SOTA and the backcountry.\n\nChapters:\n00:00 Black Friday deals are live\n00:23 Jim: Wouxun KG-Q10H quad-band handheld\n02:14 Rory: Yaesu FTDX10\n03:41 James: Chameleon Antenna Black Friday sale\n04:53 Jim: Radioddity Trivox and Ferrite firmware\n06:54 Rory: Xiegu G90\n08:24 James: Redodo and Bioenno Power batteries\n10:19 Jim: Yaesu FTX-1 Optima\n12:01 Rory: Yaesu FT-4XR\n13:09 James: Garmin inReach Mini 3 Plus\n15:22 Wrap-up, Discord and host hat giveaway\n\nJim's picks (N8JRD)\nWouxun KG-Q10H quad-band handheld, $161.49 shipped with code SHOW at Buy Two Way Radios (not an Everyday Ham code, no affiliation): https://www.buytwowayradios.com/wouxun-kg-q10h.html\nRadioddity Trivox, about $111 shipped with code EVERYDAYHAM (affiliate link): https://www.radioddity.com/products/radioddity-trivox?ref=EVERYDAYHAM\nFerrite, free replacement firmware for the Radtel RT-950 Pro: https://ferritefw.dev/\nYaesu FTX-1 Optima, $1,549.95 at Ham Radio Outlet ($500 off, originally $2,049.95): https://www.hamradio.com/detail.cfm?pid=71-004798\n\nRory's picks (W8KNX)\nYaesu FTDX10, $1,399.95 at DX Engineering: https://www.dxengineering.com/part/yaesu/ftdx-10/6602169\nXiegu G90, $466.00 at Radioddity, save another $15 with code EVERYDAYHAM (affiliate link): https://www.radioddity.com/products/xiegu-g90-hf-transceiver?ref=EVERYDAYHAM\nYaesu FT-4XR, $109.95 at DX Engineering: https://www.dxengineering.com/part/yaesu/ft-4xr/4919650\n\nJames's picks (K8JKU)\nChameleon Antenna, 25% off with code BLACKFRIDAY-25 through November 30: https://chameleonantenna.com/\nRedodo Black Friday sale, up to 60% off through November 30, plus 5% off with our link (affiliate link): https://www.redodopower.com/?ref=pktxjsfd\nBioenno Power, buy one get one free on the BLF-1209A 9Ah battery: https://www.bioennopower.com/\nGarmin inReach Mini 3 Plus, $399.99 at REI through December 28 (Garmin subscription required): https://www.rei.com/product/C06373/garmin-inreach-mini-3-plus\n\nSeen a deal we missed? Drop it in the comments or share it in our Discord, where we keep a running deals thread. We're giving away an Everyday Ham host hat in the Discord on Friday, November 27. Find our Discord and merch store at https://www.everydayham.com/\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\nShop our gear picks on the Everyday Ham Amazon Storefront:\nhttps://www.amazon.com/shop/everydayham\n\nSave $15 at Radioddity with code EVERYDAYHAM:\nhttps://www.radioddity.com/?ref=EVERYDAYHAM\n\nAs an Amazon Associate, Everyday Ham earns from qualifying purchases. Some links above are affiliate links.\n\n#hamradio #BlackFriday #amateurradio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZDMf0apdTXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZDMf0apdTXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZDMf0apdTXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZDMf0apdTXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZDMf0apdTXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "Black Friday ham radio deals",
+          "ham radio Black Friday 2026",
+          "ham radio deals",
+          "Yaesu FTX-1 Optima",
+          "Yaesu FTDX10",
+          "Xiegu G90",
+          "Yaesu FT-4XR",
+          "Wouxun KG-Q10H",
+          "Radioddity Trivox",
+          "Ferrite firmware",
+          "Radtel RT-950 Pro",
+          "Chameleon Antenna",
+          "Bioenno Power",
+          "Redodo battery",
+          "Garmin inReach Mini 3 Plus",
+          "amateur radio",
+          "ham radio"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
+          "description": "Nine Black Friday ham radio deals for 2026, including the Yaesu FTX-1 Optima at a new low of $1,549, the Yaesu FTDX10, the Xiegu G90 and the new Radioddity Trivox. Every link and coupon code is below.\nPrices were checked when we recorded. Deals move fast, so check the price in your cart before you buy.\n\nJim (N8JRD), Rory (W8KNX) and James (K8JKU) each bring three picks in a lightning round. After plenty of FTX-1 talk on this channel, Jim makes a recommendation nobody saw coming. He also picks two handhelds: the quad-band Wouxun KG-Q10H, and the Radioddity Trivox, a rebadged Radtel RT-950 Pro that just got new Ferrite firmware. Rory goes for the FTDX10, the G90 for portable HF, and the Yaesu FT-4XR as a name-brand first handheld. James covers the Chameleon Antenna sale, Redodo and Bioenno Power batteries for POTA and battery boxes, and the Garmin inReach Mini 3 Plus as a satellite safety backup for POTA, SOTA and the backcountry.\n\nChapters:\n00:00 Black Friday deals are live\n00:23 Jim: Wouxun KG-Q10H quad-band handheld\n02:14 Rory: Yaesu FTDX10\n03:41 James: Chameleon Antenna Black Friday sale\n04:53 Jim: Radioddity Trivox and Ferrite firmware\n06:54 Rory: Xiegu G90\n08:24 James: Redodo and Bioenno Power batteries\n10:19 Jim: Yaesu FTX-1 Optima\n12:01 Rory: Yaesu FT-4XR\n13:09 James: Garmin inReach Mini 3 Plus\n15:22 Wrap-up, Discord and host hat giveaway\n\nJim's picks (N8JRD)\nWouxun KG-Q10H quad-band handheld, $161.49 shipped with code SHOW at Buy Two Way Radios (not an Everyday Ham code, no affiliation): https://www.buytwowayradios.com/wouxun-kg-q10h.html\nRadioddity Trivox, about $111 shipped with code EVERYDAYHAM (affiliate link): https://www.radioddity.com/products/radioddity-trivox?ref=EVERYDAYHAM\nFerrite, free replacement firmware for the Radtel RT-950 Pro: https://ferritefw.dev/\nYaesu FTX-1 Optima, $1,549.95 at Ham Radio Outlet ($500 off, originally $2,049.95): https://www.hamradio.com/detail.cfm?pid=71-004798\n\nRory's picks (W8KNX)\nYaesu FTDX10, $1,399.95 at DX Engineering: https://www.dxengineering.com/part/yaesu/ftdx-10/6602169\nXiegu G90, $466.00 at Radioddity, save another $15 with code EVERYDAYHAM (affiliate link): https://www.radioddity.com/products/xiegu-g90-hf-transceiver?ref=EVERYDAYHAM\nYaesu FT-4XR, $109.95 at DX Engineering: https://www.dxengineering.com/part/yaesu/ft-4xr/4919650\n\nJames's picks (K8JKU)\nChameleon Antenna, 25% off with code BLACKFRIDAY-25 through November 30: https://chameleonantenna.com/\nRedodo Black Friday sale, up to 60% off through November 30, plus 5% off with our link (affiliate link): https://www.redodopower.com/?ref=pktxjsfd\nBioenno Power, buy one get one free on the BLF-1209A 9Ah battery: https://www.bioennopower.com/\nGarmin inReach Mini 3 Plus, $399.99 at REI through December 28 (Garmin subscription required): https://www.rei.com/product/C06373/garmin-inreach-mini-3-plus\n\nSeen a deal we missed? Drop it in the comments or share it in our Discord, where we keep a running deals thread. We're giving away an Everyday Ham host hat in the Discord on Friday, November 27. Find our Discord and merch store at https://www.everydayham.com/\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\nShop our gear picks on the Everyday Ham Amazon Storefront:\nhttps://www.amazon.com/shop/everydayham\n\nSave $15 at Radioddity with code EVERYDAYHAM:\nhttps://www.radioddity.com/?ref=EVERYDAYHAM\n\nAs an Amazon Associate, Everyday Ham earns from qualifying purchases. Some links above are affiliate links.\n\n#hamradio #BlackFriday #amateurradio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "12895",
+        "likeCount": "174",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mmvq6gExrYmmjqACH6wpDlPJaXA",
+      "id": "-YIabHNhRkg",
+      "snippet": {
+        "publishedAt": "2026-11-20T20:25:53Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
+        "description": "The ICOM IC-7110 is coming quickly, and we were WAY off on our pricing guess!!\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-YIabHNhRkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-YIabHNhRkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-YIabHNhRkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-YIabHNhRkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-YIabHNhRkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "ham radio",
+          "amateur radio",
+          "everyday ham",
+          "ham radio podcast",
+          "k8jku",
+          "n8jrd",
+          "w8knx",
+          "amateur radio beginners",
+          "pota",
+          "parks on the air",
+          "ham radio community",
+          "ham radio tips",
+          "radio operators",
+          "HF",
+          "VHF",
+          "UHF"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
+          "description": "The ICOM IC-7110 is coming quickly, and we were WAY off on our pricing guess!!\n\n\ud83c\udf99\ufe0f Listen to us as an Audio Podcast!\nAvailable on Apple Podcasts, Spotify, Google Podcasts, and more!\nAll links at: https://www.everydayham.com/\n\n\ud83d\udcf1 CONNECT WITH US:\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\n#AmateurRadio #POTA #HamRadio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "5410",
+        "likeCount": "169",
+        "favoriteCount": "0",
+        "commentCount": "51"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IjpwAqCr5JpejCdr9JdvL2PDoas",
+      "id": "Q282efZmVu8",
+      "snippet": {
+        "publishedAt": "2026-11-19T13:47:44Z",
+        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
+        "title": "QRV Ham Radio App: Live Spots and Band Alerts for Your Grid with Developer Adam K2CAT",
+        "description": "Adam K2CAT went from Meshtastic to Extra Class in about two years, then built QRV, the ham radio multitool app that tells you whether 20 meters is open where you are standing right now.\nGet QRV for iPhone, iPad, Mac, Apple Watch and Android: https://getqrv.com/\n\nThis is the first Everyday Ham Community feature, where we sit down with people from our community who are building cool things. James (K8JKU), Jim (N8JRD) and Rory (W8KNX) talk with Adam Iannazzone (K2CAT) about how a callsign lookup weekend project snowballed into an all-in-one ham radio app. Adam explains how QRV filters PSK Reporter spots down to stations hearing your own grid, how band alerts recalibrate themselves every week so they work for your location and season, and how logbook-aware DXCC alerts switch themselves off once you confirm a QSO through QRZ Logbook or Wavelog. We also dig into the feedline loss calculator (and the RG-8X story behind it), the CW, Q code and band plan references that make it a great app for new hams, DXpedition spotting, and why he left logging to Ham2K PoLo.\n\nChapters:\n00:00 Introducing the Everyday Ham Community feature\n01:32 From Meshtastic to Extra Class in two years\n04:59 Why Adam built QRV\n07:02 Live PSK Reporter spots filtered to your grid\n07:56 Band alerts that recalibrate every week\n10:38 Calculators and the feedline loss story\n12:18 CW, Q codes and band plans for new hams\n13:06 Why QRV skips logging and CW training\n14:36 Who QRV is built for\n15:17 Logbook-aware DXCC alerts\n17:13 Spotting DXpeditions from your grid\n17:45 Grid-square spots and Jim's HamClock setup\n18:50 Platforms, sync and pricing\n\nLinks from this video:\n- QRV: https://getqrv.com/\n- QRV on the App Store: https://apps.apple.com/us/app/qrv/id6754951380\n- QRV on Google Play: https://play.google.com/store/apps/details?id=com.getqrv.android\n- Adam K2CAT on QRZ: https://www.qrz.com/db/K2CAT\n- PSK Reporter: https://pskreporter.info/\n- QRZ: https://www.qrz.com/\n- Wavelog: https://www.wavelog.org/\n- Meshtastic: https://meshtastic.org/\n- Ham2K Portable Logger (PoLo): https://polo.ham2k.com/\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\nShop our gear picks on the Everyday Ham Amazon Storefront:\nhttps://www.amazon.com/shop/everydayham\n\nSave $15 at Radioddity with code EVERYDAYHAM:\nhttps://www.radioddity.com/?ref=EVERYDAYHAM\n\nAs an Amazon Associate, Everyday Ham earns from qualifying purchases. Some links above are affiliate links.\n\n#hamradio #amateurradio #QRV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q282efZmVu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q282efZmVu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q282efZmVu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q282efZmVu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q282efZmVu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everyday Ham",
+        "tags": [
+          "QRV app",
+          "QRV ham radio app",
+          "K2CAT",
+          "ham radio app",
+          "amateur radio app",
+          "ham radio multitool",
+          "PSK Reporter",
+          "live spots",
+          "band conditions",
+          "band alerts",
+          "DXCC alerts",
+          "DXpedition alerts",
+          "ham radio iPhone app",
+          "ham radio Android app",
+          "callsign lookup",
+          "Meshtastic",
+          "Everyday Ham"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "QRV Ham Radio App: Live Spots and Band Alerts for Your Grid with Developer Adam K2CAT",
+          "description": "Adam K2CAT went from Meshtastic to Extra Class in about two years, then built QRV, the ham radio multitool app that tells you whether 20 meters is open where you are standing right now.\nGet QRV for iPhone, iPad, Mac, Apple Watch and Android: https://getqrv.com/\n\nThis is the first Everyday Ham Community feature, where we sit down with people from our community who are building cool things. James (K8JKU), Jim (N8JRD) and Rory (W8KNX) talk with Adam Iannazzone (K2CAT) about how a callsign lookup weekend project snowballed into an all-in-one ham radio app. Adam explains how QRV filters PSK Reporter spots down to stations hearing your own grid, how band alerts recalibrate themselves every week so they work for your location and season, and how logbook-aware DXCC alerts switch themselves off once you confirm a QSO through QRZ Logbook or Wavelog. We also dig into the feedline loss calculator (and the RG-8X story behind it), the CW, Q code and band plan references that make it a great app for new hams, DXpedition spotting, and why he left logging to Ham2K PoLo.\n\nChapters:\n00:00 Introducing the Everyday Ham Community feature\n01:32 From Meshtastic to Extra Class in two years\n04:59 Why Adam built QRV\n07:02 Live PSK Reporter spots filtered to your grid\n07:56 Band alerts that recalibrate every week\n10:38 Calculators and the feedline loss story\n12:18 CW, Q codes and band plans for new hams\n13:06 Why QRV skips logging and CW training\n14:36 Who QRV is built for\n15:17 Logbook-aware DXCC alerts\n17:13 Spotting DXpeditions from your grid\n17:45 Grid-square spots and Jim's HamClock setup\n18:50 Platforms, sync and pricing\n\nLinks from this video:\n- QRV: https://getqrv.com/\n- QRV on the App Store: https://apps.apple.com/us/app/qrv/id6754951380\n- QRV on Google Play: https://play.google.com/store/apps/details?id=com.getqrv.android\n- Adam K2CAT on QRZ: https://www.qrz.com/db/K2CAT\n- PSK Reporter: https://pskreporter.info/\n- QRZ: https://www.qrz.com/\n- Wavelog: https://www.wavelog.org/\n- Meshtastic: https://meshtastic.org/\n- Ham2K Portable Logger (PoLo): https://polo.ham2k.com/\n\nDon't miss a single episode! Follow the Everyday Ham Podcast on your favorite podcast platform (Apple Podcasts, Spotify, Overcast, and more) and be sure to subscribe to our YouTube channel.\n\nWebsite: https://www.everydayham.com/\nInstagram: https://www.instagram.com/everydayhampodcast/\n\nShop our gear picks on the Everyday Ham Amazon Storefront:\nhttps://www.amazon.com/shop/everydayham\n\nSave $15 at Radioddity with code EVERYDAYHAM:\nhttps://www.radioddity.com/?ref=EVERYDAYHAM\n\nAs an Amazon Associate, Everyday Ham earns from qualifying purchases. Some links above are affiliate links.\n\n#hamradio #amateurradio #QRV"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "529",
+        "likeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "14K3vMTOerDZzJDCtbjFoqYtA7I",
       "id": "bdy9Dgqr4Uw",
       "snippet": {
         "publishedAt": "2026-11-13T04:25:13Z",
@@ -105,15 +320,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3279",
-        "likeCount": "55",
+        "viewCount": "3595",
+        "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m1uez1PE7pQO_xDoJJqIqrcdbYc",
+      "etag": "PcxuWXBubRHLth_37ql5lrwrCK8",
       "id": "kuN7OPls0W0",
       "snippet": {
         "publishedAt": "2026-11-08T17:32:50Z",
@@ -177,15 +392,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "13274",
-        "likeCount": "163",
+        "viewCount": "14116",
+        "likeCount": "165",
         "favoriteCount": "0",
-        "commentCount": "46"
+        "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gpFyYh2APrKQy__ssGb2dBsbofU",
+      "etag": "MbQnPaofRznomc5KbjlNif2ApE0",
       "id": "9WqorzgaswA",
       "snippet": {
         "publishedAt": "2026-11-06T21:40:18Z",
@@ -229,7 +444,7 @@
         }
       },
       "statistics": {
-        "viewCount": "1390",
+        "viewCount": "1424",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -237,7 +452,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VJqAm4QVG9CcBSB1CRCH_gv_Mf0",
+      "etag": "F8bzAiv_UcsDRborg6q7tCCmnpY",
       "id": "dekVm9EdtI0",
       "snippet": {
         "publishedAt": "2026-11-06T21:33:29Z",
@@ -281,7 +496,7 @@
         }
       },
       "statistics": {
-        "viewCount": "107",
+        "viewCount": "113",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -289,7 +504,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "obHi03X9WVYw5kzDRmIE9dKC8RU",
+      "etag": "Ti-EL_m4LqC1ItwuJw7MbnJC-VM",
       "id": "JV4nTSKaWgY",
       "snippet": {
         "publishedAt": "2026-11-06T21:05:02Z",
@@ -353,15 +568,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4247",
-        "likeCount": "89",
+        "viewCount": "4544",
+        "likeCount": "91",
         "favoriteCount": "0",
         "commentCount": "17"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5ULDE8B5Q5NzvgYog4tgsAS9lms",
+      "etag": "pnELbTplFCO8kp1jf-X_4prI2ps",
       "id": "DJPUu0-SY4M",
       "snippet": {
         "publishedAt": "2026-11-05T14:19:56Z",
@@ -430,15 +645,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "441",
-        "likeCount": "16",
+        "viewCount": "489",
+        "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DIVmgc-g9s4VsIY1E4MDScXJ_QM",
+      "etag": "5Z7YJEK4OHLSqQAeyFFsI_UwiJ0",
       "id": "o3IvIljMYcA",
       "snippet": {
         "publishedAt": "2026-11-05T06:08:50Z",
@@ -502,15 +717,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4769",
-        "likeCount": "99",
+        "viewCount": "4883",
+        "likeCount": "101",
         "favoriteCount": "0",
         "commentCount": "31"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-nyGPaBsexUQwf3vUf3eN6XME98",
+      "etag": "MpgjcDHQFLv0GUpX3rWuDyflxhw",
       "id": "N8rCFULRFzM",
       "snippet": {
         "publishedAt": "2026-10-31T15:09:30Z",
@@ -560,7 +775,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1209",
+        "viewCount": "1352",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -568,7 +783,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_tdWlrqAwz-xrIKd8wYyOGZDRBs",
+      "etag": "bbijb8GoakH3ZMnTPlvo1kZreok",
       "id": "FWXNeRnL6io",
       "snippet": {
         "publishedAt": "2026-10-22T12:00:00Z",
@@ -636,7 +851,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "648",
+        "viewCount": "661",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -644,7 +859,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TkHkXjp36BZbvHQKNS28nIpuGlA",
+      "etag": "3XaefAgQ8hW52kQW0s5EQQrGmAs",
       "id": "DaEXp29dhIk",
       "snippet": {
         "publishedAt": "2026-10-13T14:07:46Z",
@@ -707,7 +922,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "291",
+        "viewCount": "298",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -715,7 +930,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "toBHPjPX-hletyAwCTjl6cdCSGc",
+      "etag": "vzlepF78nN3u04I_ajIA55g9pyE",
       "id": "OlH42F5vAHw",
       "snippet": {
         "publishedAt": "2026-10-12T19:23:17Z",
@@ -759,7 +974,7 @@
         }
       },
       "statistics": {
-        "viewCount": "230",
+        "viewCount": "246",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -767,7 +982,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JRxk5l8J2a16ur_7aT7C1-Qbjcs",
+      "etag": "5Q-H6EfhdnWGztnTiRNx2NlLGpE",
       "id": "MhjirNwRR7A",
       "snippet": {
         "publishedAt": "2026-10-08T11:45:37Z",
@@ -831,7 +1046,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1296",
+        "viewCount": "1333",
         "likeCount": "39",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -839,7 +1054,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A3-LcbIYuMfr3cUjwY1aUevFTC0",
+      "etag": "3rNV6P2-vzezbCVVTFXQs1LBx_U",
       "id": "h8PsigNNfuk",
       "snippet": {
         "publishedAt": "2026-10-06T12:00:09Z",
@@ -903,7 +1118,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1152",
+        "viewCount": "1158",
         "likeCount": "30",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -911,7 +1126,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WD79HCm00u7HuNY1zhwJPgckH9s",
+      "etag": "YmU4p_6aCcsjVDbe0bCwFsxyljg",
       "id": "jn6-BdDVQzI",
       "snippet": {
         "publishedAt": "2026-10-01T12:00:04Z",
@@ -974,7 +1189,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2692",
+        "viewCount": "2707",
         "likeCount": "58",
         "favoriteCount": "0",
         "commentCount": "15"
@@ -982,7 +1197,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5nypy2fPAYTjMpudhTjoQ3lwkDM",
+      "etag": "VpaTInvzXAMHVsbTwgBkmDR0pZY",
       "id": "cEPpW0aW-W8",
       "snippet": {
         "publishedAt": "2026-09-25T16:59:07Z",
@@ -1027,15 +1242,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1600",
+        "viewCount": "1615",
         "likeCount": "12",
         "favoriteCount": "0",
-        "commentCount": "1"
+        "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "m8sjGXOtrRuGktPl8ih2Wk2-MP0",
+      "etag": "hAvCI3vf7zGt0BJ0Uoc7eOwElqw",
       "id": "LwICFz2gx1w",
       "snippet": {
         "publishedAt": "2026-09-25T12:00:12Z",
@@ -1098,15 +1313,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "3953",
-        "likeCount": "62",
+        "viewCount": "4013",
+        "likeCount": "64",
         "favoriteCount": "0",
         "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "N_9sn0-uLB79QDIkDH7KMadepFE",
+      "etag": "vO71vViYp20tJQ6pLe_eXzOQD9E",
       "id": "9Wk6JWDHHN4",
       "snippet": {
         "publishedAt": "2026-09-10T11:00:02Z",
@@ -1170,15 +1385,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1897",
-        "likeCount": "30",
+        "viewCount": "1936",
+        "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JjTydeb4dHdxm62bwPrlgFl5jC0",
+      "etag": "p2I_uiqknZBLG8uYZrvcXw4rj6E",
       "id": "nDdjONljAqQ",
       "snippet": {
         "publishedAt": "2026-09-05T09:04:34Z",
@@ -1222,7 +1437,7 @@
         }
       },
       "statistics": {
-        "viewCount": "104",
+        "viewCount": "105",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -1230,7 +1445,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j_utnxj3Q-xyhqBvu_0cHYO8ulI",
+      "etag": "s2KH6lrKXJHapHFbwKHH7LZr18g",
       "id": "KRdY1-WOgkY",
       "snippet": {
         "publishedAt": "2026-09-04T01:53:50Z",
@@ -1274,7 +1489,7 @@
         }
       },
       "statistics": {
-        "viewCount": "290",
+        "viewCount": "300",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1282,7 +1497,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FYr21gnJAtKN8cSj0v8Q3Q21KL0",
+      "etag": "vk1oOB3_Fhmi-ozpiWTsp5GJvao",
       "id": "FakqdX9c1ac",
       "snippet": {
         "publishedAt": "2026-09-03T12:00:37Z",
@@ -1347,7 +1562,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "644",
+        "viewCount": "665",
         "likeCount": "26",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1355,7 +1570,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FkXMjL7Vannj5D_ITuAdSjl7MJI",
+      "etag": "iLmGBlUzTZR6I495MoJtvI3jGGw",
       "id": "N9i7XudEuyw",
       "snippet": {
         "publishedAt": "2026-08-31T09:01:52Z",
@@ -1406,7 +1621,7 @@
         }
       },
       "statistics": {
-        "viewCount": "583",
+        "viewCount": "647",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1414,7 +1629,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b0U3an6DKR1Bw-Ei8wKmnnI0WhU",
+      "etag": "EOeX7SafEx_Po34QY9POJxIlpRg",
       "id": "wJ9ApHXBlWE",
       "snippet": {
         "publishedAt": "2026-08-30T01:43:12Z",
@@ -1471,7 +1686,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "487",
+        "viewCount": "494",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1479,7 +1694,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XgX4GrndUiSbxXZZqr3PSgi-Hxg",
+      "etag": "iwXGwu40HrjdcmfnbLdJoZKjodk",
       "id": "FGMP-r6Kwq0",
       "snippet": {
         "publishedAt": "2026-08-29T15:00:11Z",
@@ -1542,7 +1757,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4499",
+        "viewCount": "4521",
         "likeCount": "45",
         "favoriteCount": "0",
         "commentCount": "16"
@@ -1550,7 +1765,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xqZ6fVB-9QRuYRQg4EhE1lEaPaA",
+      "etag": "MkH0yGuu5VqvVFjq9UJnGwGfrTo",
       "id": "6bfpd7tNemg",
       "snippet": {
         "publishedAt": "2026-08-27T11:18:31Z",
@@ -1618,15 +1833,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1343",
-        "likeCount": "43",
+        "viewCount": "1373",
+        "likeCount": "44",
         "favoriteCount": "0",
         "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-z530iNW2qCz3is5vqRQ6w236Pw",
+      "etag": "XYZWkKCibhFFRaoTb2Qui7KbKSU",
       "id": "bi5ceZWvSfg",
       "snippet": {
         "publishedAt": "2026-08-18T15:56:48Z",
@@ -1679,15 +1894,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1320",
-        "likeCount": "16",
+        "viewCount": "1337",
+        "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_UZxa_4y71ONsVgxuQHbLGKIPTw",
+      "etag": "pq1cWxS-saGm2CK4K0gaUsfbEyk",
       "id": "nYPSyZzZcDY",
       "snippet": {
         "publishedAt": "2026-08-15T18:28:54Z",
@@ -1749,7 +1964,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "948",
+        "viewCount": "965",
         "likeCount": "40",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -1757,7 +1972,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JT4ibpYiBOouZ89oigiswfKpBRU",
+      "etag": "Qh3MxCOUdpgfuAPYMM9HqDsq4lo",
       "id": "LEmN65zuSK0",
       "snippet": {
         "publishedAt": "2026-08-14T12:00:12Z",
@@ -1821,7 +2036,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "188",
+        "viewCount": "200",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1829,7 +2044,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wTc53a4_DYVVkW45wP8jPmiLQlM",
+      "etag": "fS_3-xYeUnd-zicBM3OzDSVGOr0",
       "id": "R1YDR0cqRN8",
       "snippet": {
         "publishedAt": "2026-08-10T12:00:21Z",
@@ -1893,7 +2108,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "360",
+        "viewCount": "379",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1901,7 +2116,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JnnDp7H6E7jllL52lCLJyoZAwwM",
+      "etag": "Oie7tXjoxQFZMc9h_Ir9HQER2fQ",
       "id": "jEMEbgEv1zM",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:16Z",
@@ -1945,7 +2160,7 @@
         }
       },
       "statistics": {
-        "viewCount": "1369",
+        "viewCount": "1374",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1953,7 +2168,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_TFNbNL3suuNeGedVZZjmFF_vfI",
+      "etag": "xuhhnZHoePEIQ2ap-Cacd7gpvzU",
       "id": "VcbRTsjRx28",
       "snippet": {
         "publishedAt": "2026-08-06T12:30:59Z",
@@ -1997,7 +2212,7 @@
         }
       },
       "statistics": {
-        "viewCount": "947",
+        "viewCount": "948",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2005,7 +2220,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "O2CN4zHQELAlWq1DEbaooz7sAzY",
+      "etag": "DMVrJ_jKtDExJNzcHtMd6Yya6F8",
       "id": "HhhoVukJI3s",
       "snippet": {
         "publishedAt": "2026-08-06T12:00:31Z",
@@ -2069,7 +2284,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "315",
+        "viewCount": "318",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2077,7 +2292,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ykyqBUwCHM50s71yfvzDjr6J80c",
+      "etag": "jyamDEFuelP3pVyVPXM2Bg95MJg",
       "id": "L87ANHho5vQ",
       "snippet": {
         "publishedAt": "2026-07-28T12:15:22Z",
@@ -2121,7 +2336,7 @@
         }
       },
       "statistics": {
-        "viewCount": "210",
+        "viewCount": "216",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2129,7 +2344,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "P0TeCqw7jjoH1SlzCvurGcaij4o",
+      "etag": "4jaoxr9YP0Cmx8CPPzz4bkbkAiM",
       "id": "JivWdc2BbIs",
       "snippet": {
         "publishedAt": "2026-07-28T12:00:32Z",
@@ -2197,15 +2412,15 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "2324",
-        "likeCount": "111",
+        "viewCount": "2388",
+        "likeCount": "112",
         "favoriteCount": "0",
         "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iELCTDBoo8QQBMKUcLZu2gCI7BA",
+      "etag": "e1k1M1e9LDop-lIvh44SUCKC4FA",
       "id": "SgptaI9RCHE",
       "snippet": {
         "publishedAt": "2026-07-23T12:00:09Z",
@@ -2273,7 +2488,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "385",
+        "viewCount": "389",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2281,7 +2496,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-H6lKbTymW7b_e06pAJCXRN03n0",
+      "etag": "Gneebp9p9_dkJBpfPZzyqdGHpJw",
       "id": "r08dZat4bOU",
       "snippet": {
         "publishedAt": "2026-07-21T22:52:09Z",
@@ -2349,7 +2564,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "5505",
+        "viewCount": "5519",
         "likeCount": "171",
         "favoriteCount": "0",
         "commentCount": "50"
@@ -2357,7 +2572,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z2cuBewHTmnxtpf120HeddedhUU",
+      "etag": "G66MkKd1KvfddLi7VT6JydDz0o8",
       "id": "G9nW8S4y2Xs",
       "snippet": {
         "publishedAt": "2026-07-21T12:00:05Z",
@@ -2419,7 +2634,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "688",
+        "viewCount": "695",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -2427,7 +2642,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aeHqTbICxyz6I-8Gg5UWezmogBs",
+      "etag": "IjiwMYy7Q9zhyTpQi4jCEF9RTBg",
       "id": "mdOTgixDm6o",
       "snippet": {
         "publishedAt": "2026-07-17T12:00:19Z",
@@ -2496,7 +2711,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "830",
+        "viewCount": "847",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -2504,7 +2719,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EkDAvjUJ8nyJIrXSMAIVpLDG0Sw",
+      "etag": "3Cpd_NdNZQRU1EL9cI-eObec09o",
       "id": "qqV5zexJB64",
       "snippet": {
         "publishedAt": "2026-07-16T19:06:16Z",
@@ -2567,7 +2782,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "165",
+        "viewCount": "170",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2575,7 +2790,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fAgMPXFzb2PoNoiESimWMo5i4dE",
+      "etag": "jinCsovo6mtklYxFhIZP84ydyKg",
       "id": "hu1R7Exlf3w",
       "snippet": {
         "publishedAt": "2026-07-14T12:00:02Z",
@@ -2637,7 +2852,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "122",
+        "viewCount": "124",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2645,7 +2860,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gZga1Rj3e6HPjKsEPrgyBuxQsI0",
+      "etag": "m5p_MVbz8hKELqeZkv1WzqFaOUE",
       "id": "m5aILG8IEd0",
       "snippet": {
         "publishedAt": "2026-07-09T12:00:38Z",
@@ -2709,7 +2924,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "309",
+        "viewCount": "314",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2717,7 +2932,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gNCrW8JWkQT8K9Dmy9iTu7zSzZ4",
+      "etag": "Obk_JMYnOz5ad7yug_J7IUuJNGs",
       "id": "ldjar8aKMPM",
       "snippet": {
         "publishedAt": "2026-07-04T19:04:00Z",
@@ -2781,7 +2996,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "343",
+        "viewCount": "349",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -2789,7 +3004,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YPfgg96_GkzrDfmi97-HBRYxBsU",
+      "etag": "OVjyKmJnJK4iX0JbWVSKM6C-hQI",
       "id": "hcXOOwiPnr0",
       "snippet": {
         "publishedAt": "2026-07-03T18:47:29Z",
@@ -2861,7 +3076,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1027",
+        "viewCount": "1038",
         "likeCount": "61",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -2869,7 +3084,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZgMttE4UWMbksq0BO3L_mPnGL00",
+      "etag": "XJxsgk2XYs6wNJD19s9m_-fmzKE",
       "id": "0oo2I7vziac",
       "snippet": {
         "publishedAt": "2026-07-02T22:36:43Z",
@@ -2938,7 +3153,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1096",
+        "viewCount": "1102",
         "likeCount": "62",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -2946,7 +3161,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8C1fydcrlTfNurfyCN_I-7UT3Sk",
+      "etag": "mhSh88kmI-d5nesSbkPkWRtCtMc",
       "id": "HN3sKVL2DSU",
       "snippet": {
         "publishedAt": "2026-06-25T12:00:13Z",
@@ -3015,7 +3230,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "361",
+        "viewCount": "362",
         "likeCount": "28",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -3023,7 +3238,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "oc19sbBL0ZzzryTt_jDd_5OTuMQ",
+      "etag": "HQ6eN9BrCLUTbeT8AwgrXC69H6g",
       "id": "xKMKYlSsglY",
       "snippet": {
         "publishedAt": "2026-06-11T12:54:34Z",
@@ -3091,7 +3306,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "458",
+        "viewCount": "461",
         "likeCount": "32",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -3099,7 +3314,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6j-FO3U0UaA_gFKNUClVPgprh6g",
+      "etag": "_9eeniGwBYijQc7ttqiXb8jXwkY",
       "id": "UtSuCqs9p74",
       "snippet": {
         "publishedAt": "2026-06-04T13:00:14Z",
@@ -3168,7 +3383,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "1977",
+        "viewCount": "2066",
         "likeCount": "60",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -3176,7 +3391,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cXBZogN2v_Nx-Frjwg-12uJfsU8",
+      "etag": "wRyjjPPwnNT5bpjCVQrU6ww7ubs",
       "id": "D83ErArGu6I",
       "snippet": {
         "publishedAt": "2026-05-28T12:50:03Z",
@@ -3244,235 +3459,10 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "969",
-        "likeCount": "55",
+        "viewCount": "1014",
+        "likeCount": "56",
         "favoriteCount": "0",
         "commentCount": "12"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "oGrs7Ptdv7zJCKmdst4WGKu7Mlk",
-      "id": "2XijWU1D78Y",
-      "snippet": {
-        "publishedAt": "2026-05-22T14:17:43Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-        "description": "The dust has settled on Dayton Hamvention 2026, and the crew is back at the table to break it all down. James (K8JKU) holds down the home front while Jim (N8JRD) and Rory (W8KNX) recap three days of new gear, new conversations, and one very controversial concept radio.\nWe dig into what Icom, Yaesu, and Kenwood actually brought to Xenia, why the Icom X-026 mockup divided the community, and whether the long-awaited Kenwood TM-D750A is finally close to hitting the shelves. Plus our honest reactions to the Icom ID-5200, a walk through Four Days in May, and a full report from the flea market (yes, the junk scale is back).\n\n\ud83c\udf99\ufe0f In this episode\nHamvention 2026 attendance, vibes, and the cooler weather we actually got. Big thanks to Ray (N9JA) at Icom, John Kruk (N9UPC) at Yaesu, and Don Arnold (W6GPS) at Kenwood for the time and conversations.\nThe Icom X-026 concept reveal: is it brilliant marketing or a warm helping of nothing? Plus hands-on reactions to the Icom ID-5200 with native APRS, ambient light sensor, integrated GPS, and an interface borrowed from the IC-7300 MK2.\nA Kenwood TM-D750A update: FCC approved, firmware still cooking, September target. And a real second-half-of-2026 showdown brewing between the ID-5200 and the TM-D750A.\nFour Days in May highlights, including the new Spooltenna Ultra EFHW4010. Plus Begali keys, N3ZN keys, Modern Morse paddles, and the CW corner of the show.\nYaesu DR-3 repeater series and the next chapter of System Fusion. Flex Radio Aurora AU-510 and AU-520 spotted on the shelf, ready to walk out.\nFlea market report: the junk scale, pie-in-the-sky pricing, and the same FTM-10R that didn't sell last year. And a massive thank you to James for editing eight Hamvention videos remotely via Starlink.\n\n\ud83d\udd17 Show links and everything we mentioned: https://www.everydayham.com \ud83d\udcac Join the Discord community through everydayham.com \n\ud83d\udce9 Have an idea for the show? Email us at cq@everydayham.com\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and wherever you get your podcasts. Don't miss a single episode. Follow us on your favorite platform and leave us a rating and review. It helps more than you know.\n\n\ud83d\udce2 Subscribe for More Ham Radio Content\nHit LIKE if you enjoyed this recap and SUBSCRIBE for future discussions on ham radio gear, POTA, contesting, CW, and everything in between.\n\ud83c\udf99 Follow Everyday Ham YouTube: @EverydayHam Instagram: @everydayhampodcast Website: https://www.everydayham.com\n\n#HamRadio #AmateurRadio #Hamvention2026 #EverydayHam #IcomX026 #ID5200 #TMD750A #FourDaysInMay #Spooltenna #FleaMarket #POTA #CW",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2XijWU1D78Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2XijWU1D78Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2XijWU1D78Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2XijWU1D78Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2XijWU1D78Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Ham Radio",
-          "Amateur Radio",
-          "Hamvention 2026",
-          "Dayton Hamvention",
-          "Everyday Ham",
-          "Icom X-026",
-          "Icom ID-5200",
-          "Kenwood TM-D750A",
-          "Yaesu DR-3",
-          "Four Days in May",
-          "FDIM",
-          "Spooltenna",
-          "Begali",
-          "Flex Radio Aurora",
-          "POTA",
-          "CW"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-          "description": "The dust has settled on Dayton Hamvention 2026, and the crew is back at the table to break it all down. James (K8JKU) holds down the home front while Jim (N8JRD) and Rory (W8KNX) recap three days of new gear, new conversations, and one very controversial concept radio.\nWe dig into what Icom, Yaesu, and Kenwood actually brought to Xenia, why the Icom X-026 mockup divided the community, and whether the long-awaited Kenwood TM-D750A is finally close to hitting the shelves. Plus our honest reactions to the Icom ID-5200, a walk through Four Days in May, and a full report from the flea market (yes, the junk scale is back).\n\n\ud83c\udf99\ufe0f In this episode\nHamvention 2026 attendance, vibes, and the cooler weather we actually got. Big thanks to Ray (N9JA) at Icom, John Kruk (N9UPC) at Yaesu, and Don Arnold (W6GPS) at Kenwood for the time and conversations.\nThe Icom X-026 concept reveal: is it brilliant marketing or a warm helping of nothing? Plus hands-on reactions to the Icom ID-5200 with native APRS, ambient light sensor, integrated GPS, and an interface borrowed from the IC-7300 MK2.\nA Kenwood TM-D750A update: FCC approved, firmware still cooking, September target. And a real second-half-of-2026 showdown brewing between the ID-5200 and the TM-D750A.\nFour Days in May highlights, including the new Spooltenna Ultra EFHW4010. Plus Begali keys, N3ZN keys, Modern Morse paddles, and the CW corner of the show.\nYaesu DR-3 repeater series and the next chapter of System Fusion. Flex Radio Aurora AU-510 and AU-520 spotted on the shelf, ready to walk out.\nFlea market report: the junk scale, pie-in-the-sky pricing, and the same FTM-10R that didn't sell last year. And a massive thank you to James for editing eight Hamvention videos remotely via Starlink.\n\n\ud83d\udd17 Show links and everything we mentioned: https://www.everydayham.com \ud83d\udcac Join the Discord community through everydayham.com \n\ud83d\udce9 Have an idea for the show? Email us at cq@everydayham.com\n\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and wherever you get your podcasts. Don't miss a single episode. Follow us on your favorite platform and leave us a rating and review. It helps more than you know.\n\n\ud83d\udce2 Subscribe for More Ham Radio Content\nHit LIKE if you enjoyed this recap and SUBSCRIBE for future discussions on ham radio gear, POTA, contesting, CW, and everything in between.\n\ud83c\udf99 Follow Everyday Ham YouTube: @EverydayHam Instagram: @everydayhampodcast Website: https://www.everydayham.com\n\n#HamRadio #AmateurRadio #Hamvention2026 #EverydayHam #IcomX026 #ID5200 #TMD750A #FourDaysInMay #Spooltenna #FleaMarket #POTA #CW"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "353",
-        "likeCount": "16",
-        "favoriteCount": "0",
-        "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "IF_Y3pvPHE-tC4V2YD28Qpmzozo",
-      "id": "fZkumHnnbGI",
-      "snippet": {
-        "publishedAt": "2026-05-21T02:22:37Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-        "description": "Who had the BEST Hamvention 2026 haul? Jim N8JRD, Rory W8KNX, and James K8JKU  sit down to review a stack of hauls from friends, club members, and fellow operators who crushed it down at Dayton.\n\nFrom kits and CW keys to mystery boxes, ham sticks, vintage handhelds, and one very serious HF rig purchase, this is a casual show-and-tell of what the Everyday Ham community brought home.\nFeatured hauls include:\n\n\ud83c\udf81 South Lyon Club members\n\ud83c\udf81 Eric K8ERS - Builder and kit collector\n\ud83c\udf81 Shane KF8BWN - Packet radio enthusiast and Bird 43 finder\n\ud83c\udf81 Nick KF8FLI - POTA gear haul\n\ud83c\udf81 Jim N8JRD - VX-8s, uConsole, and a project FTM-10R\n\ud83c\udf81 Louis N8LEK - Modern Morse Paddle and FTM-510 ASP\n\ud83c\udf81 John NU8M - The big-ticket Elecraft K4 retirement gift to himself\n\ud83c\udf81 Ed W8EDE - TH-D75A and Begali Traveler paddle\n\ud83c\udf81 Mike W8MCV - The infamous GigaParts mystery box\n\ud83c\udf81 Rory W8KNX - A new travel trailer (yes, really)\n\n\ud83d\udcac NOW WE WANT TO HEAR FROM YOU!\nWhat did YOU bring home from Hamvention 2026? Drop your haul in the comments below. Score a deal? Find a unicorn in the flea market? Walk out with a project? Tell us what you got and what you can't wait to use first.\n\n\u23f1 Chapters:\n00:00 Intro\n01:55 South Lyon Club Members at the Flea Market\n02:49 Eric K8ERS\n07:18 Shane KF8BWN\n11:46 Nick KF8FLI\n13:38 Jim N8JRD\n17:31 Louis N8LEK\n21:05 John NU8M\n24:15 Ed W8EDE\n25:36 Mike W8MCV\n27:22 Rory W8KNX\n29:01 Closing Thoughts\n\n\ud83d\udd17 Featured Brands & Links\nWA4MCM Kits (PSR-100 satellite rotator): https://wa4mcmkits.com/psr-100/\nBegali Keys: https://www.i2rtf.com/\nGigaParts: https://www.gigaparts.com/\nElecraft: https://elecraft.com/\nModern Morse Paddles: https://www.modernmorsekeys.com/\nBuckmaster: https://www.buckmasterhamradio.com/\nPackTenna: https://www.packtenna.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this haul roundup and SUBSCRIBE for more ham radio news, Hamvention coverage, and community content!\n#HamRadio #Hamvention2026 #HamventionHaul",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/fZkumHnnbGI/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "Hamvention 2026",
-          "Hamvention Haul",
-          "Ham Radio Haul",
-          "Ham Radio Show and Tell",
-          "Dayton Hamvention",
-          "Hamvention Recap",
-          "Ham Radio",
-          "Amateur Radio",
-          "Ham Radio Flea Market",
-          "Elecraft K4",
-          "Begali",
-          "Kenwood TH-D75A",
-          "Modern Morse Paddle",
-          "GigaParts Mystery Box",
-          "South Lyon ARC",
-          "Everyday Ham",
-          "Hamfest"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-          "description": "Who had the BEST Hamvention 2026 haul? Jim N8JRD, Rory W8KNX, and James K8JKU  sit down to review a stack of hauls from friends, club members, and fellow operators who crushed it down at Dayton.\n\nFrom kits and CW keys to mystery boxes, ham sticks, vintage handhelds, and one very serious HF rig purchase, this is a casual show-and-tell of what the Everyday Ham community brought home.\nFeatured hauls include:\n\n\ud83c\udf81 South Lyon Club members\n\ud83c\udf81 Eric K8ERS - Builder and kit collector\n\ud83c\udf81 Shane KF8BWN - Packet radio enthusiast and Bird 43 finder\n\ud83c\udf81 Nick KF8FLI - POTA gear haul\n\ud83c\udf81 Jim N8JRD - VX-8s, uConsole, and a project FTM-10R\n\ud83c\udf81 Louis N8LEK - Modern Morse Paddle and FTM-510 ASP\n\ud83c\udf81 John NU8M - The big-ticket Elecraft K4 retirement gift to himself\n\ud83c\udf81 Ed W8EDE - TH-D75A and Begali Traveler paddle\n\ud83c\udf81 Mike W8MCV - The infamous GigaParts mystery box\n\ud83c\udf81 Rory W8KNX - A new travel trailer (yes, really)\n\n\ud83d\udcac NOW WE WANT TO HEAR FROM YOU!\nWhat did YOU bring home from Hamvention 2026? Drop your haul in the comments below. Score a deal? Find a unicorn in the flea market? Walk out with a project? Tell us what you got and what you can't wait to use first.\n\n\u23f1 Chapters:\n00:00 Intro\n01:55 South Lyon Club Members at the Flea Market\n02:49 Eric K8ERS\n07:18 Shane KF8BWN\n11:46 Nick KF8FLI\n13:38 Jim N8JRD\n17:31 Louis N8LEK\n21:05 John NU8M\n24:15 Ed W8EDE\n25:36 Mike W8MCV\n27:22 Rory W8KNX\n29:01 Closing Thoughts\n\n\ud83d\udd17 Featured Brands & Links\nWA4MCM Kits (PSR-100 satellite rotator): https://wa4mcmkits.com/psr-100/\nBegali Keys: https://www.i2rtf.com/\nGigaParts: https://www.gigaparts.com/\nElecraft: https://elecraft.com/\nModern Morse Paddles: https://www.modernmorsekeys.com/\nBuckmaster: https://www.buckmasterhamradio.com/\nPackTenna: https://www.packtenna.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this haul roundup and SUBSCRIBE for more ham radio news, Hamvention coverage, and community content!\n#HamRadio #Hamvention2026 #HamventionHaul"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "666",
-        "likeCount": "42",
-        "favoriteCount": "0",
-        "commentCount": "10"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "LmvM7nAXm9Amu_Yj99KHz5jx4fU",
-      "id": "q6eQQpxJBJY",
-      "snippet": {
-        "publishedAt": "2026-05-17T13:40:15Z",
-        "channelId": "UCK3ct4iOm2HqnOiv8sgMHxA",
-        "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-        "description": "The Everyday Ham crew took a rain break on day two of Hamvention 2026 to open up some GigaParts mystery boxes. Mike, W8MCV dropped $100 on his. Shane, KF8BWN went for the $50 special edition. None of us had any idea what was inside until the boxes came open on camera.\n\n\ud83c\udf81 The Setup:\nMike W8MCV \u2014 $100 GigaParts Mystery Box\nShane KF8BWN \u2014 $50 GigaParts Special Edition Mystery Box\nTwo hams, two boxes, one rainy afternoon at Dayton\n\nThe big question: did $150 between them buy actual value, or did we get a couple of paperweights?\n\ud83d\udd17 GigaParts\nhttps://www.gigaparts.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HamRadio #GigaParts #MysteryBox",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/q6eQQpxJBJY/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Everyday Ham",
-        "tags": [
-          "GigaParts Mystery Box",
-          "$100 Mystery Box",
-          "$50 Mystery Box",
-          "GigaParts Special Edition",
-          "GigaParts",
-          "Ham Radio Mystery Box",
-          "Mystery Box Unboxing",
-          "Hamvention 2026",
-          "Mike W8MCV",
-          "W8MCV",
-          "Ham Radio",
-          "Amateur Radio",
-          "Hamvention Coverage",
-          "Ham Radio Gear",
-          "Surprise Box",
-          "Everyday Ham",
-          "Hamfest"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-          "description": "The Everyday Ham crew took a rain break on day two of Hamvention 2026 to open up some GigaParts mystery boxes. Mike, W8MCV dropped $100 on his. Shane, KF8BWN went for the $50 special edition. None of us had any idea what was inside until the boxes came open on camera.\n\n\ud83c\udf81 The Setup:\nMike W8MCV \u2014 $100 GigaParts Mystery Box\nShane KF8BWN \u2014 $50 GigaParts Special Edition Mystery Box\nTwo hams, two boxes, one rainy afternoon at Dayton\n\nThe big question: did $150 between them buy actual value, or did we get a couple of paperweights?\n\ud83d\udd17 GigaParts\nhttps://www.gigaparts.com/\n\n\ud83c\udf99 Hosted by:\nJames K8JKU, Jim N8JRD, and Rory W8KNX\n\ud83c\udfa7 Listen to Everyday Ham as an Audio Podcast\nAvailable on Apple Podcasts, Spotify, Overcast, and more.\n\ud83d\udd17 https://www.everydayham.com/\n\ud83d\udcf2 Follow Everyday Ham:\nYouTube: @EverydayHam\nInstagram: https://www.instagram.com/everydayhampodcast/\nWebsite: https://www.everydayham.com/\n\n\ud83d\udd14 Hit LIKE if you enjoyed this episode and SUBSCRIBE for more ham radio news, gear coverage, POTA activations, and hamfest road trips!\n\n#HamRadio #GigaParts #MysteryBox"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "statistics": {
-        "viewCount": "3606",
-        "likeCount": "92",
-        "favoriteCount": "0",
-        "commentCount": "21"
       }
     }
   ]

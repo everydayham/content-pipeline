@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 23, 2026
+## November 24, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[How to add a link to an image stored on QRZ to your QRZ page?](https://forums.qrz.com/index.php?threads/how-to-add-a-link-to-an-image-stored-on-qrz-to-your-qrz-page.1010553/)** (QRZ Forums)
-- **[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)** (SWLing Post)
-- **[Ham Radio Tech: Poor Man’s Ham Satellite—A Linear Transponder on a High-Altitude Balloon](https://www.onallbands.com/ham-radio-tech-poor-mans-ham-satellite-a-linear-transponder-on-a-high-altitude-balloon/)** (OnAllBands)
+- **[Photos not showing up and question marks in their place.](https://forums.qrz.com/index.php?threads/photos-not-showing-up-and-question-marks-in-their-place.1010643/)** (QRZ Forums)
+- **[Radio Waves: Switzerland’s SRG Returns to FM, Radio Romania Personality of the Year 2026, Looking Back at VRT News, and Federal Funding for Public Media is Coming Back](https://swling.com/blog/2026/11/radio-waves-switzerlands-srg-returns-to-fm-radio-romania-personality-of-the-year-2026-looking-back-at-vrt-news-and-federal-funding-for-public-media-is-coming-back/)** (SWLing Post)
+- **[How to Get Comfortable with CW & Morse Code, Part 1](https://www.onallbands.com/how-to-get-comfortable-with-cw-morse-code-part-1/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
 ---
@@ -38,19 +38,28 @@
 
 ### QRZ Forums
 
-**[How to add a link to an image stored on QRZ to your QRZ page?](https://forums.qrz.com/index.php?threads/how-to-add-a-link-to-an-image-stored-on-qrz-to-your-qrz-page.1010553/)**
+**[Photos not showing up and question marks in their place.](https://forums.qrz.com/index.php?threads/photos-not-showing-up-and-question-marks-in-their-place.1010643/)**
 
-**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
+**[Today in Ham Radio: November 24, 1919: 1AW Back on the Air](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-24-1919-1aw-back-on-the-air.1010619/)**
 
-**[Charles K Chennault, WA5YOU SK November 21, 2026](https://forums.qrz.com/index.php?threads/charles-k-chennault-wa5you-sk-november-21-2026.1010546/)**
+**[Dottie & Dashiell: Shopping List](https://forums.qrz.com/index.php?threads/dottie-dashiell-shopping-list.1010604/)**
 
-**[Radios](https://forums.qrz.com/index.php?threads/radios.1010543/)**
+**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
 
-**[Today in Ham Radio: November 23, 1905: A Priest Sends Music by Wireless](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-23-1905-a-priest-sends-music-by-wireless.1010511/)**
+**[Radio Club Los Molinos CE2CQ "ARISS Villa Alemana 2026" at the 5th International Aerospace](https://forums.qrz.com/index.php?threads/radio-club-los-molinos-ce2cq-ariss-villa-alemana-2026-at-the-5th-international-aerospace.1010609/)**
 
 ---
 
 ### SWLing Post
+
+**[Radio Waves: Switzerland’s SRG Returns to FM, Radio Romania Personality of the Year 2026, Looking Back at VRT News, and Federal Funding for Public Media is Coming Back](https://swling.com/blog/2026/11/radio-waves-switzerlands-srg-returns-to-fm-radio-romania-personality-of-the-year-2026-looking-back-at-vrt-news-and-federal-funding-for-public-media-is-coming-back/)**
+> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Paul Jamet, and David Iurescia for the following tips:...
+
+**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond (November 22, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-november-22-2026/)**
+> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: The Eiffel Tower, Wavescan, Reach Beyond Australia, 17650 kHz Click here to view on YouTube.
+
+**[Thanksgiving, Samplers, The Beatles and some DRM](https://swling.com/blog/2026/11/thanksgiving-samplers-the-beatles-and-drm/)**
+> Once again we would like to say “Happy Thanksgiving season” to all shortwave listeners and our SWLing Post friends! Imaginary Stations is cooking up more great broadcasts for your shortwave radio/SDR listening pleasure. On Wednesday 25th November at 0300 hrs UTC on 9395 kHz via WRMI we have a...
 
 **[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)**
 > Many thanks to SWLing Post contributor Istvan Biliczky, who shares the following announcement: The TOP DX Radioclub’s annual Top 10 DX of the Year contest returns December 1st! The premise is simple, but the challenge is not: from 00:00 UTC December 1 to 24:00 UTC December 31, log receptions of 10...
@@ -58,18 +67,12 @@
 **[Jacob notes and records November WTWW transmitter problems](https://swling.com/blog/2026/11/jacob-notes-and-records-november-wtww-transmitter-problems/)**
 > Many thanks to SWLing Post contributor Jacob (K6UAA), who writes: Greetings, Below are three recordings I put on archive.org of WTWW melting down on the 15th of this month. The station is still off the air; before they shut it down, the audio was all on the lower sideband and badly leaking off...
 
-**[Carlos’ Illustrated Radio Listening Report and Recording of Multiple Broadcasters (November 19, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-multiple-broadcasters-november-19-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: Click here to view on YouTube.
-
-**[Dan Records the Alert System Test in Canada](https://swling.com/blog/2026/11/dan-records-the-alert-system-test-in-canada/)**
-> Many thanks to SWLing Post contributor Dan Greenall, who writes: Hi Thomas The Alert Ready System in Canada ran a test today, Wednesday, November 18, at 12:55 pm local time. All radio and TV stations, as well as cell phones, should have received a tone and subsequent message. It was well advertised...
-
-**[Demod: A Native SDR Receiver App for iPhone, iPad, and Android (Plus Ten Free iOS/Android Codes)](https://swling.com/blog/2026/11/demod-a-native-sdr-receiver-app-for-iphone-ipad-and-android-plus-ten-free-ios-android-codes/)**
-> Every now and then a developer reaches out with something that looks genuinely useful, and Demod is one of those. Alphonse Romero, an independent developer about four years into the hobby, first wrote to me a few months back and has been steadily shipping features since. Demod is a native SDR...
-
 ---
 
 ### OnAllBands
+
+**[How to Get Comfortable with CW & Morse Code, Part 1](https://www.onallbands.com/how-to-get-comfortable-with-cw-morse-code-part-1/)**
+> One of the most exciting ham radio events of 2026 is coming up in a few days: the CQ World Wide DX CW Contest (Nov. 28-29). This is a great […] The post How to Get Comfortable with CW & Morse Code, Part 1 appeared first on OnAllBands.
 
 **[Ham Radio Tech: Poor Man’s Ham Satellite—A Linear Transponder on a High-Altitude Balloon](https://www.onallbands.com/ham-radio-tech-poor-mans-ham-satellite-a-linear-transponder-on-a-high-altitude-balloon/)**
 > High-altitude ballooning (HAB) has long provided amateur radio experimenters with an accessible platform for testing airborne repeaters, long-range telemetry systems, and experimental communications payloads. Through successive flight campaigns, the Iowa […] The post Ham Radio Tech: Poor Man’s Ham...
@@ -82,9 +85,6 @@
 
 **[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)**
 > In Part 2 of our Ham Radio Holiday Gift Guide, we explored a range of excellent portable operating presents for the hams in your life, including transceivers, equipment cases, reference […] The post Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More appeared...
-
-**[Ham Radio Youth Insights: Attending the 2026 RSGB Convention](https://www.onallbands.com/ham-radio-youth-insights-attending-the-2026-rsgb-convention/)**
-> A few weeks ago, I headed to the airport to board a plane for the Radio Society of Great Britain (RSGB) Convention—the national amateur radio convention held annually in England. […] The post Ham Radio Youth Insights: Attending the 2026 RSGB Convention appeared first on OnAllBands.
 
 ---
 
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-23 22:28 UTC*
+*Generated: 2026-11-24 21:00 UTC*

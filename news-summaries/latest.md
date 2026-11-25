@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 24, 2026
+## November 25, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,9 +8,9 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[Photos not showing up and question marks in their place.](https://forums.qrz.com/index.php?threads/photos-not-showing-up-and-question-marks-in-their-place.1010643/)** (QRZ Forums)
-- **[Radio Waves: Switzerland’s SRG Returns to FM, Radio Romania Personality of the Year 2026, Looking Back at VRT News, and Federal Funding for Public Media is Coming Back](https://swling.com/blog/2026/11/radio-waves-switzerlands-srg-returns-to-fm-radio-romania-personality-of-the-year-2026-looking-back-at-vrt-news-and-federal-funding-for-public-media-is-coming-back/)** (SWLing Post)
-- **[How to Get Comfortable with CW & Morse Code, Part 1](https://www.onallbands.com/how-to-get-comfortable-with-cw-morse-code-part-1/)** (OnAllBands)
+- **[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)** (QRZ Forums)
+- **[Can you identify the radio Jon Voight carries in Midnight Cowboy?](https://swling.com/blog/2026/11/can-you-identify-the-radio-jon-voight-carries-in-midnight-cowboy/)** (SWLing Post)
+- **[Ham Radio Holiday Gift Guide 2026 Part 4–Shortwave Radios, GMRS Radios, Hand Crank Charger & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-4-shortwave-radios-gmrs-radios-hand-crank-charger-more/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
 ---
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
+**[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)**
+
 **[Photos not showing up and question marks in their place.](https://forums.qrz.com/index.php?threads/photos-not-showing-up-and-question-marks-in-their-place.1010643/)**
 
-**[Today in Ham Radio: November 24, 1919: 1AW Back on the Air](https://forums.qrz.com/index.php?threads/today-in-ham-radio-november-24-1919-1aw-back-on-the-air.1010619/)**
+**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[Dottie & Dashiell: Shopping List](https://forums.qrz.com/index.php?threads/dottie-dashiell-shopping-list.1010604/)**
+**[XM9M - 125th Anniversary of Marconi’s First Transatlantic Radio Communication.](https://forums.qrz.com/index.php?threads/xm9m-125th-anniversary-of-marconi%E2%80%99s-first-transatlantic-radio-communication.1010720/)**
 
-**[3X4U, Guinea Dxpedition 2026](https://forums.qrz.com/index.php?threads/3x4u-guinea-dxpedition-2026.1004923/)**
-
-**[Radio Club Los Molinos CE2CQ "ARISS Villa Alemana 2026" at the 5th International Aerospace](https://forums.qrz.com/index.php?threads/radio-club-los-molinos-ce2cq-ariss-villa-alemana-2026-at-the-5th-international-aerospace.1010609/)**
+**[S79/OL1T – Seychelles](https://forums.qrz.com/index.php?threads/s79-ol1t-%E2%80%93-seychelles.995339/)**
 
 ---
 
 ### SWLing Post
+
+**[Can you identify the radio Jon Voight carries in Midnight Cowboy?](https://swling.com/blog/2026/11/can-you-identify-the-radio-jon-voight-carries-in-midnight-cowboy/)**
+> Many thanks to SWLing Post contributor Paul Jamet, who writes: Hi Thomas, I just watched this video again: Macadam Cowboy (Midnight Cowboy—October 15, 1969)—Harry Nilsson, “Everybody’s Talkin'” The actor Jonathan Vincent Voight is walking around with a radio… A radio that I find hard to identify....
 
 **[Radio Waves: Switzerland’s SRG Returns to FM, Radio Romania Personality of the Year 2026, Looking Back at VRT News, and Federal Funding for Public Media is Coming Back](https://swling.com/blog/2026/11/radio-waves-switzerlands-srg-returns-to-fm-radio-romania-personality-of-the-year-2026-looking-back-at-vrt-news-and-federal-funding-for-public-media-is-coming-back/)**
 > Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Paul Jamet, and David Iurescia for the following tips:...
@@ -64,12 +67,12 @@
 **[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)**
 > Many thanks to SWLing Post contributor Istvan Biliczky, who shares the following announcement: The TOP DX Radioclub’s annual Top 10 DX of the Year contest returns December 1st! The premise is simple, but the challenge is not: from 00:00 UTC December 1 to 24:00 UTC December 31, log receptions of 10...
 
-**[Jacob notes and records November WTWW transmitter problems](https://swling.com/blog/2026/11/jacob-notes-and-records-november-wtww-transmitter-problems/)**
-> Many thanks to SWLing Post contributor Jacob (K6UAA), who writes: Greetings, Below are three recordings I put on archive.org of WTWW melting down on the 15th of this month. The station is still off the air; before they shut it down, the audio was all on the lower sideband and badly leaking off...
-
 ---
 
 ### OnAllBands
+
+**[Ham Radio Holiday Gift Guide 2026 Part 4–Shortwave Radios, GMRS Radios, Hand Crank Charger & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-4-shortwave-radios-gmrs-radios-hand-crank-charger-more/)**
+> If you’re looking for practical, safety-minded gifts for the holidays, DX Engineering has many great options sure to please your family and friends, whether they’re amateur radio enthusiasts or not. […] The post Ham Radio Holiday Gift Guide 2026 Part 4–Shortwave Radios, GMRS Radios, Hand Crank...
 
 **[How to Get Comfortable with CW & Morse Code, Part 1](https://www.onallbands.com/how-to-get-comfortable-with-cw-morse-code-part-1/)**
 > One of the most exciting ham radio events of 2026 is coming up in a few days: the CQ World Wide DX CW Contest (Nov. 28-29). This is a great […] The post How to Get Comfortable with CW & Morse Code, Part 1 appeared first on OnAllBands.
@@ -82,9 +85,6 @@
 
 **[New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB Electronic](https://www.onallbands.com/new-manufacturer-spotlight-ssb-low-noise-preamplifiers-much-more-from-ssb-electronic/)**
 > Visit DXEngineering.com and you’ll find all the familiar names of stalwarts from the ham radio world, including Alinco, Begali, Icom, Kenwood, Vibroplex,Yaesu, and many others. Spend some additional time on […] The post New Manufacturer Spotlight: SSB Low-Noise Preamplifiers & Much More from SSB...
-
-**[Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-3-pota-presents-antennas-portable-masts-more/)**
-> In Part 2 of our Ham Radio Holiday Gift Guide, we explored a range of excellent portable operating presents for the hams in your life, including transceivers, equipment cases, reference […] The post Ham Radio Holiday Gift Guide 2026 Part 3–POTA Presents: Antennas, Portable Masts & More appeared...
 
 ---
 
@@ -109,6 +109,9 @@
 
 ### EtherHam
 
+**[Linux: One Command — top](https://etherham.com/linux-one-command-top/)**
+> top answers one question: is my node busy, idle, or in trouble? Here's how to read its five summary lines and the process list, using a quiet node and a busy one during a live net. Source
+
 **[Weekly Report: November 19, 2026](https://etherham.com/weekly-report-november-19-2026/)**
 > Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
 
@@ -121,9 +124,6 @@
 **[Radios at Rest: Caring for Your Gear on the Shelf](https://etherham.com/radios-at-rest-caring-for-your-gear-on-the-shelf/)**
 > A modern handheld radio is a tiny computer with a battery and an RF circuit, and it can fail like one while it sits on the shelf. Here’s what Icom, Yaesu and Kenwood say about battery storage, plus simple habits for keeping idle gear ready to use. Source
 
-**[Weekly Report: November 12, 2026](https://etherham.com/weekly-report-november-12-2026/)**
-> Old, forgotten boxes were the week’s weak spot, from malware-laden Android TV boxes to a ransomed NAS, while MeshCore kept growing, the 16GB Raspberry Pi 5 hit $385, and Luxembourg’s longwave masts came down. Plus band conditions, digital radio news, and the Groups.io digest. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-24 21:00 UTC*
+*Generated: 2026-11-25 20:23 UTC*

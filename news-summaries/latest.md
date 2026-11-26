@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 25, 2026
+## November 26, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,8 +8,8 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)** (QRZ Forums)
-- **[Can you identify the radio Jon Voight carries in Midnight Cowboy?](https://swling.com/blog/2026/11/can-you-identify-the-radio-jon-voight-carries-in-midnight-cowboy/)** (SWLing Post)
+- **[ZC4MK – Cyprus SBA](https://forums.qrz.com/index.php?threads/zc4mk-%E2%80%93-cyprus-sba.896152/)** (QRZ Forums)
+- **[Happy Thanksgiving!](https://swling.com/blog/2026/11/happy-thanksgiving-4/)** (SWLing Post)
 - **[Ham Radio Holiday Gift Guide 2026 Part 4–Shortwave Radios, GMRS Radios, Hand Crank Charger & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-4-shortwave-radios-gmrs-radios-hand-crank-charger-more/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
 
@@ -38,19 +38,22 @@
 
 ### QRZ Forums
 
-**[8th Annual 12 Days of Christmas is less than a month away!](https://forums.qrz.com/index.php?threads/8th-annual-12-days-of-christmas-is-less-than-a-month-away.1009820/)**
+**[ZC4MK – Cyprus SBA](https://forums.qrz.com/index.php?threads/zc4mk-%E2%80%93-cyprus-sba.896152/)**
 
-**[Photos not showing up and question marks in their place.](https://forums.qrz.com/index.php?threads/photos-not-showing-up-and-question-marks-in-their-place.1010643/)**
+**[KF0QGT/6Y - Jamaica](https://forums.qrz.com/index.php?threads/kf0qgt-6y-jamaica.1010796/)**
+
+**[They Could Hear Across the Ocean. Answering Was Another Matter.](https://forums.qrz.com/index.php?threads/they-could-hear-across-the-ocean-answering-was-another-matter.1010788/)**
 
 **[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
 
-**[XM9M - 125th Anniversary of Marconi’s First Transatlantic Radio Communication.](https://forums.qrz.com/index.php?threads/xm9m-125th-anniversary-of-marconi%E2%80%99s-first-transatlantic-radio-communication.1010720/)**
-
-**[S79/OL1T – Seychelles](https://forums.qrz.com/index.php?threads/s79-ol1t-%E2%80%93-seychelles.995339/)**
+**[7Q7EC - Malawi](https://forums.qrz.com/index.php?threads/7q7ec-malawi.1010779/)**
 
 ---
 
 ### SWLing Post
+
+**[Happy Thanksgiving!](https://swling.com/blog/2026/11/happy-thanksgiving-4/)**
+> Here in the States, we’re celebrating Thanksgiving tomorrow. It’s my favorite holiday because it’s all about giving thanks and spending time with friends, family, and eating some amazing food. It’s also a holiday that reminds me of one of the things I love most about this hobby of ours: no matter...
 
 **[Can you identify the radio Jon Voight carries in Midnight Cowboy?](https://swling.com/blog/2026/11/can-you-identify-the-radio-jon-voight-carries-in-midnight-cowboy/)**
 > Many thanks to SWLing Post contributor Paul Jamet, who writes: Hi Thomas, I just watched this video again: Macadam Cowboy (Midnight Cowboy—October 15, 1969)—Harry Nilsson, “Everybody’s Talkin'” The actor Jonathan Vincent Voight is walking around with a radio… A radio that I find hard to identify....
@@ -63,9 +66,6 @@
 
 **[Thanksgiving, Samplers, The Beatles and some DRM](https://swling.com/blog/2026/11/thanksgiving-samplers-the-beatles-and-drm/)**
 > Once again we would like to say “Happy Thanksgiving season” to all shortwave listeners and our SWLing Post friends! Imaginary Stations is cooking up more great broadcasts for your shortwave radio/SDR listening pleasure. On Wednesday 25th November at 0300 hrs UTC on 9395 kHz via WRMI we have a...
-
-**[The Top 10 DX of the Year Contest Returns December 1, 2026](https://swling.com/blog/2026/11/the-top-10-dx-of-the-year-contest-returns-december-1-2026/)**
-> Many thanks to SWLing Post contributor Istvan Biliczky, who shares the following announcement: The TOP DX Radioclub’s annual Top 10 DX of the Year contest returns December 1st! The premise is simple, but the challenge is not: from 00:00 UTC December 1 to 24:00 UTC December 31, log receptions of 10...
 
 ---
 
@@ -109,6 +109,12 @@
 
 ### EtherHam
 
+**[Weekly Report: November 26, 2026](https://etherham.com/weekly-report-november-26-2026/)**
+> The FCC just cleared SpaceX for a million more satellites. Here's what that could mean for ham satellites, plus a Windows lock-screen hole that BitLocker won't stop. Then the Short Stack: old gear finding new jobs, SDRs shrinking into pockets and browser tabs, and a busy week for mesh and off-grid...
+
+**[From Chromebook to AllStar Node: Debian 13 on a $75 Lenovo 100e](https://etherham.com/chromebook-to-allstar-node-on-lenovo-100e/)**
+> I paid $89 for a refurbished Lenovo 100e Chromebook that Google no longer updates, replaced its firmware, installed Debian 13, and turned it into a quiet AllStar node with its own battery backup. Here's how the conversion went, including the battery connector that looks hinged but isn't, a firmware...
+
 **[Linux: One Command — top](https://etherham.com/linux-one-command-top/)**
 > top answers one question: is my node busy, idle, or in trouble? Here's how to read its five summary lines and the process list, using a quiet node and a busy one during a live net. Source
 
@@ -118,12 +124,6 @@
 **[Previously Owned: Checking a Used Windows Laptop From eBay](https://etherham.com/previously-owned-checking-a-used-windows-laptop-from-ebay/)**
 > My spare Surface died, so I bought a used ThinkPad X1 Carbon on eBay. Before trusting it, I checked the battery, the BIOS, the screen and for leftover company locks, then reset it from the cloud. Here’s the checklist I used. Source
 
-**[Pulling My Kenwood TH-D7 Out of Storage](https://etherham.com/pulling-my-kenwood-th-d7-out-of-storage/)**
-> I found my old Kenwood TH-D7A in a storage box. It’s the 1998 radio that put APRS in hams’ hands, and the grandfather of today’s TH-D74 and TH-D75. Here’s its history, what still works today, why it beats my D74 for FM satellites, and why it couldn’t talk to my AllStar node. Source
-
-**[Radios at Rest: Caring for Your Gear on the Shelf](https://etherham.com/radios-at-rest-caring-for-your-gear-on-the-shelf/)**
-> A modern handheld radio is a tiny computer with a battery and an RF circuit, and it can fail like one while it sits on the shelf. Here’s what Icom, Yaesu and Kenwood say about battery storage, plus simple habits for keeping idle gear ready to use. Source
-
 ---
 
 ## 💡 Potential Episode Topics
@@ -132,4 +132,4 @@
 
 ---
 
-*Generated: 2026-11-25 20:23 UTC*
+*Generated: 2026-11-26 20:00 UTC*

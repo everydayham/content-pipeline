@@ -1,5 +1,5 @@
 # Amateur Radio News Summary
-## November 26, 2026
+## November 27, 2026
 
 *Auto-generated from 6 sources*
 
@@ -8,10 +8,10 @@
 ## 📻 Quick Highlights
 
 - **[The ARRL Solar Update](http://www.arrl.org/news/view/the-arrl-solar-update-50)** (ARRL)
-- **[ZC4MK – Cyprus SBA](https://forums.qrz.com/index.php?threads/zc4mk-%E2%80%93-cyprus-sba.896152/)** (QRZ Forums)
-- **[Happy Thanksgiving!](https://swling.com/blog/2026/11/happy-thanksgiving-4/)** (SWLing Post)
+- **[Inside VK9XY: The Young Hams Behind the Christmas Island Pileups](https://forums.qrz.com/index.php?threads/inside-vk9xy-the-young-hams-behind-the-christmas-island-pileups.1010857/)** (QRZ Forums)
 - **[Ham Radio Holiday Gift Guide 2026 Part 4–Shortwave Radios, GMRS Radios, Hand Crank Charger & More](https://www.onallbands.com/ham-radio-holiday-gift-guide-2026-part-4-shortwave-radios-gmrs-radios-hand-crank-charger-more/)** (OnAllBands)
 - **[SOTA On Madonna Dome (W0C/SP-051)](https://www.k0nr.com/wordpress/2026/11/madonna-dome-w0c-sp-051/)** (K0NR)
+- **[Weekly Report: November 26, 2026](https://etherham.com/weekly-report-november-26-2026/)** (EtherHam)
 
 ---
 
@@ -38,34 +38,15 @@
 
 ### QRZ Forums
 
-**[ZC4MK – Cyprus SBA](https://forums.qrz.com/index.php?threads/zc4mk-%E2%80%93-cyprus-sba.896152/)**
+**[Inside VK9XY: The Young Hams Behind the Christmas Island Pileups](https://forums.qrz.com/index.php?threads/inside-vk9xy-the-young-hams-behind-the-christmas-island-pileups.1010857/)**
 
-**[KF0QGT/6Y - Jamaica](https://forums.qrz.com/index.php?threads/kf0qgt-6y-jamaica.1010796/)**
+**[Crowdfunding for ham radio-inspired short film](https://forums.qrz.com/index.php?threads/crowdfunding-for-ham-radio-inspired-short-film.873239/)**
 
-**[They Could Hear Across the Ocean. Answering Was Another Matter.](https://forums.qrz.com/index.php?threads/they-could-hear-across-the-ocean-answering-was-another-matter.1010788/)**
+**[Icom shows all new IC-7110 that replaces IC-7100!](https://forums.qrz.com/index.php?threads/icom-shows-all-new-ic-7110-that-replaces-ic-7100.1002143/)**
 
-**[VK9XY – Christmas Island 2026](https://forums.qrz.com/index.php?threads/vk9xy-%E2%80%93-christmas-island-2026.997827/)**
+**[Santa Claus Returns to Amateur Radio for 21st Annual Santa Net](https://forums.qrz.com/index.php?threads/santa-claus-returns-to-amateur-radio-for-21st-annual-santa-net.1010403/)**
 
-**[7Q7EC - Malawi](https://forums.qrz.com/index.php?threads/7q7ec-malawi.1010779/)**
-
----
-
-### SWLing Post
-
-**[Happy Thanksgiving!](https://swling.com/blog/2026/11/happy-thanksgiving-4/)**
-> Here in the States, we’re celebrating Thanksgiving tomorrow. It’s my favorite holiday because it’s all about giving thanks and spending time with friends, family, and eating some amazing food. It’s also a holiday that reminds me of one of the things I love most about this hobby of ours: no matter...
-
-**[Can you identify the radio Jon Voight carries in Midnight Cowboy?](https://swling.com/blog/2026/11/can-you-identify-the-radio-jon-voight-carries-in-midnight-cowboy/)**
-> Many thanks to SWLing Post contributor Paul Jamet, who writes: Hi Thomas, I just watched this video again: Macadam Cowboy (Midnight Cowboy—October 15, 1969)—Harry Nilsson, “Everybody’s Talkin'” The actor Jonathan Vincent Voight is walking around with a radio… A radio that I find hard to identify....
-
-**[Radio Waves: Switzerland’s SRG Returns to FM, Radio Romania Personality of the Year 2026, Looking Back at VRT News, and Federal Funding for Public Media is Coming Back](https://swling.com/blog/2026/11/radio-waves-switzerlands-srg-returns-to-fm-radio-romania-personality-of-the-year-2026-looking-back-at-vrt-news-and-federal-funding-for-public-media-is-coming-back/)**
-> Radio Waves: Stories Making Waves in the World of Radio Welcome to the SWLing Post’s Radio Waves, a collection of links to interesting stories making waves in the world of radio. Enjoy! Many thanks to SWLing Post contributors Richard Cuff, Paul Jamet, and David Iurescia for the following tips:...
-
-**[Carlos’ Illustrated Radio Listening Report and Recording of Reach Beyond (November 22, 2026)](https://swling.com/blog/2026/11/carlos-illustrated-radio-listening-report-and-recording-of-reach-beyond-november-22-2026/)**
-> Many thanks to SWLing Post contributor and noted political cartoonist Carlos Latuff, who shares the following illustrated radio listening report. Carlos notes: The Eiffel Tower, Wavescan, Reach Beyond Australia, 17650 kHz Click here to view on YouTube.
-
-**[Thanksgiving, Samplers, The Beatles and some DRM](https://swling.com/blog/2026/11/thanksgiving-samplers-the-beatles-and-drm/)**
-> Once again we would like to say “Happy Thanksgiving season” to all shortwave listeners and our SWLing Post friends! Imaginary Stations is cooking up more great broadcasts for your shortwave radio/SDR listening pleasure. On Wednesday 25th November at 0300 hrs UTC on 9395 kHz via WRMI we have a...
+**[3Y6BUA – Troll Station, Antarctica](https://forums.qrz.com/index.php?threads/3y6bua-%E2%80%93-troll-station-antarctica.1010017/)**
 
 ---
 
@@ -132,4 +113,4 @@
 
 ---
 
-*Generated: 2026-11-26 20:00 UTC*
+*Generated: 2026-11-27 19:49 UTC*
